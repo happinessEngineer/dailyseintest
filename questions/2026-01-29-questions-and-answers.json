@@ -1,0 +1,106 @@
+{
+  "gameNumber": 392,
+  "date": "2026-01-29",
+  "questions": [
+    {
+      "quote": "Alright. I'm ready.  You know, I still don't understand - why do you want to move back in with your parents?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Rula",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's because you don't know how to follow through correctly.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carrie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, right!  Right! Hey, hey.. I love the floors in here. It's like a gymnasium in here! Try and guard me! (Dribbles an imaginary ball",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What d'you think is the matter? I've been assigned to work on Kramer's coffee table book.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ron",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She wants to keep it quiet. She... thinks we have a real future together.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well this is it. The food is atrocious, but the busboys are the best in the city.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. So, he caught me in a cleavage peek, so big deal. Who wouldn't look at his daughter's cleavage? She's got nice cleavage.",
+      "characters": [
+        "George",
+        "Morty",
+        "Vanessa",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "..except that the dude plays the showroom and I'm stuck doing food and beveridged!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why Rachel had to drive back with Michael and Carol.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who is more important to you, her or me? I like you, she doesn't. Who are you gonna pick?",
+      "characters": [
+        "Karen",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Karen"
+    }
+  ]
+}

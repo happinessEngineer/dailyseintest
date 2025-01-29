@@ -1,0 +1,106 @@
+{
+  "gameNumber": 895,
+  "date": "2027-06-16",
+  "questions": [
+    {
+      "quote": "Come on. What's the big deal? Just gonna put a little concrete in the washing machine.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, man. You know what... they got the fudge on the bottom-- y'see? That enables you to control your fudge distribution as you're eatin' your ice cream.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Pam"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Is that so unforgivable? Is that like breaking a commandment? Did God say to Moses thou shalt not pick?",
+      "characters": [
+        "Elaine",
+        "Todd",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no. Don't do it. Don't do it! For my sake! God knows I don't ask you for much!  Now, come on. Please, Jerry. Please! I'm beggin' ya! Please!  Come on! Please!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I found this rope and I kept tugging on it, and all these lobsters came up.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh come on, we're gonna start doing this now? I can't be taking all your dry-cleaning in!",
+      "characters": [
+        "Jerry",
+        "Ron",
+        "Kramer",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my god. Yes, you close with the swirl. There's a progression there. I told you to write it down.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Detective",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What a surprise.  Hey, how ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no more cockfighting. Let's just sell him to Marcelino the cockfighter and be done with it!",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "…Then, the last person to leave is Wilhelm.  He sees my car, he figures I'm burning the midnight oil.  Between the two of them, they think I'm working an 18 hour day!",
+      "characters": [
+        "Wyck",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 604,
+  "date": "2026-08-29",
+  "questions": [
+    {
+      "quote": "Really? My father has a ton of old clothes just sitting up in the attic, y-you think they're worth something?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Knick game. Horneck took me. We were sitting two rows behind the bench. We're getting hit by sweat!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, Tiny. I wanna know where Kramer is and wanna know now!",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well that was a really stupid thing! You know what's going to happen now?",
+      "characters": [
+        "George",
+        "Cop",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I- I'm pretty sure I left it eh, behind the cushion of the chair ... accidentally.",
+      "characters": [
+        "Ned",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, enough! Enough! From now on, no more yada yada's. Just give me the full story.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Donna",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no, no, no...you sit right here...I will get you a nice snack.",
+      "characters": [
+        "Farkus",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's God's plan. He doesn't really want anyone to get together.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, I just wanted to let you know I'm really sorry that happened, and if I can help out in any way, I'll certainly be glad to do that.  Well, I guess that's about it.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't stand doing laundry. That's why I have forty pairs of underwear.",
+      "characters": [
+        "Elaine",
+        "Joel",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

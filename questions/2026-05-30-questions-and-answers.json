@@ -1,0 +1,106 @@
+{
+  "gameNumber": 513,
+  "date": "2026-05-30",
+  "questions": [
+    {
+      "quote": "Well, I took the liberty of packing your things.  Mom's coming to get you.",
+      "characters": [
+        "Kruger",
+        "Bob",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I just got it. Spector gave it to me , he's giving everything away...becoming a minimalist.",
+      "characters": [
+        "George",
+        "Wendy",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know why? Because people like to say \"salsa.\" \"Excuse me, do you have salsa?\" \"We need more salsa.\" \"Where is the salsa? No salsa?\"",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Cop",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe for her new performance piece she'll give birth on stage.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I transferred everything in there. I threw out my old book. I'm lost now, Kramer.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mary",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, just 'cause I went in front first doesn't mean I'm sneaking in.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Hey! Watch it! Did you see that guy? He just gave me the finger!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Years. When we were kids, they made it seem like it was right around the corner.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Guy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...and then the ball hits him in the head and he falls right over the railing!",
+      "characters": [
+        "Frank",
+        "Craig",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And now as Festivus rolls on, we come to the feats of strength.",
+      "characters": [
+        "Conrad",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

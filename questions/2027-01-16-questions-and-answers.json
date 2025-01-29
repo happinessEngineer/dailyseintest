@@ -1,0 +1,106 @@
+{
+  "gameNumber": 744,
+  "date": "2027-01-16",
+  "questions": [
+    {
+      "quote": "Look at him, Elaine. How gorgeous is he? I ask you, how gorgeous?",
+      "characters": [
+        "Woman",
+        "George",
+        "Carol",
+        "Poppie"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Went up to the Cape. Took the kids sailing.  Lisa was a little scared at first, but that kids' gonna be a good sailor someday.",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "Dan",
+        "Lloyd"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "There is no problem. . . just a small miscommunication. Whereby you thanked her instead of the person actually responsible for purchasing the big salad.",
+      "characters": [
+        "Jerry",
+        "Ray",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. \"Suze!\" I mean, \"Suzie!\" \"Suzanne!\" \"Suzanna.\" Fine! But there is no, way, I'm gonna be a Suze.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course. So, I'm looking at it. I look up, I see she's looking at it. Our eyes lock. It was a horrible moment. I just..",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on, we'll go and talk to him, and we'll straighten this thing out.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Saturday night with your parents. Unless I'm your sister this is a date.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let me ask you something. What do you do for a living, Newman?",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've always been lucky. Things just seem to fall right in my lap.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Levitan"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "What move? *My* move. The one I told you about. You used it on Elaine.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wendy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

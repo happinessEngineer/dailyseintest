@@ -1,0 +1,106 @@
+{
+  "gameNumber": 561,
+  "date": "2026-07-17",
+  "questions": [
+    {
+      "quote": "Well I'm very disappointed in George and Elaine. And you know I'm somebody you don't want to have on your bad side.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You do realize, of course, these are illegal in your country.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Kramer",
+        "Regis"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Nah, he was tired. He had some feet in his face. My cousin Holly is completely insane. She keeps calling and accusing me of stealing her napkins.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See that was nice, Jerry.  Oh, by the way, I'm the one who broke your trunk.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Kevin",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh... ...clothing, something, I dunno. So, uh, what are you doing today?",
+      "characters": [
+        "Kramer",
+        "Toby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I just wanna run and get a beer. I'll be back in a minute.",
+      "characters": [
+        "Doorman",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Do you know how much that comes to? That's a nickel a day for 20 years. It's going to be $50,000",
+      "characters": [
+        "Voice",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well does it say anywhere in the contract about my car being used as a whorehouse? 'Cause I don't remember reading that clause either..",
+      "characters": [
+        "Tony",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you can't have it! In fact maybe you better just pay your check and get out.",
+      "characters": [
+        "Kramer",
+        "Marcelino",
+        "Jerry",
+        "Waitress"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Oh, I'll be inaugrating them this weekend, with none other than Ethel Kennedy. A woman whose triumph in the face of tragedy is exceeded only by her proclivity to procreate.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 975,
+  "date": "2027-09-04",
+  "questions": [
+    {
+      "quote": "Nodding off!... Well, I was right. He's an adulterer. And he's cheating on his wife with me!",
+      "characters": [
+        "Elaine",
+        "Connie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, to tell you the truth, Dr. Feffa, I , I was surprised to hear you use a word like breathtaking to describe a baby, I mean, because you also used it referring to me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Alec",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh God. I lost a button, so my blouse was wide open. I musta left it at the theatre.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Bob"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, you should get your cousin Jeffrey to write some material for you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "What for? This man was nice enough to see you. He did me a personal favor.",
+      "characters": [
+        "Leo",
+        "Elaine",
+        "George",
+        "Abby"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "We can't have 2 Cocos. So I guess you're back to being George.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gary",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Oh, that is so terrible. That is so terrible, Jake. I mean, how can people be so stupid? Just sickening.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, my God, look at that.  David and Beth Lookner.  You know, I heard a rumor their marriage was a little rocky.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Great! Well, take a look around. Pick out something you like.",
+      "characters": [
+        "Elaine",
+        "Nina",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Super bowl! Hey, an original G.I. Joe.  With a full frogman suit.",
+      "characters": [
+        "Jerry",
+        "Katie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

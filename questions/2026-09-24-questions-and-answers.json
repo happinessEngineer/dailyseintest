@@ -1,0 +1,106 @@
+{
+  "gameNumber": 630,
+  "date": "2026-09-24",
+  "questions": [
+    {
+      "quote": "I'm feelin' a bit queasy myself. Maybe I'll see you in another five years.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We sat there for twenty minutes, chewing, staring at each other in a defunct relationship.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "Fred",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Then, after a period of being \"there for you\", we slowly remove the two words \"for you\", and we're just  \"there\".",
+      "characters": [
+        "Estelle",
+        "Michael",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, well, of course, but, even so, you may wanna talk to a lawyer.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I slept in really hot rooms and I wanted to kill myself.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She put them in her pocket book. She probably took them out there with her.",
+      "characters": [
+        "George",
+        "Jake",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I didn't even ask her out. She asked me out first. She called me up. What was I supposed to do? Say no?  I can't do that to someone.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Got to invite The Drake. Listen hem...there's something that's been on my mind and we haven't really talked about it..I t's kind of important to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ronnie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, The New Yorker, I've met with their cartoon editor and I got him to admit that that cartoon ...MADE NO SENSE....",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Jerry, we have a little surprise for you! Come on out, Celia!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 7,
+  "date": "2025-01-09",
+  "questions": [
+    {
+      "quote": "Well, of course you don't. You don't have a proper workstation. I'll fax you over my catalogue.",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Brett",
+        "Jerry"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "To cease and desist on behalf of my client, Jerry Seinfeld. Signed ; Crybaby Jerry Seinfeld's Lawyer. Ok but I got two words for you Jerry Seinfeld......You",
+      "characters": [
+        "Donna",
+        "George",
+        "Kramer",
+        "Sally"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "That's ridiculous, I want to return it. What's the difference what the reason is.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, she'd be better off making a sandwich at home and bringing it in.  Hello, ah, George will you excuse me.",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Patty",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Right, can we go? 'Cause I'm double-parked, I'm gonna get a ticket.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sperry Rand Building. 14th floor, Morgan Apparel. Mention my name - she'll give you the key.",
+      "characters": [
+        "Worker",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, that looks like an allergic reaction. Have you been wearing a fake beard?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on lets go. I got the helmet. Lets get the radar detector.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Have you seen the waitresses in there lately? I never had so much coffee in my life.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "One more thing, Benes, regarding sexual activity: Strictly prohibited, but if you absolutely must, do us all a big favour. Do it in the tub.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Receptionist",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

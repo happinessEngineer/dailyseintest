@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1063,
+  "date": "2027-12-01",
+  "questions": [
+    {
+      "quote": "Goodnight. Oh, Jer, by the way, the woman we gave a ride to earlier tonight,",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Yeah! Get in there and give her a call. Pick up the phone and call her!",
+      "characters": [
+        "George",
+        "Raymond",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "*I* think that *you* think that a certain *something* is not all that it could be, when in fact it is is all that it *should* be, and *more*!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I must've had at least eight in my mouth. I couldn't talk. I couldn't talk!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, flowers. You didn't have to do that. I mean, the dinner, and the play, and the hansom cab ride.",
+      "characters": [
+        "George",
+        "Valerie",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "He'd be perfect for my movie. This is a once-in-a-lifetime opportunity.  I gotta go over there, I gotta give him a copy of my treatment.",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what this funeral's gonna wind up costing me? Oh boy!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Do you know what happens to a butter-based frosting after six decades in a poorly ventilated English basement?",
+      "characters": [
+        "Jerry",
+        "Hanke",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "What does he do with all that fat? Does he just jump up and down on it? Does he gouge it like Killer Kowalski?",
+      "characters": [
+        "Hoyt",
+        "Kramer",
+        "Saleswoman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Between you and me I think your country is placing a lot of importance on shoe removal.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

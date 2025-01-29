@@ -1,0 +1,106 @@
+{
+  "gameNumber": 183,
+  "date": "2025-07-04",
+  "questions": [
+    {
+      "quote": "You know, if it was a regular salad I wouldn't have said anything. But you had to have the BIG SALAD.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Valerie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I spoke to a cab driver. For five bucks, he turned me on to the Rockaway Boulevard shortcut.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no. No. I don't want to sit in the back. I'll be left out of the conversation.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I once told a woman that I don't eat cake 'cause it goes right to my thighs.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, look at this one! It's saying, 'I'm a coffee table, put some coffee on me! Oh, the hotter the better, that's what I'm here for!'",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "Toby",
+        "Jerry"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Oh.  I talked to Arthur Jobanian.  Yeah, the Drake's wedding?  That's off.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, well, if you repeat the name of the gift, you can't possibly like it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Sheila"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and I got about ten feet down and I felt this tremendous pressure on my mask. Like my eyeballs were being sucked out of their sockets.",
+      "characters": [
+        "Harold",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you're looking at the new Santa at Coleman's Department store.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What kinda great friend are you? How do you go from snubbing to kissing?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

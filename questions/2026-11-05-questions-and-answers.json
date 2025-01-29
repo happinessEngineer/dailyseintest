@@ -1,0 +1,106 @@
+{
+  "gameNumber": 672,
+  "date": "2026-11-05",
+  "questions": [
+    {
+      "quote": "Yeah, You can't believe this woman. She's one of those low-talkers. You can't hear a word she's saying! You're always going 'excuse me?', 'what was that?'",
+      "characters": [
+        "Donald",
+        "Regis",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Five seconds. And Marcelino says he's taking your check down today.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute, I think he's done.  Oh no, he's taking out the woods!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Nurse",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, motor oil is the lifeblood of a car. Okay, you put in a low-grade oil, you could damage vital engine parts. Okay.  See this gasket?  I have no confidence in that gasket.",
+      "characters": [
+        "Kramer",
+        "Tony",
+        "Gavin",
+        "George"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "You're wearing the same clothes as yesterday!!!  You saw Puddy!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You want my friend to ask his uncle, a man who just lost his wife of 44 years, for a death certificate so that he can save a few bucks on a flight?",
+      "characters": [
+        "Newman",
+        "Bruce",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well then we saw this woman, and she was wearing a bra with no top.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, if you got any juice left, you might wanna roll by the big showcase tonight.",
+      "characters": [
+        "Jerry",
+        "Levitan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my God! I'm sorry, I thought this was the baby's room. I'm really sorry.",
+      "characters": [
+        "Rachel",
+        "Kramer",
+        "Cynthia",
+        "Guy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, The Muted Heart. Glen Close. Sally Field. Well, that should be good.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 122,
+  "date": "2025-05-04",
+  "questions": [
+    {
+      "quote": "What does it mean anyway? 'God bless you'. It's a stupid 'stuperstition'.",
+      "characters": [
+        "Puddy",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know, Jerry. It's okay.  Yeah, look, Brody. Uh, Jerry wants to do the bootleg. He's dyin' to do it. But if you don't make him happy, the work suffers. And then, nobody's happy.",
+      "characters": [
+        "Kramer",
+        "Tor",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "From Elaine. She got tied up. She'll be here in thirty minutes.",
+      "characters": [
+        "Jerry",
+        "Cop",
+        "Alton",
+        "Owner"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "Losing? You know, yesterday I lost control of my car, almost bought the farm.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, look, he's going to ask you about my arm. So, just tell him I banged it against a desk. And it's been moving involuntarily ever since.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, the Grace building. There's a big stain on the front. How do we get it off?",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Kruger",
+        "Morty"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Boy, you're on quite a streak. Job promotion, plus you're back with Jake Jarmal.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm putting up Frank's screen door. This beauty's got a little life in her yet.",
+      "characters": [
+        "Frank",
+        "Bania",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She probably never heard it. Don't you see what this means? It's like the whole thing never happened. It's like when Superman reversed the rotation of the earth to save Lois Lane!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, well, It's a very private matter, but it's extremely urgent.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

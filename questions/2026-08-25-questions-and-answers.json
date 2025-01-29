@@ -1,0 +1,106 @@
+{
+  "gameNumber": 600,
+  "date": "2026-08-25",
+  "questions": [
+    {
+      "quote": "Alright, I'll tell you what you do. You call her back and give her the \"it's me\", heh? Pull the old switcheroo.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mrs. Sweedler thank you. Y-You see, this tragedy affected me in a very, very personal way.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Carol",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. The thing is, I, uh...I had this little zinger of my own I wanted to try.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Willie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nah, now it's on TV. It's different. I told everybody I know to watch it.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aw, I've just got to say it once, everybody else gets to say it, why can't I say it?",
+      "characters": [
+        "George",
+        "Mickey",
+        "Lena",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I heard that you have a very uh, special birthday card .with all the Yankee autographs on it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You are not going to believe what happened to me at the doctors office today.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jimmy",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what you're doing, don't you? You're killing Independent Jerry! I gotta go see my Uncle Leo. I think he may have made a big mistake.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This isn't going to work for me ... so if you could show me something else.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. Hey, how come people don't have dip for dinner? Why is it only a snack, why can't it be a meal, you know? I don't understand stuff like that.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Kramer",
+        "Lloyd"
+      ],
+      "correctAnswer": "Puddy"
+    }
+  ]
+}

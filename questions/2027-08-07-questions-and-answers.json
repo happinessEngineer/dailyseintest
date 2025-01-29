@@ -1,0 +1,106 @@
+{
+  "gameNumber": 947,
+  "date": "2027-08-07",
+  "questions": [
+    {
+      "quote": "O'Henry?  That's one of our top-selling candy bars.  It's got chocolate, peanuts, nougat, it's delicious, scrumptious, outstanding!  Have you been to a doctor?",
+      "characters": [
+        "Jackie",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You have no idea what an idiot is. Elaine just gave me a chance to get out and I didn't take it.  This is an idiot.",
+      "characters": [
+        "Voice",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm gonna call the cops. That?s what I?m doing, I?m calling the cops.",
+      "characters": [
+        "Ned",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure! ... Okay... Don't worry, I'm taking MY car! ... okay... okay, see you later... bye...",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm out! Fantastic apartment right across from mine, huh. I can't wait for you to see it.",
+      "characters": [
+        "Corinne",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, frankly, I'm getting a little tired of hearing about her.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Audrey",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Ah! Jerry I've been around long enough to know when I'm being worked.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Buckles"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah that's it. All right, I'm going to go down to the precinct. I'm going to have lunch with Lou.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Corinne",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, I don't know what to tell you, but there's no hat here. I mean, maybe the maid took it, I had people over, but...",
+      "characters": [
+        "Heather",
+        "Nina",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Heather"
+    },
+    {
+      "quote": "What are you doing? We're going out for dinner in ten minutes.",
+      "characters": [
+        "Elaine",
+        "Rava",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 877,
+  "date": "2027-05-29",
+  "questions": [
+    {
+      "quote": "If I didn't do it with you, I would have done it with someone else.",
+      "characters": [
+        "Katie",
+        "Jerry",
+        "Elaine",
+        "Robin"
+      ],
+      "correctAnswer": "Robin"
+    },
+    {
+      "quote": "And you know when you think about it it's really quite an amusing case of mistaken identity. That's all it is.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well we were standing uh, inn the waiting area there, and you know how Devola is. He's all, ...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Waitress"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah well King Edward didn't live in Queens with Frank and Estelle Costanza.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kevin",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's it! I cannot take this! I mean, look at this, nothing has changed. We've been back together two hours, we're having the same problems we had 12 hours ago.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't think we should. We really don't know each other very well.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, In fact, her mother is in the hospital right now. It's some kind of a Diverticulitis.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's not that easy. It's like \"Beat The Clock,\" there's a lot of pressure there.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean.. a person needs a certain amount of toilet paper to be covered.. I simply could not spare it this woman just didn't get it, she kept harassing me",
+      "characters": [
+        "Elaine",
+        "Jane",
+        "Frank",
+        "Marlene"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Anyway, she wants to meet me! She invited me over for dinner!",
+      "characters": [
+        "Rachel",
+        "Jerry",
+        "Kramer",
+        "Donna"
+      ],
+      "correctAnswer": "Donna"
+    }
+  ]
+}

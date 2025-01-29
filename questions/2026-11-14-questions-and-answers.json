@@ -1,0 +1,106 @@
+{
+  "gameNumber": 681,
+  "date": "2026-11-14",
+  "questions": [
+    {
+      "quote": "Ah, and I got a date with the sales woman. She's got a little Marisa Tomei thing going on.",
+      "characters": [
+        "George",
+        "Vivian",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, but I can tell she's going to. I can sense it. We had this terrible phone conversation. I was so nervous before I called I made up this whole list of things to talk about.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, we got 'im. I'm riding his tail. There's no escape. He's running scared, buddy.",
+      "characters": [
+        "Tom",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You mentioned George's name to Mayor Dinkins? You discussed George with the mayor of New York?",
+      "characters": [
+        "George",
+        "Woman",
+        "Doctor",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, I didn't really think about what I was gonna do with all..",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Plus he probably doesn't even know how to program the buttons.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These are the people that want to talk to you. They got nothing else to do, why not disturb you?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey the woman got you a job. The least you could do is buy her a gift. How about this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Dana",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, dating a convicted felon. I don't know how you missed it.",
+      "characters": [
+        "Izzy",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, man, it's spinach! I've been walking around like this all afternoon.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

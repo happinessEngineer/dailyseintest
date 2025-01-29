@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1146,
+  "date": "2028-02-22",
+  "questions": [
+    {
+      "quote": "Okay listen Leo. Your hairless, your scared. When the doctor comes in let me do the talking. Okay.",
+      "characters": [
+        "Bania",
+        "Haarwood",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Svetlana says she find it in the laundry room, but I think it is a gift from that postman agitator. Where is he?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Silvio"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "I don't know what to believe! You're eating unions, you're spotting dimes, I don't know what the hell is going on.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh good. Anyway, I wanted to talk to you about Dr. Whatley. I have a suspicion that he's converted to Judaism just for the jokes.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jimmy",
+        "Gail"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's morning. Thanks for seeing me through the night. I'll make us a pot of coffee, George. Watch her, won't you?",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "That's why I should date a giving person. If I date a taking person, everyone's taking, taking, taking, no one's giving - it's bedlam.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good.  Oh--and Elaine. You know the Baltimore cap you got in your office? Wear it. I'm gonna have a little fun with him.",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "Peggy"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "W..W..Wa...Wa..Wait..Wait wait.. Now lets videotape your head for the before picture, so we can watch how it grows and stuff. Sit down .....Lean back...A little bit to the right.",
+      "characters": [
+        "Kurt",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ugh. So now we have to rearrange our lives to avoid the doorman?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Chiles"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey keep your hands to yourself if you know what's good for you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

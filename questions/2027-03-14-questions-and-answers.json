@@ -1,0 +1,106 @@
+{
+  "gameNumber": 801,
+  "date": "2027-03-14",
+  "questions": [
+    {
+      "quote": "Hey. I've kept the same job for more than two years. It's not luck. Elaine, have you ever sent a racy photograph of yourself to anyone?",
+      "characters": [
+        "Carol",
+        "Elaine",
+        "Vivian",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "W-well, what does it matter? It's my car, I can do whatever I want with it.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't need the cufflinks! You have the same name!  'Jerry'!",
+      "characters": [
+        "Jerry",
+        "Pop",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't understand. He's got this big party coming up. He's been looking forward to this for months. This is gonna destroy the whole thing.",
+      "characters": [
+        "Elaine",
+        "Clerk",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm Jewish, you're not a dentist. You have no idea what my people have been through.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "It's Kramer isn't it? I knew it!  The greasy door knob the constant licking of the fingers, he's hooked to the chicken isn't he?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You mean just walk into the staff meeting on Monday morning like it never happened?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That little Bastard! He saw the lifts in my shoes. He knows I'm heightening.  This never would have happened if you hadn't pushed me to get those things. I told you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "What about stone washing? You ever witness one of those? That must be something. What? Do they just pummel the jeans with rocks?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I don't think we should tell George we saw Jane topless.",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

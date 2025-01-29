@@ -1,0 +1,106 @@
+{
+  "gameNumber": 108,
+  "date": "2025-04-20",
+  "questions": [
+    {
+      "quote": "Well, as you can see the comforter I expensed is actually the Aristotle goose down tunic.  What do you think?",
+      "characters": [
+        "Ron",
+        "Elaine",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now, if you want to go out and have some good, wholesome fun with a nice girl, I'd be glad to help you out...if you're looking for something more than that, you've got the wrong guy, buddy!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Earl",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you could come by my office later, I could work on it for you a little.",
+      "characters": [
+        "Marcelino",
+        "Elaine",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "So I'm sure whatever germs it landed on were knocked out, and by the time the rest of them realised what was going on, you had already grabbed it out.",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, he was waitin' inside his apartment for him with a sock full of pennies.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But... I don't want to spoil things by sleeping with you too soon.",
+      "characters": [
+        "Loretta",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Loretta"
+    },
+    {
+      "quote": "You know the anxiety you feel on a date?  That's what I have every day now.  My worst nightmare's come true, every day is a date.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, let me just state for the record, I think you're both better than me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay. Let's take a look. Well that doesn't look to serious. You'll be fine.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "Alton",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Oh man. What is with this bar? It's right in my back. It's killing me.",
+      "characters": [
+        "Elaine",
+        "Rava",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

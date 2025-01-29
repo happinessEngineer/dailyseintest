@@ -1,0 +1,106 @@
+{
+  "gameNumber": 83,
+  "date": "2025-03-26",
+  "questions": [
+    {
+      "quote": "Six. But then the night doorman comes on. He's much scarier.  Whugh!  Ha-ha.",
+      "characters": [
+        "Holly",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I've to every Brentano's. This thing's flagged in every database in town!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're an alcoholic! You have to apologize. Step Nine! Step Nine.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sara",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Does she care? No. Does anyone ever display the slightest sensitivity over the problems of a fellow individual? No. No. A resounding no!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yuh, I'd like an order of supreme flounder, number forty-seven. Yeah, apartment one-Q.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm okay. I'm fine. I'm wonderful. I never felt better in my whole life.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're dessicates. See, they absorb moisture.  These clothes won't last five years without 'em.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy, I have really had it with Newman. He wakes me up again last night at three o'clock in the morning to tell me he's going up onto the roof to kill himself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know, I like stuff you don't have to think about too much.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Lena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, of course I'm concerned. I'm payin' for those meals. It's like throwing money down the toilet.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

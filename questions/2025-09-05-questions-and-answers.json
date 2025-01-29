@@ -1,0 +1,106 @@
+{
+  "gameNumber": 246,
+  "date": "2025-09-05",
+  "questions": [
+    {
+      "quote": "Oh, like any man would ever look at me, come on, I?m gonna... get out of here.",
+      "characters": [
+        "Morgan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See her tonight. See her tomorrow. Go. Knock yourself out. She's too crazy for me.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, maybe they thought you looked too smart to be brainwashed?",
+      "characters": [
+        "Bookman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! I have spent a lot of time, and I have eaten a lot of crap to get to where I am today. And I am NOT throwing it all away now.",
+      "characters": [
+        "Jane",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry,  aaya - what are you doin' tomorrow? I want you to come by the set.",
+      "characters": [
+        "Darryl",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Would you like a Pepto-Bismol? I keep them in my wallet...!   Do you think he liked it?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kevin",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who wants to responsible? When ever anything goes wrong, the first thing they ask is: who's responsible for this?",
+      "characters": [
+        "Jerry",
+        "Helena",
+        "Kramer",
+        "Rebecca"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh boy, that looks great. I can't believe you're giving him this.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He used to be in the pajama business. I used to be able to get pajamas for free. I used to come over and get pajamas all the time!",
+      "characters": [
+        "Kramer",
+        "Mickey",
+        "Jerry",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "This is America! I don't have to wear anything I don't want to wear!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lisi",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

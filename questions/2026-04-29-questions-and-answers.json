@@ -1,0 +1,106 @@
+{
+  "gameNumber": 482,
+  "date": "2026-04-29",
+  "questions": [
+    {
+      "quote": "Ah, but he called me up and he asked for yours and Elaine's addresses, I'm sure that means I'm invited.",
+      "characters": [
+        "George",
+        "Dana",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was all primed for the first row; I was gonna put my feet up on the dugout!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, people, I'd like to begin with a hearty hail and well-met good fellow, to Bob Grossberg, who's joining us from Business Affairs.",
+      "characters": [
+        "Daphne",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Baah! There it is! You just said it! That's what I want! Now say it again, and tell it to me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Whew! I got whooped. You should have seen the rage in their little eyes. And those tiny little fists of fury. Oh.  What is that?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You've got to start seeing someone else. Get out of this relationship.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Stu",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello? Oh, yeah, okay fine. Uh, he'll be right down.  Car's here to pick you up and take you to the meeting.",
+      "characters": [
+        "George",
+        "Susan",
+        "Shelly",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "W-well it was ten dollars cheaper in the afternoon than the morning, I figured what the hell's the difference.",
+      "characters": [
+        "Owner",
+        "Jack",
+        "Lena",
+        "Brett"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Afford it you will, Mr Newman. Or this court will see that your car is impounded...",
+      "characters": [
+        "Kramer",
+        "Judge",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Judge"
+    },
+    {
+      "quote": "What you saw in that van was a natural expression of a man's love for his lady.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jack",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 689,
+  "date": "2026-11-22",
+  "questions": [
+    {
+      "quote": "I think I understand this. Jay Peterman is real. His biography is not. Now, you Kramer are real.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because great couples always have a great story about how they met. That's why I've never been in a long term relationship. I've never had a good meeting story.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I said I had a good time and I'd call, but who takes that literally?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I could have had some ice cream. I think that might have calmed down the nachos.",
+      "characters": [
+        "Jerry",
+        "Dana",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was a cold winter's night in Timbuktu...  Oh! This stinks!  Oh, come on... come on...!...God!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have to. But I'm gonna need to storyboard this whole thing. Where are my magic markers?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Farkus"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well you got that big comfortable bed and that nice warm quilt.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, hi. I have Anna here. There's something I wanna say to both of you.",
+      "characters": [
+        "Captain",
+        "Elaine",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no! The letter, Newman, it's got exclamation points all over it!",
+      "characters": [
+        "John",
+        "Leo",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nah. It's not good for friends to talk about money, it can affect the friendship.",
+      "characters": [
+        "Kelly",
+        "Earl",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

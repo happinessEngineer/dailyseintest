@@ -1,0 +1,106 @@
+{
+  "gameNumber": 322,
+  "date": "2025-11-20",
+  "questions": [
+    {
+      "quote": "Alright! So, she said, that she could've fixed me up with her.",
+      "characters": [
+        "Peterman",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I don't think I want to date a protégé whose mentor is a Costanza.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sally",
+        "Voice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know that tall really good looking guy, he lives on the fifth floor.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm getting a little uncomfortable with the Hitler stuff.  I'm getting another call, see ya… Hello!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Make sure Kramer uses good tape when he sends back the raincoats.",
+      "characters": [
+        "Gavin",
+        "Morty",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey, have you seen all these new commercials for indigestion drugs? Pepcid AC, Tagemat HB.",
+      "characters": [
+        "Jerry",
+        "Carol",
+        "Maura",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Those meaty paws, I feel like I'm dating George the Animal, .",
+      "characters": [
+        "Katie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, we talking hirachis? I know a great store for hirachis.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, listen, just so you know, before we take off they're gonna tell us what to do in the vent of a crash-",
+      "characters": [
+        "Kate",
+        "Bania",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "You know, that happened to Lomez, so he blew his neighbor's circuit.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

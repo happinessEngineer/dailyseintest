@@ -1,0 +1,106 @@
+{
+  "gameNumber": 153,
+  "date": "2025-06-04",
+  "questions": [
+    {
+      "quote": "See, the great thing about robbing a fat guy is it's an easy getaway. You know? They can't really chase ya!",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you believe when I was 18, I had a ssssilver dollar collection?",
+      "characters": [
+        "Jerry",
+        "Saleswoman",
+        "Lippman",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, you had a good run, what was it 75, 80 years? Wreaking havoc, making everybody nervous.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "Heather"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I just got off a twenty-three hour plane ride. I'm too tired to even vomit at the thought.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Four hundred dollars? What are you nuts? Someone will pay more.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Manny"
+      ],
+      "correctAnswer": "Manny"
+    },
+    {
+      "quote": "I didn't want to tell you this, but usually he hates everyone.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, there was so much snow. The roads were closed. I really appreciate it - you picking me up. Thanks again.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, what's another million, give or take. I get off where and when I wanna get off.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe you told Kramer it's okay to put the cable in during the shower! Jerry, look,, look! They've eaten everything.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The point is I'm going to be taking this lie detector test and that needle's going to be going wild.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Matthew",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 729,
+  "date": "2027-01-01",
+  "questions": [
+    {
+      "quote": "Was that the ... opposite ... of what you were going to say, or was that just your natural instinct?",
+      "characters": [
+        "Elaine",
+        "James",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll see ya. And George, by the way... You stink... Real bad.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Jackie",
+        "Leo"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Every night at six-thirty. The nurse was gorgeous.. then I got a look at the patient..  I was going nuts.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not ready? It has to be ready! What kind of a business are you running here?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Noooo, I'm so sorry. It's the MOOPS. The correct answer is, The MOOPS.",
+      "characters": [
+        "Kramer",
+        "Izzy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They don't need any water, so you don't have to keep taking them to the bathroom.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bradley!  It's very important that you sit down  Now for the last time,  Try again to Sit Down!  Sit down you big stupid Ape!",
+      "characters": [
+        "Morty",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "They stole my wallet. The bum stole my wallet.  MY WALLET'S GONE!  MY WALLET'S GONE! I had my wallet in my back pocket. It's gone.",
+      "characters": [
+        "Meryl",
+        "Lanette",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Uh-oh. Oh, gee, Frank, I'm sorry. I gotta go. I have to work a double shift at H&H.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, I?ll tell you what, you seem like a nice guy, let?s stop jerking around. Give me.. two hundred and fifty dollars, I?ve got people waiting for me, I've got to get the hell out of here.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

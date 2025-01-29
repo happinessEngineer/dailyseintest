@@ -1,0 +1,106 @@
+{
+  "gameNumber": 285,
+  "date": "2025-10-14",
+  "questions": [
+    {
+      "quote": "That's fine. If you just give me my duck money, I'll be on my way.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Hey Elaine listen. If you smell anything decaying in the trunk of his car...",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Did you ever ask an ex-girlfriend to move into your building?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's a little unnatural, but I think I'm getting the hang of it.",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Relax man. There's enough juice here to keep us all fat and giggley.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Alton"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm at the health club and while I'm in the pool, some guy walks off with my glasses. Who steals prescription glasses?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Kramer, what was it you were having faxed to my house every 30 seconds?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rick",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, well, maybe I'll mention it to Russell tomorrow night.",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I tried to tell you, but you wouldn't listen. No, ho, ho! You were gonna get a deal, huh? There's no laws in this place. Anything goes! It's Thunderdome!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "M-hm, I'll bet. So, are you going to introduce me to your 'nephew'?",
+      "characters": [
+        "Rachel",
+        "Jerry",
+        "Chiles",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1075,
+  "date": "2027-12-13",
+  "questions": [
+    {
+      "quote": "The back? They never find anything in the back. If they had anything good in the back, they'd put it out in the front.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Cosmo what happened to your mother last night. She hung me out to dry.",
+      "characters": [
+        "George",
+        "Laura",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's coming! It's a Commando 8! 12.000 BTU's! It's gonna be like a meat locker in here.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Bonnie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you could you'd guzzle it by the gallon! Ovaltine! Hershey's!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The sea was angry that day my friends… like an old man trying to send back soup in a deli!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It looks like your breaking into it like an otter breaking into a clad.",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Isn't that...?  Oh, is this from the snow last night?  Ugh... you know what you should've done? You should've turned it inside out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tv",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. There's something wrong with that? I'm a character. People are always saying to me, \"You know you're a quite a character.\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, the rickshaw's gone. We strapped it to a homeless guy and he , he bolted.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, don't give him any money for that. It'll cost you less to keep it another day, rewind it and bring it back tomorrow. Don't give him the satisfaction.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

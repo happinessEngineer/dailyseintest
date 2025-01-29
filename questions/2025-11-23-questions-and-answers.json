@@ -1,0 +1,106 @@
+{
+  "gameNumber": 325,
+  "date": "2025-11-23",
+  "questions": [
+    {
+      "quote": "Well, I'm sure you did. Who wouldn't love a pony? Who wouldn't love a person that had a pony?",
+      "characters": [
+        "Kramer",
+        "John",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Get those clothes off. You're going to spend the night and we're going to cuddle.",
+      "characters": [
+        "George",
+        "Doorman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well if you watch closely enough, you just might see me.  I'll be the one waving to the camera from my seat on the forty yard line.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "We had a little fight this afternoon.  Let's bury the hatchet. We smoke um peace pipe.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see! You see what I'm saying to you? It's a presence! It's the beast!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good. Cause if this is a lie, if this is a joke, if this is your idea of some cute little game… we're finished!",
+      "characters": [
+        "Harold",
+        "Helen",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because of Divola! Get in here... How come you're not dressed?",
+      "characters": [
+        "Chiles",
+        "George",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen you're just imagining things. He doesn't know a thing. Now come on. Pull yourself together.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Y'know what you should do now? Get her some flowers, smooth it out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not a chance. I'm afraid I'll just have to find someone else to accompany me on my journey. The dark continent is no place for an addict, Elaine.",
+      "characters": [
+        "Corinne",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

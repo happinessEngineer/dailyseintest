@@ -1,0 +1,106 @@
+{
+  "gameNumber": 550,
+  "date": "2026-07-06",
+  "questions": [
+    {
+      "quote": "Okay, how about this? All right, we get married March 21st, the first day of Spring.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Se, now that?s terrible, that is not a nice thing to do at all, I don?t know how this Paliachi thing turns out but you know I would assume that there is big big trouble for that clown",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, get the swordfish. Best swordfish in the city. The best, Jerry.",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Look Jerry, we'll meet you at the theater.  OK, next showings at 9:00, we can't wait any longer.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Regis",
+        "Wendy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No.  So now you're going to his apartment? I really think this is nuts.",
+      "characters": [
+        "Jerry",
+        "Craig",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Everyone, I wanna propose a toast to ten great years at Rick Barr Properties.",
+      "characters": [
+        "Beth",
+        "Levitan",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "Excuse me Miss Weaver, OH! My god it is you! I.. I've seen your show six times..",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "All right, no more lies. Elaine is been chosen to represent the Upper West Side in the next Biosphere project.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But the thing you don't realize is that there's good naked and bad naked. Naked hair brushing, good; naked crouching, bad. Hey, there's Hanke.",
+      "characters": [
+        "Enzo",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, we thought she was meeting you earlier. She's usually pretty punctual. Don't you find that, George?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

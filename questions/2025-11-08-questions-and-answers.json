@@ -1,0 +1,106 @@
+{
+  "gameNumber": 310,
+  "date": "2025-11-08",
+  "questions": [
+    {
+      "quote": "Dad, the hinges are all rusted here. That's why the wind keeps blowing the door off.",
+      "characters": [
+        "Detective",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, all you gotta to do, is get Amy and Jeffrey together somewhere, that's it.",
+      "characters": [
+        "Newman",
+        "Glenn",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's about time. We thought you were gonna wind up on the street.  What is it you're doing, exactly?",
+      "characters": [
+        "Shelly",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Shelly"
+    },
+    {
+      "quote": "He just thinks that anything that dissolves in milk is funny.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that one. She's been a member of the board longer than anybody. She's very tough to deal with.",
+      "characters": [
+        "Morty",
+        "Tony",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No. That's why I can never be president.. It always irked me. That's why, even at an early age, I had no interest in politics. I refuse to vote.  They don't want me, I don't want them!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah, Cupid's Rifle -- 8:30, Sony Lincoln Square. Yeah, no, no, no, no problem, yeah.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, and I prefer \"Conrad\". So I heard what happened to the desk.",
+      "characters": [
+        "Conrad",
+        "Kramer",
+        "Chiles",
+        "Jerry"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Well, did you, or did you not, see the defendant, wearing the bra?",
+      "characters": [
+        "Jerry",
+        "Karen",
+        "Jackie",
+        "Conrad"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Well, if you've got needs and abilities that's a pretty good combination.",
+      "characters": [
+        "Nana",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

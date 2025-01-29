@@ -1,0 +1,106 @@
+{
+  "gameNumber": 167,
+  "date": "2025-06-18",
+  "questions": [
+    {
+      "quote": "Yes, I will, George. I'll have to stick my chin on top of the seat.",
+      "characters": [
+        "Lloyd",
+        "Landlord",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, buddy,  he's taking the case!  Jackie Chiles is right on it!  Right on it, he's all over it!",
+      "characters": [
+        "Alton",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on up. . . . I never heard of this. You've got to fast for three days to take an ulcer test. How you gonna do that?",
+      "characters": [
+        "Conrad",
+        "Jeannie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but I'm a little uncomfortable. I'm afraid of making another mistake.",
+      "characters": [
+        "Clare",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Teddy Padillac. Long time, no see.  What've you got in a push-button mini.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I dunno. Since the last one. Oh, here she is. You wanna meet her?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hmm-hmm, not by a long shot. I'm calling up the Rosses and inviting them up to my non-existent place in the Hamptons. Then we'll see who blinks first.",
+      "characters": [
+        "Marlene",
+        "Leo",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because if you are, you shouldn't. There's nothing available in that development.",
+      "characters": [
+        "George",
+        "Steve",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ladies and gentlemen, our flight time, with stopovers, will be approximately 22 hours.",
+      "characters": [
+        "Captain",
+        "George",
+        "Rava",
+        "Elaine"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "I am very excited about this date! We're goin' to Hunan Balcony!",
+      "characters": [
+        "Jerry",
+        "Alton",
+        "Fdr",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

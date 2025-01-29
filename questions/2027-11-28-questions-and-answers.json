@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1060,
+  "date": "2027-11-28",
+  "questions": [
+    {
+      "quote": "Not on my watch!  I won't have you turning my office into a den of iniquity! Get your fix somewhere else!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "David",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Ohh, is that right? Well, I have been having a little trouble with my call-waiting.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I really think you're wrong. We just went to the fireworks the other day.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I think I finally figured out what the flavor is in this gum. It's a little lo-mein-y.",
+      "characters": [
+        "Doctor",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about over there? You know air conditioners fall out all the time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello? Oh, hi Roy. What? Oh my god. Wel-- how did this happen? What can I do? Oh. I am so sorry. Okay. Bye.  That was Roy. He's under investigation for insurance fraud.",
+      "characters": [
+        "Karen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no no no, I'm fine. Let me help you with these dishes, huh?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Robin",
+        "Gina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, it is cavity time. Ah, here we go. Which reminds me, did you here the one about the rabbi and the farmer's daughter? Huh?",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "It's not a pet! It's a wild invalid! And it knows that I tried to kill it. As soon as it gets better, it's gonna gnaw my brain out in my sleep!",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah yeah! You see, this is exactly what they want to do to you. They play one against the other. You can't let them manipulate you like that.",
+      "characters": [
+        "Kramer",
+        "Abby",
+        "Frank",
+        "Mike"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

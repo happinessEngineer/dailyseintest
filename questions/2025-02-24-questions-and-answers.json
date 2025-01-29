@@ -1,0 +1,106 @@
+{
+  "gameNumber": 53,
+  "date": "2025-02-24",
+  "questions": [
+    {
+      "quote": "Well you know, these sneakers, they belong to my neighbor, Jerry Seinfeld? The comedian.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Brett said you ran away from him, as if he were the boogetyman.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yep, and the photo was all fixed and back on his desk, no thanks to you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Karen",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think I could do it. You know, they always remember the first time. I don't want to be remembered. I wanna be forgotten.",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"If anybody here knows anything about it I recommend strongly that...you come forward.\"",
+      "characters": [
+        "Jerry",
+        "Babu",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "I just can't believe at the way people are. What is it with humanity? What kind of a world do we live in?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So we order lunch, and we're talking. Finally, she blurts out how it's 'not working'.",
+      "characters": [
+        "Dwayne",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. What are we looking at here? Is this guy like a real loser?",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Look, I find this whole thing very uninteresting. When you get the coats come in.",
+      "characters": [
+        "Rudy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "Well, it's a delicate mechanism - It, you know, needs lots of packaging.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

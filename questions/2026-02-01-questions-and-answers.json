@@ -1,0 +1,106 @@
+{
+  "gameNumber": 395,
+  "date": "2026-02-01",
+  "questions": [
+    {
+      "quote": "I think she should withdraw. She's the breaker, he's the breakee. He needs to get on with his life.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, I'll tell you what I'd like you to do. I, I'd like you to drop everything.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Alec",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Gino, you've outdone yourself this time. This is the best haircut I've ever had.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "I'd stayed up all night I'd fixed myself up a little before I'd go out.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ooh, I gotta check my machine. I'm waiting to hear about an interview. Doubleday is looking for somebody to replace Jackie Onassis.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm on a winning ball club, Jerry. They probably wanna pick my brains.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Simon"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I really can not comprehend how stupid people could be sometimes. Can you comprehend it?",
+      "characters": [
+        "George",
+        "Rick",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's an inter-office envelope. It get passed around all over the office.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean you can't go? There's two really girls sitting at the counter eating grilled cheese. Cheese, George! Cheese!",
+      "characters": [
+        "Betsy",
+        "Leslie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell it to the audience.  Here,  I made some bologna sandwiches.",
+      "characters": [
+        "Ramon",
+        "Christie",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

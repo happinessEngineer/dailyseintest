@@ -1,0 +1,106 @@
+{
+  "gameNumber": 109,
+  "date": "2025-04-21",
+  "questions": [
+    {
+      "quote": "Put everyone on alert, check all the area hospitals, clinics, shelters, we've gotta find that kid.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Well, it's a possibility, like you said! Stranger things have happened! Thank you, Elaine. Thank you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Nah, believe me. It's only used in the circus. For elephants.",
+      "characters": [
+        "Jerry",
+        "Salesman",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Alright, are we ready? Come on, let's get this show on the road.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Seth",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but I saw the look on his face when he put his arm around me. And then we went to his apartment, and I sat on one of his chairs and it broke. And he says, \"Boy, you're a lot of woman!\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Hoyt",
+        "Beth"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shut up. Spread 'em. I said spread 'em!  You're in big trouble son. Burglary, grand larceny, possession of stolen goods... and uh, uh... murder.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Piccata, if anything I should be dating a mentor and Bania should be setting pins in a bowling alley.",
+      "characters": [
+        "Jerry",
+        "Captain",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! Look who's here! Hey Kurt, this is Jerry, and George, and Kramer.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh and speaking of issues . Guess who got a no-polish manicure and begged his neighbor not to tell anyone?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "That's the funny face that greets you at the beginning of the Super Terrific Happy Hour.",
+      "characters": [
+        "Jerry",
+        "Attendant",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

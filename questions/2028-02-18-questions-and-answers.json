@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1142,
+  "date": "2028-02-18",
+  "questions": [
+    {
+      "quote": "George is right. Those people will try to get away with murder. Believe me. They're all crooks.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, see, uh, when we met, I was over there and, uh, you were over here, so the image, uh, the image was reversed, like, uh, like in the mirror.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...pianist. A *classical* pianist. She *plays* the piano. She's a *brilliant* woman. I-I-I sat in her living room... She played the *Waldstein Sonata*! The *Waldstein*!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Have you ever thought about selling it .It would make a brilliant wig..",
+      "characters": [
+        "Ethan",
+        "Izzy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "[In Kramer's ear] The old coot's sittin' on a mountain of gold!",
+      "characters": [
+        "Newman",
+        "George",
+        "Daphne",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey! Uh--listen--did you get your--uh--boss's Knick ticket, for Kramer?",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, then I'm not going to the game either. Okay? I'll give him both tickets.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't She won't return my calls because she caught me in a pick at a light.",
+      "characters": [
+        "Woman",
+        "George",
+        "Fdr",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, how 'bout giving me a hand? You know, bring some of this stuff upstairs.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, listen I gotta get to the pier. The ferry traffic is really bad around four thirty. Look, I still got the key to your apartment and I'll get it back to you as soon as I can.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

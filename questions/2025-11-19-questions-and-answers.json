@@ -1,0 +1,106 @@
+{
+  "gameNumber": 321,
+  "date": "2025-11-19",
+  "questions": [
+    {
+      "quote": "No no no, you know actually we are friends of a serial killer.",
+      "characters": [
+        "Elaine",
+        "Jake",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, uh, I've still got a couple of hours to kill before the next show. My place is only a few blocks from here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Poppie",
+        "John"
+      ],
+      "correctAnswer": "John"
+    },
+    {
+      "quote": "They run it all the time, and now I'm starting to get all these royalty checks.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "Landlord"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well if a couple breaks up and have plans to go to a neutral place, who withdraws? What's the etiquette?",
+      "characters": [
+        "George",
+        "Laura",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You are the Queen of Confrontation. You're my new hero. In fact, you've inspired me. I'm gonna call George about something right now.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A pow-wow? Who told you to have a pow-wow? I didn't tell you to have pow-wow.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Mickey",
+        "Newman"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "When is it going to be my turn, Jerry? When do I get my 15 minutes? I want my 15 minutes!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You gotta get an estimate on my car from him. I think this garage is trying to screw me.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know 'm just curious, How did you know she wasn't my girlfriend?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have sentimentality, really, I'm sentimental. Here, look. Here's some cards I've saved, these are birthday cards from my grandmother, see, I'm not a bad guy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

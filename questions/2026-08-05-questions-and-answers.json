@@ -1,0 +1,106 @@
+{
+  "gameNumber": 580,
+  "date": "2026-08-05",
+  "questions": [
+    {
+      "quote": "Look it's not like you're gonna be spending a lot of time with her.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's been locked up for two years. She's gonna want to make up for lost time. Dinners. Movies.  Talking...",
+      "characters": [
+        "Bob",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "well aside from that from that, how did he like the sandwiches?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Who gave you permission to come into my house and just go through all my things? You thought it was funny?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey. How come I didn't get a Christmas card? Everybody else got one. Jerry got one, Kramer got one. I thought we were good friends. I don't get a Christmas card. I don't get it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This MacKenzie, he's a bit of a nut. Someone told me he fired the last guy because his nose whistled when he breathed.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Detective"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my God. I just remembered where I left my retainer in second grade. I'll see ya.",
+      "characters": [
+        "George",
+        "Patty",
+        "Darryl",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The catering hall screwed up. The wedding is delayed until June. It's like a stay of execution.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Mr. Kramer is in a meeting with Mr. Lohmase and he didn't want to miss anything.",
+      "characters": [
+        "Darren",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Oh. Yeah, I been getting HBO and Showtime for free. See, they just found out about it, so now they wanna come and take it out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

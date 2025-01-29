@@ -1,0 +1,106 @@
+{
+  "gameNumber": 577,
+  "date": "2026-08-02",
+  "questions": [
+    {
+      "quote": "Ah, you know how in planes they got first class? More leg room, better ride? Well, I'm bringing that concept to mile one-fourteen.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kind of. I'm still collecting checks, I'm just not delivering mail.",
+      "characters": [
+        "Mel",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "If you're in some situation where some fast cash will save your life, I'll give you the code.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you know, we had a fight over the peach and uh well Joe doesn't want my business.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I'm on the phone with Bob, and I realize right then and there that I need to return this pair of pants. So, I'm off to the store.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So what I'm going to leave the car running and the heat 'll be on.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, he says, ``squeeze your breasts together'', and I say, ``I thought this was an ad for shoes''...",
+      "characters": [
+        "Tia",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Tia"
+    },
+    {
+      "quote": "I hear things. Hey, so Sophie gave me the \"It's me\" on the phone today.",
+      "characters": [
+        "Jerry",
+        "Christie",
+        "Kramer",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well that report was about *one* very specific type of retractor and I can assure you we do not use that retractor in your friend's procedure.",
+      "characters": [
+        "Doctor",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "You know what happens with these? The rollers, they get flat spots on 'em.",
+      "characters": [
+        "Kramer",
+        "Gail",
+        "Elaine",
+        "Enzo"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

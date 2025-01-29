@@ -1,0 +1,106 @@
+{
+  "gameNumber": 938,
+  "date": "2027-07-29",
+  "questions": [
+    {
+      "quote": "No, no, no. We're not getting on there. Come on, let's go get something to eat in Sticksville.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Betsy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no no no...no more banks. I'm keeping my blood in my freezer with...my money!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Hoyt",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's it George. Come on, come on. Give it to me. Come on,work it. Work it. Yeah be a man, be a man.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ruby",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I 've looked everywhere , even under the couch but all I could find were the stupid Chunky wrappers. I couldn't....",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He killed. He only does well when he has me for a lead-in. He's a time slot hit.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'Why am I wearing is now?? I'll tell you why I'm wearing it now - because the lowtalker asked me to, that's why! And I said 'yes'. Do you know why? Because I couldn't HEAR her!",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I'm being heckled on stage. People are yelling out Galloogy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, George, did you talk to that guy about getting me some more cigars?",
+      "characters": [
+        "Jerry",
+        "Eva",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, ya know the other day how you mentioned that there were no houses available in Tuscany?",
+      "characters": [
+        "Jerry",
+        "Pam",
+        "Newman",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What do you mean, I got? You didn't give him his Visa application.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

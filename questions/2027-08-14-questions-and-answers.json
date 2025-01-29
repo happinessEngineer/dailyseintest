@@ -1,0 +1,106 @@
+{
+  "gameNumber": 954,
+  "date": "2027-08-14",
+  "questions": [
+    {
+      "quote": "Ah, back to normal. Not bad for four thousand bucks. . . . I can't believe I got the Low Fat!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You signed your name and you addressed the envelope, it's not like you painted the picture and wrote the poem.",
+      "characters": [
+        "Shelly",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't be ridiculous!  I mean, why would anyone wanna sleep...",
+      "characters": [
+        "George",
+        "Leo",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sorry, but I didn't want Lloyd thinking I was leading him on again. Seeing him made me feel very uncomfortable.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"I don't know but I was spitting out and rinsing like there was no tomorrow.\"",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Rudy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. He's pretending he's got gonorrhea so med students can diagnose it.",
+      "characters": [
+        "Jerry",
+        "Rabbi",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They act like it was some act of charity. Just going out with her.",
+      "characters": [
+        "Jerry",
+        "Corinne",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He thinks I am. I'm not gonna betray that trust. Here's what I wanna do; I think I can get a section...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, I met this woman. She is not traveling to any other dimensions.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Waitress"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, yes, she had a nose job. I loved her very deeply. Will she ever speak to me again?",
+      "characters": [
+        "Sid",
+        "Michael",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

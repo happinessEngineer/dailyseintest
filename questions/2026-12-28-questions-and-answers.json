@@ -1,0 +1,106 @@
+{
+  "gameNumber": 725,
+  "date": "2026-12-28",
+  "questions": [
+    {
+      "quote": "I've tried. We don't have it. But maybe the two of us, working together at full capacity, could do the job of one normal man.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now listen Roy, tell me something. When, are you gettin' out of here?",
+      "characters": [
+        "Bob",
+        "Frank",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They talk back. They go, \"Hey George, how's it going?\" I say, \"Get the hell out of here!\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we've tried to arrange a situation where we'll be able to do this once in a while and still be friends.",
+      "characters": [
+        "Elaine",
+        "Raymond",
+        "Jerry",
+        "Receptionist"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me in, it's me.  Here. You don't know what this is costing me.",
+      "characters": [
+        "Aaron",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What am I scared of? I'm scared of the same thing that you are, everything! Why don't you just use your own name?",
+      "characters": [
+        "George",
+        "Bookman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You need some professional advice. Why don't you go see Elaine's friend? She's a therapist.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Told me you had a great time! Said you'd call me the next day.",
+      "characters": [
+        "Mary",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "This is it, Jerry! This is it! He is such an incredible person! He's real, he's honest, he's unpretentious...oh, I'm really lucky!",
+      "characters": [
+        "Tony",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, what we have is too important. We can work through this.",
+      "characters": [
+        "George",
+        "Maura",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Maura"
+    }
+  ]
+}

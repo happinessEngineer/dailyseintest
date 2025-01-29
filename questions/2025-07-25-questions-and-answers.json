@@ -1,0 +1,106 @@
+{
+  "gameNumber": 204,
+  "date": "2025-07-25",
+  "questions": [
+    {
+      "quote": "Well, You can't go in there it's like a gas chamber in there.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes but then everything is all pulled down and it's jus.. Anyway. The damage, unfortunately, has marred an otherwise fine automobile, rendering it virtually undriveable.",
+      "characters": [
+        "Kramer",
+        "Brett",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, that's not good enough! You don't try and de-sour. You have to sweeten too!",
+      "characters": [
+        "Ping",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe he's just a guy with a nose like this.  You know a lot of people have a nose like this, they're not necessarily pig-men.",
+      "characters": [
+        "Helen",
+        "Rula",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, she was clever. You know she put her picture on a card. I should do that. I never do anything like that.",
+      "characters": [
+        "Elaine",
+        "Darryl",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Non-fat yogurt? Oh, my god. They got Giuliani and he doesn't even know it.",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't know, but the key problem is solved. I hid it at Phil's...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine. I don't understand why you can't meet someone else's parents without classifying it as a date.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Did you or did you not tell Kramer that I got my shoes at Botticelli's?",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, drove away.. You know, I said 'Hello' to him. You know, he's - he's-",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lois",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1024,
+  "date": "2027-10-23",
+  "questions": [
+    {
+      "quote": "Oh, that's right, right, right. And uh you mentioned that uh, you didn't get a G.I. Joe. You had an…",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Whoa, whoa. Now, who's this Joe Mayo everyone's talking about?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...but the Communists, they put an end to that! So, on this issue there is no debate! And no intelligent person can think differently.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Oh, no. No no no no no. I'd have to advise against that. What, do you know this woman a month? Let's see, you're going to be with her seventy-two hours. That's a dating decathlon.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Marla",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Klick! Long fly ball into deep left field over Bell's head . . . O'Neill's rounding second O'Neill going for third, O'Neill rounding . . .",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "Okay. Alright we got the cake now. Where is George and Kramer?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Gina"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Brett, I'm, I'm really sorry. I didn't mean to hit you in the head with.. an axe.",
+      "characters": [
+        "Elaine",
+        "Michael",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really?  Well, you don't think it had anything to do with what I said, do you?",
+      "characters": [
+        "George",
+        "Leo",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah that's a good deal -- you win the Pennant with that trade, hair for phlegm.",
+      "characters": [
+        "Jerry",
+        "Tia",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No! How many times do I have to go out with her before I get a massage?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Simon",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

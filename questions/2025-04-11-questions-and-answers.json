@@ -1,0 +1,106 @@
+{
+  "gameNumber": 99,
+  "date": "2025-04-11",
+  "questions": [
+    {
+      "quote": "Well, Newman uses his mail truck to run fish for China Panda on the weekends.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's the puffy shirt. Look at it, eh? Whatd'ya think? Is it cool or what?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't think so Jerry. You see they gave me my job back.",
+      "characters": [
+        "Ramon",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Ramon"
+    },
+    {
+      "quote": "I got down in my knees and went, \"Go ahead, Mickey. Hit me. I'm begging you, Mickey, please hit me. C'mon, hit me. I love you, Mickey, I love you!\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You think Manya showed up during the game and put a hex on me?",
+      "characters": [
+        "Frank",
+        "Mickey",
+        "Jerry",
+        "Voice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I would like to propose a toast....Wait a second.. George! George Costanza come in here.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Holly",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If only she could get fired. Is there any way that could happen? I mean I know how to get myself fired.",
+      "characters": [
+        "Elaine",
+        "Tim",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ach, I never knew what the hell I was peddling with those stupid cartoons and that paper book, anyway.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh, God - my nephew.  Hi, Gail!.. Yu.. yu... Yes, Gail, I know how old he is.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Greg"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't understand. Before you were jealous of me. Now you're jealous of him?",
+      "characters": [
+        "George",
+        "Ellen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 713,
+  "date": "2026-12-16",
+  "questions": [
+    {
+      "quote": "Hello, yes, I called for an ambulance like thirty-five minutes ago.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Then on the evening of October 28, there was an abrupt end to that relationship. Tell us what happened.",
+      "characters": [
+        "Hoyt",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "I enjoy the challenge of medicine. Naturally you have no idea what it's like to have someone's life depending on you.",
+      "characters": [
+        "Sara",
+        "James",
+        "Jake",
+        "David"
+      ],
+      "correctAnswer": "Sara"
+    },
+    {
+      "quote": "Ah, yes, the man from the insurance company dropped this off this morning. He said it was the only thing left from the remains of the fire.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Raymond",
+        "Jerry"
+      ],
+      "correctAnswer": "Raymond"
+    },
+    {
+      "quote": "Because if he catches us, we'll never be able to get soup again.",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Fred",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No you wouldn't. Nobody would. It's just that... they were missing, and... well I'm just inquiring.",
+      "characters": [
+        "Jerry",
+        "Allison",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what are you doing?! Watch where you're driving, man!  Don't mess with the Devils, buddy. We're number one, we beat anybody! We're the Devils! The Devils!! Haaaa!!!",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I'm Captain Maddox this is my co-pilot, Kurt Adams. Ready to go to Paris?",
+      "characters": [
+        "Captain",
+        "Leo",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "I was yelling at the litterbug. I mean this is my town. You don't throw trash on the streets of my town.",
+      "characters": [
+        "Poppie",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I had like a so-so date with Valerie, now I'm number nine on the speed-dial.",
+      "characters": [
+        "Karen",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

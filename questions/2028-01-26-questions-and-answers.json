@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1119,
+  "date": "2028-01-26",
+  "questions": [
+    {
+      "quote": "Now, lookit, this plane leaves at 10:15. We're getting up at about eight. That gives us enough time, right?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Here I personally made you a cold chicken sandwich. It's not even on the menu.",
+      "characters": [
+        "Waitress",
+        "Jackie",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Ah. I'm watching my height. My doctor doesn't want me to get any taller. So you're Miss, uh...",
+      "characters": [
+        "Newman",
+        "Kimbrough",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aaaah! Enough lying! The lying is through! C'mon, Jerry, the masquerade is over. You're thin, late thirties, single...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, this guy Leonard Christian's gonna be there tomorrow night.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The broken window, Klompus never fixed it. They just walked right in.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know this whole thing never would have happened if you hadn't bailed out on me at the restaurant.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. He went down at the Beackman, he tried to lam, but they cheesed him.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Algae,… obviously plankton, hmhm. I don't know what else I could tell ya, ah, Oh I-I just got back from a trip to the Galapagos Islands, I was living with the turtles.",
+      "characters": [
+        "Officer",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't ruin anything. He looked like an idiot. He did, and it made him act like a jerk.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

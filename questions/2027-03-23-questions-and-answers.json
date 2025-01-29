@@ -1,0 +1,106 @@
+{
+  "gameNumber": 810,
+  "date": "2027-03-23",
+  "questions": [
+    {
+      "quote": "Look, I don't want any trouble. I don't have a doorman in my building. I guess I'm just not used to talking to them. I'd really just like to be friends.",
+      "characters": [
+        "Nurse",
+        "Sid",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know... I was at the car wash this morning and the guy told me in his 38 years in the business, he's never smelled anything like it.",
+      "characters": [
+        "Jerry",
+        "Poppie",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's, uh, it's not a little chicken.  Little chicken. It's a gamebird.",
+      "characters": [
+        "Keith",
+        "Wilhelm",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, she's got the hue. So, what's going on with you and Melanie? I mean, I know you're not getting married, but uh, things are happening?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm calling my lawyer. It might not be too late to get out of this.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Costanza, you may be my only friend around here. By the way, you got that birthday card?",
+      "characters": [
+        "Kramer",
+        "Morgan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "I don't have a dress to wear.  And you. You don't have anything.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "Eva"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "All I know about is sports. That's it. No matter how depressed I get, I could always read the sports section.",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just let me ask you something. Is it \"February\" or \" February\"? Because I prefer \"Febuary\" and what is this \"ru\"?",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I'll tell you what's wrong, a grown woman with a male roommate!  It's unnatural, it's an abomination!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

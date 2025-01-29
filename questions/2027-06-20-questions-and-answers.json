@@ -1,0 +1,106 @@
+{
+  "gameNumber": 899,
+  "date": "2027-06-20",
+  "questions": [
+    {
+      "quote": "\"Don't you know the difference between seltzer and salsa?? You have the seltezer after the salsa!\"",
+      "characters": [
+        "Kate",
+        "Jerry",
+        "Elaine",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you see? George is in the bloodstream! You stay away from him, too!",
+      "characters": [
+        "George",
+        "Lanette",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, it's my ex-roommate, she moved out four years ago, I-I've been sub-letting my apartment from her.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ooh, I've got stump troubles. The Sanitation Department won't get rid of them all, I can't get a truck to haul this stuff until next week. Meanwhile, I'm sitting on a mountain of stumps.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's the life force. I saw a show on the mollusk last night. Elaine, the mollusk travels from Alaska to Chile just for a shot at another mollusk. You think you're any better?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, good. You know, you might wanna try eating it with one of these.",
+      "characters": [
+        "Kevin",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right, we're both big Mickey Mantle fans, and we love the name. It's very unusual.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Ken",
+        "Elaine"
+      ],
+      "correctAnswer": "Ken"
+    },
+    {
+      "quote": "Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the  pirate look!",
+      "characters": [
+        "Kramer",
+        "Julianna",
+        "Jerry",
+        "Deena"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I gave. I gave everything I could Mrs. Sokol. but nothing was good enough for her.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry! The Japanese guys had sake in the hot-tub! You gotta get 'em outta the drawers and get 'em down here, or I don't have a focus group to sell the pilot to Japanese TV!",
+      "characters": [
+        "Noel",
+        "Jerry",
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

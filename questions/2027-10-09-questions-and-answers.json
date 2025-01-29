@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1010,
+  "date": "2027-10-09",
+  "questions": [
+    {
+      "quote": "The woman's movement just can't seem to make any progress in the world of bribery, can they?",
+      "characters": [
+        "Donna",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, you're right. Excuse me, excuse me. Would you mind. I'd like to take the picture back.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Holly",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right.  Let me just say one thing: there is no way that this is gonna happen. You hear me? No Way! Because if you think I'm going' to two Thanksgivings, you're out of your mind!!!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The bad fiancé&Mac226, the bad dinner guest, the bad credit risk...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't think I can take another season with him, Jerry. He'll just trade away their best young prospects, just like he did with Beuner, McGee, Drabek... McGriff...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, that's the way Russell is. He doesn't like to play games.",
+      "characters": [
+        "Susan",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Yeah, I thought you were doing okay. I just didn't think you were in this kind of, you know, uh... position.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I once talked to the reverend Yung Son Moon. He bought two Jesus statues from me. He's a hell of a nice guy.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Never mind. The're done. All I have to do now is redo them. You know if you take everything I've ever done in my entire life and condense it down into one day, it looks decent.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If you think you can drug me and play with my toys, you got another thing coming, buddy!",
+      "characters": [
+        "George",
+        "Morty",
+        "Peterman",
+        "Celia"
+      ],
+      "correctAnswer": "Celia"
+    }
+  ]
+}

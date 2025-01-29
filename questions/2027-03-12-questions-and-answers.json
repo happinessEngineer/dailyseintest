@@ -1,0 +1,106 @@
+{
+  "gameNumber": 799,
+  "date": "2027-03-12",
+  "questions": [
+    {
+      "quote": "Not because he think you stole the money, but mainly because you never thanked him for giving you his aisle seat at Freddy Roman's show.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Evelyn",
+        "Elaine"
+      ],
+      "correctAnswer": "Evelyn"
+    },
+    {
+      "quote": "All right, all right. You sound a little freaked out yourself.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey look, I just chalked down the message. I didn't know I was required to capture the mood of each caller.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jake"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "It looks like my accountant's office but there's no pets working there.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Melissa",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You single-handedly brought Costanza and Son to the brink of bankruptcy.",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Ray",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Kramer, Kramer, can you do this at home? I've got, I've got work to do, okay?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you know what? The second day I was there I stepped on a jellyfish. Now it kind of stung my foot. That's probably what Rula was trying to warn you about.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, would you take this picture away from me. Take it away and get it outta here. Let me just sign this and go.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, I would like to thank you for the greatest four days I ever spent in my life.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mike",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. You don't see many guys your age who keep baby pictures of themselves around.  I like it. Consistent with the rest of the house.",
+      "characters": [
+        "Sylvia",
+        "Jerry",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "Sylvia"
+    }
+  ]
+}

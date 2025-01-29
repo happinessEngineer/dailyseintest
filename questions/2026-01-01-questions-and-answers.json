@@ -1,0 +1,106 @@
+{
+  "gameNumber": 364,
+  "date": "2026-01-01",
+  "questions": [
+    {
+      "quote": "Jerry please, that's very nice, but, uh,  where would we be going?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello Archie, Veronica, Mr. Weatherbee. . . . Is this Don Matingly's signature?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, you don't understand - it's not what you think! It was an accident!",
+      "characters": [
+        "Shelly",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This photo clearly indicates your involvement in some ill-conceived mail order pornography ring.As does this one found in the same disturbing packet.",
+      "characters": [
+        "Sid",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, sure. I was showing a condo on 48th street. Besides, you think I wanna miss this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, did you leave the A/C on? Do you zip over speed bumps? Do you ride the clutch? Things like that.",
+      "characters": [
+        "Detective",
+        "Elaine",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "I don't know what'cha had to tell her that for. You put me in a very difficult position, Marine Biologist! I'm very uncomfortable with this whole thing.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is everybody ready? Didn't I tell you I wanted you to wear the cardigan?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Chiles"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "All right. So I tell Sandy that I want to have a ménage à trois with her and her roommate.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Vanessa",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I forgot. And, the best part is, he doesn't play games. You know? There are no games!",
+      "characters": [
+        "Elaine",
+        "Ethan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

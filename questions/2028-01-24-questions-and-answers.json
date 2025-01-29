@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1117,
+  "date": "2028-01-24",
+  "questions": [
+    {
+      "quote": "YES! YOU'RE DAMN RIGHT YOU SHOULD!  Fight for her, Jerry, she's sure as hell fighting for you!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But if you think about it...26 teams, 162 games a season, you'd think eventually an entire team would get wiped out.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I'm REFRESHED. I finally found a way to sleep in my office. Under the desk. I lie on my back. I tuck in the chair. I'm invisible.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're for protection, Jerry. Can you tell where I'm lookin'?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Silvio",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How could we not hear anything? What's with this Russel? What's he doing?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Lippman",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.",
+      "characters": [
+        "Jerry",
+        "Steve",
+        "Kramer",
+        "Harold"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, it's ya nothing. Forget it, forget it, I just find it curious.",
+      "characters": [
+        "Keith",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know they changed the name from Hundred-Thousand-Dollar bar to Hundred-Grand?",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Elaine, listen, I was talking to a friend about this dog business. Do you realize this is gonna be on our permanent records? Are you aware of this?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just came from the podiatrist. I have a mole on my foot. I've got a little gangrene, they're probably gonna have to amputate.",
+      "characters": [
+        "Michael",
+        "Manager",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
+    }
+  ]
+}

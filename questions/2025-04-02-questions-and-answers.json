@@ -1,0 +1,106 @@
+{
+  "gameNumber": 90,
+  "date": "2025-04-02",
+  "questions": [
+    {
+      "quote": "I don't care about the sauce. It came in this funny little bottle, and there was a guy on the label that looked exactly like Charles Grodin.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Let's uh, go to your place. Because I, threw out all my dishes.",
+      "characters": [
+        "Carol",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, Marcelino wants us to sell him Little Jerry Seinfeld.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's funny. I mean, you have a big head. Or is it 'cause of your neck?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Greg",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you when you can go. Wait, wait, wait, Wait-- now, now, now. No, no, no. Go, go! No, no. Wait-- now, now! Now! Jerry! Go--ahh...",
+      "characters": [
+        "Jake",
+        "George",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, apparently NYU is very enthusiastic about their students getting some real world corporate experience.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well let me ask you this. What exactly did you say when you asked her out?",
+      "characters": [
+        "Gavin",
+        "Bania",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey listen, I was wondering if either one of you guys would be interested in doing some work for the Big Brother program? I'm kinda running the local chapter. What do you say George?",
+      "characters": [
+        "Alec",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "Hello. Yeah, hi, this is Jerry Seinfeld calling for James Kimbrough. Hello? Hi? Uh huh, really, uh, no problem, definitely, ok, buhbye. That was James Kimbrough.",
+      "characters": [
+        "Jerry",
+        "Sally",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this. They make a point of saying on the menu, \"No egg white omelets.\" Look at that.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Abby",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

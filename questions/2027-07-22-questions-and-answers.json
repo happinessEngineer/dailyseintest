@@ -1,0 +1,106 @@
+{
+  "gameNumber": 931,
+  "date": "2027-07-22",
+  "questions": [
+    {
+      "quote": "Well it's a little strange. You going to start to talk like Elaine from now on?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, when I give you the signal, I want you to turn this water on full blast.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's older, completely covered in filth, no whistle, but I think it's him.",
+      "characters": [
+        "George",
+        "Kate",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "this is great! He fired her! This is incredible, he fired her. I'm out, baby! I'm out!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no that's not him. What happened to him? I can't believe it. I lost him. That stupid idiot. Now what are we going to do?",
+      "characters": [
+        "Buckles",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They thought I was George. I'm not that bald. And I have too little time left to take that kind of crap, so I, slugged him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kurt",
+        "George"
+      ],
+      "correctAnswer": "Kurt"
+    },
+    {
+      "quote": "You know, it was really wrong of you to back out on that deal.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Elaine, this dry air is curing me like a Black Forest ham.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Rebecca"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Uh, look, Elaine's here, I gotta get going. Oh, by the way, uh, I'm not getting married. Tell mom. Bye.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Valerie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's, nothing I planned on happening, you know. It just, kind of happened.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

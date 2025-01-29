@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1051,
+  "date": "2027-11-19",
+  "questions": [
+    {
+      "quote": "Steady, steady, now calm yourself, come on, now get a hold of yourself,",
+      "characters": [
+        "Susan",
+        "Mohel",
+        "Joel",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Again with the checked out. I'm not going to the doctor. If I don't to the doctor, then nothing will happen to me. If I go he might find something.",
+      "characters": [
+        "George",
+        "Babu",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "TV Elaine. She wants to get together and talk about the part.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's still some overlap between the needle and the slash below the \"E\".",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, Kramer, look at him.  Look! He's eating all the food!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "By the way, you're doing it too fast. You'll disorient the customers.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey everybody, look! The little chicken girl wants me to ease up. He can't handle this, so he cries like a woman!  Hahaha!",
+      "characters": [
+        "Milos",
+        "Jerry",
+        "Alec",
+        "Elaine"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Y'know the average life span for an American male is like, 72. You're really... kinda pushin' the envelope there.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Gennice",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sure, sure. She's getting a bargain, too. It's only four hundred dollars a month.",
+      "characters": [
+        "Sid",
+        "Harold",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Do you think people are going to pay $80 a bottle to smell like dead fish and sea weed? That's why people take showers when the come home from the beach. It's an objectionable offensive odour.",
+      "characters": [
+        "Steve",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Steve"
+    }
+  ]
+}

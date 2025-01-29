@@ -1,0 +1,106 @@
+{
+  "gameNumber": 972,
+  "date": "2027-09-01",
+  "questions": [
+    {
+      "quote": "Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again?",
+      "characters": [
+        "Officer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I hear three distinct sounds. A low rumple...followed by a metallic 'squink'...",
+      "characters": [
+        "Betsy",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I would. It's just, you know, I just ate a whole pot roast.",
+      "characters": [
+        "Tony",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I think I bought too much at that price club. I don't have any room for it all.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know Jack, you've got a hell of a nerve taking that kid's pen.",
+      "characters": [
+        "Jerry",
+        "Conrad",
+        "Jake",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Don't they have any closer friends. They're level jumping on our friendship.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer says it's up to the cat now.  It'll be on your conscience.",
+      "characters": [
+        "James",
+        "Jack",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Chiles",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello Elaine? Patty Lawrence had orgasms what do you think about that? And I got calls in to six other women and I bet you they confirm an orgasm too. So what do you have to say now Elaine?... Hello?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So there you are. You've got a nice girl and a clean apartment.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Ronnie"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

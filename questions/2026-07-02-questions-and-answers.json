@@ -1,0 +1,106 @@
+{
+  "gameNumber": 546,
+  "date": "2026-07-02",
+  "questions": [
+    {
+      "quote": "You have cleaned out the whole apartment and you're making dinner. You're perfect, you're a perfect man.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Haven't been in the lab yet. But I am birth control shopping today.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What is that, Boyfriend? I don't understand that. What, what does she think I asked her out for?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, anyway, get this: I spoke to Alan. You know, I told him I didn't want to see him anymore.. He called me \"big head\".",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Hal"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, why don't you guys get a table so you'll have good seats?",
+      "characters": [
+        "Rachel",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, by the time I got to the end of the story, he was to relieved that we were alive he couldn't care less about the car.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's better than eating it alone in the restaurant, like some loser.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, alright, fine. You take the monkey's side, alright, go ahead.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No. No it's not. You don't know this guy. It woulda been so sweet.",
+      "characters": [
+        "George",
+        "Ellen",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. No. Don't be silly, John, you were very good. You just don't have to try so hard. Good luck, honey.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

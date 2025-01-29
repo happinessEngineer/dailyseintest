@@ -1,0 +1,106 @@
+{
+  "gameNumber": 140,
+  "date": "2025-05-22",
+  "questions": [
+    {
+      "quote": "Oh, alright ah well... There's a priest, a minister and a rabbi, and they're all staring at him....",
+      "characters": [
+        "Hanke",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Busy. Don't give me busy. Who's not busy? I'm busy, we're all busy, everybody's busy. All right, tell me, what's kept you so busy?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm not gonna tell her about your shrinkage. Besides, I think women know about shrinkage.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Izzy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You tell that son of a bitch no Yankee is ever comin' to Houston. Not as long as you bastards are running things.",
+      "characters": [
+        "Toby",
+        "George",
+        "Rabbi",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Thanks a lot. I'm really late. My parents are waiting in front of my building and we're stuck here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah. I see the irony. All right. What about this? What if I can find some way to break up with her so that she'll still like me and it doesn't affect the deal.",
+      "characters": [
+        "Gino",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I never even got to the gym. Kramer got the gloves, wanted to come home and start working on his floor.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't beleive your father owns this place. So how are the desserts here?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's a sports writer for the daily news. I find him very insightful...",
+      "characters": [
+        "Jerry",
+        "Janet",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, there's something wrong with Loni Anderson?  Hey listen, thanks again for running over here. I appreciate it.",
+      "characters": [
+        "Bette",
+        "Nikki",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

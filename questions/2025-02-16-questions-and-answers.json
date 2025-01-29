@@ -1,0 +1,106 @@
+{
+  "gameNumber": 45,
+  "date": "2025-02-16",
+  "questions": [
+    {
+      "quote": "Here, stand by the fire. Take off those wet clothes, you'll catch cold.",
+      "characters": [
+        "Man",
+        "George",
+        "Jerry",
+        "Earl"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "It's my money. What should I do? Throw it out the window? I know a guy who took his vacation on his change.",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "huh  but huh, in this medicated haze, in this woozy state, um do you recall the words.. radical reconstructive surgery being uttered?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Milos"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We'll start out with one, and they when it catches on, we're gonna have a whole fleet!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "Marcy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mr. Steinbrenner's birthday card. Wilhem said you had it for me to sign.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "First class doesn't make it anymore. Now you get on the phone with Kimbrough, tell him what happened and tell him to get another plane down here, but this time, the good one - the Ted Danson plane.",
+      "characters": [
+        "Jerry",
+        "Nina",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, why don't you do everybody a favour, and just get out of this building?  Nobody wants you here. Nobody!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Mary"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "An' then when you come home at night, you're always exhausted--we never do anything anymore!",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You just had one yesterday. What do you need another one for?",
+      "characters": [
+        "Kramer",
+        "Duncan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, that voice is tattooed on my brain, I'm telling you it's her",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

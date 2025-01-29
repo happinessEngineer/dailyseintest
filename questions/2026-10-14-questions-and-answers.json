@@ -1,0 +1,106 @@
+{
+  "gameNumber": 650,
+  "date": "2026-10-14",
+  "questions": [
+    {
+      "quote": "...It just makes me a little uncomfortable and I can't do it. I'm sorry.",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We should probably get one for Elaine, too, right George?  George?",
+      "characters": [
+        "Frank",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There should be a B.O. squad that patrols the city like a \"Smell Gestapo\". To sniff 'em out, strip 'em down, and wash them with a big, soapy brush...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, c'mon. She'll pay you back. What's five grand between friends?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's like the manager coming out and asking you for the ball.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Marcy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, you made the allegation. The least you could do is follow up.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Clare won her lawsuit against Play Now. Gee, Play Now is filing for bankruptcy. I guess you're not going in anymore.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I like to remain friends with people I was friends with!",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sand, I can get rid of the sand.  Look there's still some in here, it won't go away! Look I even got sand in the pockets!",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I bet they're probably doing summersaults about us over there. You think they get butler stories like that everyday?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Fdr",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 24,
+  "date": "2025-01-26",
+  "questions": [
+    {
+      "quote": "I don't know what I'm gonna do. She asked me to give her a baby shower.",
+      "characters": [
+        "Jerry",
+        "Allison",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, you understand how my Peterman stock options are gonna work?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think so. I'm Patty. Milos gave me your address. I hope you don't mind me waiting for you here.",
+      "characters": [
+        "Patty",
+        "Jerry",
+        "Elaine",
+        "Captain"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "Lomez, you're not listenin'. Jerry likes the naked, just some of the things she does when she's naked. Calm down, I'm on your side. Geez. Hey, hold on a second. I got a clog, I'll call ya back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Um, I'd like to but a bunch of us from the islands, we'll be getting together.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait, there is one way to find out. We set up a sting. You know like Abscam. Like Abscam Jerry.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Carol",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did you see the size of that document? It's like the Declaration of Independence, who's gonna read that?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Pam.\" I don't know the woman, but she sounds quite fetching.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "...My uncle to my cousin, my cousin to my sister, my sister to me.",
+      "characters": [
+        "Kramer",
+        "Rebecca",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I bought a bottle of BBQ sauce in Memphis. I think the stewardess broke it when she tried to jam it into the overhead compartment because of this",
+      "characters": [
+        "George",
+        "Jerry",
+        "Clerk",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

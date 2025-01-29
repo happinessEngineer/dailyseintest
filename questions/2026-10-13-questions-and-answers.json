@@ -1,0 +1,106 @@
+{
+  "gameNumber": 649,
+  "date": "2026-10-13",
+  "questions": [
+    {
+      "quote": "Yeah! That's how they talk. You know, everyone's either a bastard or a son of a bitch. Yeah, it's like uh...\"boy, that son of a bitch Box can really hit, uh?!\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Receptionist",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know they're in there, the three of them, laughing at me. Together, laughing and lying.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Toby",
+        "Lois"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I will get you for this. This is my business, this is my life. No one ruins this for me. No one!  Here's my card.",
+      "characters": [
+        "Mohel",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Yeah. It's an Indian soup. It's simmered to perfection by one of the great soup artisans in the modern era.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright I'll uh, I'll call her at home.  Go ahead, it's all yours.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did you ever think about what you're going to do on the toilet?  What are you going to do on the toilet?",
+      "characters": [
+        "Enzo",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "No, no, no, you don't understand! I'm not a lesbian! I hate men, but I'm not a lesbian!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Guard"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, I have two tickets for you  to the Flying Sandos Brothers magic show.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I try to take a vacation, I come back, the whole operation's a shambles.  Hello.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Greg",
+        "Donna"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's tough to get a good read but I think if I brought him a chair, he'd sit.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

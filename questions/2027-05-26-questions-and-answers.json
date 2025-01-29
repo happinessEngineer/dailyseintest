@@ -1,0 +1,106 @@
+{
+  "gameNumber": 874,
+  "date": "2027-05-26",
+  "questions": [
+    {
+      "quote": "You want a picture like that on a Christmas card? I can do that for you. ...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah! Health's not good enough. I want more than health. Health's not doing it for me anymore. I'm sick of health.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello Margery, George Costanza. How are you sweet heart? Listen, can you give Mr. Thomassoulo a message for me? …Yes. If he needs me, tell him  I'M IN MY OFFICE! Thanks.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Dwayne",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I can't. She knows I go there. It's not secure.  Hey, I got another call comin' in. I gotta let the machine get it. Bye.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Squire's walking stick. I had to write about it for the catalogue.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you keep it a secret your whole life, then at your funeral the mortician comes out  'Here, Mrs Costanza, I thought you might want this'.  Aahh!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When you ask someone about their relationship and they touch their face, you know it's not going too well. Go ahead ask me how it's going with somebody.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, it's all swollen. I think I may have chipped a tooth when I fell yesterday.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's a spanish dish. It's a moulage of fish, an meat with rice. Very tasty.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, don't wander too far, I'll meet you back here in fifteen minutes.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

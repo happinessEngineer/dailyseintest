@@ -1,0 +1,106 @@
+{
+  "gameNumber": 793,
+  "date": "2027-03-06",
+  "questions": [
+    {
+      "quote": "More cereal? that's your third bowl today, you had it for breakfast and lunch.",
+      "characters": [
+        "Tony",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh damn. They changed the cable stations again.. just when I finally memorized them.",
+      "characters": [
+        "Kruger",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Hey look, if you're going there, maybe you could pick me up some of this super hydrating, it's a total-protection moisturizer with Uva.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm uh, I'm meeting James here. He's bringing over your jacket.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh... Excuse me. I couldn't help but notice you offered her a piece of your pie.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Joel",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you something else, you're looking a little chunky yourself, buddy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know I heard her screaming from my apartment? She woke me up a few times.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where are you living? Are you here? Are you on this planet? It's impossible. It can't be done.",
+      "characters": [
+        "Abby",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She doesn't deserve a baby shower. She deserves a baby monsoon. She deserves Rosemary's baby!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who do I know who would have even been in a limousine yesterday anyway. Uhh-O h-owow!",
+      "characters": [
+        "Estelle",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

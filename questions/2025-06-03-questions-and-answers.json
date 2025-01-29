@@ -1,0 +1,106 @@
+{
+  "gameNumber": 152,
+  "date": "2025-06-03",
+  "questions": [
+    {
+      "quote": "I don't know, but I gotta do this more often.   Ooh, there's my ride, finally.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "I'm tellin'you, I never told anyone about that baby. I never even went near your building!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Manager",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What red dot? What are you talking about? Jerry come here for a second. Do you see anything here?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well so she mentioned that she had a son, and then for some reason, I launch into the story about the kid from Pennsylvania who was abducted.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my God!  You know what I just realized?! If they get divorced an' live in two separate places? That's twice as many visits!",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've never seen him in Manhattan before; it's weird. So out of context.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think what he's trying to say is that he's having a heart attack.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm glad you called, Elaine. I really needed to talk to someone.",
+      "characters": [
+        "Man",
+        "George",
+        "Jerry",
+        "Celia"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "Not with that big glass window looking out into the hall. I'd love a good nap. That's the only thing getting me out of bed in the morning. I'll see ya'.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I-I gotta call the Hospital. I gotta tell 'em what happened.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

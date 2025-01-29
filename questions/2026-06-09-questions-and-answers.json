@@ -1,0 +1,106 @@
+{
+  "gameNumber": 523,
+  "date": "2026-06-09",
+  "questions": [
+    {
+      "quote": "I took two bites, how am I finished?  Plus you're coming down with something? You want me to get sick?  Bite?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now you gotta shut up!........I'm sorry, I..I haven't spoken in days.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who's Bozo? Bozo the Clown, that's who Bozo is. When I was a kid, Bozo the Clown was the clown, bar none.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Darryl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't even know where the bubble boy lives. I - I don't even remember the name of the town.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well, let's hope this evening turns out a little better.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ralph",
+        "Glenn"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What kind of person is this? There's only one other person who might be able to do something like this, and that's you.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tomarrow?! Are you crazy? No, now, now! Let's go!  You get dressed! Get dressed!",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My family used to live there, but, uh, we got out years ago, for obvious reasons. You know how it is.",
+      "characters": [
+        "Jerry",
+        "Attendant",
+        "George",
+        "Darryl"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "Didn't the theater manager give you the message before you went in?",
+      "characters": [
+        "Jake",
+        "Secretary",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "you said \"step off\"? wow, that is too much hey..huh hey  Tony, I huh, I just had this brainstorm for us. Can you guess what it is?",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

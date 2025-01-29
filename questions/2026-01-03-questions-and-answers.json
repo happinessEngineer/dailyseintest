@@ -1,0 +1,106 @@
+{
+  "gameNumber": 366,
+  "date": "2026-01-03",
+  "questions": [
+    {
+      "quote": "The works for the NYU school newspaper. She's a grad student in journalism. Never been to a comedy club. Never even seen me, has no idea who I am.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The doctor said that they need to build the lateral wall of the septum. Over here...",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Audrey"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "Mr Peterman, that can't have been the only time that you faced mortal danger.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, once you've had real Cubans, there's just nothing else like it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Not because you're dirty, not because you're clean – just because you kissed the girl behind the magazine...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Earl",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, maybe philanthropy is not your field.  Hello. Oh, Hi, Ellen. Yeah, I called the hotel.. we're all set for the weekend.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, look. I'm getting the Chow Fung. You don't have to have any.",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, alright. Fine George! Don't chip in! But some day, we're gonna be driving along, we're gonna look out the window, and see her crawling along 5th avenue! Is that what you want?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Konichi-wa. Yeah, it's a gift from my Japanese friends.  They're known as gift-givers. And tonight we're going dancing at the Rainbow Room.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Brody"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know the difference between a dentist and a sadist don't you?",
+      "characters": [
+        "Ricky",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

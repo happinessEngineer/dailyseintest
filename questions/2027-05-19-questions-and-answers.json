@@ -1,0 +1,106 @@
+{
+  "gameNumber": 867,
+  "date": "2027-05-19",
+  "questions": [
+    {
+      "quote": "Well, cause we were just saying we were going to ask you to come up to the country with us this weekend.  Susan's father has a cabin up there.  But, eh, all right, well.",
+      "characters": [
+        "Frank",
+        "Mickey",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I'm sorry, you had your buffer zone for many years. It's my turn to live, baby.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's stuck on a piece of cloth here. I can't get the cloth out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kurt",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is this? What are we doing? What in god's name are we doing?",
+      "characters": [
+        "Tim",
+        "Puddy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's not my fault. Seinfeld can't drive. How hard is it to follow somebody?",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because this woman came in with a dog and Ruby called the dog the same word they used when they were pointing at me…ge ge ge",
+      "characters": [
+        "Jerry",
+        "Kevin",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now why would a junior high school want to screw with my head?",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Cop",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's great Kramer... So-So, anyway, tell us what's involved in being a Godparent.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Greg",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You didn't think I was really going to give you a suit, did you?",
+      "characters": [
+        "Bania",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "You know, if we bring Elaine in, it's going to be so many people to keep track of. It's gonna be too hard, I'll forget where everybody's standing, you, me, Kramer, the butler, it's too much.",
+      "characters": [
+        "Susan",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

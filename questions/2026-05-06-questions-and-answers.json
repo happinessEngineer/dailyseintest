@@ -1,0 +1,106 @@
+{
+  "gameNumber": 489,
+  "date": "2026-05-06",
+  "questions": [
+    {
+      "quote": "No, cab's comin' in right here  Set of plastic hips, prosthetic legs, and a monkey to answer the door, I'm back in business.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that's Sergeant Tierney. Nice officer. You want to meet her?",
+      "characters": [
+        "Woman",
+        "Keith",
+        "Jerry",
+        "Lou"
+      ],
+      "correctAnswer": "Lou"
+    },
+    {
+      "quote": "Really? What's it like? Is it nicer than mine? Where does he have the couch?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lanette",
+        "Landis"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I hate asking for change. They always make a face. Like I'm asking them to donate a kidney.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "[quickly whispering] I resent that you said that! That's directed at *me*, isn't it?!",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, I'll tell you, but your begging needs a lot of work.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nice shirt..  What is this? Is this what you wore on the show?",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Oh, uh, yeah. Uh, here are your pliers back....Weak hinge.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You think I don't know huh? Mangos, plantains, plums with the red on the inside, that's Kramer!",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "No, I'm sorry. I'm just a little curious. I mean why did you stop seeing him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

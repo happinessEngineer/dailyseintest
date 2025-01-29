@@ -1,0 +1,106 @@
+{
+  "gameNumber": 55,
+  "date": "2025-02-26",
+  "questions": [
+    {
+      "quote": "You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?",
+      "characters": [
+        "Jerry",
+        "Babs",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not much more money. But you'll finally get the recognition you deserve.",
+      "characters": [
+        "Jeannie",
+        "Kramer",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I never knew you were so into breasts. I thought you were a leg man.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No Babu! No Babu! You bad man! You very bad man! You very lazy bad man!",
+      "characters": [
+        "Elaine",
+        "Babu",
+        "George",
+        "Toby"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Are you the ones leaveing the muffing pieces behind our shelter?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Joe",
+        "Rebecca"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "I'll tell ya, if I had one of these things, I'd be eatin' hot dogs all the time.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Todd",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, guess what! Little Jerry ran from here to Newman's in under thirty seconds!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I hear it's quite beautiful there this time of year, and of course you know I'm one-quarter French.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Newman",
+        "Helen"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Who am I going to tell? My mother? Like I've got nothing better to talk about.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You must hate hot dogs, huh? Or else, you, uh, you really like 'em and that's why you, you do this.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

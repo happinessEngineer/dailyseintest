@@ -1,0 +1,106 @@
+{
+  "gameNumber": 220,
+  "date": "2025-08-10",
+  "questions": [
+    {
+      "quote": "Till when - till he goes back to Seattle, or till he can feed himself?",
+      "characters": [
+        "Joyce",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, that's right. What if it's a genetic thing, like father like son?",
+      "characters": [
+        "Kramer",
+        "Poppie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just wanted you guys know that Friday's my last day. Bloomingdales ordered a bunch of my clips, thank God, I don't have to do this any more.",
+      "characters": [
+        "Rava",
+        "Kelly",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Kelly"
+    },
+    {
+      "quote": "Elaine, according to your urine analysis, you're menopausal. you have the metabolism of a sixty-eight year old woman.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Hey, hey, hey, hey, that guy can't even go to the bathroom in South America!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait, where are you going? Don't take your dolly and go home.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Chiles",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And that's not helpin' either. That's why you're havin' trouble with your staff, not because of George.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Daphne",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, wait a second, I believe we have a heckler ladies and gentlemen. Hey Dick I don't know what your problem is. It's not my fault you're back on the wagon.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Once I find a barber I stick with him. I almost went to barber school. I always felt I had a talent for it.",
+      "characters": [
+        "Newman",
+        "Brett",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No! Pick it up more in the front! It's got to be higher! Higher! Make a wall! A wall!",
+      "characters": [
+        "Sandi",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Sandi"
+    }
+  ]
+}

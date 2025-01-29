@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1046,
+  "date": "2027-11-14",
+  "questions": [
+    {
+      "quote": "Uhg. Well you hold it. Wait, uh, Damn It! I can't move it. God, I've never seen a zipper so stubborn. DAMN IT! I almost had it.",
+      "characters": [
+        "Susan",
+        "Dana",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "Elaine, what percentage of people would you say are good looking?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know chicken salad is not the opposite of tuna, salmon is the opposite of tuna, 'cuz salmon swim against the current,  and the tuna swim with it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Exactly!  You know how they get animals to reproduce in captivity? They just put them in the same cage.",
+      "characters": [
+        "Vivian",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read. I was wondering if-",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Conrad",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know how hot it gets there? Like 150 degrees. Your skin is gonna be simmering with boils.",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I wrote some jokes to the show and they gave me two tickets.",
+      "characters": [
+        "Elaine",
+        "Wyck",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, things were going so good for me, you know, I got the job promotion, we were talking about moving in together -",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "Babu"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Y-You didn't do anything. It's not you, it's me. It's- this is very difficult.",
+      "characters": [
+        "Kramer",
+        "Ed",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Five thousand dollars? She doesn't have five thousand dollars!",
+      "characters": [
+        "George",
+        "Levitan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

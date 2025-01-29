@@ -1,0 +1,106 @@
+{
+  "gameNumber": 900,
+  "date": "2027-06-21",
+  "questions": [
+    {
+      "quote": "You, I guess, you don't remember me.. but we actually, kind of um.. went out.. a couple of years ago.. once.. remember?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why? Why did you get into a fist fight with the cop? You were innocent!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How are you doing, Lloyd? I hear you're a big advisor for Dinkins now.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Jake"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah! But it never works. You know we're supposed to be there by two o'clock. We should take a cab.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? Every time I leave my house now I have to call everybody I know and ask them if they want to do what I'm doing?",
+      "characters": [
+        "Newman",
+        "Karen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I know, but I can't drive anybody anywhere until I go down to the motor vehicle bureau and get my new plates.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, stop kidding me. He's a doctor. He's a very good doctor.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because he told a man he'd give him a discount too... a man Jerry.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Diane"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't worry Kramer is going to take care of everything. See,, I got you Pineapple. I saw Beaches last night for the fourth time  \"You are the wind…\"",
+      "characters": [
+        "Jerry",
+        "Melissa",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you find a doctor that doesn't know your difficult.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

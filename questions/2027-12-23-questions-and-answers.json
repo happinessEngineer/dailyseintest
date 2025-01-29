@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1085,
+  "date": "2027-12-23",
+  "questions": [
+    {
+      "quote": "Don't worry, it's not gonna happen again. Not if I have anything to say about it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nice. French doors'd really open this place up. Oh, but you have a slop-bucket.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Oh yeah!. Jimmy's been watching you....you're just Jimmy's type.\"",
+      "characters": [
+        "Vandelay",
+        "Jimmy",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "Oh, I found him. He was sitting on the steps of the library. I sat down next to him. He smelled like the locker room after that game against Erasmus",
+      "characters": [
+        "Kramer",
+        "Joe",
+        "Sid",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know exactly how he feels. Pleasure doing business with you. Do come again. Ha, ha, ha, ha.",
+      "characters": [
+        "Glenn",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "all right! rock-climbing! J..just the 2 of us? alright! hey I'll make some sandwiches, what what do you like? tuna? peanut butter?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, you're not going to believe what Kramer did to my mattress. . . . I can't talk to you like this. So Kramer completely funked up my mattress.",
+      "characters": [
+        "Marty",
+        "George",
+        "Elaine",
+        "Guard"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, right.  Swim around in a bowl for two weeks and get flushed down the toilet, that's a good life.    Let's go.",
+      "characters": [
+        "Ava",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Ava"
+    },
+    {
+      "quote": "Well how would you describe this woman?  Would you say she was an attractive woman?",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "What's the matter with you? I just talked to you fifteen minutes ago.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

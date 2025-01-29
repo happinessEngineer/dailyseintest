@@ -1,0 +1,106 @@
+{
+  "gameNumber": 724,
+  "date": "2026-12-27",
+  "questions": [
+    {
+      "quote": "Oh, yes I do. Yes, I do. OK? I'm interacting with someone here, if you can understand that. Now, I'm sorry.",
+      "characters": [
+        "Fred",
+        "Jerry",
+        "Kramer",
+        "Hanke"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "I was engaged to Mickey Rooney! He left me at the altar. Kramer! Kramer!",
+      "characters": [
+        "Helena",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "Boy, you really got it all, I'm sure Helen \"Girlie\" Brown would be very proud of you.",
+      "characters": [
+        "Mike",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Here's your ketchup back. You know, I had the hardest time trying to get some out. I mean, I just kept pounding and pounding on the bottom of it. Do you have any trouble?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, then what did you loan her the five thousand for? Oh, look, maybe she won't take it. I mean, she did say that she was gonna think about it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They're selling coffee, bran muffins.. you're surrounded by reading material. It's entrapment!",
+      "characters": [
+        "Jerry",
+        "Driver",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So they went out a few times, but apparently, when the fellow returned home, he discovered that the Benes tattoo does not wash off so easily.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He thought he could buy back that Cadillac for us? He's not getting away with that.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "That's what a coincidence is! There are no small coincidences and big coincidences!",
+      "characters": [
+        "Rava",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "I'm starting a Peterman Reality Bus Tour. Check it out. Hahaha.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Cindy",
+        "Clerk"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

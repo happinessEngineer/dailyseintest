@@ -1,0 +1,106 @@
+{
+  "gameNumber": 63,
+  "date": "2025-03-06",
+  "questions": [
+    {
+      "quote": "Do you believe the deal we got on this? A big screen TV? At that price?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Celia"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you don't think she's beautiful, there's something wrong with you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Jerry, I didn't want you to know I was out of work. It's embarrassing!",
+      "characters": [
+        "Donald",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I showered! Oh, wait a second... Since I showered, I've been in the car!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's a friend of ours on drugs and we're going to confront him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Ron",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, \"Levine\". And I'm Jerry Cougar Mellencamp. Anyway, I admit it was a fairly ridiculous thing to do, but I mean, I mean, obviously we have a little problem here.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Get up boy, get up! We got a problem here! Tough it up. This is for real, you've got to want it...",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "When I was a kid, all I ever dreamed of was steering the back of that big hook and ladder.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, what if I got my, nose pierced? That would be pretty freaky.. Oooohhhhaaa!",
+      "characters": [
+        "Kramer",
+        "Wendy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "'Cause Richie really respects you and he would listen to you.",
+      "characters": [
+        "Steinbrenner",
+        "Wilhelm",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

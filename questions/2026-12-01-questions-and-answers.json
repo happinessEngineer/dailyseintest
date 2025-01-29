@@ -1,0 +1,106 @@
+{
+  "gameNumber": 698,
+  "date": "2026-12-01",
+  "questions": [
+    {
+      "quote": "Jerry, George. [To Kramer] So, did you ask him about the records?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Dana"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "They got a billion people over there and he found a relative.",
+      "characters": [
+        "George",
+        "Landlord",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The show! Forget about the show! We should take the idea to a different network",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I hate to raise a crass financial concern but was there any information as to the where abouts of my PAPERS!",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I mean don't you think that he was probably called Maestro while he was conducting, not in social situations. I mean his friends probably just called him Lenny.",
+      "characters": [
+        "Elaine",
+        "Rava",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm gonna go to the cigar stores. I'm gonna see if I can sell that Indian.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't you see what this says? How can you possibly like somebody ,if you think they look like this?",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, Elaine's new boyfriend, you know. He's giving me this oversize chest of drawers. It's a Farbman.",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Morty",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Um, you know I'm starting to think that maybe lobster isn't the way to go.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Marlene"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, Jerry can you do me a favor?  Could you, go into the room with me to visit him because ah, I don't want him to think that I'm, y'know... interested.",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

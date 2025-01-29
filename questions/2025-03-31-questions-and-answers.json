@@ -1,0 +1,106 @@
+{
+  "gameNumber": 88,
+  "date": "2025-03-31",
+  "questions": [
+    {
+      "quote": "I couldn't help it! Elaine moved the mirror, I got discombobulated.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I doubt it. You know what he's doing now? He's putting a pool table in my old bedroom.",
+      "characters": [
+        "Rudy",
+        "Leo",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay. Hey, you know what, maybe I should give it to my therapist to read. She's smart, I trust her.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Joel",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't want to! I'm outta money! I got 714 dollars left in the bank.",
+      "characters": [
+        "Ade",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, nothing really, just a homicide. [She finds the right spot on his back] Oh that's terrific... Mulva.",
+      "characters": [
+        "Jerry",
+        "Laura",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, ha ha, It's not the toilets, it's not the toilets. It's something else. Are you ready for this?",
+      "characters": [
+        "Toby",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you didn't rewind it. There's a $2.00 charge for not rewinding.",
+      "characters": [
+        "George",
+        "Kimbrough",
+        "Clerk",
+        "Elaine"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "It's not that I want to keep talking about it? just think that the subject should resolve itself based on its own momentum.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, Mr. Seinfeld, please come this way. We need some X-rays.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Nurse"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "No, no, no. He knows how to talk to these people. No-one's gonna take advantage of Georgie.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

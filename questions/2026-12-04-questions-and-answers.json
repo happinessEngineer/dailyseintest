@@ -1,0 +1,106 @@
+{
+  "gameNumber": 701,
+  "date": "2026-12-04",
+  "questions": [
+    {
+      "quote": "She lives right off Riverside Park. I was scared of the Lopper, So I let her stay over.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't pay five cents, you get five cents back. Here, read the label here.  Vermont, Connecticut, Massachusetts, New York. Refund,  vrrup, five cents.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ooo, yeah..   You know, it's gettin' kind of late, I, I really have to be going, so, uh, it's nice seeing you again, all right--",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, as long as I'm up. Dad, I got you a birthday present. Here. Happy Birthday.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Georgie what were you doing poking around the attic last night?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "You gotta jiggle it a little bit. I jiggled it. I jiggled it for fifteen minutes.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Awright, let's just stay calm here! Don't get all crazy on me!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You gotta go with me. I mean, you-you're my alibi. You have to take the stand.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Marla",
+        "Julie"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "There, you see. She's already in a bad mood. She just got fired.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got him Yankee's tickets! He got me a piece of paper saying \"I've given your gift to someone else!\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

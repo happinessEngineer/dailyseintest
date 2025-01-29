@@ -1,0 +1,106 @@
+{
+  "gameNumber": 808,
+  "date": "2027-03-21",
+  "questions": [
+    {
+      "quote": "Yeah, well, he nods. And I think he understands me, he seems to enjoy it when I read to him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Bell's Palsy. The entire side of my, of, of my face was paralyzed. Farfel! I couldn't, I couldn't, I couldn't even feed myself, I was completely incapacitated. Quiet Farfel!",
+      "characters": [
+        "Kramer",
+        "Gavin",
+        "Michael",
+        "Jerry"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "Look, I'm sorry, Puddy. It-it was a mistake. So, let's just put it behind us, and we can continue like this never happened.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, tell you what, they're expecting us though. Lemme just grab a hotdog here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Oh. Oh. Yeah, sure. Here. Uh, sit down. Uh, uh, cheese, there?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, yes, you know I was in detention and she came up behind me while I was erasing the blackboard . . .",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Christie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Have you ever seen yourself?  Ah, ah, please, please. Not in my home. I gotta go throw this stuff in the laundry. I'll be right back.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Julie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So now she's lost a phone face-off? That's even worse than your cell phone walk-and-talk.",
+      "characters": [
+        "Sara",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All I want is my seventy-five cents back, an apology, and for him to be fired!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I always look annoyed. Yeah, when you look annoyed all the time, people think that you're busy. Think about it... .",
+      "characters": [
+        "Sidra",
+        "George",
+        "Jerry",
+        "Attendant"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

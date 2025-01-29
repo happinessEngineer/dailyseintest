@@ -1,0 +1,106 @@
+{
+  "gameNumber": 747,
+  "date": "2027-01-19",
+  "questions": [
+    {
+      "quote": "I say we leave now, we go to 'Skyburger' and we scarf 'em down.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "U-oh come on up.  It's Elaine you don't have a problem with her do you?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let go, Farfel! Let go, gimme that! Gimme the sneaker you stupid idiot! Shut up!  So what would you do?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Susan",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Huh haha!  You're meat, Reilly! You just screwed yourself!  Ha ha!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you're going along, you think everything's all right and all of a sudden you get that tap. . You know it's like pfffff , all right that's enough, you're through.",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry... This woman hates me so much. I'm starting to like her.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This could be in a museum some day! It's not safe with me! It should really be in a doormanned building.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, fifteen minutes. I guarantee you fifteen minutes, I can make it happen!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is this? A birthday card. Ha ha . . . signed by the ENTIRE Yankee organization! . . . This could be worth something.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "My neck is killing me. Right in this spot. Very tender over here.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Rebecca"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

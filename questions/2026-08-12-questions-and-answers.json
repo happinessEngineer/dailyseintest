@@ -1,0 +1,106 @@
+{
+  "gameNumber": 587,
+  "date": "2026-08-12",
+  "questions": [
+    {
+      "quote": "Well if you want to move the cars, move the cars. Just don't forget to take the keys out, that's all.",
+      "characters": [
+        "Jerry",
+        "Salesman",
+        "George",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I'd really like to go, Elaine. But, George is coming back from the hospital. I gotta wait for him. But otherwise I would definitely go.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, right here you wrote \"Myra had the baby\", but you didn't use an exclamation point.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you got a bad peach? That's an act of God. He makes the peaches. I don't make the peaches, I sell the peaches. You have a problem? You talk to him.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Joe"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Come on up.  Oh, all right, forget it, I'm gonna take it with me now...  I'm just gonna pack up the cushions right now...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Aaron"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm going out with her tomorrow, she said she had some errands to run.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. You forgot about my piece of pie. Hello?  You know, sex in a tub. That doesn't work!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I love her Jerry, she's so authentic. I really believe everything is actually happening to her. There's no acting there.",
+      "characters": [
+        "Katie",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, Jerry. Let's see if you can get it in your head that this is not an Easter egg hunt for your childish amusement.",
+      "characters": [
+        "Kramer",
+        "Evelyn",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me.  Doris would like to borrow red your pocketbook to go with her shoes.  The shoes have to match the pocketbook.  What's she doing? Yoga?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Jack"
+    }
+  ]
+}

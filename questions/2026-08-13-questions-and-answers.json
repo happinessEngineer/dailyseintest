@@ -1,0 +1,106 @@
+{
+  "gameNumber": 588,
+  "date": "2026-08-13",
+  "questions": [
+    {
+      "quote": "Jerry, come on. Don't get upset about it. There's always next spring. Now will you excuse me for a moment. Serenity nooooooooww!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This is out best model. The Cougar 9000. It's the Rolls Royce of wheelchairs. This is like... you're almost glad to be handicapped.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "I told him a pack of teenagers in a convertible were terrorizing us and they followed us into the city.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I didn't do anything. I was never informed. … YOU CAN ALL GO STRAIGHT TO HELL…. You see that? You see what I am going through?",
+      "characters": [
+        "Gennice",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Gennice"
+    },
+    {
+      "quote": "Seeing Maura. Apparently, I was unable to break up beyond a reasonable doubt.",
+      "characters": [
+        "Frank",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, heh. You know, a friend of mine has a watch just like that. I'd love to replace it for him as a gift.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Cop"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah those are the pastries, Ray take care of that, I'm going to get Elaine the manuscript.",
+      "characters": [
+        "Rava",
+        "Frank",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "He's become the laughing stock! You know The Times has already stated it could cost him the election.  Name tags!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Audrey",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This hotdog's been here since the silent era. You'd have to be insane to eat it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Attendant",
+        "Newman"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu \"Ther - There is nothing finer than being in your diner.\"?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

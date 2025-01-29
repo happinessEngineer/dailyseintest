@@ -1,0 +1,106 @@
+{
+  "gameNumber": 921,
+  "date": "2027-07-12",
+  "questions": [
+    {
+      "quote": "Yeah, alright, fine.  You sit there and you watch while Newman takes over the world.  But he'd be a horrible leader.  And you know who's gonna suffer?  The little people; you and George.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's no big deal, you know, it's just that he can sound like a woman, you know?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "David"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's perfect.  Hey, how would you guys like to watch Super Terrific Happy star Jerry Seinfeld?",
+      "characters": [
+        "George",
+        "Estelle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You think she thinks I have a beautiful face, or is she just saying that?",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, there's no traffic at this time. Now, come on, man...",
+      "characters": [
+        "Puddy",
+        "Darren",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you think the Nazis were doin'?  That was the heil-five.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's the difference, you're a woman. They're supposed to be touching you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Melissa",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, it's awful! They're upset because we're an interracial couple. That is racism!",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If I didn't put that floss in my pocket, I'd be crawling around her bedroom right now looking for my glasses.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I gotta make some changes. I'm not a woman. I'm a child. What kind of life is this?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

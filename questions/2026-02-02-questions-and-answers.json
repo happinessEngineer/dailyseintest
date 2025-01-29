@@ -1,0 +1,106 @@
+{
+  "gameNumber": 396,
+  "date": "2026-02-02",
+  "questions": [
+    {
+      "quote": "Wait a second.  This'll scare 'em off.  Well, good night, Ollie.",
+      "characters": [
+        "Jerry",
+        "Teller",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't give me \"Ma\". It's a good thing I didn't hit the table. I could of cracked my head open.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Yeah, I'll come by after work. Hey, I got a rubber pencil thing happenin' here..  Uh, I gotta go. I gotta go.  Sandra! Sandra? Hi, can you come here for a second?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, Beth and her new husband Arnie have listed me a reference for an adoption agency. They're trying to get a baby.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Mohel"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's the difference?! That's the one! He ripped me off! This guy ripped me off!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Gentlemen, gentlemen. I am so happy to see you both. There is just some inconsistencies I'd like to straighten out.",
+      "characters": [
+        "George",
+        "Toby",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "All right, then, I was gonna wait, to tell ya this, but.. last night, Susie..  she took her own Life..",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I guess she's batted around and she's back at the top of the order.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, man, look at this mess!  You know what's gonna happen if they see this?",
+      "characters": [
+        "Elaine",
+        "Levitan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe she decided to celebrate her birthday on the Monday after the weekend.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Poppie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

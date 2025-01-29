@@ -1,0 +1,106 @@
+{
+  "gameNumber": 133,
+  "date": "2025-05-15",
+  "questions": [
+    {
+      "quote": "Yeah. They said they haven't seen anybody go after balls with such gusto.",
+      "characters": [
+        "George",
+        "Kruger",
+        "Kramer",
+        "Donna"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're a portly fellow, a bit long in the waistband. So what's your pleasure? Is it the salty snacks you crave? No no no no no, yours is a sweet tooth.",
+      "characters": [
+        "Jerry",
+        "Nurse",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've gotta go to court, I'll get in trouble. What's the matter with you?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's a friend of a friend. You know Corky Ramarez up on 94th Street? One day he and I are playing Pachinco--",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Say those are some nice pants. I got a pair just like them at home.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well you cracked it! I warned the Queen you were gettin' close an', now it looks like we're gonna have to move the whole damn forbidden city.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I think we're gonna need more than a hand. They have to see a human face.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, to tell you the truth, I was thinking of buying my father a new car.",
+      "characters": [
+        "Elaine",
+        "Detective",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. I guess I just wasn't ready for the responsibilities of a pretend marriage.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry Leo's moving back here. I'm not ready to go back to Florida.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 198,
+  "date": "2025-07-19",
+  "questions": [
+    {
+      "quote": "Uh, this is Costanza, he's our new bra salesman.  He's supposed to start on monday.",
+      "characters": [
+        "Farkus",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Ohh, damn. I forgot to buy plant food again.. I'll bet I got a coupon for it.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Strange. For new pants, there's noticable wear on the buttocks of those chinos. Wait those are the clothes from the bag!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what this means? I'm starting the book tour. First stop : Regis and Kathy Lee.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, breaking up is like knocking over a coke machine. You can't do it in one push, you got to rock it back and forth a few times, and then it goes over.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Pitt",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe I'll get goin' then. I just remembered I got an appointment to get my, um, tonsils out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Rita",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Jerry. Number One here. Did you go see Izzy at the back specialist?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "That's new age music. Sounds of the forest. I find it soothing. Hey, look at this! What do you know? A massage table! This is great!",
+      "characters": [
+        "Melissa",
+        "George",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey ,You think that Shelly's upset that I made such a big deal about the pecan.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I haven't been myself lately. I've been snapping at everybody.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

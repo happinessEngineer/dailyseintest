@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1049,
+  "date": "2027-11-17",
+  "questions": [
+    {
+      "quote": "I don't believe this!  Excuse me, I wonder if you could do me a favor? My uncle's having a little problem with shoplifting..",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, if he's doing that bad, maybe he's in line for another promotion.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, hi. Mister Costanza, we were trying to get in touch with you. Wendy can't make her appointment.",
+      "characters": [
+        "Jerry",
+        "Doorman",
+        "George",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Skinny Mirrors! Barney's has Skinny Mirrors, they make you look, like, 10 pounds lighter.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Didja hear what happened? The mentor saw my act. She dumped me.",
+      "characters": [
+        "Bania",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Yeah, I know champagne, limos, cigars. WHAT happened to the papers?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Valerie",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok guys, we gotta be careful of one thing. Some of the stuff's very fragile We're going to have to handle it like a baby.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "That's what I came to talk to you about. Great job George.  You really nailed it.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "George",
+        "Gennice"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's a rare archival print.  Twelve extra minutes, full wide-screen CinemaScope, and if you come to the one o'clock show, you can hear Geoffrey Har-harwood.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Bania",
+        "Steve"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

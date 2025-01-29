@@ -1,0 +1,106 @@
+{
+  "gameNumber": 785,
+  "date": "2027-02-26",
+  "questions": [
+    {
+      "quote": "I gotta get to Fowler. I know that he would take this squirrel off my hands. It's practically bionic!",
+      "characters": [
+        "George",
+        "Milos",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, wait a minute, wait a minute. They're gonna be telling us how their dates went. Are we gonna share that information?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There could be more than one O'Brien on a plane who ordered a limo.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was just an innocent comment! I didn't know she had a pony!",
+      "characters": [
+        "Kramer",
+        "Roy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"No ,Elaine and I we're just discussing whether I could admit a man is attractive.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well! I can't spend the rest of my life coming into this stinking apartment every ten minutes to pore over the, excruciating minutia, of every, single, daily event..",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, your widower story's tested through the roof.  When are you getting out of there?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you talking about? What was I supposed to hide it somewhere?",
+      "characters": [
+        "Beth",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hah, I didn't know people still get married. It's hard today with men and women.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "We cold play \"Sorry!\" We cold play \"Steal the Old Man's Bundle.\"  Maybe I can get an extension cord and hang myself.  What kind of perfume is that you're wearing?",
+      "characters": [
+        "Elaine",
+        "Daphne",
+        "Jerry",
+        "Nana"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

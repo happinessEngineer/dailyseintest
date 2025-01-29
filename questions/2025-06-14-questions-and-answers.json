@@ -1,0 +1,106 @@
+{
+  "gameNumber": 163,
+  "date": "2025-06-14",
+  "questions": [
+    {
+      "quote": "Oh, Hey, eh, there's a spot right in front of the liquor store. You see",
+      "characters": [
+        "George",
+        "Elaine",
+        "Farkus",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, you know what, uhm... I just wanna take my car, and I'm gonna bring it someplace else.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Lou"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, when I'm skiing, Kramer, I'm trying not to kill myself, you're writing books!",
+      "characters": [
+        "Kramer",
+        "Clerk",
+        "George",
+        "Regis"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "Well, this is the Jerry Seinfeld that only I know. I can't believe I just told you that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, Cosmo, we're back in business. Let's check out the board. Now, who do you like?",
+      "characters": [
+        "Earl",
+        "Frank",
+        "Jerry",
+        "Matthew"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Yeah, O.K. I'll go get 'em.  What are you doing? Would you just put that down?  I gotta get some new friends.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's right, and I'll tell you what. I'm feeling a little off.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They were his.  Besides, we don't need any of those things.  We have each other.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Bonnie"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "Hello. No she's not here. Yes I will tell her. No I don't know what time she might be coming back. Look I gotta' go. Goodbye. . . . That, that's a long story.",
+      "characters": [
+        "Milos",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's cleavage. I couldn't look away. What am I, waiting to win an Oscar here? This is all I have in my life.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 206,
+  "date": "2025-07-27",
+  "questions": [
+    {
+      "quote": "You know, throughout this whole thing, she always kept a smile on her face.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me - I can't seem to find my car - do you think you could drive me...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ohh, what a sweet gesture. And autographed poster of my favorite tenor, with.. those two other guys. Oh, Elaine, this is magnifico!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Mon...? No, no, I can't wait til Monday, that's impossible, I gotta talk to him now. Where does he live?",
+      "characters": [
+        "Lippman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where you going? I-I thought I could count on you for a little compassion.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Gary"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, some of 'em look good. The ones that look good you don't even know about.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh! Nuts! Excellent! You know what I love? How there's two nuts named after people. Hazel...and filbert.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Yeah. It's the only way. Come on. What are you, kidding me?",
+      "characters": [
+        "Elaine",
+        "Owner",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, the thing is, I uh...I think I have a little crush on him.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Pam",
+        "Jackie"
+      ],
+      "correctAnswer": "Pam"
+    },
+    {
+      "quote": "Listen uh, petty cash just had tens and twenties.  Go ahead, count it.",
+      "characters": [
+        "Lippman",
+        "Babu",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    }
+  ]
+}

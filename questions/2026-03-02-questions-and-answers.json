@@ -1,0 +1,106 @@
+{
+  "gameNumber": 424,
+  "date": "2026-03-02",
+  "questions": [
+    {
+      "quote": "Mike. You say you're a bookie? You take a bet an' then you can't pay? I don't know, Mike, to me it sounds a little, how you say.. \"Phony\"?",
+      "characters": [
+        "Jerry",
+        "Amy",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, isn't that just like him?  You know, he has to be the only one who has 'em.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "well I don't know if there's gonna be any place to eat up there",
+      "characters": [
+        "Kramer",
+        "Toby",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, sweet elixir. It's fragrant nectar a soothing balm for the soul.",
+      "characters": [
+        "Ray",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Elaine, if I could say a word here about Jewish people. That man in no way represents our ability to take in a nice piece of juicy gossip and keep it to ourselves.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm afraid we'll start talking, and I'll gonna wind up going partners with him.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't see why's she more self-conscious about that than her toe thumbs.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "Hallie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "June 14, 1987.... Mets Phillies. We're enjoying a beautiful afternoon in the right field stands when a crucial Hernandez error to a five run Phillies ninth. Cost the Mets the game.",
+      "characters": [
+        "Newman",
+        "Abby",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell her I bumped into you, I'm giving you a ride uptown.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I put my half a can here on the tab. Why, what's your beef?",
+      "characters": [
+        "Newman",
+        "Kurt",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

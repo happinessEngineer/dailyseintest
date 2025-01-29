@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1111,
+  "date": "2028-01-18",
+  "questions": [
+    {
+      "quote": "Tuesday? I can't do it Tuesday. Steinbrenner needs me to run---",
+      "characters": [
+        "Kramer",
+        "Driver",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, from what I can piece together, our friend here met a gentleman.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right I'll be back in a second. You guys coming to my party?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's what you had to tell me? Your father wears sneakers in the pool?",
+      "characters": [
+        "Tony",
+        "Carol",
+        "Milos",
+        "Frank"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Oh, have a great show. Hey, we'll make sure it's a great show!",
+      "characters": [
+        "Toby",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "I start off with curls. That's good for the bicep.  I do 10 reps, 2 sets.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Well, I have to admit, I've always thought David was kind of sponge-worthy.",
+      "characters": [
+        "Jerry",
+        "Naomi",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.",
+      "characters": [
+        "Newman",
+        "Keith",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe it was because I refused to take off my shoes. Again, the foot odour problem. Her father would look at me and say, \" eno enoa juang \". Which means, \"this guy - this is not my kind of guy\".",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I don't get it. Why would a woman do that and then leave no way to get in touch with her.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Hallie"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

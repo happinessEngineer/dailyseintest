@@ -1,0 +1,106 @@
+{
+  "gameNumber": 791,
+  "date": "2027-03-04",
+  "questions": [
+    {
+      "quote": "I'm against all \"it's me\"s. So self-absorbed and egotistical, it's like those hip musicians with their complicated shoes!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Waitress",
+        "Jack"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I said I was coming down with the flu or something and I had to go home.",
+      "characters": [
+        "George",
+        "Darren",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry to have disturbed you. Terribly sorry. But the fish will be dead. You do know that. They can't live in plastic. That's not me talking, that's science.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Got her machine. I'm dead, I'm a dead man. That's it. I'm dead, I'm a dead man. Dead man.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's the *loser*. She's the victor. To the victor belong the spoils.",
+      "characters": [
+        "Kruger",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Every time I see her, I gotta kiss her hello. I just did it once, on her birthday, somehow it mushroomed. Now I dread seeing her because of it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Loretta",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, about ten, fifteen minutes. But I have to stop at a vegetable stand.",
+      "characters": [
+        "Greg",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, of course not! People's personal sexual preferences are nobody's business but their own!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm doing it, Jerry. I'm buying the Frogger machine. Now the torch will burn forever.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's always the first question with you. Why is that always your focus?",
+      "characters": [
+        "Jerry",
+        "Gennice",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 236,
+  "date": "2025-08-26",
+  "questions": [
+    {
+      "quote": "Well, if they make squeeze mustard, doesn't it stand to reason that they make squeeze ketchup?",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know of this is the house. I don't see Jerry's car anywhere.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Phil",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George was scarfing shrimp at this meeting, and this guy says 'Hey, George, the ocean called. They're running outta shrimp.'",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. He's disgusting! Besides, I'll take any chance I can to talk to her.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Greg",
+        "Elaine"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "This is so exciting. When are you going to sign the contract?",
+      "characters": [
+        "Newman",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "No, go ahead. Look at this place. I can't wait to get it cleaned.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're not around women. You don't know how important a man's hair is.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, it's amazing Peterman hasn't fired that dolt. She practically ran the company into the gro-ound.",
+      "characters": [
+        "Silvio",
+        "George",
+        "Jerry",
+        "Peggy"
+      ],
+      "correctAnswer": "Peggy"
+    },
+    {
+      "quote": "You know, Jerry has one of those every time he bombs on stage.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry. I don't know if you've noticed, but lately, I've been drifting, aimlessly?",
+      "characters": [
+        "Kramer",
+        "Holly",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

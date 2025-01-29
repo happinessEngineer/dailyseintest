@@ -1,0 +1,106 @@
+{
+  "gameNumber": 435,
+  "date": "2026-03-13",
+  "questions": [
+    {
+      "quote": "I could've! I mean, last week we waited for that friend of Kramer's for like, forty minutes.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I said something about dentists and it got blown all out of proportion.",
+      "characters": [
+        "Gary",
+        "George",
+        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Watch how it's done. Oh, hello, Mr. Vandelay? Would you like to buy a computer? Oh, really? Two dozen?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She likes the pop-in. I've told her how I hate the pop-in.  He likes the pop-in, too.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Who so belongs only to his age, references only popenjays and mumbo jumbos",
+      "characters": [
+        "Patrice",
+        "Katie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "Hi. Ah look, I know I don't have an appointment but it's really important that I talk with Julianna.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Lately, though, I've been, uh, - I've been buying the generic brand of waxed beans. You know, I rip of the label… I can hardly tell the difference.",
+      "characters": [
+        "Sara",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, no, no. Give it to her. I'd rather it belonged to another than see it destroyed. Newman, give it to her, I beg you.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Stationer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's either that or we stay here, near you, and just sit on the money. What do you think we should do, Georgie?",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Estelle",
+        "Woman"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, I have to say I'm very surprised and disappointed - blood brother.",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

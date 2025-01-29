@@ -1,0 +1,106 @@
+{
+  "gameNumber": 403,
+  "date": "2026-02-09",
+  "questions": [
+    {
+      "quote": "Name tags! Name tags! What kind of an idiot thinks anybody would be interested in an idea like that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This show's gonna ruin my entire career. I don't know how I got involved in this.",
+      "characters": [
+        "Poppie",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, It's Susan Ross's old college roommate; she moved to New York a few years ago . she's trying to become an actress.",
+      "characters": [
+        "Rachel",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm very comfortable working outta the house. I have a phone, we have a Kinko's nearby. You know, I think that my resume speaks for itself.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, give them to me, I want these keys.  I don't want to get physical!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Alright, watch me now.  Turn, back, head up, shoulders back...posture. You see? Posture.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If he beats me, I'll not only give you a raise, I'll send you to Hawaii for two weeks.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Kramer",
+        "Duncan"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "Nothing really, you know...just eh, stroll around the cell blocks, maybe eh, take in a shower fight.  Hey eh, you know you got a bounced check hanging up in the little market over on Columbus?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I know myself. If I'm out on the street and it's starts to go down, I don't back off until it's finished.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Michael",
+        "Rita"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

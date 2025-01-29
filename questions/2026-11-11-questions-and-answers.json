@@ -1,0 +1,106 @@
+{
+  "gameNumber": 678,
+  "date": "2026-11-11",
+  "questions": [
+    {
+      "quote": "No, y'know we took the old man's records over to Ron's and he tried to *screw* us so we got in a fight.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Celia",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ya, we've been trying to reunite Joey with his father who lives in Paris. But he's afraid to fly alone, you know he's kinda withdrawn, but he seems to take to you.  So it's a perfect solution.",
+      "characters": [
+        "Maestro",
+        "George",
+        "Doctor",
+        "Alec"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "I'm... I'm concerned. George? George, are you listening to me?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Deena"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "Well I'm very excited about this. I've always wanted to see how those sketch artists do it.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "here Elaine here, Superman  please, next time it will only be the two of us",
+      "characters": [
+        "Jerry",
+        "Announcer",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well its a Bordeaux. Robust, bold, very dry. As opposed to a Beaujolais -- which is richer and fruitier. Ahh, here's one. Twelve dollars.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no, no. It's not a new number. It's--it's--it's just a changed number. See? It's not different. It's the same, just...changed.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See? You know your father. He can't get a write to the penny, but that's why he was such a good president.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Clerk",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Well, it wouldn't hurt to go in the and be able to discuss it intelligently. Maybe you should take a look at a few bras?  Where is you bra? Give him a bra to look.",
+      "characters": [
+        "Fred",
+        "Jackie",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So I made a little list of people who might've made the mannequin. You know, possible suspects.",
+      "characters": [
+        "Kruger",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

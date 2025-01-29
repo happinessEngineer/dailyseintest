@@ -1,0 +1,106 @@
+{
+  "gameNumber": 58,
+  "date": "2025-03-01",
+  "questions": [
+    {
+      "quote": "Okay. But if I'm going to do this, we play by my rules or we don't play at all.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well there's really no point in me staying. I mean you just gonna be...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no no, don't interrupt the cycle. The machine is working, it, it knows what it's doing. Just let it finish.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Joyce"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, this baby loves the slob, loves it, eats it up. Eats the slob. Born in the slob. His father was a mudda'.",
+      "characters": [
+        "Michael",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uhuh, um you didn't feel uncomfortable spending the whole day at the museum with two complete strangers who were more than twice your age?",
+      "characters": [
+        "Monica",
+        "Morty",
+        "Elaine",
+        "Rula"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This stuff doesn't matter to me. See, I'm gonna do the character like me, not like you.",
+      "characters": [
+        "Milos",
+        "Jerry",
+        "Kramer",
+        "Tom"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "I don't know!  But I woke up in the Hudson river in a SACK!! I think she drugged me, but she's a murderer and I'm calling the cops.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh...it's daylight. It won't take you that long. Just make a clean break.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I didn't have a deal! They're two hundred dollars a pop. What do I do?",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wouldn't want to get lost in here. It smells like a toilet. People are such animals.",
+      "characters": [
+        "Elaine",
+        "Amy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Amy"
+    }
+  ]
+}

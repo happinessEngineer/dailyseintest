@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1112,
+  "date": "2028-01-19",
+  "questions": [
+    {
+      "quote": "Ya know it was somebody told me they thought they saw that thing come out of a limousine.",
+      "characters": [
+        "Newman",
+        "George",
+        "Alec",
+        "Corinne"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "What, again? Kramer, if you keep getting these attacks, you should see the doctor and have it checked out.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am totally loving it. Uh, you know … we should um … get going.",
+      "characters": [
+        "Elaine",
+        "Brett",
+        "Kramer",
+        "Leo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, well you're gonna have to cancel it, because I've told everybody about my party.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh stupid Leo was using one of those oven cleaners. He left the canister in there and the pilot light was on. The whole thing blew up.",
+      "characters": [
+        "Pop",
+        "Jackie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I want you to handle all the fact-checking and the copy-editing for the new catalogue.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Listen to the comeback.  'Oh yeah? Well the jerk store called. They're running outta you.'",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well I don't trust this guy.  I think he regifted, he degifted, and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Melissa"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't even want to look at you anymore! All these years of friendship and you're nothing but a felon. You're an embarrassment to the building.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No I didn't. I said \"sweep\". Let's sweep together, you know with a broom. Cleaning up.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gwen",
+        "Helena"
+      ],
+      "correctAnswer": "Gwen"
+    }
+  ]
+}

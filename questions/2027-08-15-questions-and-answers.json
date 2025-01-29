@@ -1,0 +1,106 @@
+{
+  "gameNumber": 955,
+  "date": "2027-08-15",
+  "questions": [
+    {
+      "quote": "It's not contest. The guy had nothing! The ship went down, he got into a life boat, I mean, come on.",
+      "characters": [
+        "Gillian",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh Jerry, that is so sweet of you but actually i already ate.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, the man's an individualist – he worked for Harry Flemming. He knows what he's doing.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "yes.. alright buddy, take it easy Kramer you down to it George? what's wrong?",
+      "characters": [
+        "Tony",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "We are with the American Medical Association. Can you confirm the correct spelling of your last name? Is it B-e-n-e-s.",
+      "characters": [
+        "Guy",
+        "Regis",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "She thinks a guy who lies about a life-threatening illness, so he can get some phony hair has perspective?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No way, Kramer. You've brought nothing but a mountain of misfortune and humiliation. Now get out.",
+      "characters": [
+        "George",
+        "Kate",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Jerry! I'm gonna find your stuff. I'm gonna solve it, I'm on the case, buddy, I'm on the case.",
+      "characters": [
+        "Amy",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You follow your katra, and you can do anything.  Now get out of here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tina",
+        "Melissa"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where's the heat in this car? Come on Elaine warm me up, oh! I'm cold. Just give me a little squeeze.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 115,
+  "date": "2025-04-27",
+  "questions": [
+    {
+      "quote": "So Mr. Costanza parked in a handicapped spot, and as a result you got in an accident, and your wheelchair was destroyed?",
+      "characters": [
+        "Elaine",
+        "Hoyt",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "I can't. He's been on my case about not paying attention. Besides, it's too late, I already told him I heard him.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bania can I talk to you for a second? How's everything going?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on Sitarides, cop to it. What brand of perverted science do you practice?",
+      "characters": [
+        "Attendant",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, at this place? It would destroy my whole profit margin.",
+      "characters": [
+        "Kramer",
+        "Betsy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The Dewey Decimal System, what a scam that was. Boy that Dewey guy really cleaned up on that deal.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Todd",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Every word out of my son's mouth now is *beep*, *beep*, *beep*.  You know what he said to me five minutes ago? Where's my *beep*ing cupcake?",
+      "characters": [
+        "Kramer",
+        "Maryedith",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Maryedith"
+    },
+    {
+      "quote": "So when somebody has B.O., the \"O\" usually stays with the \"B\". Once the \"B\" leaves, the \"O\" goes with it.",
+      "characters": [
+        "Bob",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Toasting makes me uncomfortable. But toast, I love. Never start the day without a good piece of toast. In fact, let's toast to toast.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's like a district attorney. If it's not the truth, I'll break under the cross. I actually have to do it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

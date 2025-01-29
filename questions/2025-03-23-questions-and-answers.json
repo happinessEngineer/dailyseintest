@@ -1,0 +1,106 @@
+{
+  "gameNumber": 80,
+  "date": "2025-03-23",
+  "questions": [
+    {
+      "quote": "You just gave them to him two days ago, he's gotta give you a grace period.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh Maestro, you, what are you doing? You don't have to do this. Do you believe this Maestro?",
+      "characters": [
+        "Abby",
+        "Kramer",
+        "Lanette",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A lot of ex-cons become busboys. They seem to gravitate twards 'em.",
+      "characters": [
+        "Mike",
+        "Steve",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That was the Vice President of the post office. I didn't get the transfer.. They knew it wasn't me doing my route!",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, you've both presented very convincing arguments. On the one hand, Elaine, your promise was given in haste. But was it not still a promise? Hmm?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Absolutely. Because instead of doing a wash, I just keep buying underwear. My goal is to have over three hundred and sixty pair. That way, I only have to do wash once a year.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tell them when you took my son's pen back. Tell them about that!",
+      "characters": [
+        "Morty",
+        "George",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Installing your Clarkman garbage disposal. Dismantle latch hasp beneath main drainage lot. Oh, come on, Clarkman.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mickey",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, why a cape? Who wears a cape? Where do you even get a cape?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you stop it? You'll have plenty of time to destroy it after I get it. Hey, George, I'm buyin' this car.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

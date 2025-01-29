@@ -1,0 +1,106 @@
+{
+  "gameNumber": 21,
+  "date": "2025-01-23",
+  "questions": [
+    {
+      "quote": "Oh I see....Yessss. Little Miss Candy Bar paid a visit, didn't she?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Mike",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I'm sorry, Jerry, we all don't have checks rolling in like you do.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, if I hear you correctly--and I think that I do--my advice to you is to finish your meal, pay your check, leave here, and never mention this to anyone again.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tv",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My uh uncle is having an operation. I just wanted to see how he was.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Salesman",
+        "Maura"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, it's like Edward the Eighth abdicating the throne and marrying Mrs. Simpson. Ooh.",
+      "characters": [
+        "Man",
+        "Elaine",
+        "Levitan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I thought it was so your parents wouldn't walk in while you're with a girl.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah? Well, you can kiss that jacket goodbye, Mr. Von Nozzin.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, we would like to be in business. Let's do business. We'll have some business. Let's have business.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hehee. W..we could be like the Gatsbys. Didn't they always like, you know, a bunch of people around, and they were all best friends?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You must have gotten me when I slowed down to take that curve because for a while there I was doing well over 100.",
+      "characters": [
+        "Attendant",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

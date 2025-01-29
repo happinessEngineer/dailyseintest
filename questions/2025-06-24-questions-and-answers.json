@@ -1,0 +1,106 @@
+{
+  "gameNumber": 173,
+  "date": "2025-06-24",
+  "questions": [
+    {
+      "quote": "You need a little pioneer spirit. You know, you don't have any of that Lewis and Clark in you.",
+      "characters": [
+        "Holly",
+        "Jerry",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, George told me the whole story, line for line, I mean I almost feel like I've seen it already and walked out on it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Darren",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not his girlfriend. Well, actually, we used to date, but not anymore.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Golden Boy's always the first shirt I wear out of the laundry. Here... touch Golden Boy!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I went to Tufts! That was my safety school! So don't talk to me about hardship.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, who got the final Death Blow, 'cause I thought that Hawaiian guy, he had it comin' to him!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Susan",
+        "Ray"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, let's think. Have you ever dealt with the poor in any other situation?",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm gonna go back there later and return it when there's different people working.. You want to catch a movie?",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I guess this would be all right. Jimmy, you remember Elaine? She's gonna watch you tonight.",
+      "characters": [
+        "Kramer",
+        "Vivian",
+        "Tim",
+        "Elaine"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "Hey, let's get the check, she's taking the bandages off at four o'clock.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

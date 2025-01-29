@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1094,
+  "date": "2028-01-01",
+  "questions": [
+    {
+      "quote": "Yeah, I do that too. I feel guilty about getting the pleasure. I feel like I don't deserve it so I talk. It stops me from enjoying it. There's nothing to eat in here.",
+      "characters": [
+        "Morgan",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! [throws her purse back at her] No, I mean, no thank you, nah...",
+      "characters": [
+        "George",
+        "Daphne",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're fresh  You're very fresh. You seem very fresh to me. You're very vital. I couldn't take you any fresher.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So basically, it's every man, woman, child, and invalid for themselves.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, George, because of society. So how did the big meeting turn out?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, I got, uh, you come in, you say \"Hi\", and I say \"Hello\".",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? you're breaking up with me? But I sacrificed and supported you while you struggled. What about my dream of dating a doctor?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We have got you in a very nice hotel, I-I don't know how you like to work, but ah, I can arrange for an office if you like.",
+      "characters": [
+        "Lippman",
+        "Jeannie",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Oh, well, I didn't do much. I just sat in the sauna. You know, it was more like a Jewish workout. I'll see ya.",
+      "characters": [
+        "Tim",
+        "Elaine",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "He'll be in with the X-Rays in a few minutes. You can get dressed.",
+      "characters": [
+        "Nurse",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Nurse"
+    }
+  ]
+}

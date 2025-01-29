@@ -1,0 +1,106 @@
+{
+  "gameNumber": 518,
+  "date": "2026-06-04",
+  "questions": [
+    {
+      "quote": "Oh no no, Mr. Pitt, you mustn't. You have to check with the pharmacy before you combine anything with your heart medicine,",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah?  You see, this is the kind of idea you should be coming in with. What the hell do you do round here all day anyway?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Pilot? So what do you make for something like that? Fifty? Sixty thousand?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You mean my crime of passion? If anyone betrays me, I never forget!",
+      "characters": [
+        "George",
+        "Leo",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "'Man's best friend'. Jerry, I want something like that on my tombstone.",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "Jerry",
+        "Sylvia"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, there's no time! Tell him your code! Shout out your code, man!!",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Heather"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Okay, THAT'S IT! \"oki on awa\" Where's my tail? I heard every word you said. You got some nerve.",
+      "characters": [
+        "George",
+        "Frank",
+        "Manager",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ok, I'm excited. I just don't happen to like exclamation points.",
+      "characters": [
+        "Kramer",
+        "Jake",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Well what about these nitwits that get on a plane with nothing to read? You know who these people are?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, alright, but no funny business, same deal as last night.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

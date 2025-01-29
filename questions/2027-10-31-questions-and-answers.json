@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1032,
+  "date": "2027-10-31",
+  "questions": [
+    {
+      "quote": "Do you ever just get down on your knees and thank god that you know me and have access to my dementia?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How long it takes to find a bra? What's going on in there? You ask me to get a pair of underwear, I'm back in two seconds...you know about the uh cup sizes and all? They have different cups.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No one is touching my feet. Between you and me, Elaine, I think I've got a foot odour problem.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No, no, now look now, Jerry, Jerry, it's no risk. I swear. The Mets have seventy-five games on cable this year..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Waiter",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know. I found them in your closet. Ever since Darren left I haven't been able to find anything. He took all my clothes to some cleaners. I'm clueless.  Is that clock right?",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, have you heard the one about the guy in hell with the coffee and the doughtnuts and--",
+      "characters": [
+        "George",
+        "Karen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I want to return this jacket and she asked me why and I said for spite and now she won't take it back.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The funny thing is: I can't wear 'em. I get too hot. I sleep in my underwear and a t-shirt. If it gets too hot, I just get the t-shirt off! Anyway, Danny says to me: 'You need any pajamas?'",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Not any more. Come on, get your ball, we're leaving. Let's go, let's go.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Poppie",
+        "Patrice"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, that's it. I'm going back to Putty. No move is worth this.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Woman",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

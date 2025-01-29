@@ -1,0 +1,106 @@
+{
+  "gameNumber": 71,
+  "date": "2025-03-14",
+  "questions": [
+    {
+      "quote": "It's my pleasure. Be good.  You know, I actually might not use them on Friday either so I'll let you know.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Alec",
+        "George"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "Of course I'll do it. I'd be happy to. So, all I gotta do is be there at seven?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, listen, I'll give you your spare keys, but I don't have them with me. Can I please have mine to give to back to Kramer?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey you know George isn't to happy, ahh, about your new friendship.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, the way I figure it, it's much easier to patch things up with Sheila than with the Soup Nazi.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Danielle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, hey, you know...I had a piece of whitefish over at Barney Greengrass the other day...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, you stand on the threshold to the magical world of sensual delights that most men dare not dream of!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello, this is Chemical Bank. Just wanted you to know that your checking account is overdrawn.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Voice"
+      ],
+      "correctAnswer": "Voice"
+    },
+    {
+      "quote": "Ma! Again with the ketchup? Don't they have 'em in the plastic squeeze containers?",
+      "characters": [
+        "Helen",
+        "Leo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "You know when I told him it was beautiful there, out of the clear blue sky he says there's nothing to rent. As if he doesn't want anyone else there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

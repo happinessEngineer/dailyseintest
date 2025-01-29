@@ -1,0 +1,106 @@
+{
+  "gameNumber": 20,
+  "date": "2025-01-22",
+  "questions": [
+    {
+      "quote": "Jerry, it's Sophie. I can't believe you don't recognize my voice.",
+      "characters": [
+        "Sophie",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "You couldn't figure out the \"World's Theory\" for yourself? It's just common sense. Anybody knows, ya gotta keep your worlds apart.",
+      "characters": [
+        "George",
+        "Earl",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I don't think so. No, he's an entertainer. You know, all over the place. That's where I come in.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is this? You got stains all over it! What the hell'd you do?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Ronnie",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You see the idea is for a rubber ball inside the tanker so if it crashes, the oil won't spill out.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Dan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me. I couldn't help overhearing. I notice you're eating a poppy seed muffin.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Well ..I don't argue with the body Jerry. It's an argument you can't win.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. You know what, you should go over there and get one to look good for my bachelor auction.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Nina",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We waited fifteen minutes for this. Tst - YOU SELL ME A CAKE WITH A HAIR ON IT. Then you want me to wait? . . . What are you doing  you're gonna wait now?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. I don't know how it happened. We were practically in Monticello. I mean, how could that thing have found its way back? There's no way.",
+      "characters": [
+        "Karen",
+        "Tawni",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 27,
+  "date": "2025-01-29",
+  "questions": [
+    {
+      "quote": "Nobody carries wallets anymore. I mean, they went out with powdered wigs. Yeah, see here's what you need. Just a couple of cards and your bankroll. See, keep the big bills on the outside.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Master of the House/Quick to catch your eye/Never wants a passerby to pass him by...\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why didn't you ask me? I know a million theater jokes. 'What's the deal with those guys down in the pit?'",
+      "characters": [
+        "Maryedith",
+        "Wilhelm",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Elaine.  I'm telling you Jerry, having a secretary is incredible.  I don't know why I didn't have one before.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "HE's not gonna eat them. He's buying 'em for his Pepsi girlfriend.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jack is emceeing tomorrow. He's in charge of the whole thing.",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I mean, is he allowed to do this? It's discrimination! I'm gonna call the states' attorney office. I really am.",
+      "characters": [
+        "Leo",
+        "Leslie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, yeah, alright, that sounds good, but I still get a tote bag though, right?",
+      "characters": [
+        "Babs",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I want to know what kind of an office this is where you can't leave your pants in the room. You tell me.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I usually spend Saturday afternoons with Susan. She's gonna want to know what I'm doing. I can't use Jerry, he's in Florida.",
+      "characters": [
+        "Maestro",
+        "Wyck",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

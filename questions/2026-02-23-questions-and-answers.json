@@ -1,0 +1,106 @@
+{
+  "gameNumber": 417,
+  "date": "2026-02-23",
+  "questions": [
+    {
+      "quote": "This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, just tell him you had sex with his wife. That'll kill him.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Aaron"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That poor priest. He was just visiting from El Salvador. Now he's gone completely loco.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wa, uh, thank you sir, you know I am not quite sure I'm right for it.",
+      "characters": [
+        "Kruger",
+        "Elaine",
+        "Celia",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She just has to say the complaint was related to a dental problem.",
+      "characters": [
+        "Roy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Well, I don't really have any money. But it says right here, 'interesting trades considered'.",
+      "characters": [
+        "Gino",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, tell me about it. These things have ruined me for Braille.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "No, no no. That skips a generation. The baldness gene comes from your grandfather.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Winona",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh huh. Uh huh! I think you spoke to your little friend Rachel, that's what I think.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, Mr. Costanza, what I want you to do is to come to the shop with me and tell me what they are saying. You do speak Korean?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

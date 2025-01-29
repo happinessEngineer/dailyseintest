@@ -1,0 +1,106 @@
+{
+  "gameNumber": 995,
+  "date": "2027-09-24",
+  "questions": [
+    {
+      "quote": "So she breaks up with him. Somehow picks up the pieces of her life. Miraculously meets... A New Guy! Ya bust that up! An' then, just as they're reconciling, you announce to the world: He's Boring.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Gail"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They'll be here at two o'clock. Oh, Elaine called. She said she'd be here at two-thirty. And she says \"Hope your meeting went well with 'Art Vandelay'?\"",
+      "characters": [
+        "Helen",
+        "Newman",
+        "Jerry",
+        "Haarwood"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "What did you put the Pez dispenser on her leg for in the first place?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, figure this out. I'm in the coffee shop, and this beautiful girl I could never even talk to, mistakes me for her boyfriend.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hold it. Broccoli? Newman, you wouldn't eat broccoli if it was deep fried in chocolate sauce.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Absolutely. But I feel I must inform you that what happened last night was more than a simple bet.",
+      "characters": [
+        "George",
+        "Hal",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I guess. But the really cool thing is the daily planner.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, just because I'm not working doesn't mean I haven't got any money.  Yo! Dogs! Two!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Detective"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, at the latest. Oh hang on a second, I gotta another call.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Celia",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Boy, you know when Joel told me he hadn't thrown up in eight years, I was wondering if he was normal.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

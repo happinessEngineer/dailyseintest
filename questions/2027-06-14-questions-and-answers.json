@@ -1,0 +1,106 @@
+{
+  "gameNumber": 893,
+  "date": "2027-06-14",
+  "questions": [
+    {
+      "quote": "Alright, I just have to go over to the Ross' apartment and drop off Susan's sunglasses. You'll come with me?",
+      "characters": [
+        "Ade",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How about when Harrison Ford jumped out of that plane, and he was shooting back at them as he was falling?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So anyway, he sings, he dances. And do you know what he's gotten into now? He is cooking! He does a crepe...",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "You know, there are 200 people who work in this office. Every day is somebody's special day.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Alec"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know, I just can't bring myself to do it meanwhile that freezer keeps getting smaller and smaller   oh, don't wanna keep Tony waiting",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know I don't want it! I don't need you to tell me what I don't want, you stupid hipster dufus!",
+      "characters": [
+        "Elaine",
+        "Heather",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, well... We're trying... But he just went insane there for a while...",
+      "characters": [
+        "Noreen",
+        "Judge",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "I'm not paying four hundred dollars! I don't even want the thing. What are you going to do?!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh the baby's fine. They just took him to the hospital as a precautionary measure. But look at me. I'm the one who's hurt.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know I know. I didn't have change for the bus and they don't give change in this city. So they threw me off the bus",
+      "characters": [
+        "Helen",
+        "Ralph",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

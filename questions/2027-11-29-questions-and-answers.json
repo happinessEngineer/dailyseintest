@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1061,
+  "date": "2027-11-29",
+  "questions": [
+    {
+      "quote": "I told Elaine about an apartment opening up in my building. She's going to move in.",
+      "characters": [
+        "Marcy",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'll tell you, she would have to be really vibrant. So vibrant, she'd be spinning.",
+      "characters": [
+        "Alton",
+        "Kramer",
+        "Jodi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm just waiting for a lift back to the island, he won't be ready until eleven, so I figured I'd give you a break.  I thought I'd see what it was like to hang out with someone in show business.",
+      "characters": [
+        "Jerry",
+        "Steve",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "I believe the doors on the bathroom stalls, here at the stadium, don't offer much by way of privacy. But I was thinking if we extend the doors all the way to the floors......",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. He cooks my food, he cleans my house, he does all my shopping for me. And there you go, that's your program.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think this is the same one I gave him.  He recycled this gift.  He's a regifter!",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "Melissa",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's a, it's a stony mineral concretion, formed abnormally in the kidney. And this jagged shard of calcium pushes its way through the ureter into the bladder. It's forced out through the urine!",
+      "characters": [
+        "Jerry",
+        "Rick",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You already have an in. You have the same first name!...  'Jerry'!",
+      "characters": [
+        "Kramer",
+        "Guard",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, thanks.  That's no signal, who wouldn't like me in this leotard? I look amazing in this leotard.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I could probably shoot him from here. I'd be doing us both a favor.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kruger",
+        "Phil"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

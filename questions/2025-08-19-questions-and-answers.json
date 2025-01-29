@@ -1,0 +1,106 @@
+{
+  "gameNumber": 229,
+  "date": "2025-08-19",
+  "questions": [
+    {
+      "quote": "Is that it? Got the cue tips, got the mini-umbrella, something boring to read on the plane.  That's it. Done!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, if I could get this Coco woman down to Kruger, they wouldn't be able to call me Koko anymore because Kruger would never allow 2 Kokos.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I don't come down to where you work, and knock the license plate out of your hand.",
+      "characters": [
+        "Simon",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Damn. I don't understand this. I've ditched every bottle and can, and we still can't gain. It's like we're...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well what about that number Susan B. Anthony wore to the 19th Amendment party. Hnuh. Eye yye yye.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Daphne",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright. The script. Now, I've read this thing three times...and everytime I read it...",
+      "characters": [
+        "George",
+        "Russell",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "What is all the racket back there? You know, you're trying to relax on the plane and this is what you have to put up with. [To attendant] What is going on?",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mind? Why would I mind? I would love to wait!  Nana, nice to see you. Ni-ni-ni-ni-NANA!  Aunt Phyllis, always a pleasure. What a pleasure! Hey, let's do this again real soon. I had fun, huh?",
+      "characters": [
+        "Maestro",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We gotta see the new baby anyway, at least we'll get a weekend in the Hamptons out of it.",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, she's 10 times better than that awful Amber girl that you were with.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

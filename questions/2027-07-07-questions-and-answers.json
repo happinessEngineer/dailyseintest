@@ -1,0 +1,106 @@
+{
+  "gameNumber": 916,
+  "date": "2027-07-07",
+  "questions": [
+    {
+      "quote": "Do you have anything that's been...you know, laying around for a while? Something prewar would be just great.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"These pretzels are making me thirsty\"? That was one line! You got fired!",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're saying I stand to inherit three hundred thousand dollars, is that what you're saying?!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, maybe Kramer is right, some people should just give up . I have.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's not promised to anybody? 'Cause she'd take it in a second.",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[mind] Come on I won the MVP in 79. I can do whatever I want to.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Look at that guy.  I'll bet you he's gettin' hair transplants. Any time you see a guy that age wearing a baseball cap, ten to one - plugs.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's a hundred thousand revolutions a second. It's the most powerful one they make.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Ethan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, Eddie, that might be just a tad harsh for womenswear.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

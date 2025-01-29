@@ -1,0 +1,106 @@
+{
+  "gameNumber": 76,
+  "date": "2025-03-19",
+  "questions": [
+    {
+      "quote": "Because I saw the look on your face last week when I took the scotch tape!",
+      "characters": [
+        "Jack",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Yeah, yeah. Uh, uh listen Mr. Costanza, if uh, if you do this for me I'll get you a manicure, I'll pay for it. Or you can get a pedicure if you want.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Fdr"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "SO...you're all in here together. How convenient. I hope you're all proud of yourselves.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes. Well, be that as it may, if you could just find it in yourself to give it up.",
+      "characters": [
+        "Hoyt",
+        "George",
+        "Jerry",
+        "Rebecca"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Listen, I think he's giving me a big signal...maybe he wants to change our relationship.  Yeah?",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I'm going down to visit my sister in Virginia next Wednesday, for a week, so I can't park it.",
+      "characters": [
+        "Sid",
+        "Morty",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "So she kept insisting I take off my coat. I refused, and then she forcibly tried to get me to remove it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It says very clearly, 'for your protection, do not give your secret code to anyone.'",
+      "characters": [
+        "Farkus",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nah, nah, it's uh, it's a long story. Just uh, try to get it up.",
+      "characters": [
+        "Jerry",
+        "Karen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She told me. She said she's never had a man stir up all of these feelings inside of her. She's questioning her faith. She's thinking of leaving the church.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 854,
+  "date": "2027-05-06",
+  "questions": [
+    {
+      "quote": "Can I tell you something in confidence? I think it's a woman.",
+      "characters": [
+        "Stu",
+        "Jerry",
+        "Elaine",
+        "David"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Oh, no. It's not that I don't think you can. I know that you can't, and I'm positive that you won't.",
+      "characters": [
+        "Jerry",
+        "Wendy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's pregnant? Leslie is pregnant?! Oh, see, there is no justice.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Mary"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Here! Here! You want a brown sweater?!  You got a brown sweater!",
+      "characters": [
+        "Donald",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You knew I was having a millennium party, but you just had to throw yours on the same day!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Heh.  You seem like you really enjoyed your Risotto.  You have a very contented air over there.  You look very contented, very satisfied.  Are you satisfied?",
+      "characters": [
+        "Kramer",
+        "Sheila",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. it's always simulated....except with George that's in my contract.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "God. Man, this is killing me. Right now, I would give that bike to the first person who could make this pain go away.",
+      "characters": [
+        "Mickey",
+        "Joel",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There was something so reassuring about that cozy little space.",
+      "characters": [
+        "Jerry",
+        "Earl",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"'Cause when he questioned me about it I was sweating from the Kom Pau..\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

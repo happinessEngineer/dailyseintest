@@ -1,0 +1,106 @@
+{
+  "gameNumber": 468,
+  "date": "2026-04-15",
+  "questions": [
+    {
+      "quote": "Well, we looked at your EKG's, ran some tests, did a complete work-up.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "A call for one, you know I thought I've heard everything. I've never heard a relationship being affected by a punctuation.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, it's a pleasure doin' business with a gentleman like yourself.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't believe in it. I'm taking a stand against all this over thanking.",
+      "characters": [
+        "Kramer",
+        "Craig",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Helen really seemed to respond to Renoir. I think she really connected to the way he painted children.",
+      "characters": [
+        "Brett",
+        "Aaron",
+        "Nina",
+        "James"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "OK fine.  I did like that little Calvin Klein number right by the elevator. You know the little ...",
+      "characters": [
+        "George",
+        "Newman",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I called him all the way up to my office, so I had to tell him something important. So I promoted him.",
+      "characters": [
+        "Doris",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now listen Porter, you know your mother and I love you very much. But sometimes people fall out of love. Now give me a big hug.",
+      "characters": [
+        "Jerry",
+        "Nana",
+        "Leo",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Awright, lemme just say this. Ten thousand dollars, alright, and now I'm going below what you wanted to pay. You have your dinner, have your veal, or whatever it is. Enjoy...",
+      "characters": [
+        "Detective",
+        "Mike",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it'll be a couple of years before he's completely bald. Those'll be good times.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Brett",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 306,
+  "date": "2025-11-04",
+  "questions": [
+    {
+      "quote": "So we're just asking our friends what they may have said to the adoption agent.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Beth"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "You told David Putty your move and you didn't tell *me*? I *need* a move. You know I have no moves, Jerry.  Gimme a bite.",
+      "characters": [
+        "Jerry",
+        "Jodi",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, so what're you saying? That we're wrong? Oh, everybody's wrong but you!",
+      "characters": [
+        "Clerk",
+        "George",
+        "Kramer",
+        "Babu"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Um... Well, there's not really much more to tell. He was looking for waitresses, and I went in to apply for the job. And, he looked me up and down and he rejected me.",
+      "characters": [
+        "Russell",
+        "Elaine",
+        "Jerry",
+        "Jimmy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, Frank can't be too comfortable with those things clanging around. He should wear something for support.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, hey. uh Pamela's birthday party, didn't I see you there? Jerry.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Dana",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Natural? Sex is about love between a man and a woman, not a man and a sandwich.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand. Is there a problem?  I'm getting the impression there's a problem.",
+      "characters": [
+        "Jack",
+        "Jackie",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, don't worry about it. Very talented, very takented young actress.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Celia",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look! You were right, I was wrong! You don't have to humiliate me about it, alright!",
+      "characters": [
+        "George",
+        "Clerk",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Clerk"
+    }
+  ]
+}

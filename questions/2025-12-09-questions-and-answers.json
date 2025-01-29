@@ -1,0 +1,106 @@
+{
+  "gameNumber": 341,
+  "date": "2025-12-09",
+  "questions": [
+    {
+      "quote": "For a mental patient. Wait a minute, the phone, we'll call the police.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you think I should say something? Should I say something? Should I apologize? Was I being anti-virgin?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Seinfeld. I'd appreciate it if you'd stop using obscenities around my son, huh?",
+      "characters": [
+        "Jerry",
+        "Jake",
+        "Elaine",
+        "Owner"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "George, come in. I'm just going over our annual report...boy did we take it on the chin last year.",
+      "characters": [
+        "Kruger",
+        "Elaine",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "For that rent, she'd take a bath in the toilet tank if she had to.",
+      "characters": [
+        "Jerry",
+        "Katya",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Master of Evil Jerry Seinfeld has broke off all contacts with me.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "You know, I don't have to be up in the morning, and I know a great breakfast place, right around the corner.",
+      "characters": [
+        "Danielle",
+        "George",
+        "Enzo",
+        "Tim"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "Kramer there is no way you're giving this tape to Brody and telling him I shot it.",
+      "characters": [
+        "Newman",
+        "Mickey",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can stop kowtowing to Morgan. Congratulations, you got his job.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "So? So, his secret's out. Don't you see? I could give these to every restaurant in town. I could have 'em published! I could - I could drop fliers from a plane above the city.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1126,
+  "date": "2028-02-02",
+  "questions": [
+    {
+      "quote": "All right, what's wrong with the plane we got? They're just checking it out.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey! Jon Voight! Jon Voight!  Hey, listen, can I ask you something? Listen, listen...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahan, Ahan....yeah...Euh but, Why is it that the, that the animals enjoy reading the email?",
+      "characters": [
+        "Elaine",
+        "Fred",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! You take that mannequin down right now, or I'm pressing charges.  Yes, this is my attorney.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No I notice but they're from your age group I didn't know you could detect abnormal behavior among your own kind.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Ade"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"She's with a man twice her age.\" \"He doesn't look like he's got much money either.\"",
+      "characters": [
+        "Ruby",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Ruby"
+    },
+    {
+      "quote": "Anyway, this person told me to tell you to get an estimate on the damage.",
+      "characters": [
+        "Jerry",
+        "Maestro",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, how do you know for sure? Look, why don't you do me a favor. Why don't you go in the back and find out, okay?  Unbelievable.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "Joel",
+        "Brody"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "God, it is so great to drive again. I miss it so much!  How about a left turn signal, ya moron?!",
+      "characters": [
+        "Receptionist",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hi, I haven't eaten in three days. I was wondering how much longer it would be until I get my X-ray.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

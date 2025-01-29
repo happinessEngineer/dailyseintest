@@ -1,0 +1,106 @@
+{
+  "gameNumber": 772,
+  "date": "2027-02-13",
+  "questions": [
+    {
+      "quote": "Okay, thank you. Listen Jake, uh, where did you get those eyeglass frames?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Newww tuxedo. For the Pinstripe Ball. Steinbrenner is throwing a huge party at Tavern on the Green, heh!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well a lot of the stars from the 70's - they were not as hygienic as they appeared on TV. You take Mannix for example.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See those wrinkled jeans slung over the chair? Way in the background, out of focus?",
+      "characters": [
+        "Tia",
+        "Wilhelm",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Tia"
+    },
+    {
+      "quote": "Still killing me from having to get that bike off the wall.  By myself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I close down today and when I open again it'll be all Pakistani restaurant. Thank you, thank you so much, you're very special person, very special.",
+      "characters": [
+        "Babu",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "I, I think I made my point. I'm sorry if I was a little harsh.",
+      "characters": [
+        "George",
+        "John",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because, I was worried that there might be a situation in which one of us come home with somebody, it could get a little uncomfortable. But, as long as you're okay with it, it's fine with me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The first upper-body support undergarment, specifically designed for men.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know that, uh, Leslie  is in the clothing business? She's a designer.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

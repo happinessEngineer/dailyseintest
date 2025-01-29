@@ -1,0 +1,106 @@
+{
+  "gameNumber": 412,
+  "date": "2026-02-18",
+  "questions": [
+    {
+      "quote": "My cat. He's got this weird sort of skin condition. Some type of fungus, I couldn't find his medicine.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Tawni"
+      ],
+      "correctAnswer": "Tawni"
+    },
+    {
+      "quote": "on the left--exquisite marble! High ceilings. An' a flush, like a jet engine!  Ha ha!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah, I got a little steam bath. Listen, in 10 minutes, I'm gonna have my hands on that \"Atomic Sub\" card.",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, we were waiting for our mail to arrive and I happened to mention to her how you felt that it was never going \"to happen\" for you.",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Alright, then, it's like a boring book, but you gotta finish it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So maybe I'll go down there and watch, uh? She'll be there, ,maybe.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me. What happened to the man, that was in this room before?",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, I've got to go down to the unemployment office. Wanna take a walk?",
+      "characters": [
+        "Jerry",
+        "Mary",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The whole thing is so stupid. Like he wouldn't do the same thing if Elaine walked by in a low-cut dress.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now, the ending is kind of an option. I use the swirl. I like the swirl. I'm comfortable with the swirl. *I* feel the swirl is a great capper. He uses the pinch, which I find a little presumptuous.",
+      "characters": [
+        "Elaine",
+        "Joel",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

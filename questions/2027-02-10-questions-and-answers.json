@@ -1,0 +1,106 @@
+{
+  "gameNumber": 769,
+  "date": "2027-02-10",
+  "questions": [
+    {
+      "quote": "Anyway, I want you to pick up this big screen TV, and deliver it to her.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Christie",
+        "Sara"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "For example, now, I call you whenever I'm inclined and vice versa.",
+      "characters": [
+        "Lamar",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't worry. I'll get to the other functions.  I can't get it open.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Pop",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well you know, if it's enough already and I just wanna get some sleep.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, what are we going to do about Paris? I mean are we actually going to get back on this plane?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Jodi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Federal Express?! Is she out of her mind? Why didn't she just ship it?!",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh good. I just didn't want you to freak out... The chance of a crash is very slim. Do you have to go to the bathroom?",
+      "characters": [
+        "Ed",
+        "Jackie",
+        "George",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "It was weird because George and I get along so great in so many situations but this is the first time we ever really went one-on-one.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I'll bet you are! They told us he was poisoned! Something in his food.",
+      "characters": [
+        "Phil",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "We gotta get something. I don't want to go to that meeting on an empty stomach. Let's get some Chinese. You wanna order it?",
+      "characters": [
+        "Jerry",
+        "Buckles",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

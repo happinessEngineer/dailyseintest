@@ -1,0 +1,106 @@
+{
+  "gameNumber": 847,
+  "date": "2027-04-29",
+  "questions": [
+    {
+      "quote": "Uh, hang on a second, You know what? Changed my mind, make it a tuck.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you're not talking that Michigan deposit bottle scam again, are you?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's, that's incredible. My Cousin Vinnie, I love her, she was fantastic!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Donald"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean I met her three times. I don't even know her last name.",
+      "characters": [
+        "Ron",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I love the mirror in that bathroom! I don't know what in the hell it is. I look terrific in that mirror.  I don't know if it's the tile or the lighting... I feel like Robert Wagner.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Helen, did you know that they tape this thing in the afternoon?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No, not in so many words but I believe we had an understanding.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know... the friend meeting the new woman. I feel like I'm getting fixed up for a friendship.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Tv"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine! Where's Susie? I want her to head up our new Fingerless Glove Division.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, I ah.. been havin' trouble at home and uh.. I mean, ah, you know, I'll work harder, nights, weekends, whatever it takes..",
+      "characters": [
+        "Elaine",
+        "Gino",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

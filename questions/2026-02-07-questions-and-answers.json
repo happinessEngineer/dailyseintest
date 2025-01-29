@@ -1,0 +1,106 @@
+{
+  "gameNumber": 401,
+  "date": "2026-02-07",
+  "questions": [
+    {
+      "quote": "Oh, I'll take a vet over an M.D. any day. They gotta be able to cure a  lizard, a chicken, a pig, a frog  - all on the same day.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Babs"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I assumed she called to apologize, that's why she called me.",
+      "characters": [
+        "Doorman",
+        "Jackie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! Go in there! Do a little investigative journalism. I need to know!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ricky",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, good to see you, too. And Good luck with, uh... with the whole thing, there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I think we need more special days at the stadium, you know? Like, uh...Joe Pepitone Day. Or, uh...Jon Voight Day.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll handle this, Violet. Why don't you take your three hour break? Oh, calm down, everyone. No one's cancelling any mail.",
+      "characters": [
+        "Sid",
+        "Ben",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "These people invited us for dinner. We have to bring something.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't give something and then take it back. I mean, what are you...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Joyce"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He thinks that if you're too funny, he might not look so funny.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Steven"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, this wasn't moving on. I got the hook. I wish I could get a lesson in that.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 346,
+  "date": "2025-12-14",
+  "questions": [
+    {
+      "quote": "Well, I, as your president, have to find the best price, and right now, I for one, do not think it's cost-feasible.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Jerry, you should care. Cantaloupe like this should be taken out of circulation.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Conrad"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I am walkin' along, minding my own business when all off the sudden this thing comes flying out of nowhere and clonks me right on the head.",
+      "characters": [
+        "John",
+        "Corinne",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "Jerry, I can't. It's like saying to Pavorotti, \"Teach me to sing like you.\"",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, and.. do you think it would be alright if I called Susan Davis?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Milos, I can assure you, I had no intention of telling anyone about your unbelievably bad tennis playing.",
+      "characters": [
+        "Jerry",
+        "Secretary",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. No. Listen, George, I am quite certain I'm walking out of there with a bowl of soup.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Landlord",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Euh.. Fine , good , yeah! Just been occupying myself with some of your....hem reading material.\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, Uncle Leo. I remember him. I'm sorry, our policy is we prosecute all shoplifters.",
+      "characters": [
+        "Manager",
+        "Stan",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Hey listen, if I give you money would you go out and get me some fruit?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

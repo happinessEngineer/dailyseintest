@@ -1,0 +1,106 @@
+{
+  "gameNumber": 181,
+  "date": "2025-07-02",
+  "questions": [
+    {
+      "quote": "So Whatley sayd to me, \"Hey, I can make Catholic jokes, I used to be Catholic.\"",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You what I'll do next time? I'll hide it so nobody can find it.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Abby"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "What if I like him? I'm going to start out lying to this guy?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Detective",
+        "Ned"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How do people fast? Did Ghandi get this crazy? I'm gonna walk around, see what dishes look good.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ok, everybody, uh...I have an announcement to make. From now on, I will be known as-",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't go anywhere, I have to wait here for Tatiana's call. Let me just check.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Katie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's one day. Half a day, really. I mean you substract showers and meals, it's like twenty minutes. It will go by like that.",
+      "characters": [
+        "Helen",
+        "Morty",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi, is George back from the cockfight yet? You know, I gotta thank him, he changed my life.",
+      "characters": [
+        "George",
+        "Kevin",
+        "Kurt",
+        "Kramer"
+      ],
+      "correctAnswer": "Kurt"
+    },
+    {
+      "quote": "Because the woman who got hit in the head with it found my name, called me up, and we met!",
+      "characters": [
+        "Wilhelm",
+        "Laura",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the new area code. They've run out of 242s, so all the new numbers are 646.",
+      "characters": [
+        "Kramer",
+        "Hal",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

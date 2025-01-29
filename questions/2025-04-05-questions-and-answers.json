@@ -1,0 +1,106 @@
+{
+  "gameNumber": 93,
+  "date": "2025-04-05",
+  "questions": [
+    {
+      "quote": "I've read your book, Professor, and I was quite intrigued by it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Landlord"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "And she slaves to earn every penny. So that someday, I might be able to walk up to a woman and say, \"Yes, I'm bald, but I'm still a good person.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come up - Ah, there he is, the man himself, George Louis Costanza. Here I am about to go to the electric chair and my oldest friend is dating the governor",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I asked some friends of mine this week, and all of them liked the commercial.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Donna"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "Everything she thinks. you think. Everything you think she thinks. No I can't take it. I can't take it Jerry. It's too much. It's too much.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah you've had like a religious awakening. You're like a bald-again.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Lamar",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Five seconds. Jerry, I was five seconds away from breaking up with him. Five seconds. The next words out of my mouth were, 'Owen, it's over.'",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hah, Jerry, I am so sorry. they tell me there is no way they can do it.  Is there anything else I can do for you? Anything at all. I refund your money.",
+      "characters": [
+        "Marla",
+        "George",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Well, Play Now is through playing. They turned the heat way up in my office. They tried to sweat me out.",
+      "characters": [
+        "Jerry",
+        "Worker",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, ``Rochelle, Rochelle''... \"A young girl's strange, erotic journey from Milan to Minsk\"...",
+      "characters": [
+        "Clerk",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Clerk"
+    }
+  ]
+}

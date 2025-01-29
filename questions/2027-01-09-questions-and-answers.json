@@ -1,0 +1,106 @@
+{
+  "gameNumber": 737,
+  "date": "2027-01-09",
+  "questions": [
+    {
+      "quote": "If you're having second thoughts, if you didn't want it, don't worry about it because uh, you know, I, I...I could take it, you know.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you what, there's 50 bucks in it for you if you do it.",
+      "characters": [
+        "Alton",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry I can't be so flip about this kind of thing. You know, after what happened to Pop.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Deena",
+        "Morgan"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "Maybe Al Netchie was right, maybe I shouldn't have gotten involved with you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Daphne"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Elaine, see this T-shirt, six years I've had this T-shirt. It's my best one, I call him… Golden Boy.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"555-3455.\" Well wait a second, don't you see that's 555-FILK.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was not snooping. I did not break the seal. There was no breaking and entering. I wouldn't do that.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm meeting him for lunch at Chadway's around the corner, do I have to break up with him face to face or can I just wait and do it over the phone?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Reckless endangerment of public safety, and violation of traffic code 342-A.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Cop"
+      ],
+      "correctAnswer": "Cop"
+    },
+    {
+      "quote": "At least come and say hello, have a cup of coffee, then you'll leave.",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

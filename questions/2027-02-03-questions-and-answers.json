@@ -1,0 +1,106 @@
+{
+  "gameNumber": 762,
+  "date": "2027-02-03",
+  "questions": [
+    {
+      "quote": "Kramer said it's a perfect gift. That's what we're gettin' him.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Michael",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There is now. Kramer, you should really get that cough checked out by a doctor.",
+      "characters": [
+        "George",
+        "Jake",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I don't know. I told them her death takes place in the shadow of new life. She's not really dead if we find a way to remember her.",
+      "characters": [
+        "Guy",
+        "Kramer",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Isn't putting this guy's picture on your desk a little transparent?",
+      "characters": [
+        "Receptionist",
+        "George",
+        "Ricky",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Last week. When I, you know, gave you the phone. He's really into my pizza place idea!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Todd"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well then the turkey it'll be. And may I say you have a splendid establishment here, my friend. I'm sure you flourish at this location for many, many years.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OK, HISTORY ... THIS IS FOR THE GAME. ... HOW YA DOIN' OVER THERE? ... NOT TOO GOOD!",
+      "characters": [
+        "Kurt",
+        "Helen",
+        "Elaine",
+        "Donald"
+      ],
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "But I didn't just clean your apartment. It was a ritual, a ceremony, a celebration of life.",
+      "characters": [
+        "Ray",
+        "Harold",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "I don't know . I have no idea . I was just listening and she came on.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, look. I drew this triangle free-hand. It's a doodle. It's perfect!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

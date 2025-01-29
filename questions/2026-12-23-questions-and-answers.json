@@ -1,0 +1,106 @@
+{
+  "gameNumber": 720,
+  "date": "2026-12-23",
+  "questions": [
+    {
+      "quote": "I was the last one on the end. George was next to me. And Mr. Bevilacqua, the gym . . .",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gary",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, here, you call him right now. See if he's sniffing right now.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What kind of plastic do you think it is? What do you think like that dry cleaning plastic?",
+      "characters": [
+        "Elaine",
+        "John",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay listen to me. I talked to Gino, he's going to fix the haircut.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, by the way, I checked at the soup kitchen - they do have cream soups.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Lena"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "That's no tragedy! How many people do you lose on a normal cruse? 30? 40?! Kramer, can I take a look at that book?",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh,..we'll go to 3rd Avenue. So, can you come with us for lunch to the soup place?",
+      "characters": [
+        "Noreen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, no, I want that table. I want that table! Oh, come on, did you see that? What was that? He took the money, he didn't give us a table.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Hanke"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, it's like BO and cologne, they combine forces into some kind of strange mutant funk.",
+      "characters": [
+        "Elaine",
+        "Darren",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Lifts?! Look Kramer you don't understand, this kind of thing is just not done.",
+      "characters": [
+        "Michael",
+        "Kramer",
+        "Susan",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    }
+  ]
+}

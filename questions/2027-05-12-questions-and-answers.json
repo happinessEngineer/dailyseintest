@@ -1,0 +1,106 @@
+{
+  "gameNumber": 860,
+  "date": "2027-05-12",
+  "questions": [
+    {
+      "quote": "That's usually the kind of mood I'm in when I haven't showered.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Is it?!  Ohhh, well if only you'd known, you could have saved some time and given it directly to me!  Ha ha ha.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell you a little secret. We're having an unadvertised sale starting Friday, that suit will be half-price.",
+      "characters": [
+        "Duncan",
+        "Jerry",
+        "Elaine",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "Oh who made you a Mohel? Whadya, get your degree from a matchbook?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Me neither. I love the previews. In fact I enjoy being in the theatre cut up. Last week after a preview, I yelled out 'Must miss'.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, you can be young and bitter, just maybe not as bitter as I'm gonna be ten years from now, but I'm bitter. Anyway, don't tell anyone.",
+      "characters": [
+        "Cynthia",
+        "Jerry",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "It's a movie stub from the 9:30 show. George, I think Willie the dry-cleaner has been wearing my clothes.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, I'll see you after school. I.m late for Hayman's hygiene.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tawni",
+        "Sidra"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. The police have no leads  and I just found out today my insurance doesn't cover it.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. I haven't seen four women like this together outside of a Russ Meyer film.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Guy"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

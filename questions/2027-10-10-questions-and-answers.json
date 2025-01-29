@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1011,
+  "date": "2027-10-10",
+  "questions": [
+    {
+      "quote": "You think you can get him to just change teams? He's not going to suddenly switch sides. Forget about it.",
+      "characters": [
+        "Tor",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you're denying him the scholarship just because he wants to be a city planner?",
+      "characters": [
+        "Kevin",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what Milos, I don't even care about the money. I just feel like I was taken by the worst tennis player I...",
+      "characters": [
+        "Jerry",
+        "Alton",
+        "George",
+        "Melissa"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So when they're handing you those cadavers, do you get to choose whether it's a man or a woman?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bob",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Those are them, yeah. Season tickets. Uh, you know, unfortunately I can't go tonight, so they're available if you'd like to use them.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Alec",
+        "George"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "Yeah.  I just hope Tim Whatley's electric bills don't suddenly get lost in the mail, or it could be lights out for him.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I could have given you some pointers. I know how to press those buttons buddy.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh!  Heeeyy! Well, ladies and gentlemen! It's our good friend, George Costanza! What a surprise!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a second. 'Little places to go, where they never close.' What's a little place that never closes?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well its, uh, well its too hard to keep up, you know, they were tired.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

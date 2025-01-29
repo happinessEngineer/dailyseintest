@@ -1,0 +1,106 @@
+{
+  "gameNumber": 780,
+  "date": "2027-02-21",
+  "questions": [
+    {
+      "quote": "You understand the Santa's at Bloomfields are making double what you are?",
+      "characters": [
+        "Ned",
+        "Jerry",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Ned"
+    },
+    {
+      "quote": "Good. Because if I don't get a Black and White cookie I'm not going to be very pleasant to be around.",
+      "characters": [
+        "Woman",
+        "George",
+        "Elaine",
+        "Bette"
+      ],
+      "correctAnswer": "Bette"
+    },
+    {
+      "quote": "A thousand. Okay, a thousand once, a thousand twice, a thousand three times, sold to the lucky lady in the third row. Congratulations, thank you so much.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, one of these days, something terrible is gonna happen to you. It has to!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah.  I am taking over South America and there ain't nothing you can do about it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Regardless. I had to walk around for the rest of the party in some cheap Metlife windbreaker. Now, it is payback time.",
+      "characters": [
+        "George",
+        "Guy",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, how did you get up there?  Did you say you had to use the bathroom?",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I've asked every one at work and nobody gets this cartoon. I mean I don't understand why no one can explain it, but I'm gonna get to the bottom of this.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah. I tell her you not here, she said curse word, I hang up.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Bruce"
+      ],
+      "correctAnswer": "Bruce"
+    },
+    {
+      "quote": "You know I thing Kramer might have been responsible for getting Richie involved with drugs in the first place.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

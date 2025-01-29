@@ -1,0 +1,106 @@
+{
+  "gameNumber": 223,
+  "date": "2025-08-13",
+  "questions": [
+    {
+      "quote": "Killed.  I'm gonna go pick up some chicks. Good-looking ones, too!  Hey, what's your name?",
+      "characters": [
+        "Sophie",
+        "Kramer",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Have you ever noticed how they always give you the peanuts on the planes?",
+      "characters": [
+        "George",
+        "Bania",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The guy wouldn't give them to me because I wanted to pay in change.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "Lois"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We're going to the movies, we're gonna see Prognosis Negative.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah, in a second, in a second.  What do you mean you can't tell me?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that's the way I express myself. How are you gonna make it in this business if you can't take it?",
+      "characters": [
+        "George",
+        "Toby",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Bette Midler is going to be in the park today? Yeeee. Jerry, don't tease me.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, whattya got here, y'know, you got \"Don Ho: Live At Honolulu\", you got \"Jerry Vale Sings Italian Love Songs\" you got Sergio Mendes, now come on...",
+      "characters": [
+        "Emily",
+        "George",
+        "Elaine",
+        "Ron"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "Well you don't have to dissect if you can just tell me. Why this is suppose to be funny?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Geez! Jerry, I didn't here you come in. Yeah, the children, they've done sum redecorating. Serenity now, serenity now.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

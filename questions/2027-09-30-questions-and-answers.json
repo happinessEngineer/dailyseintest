@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1001,
+  "date": "2027-09-30",
+  "questions": [
+    {
+      "quote": "Are you kidding? I lie every second of the day. My whole life is a sham!",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, your day's getting more interesting already.  Ah, see, told me they'd be back in a minute and THEY lied.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can tell you this. If I am not in front of my house at six-fifteen, when my parents get there, they will put me on an aggravation installment plan that will compound with interest for decades.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": ": I didn,t tell you to park in that lot .. Now someone's gonna have to drive you every time you need your car.? Take the bus!",
+      "characters": [
+        "Wyck",
+        "Leo",
+        "Craig",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I don't wanna stop and talk with everyone, every time I go in the building. I just wanna nod and be on my way.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The table, the stereo, the VCR, the velvet couch, where's the velvet?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ping",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "H... G... F.  Seat four.  One, two, three... f-- Hello Newman.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, you don't see it, and you're never going to see it!  Mr. Pitt, you have to meet with the shareholders, you have to leave now. Do you hear me? Do you hear me?!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Toby",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What are you talking about, I don't know Jeffrey. Oh so this is why you brought me up here?",
+      "characters": [
+        "Kramer",
+        "Amy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Amy"
+    },
+    {
+      "quote": "No he's not going to take it off. If he was going to go over there bald, I never would have introduced him.",
+      "characters": [
+        "Kramer",
+        "Babu",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

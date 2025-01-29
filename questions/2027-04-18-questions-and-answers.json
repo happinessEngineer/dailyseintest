@@ -1,0 +1,106 @@
+{
+  "gameNumber": 836,
+  "date": "2027-04-18",
+  "questions": [
+    {
+      "quote": "Uh, yes, uh, I--I wanted to, uh, stop by and make sure that my shark tank fits-- uh, hello.",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Pretty good? Well uh! This is a gem . Kramer look it.........What? It's funny.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, that's right. Go. Put us all in the hospital. And you've ruined our business with all your macho head games.",
+      "characters": [
+        "Izzy",
+        "George",
+        "Daphne",
+        "Jerry"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "You know...I'm not sure. I'll tell you what. I'll come back later with someone and see what they think.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Carl",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's, I really wanted to see Prognosis Negative with Jerry, uh, you wanna see Ponce de Leon?",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Half a bag? What am I, a hooker? Anyway, they look kind of cheap.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Conrad"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've never even seen him in a car. I mean, look at his movies. No cars. Deliverance - canoe. Midnight Cowboy - boots. Runaway Train...runaway train.",
+      "characters": [
+        "Dan",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, listen, if you bring 'em by, maybe we could interest you in a game of pool.. Yeah, Frank here - he's got his own billiard room.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Poppie",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just got the most bizarre message from you father, Steinbrenner is at you house, they think you're dead!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Arrested? Come on!  I'm an old man. I'm confused! I thought I paid for it. What's my name? Will you take me home?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Leo"
+    }
+  ]
+}

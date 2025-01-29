@@ -1,0 +1,106 @@
+{
+  "gameNumber": 327,
+  "date": "2025-11-25",
+  "questions": [
+    {
+      "quote": "I know. I'm really running out of excuses with this guy. I need some kind of excuse rolodex.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, we should've gotten some collateral from him.. Like his bag of cans, or.. his other bag of cans.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, fine. Fine. Go ahead.  Cut the stupid thing in half.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Maura",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look I'm sorry about before....I mean I'm sure I'll learn to like her, Jerry",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't lie. I know it was you. I get a sample of your hair. I match them up.",
+      "characters": [
+        "Enzo",
+        "Steinbrenner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "I haven't talked to him in, like, three weeks... I THINK it might be over...",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't believe that for a minute. Well, Elaine, it was good of you to stop by.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Puddy",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "All right You really want to know?...It all started when she told met hat...she was the voice on your tape recorder.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jimmy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A fine man, he spoke often of you. He's very proud of the work you're doing.",
+      "characters": [
+        "Landlord",
+        "Puddy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "Yeah. He talks about him like he split the atom. The kid works for the Parks Department.",
+      "characters": [
+        "Jerry",
+        "Ned",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1071,
+  "date": "2027-12-09",
+  "questions": [
+    {
+      "quote": "Yeah, well, now you kids don't go out and try that. You stay in school!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm going to psyche myself into it like those people that just walk across the hot coals.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, George, instead of talking about this, we could be... you know...",
+      "characters": [
+        "Jerry",
+        "Karen",
+        "Elaine",
+        "Milos"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "You're not out there! You can't be, because *I* am out there. And if I see *you* out there, there's not enough voltage in this world to electroshock me back into coherence!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Guard",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I will go to that, if you go with me to a little family wedding I have on Saturday.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. Elaine, David, I believe we have a deal here in principle: Arby's no more than once a month. And in exchange, Elaine comes to your softball game, and doesn't read a book.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell you what, I'll make a deal with you. I'll sell it to you right now for ten bucks.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now he's a character.  So everybody I know is a character on the show.",
+      "characters": [
+        "Jerry",
+        "Greg",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, uh, Mom, Dad, I was hoping that you could help me to remember my childhood a little clearly..",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no, of course you don't. You're a Man's Woman. You hate other women, and they hate you.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Darren",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

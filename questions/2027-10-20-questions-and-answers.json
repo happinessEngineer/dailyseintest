@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1021,
+  "date": "2027-10-20",
+  "questions": [
+    {
+      "quote": "All right, shut up the both of you! You're making me nervous. Where is he already? He should've been out of work by now.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That strange Portuguese guy that lives next-door to the incinerator?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Tony",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what am I in this for? You know, I'm getting to a point in my life where I need something more than just.. a good time.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Ping"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jake, Jake. Take a look.  Aaw, see, you're not the only one who has 'em. I have them too.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It was a great sounding laugh too, kind of lilting and feminine--none of those big coarse \"ha's.\" You know those?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that woman had it coming to her. Look at my neck, it looks like I had a beard of bees!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now don't tell me to calm down... Get your hands off of me! Why you little...",
+      "characters": [
+        "Sid",
+        "Donald",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Yeah. You know what I think? I think you made that whole thing up.",
+      "characters": [
+        "Driver",
+        "Jerry",
+        "Frank",
+        "Detective"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "Aw! Aw! Oh my back! Oh my back! It's that bar. Who the hell could sleep on that thing?",
+      "characters": [
+        "George",
+        "Newman",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "The problem is I never got my Visa renewal form in the mail. I was expecting it.",
+      "characters": [
+        "Babu",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Babu"
+    }
+  ]
+}

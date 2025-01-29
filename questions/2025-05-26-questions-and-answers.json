@@ -1,0 +1,106 @@
+{
+  "gameNumber": 144,
+  "date": "2025-05-26",
+  "questions": [
+    {
+      "quote": "I was screamin' at hecklers all night. The last time I open for a rodeo.",
+      "characters": [
+        "Holly",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? M-Maura, what are you doin' here? I ended this relationship... twice!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You remember Peter. remember I told you how he went to the track that one time and he was yelling at this jockey and the jockey got off the horse and started chasin' him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, you know. I'm supposed to meet, eh, someone -- I'll, I'll wait for them outside.",
+      "characters": [
+        "Jerry",
+        "Gina",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's crazy. His phone wasn't even hooked up. He just liked ringing that bell.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Lloyd"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Of course, they're giving a testimonial for your father. You could do your comic routines.",
+      "characters": [
+        "Jake",
+        "George",
+        "Helen",
+        "Stan"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "So, she went out with you on a first date.. and it was her birthday?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Kevin, maybe I have a little doubt. I mean, nothing is a hundred percent.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now is that considered a nut, because I know the cashew is a legume.",
+      "characters": [
+        "Guy",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Hello? I can take an hour off your hands. Give the kids a chance to see a real live Yankee.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Danielle",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

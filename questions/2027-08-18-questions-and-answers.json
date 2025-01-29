@@ -1,0 +1,106 @@
+{
+  "gameNumber": 958,
+  "date": "2027-08-18",
+  "questions": [
+    {
+      "quote": "Nougat? Please. I think I've reached the point in my life where I can tell the difference between nougat and cookie. So let's not just say things that we both know are obvious fabrications.",
+      "characters": [
+        "George",
+        "Detective",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So we could put the bottles in a U-haul. You know, go lean and mean?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Alright, I'm waiting. I-I want to see the pig-man. Show me the pig- man.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Every night I sleep in a really hot room, I don't want to kill myself.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "She's full. So, Big Daddy. I'm just curious. How much did you clear on your little transaction there, all told?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe you all made me leave before the end of the game.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!",
+      "characters": [
+        "Jerry",
+        "Pitt",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Locking your keys in your car is the best career move you ever made.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know … he's got some valuable antiques, He's worried they'll break something.",
+      "characters": [
+        "Phil",
+        "George",
+        "Herb",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm trying. I can't get a grip. My hand's had kind of a bad week.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

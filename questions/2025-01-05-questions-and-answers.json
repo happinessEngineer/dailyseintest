@@ -1,0 +1,106 @@
+{
+  "gameNumber": 3,
+  "date": "2025-01-05",
+  "questions": [
+    {
+      "quote": "Look, I'm really getting tired off all the fighting. Maybe we should just end this before we really start hating each other.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Izzy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "so I ask this woman in the stall next to me for some and she refuses! ha ha",
+      "characters": [
+        "Phil",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She's working late that night. We're - were supposed to have dinner with everybody at eight o'clock so I'll set up the ride for seven o'clock.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, what do you, you wanna, you wanna see the place or not?",
+      "characters": [
+        "Jerry",
+        "Mickey",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? Ah, I didn't think any cool guys lived in this neighborhood.",
+      "characters": [
+        "Tawni",
+        "George",
+        "Jerry",
+        "Sylvia"
+      ],
+      "correctAnswer": "Sylvia"
+    },
+    {
+      "quote": "You remember that photo of me and Gerald Ford and I took it in. Got that Ford right out of there.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Exactly. I love Phase Two. Extra toothbrushes, increased phone call frequency, walking around naked. You know, the presents get a lot better in Phase Two.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "David",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I couldn't help it. We hadn't been alone together in a long time and we just kinda started up a little during the coming attractions and the next thing we knew, the war was over.",
+      "characters": [
+        "Jerry",
+        "Phil",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The crook has the machine. The messages aren't for him. He's the crook. Why would he answer-  How did you get in here?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mike",
+        "Simon"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good. And I'll tell you what... You don't have to pay me back the thirty-five I gave to the chiropractor for the rest of your bill.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

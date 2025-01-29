@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1043,
+  "date": "2027-11-11",
+  "questions": [
+    {
+      "quote": "This, that we've come all this way, we have made all this progress, but you know we've lost the little things, the niceties.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No breaks. I fell reborn, I'm like a Phoenix rising from Arizona.",
+      "characters": [
+        "Frank",
+        "Julianna",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No.  You dip the way you want to dip... I'll dip the way I want to dip.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's less than twenty-four hours, so I guess I have to!",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not the point. The wedding is in one week. I got this  today.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bruce",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ooh, everything was going so well. She hadn't seen any flaws in me. Now she sees a side.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because he'll know I told you. Besides, he's giving me a parking spot around the corner for practically nothing.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The thing about that painting.. is with the colors and um..  Oh yeah, plugola.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I'm not going in your building. I really don't have to talk to you. Goodbye.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Poppie",
+        "Toby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, wait a minute, wait a minute, that?s not fair, what about George, Susan and Elaine, what do you need me for?",
+      "characters": [
+        "Wilhelm",
+        "Tor",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

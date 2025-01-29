@@ -1,0 +1,106 @@
+{
+  "gameNumber": 733,
+  "date": "2027-01-05",
+  "questions": [
+    {
+      "quote": "Of course, I'm the result of my parents having stayed together, so you never know.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Man",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He called 6 times yesterday. What a nightmare it must be to have a real family.",
+      "characters": [
+        "Kramer",
+        "Nurse",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Jerry I'm telling you I have this power. And I have no control over it.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...so I called the litterbug a pig, not you. I like policeman. I wanted to be a policeman.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I suck'em down like Coca-Cola. Well here's to feeling good all the time.  Looks like you've got yourself a little cold there, eh fella?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, God, I bumped into Robin Sandusky today, she asked me to have dinner with her and her husband.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, instead, I'm like a detective. I gotta pick up clues, the whole thing is a murder investigation.",
+      "characters": [
+        "George",
+        "Helen",
+        "Laura",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Button fly! Why do they put buttons on a fly? It takes ten minutes to get these things open!",
+      "characters": [
+        "George",
+        "Anna",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah that's a tough one. What are you going to do about that?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Man",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So Jerry, my millennium party's really coming together. Will people be able to breathe underwater in the year two-thousand?",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "Jerry",
+        "Tor"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

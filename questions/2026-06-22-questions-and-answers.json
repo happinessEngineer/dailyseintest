@@ -1,0 +1,106 @@
+{
+  "gameNumber": 536,
+  "date": "2026-06-22",
+  "questions": [
+    {
+      "quote": "Sir, I'm gonna have to ask you to stand out of the way and let us handle this.  Swarm! Swarm!",
+      "characters": [
+        "Guard",
+        "George",
+        "Jerry",
+        "Tom"
+      ],
+      "correctAnswer": "Guard"
+    },
+    {
+      "quote": "Lippman want's to see me in his office SEE ME! That can't be good",
+      "characters": [
+        "Joel",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Never! It is a part of me. I will just return the chair, and it will be easy, because the receipt is in my good friend.",
+      "characters": [
+        "Milos",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Then afterwards maybe we could all go out together. Y'know she'll see me with my friends, she'll observe me as I really am, as myself. Maybe I can get some hand that way.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Deena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, maybe so, but come midnight, when she's looking for someone warm and cuddly to kiss, I guess you'll be caught between the moon and New York City.",
+      "characters": [
+        "Elaine",
+        "Corinne",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I took her home one night – we kinda started up a little bit in the car.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've been thinking about what we do and I'm thinking..of...adding a new number to my, you know, repertoire.",
+      "characters": [
+        "Kramer",
+        "Tom",
+        "John",
+        "Jerry"
+      ],
+      "correctAnswer": "John"
+    },
+    {
+      "quote": "Alright, then just get rid of it. You won't have any problem.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whew! Anybody see that poster in there? That is weird, wild stuff, huh? Whew!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, but I still don't feel right about letting you into Kramer's apartment without his permission.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Joe"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

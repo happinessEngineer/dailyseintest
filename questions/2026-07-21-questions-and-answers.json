@@ -1,0 +1,106 @@
+{
+  "gameNumber": 565,
+  "date": "2026-07-21",
+  "questions": [
+    {
+      "quote": "Well, you better go down there and tell this guy. He's very excited.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Ken"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, I think the guy in the shower opposite saw me. He gave me a dirty look.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, wait, you don't know who this guy is, people kill for a parking space in this city.",
+      "characters": [
+        "Receptionist",
+        "Estelle",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Jerry, this is a piece of junk.  How are you gonna be the executor of my living will?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you hear what you're saying? God isn't out to get you George. What... What is that on your lip?",
+      "characters": [
+        "Dana",
+        "Elaine",
+        "Stan",
+        "Kramer"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...",
+      "characters": [
+        "Newman",
+        "Stu",
+        "Jimmy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? What happened to your face? It looks like an old catcher's mitt.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kevin",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We don't want anything to happen to you Mr. Pitt. We want you to live a long, long time.",
+      "characters": [
+        "George",
+        "Jane",
+        "Kate",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, listen, don't get worked up, 'cause you're gonna know the whole story the minute she steps off the plane.",
+      "characters": [
+        "Kramer",
+        "Tv",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, how ya doin'? Y'know I got that reporter from the newspaper on the other line.",
+      "characters": [
+        "Jerry",
+        "Jeannie",
+        "George",
+        "Sophie"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

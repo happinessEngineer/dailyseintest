@@ -1,0 +1,106 @@
+{
+  "gameNumber": 519,
+  "date": "2026-06-05",
+  "questions": [
+    {
+      "quote": "Now when you took a sip, did you notice it was hot? Were you able to sip it in your normal fashion?",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Ooh, Isosceles. I love the name Isosceles. If I had a kid, I would name him Isosceles. Isosceles Kramer.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Dana",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Could you put a little thought into this? Jerry's gone, you could humour me. He humours me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Or maybe, she just wanted to go to the Tony's. I tell you what; you ask her out again. No Tony, just Jerry. That way you know it he was her dude or just some dude.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, you don't have to. It's all about tickling their buying bone.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, the main thing is I don't want Elaine to know about any of this. I mean, especially the panty remark. I mean, it's embarrassing. And she's never let me hear the end of it.",
+      "characters": [
+        "Mike",
+        "Doctor",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I think by sleeping with her, I may have sent her the wrong message.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't eat Oreos?  The way you break them open? You're  ~ practically having sex with them.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not sneaking. I didn't even know you were parking, you were just sitting there three spaces up.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Now Porter, you know your mother and I love you very much, but sometimes people fall out of love. Now give me a big hug.",
+      "characters": [
+        "Father",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Father"
+    }
+  ]
+}

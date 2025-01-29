@@ -1,0 +1,106 @@
+{
+  "gameNumber": 338,
+  "date": "2025-12-06",
+  "questions": [
+    {
+      "quote": "You know, I was wondering - if you're not doing anything later, maybe you'd like to get together..?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Oh fine, I don't like to be around people who are just so irresponsible.",
+      "characters": [
+        "Silvio",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah. My friend Elaine and him are goin' out. They're pretty hot and heavy.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morgan",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You might want to try it...makes the movie more enjoyable, that's all.",
+      "characters": [
+        "Keith",
+        "Kevin",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't want soup. I can make my own soup. \" 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds celery.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah.  Oh, there's the manager. Good. I think I'm gonna talk to her about that guy, you know, we cannot have people like that in here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Greg",
+        "Kramer"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "You broke up with her just because she cut her hair! how short?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Jane"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Russell, you are the president of NBC. You can have any woman you want.",
+      "characters": [
+        "Tv",
+        "Fred",
+        "Elaine",
+        "Donald"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know his wife. She has some mouth on her. She'll tell everyone in the condo now that you made him give you the pen. They're talking about it right now.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Louise! That's what's doin' it. You're no longer pre-occupied with sex, so your mind is able to focus.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

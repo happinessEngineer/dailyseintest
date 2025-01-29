@@ -1,0 +1,106 @@
+{
+  "gameNumber": 514,
+  "date": "2026-05-31",
+  "questions": [
+    {
+      "quote": "Oh, come on, man! Well, I'll tell you what, if you do this, I'll give you that walkman you're always asking about.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Here's my card. I'm in real estate, so, if you're ever looking for something bigger, something nicer..  ..maybe not right now. Anyway..",
+      "characters": [
+        "George",
+        "Cheryl",
+        "Jerry",
+        "Tony"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm going to a poetry reading with PATRICE: First time poets, in a burnt out building, down by the docks, Supposed to be good.",
+      "characters": [
+        "George",
+        "Tim",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is terrible. What is this, ginger? I hate ginger. I can't understand how anyone can eat ginger.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And, it is already in the school paper. They cancelled Rick James.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Katie"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Yeah, it's from China. Go ahead, try a piece. Tell me that's not the most delicious gum you've ever tasted.",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Jerry",
+        "Simon"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Oh I can't. They revoked my membership. Newman too. You know, we can't go anywhere near there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, so important. So what are you doing uh Thursday night? You wanna have dinner?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should have been born in August. Your parents would have been well-advised to wait.",
+      "characters": [
+        "Tor",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "I had a great time tonight Carrie. And I am going to call you as soon as I get home.",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

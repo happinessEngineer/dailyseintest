@@ -1,0 +1,106 @@
+{
+  "gameNumber": 753,
+  "date": "2027-01-25",
+  "questions": [
+    {
+      "quote": "Look, freedom with no clothes is a lot better than no freedom with clothes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what, I think I ran into that girl from the antique store. What's her name, Christie?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright look, I'm gonna tell you, but I made a pact with Cynthia, we swore we were not going to tell you and Elaine.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're worse! They're much worse than us, they talk about everything! Couldn't you at least tell her about the shrinkage factor?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you something else: I don't what your business anymore either.",
+      "characters": [
+        "Elaine",
+        "Abby",
+        "Woman",
+        "Joe"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Alright. Can we go to a later show, so he's off his shift when I come by?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't have to say \"Wow.\" I know it's \"Wow.\"  And there's that smile again. Well, what is that?  It's George.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "20 years practicing law I've never experienced anything like this.",
+      "characters": [
+        "Jackie",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "No, let's just do it.  What? What is going on? What is that about?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "oh is it two-ply? cause it it's two-ply I'll take one ply, one ply, one puny little ply, I'll take one measly ply",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Milos"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

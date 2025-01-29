@@ -1,0 +1,106 @@
+{
+  "gameNumber": 104,
+  "date": "2025-04-16",
+  "questions": [
+    {
+      "quote": "I'm starving! I can feel my stomach sucking up against my spine.",
+      "characters": [
+        "Jerry",
+        "David",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, Elaine was telling me about this piece of whitefish she had the other day...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! We uh, went to High School together. Didn't we Jerry? Gee I hope you're not leaving now. We still have a lot of work left to do.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Duncan"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "Oh, oh, O.K.  You can turn down the air conditioning if you want.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, in fact we could track down Kramer. I always felt bad about the way he left, you know? That was a mess. I never should have taken back those keys.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So how'd it go with Kevin? Did you, steel-toe his ass back to Kentucky?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Maura",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really?  Maybe this will become like a cool thing, living with your parents.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you go out, you get another rye. Of course, it would have to be the same one from Schnitzer's. You put it in the kitchen somewhere and you say Ohh! There it is.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what my greatest moment was, don't you? Nineteen-forty-six. I went to work for Harry Flemming and I came up with the idea for the beltless trenchcoat.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Teller",
+        "Kruger"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Look, I need the keys to your apartment, I gotta take a shower.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 567,
+  "date": "2026-07-23",
+  "questions": [
+    {
+      "quote": "Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.",
+      "characters": [
+        "Gennice",
+        "Bob",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't just walk into a building and say \" I wanna be a talk show host.\"",
+      "characters": [
+        "Elaine",
+        "Dan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right.  Hey, you guys--what's the name of the new company gonna be?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Audrey",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, as I was lying in the puddle, I-I think I may have found a way for us to get Bonds and Griffey, and we wouldn't have to give up that much.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, yeah, yeah. That's it. More of that, difficult. I'm a difficult seed.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you a question. This new move. Is there a knuckle involved in any way?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What? I can't hear a word you're saying. I was stuck at the Dixieland Deli all day. My head is still ringing. Where's Tim?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, unless I pull down on this statuette and a hidden wall opens up, we have checked every square inch of this apartment!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Daphne. I have to tell you something, this is very difficult...",
+      "characters": [
+        "George",
+        "James",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I can't believe it took you so long to come see the baby. I kept saying to Michael, \"When is Jerry going to see the baby?\"",
+      "characters": [
+        "Captain",
+        "George",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 875,
+  "date": "2027-05-27",
+  "questions": [
+    {
+      "quote": "That's right. That's why we stopped carrying batteries. Look, I'll be honest with you, we've had a lot of trouble with theft lately - and my boss says I have to make an example to someone.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Manager"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Wow. Well then my mentor suggested that I move into equities, best move I ever made.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "You see kid, you're being bamboozaled. These capatalist fat cats are inflating the profit margin and reducing your total number of toys.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Doctor",
+        "Farkus"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Vincent, listen, I won't judge you the way everyone else does. You're, you're strange and beautiful, and sensitive.  Now, let's have a look at you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Are, are you sure this is decaf? Where's the orange indicator?",
+      "characters": [
+        "George",
+        "Fdr",
+        "Jerry",
+        "Heather"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Great. You know, Frankie, I was wondering. What if I decided that it's silly to drive a van, because, you know, I live in New York City. Is there maybe some way I could exchange it?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh no, I can't do it. I-I'm not good at these things, I get flustered. Once I tried to bribe an usher at the roller derby, I almost got arrested.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have this... fun little assignment I think you'll enjoy. There's some reps in from the Houston Astros for talks on that interleague play... and I want you to show them a good time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Off the market? The sponge? No, no...no way. Everybody loves the sponge.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "bowling! what do you say bowling? bowling's insane! bowling is crazy time",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

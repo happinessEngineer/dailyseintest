@@ -1,0 +1,106 @@
+{
+  "gameNumber": 264,
+  "date": "2025-09-23",
+  "questions": [
+    {
+      "quote": "All right, you know she's got that laugh. What did you say? It's like Elmer Fudd sitting on a juicer?",
+      "characters": [
+        "George",
+        "Lippman",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Elaine. My boy's a man today. Can you believe it? He's a man.",
+      "characters": [
+        "Doctor",
+        "George",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "I know what it means, but what does being a shiksa have to do with it?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why would you take me to a Spanish restaurant because I'm black?",
+      "characters": [
+        "Darryl",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "I'll have the porterhouse medium rare, baked potato with sour cream,",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "Alright, look, we're pulling too much weight. He's getting away from us here.  Take the wheel.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is this? Did you ever get the feeling like you've had a haircut but you didn't have one? I'm all itchy back here.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Haarwood",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, you know you're supposed to take these things before you get sick?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uncle Leo? This case is closed pending further evidence. Jerry.",
+      "characters": [
+        "Newman",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell you something, if I'd own a company, my employees would love me. They'd have huge pictures of me up on the walls and in their home, like Lenin.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Sharon",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 915,
+  "date": "2027-07-06",
+  "questions": [
+    {
+      "quote": "Assassins! How dare they keep a person waiting like this! … Drake's Coffee Cake? … Give me that.",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Jerry, look at this. My seat's got a memory, in case somebody moves it. I could be in prison for five years. I come out, my seat goes right back to where I like it.",
+      "characters": [
+        "Wilhelm",
+        "Kimbrough",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I feel like a family. In fact, yesterday was Grace's birthday. She's such a sweet woman so, we had a little party, with cake and champagne. I made a toast.",
+      "characters": [
+        "Saleswoman",
+        "Brett",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nothing, just being neighborly.  Do you wanna hang out?  Shoot the breeze?",
+      "characters": [
+        "George",
+        "Newman",
+        "Gavin",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I don't get this Scissorhands. What, is he supposed to be like a super hero, like Green Lantern or somebody? What's with this guy?  Just asking.",
+      "characters": [
+        "Jerry",
+        "Hal",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because when you join that team it's not a whim. He likes his team. He's set with that team.",
+      "characters": [
+        "Kruger",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this, I only have one picture left... How 'bout a shot of me and Mr. Morgan?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Rabbi",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I ate the whole plate. I didn't know those little things were garlic. I thought they were peanuts.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Ben"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, would you two stop with the Kennedys? Why does everybody make such a big deal about he Kennedys? What is this fascination?! Who cares?! It's all so boring..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ok, here's the deal. He wants you to acknowledge that you cut him off with an \"I am sorry\" wave.",
+      "characters": [
+        "Kramer",
+        "Rava",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

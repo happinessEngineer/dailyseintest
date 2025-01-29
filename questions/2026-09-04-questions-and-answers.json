@@ -1,0 +1,106 @@
+{
+  "gameNumber": 610,
+  "date": "2026-09-04",
+  "questions": [
+    {
+      "quote": "Um. I just realized. Ya' never gave me back the change from the tolls.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well I'm thinking about getting out of town with Susan for a few days....Her parents rebuilt the cabin!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right ladies and gentlemen. Welcome to the Peterman Reality Tour...",
+      "characters": [
+        "Monica",
+        "George",
+        "Guard",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Sample?  Newman. Uh, I was there but I was just dropping off a book.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let's say it comes down to me and one other guy. He's got a nice quiet suit, and I'm whooshing all over the place! Who do you think he's gonna hire?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Receptionist"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Go ahead. Seems like a reasonable question, is all I'm saying. I would've asked her.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Waitress"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Eggs are eggs. That is very profound.  By the same token you could say fish is fish. Ha ha ha, I don't think so.  Listen Dophne",
+      "characters": [
+        "Katie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I am ready to skate up a-- ha, ha, ha...Why are you wearing that?",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So.ehmmmm. so, do you have any ideas when the Nicole Millers are coming in?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh he's not my boyfriend. It's that bald guy with the glasses, who's always here with them. He's trying to get me in trouble.",
+      "characters": [
+        "Elaine",
+        "Kelly",
+        "Kramer",
+        "Duncan"
+      ],
+      "correctAnswer": "Kelly"
+    }
+  ]
+}

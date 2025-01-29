@@ -1,0 +1,106 @@
+{
+  "gameNumber": 934,
+  "date": "2027-07-25",
+  "questions": [
+    {
+      "quote": "No no no, that's no good. No, I really don't think that's a beg. No, it's close, but uh...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm so sorry about that Mr Costanza, but look. Look, I brought you another one.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah. Well, I guess I started losing it when I was about twenty-eight right around the time I made my first million. You know what they say. The first million is the hardest one.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...and uh, she's very much in love with me, and uh, well uh, we would uh, appreciate it if you would cease and desist, and allow us to pursue our courtship unfettered.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, actually, Jerry, you haven't worked a room that big in a while.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah.  Hey, look at this. 'Pinter Ranawat'.. I wonder if he's related to that guy I dated, Peter Ranawat..",
+      "characters": [
+        "Elaine",
+        "Alton",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "With the orange hair, and the big clown shirt with the ruffles...",
+      "characters": [
+        "Kramer",
+        "Ellen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we'd better get started, my daughter's going to be here soon.",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Carrie",
+        "George"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Well, possibly. I wrote an off-Broadway show, \"La Cocina.\" ..Actually, it was off-off-Broadway. It was a comedy about a Mexican chef.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Elaine, what was it you were about to say to me on the plane when it was going down?",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

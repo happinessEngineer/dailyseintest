@@ -1,0 +1,106 @@
+{
+  "gameNumber": 315,
+  "date": "2025-11-13",
+  "questions": [
+    {
+      "quote": "Well, congratulations my friend. You know, I'm sorry I missed the grand re-opening. I was out of town for about a week.",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That infernal rattling sound that has plagued me these past two days - and I could not find the source. In my office, in the hallway. Even in the men's room! Shame on you, Elaine!",
+      "characters": [
+        "Peterman",
+        "Frank",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I remember that it's a good thing. Someday, I hope to do it again.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wonder where Elaine is sitting? I really wanted you to meet her she's supposed to be here tonight with her new boyfriend Tony",
+      "characters": [
+        "Jerry",
+        "Voice",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just spoke to Duncan. He said if you don't race, he's going to fire me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Lois"
+      ],
+      "correctAnswer": "Lois"
+    },
+    {
+      "quote": "I did. I'm just curious. It's been almost a week. I want to check it out.  Six points?  It's up six points!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jack",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi, we're from the United Volunteers, we've come to pick up the TV.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just heard that a postman spotted a rickshaw down in Battery Park.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, now that we have that cleared up.. why don't the three of us have lunch.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "[momentarily shocked, as if the answer were self-evident] You're talking.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Deena",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

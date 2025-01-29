@@ -1,0 +1,106 @@
+{
+  "gameNumber": 857,
+  "date": "2027-05-09",
+  "questions": [
+    {
+      "quote": "You know, it occurs to me that Kramer is at karate right now.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Thank you Babu. You have quite a flair. You are quite the restaurateur I must say.",
+      "characters": [
+        "Guard",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So that was your girlfriend that blocked you in. That's real good.",
+      "characters": [
+        "Lamar",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Lamar"
+    },
+    {
+      "quote": "According to our latest quarterly thing,Kruger Industrial Smoothing is heading into the red. Or the black, or whatever the bad one is. Any thoughts?",
+      "characters": [
+        "Kruger",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You should have told that story about Packyderm dropping the pizza.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, listen, we'll have to do this again some other time, okay? I got a lotta work to do.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bette",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. We're just waiting here for the owner of this car to show up. May not get out alive! Thug! Taking up a handicap spot? He's gonna pay!",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Because if he doesn't ask you out he doesn't get rejected. He has found a dating loop hole.",
+      "characters": [
+        "Marla",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you were talking,  you're having pleasant conversation,  then all of sudden...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Ethan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, very good, very good...go fold your little balloon animals, Eric. Eric!  What kind of name is that for a clown, huh?",
+      "characters": [
+        "Danielle",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

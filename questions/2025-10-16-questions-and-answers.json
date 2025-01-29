@@ -1,0 +1,106 @@
+{
+  "gameNumber": 287,
+  "date": "2025-10-16",
+  "questions": [
+    {
+      "quote": "Oh, no, no! That's where it gets interesting! Don't you see? The - the train is bearing down on you, you - you dive into a side tunnel - and you run into a whole band of underground tunnel dwellers!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sure. So, uh, Jerry, there's an empty apartment in my building. If you and Hallie want, we could try and hold it, may...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Katya",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "yeah, Kramer, we're, uh, kind of in the middle of something here. We're trying to do a little work..",
+      "characters": [
+        "Alec",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, Jerry has a friend who has free tickets to the Cayman Islands for this weekend. He's not going.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello, Jenna, did you dunk the spatula? Was it the spatula? Hello? Dammit!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's wrong? I'll tell you what's wrong. I just committed adultery!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He probably doesn't want to get chocolate on his fingers. That's the way these society types eat their candy bars.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that's how my five-year old eats. He's a very picky eater.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Julianna",
+        "Elaine"
+      ],
+      "correctAnswer": "Julianna"
+    },
+    {
+      "quote": "It--eight o'clock in the morning! What the hell is goin' on?!",
+      "characters": [
+        "Doctor",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...And usually for lunch I'll have a salad, and for dinner, I eat whatever I want.",
+      "characters": [
+        "Julianna",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Julianna"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 228,
+  "date": "2025-08-18",
+  "questions": [
+    {
+      "quote": "Hey! Hold on a second. All right, look, I got an idea. Why don't you just show up early for your next date, sit across from each other, and see who the girls sit next to.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Todd",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I WANT MY HELMET BACK! GIVE ME BACK MY HELMET AND YOU'RE GOING TO PAY FOR THAT TICKET.",
+      "characters": [
+        "Bob",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I heard a little ping in the car last time. What was that ping?",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Ray",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer, listen to me. I'm never gonna have a child. If I lose this Frogger high score, that's it for me.",
+      "characters": [
+        "Morty",
+        "Helen",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what you could do? I haven't eaten lunch or dinner. I can't eat this hospital food. Maybe you could run down to the deli and get me a sandwich..",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "You know, if they catch two of us on TV, you got some explaining to do.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Dwayne",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I mean if one of your close friends had a baby and I left you a message about it, I would use an exclamation point.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Death Blow: When someone tries to blow you up, not because of who you are, but for different reasons altogether.  Jerry, do you think you can get an extra ticket for my friend Brody?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, she was trying to call George last night, she got me, we spoke for an hour and she changed her mind!!!",
+      "characters": [
+        "Donna",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "You're move? What, are you kidding? I was doing that before I knew you. All you told me about was the ending.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "David"
+      ],
+      "correctAnswer": "David"
+    }
+  ]
+}

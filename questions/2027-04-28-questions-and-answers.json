@@ -1,0 +1,106 @@
+{
+  "gameNumber": 846,
+  "date": "2027-04-28",
+  "questions": [
+    {
+      "quote": "And uh, anyway I was just reading your final edit and um, there seems to be an inordinate number of exclamation points.",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Now this is remarkable. I'm lounging, and yet, my pants remain perfectly creased.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, what are you gonna do now? Are you gonna look for something else in real estate?",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, the guys, that uh, they sell the tickets for the sold-out events.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you enjoy the duck?  Oh, Elaine! I was just asking how dinner went last night.",
+      "characters": [
+        "David",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I've got to get going. I'm meeting a guy with grey sweatpants.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes he is.  Let me ask you something.  When you come out of the shower and you put your robe on, do you cinch it real tight, are you concerned about that?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "… I mean it's no big deal. You're still drivin'. You should have been watching the road.",
+      "characters": [
+        "Landlord",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. Let's go down to the yogurt store, and we'll get a specimen.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry. But love is spice with many tastes. A dizzying array of textures...and moments.",
+      "characters": [
+        "Newman",
+        "Craig",
+        "Jerry",
+        "Harold"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 37,
+  "date": "2025-02-08",
+  "questions": [
+    {
+      "quote": "That irreverence, that wit I'd recognize it anywhere. Some charlatan has stolen a Ziggy and passed it off as his own. I can prove it. Quick Elaine, to my archives.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, how long you've been seeing her. What's your phone call frequency? Are you on a daily?",
+      "characters": [
+        "Kramer",
+        "Tor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whatever!!. . . . Oh oh oh this is unbelievable. This is better than my bed at home.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you're welcome. You know I think I ate too much of that garlic.",
+      "characters": [
+        "Katie",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! That's good judgment. That's a pile of judgment there. Sure.",
+      "characters": [
+        "Kramer",
+        "Jodi",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes yes George. Can you talk to me for a second? Of course you can -- I'm a very accessible man. I just wanted to say you're doing great work on that Canola oil stuff.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Elaine, I don't want you causing any trouble down at that soup stand. I happen to love that soup.",
+      "characters": [
+        "John",
+        "Noel",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.. When he's dead he'll be relieved... Oh by the way Viking Press sent a Fedex for you to my parents. They brought it with 'em.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Play Now thinks I got problems in both legs. My own personal Rascal, Jerry. On the house.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you know that I have been using the same bottle of shampoo for a year? And I shampoo every day.  So, what do you think of my conversation?",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

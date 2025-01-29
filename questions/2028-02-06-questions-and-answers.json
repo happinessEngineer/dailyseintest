@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1130,
+  "date": "2028-02-06",
+  "questions": [
+    {
+      "quote": "It's not a theater, it's like a room where they bring in POWs to show them propaganda films.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Got lucky. Come on, Elaine, let's take a ride, I was about to pop in some Verdi.",
+      "characters": [
+        "Hoyt",
+        "Maestro",
+        "Rava",
+        "George"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "That's my Chinese food...So George is this your first movie with Elaine?",
+      "characters": [
+        "George",
+        "Nikki",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I was thinking if you're not busy, maybe I can get my meal today?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Izzy",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Move it in. Move in everybody. Get your shrimp here. Shrimp on special today!",
+      "characters": [
+        "Bette",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Bette"
+    },
+    {
+      "quote": "So, I'm on line at the supermarket. Two women in front of me. One of them, her total was eight dollars, the other three dollars. They both of course choose to pay by the use of the...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, I'll tell you what. How about on Friday I take you out for a *big* meal because *you* are getting *too* thin...",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Believe me, I wouldn't bother you if the army hadn't closed that base in Sarasota. Here, scribble a little something here.",
+      "characters": [
+        "Morty",
+        "Celia",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ya gotta put on a show, ya always gotta give them a big show. You always have to be 'on' otherwise why would they like me? They'd just go for a better looking guy with more money.",
+      "characters": [
+        "Jerry",
+        "Cop",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Me? No, no, I don't, I don't. Doing very well, very well, yep.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

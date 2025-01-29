@@ -1,0 +1,106 @@
+{
+  "gameNumber": 719,
+  "date": "2026-12-22",
+  "questions": [
+    {
+      "quote": "No no no no, Kramer, I just had lunch with him, he didn't leave the table.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What ever happened to \"Why, that's a lovely dress you have on. May I have this dance?\"!!",
+      "characters": [
+        "Holly",
+        "Naomi",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "All right, gentlemen, I scouted it out. I think we can get out over there.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Rebecca"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "At this point, it is inevitable that she will seek out the roommate to apprise her of this abhorrent turn of events.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. Forget it. I don't want it. Let's just get rid of it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Eddie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?",
+      "characters": [
+        "Ben",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "One second, hang on.  Excuse me, Mr. Pitt? Would it be alright if I got you the socks tomorrow?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry's got nothing. Newman's got nothing. You're the only one I know who's got the good stuff, and I need it bad, baby, cause I feel like I got bugs crawling up my skin. Now you gotta help me out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Would you be able to come all the way downtown again in rush hour to pick me up?",
+      "characters": [
+        "Lois",
+        "Jerry",
+        "Betsy",
+        "Elaine"
+      ],
+      "correctAnswer": "Lois"
+    },
+    {
+      "quote": "And ... I could really live without the tribal music ... and the make out sessions in the living room",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

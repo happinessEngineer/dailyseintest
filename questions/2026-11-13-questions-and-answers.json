@@ -1,0 +1,106 @@
+{
+  "gameNumber": 680,
+  "date": "2026-11-13",
+  "questions": [
+    {
+      "quote": "Twenty thousand dollars!?! Elaine, that's twice the amount I authorised you to spend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "\"Well, because we hit it off and he was very impressed with what I do.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's got a house, a family, they could take away his license. You should have heard him. Three notes, how stupid was that? We never should have got three notes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We're going to sign it. We're going to sign it. In fact George is out with the woman from NBC right now.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, see here, the chain is broken...it must have slipped in when I was, uh...",
+      "characters": [
+        "Marty",
+        "Patrice",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Marty"
+    },
+    {
+      "quote": "Well, as a backup system, in case the lock is broken, you can see if it's taken.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Really!...Well actually yeah I did see this ......'mazing little black dress...it was sleeveless....",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Dwayne"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just thought of a great name for myself, if I ever become a porno actor.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, for a sales position. Latex salesman, the selling of latex, and latex related products. They just wouldn't give me a chance.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I am just a T-bone kinda guy. Love that T-bone. In fact, you might as well call me--",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

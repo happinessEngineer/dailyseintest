@@ -1,0 +1,106 @@
+{
+  "gameNumber": 984,
+  "date": "2027-09-13",
+  "questions": [
+    {
+      "quote": "Because I know. He's crazy. All morning, he looking at the hair. He staring at the hair.",
+      "characters": [
+        "Gino",
+        "Peterman",
+        "Jerry",
+        "Waiter"
+      ],
+      "correctAnswer": "Gino"
+    },
+    {
+      "quote": "I don't even know her sister but believe me, if she's getting traffic tickets, she's not that good-looking! Woah",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, I'd like to report a problem with one of your mechanics.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So I love the Edward Scissorhands. That's the best movie I've ever seen.",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Gino",
+        "George"
+      ],
+      "correctAnswer": "Gino"
+    },
+    {
+      "quote": "I can't think about it now. Come on, I'm going to Minneapolis. I got four shows this weekend.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's right. Poppie's on 77th. Ok we'll see you at 8:00. Bye-bye.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Audrey"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "All right. What if I tell Paul O'Neill to hit a home run tomorrow, just for you.",
+      "characters": [
+        "Kramer",
+        "Simon",
+        "John",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, l'll just keep swimming. Hey, hey. I'm not done. I know what you're up to Ramon. Because I'm a member here, this is my place to swim.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Pitt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah... Puddy. Well, I won't fire him until I see if this new guy can... handle the workload.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, Mr Seinfeld, I... What kind of position did you have in mind?",
+      "characters": [
+        "Estelle",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

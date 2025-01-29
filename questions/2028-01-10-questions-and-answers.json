@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1103,
+  "date": "2028-01-10",
+  "questions": [
+    {
+      "quote": "\"Don't you see what's happened, he couldn't talk , he's wearing these shoes, he's drooling.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you haven't heard, she's going to live with her grandparents in Redding Pennsylvania.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, here's what I propose. Go down to the stables, snoop around. See if any high-flying cashier's been throwing twenty dollar bills around with big lips.",
+      "characters": [
+        "Morty",
+        "Ron",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "HaAhhh! The Velcro. I can't stand Velcro. It's that t-e-a-r-I-n-g sound. I used to be in raincoats. I refused to put that in any of my lines.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I don't get it. He assigns it to you, you don't do it. Somehow it gets done, and now he's telling you what a great job you did.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh conductor. He conducts the Policeman's Benevolent Association Orchestra.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No he's not right. Al Netchie is not right! Alright I'm canceling the father-son picnic. I don't know what he's gonna do with all that potato salad.",
+      "characters": [
+        "Jerry",
+        "Fdr",
+        "George",
+        "Father"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I never got the car. We were having such a good time, by the time I got to the police garage, it was closed.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, shut up. Shut up. Just let me think. I gotta think. We gotta get our story straight.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, why don't you two just take your business elsewhere, hmm?",
+      "characters": [
+        "Kramer",
+        "Wendy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Wendy"
+    }
+  ]
+}

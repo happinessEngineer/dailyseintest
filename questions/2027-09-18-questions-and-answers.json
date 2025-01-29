@@ -1,0 +1,106 @@
+{
+  "gameNumber": 989,
+  "date": "2027-09-18",
+  "questions": [
+    {
+      "quote": "Listen, that registration may have your name on it, Jerry. But this engine's running on my sweat and my blood.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Doctor",
+        "Tony"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Ohh, He's got a big sweat going.  Oh, this came for you express-mail. It's from your parents.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, we had this big fight at lunch it looks like tonight I will be sleeping on the couch.",
+      "characters": [
+        "Morgan",
+        "Jackie",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "Well, maybe the test was gender bias, you know a lot of questions on hunting and testicles...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Care? Forget about care. Love. They have to love the characters. Otherwise, why would they keep tuning in?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Poppie",
+        "Jake"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I-I-I know... [retreats back to his Chinese take out] I know...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We gotta find that rickshaw. You check the sewers and dumpsters. I'll hit the soup kitchens, bakeries, and smorgasbords.",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Enough with the comedy! You're very clever, you should look into advertising.",
+      "characters": [
+        "Greg",
+        "Jerry",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Hi. I..I was in the audience earlier. You threw my jacket down. I just wanted to pick it up.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, that's it. The fight's already started. I'm going upstairs, who's coming? Elaine?",
+      "characters": [
+        "Kramer",
+        "Fdr",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

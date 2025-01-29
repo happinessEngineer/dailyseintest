@@ -1,0 +1,106 @@
+{
+  "gameNumber": 369,
+  "date": "2026-01-06",
+  "questions": [
+    {
+      "quote": "Yeah. Elaine, she has to leave her armoire on the street all night...I'm gonna guard it for her. I need something to sit on.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who needs that misty herbal rain water crap they sell in the health food store. I use Prell, the hard stuff. Hundred proof - takes your roots out.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The way I figure it I've already been there and I plan on rounding second tonight at around eleven o'clock.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I would think, with the law enforcement and the cross dressing. Seems like an interesting guy.",
+      "characters": [
+        "Leo",
+        "Sid",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm gonna go with you. I gotta get a new suit. I got a second interview with MacKenzie, and I think I'm really close. They're all taking me out to lunch on Friday.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Wyck"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I sure did. Raincoats were my business. The Executive was a classic, these haven't been made in twenty years.",
+      "characters": [
+        "Keith",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Why is what I do is so important? Why must I be always the focal point of attention? Let me just be, let me live.",
+      "characters": [
+        "George",
+        "Leo",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Alec, the reason I called is I just wanted to thank you for the tickets from the other night.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, actually you did miss one nugget of entertainment.  Have you ever seen Elaine dance?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was a pleasure doing business with you George, but I'm afraid I have to get going.",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Jerry",
+        "Kate"
+      ],
+      "correctAnswer": "Woman"
+    }
+  ]
+}

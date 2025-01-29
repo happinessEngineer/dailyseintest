@@ -1,0 +1,106 @@
+{
+  "gameNumber": 677,
+  "date": "2026-11-10",
+  "questions": [
+    {
+      "quote": "I don't have a preference, okay! Just make a decision yourself! Stop bothering me with every minor little detail, please?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What my wife is trying to say is that this is supposed to be our time.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Helen",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I don't even know Peterman. How the hell am I gonna relax? I'm gonna have to be on all night. I don't like being on, Jerry, I would much rather be off.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No one's stealing a tractor, it's a five-mile-an-hour getaway. We're dancing around the obvious, it's gotta be disfigurement.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, if they don't let you be my editor on this book, I'll go to another publisher. It's that simple.",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "George",
+        "Rava"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "Bette is recuperating right now and I'm not going to allow anything to disturb her.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What if he left you a used Kleenex, what's that, a valentine? Now you go up to him and you tell him that if he's thinking of turning me in, that I got the goods on him!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you a question. Who would win in a fight between you and me?",
+      "characters": [
+        "Kramer",
+        "Stu",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He only works three hours a day. He makes a fortune. Course he's been doing that for years, right Jerry?",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Peru! I paid $300 bucks for these. I could have bought a house in Peru for $300 bucks!",
+      "characters": [
+        "Steinbrenner",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

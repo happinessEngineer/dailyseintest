@@ -1,0 +1,106 @@
+{
+  "gameNumber": 768,
+  "date": "2027-02-09",
+  "questions": [
+    {
+      "quote": "Oh, is that what this is all about?! I bounce a cheque and you sold a Cadillac?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steve",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm supposed to see her again on Thursday, but can I go out with someone who actually likes this commercial?",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes! All right, Lamar, back it up a little bit so we can get out now.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you want me to call the super? He was an Israeli commando.",
+      "characters": [
+        "Elaine",
+        "Rula",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "Oh yeah baby. spit, spit. What are these?\"Perducto de Peru\"Jerry, if you think these are Cubans you have another thing coming.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Done. But, I get to drive it tomorrow, because Doris wants to go to Naples.",
+      "characters": [
+        "Jack",
+        "Kramer",
+        "George",
+        "Katie"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Hey George, I am *really* proud of you. I really do admire what you've done.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Jake",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It is me, you idiot. Hi, all right you've got to get out of here, I'm gonna baby-sit the hell out of that kid.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, she was just showing me pictures of places I can visit when I go to Puerto Rico...you know, when you two went down there?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What, are you kidding? It's a golden opportunity to advance the relationship. She's crying, you put your arm around her and console her...you're the consolation guy!",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

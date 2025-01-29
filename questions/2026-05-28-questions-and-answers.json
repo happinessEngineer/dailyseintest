@@ -1,0 +1,106 @@
+{
+  "gameNumber": 511,
+  "date": "2026-05-28",
+  "questions": [
+    {
+      "quote": "Marisa Tomei's sitting home, Elaine! Wh..why didn't you tell me that Katy was friends with Marisa Tomei?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, you've got Danielle. Forget about Neil. You've out-Neiled him.",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Forget about smelling the car. Smell the valet. Go to the source...",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you looking good. You look strong. You one fine-looking sexy lady.",
+      "characters": [
+        "Leo",
+        "Chiles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "I wish I was taller, that's, that's, that's nice. that's real.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Well um, I was just curious if I were interested in availing myself of your services, um, what exactly would you do?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, maybe if you hadn't been sitting there pontificating about what a great parker you were, you might have got the space.",
+      "characters": [
+        "Daphne",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, there's this rabbi in my building. You've met him. Very nice man.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right. How 'bout this one: let's say you're abducted by aliens.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Guard",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 830,
+  "date": "2027-04-12",
+  "questions": [
+    {
+      "quote": "No, no, no. It's weak. No one's gonna buy it, and you shouldn't be selling it.",
+      "characters": [
+        "Gina",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ahoy! Mr. Eldridge. I understand you were on the Andrea Doria.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Steve"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Costanza? Where's Costanza? . . . Excusé mois? Have you seen Costanza?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Patty",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Well, said he was waiting about two hours. Seemed a little put out.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Wilhelm",
+        "Doorman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Typical rich people, using the world for their personal garbage can.",
+      "characters": [
+        "Kramer",
+        "Mickey",
+        "Jerry",
+        "Marlene"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And I'm moving out of my parents' house, I'm taking that apartment on 86th street, remember the one we saw?",
+      "characters": [
+        "Cop",
+        "George",
+        "Gina",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You've got insurance. You tell them that the car was stolen, and then you get another one free.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No. I like a good comedy. You know, like a Neil Simon? You like Neil Simon?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that's too bad. I kinda wanted to meet him, seeing as how we look so similar.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Sid",
+        "Brett"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, my sources tell me, there's three votes for impeachment, three votes against impeachment, and one undecided.",
+      "characters": [
+        "Elaine",
+        "Evelyn",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Evelyn"
+    }
+  ]
+}

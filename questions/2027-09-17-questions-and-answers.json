@@ -1,0 +1,106 @@
+{
+  "gameNumber": 988,
+  "date": "2027-09-17",
+  "questions": [
+    {
+      "quote": "Well, once I didn't have dinner until, like 9:00 o'clock, that was pretty rough.  Hey, do me a favour will ya'? Throw out my garbage for me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Michael",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, we can't show up at someone's house with Ring Dings and Pepsi.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, listen, when this guy calls, if you could just give him my real number..",
+      "characters": [
+        "Elaine",
+        "Hanke",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I spoke to Manya and Isaac on the phone today. They invited you again. I think you should go.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Right here, George. In here.  Try opening this up. You'll find the biggest dating scene in the world.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, then get the Hell out of my store, alright? You bring me something decent, I'll give you some money.",
+      "characters": [
+        "Ron",
+        "Kramer",
+        "George",
+        "James"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "You see the thing is we It should have been me. You know, I'm smart. I'm attractive.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, thank you!  Mmm, Oh, thank you, Mr Lippman, I can't tell you how much I appreciate this. I mean, of course I deserve it.",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ya, he said you could never make a commitment to any one and you'd just wind up  hurting me.",
+      "characters": [
+        "Daphne",
+        "Jerry",
+        "Jeannie",
+        "Elaine"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Listen. I massage who I want, when I want. I don't submit to forcible massage.  I'm getting out of here.",
+      "characters": [
+        "George",
+        "Noreen",
+        "Newman",
+        "Jodi"
+      ],
+      "correctAnswer": "Jodi"
+    }
+  ]
+}

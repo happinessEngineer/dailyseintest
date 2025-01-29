@@ -1,0 +1,106 @@
+{
+  "gameNumber": 147,
+  "date": "2025-05-29",
+  "questions": [
+    {
+      "quote": "George...I think you may be taking work a little too seriously.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Is this supposed to be some kind of a joke on me? Because it's not very funny.  Give me those!  I want the glasses! Give me those!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Jake"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "I show up. I pretend I have the job. The guy's on vacation. If I have the job, it's fine. If I don't have the job, by the time he comes back, I'm ensconced.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Number one. Take her leg.... Oh, my god! Crib notes? You've got crib notes?!!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Nancy",
+        "Kramer"
+      ],
+      "correctAnswer": "Nancy"
+    },
+    {
+      "quote": "That damn Mohel - he circumcised my finger! The Mohel circumcised my finger!",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Farkus",
+        "Abby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We started to talk, and I told him that I jog, and then he put his hand on my heart.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, OK. As I said the guy had it in for me. He actually failed me in gym. ... ME!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I got this little swelling right here.  It's kinda painful. What d'you make of it?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah the nipple. But besides that. How did you feel about Kramer's work?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kruger",
+        "Alec"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, listen to me. I have a very important job for you. I want you to come by twice a day and flush the toilet so the gaskets don't dry out and leak.",
+      "characters": [
+        "George",
+        "Lippman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

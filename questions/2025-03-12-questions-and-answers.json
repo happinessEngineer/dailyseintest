@@ -1,0 +1,106 @@
+{
+  "gameNumber": 69,
+  "date": "2025-03-12",
+  "questions": [
+    {
+      "quote": "I suppose he could swivel. Hey maybe one of those director's chairs. What do you think of those.",
+      "characters": [
+        "George",
+        "Helen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So I'm sitting there with Woody and I say, I turn to him and I go, \"Boy, these pretzels are making me thirsty.\"",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Roy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, Kramer's not here...I knew it. I knew it! I knew this would happen.  Kramer! Kramer!",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We had an arguement about me going to Hawaii, and he locked onto my ankle like it was a soup bone. I'm hubbled! I don't think I can do my route - and they're awarding the transfer in two days!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So, you're in a relationship with a woman you don't like, and you're having an affair with a woman that won't have sex with you.",
+      "characters": [
+        "Jerry",
+        "Haarwood",
+        "Sid",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All rightly. Let me just review your history before we begin.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "What happened to you? You were going like a hundred miles an hour.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, would you consider being my personal consultant for the pageant?",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "I don't understand, I made a reservation, do you have my reservation?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Manager"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mmm. They're putting a little lemon in the tuna. I love that.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

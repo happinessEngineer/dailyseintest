@@ -1,0 +1,106 @@
+{
+  "gameNumber": 406,
+  "date": "2026-02-12",
+  "questions": [
+    {
+      "quote": "Well I was lost, I never saw the first one. By the way, you mind if I watch it here?",
+      "characters": [
+        "Jerry",
+        "Carl",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you should have seen it. It was quite a scene over there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You very very good man, you do everything for me. My family and I can never thank you enough for everything you do.",
+      "characters": [
+        "Karen",
+        "George",
+        "Babu",
+        "Hoyt"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "I'm only charging $37.50, plus you get a pizza bagel and desert.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, we're talking, and I don't like to go too long before I ask them out, I wanna get it over with right away, so I just blurt out, \"What are you doing Saturday night?\"",
+      "characters": [
+        "Keith",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If we could just harness this power and use it for our own personal gain, there'd be no stopping us.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kate",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe you can strike one up with the prince of darkness as you burn for all eternity.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Thanks for, thanks for coming by fellas. Eh, got a set of keys, buried in the pothole.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hmm-hm. Your home, Mister Costanza. Just make sure he gets his medicine six times a day and keep his tail elevated.",
+      "characters": [
+        "Steven",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I thought we might reminisce a little more. You know Duncan and I were just taking about the big race.",
+      "characters": [
+        "Jerry",
+        "Rebecca",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

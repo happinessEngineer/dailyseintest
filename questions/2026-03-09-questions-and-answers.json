@@ -1,0 +1,106 @@
+{
+  "gameNumber": 431,
+  "date": "2026-03-09",
+  "questions": [
+    {
+      "quote": "Hey, I forgot to tell you! I got tickets to the Rangers-Devils playoff game tonight!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Alton"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see the thing of it is, there's a lot of ugly people out there walking around, but they don't know they're ugly, because nobody actually tells them.",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "About what? How to calculate five percent of a restaurant check?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "Valerie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well this type of things is very common when you're in show business.",
+      "characters": [
+        "Robin",
+        "Jerry",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well my swimming pool problems are solved. I just found myself miles and miles of open lanes.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wilhelm",
+        "Allison"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, maybe I don't use my exclamation points as haphazardly as you do.",
+      "characters": [
+        "Helen",
+        "Jake",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "No, I'm tellin' you, people, they really want to make their own pizza pie.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Helena",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahh, Mr Haarwood. Well, you certainly know how to dress for a premiere.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I was just thinking. The four of us can't show up with just one bottle of wine.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ya know I hate to brag but, uh, I did win eleven straight golden gloves.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 224,
+  "date": "2025-08-14",
+  "questions": [
+    {
+      "quote": "Oh yeah, she's a great laugher, Jerry.  Really, really great!",
+      "characters": [
+        "Rick",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The Drake, he found out that the wedding is on the same day as the Super Bowl.  So he wanted to postpone it, they got in a big argument and *phlf* it's over.",
+      "characters": [
+        "Sid",
+        "Carl",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what, I'll give you my number and uh, just give me a call, tell me whenever you want to go.",
+      "characters": [
+        "George",
+        "Lippman",
+        "Melissa",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's over buddy. Done. Finished. So long. Good bye. Adios. Sayanara.",
+      "characters": [
+        "Mickey",
+        "Carrie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "I got me an appointment with a hardware store. I'm not saying I want to do it for the rest of my life, but, uh, hardware fascinates me. Don't you love to make a key?",
+      "characters": [
+        "Beth",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Myra and I would like you and Elaine to be the Godparents of Steven.",
+      "characters": [
+        "Stan",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "I'm sure she's a little self-conscious and doesn't like to talk about it.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Just do it like a Band-Aid. One motion. Right off!  She is sexy though. Don't you think?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello. So, George, uh, you're the one who works for the Yankees, right?",
+      "characters": [
+        "David",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "No it was a spur of the moment. Well you know Morty likes to fly by the seat of his vintage pants.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 408,
+  "date": "2026-02-14",
+  "questions": [
+    {
+      "quote": "Jerry, you know, I hear wonderful things about Bloomingdales' executive training program.",
+      "characters": [
+        "Lou",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Suzie. I want you to go down to Java World. Get me a cafe latte with a top.  We're gonna run some test on that top. Have you been to the doctor?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Yeah, we got out to dinner a lot. Usually Chinese, well sometimes Thai. And we go to the movies, Arnie's a real film buff.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Waitress",
+        "Matthew"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And she'll still see it, you're not stopping her from seeing it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're ladies' glasses! You know all you need is that little chain around your neck so you can wear 'em while you're playing Canasta.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She said I wasn't sponge-worthy. Wouldn't waste a sponge on me!",
+      "characters": [
+        "Jerry",
+        "Maura",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I offered him cigarettes,  but his stupid mother is hanging around. She won't let him have any.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Well, we'll go see something else tonight. We'll see, uh, Ponce De Leon.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Holly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey I get a free trip to Paris, I go in the Big Brother's Hall-of-Fame, I mail my own postcards.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Helena",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm glad she's an understudy. I don't have to avoid going back stage and having to think of something to say.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Mike",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 464,
+  "date": "2026-04-11",
+  "questions": [
+    {
+      "quote": "Yes I am. We had a verbal contract. If we can't take each other at our word, all is lost.",
+      "characters": [
+        "Kramer",
+        "Sally",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's it, that's it! I warned you kids. I told you not to play in front of my house. This time, I'm keepin' it. And you're not getting back your rock either!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, you could've just given me Neil's number. You..you didn't have to take me out to dinner.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No I can't. I gotta pick up Elaine. I'm taking her to this Kennedy auction.",
+      "characters": [
+        "Jerry",
+        "Steve",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I tried putting her hands there  but she pulls it away immediately, she's not into it.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, how is that easier? I mean, then you would owe me twelve fifty instead of me owing you seven fifty.",
+      "characters": [
+        "Bob",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, here we go... apple pie! Best apple pie in the city.  Mmm, delicious. I'm not waiting for you. Take some.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Greg",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what I think it is? I think it's that East River. I think it might be polluted.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's too tanned. It's the middle of the winter, she's like a carrot.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Alton"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's like I'm Neil Armstrong. I turn around for a sip of Tang and you jump out first.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

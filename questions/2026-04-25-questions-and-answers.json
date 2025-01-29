@@ -1,0 +1,106 @@
+{
+  "gameNumber": 478,
+  "date": "2026-04-25",
+  "questions": [
+    {
+      "quote": "You know, I never thought of it like that before, doctor.  You, are absolutely right.",
+      "characters": [
+        "Elaine",
+        "Doorman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "An apartment complex, the uh the Eiffel Towers. uumm Like I said uh you'll be getting a postcard uh in a few days and again I'm sorry.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got to get downtown and buy that suit. The store opens in twenty minutes.",
+      "characters": [
+        "Jerry",
+        "Cindy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have always had a big crush on Tim Whatley. Why can't he ask me out?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Are you getting the eyes? 'Cause they're brown.  Or, really, they're dark brown, like rich, Columbian coffee.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, they were humiliated. I mean after the impeachment, my father left office in disgrace.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what you are saying is that 90 to 95 percent of the population is undateable?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've been wanting to get one of these things! Are you sure that...",
+      "characters": [
+        "Tv",
+        "Clerk",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Mayor Dinkins set this up for you. You know what kind of a doctor this must be if Dinkins knows him?",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Steve"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I lost it two days ago. I've been faking it so I wouldn't hurt her feelings.",
+      "characters": [
+        "Morgan",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

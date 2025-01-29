@@ -1,0 +1,106 @@
+{
+  "gameNumber": 640,
+  "date": "2026-10-04",
+  "questions": [
+    {
+      "quote": "This food ,it has no taste......nothin' I'm gettin' nothin'... It must be the toxic gas from the fumigation......",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You might have the job, but you'll never know it. What kind of company is it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Come om . He'll be over there for a half hour, he gets lost over there. C'mon so what is this about?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Someone says, \"Get out of my life,\" and that doesn't affect your appetite?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...and I have to tell you, it's exactly what this organisation needed.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I got it - it's out! How about that, huh? Oh, boy, what a relief.",
+      "characters": [
+        "Kramer",
+        "Tom",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What? Was she just so crazy in love with you that she just couldn't take it anymore? Or..?",
+      "characters": [
+        "Craig",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, at least the Costanzas changed their mind and decided not to move. They couldn't bear being away from George.",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know how much you make. I don't even know why I'm doing this, I don't even like basketball.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Detective",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I change the 32 waist on the label to a 31 on all my jeans. So, you know. That's it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

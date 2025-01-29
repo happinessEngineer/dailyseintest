@@ -1,0 +1,106 @@
+{
+  "gameNumber": 239,
+  "date": "2025-08-29",
+  "questions": [
+    {
+      "quote": "Okay. I'm just not ga-ga over her. For once I'd like to be ga-ga.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, heading out. Jerry really hates to miss the coming attractions.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh! Modelling! What's that like? Fun? Ha ha.  Stupid! Stupid! Stupid!",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's disgusting. I'm sitting there in a tepid pool of my own filth. All kinds of microscopic parasites and organisms having sex all around me.",
+      "characters": [
+        "George",
+        "Gina",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "About the focus group? I had nothing to do with the focus group. What's your point?  My.. he's sexual, athletic.. an' without a trace of self-consciousness!",
+      "characters": [
+        "Woman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Oh there's that clown again, what does he want from me. Look I?m serious, I?m not kidding, I don't have the quarter, that guy took it.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "S, uh, Superman - he, uh, built the fortress of solitude up at the North Pole, to, uh, you know, sort of get away from it all..",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's insulting! Ted Danson makes eight hundred thousand dollars an episode.",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aha. Aha. Could it be because you don't want him to know that you have a friend who pees in the shower, is that it?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well I wouldn't have had to get your mail if he hadn't gone to that fantasy camp.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 213,
+  "date": "2025-08-03",
+  "questions": [
+    {
+      "quote": "Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well you black out lane-lines one and three, and a four-lane highway becomes a two-lane comfort cruise.  So, you got any black paint?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Phil"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.",
+      "characters": [
+        "Farkus",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Son's of bitches! Good luck finding them... him... whatever. I'd like to stick around and get my hands on him myself, but I gotta take off.",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I came home one night, and I tripped over one of Jerry's toys.  So I took out my belt just to threaten him, and I got a glimpse of myself in the mirror.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "So , you have fleas. Maybe you keep your house in a state of disrepair. Maybe you live in squalor.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "See, look at this.  Rachel, my T-shirt shrunk. It used to be much bigger, and now it shrunk. You see, that's what water does. It shrinks things.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kelly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't eat this without catsup. Would it kill her to check up on us? Would that be a terrible thing? \"How's everything? Do you need anything? What can I do for you?\"",
+      "characters": [
+        "Man",
+        "Tawni",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The last couple a days he's been acting very strange. I think he's avoiding me.",
+      "characters": [
+        "Ronnie",
+        "Elaine",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if you really want to test him out, why don't you try the old Jerry Lewis trick?",
+      "characters": [
+        "Cheryl",
+        "George",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

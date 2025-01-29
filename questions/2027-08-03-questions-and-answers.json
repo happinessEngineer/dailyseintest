@@ -1,0 +1,106 @@
+{
+  "gameNumber": 943,
+  "date": "2027-08-03",
+  "questions": [
+    {
+      "quote": "I'm sorry Karen. I know I care for you, but I just can't stand when someone doesn't like me.",
+      "characters": [
+        "Chiles",
+        "Jerry",
+        "Kimbrough",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told her I liked her. Why? Why did I tell her I like her? I have this sick compulsion to tell women how I feel. I like you I don't tell you.",
+      "characters": [
+        "Dana",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, fine. I'll drive the 3 hours each way, 6 hours all together, and take 'em off myself!!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Peggy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's going on? What's going on? I'll tell you what's going on. I'm fired!",
+      "characters": [
+        "George",
+        "Susan",
+        "Marlene",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Yeah, so we thought if you had any of those big, y'know, old-fashioned useless records, y'know, just... lyin' around--",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Enzo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Um, listen, you're a mechanic. Could you help me install a garbage disposal?",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello... Oh hi dad... You saw him?... Really with the ice cream?... All right I'll talk to you later, bye.",
+      "characters": [
+        "George",
+        "Melissa",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wow! You know what I would do if I was running for mayor. One of my campaign themes would be that everybody should wear name tags all the time to make the city friendlier.",
+      "characters": [
+        "Kramer",
+        "Margaret",
+        "Leslie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anaheim Hotel.  You may want to reconsider. I believe they only have room service until 10 P.M. and then it's only finger foods.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Ade"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "Well, you're not going to walk down the street with me and my daughter dressed like that. That's for damn sure.",
+      "characters": [
+        "Alton",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Alton"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 521,
+  "date": "2026-06-07",
+  "questions": [
+    {
+      "quote": "Well, I mean, as long as you're okay, that, that's the important thing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can you die from an odor? I mean, like if you were locked in a vomitorium for two weeks, could you actually die from the odor?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what I'm gonna do - I'm gonna do a hard-target search. Of every drug store, general store, health store and grocery store in a 25-block radius.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Cop",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have no patience for lactose. And I won't stand for it. Um, I'll be right back.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Well women do it.\" I'll tell you what. I'll pick you up a sundress and a parasol and you can just  sashey your pretty little self around the town square.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nah! He's too weird he'd fall or something. He'd ruin the whole ceremony.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Okay, you tryin' to hurt me? Are you tryin' to hurt - you're tryin' to injure me, right? You're trying to hurt me.",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My name is Maxwell. I'm from Maid To Order. It's a pun. I sent one of my girls over to your place.",
+      "characters": [
+        "Jerry",
+        "Man",
+        "Laura",
+        "Elaine"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Is there anything wrong with getting a receipt at a toll booth?",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

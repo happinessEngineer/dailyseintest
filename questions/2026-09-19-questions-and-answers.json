@@ -1,0 +1,106 @@
+{
+  "gameNumber": 625,
+  "date": "2026-09-19",
+  "questions": [
+    {
+      "quote": "Yeah, it was OK. Frankenstein didn't seem quite right to me. I missed the sport jacket.",
+      "characters": [
+        "Jodi",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no, no, no. This guy is no friend. In fact, we don't even get along.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Ping"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I-I'm sure if you weren't satisfied you would probably say something wouldn't you?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right lets go. We'll meet you back down here in ten minutes, hopefully with the money.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Naomi",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, that's right, he was good kid - a lovely boy. Shared his calzone with me - that was a heck of a sandwich, wasn't it, Georgie?",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Rachel"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Yeah, you know my friend, the bra salesman. He says they are looking maybe to put somebody on so I got you an interview next Friday with his boss.",
+      "characters": [
+        "Steve",
+        "Frank",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Get yourself some vitamin C with rose hips and bioflavenoids.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Okay  I'm sorry, I didn't know what to bring, nobody told me.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told you I don't like these sponges, they're too small! I want a big sponge!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Harold"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Alright! Yeah. You know, I'm excited about this, Jerry. In a way, I feel like I'm getting a new couch.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 85,
+  "date": "2025-03-28",
+  "questions": [
+    {
+      "quote": "And it was around this point that she mentioned the boyfriend?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, lemme ask you something. When you're with a guy, and he tells you he has to get up early, what does that mean?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helena",
+        "Silvio"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, we had a deal, Newman. And you were supposed to give my your birthday wish. And now you've wasted it!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Worker",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I wish you'd called me earlier, I could have given you my tickets for tonight.",
+      "characters": [
+        "Steinbrenner",
+        "Alec",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "A free trip to India. And by the way, you can take off those boots. Everyone knows you're five' six.",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "It's a pretty full house, the lighting guy's name is Lew, he's got a birthday next week.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "I have mourned for three long months! Summer months, too! Anybody could grieve in January! It's time for George to start being George again.",
+      "characters": [
+        "Toby",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'd love to be a Civil War buff. ... What do you have to do to be a buff",
+      "characters": [
+        "Elaine",
+        "Alec",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "God! She's cooking dinner for God! She's yelling and screaming, and the next thing I know, she throws a big can of chocolate syrup all over my new red shirt.",
+      "characters": [
+        "Clerk",
+        "Newman",
+        "Rebecca",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if he fixes my back I'll be happy. . . .  Have you ever had a sexually transmitted disease? That's IT! . . . Here, you got my name, you got my address. That's enough.",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

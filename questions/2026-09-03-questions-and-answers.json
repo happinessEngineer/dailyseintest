@@ -1,0 +1,106 @@
+{
+  "gameNumber": 609,
+  "date": "2026-09-03",
+  "questions": [
+    {
+      "quote": "What's a young man like you want to move cars for? You don't work?",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "What a sale, huh? And how about that store, delivering it tonight? We're gonna be swimming in 'thank you's...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Naomi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I don't know...I just like sitting to the left of people, makes me feel like I'm driving.",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Mel",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, she was on his right side. He can't make a move with his left hand. Can't go left.",
+      "characters": [
+        "Toby",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yuh, yes. I intend to Your Honor. And then, on the afternoon of September 10th, you received a phone call did you not?",
+      "characters": [
+        "Matthew",
+        "George",
+        "Newman",
+        "All"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I just don't think it's such a great idea for you to sit here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what kind of stuff are you listening to? You *embarrassed* me at that store.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Secretary",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tell you. If you were hitch-hiking, you'd never get into a car with someone with a hairdo like that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sidra",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I'm going to get that watch back for you by tomorrow, buddy. You see.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Your nickname's Koko? One of the girls down at the maid service is named Coco.",
+      "characters": [
+        "Cindy",
+        "Jerry",
+        "Anna",
+        "Kramer"
+      ],
+      "correctAnswer": "Cindy"
+    }
+  ]
+}

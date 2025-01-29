@@ -1,0 +1,106 @@
+{
+  "gameNumber": 87,
+  "date": "2025-03-30",
+  "questions": [
+    {
+      "quote": "This is what they would do in the movies! It's a beautiful thing! It's like a movie! I'm gonna slip him a mickey!",
+      "characters": [
+        "Dan",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's my problem? Punks like you, that's my problem. And you better not screw up again Seinfeld, because if you do, I'll be all over you like a pitbull on a poodle.",
+      "characters": [
+        "Bookman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Bookman"
+    },
+    {
+      "quote": "All right Mrs. S. I and my good pal Keith Hernandez will be right back.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "Hal",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's not that I don't like you, but, well to be perfectly honest, I'm just having some trouble getting past the face painting.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Eddie",
+        "Carol"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay. Uh, my mother is is going to pay for the sessions. ... Oh,Elaine?",
+      "characters": [
+        "Greg",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe they came back for Chinese food. Y'know Maureen Stapleton, if she gets a craving, she's probably screamin' at those aliens, \"I gotta have a lo mein!\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, Cuban cigars are illegal in this country. That's why I got these guys.",
+      "characters": [
+        "Newman",
+        "Tony",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, you're never gonna find a space on Jerry's block, just put it in a garage.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "Janet"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, really, what is the big deal? We go in there.  We're in there for a while. We come right back out here. It's not complicated.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright - um, excuse me, hi, could you tell me what kind of law this is.",
+      "characters": [
+        "George",
+        "Sylvia",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

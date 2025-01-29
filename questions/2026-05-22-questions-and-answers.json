@@ -1,0 +1,106 @@
+{
+  "gameNumber": 505,
+  "date": "2026-05-22",
+  "questions": [
+    {
+      "quote": "I'll give you back your spare keys - but now I want mine back.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at that, Helen do you see what he's wearing? That's the Executive.",
+      "characters": [
+        "George",
+        "Newman",
+        "Deena",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "What I do? You are one of my favorite ball players of all time",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I thinks it's kind of a pompous look. You know my parents used to have a kitchen chair that would have been perfect.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, the whole deal going down tomorrow. Morty's gonna miss his plane for it.",
+      "characters": [
+        "Stationer",
+        "Margaret",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, I sat too close to the screen. Oh. I just gotta stretch out in a hot bath. It was nice to see you again, Lloyd.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it's being framed right now. I don't even know what it costs.  Not, uh, too expensive, is it?",
+      "characters": [
+        "Tim",
+        "Betsy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why?! Because you were stabbed, and.. got coffee thrown in your face, and.. uh..",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Ken",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now listen , promise me you won't tell him Okay.I want to have a little fun with this.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hellooo Jerry. What a rare treat. What brings you down to the east wing?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

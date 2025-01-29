@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1029,
+  "date": "2027-10-28",
+  "questions": [
+    {
+      "quote": "It's because of her that bottle got broke that I was going to give to Charles Grodin on his show.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh.  Mr Kramer, you had a ten-thirty appointment. It's two o'clock. Mr Shellbach had a tennis lesson. He's gone for the day.",
+      "characters": [
+        "Elaine",
+        "Secretary",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Secretary"
+    },
+    {
+      "quote": "The door? Why would I go out the door? The window's right here.",
+      "characters": [
+        "Lloyd",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you talking about? I'm the one who should have called the police. They stole my wallet.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Sheila"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "To be honest with you. Nobody really knows. He seems to have disappeared.",
+      "characters": [
+        "George",
+        "Duncan",
+        "Rita",
+        "Elaine"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "Boy, a little too much chlorine in that gene pool.  And, you know, the thing is, they're never gonna know, no one's ever gonna tell them.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what is it you object to? The comfort? The Speed? The convenience?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Grime, grease, filth, funk, ooze. Whatever it is, you take that stuff and put it right on my leather upholstery.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't go. Kramer! Come back. I got great news. Well, I did it.",
+      "characters": [
+        "Landlord",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh no. Sure. It matters. Wow. I've broken through, huh. I'm part of popular culture now. Listen I've got to thank Mr. Peterman.",
+      "characters": [
+        "Milos",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

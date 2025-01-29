@@ -1,0 +1,106 @@
+{
+  "gameNumber": 221,
+  "date": "2025-08-11",
+  "questions": [
+    {
+      "quote": "Wait a second. Maybe there is someway we can tempt him and find out...",
+      "characters": [
+        "Seth",
+        "Kramer",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I saw the doll you were talking about - not funny! This doll's much funnier. Look, it has a little bowtie, and a cute little hat.. I think it's a riot!",
+      "characters": [
+        "Sally",
+        "Leo",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "rock climbing? hehe.. where do you come off going rock climbing.. rock climbing? you need a boost to climb into your bed",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, . . . about how you wish it was YOU who was getting married instead of him? Feelings of resentment, hostility?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's him! That's the man who gave me the pills in the drug store! He's no pharmacist.",
+      "characters": [
+        "Pitt",
+        "Jerry",
+        "George",
+        "Owner"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "Alright, alright. I'll make the necessary adjustments, alright.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Joe",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes. You know the uh flood, and the uh lepers, and the commandments and all that.",
+      "characters": [
+        "Gina",
+        "George",
+        "Jerry",
+        "Jimmy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you know these jewellers, they're enigmas. They're mysteries, wrapped in a riddle.",
+      "characters": [
+        "Rava",
+        "Shelly",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you think you could transport some stumps for me? I'll make it worth your while.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know what you thought. They don't have homes, they don't have jobs, what do they need the top of a muffin for? They're lucky to get the stumps.",
+      "characters": [
+        "Milos",
+        "Rebecca",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Rebecca"
+    }
+  ]
+}

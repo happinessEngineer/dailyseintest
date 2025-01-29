@@ -1,0 +1,106 @@
+{
+  "gameNumber": 460,
+  "date": "2026-04-07",
+  "questions": [
+    {
+      "quote": "But you know as soon as she gets in the apartment she's going right for that machine.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you kidding? I could spot that bird's nest two blocks away.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Attendant",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm no genius but, according to my calculations he should be here in a few seconds.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Celia",
+        "Kelly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. It was an accident. It really wasn't my fault. It was Jerry.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? Yeah.. you're right!.. All I have to do is call him up, and sit with him, and show him that it doesn't bother me. You know, laugh it off.. or jam a fork into his forehead.",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Absolutely not. I mean, what are you thinking about, JERRY:? Marriage? Family?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Cindy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Absolutely, you just call my secretary, she'll arrange everything.",
+      "characters": [
+        "Salesman",
+        "Jerry",
+        "Kramer",
+        "Alec"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "Like in the middle of our fight last night he did this thing that he always does where he asks questions to himself, aloud. And then answers them.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Hi. You know, Kramer gave me the armoire and it is so beautiful. I'm mean, I just can't tell you how much I appreciate it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you, thank you,  Hey, Jerry, did ya see me up there? I was killing, Jerry. Killing. I killed.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    }
+  ]
+}

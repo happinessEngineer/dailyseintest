@@ -1,0 +1,106 @@
+{
+  "gameNumber": 568,
+  "date": "2026-07-24",
+  "questions": [
+    {
+      "quote": "Oh, yes I am. Mr. Thomassoulo likes to play dirty. Well, there's nothing dirtier than a giant ball of oil.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I'm sorry, I- you know, I, I thought you knew.  You got any meat?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's hell. It's the financial equivalent of a complete rectal examination. I would have killed this man. Torn him limb from limb, ripped the flesh right off his bones ...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's the matter with you? Are you crazy? Why are you using my name?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Phil",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And the indigent, yeah.. I, I do volunteer work for them. I-I set the whole thing up, and I got Jerry to do it.",
+      "characters": [
+        "Elaine",
+        "Seth",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nah, I got it from a guy on the street. It was, like, fifty bucks.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well. See ya later, Elaine. Feldman an' I 'a' gotta get down 'o the library.",
+      "characters": [
+        "Kevin",
+        "Lippman",
+        "George",
+        "Tina"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "You know, I didn't go to the bathroom the entire time we were in India.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't try to. You do it! Fifty-one percent of all turns are right turns. You know that? 'Try to.'",
+      "characters": [
+        "Elaine",
+        "George",
+        "Tony",
+        "Jerry"
+      ],
+      "correctAnswer": "Tony"
+    }
+  ]
+}

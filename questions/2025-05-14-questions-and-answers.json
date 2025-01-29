@@ -1,0 +1,106 @@
+{
+  "gameNumber": 132,
+  "date": "2025-05-14",
+  "questions": [
+    {
+      "quote": "If I do it again, that extends my payment book another two weeks.",
+      "characters": [
+        "Elaine",
+        "Donna",
+        "Jerry",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry about the gift, I didn't know about your condition.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, Quinn here was moving a chair...he lost his balance and dropped it...it must have fallen on your briefcase, which, for some reason, contained a running tape recorder?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Imagine if I had to see them both on the same day?  Haha! It's like runnin' a double marathon!",
+      "characters": [
+        "Alton",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, he's nobody. Hey, listen, ... let me top that off for ya.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I am not going to hell and if you think I'm going to hell, you should care that I'm going to hell even though I am not.",
+      "characters": [
+        "Betsy",
+        "Elaine",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've been to a few of em. If you uh start to get woozy later, which is quite common, stay close to me. I'll get you through it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Watch the arm! Tim, listen, we don't want to bother you, we know you're busy here.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jodi",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's where they filmed the movie. It's supposed to inspire me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And Newman gave you money too. So, I didn't even meet this guy. You know, we trusted you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ron",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

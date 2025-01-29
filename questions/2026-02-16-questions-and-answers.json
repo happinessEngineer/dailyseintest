@@ -1,0 +1,106 @@
+{
+  "gameNumber": 410,
+  "date": "2026-02-16",
+  "questions": [
+    {
+      "quote": "I won fifty bucks! Boy, this is great. Too bad Elaine's not here.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's like some pod landed from another planet and took your body. Don't fall asleep Elaine.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Maestro",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's so amazing getting to see Monica Seles playing in the finals.",
+      "characters": [
+        "Maura",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Excellent film. In fact Quinn said he never felt so good as when he left a note after smacking into a car.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And I have a lot more control. I have one shirt going for 10 minutes at 325 degrees.",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I think I can say, barring some unforeseen incident, that you will have a very bright future here at E.D. Granmont.",
+      "characters": [
+        "Kramer",
+        "Farkus",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Oh, no. I'd never part with this card for anything in the world.",
+      "characters": [
+        "Jerry",
+        "Bobby",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Bobby"
+    },
+    {
+      "quote": "You know I often wonder what you'll be like when you're senile.",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How did you get out of the apartment? I didn't see you leave.",
+      "characters": [
+        "Monica",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Miss Wilkie, your tobacco company has turned this beautiful specimen, into a horrible twisted freak.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    }
+  ]
+}

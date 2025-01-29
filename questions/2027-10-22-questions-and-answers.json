@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1023,
+  "date": "2027-10-22",
+  "questions": [
+    {
+      "quote": "ok, Jerry, I would be going out with him no matter what he looked like",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Beth",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Three hundred dollars. Hey, Mr Oh, how much would these run you in Tokyo?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Guy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, yeah, I think I do. I can never find anything in here. Ah, here it is. So, that Joe Mayo throws the worst parties, doesn't he? So what was your job?",
+      "characters": [
+        "Wyck",
+        "Peterman",
+        "Jerry",
+        "Valerie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Jerry. Look at all the towels they gave me! I really hit the jackpot!  Ha, ha, ha.",
+      "characters": [
+        "Elaine",
+        "Stationer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hello.  Oh, hi Nana.  What? Oh. Oh, alright, okay. Don't worry about it.  Okay, I'll see you later. Alright, bye.",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, George, do you have any thoughts on this Darryl situation?",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what I do at the Yankees, when one of these old guys is breathing down my neck?",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Well...there's no room for someone like that in this organization.\"",
+      "characters": [
+        "Lloyd",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what are you doing tomorrow? You want to come see me on the Charles Grodin show?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, let's just get to work.  NBC Pilot, Seinfeld project. Act I, Scene A.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Alton"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

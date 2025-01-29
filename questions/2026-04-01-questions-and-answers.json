@@ -1,0 +1,106 @@
+{
+  "gameNumber": 454,
+  "date": "2026-04-01",
+  "questions": [
+    {
+      "quote": "I said: \"So, what do you think?\". And he said, \"Gabardine?\". And I said, \"Yeah.\" That was it.",
+      "characters": [
+        "Brody",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What physical characteristic would you say is common to all of them?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Lamar"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If there's anything you can do to get us a table we'd really appreciate it.",
+      "characters": [
+        "Jerry",
+        "Toby",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That would be an interesting sociological experiment. You know, Kramer has his father's band. He'd loan it to you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jackie",
+        "Cynthia"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is a huge project involving lots of numbers and papers and folders.",
+      "characters": [
+        "Kruger",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it's a lovely song.  \"How do you solve a problem like Maria?...\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I, uh, I disagree. You've, uh, you've been living in America too long.  You've forgotten what it's like to have no oranges.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Jimmy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And what about yooou?!?  Tryin' to bilk an innocent bystander out of a family fortune, built on sweat and toil, manufacturing quality O'Henry candy bars, for honest, hard-working Americans!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah..... He caught me So here's what I want you to do. Come back with me to the store and we'll pretend to look at the coat.",
+      "characters": [
+        "Jerry",
+        "Attendant",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, listen while we're here why don't we do a little shirt shopping?",
+      "characters": [
+        "Elaine",
+        "Meryl",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

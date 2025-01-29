@@ -1,0 +1,106 @@
+{
+  "gameNumber": 500,
+  "date": "2026-05-17",
+  "questions": [
+    {
+      "quote": "See, this is good. This is the way it should be. You know why are we fooling ourselves. We belong together.",
+      "characters": [
+        "Jerry",
+        "Farkus",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And then, the evil ogre took back the magical keys from the handsome young prince.",
+      "characters": [
+        "Frank",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Vanessa, thank you. I've been thinking about asking her to go away for a couple of days.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am not a restaurateur by any means, but it occurred to me that perhaps you might serve some dishes from your native Pakistan? As opposed to say t-the franks and beans for example.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, isn't an architect just an art school drop-out with a tilty desk, and a big ruler?",
+      "characters": [
+        "Steven",
+        "Jerry",
+        "Tony",
+        "Kramer"
+      ],
+      "correctAnswer": "Steven"
+    },
+    {
+      "quote": "What happened? My car *stinks* is what happened. And it's destroying the lives of everyone in it's path.",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I- I Ms. Welch I do need to talk to you about a little problem regarding, eh, your performance.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "ARe you kidding? Lincoln Center. Alice Tully Hall, the Met. Magnificent facilities.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Lamar",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I stopped at the club to see him and I was standing in the back while he was on, right?, and there was this tape recorder there and I.....got this impulse. Ha Ha Ha Ha....What?",
+      "characters": [
+        "Katya",
+        "George",
+        "Gwen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I meet this women, Sheila. She works down at the one hour photo pace. She's got this incredible smile. Like she's got extra teeth or something",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

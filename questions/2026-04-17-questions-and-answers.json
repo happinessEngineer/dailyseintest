@@ -1,0 +1,106 @@
+{
+  "gameNumber": 470,
+  "date": "2026-04-17",
+  "questions": [
+    {
+      "quote": "Could you fill these out for me please? And um, Elaine, you'll be seeing Julianna…",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "I got a guarantee on that watch. Give it to me, I'll take it back to where we got it.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, the Curtis, why don't you come in?  Father Curtis, good guy. Oh, which reminds me, did you hear the one about the Pope and Raquel Welch on the lifeboat, huh? I'll tell you later.",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Right. I don't have it on me. Allison, this is Susan. Susan, Allison.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean look at this. Every waitress working here has the same proportions. Wouldn't you say?",
+      "characters": [
+        "Tia",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aahh! You're great,It's great, It's so great to see a show that's  about something.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I saw you looking at your watch. You want to leave? Go ahead.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Gina",
+        "Greg"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "Listen, there is something really suspicious about this guy. Every time Mr Peterman tries to assign him any work, he says he can't hear, and it all gets dumped on me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I am sorry. It looks like the claim has been red flagged. Your under investigation.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Attendant",
+        "Elaine"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "No, not really. I'm just saying this to you because I like to hear myself talk. Yes, really!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Dan",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

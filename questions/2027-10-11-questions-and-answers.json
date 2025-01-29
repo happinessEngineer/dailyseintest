@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1012,
+  "date": "2027-10-11",
+  "questions": [
+    {
+      "quote": "Well, sometimes you can't help these people 'til they hit rock bottom.",
+      "characters": [
+        "George",
+        "Toby",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, all right, I didn't want to tell you this. You wanna know why she called you?",
+      "characters": [
+        "Melissa",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah. You know what? There are a lot of players named Deon these days. What a cool name, Deon. If I were gonna change my name, I'd go with Deon.",
+      "characters": [
+        "Kramer",
+        "Marcy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know Keith, what I've always wondered, with all these ball clubs flying around all season don't you think there would be a plane crash? ...",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, Newman and I are engaged in a epic struggle for world domination.  It's winner take all.  People cannot be trusted.",
+      "characters": [
+        "Rava",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no! >click click< Kramer, this phone's a piece of junk, goodbye!",
+      "characters": [
+        "Marla",
+        "Jerry",
+        "Kramer",
+        "Attendant"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because you said this would be better. Remember? A vacation from ourselves. That's what you said.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I sell insurance, but Beth used to be Don Mattingly's doctor.",
+      "characters": [
+        "Helen",
+        "David",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "You know, I went swimming and I can't get this water out of my ear.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bonnie",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Fine, okay. It's just, I've never seen a beautiful lady reading 'the Guide' so far away from a TV. You must really like television.",
+      "characters": [
+        "Ricky",
+        "George",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Ricky"
+    }
+  ]
+}

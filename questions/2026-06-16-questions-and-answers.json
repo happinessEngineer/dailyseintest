@@ -1,0 +1,106 @@
+{
+  "gameNumber": 530,
+  "date": "2026-06-16",
+  "questions": [
+    {
+      "quote": "Atlantic City?  Yes! Yes! I will go to Atlantic City. I'm in. I'm down.",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": ".. I coulda been a kosher butcher like my brother. The money's good. There's a union, with benefits. And, cows have no families. You make a mistake with a cow, you move on with your life... Anyway.",
+      "characters": [
+        "Mohel",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Oh, no no no, I haven't even seen her apartment yet.  Tomorrow night's the first night.",
+      "characters": [
+        "Gina",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'm not the one who said eleven o'clock. He makes up his own rules.",
+      "characters": [
+        "Harold",
+        "Tony",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Oh.  Oh yeah, I'd be happy to. Uhm, how much d'you want this thing?  I mean, you know, how high are you willing to go?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Awfully sorry to make you come up here, but I really wasn't feeling well enough to go back to the office, and well, it's the only chance I have to meet with you this week.",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "You know, the only way to really help her is to just let her be.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's funny. As it happens, I saw the same shooting star and double-wished you, to drop dead.  Here's your change.",
+      "characters": [
+        "Fdr",
+        "George",
+        "Winona",
+        "Jerry"
+      ],
+      "correctAnswer": "Fdr"
+    },
+    {
+      "quote": "Ah! Because, I'm going to the dentist, and I'm afraid, and I want you to go with me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

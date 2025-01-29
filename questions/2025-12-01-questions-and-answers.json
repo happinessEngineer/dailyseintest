@@ -1,0 +1,106 @@
+{
+  "gameNumber": 333,
+  "date": "2025-12-01",
+  "questions": [
+    {
+      "quote": "Yeah, well, if you're getting him anything for his birthday, I'm alarge.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.",
+      "characters": [
+        "Farkus",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey, I gotta stop off at the bookstore to pick up my parents one of those French-English dictionaries.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Steve"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute, Rinitze? Don't they have somme really cool suits in there?",
+      "characters": [
+        "George",
+        "Conrad",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is there ever a good time to have your parents stay with you?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Darren",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, OK. Let's stop fooling around. Let's just slip him some money.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No no no. She changed her hairstyle,  it's terrible. No, we're done.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's good stuff, and you can never have too much ice. Alright, I'll tell you what I'll do. You can co-host the party with me, under one condition. No Jerry. Jerry is not invited.",
+      "characters": [
+        "Jerry",
+        "Helena",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I mean we can put a man on the moon but we're still basically very stupid. The guy who's car this is? He could be one of the guys that built the rocket. You see what I'm saying?",
+      "characters": [
+        "George",
+        "Sid",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on, Go in, go in!  [watching Dream Cafe with binoculars again]",
+      "characters": [
+        "Evelyn",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

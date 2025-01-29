@@ -1,0 +1,106 @@
+{
+  "gameNumber": 290,
+  "date": "2025-10-19",
+  "questions": [
+    {
+      "quote": "Alright, that's enough out of you, there's still three more games left in this series, my friend, and it's far from being over. Very far from being over.  Watch out!",
+      "characters": [
+        "George",
+        "Man",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A kiss? With the tongue? The glossa with the bumps and the papillae? ..Yech, I don't think so.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Rita",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, you don't have to challenge that. That's a word. That's a definite word.",
+      "characters": [
+        "Joyce",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This confers upon you instant boyfriend status. The family's there...you're taking care of things...you're gettin' the sandwiches...you're the rock!",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. He's pretty upset that I broke up with him to go out with you.",
+      "characters": [
+        "Elaine",
+        "Beth",
+        "Jerry",
+        "Danielle"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "They always make me take stock of my life. And how I've pretty much wasted all of it, and how I plan to continue wasting it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Russell",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That?s a good question, good question, its very... exerstential! Who are you? Who am I? Yeah, well.",
+      "characters": [
+        "Elaine",
+        "Jodi",
+        "Tony",
+        "Bonnie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why will she still do it? She hates you now. People don't do you favors after you dump them.",
+      "characters": [
+        "Elaine",
+        "Gary",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Emphysema, birth defects, cancer. But not this. Jerry, my face is my livelihood. Everything I have I owe to this face.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, he did some dental work for me and he didn't charge me so I thought I'd get him a Christmas present.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

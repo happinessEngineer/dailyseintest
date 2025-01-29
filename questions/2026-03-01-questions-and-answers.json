@@ -1,0 +1,106 @@
+{
+  "gameNumber": 423,
+  "date": "2026-03-01",
+  "questions": [
+    {
+      "quote": "Twenty-five percent, you say? No way! It's like 4 to 6 percent. It's a twenty to one shot.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They got a new intern from Francis Louis High. His name is Keith. He comes in Mondays after school.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh really? 'Cause it looks a little big for you. It looks like something a short, stocky, slow-witted, bald man might wear.",
+      "characters": [
+        "Father",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Love the Label Baby, baby.  You know those things make great gifts, I just got one of those for Tim Whatley for Christmas.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Good afternoon. One large crab bisque to go. Bread. Beautiful.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. Just chitchat, movies, current events, regular stuff. You know Sandi--",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No noo no, we just bought this. . . . Um, you sold us a cake with a  hair on it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The point is, however it got done, it's done. So, any luck with the car?",
+      "characters": [
+        "Ray",
+        "Sophie",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. The other members of our party.  Other members of our party? What other members of our party? I didn't even know we were in a party. Oh, I'm telling you, the jig is up.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if I call her, there's no joking around anymore. This is pretty much it.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

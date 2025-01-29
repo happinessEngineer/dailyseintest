@@ -1,0 +1,106 @@
+{
+  "gameNumber": 199,
+  "date": "2025-07-20",
+  "questions": [
+    {
+      "quote": "You know what you ought to do George? You should work for Greenpeace. You those people they attack the whalers out on the open sea.",
+      "characters": [
+        "Jimmy",
+        "Kramer",
+        "Tim",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "-programs like Ken Burns' Baseball. And if Danny Tartabull were here, I'm sure he'd say, 'That's correct, Jerry.'",
+      "characters": [
+        "George",
+        "Gary",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They don't actually have to squeeze his head to get him to say 'holy cow', do they?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, excuse me, have you see a guy with like a horse face, big teeth, and a, and a pointed nose?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We did a crossword puzzle together, *in bed*. It was the most fun I ever had in my entire life. Did you hear me? in my *life*! Y'know?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No he couldn't, because the other car was already backing in.",
+      "characters": [
+        "Matthew",
+        "Jerry",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Matthew"
+    },
+    {
+      "quote": "Well, I better get going. I don't want to be late for the play.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Hey, you should see the Berkhardt, Jerry. My mile is spotless. I mean the big stuff was easy. Cinderblocks, air-conditioners, shopping carts , I just rolled 'em into the woods.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it just didn't seem to be the right project for us right now.  So, what were you saying?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "It's Risk, Jerry.  The game of world conquest.   Alright, that's perfect.",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 81,
+  "date": "2025-03-24",
+  "questions": [
+    {
+      "quote": "Yeah, he's very interesting. Did you know that Mozart died while he was writing 'The Requiem'.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know it's like you never see a really attractive woman getting a traffic ticket.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Landis",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I am not a prude sweetheart. I swing with the best of them.",
+      "characters": [
+        "Woman",
+        "Manager",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A cane. I knew it.  So, we meet at last. I admire your skills, Mr Peanut.",
+      "characters": [
+        "Peterman",
+        "Lippman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ya, that's the.. last thing you want to see. Well, next to last.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Anna"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why would anyone eat canned fruit? I mean can anybody answer that?",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I bought it for you because you were so nice to me for not charging me for the dental work.  The way you worked on my filling, you were so, so gentle and so caring and so sensitive.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, Joel, I don't think we should see each other anymore.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, like all the comedians always say, 'How would you like it if I came to where you work and heckled you?'",
+      "characters": [
+        "Jerry",
+        "George",
+        "Naomi",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you should have gone to the Costanzas' for dinner. Mmm the Paella was magnificent. Have you ever had really good Paella?",
+      "characters": [
+        "Toby",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

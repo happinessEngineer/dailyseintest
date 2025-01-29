@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1007,
+  "date": "2027-10-06",
+  "questions": [
+    {
+      "quote": "This you're not goin' to believe. The NYPL says that I took out Tropic of Cancer in 1971 and never returned it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I bin thinkin about it. You got no job. You got no prospects. You're like Biff Loman.",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "George",
+        "Carrie"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "You know I still got that pen, the one that writes upside down.",
+      "characters": [
+        "Jack",
+        "Frank",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Uh.. well, you better not. I'm supposed to be careful with it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rita",
+        "Harold"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello? Amanda. Hi, yes. Listen. You know, I'm thinkin', we might just be better of bein' friends. Yeah. Yeah, you know what, I can't even really talk about it right now. Bye-bye.   No! No!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's over there in the overcoat. If you could just kind of put a scare into him.. You know, set him straight..",
+      "characters": [
+        "John",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, guess where Mr 'Ocean phoned' turned up? He's working for Firestone, in Akron, Ohio.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, see that's not a reason you can't. You just don't want to.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The adoption agent seems to feel that Arnie has a violent temper.",
+      "characters": [
+        "George",
+        "Beth",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Of course I'm not Cartwright! Look, why don't you two just go to the movies all by yourselves, I'm not in the mood.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

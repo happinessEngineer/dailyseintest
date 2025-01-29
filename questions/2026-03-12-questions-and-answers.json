@@ -1,0 +1,106 @@
+{
+  "gameNumber": 434,
+  "date": "2026-03-12",
+  "questions": [
+    {
+      "quote": "Look, I have my system. First I look for the dream spot right in front of the door, then I slowly expand out in concentric circles.",
+      "characters": [
+        "Captain",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I understand, no hard feelings. George and I will miss your company. Fong? It will just be two this evening. George, we dine.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "It's like going to the bathroom in front of a lot of people and not caring.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So how'd you come up with the idea for the belt-less trench coat?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Frank",
+        "Carl"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You should be! How could you spend two hundred dollars on a tip calculator?!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "My cousin Douglas was in a place like this one time . He came over to my house for dinner. There was no soda and he went bezerk. He was screamin' \"where's the Pepsi, where's the Pepsi?\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Gimme the jacket, furface, this is not Seinfeld you're dealing with! When I get through with you, you'll be begging to go to the pound!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm engaged to Mr. Ross' niece. I'm probably gonna be taking over this whole place someday so if I were you I would stay on my good side.",
+      "characters": [
+        "Jerry",
+        "Cop",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what, let's put a few cookies in a blender and he could drink it.",
+      "characters": [
+        "Ken",
+        "Clerk",
+        "Hal",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Unfortunately the immutable laws of physics contradict the whole premise of your account. Allow me to reconstruct this if I may for Miss Benes as I've heard this story a number of times.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

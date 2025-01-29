@@ -1,0 +1,106 @@
+{
+  "gameNumber": 89,
+  "date": "2025-04-01",
+  "questions": [
+    {
+      "quote": "Give me the phone.  Yea, Hi I would like to speak to Patrice. ... what? ... oh really? ... oh, ok, thank you, ...",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She won't talk to anyone, huh? Oh no, she won't say a word to anybody. Well, she's talking a blue streak now, Jack!",
+      "characters": [
+        "Earl",
+        "Jerry",
+        "Gary",
+        "George"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "And people come in the store and you get involved in their lives.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Ava"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's all right, George. You'll just pay a fine and that'll be it.",
+      "characters": [
+        "Anna",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Anna"
+    },
+    {
+      "quote": "Tomorrow I'm going straight down to this Rudy and get my clothes.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "What d'you think? I've never ridden in a Cadillac before? Believe me, I've ridden in a Cadillac hundreds of times. Thousands.",
+      "characters": [
+        "Jack",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "I still want to know what happened to that birthday card? Now, Morgan, did you ever sign it?",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Earl",
+        "Susan"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Yeah.  I wasn't gonna get it, but this guy Milos, who runs the pro shop, he really recommended it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why does Mr. Pitt prefer a pencil to a pen anyway? Hey. Look who's here.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These Dominicans really know their way round a crepe. Look at that. It's like they're rolling a double corona.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

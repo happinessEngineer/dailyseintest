@@ -1,0 +1,106 @@
+{
+  "gameNumber": 509,
+  "date": "2026-05-26",
+  "questions": [
+    {
+      "quote": "Well, he said it could be cancer, maybe you should get it checked out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't like you talking about me with your friends behind my back.",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "In any other shoe, I lose two inches. I - I can't have a drop down. We were eye to eye, I can't go eye to chin!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Rebecca"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sorry? Are you kidding? You did me the biggest favor of my life. I spoke to a lawyer, we're suing for millions.",
+      "characters": [
+        "Deena",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I tell Alec that I have to go to Paris for an undetermined amount of time. Then all I have to do is buy some post cards and have your parents mail them from Paris.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ronnie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would you excuse me a minute? I'm gonna go to the bathroom. I'll be right back.",
+      "characters": [
+        "Doris",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, neighbor. That's right. Yeah, why don't we take this boiler out for a shakedown huh?",
+      "characters": [
+        "Doctor",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, it was very nice of you to bring the man you're currently sleeping with over to talk to me, but I assure you, I don't have any problem with germs.",
+      "characters": [
+        "Kramer",
+        "Peggy",
+        "Steinbrenner",
+        "Newman"
+      ],
+      "correctAnswer": "Peggy"
+    },
+    {
+      "quote": "It's very nice of you to do this. I've asked several people and they wouldn't even answer me.",
+      "characters": [
+        "George",
+        "Wyck",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm afraid it's your urine, Elaine. You tested positive for opium.",
+      "characters": [
+        "Patrice",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

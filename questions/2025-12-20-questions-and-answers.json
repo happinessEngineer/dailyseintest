@@ -1,0 +1,106 @@
+{
+  "gameNumber": 352,
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "quote": "I am. The folks are twelve hundred miles away.  I'm basking in the buffer zone.  'Nother piece of pie here!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well, I didn't actually go with Ramon. I just bumped into him there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, pardon me for trying to set you up with a beautiful, intelligent woman.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm tellin' you Jerry I'm gettin' a vibe. If I didn't know better, I'd say the staff completely lost respect for me.",
+      "characters": [
+        "Betsy",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion of heat and wind.",
+      "characters": [
+        "Tor",
+        "George",
+        "Bonnie",
+        "Bania"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "Oh my god, Lorraine... that's Lorraine from my uncle's office. I'm in big, big trouble.",
+      "characters": [
+        "George",
+        "Cop",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhm, hold, hold on a second.  I'm, I'm sorry, I didn't hear what you said.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why shouldn't we be able to do that once in a while if we want to?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Lippman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I always tell everybody about you. Tell everybody to  GO SEE HIS SHOW!  I mean, I'm your biggest fan!",
+      "characters": [
+        "Joel",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "What the hell were you thinking leaving my clubs in that car?!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

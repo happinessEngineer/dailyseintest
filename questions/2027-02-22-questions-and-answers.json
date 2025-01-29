@@ -1,0 +1,106 @@
+{
+  "gameNumber": 781,
+  "date": "2027-02-22",
+  "questions": [
+    {
+      "quote": "Maybe it's some small thing I could change. Like a moustache. Or wearing a top hat, or a monocle, or a..or a cane.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping.",
+      "characters": [
+        "Elaine",
+        "Clerk",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it doesn't seem to be coming in so good over here. Or here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm gonna have to give that guy a taste of his own medicine, so, I am going to sidle, the sidler.",
+      "characters": [
+        "Silvio",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, I admire the hell out of her. You can't have sex with someone you admire.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I think it might have something to do with those checks.",
+      "characters": [
+        "George",
+        "Newman",
+        "Patrice",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'll see you guys later.  Nice meeting you. Bye Elaine.",
+      "characters": [
+        "Jerry",
+        "Wendy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "Ah, just remember when you see him tomorrow night to tell him that the waiter liked him.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I don't need to know. I just think it would be nice if I knew.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Maestro"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I see. So your time is more valuable than mine. Is that it? You're a delicate genius!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Greg"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

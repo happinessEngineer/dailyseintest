@@ -1,0 +1,106 @@
+{
+  "gameNumber": 556,
+  "date": "2026-07-12",
+  "questions": [
+    {
+      "quote": "Ha ha, nonsense, George. Besides it gives me a chance to tell you about my latest trip to Burma where I discovered a very unusual corduroy.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "If you want the leg room, say you want the leg room! Don't blame the mechanism!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well Susan isn't going and Elaine just left me a message her friend isn't going either.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's southside. Sorry, we don't deliver below Eighty-sixth.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Owner",
+        "Kramer"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "You know, I used to think that the universe is a random, chaotic sequence of meaningless events, but I see now that there is reason and purpose to all things.",
+      "characters": [
+        "Elaine",
+        "Conrad",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ow! You broke my dental plate!  Doris! He broke my dental plate. You son-of-a-bitch! I'm gonna sue you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "It's a Wizard electronic organizer for my dad. I'm goin' to Florida for his birthday.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand what the big deal is. They let you try on pants.",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Took a very dangerous combination: prescription heart medicine and these other pills.",
+      "characters": [
+        "Jerry",
+        "Man",
+        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Tell him that if his friend can come up with the same money then she can have the apartment.",
+      "characters": [
+        "Jerry",
+        "Manny",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Manny"
+    }
+  ]
+}

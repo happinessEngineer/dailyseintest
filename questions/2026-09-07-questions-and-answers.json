@@ -1,0 +1,106 @@
+{
+  "gameNumber": 613,
+  "date": "2026-09-07",
+  "questions": [
+    {
+      "quote": "Thank you. Now, I'd like to play something th -- well, actually, it's my latest so it's nice and fresh. It's called \" Hot And Heavy.\"",
+      "characters": [
+        "Betsy",
+        "Rabbi",
+        "Elaine",
+        "John"
+      ],
+      "correctAnswer": "John"
+    },
+    {
+      "quote": "Yeah, finish eating. The baby's not gonna have any fun over here. We're-We're not fun for a baby.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's it. What you want one George? I can get one for you. No problem. Jerry, you want one? They're delicious. My pleasure.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No. You have to have bills. Paper money. You can't pay with this.",
+      "characters": [
+        "Worker",
+        "Steinbrenner",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "That's right! She an' I have had a very long talk. An' I was appalled to learn of the destructive influence you've had over her life, lo these many years...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, well, uh, you know I can't right now, you know, uh, I got a very big meeting, I got these people interested in my movie treatment. So, uh, I guess we'll have to make it another time, alright?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, I gotta tell ya...I been thinkin' about it, I just don't feel right about letting you into Elaine's apartment.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We got a soccer game in Chile. Anyway, the plane crashes. Who are you gonna eat to survive?",
+      "characters": [
+        "Bonnie",
+        "George",
+        "Announcer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You mean to tell me if I had put that drink six inches over to the right, and none of this would have happened.",
+      "characters": [
+        "George",
+        "Babu",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it can do anything. It can be Spanish.  Hola. Hello-o-o-o.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

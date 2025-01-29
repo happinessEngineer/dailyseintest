@@ -1,0 +1,106 @@
+{
+  "gameNumber": 872,
+  "date": "2027-05-24",
+  "questions": [
+    {
+      "quote": "Um, yeah...I think my wife and I'll have a little more coffee.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Stu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, I was thinking about what you said before, and...you're right, I've never really been a couple, so...if that's the rule, then I'm gonna go by the rule.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry? Jerry, tell them that funny story you were telling me--",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shut up! Keep 'em spread! Just make love to that wall, pervert!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Coulda fixed me up with Marisa Tomei. She said I was just her type!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, and you can forget about watching TV while you're eating.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I am never saying 'I love you' again unless they say it first.",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because she's not returning it until she gets the money back for the hospital bill.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Russell"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey you kids know tunes; see if this song rinSTEINBRENNER a bell, \"Heartbreaker , . . . \"",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Seinfeld. I made a reservation for a mid-size, and she's a small. I'm kidding around, of course.",
+      "characters": [
+        "Kramer",
+        "Tia",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

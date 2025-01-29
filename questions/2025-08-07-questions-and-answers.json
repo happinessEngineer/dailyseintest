@@ -1,0 +1,106 @@
+{
+  "gameNumber": 217,
+  "date": "2025-08-07",
+  "questions": [
+    {
+      "quote": "Because he think I live here. Remember when we shared a cab, and he dropped me off out in front? He's picking me up.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Greg"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what am I gonna do? I got over two hundred folding chairs, and quite a bit of ice.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's like I didn't even know him. He's like a totally different person.",
+      "characters": [
+        "Jerry",
+        "Landlord",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you how crazy I am, I'm gonna pay for this whole trip with these coats.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": ". . . Martinez throws it over Alomar's head. O'Neill is safe at home. And the Yankees take the lead.",
+      "characters": [
+        "Kramer",
+        "Tv",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "I don't care much for the beach. I freckle. . . . Is that a,..",
+      "characters": [
+        "Jerry",
+        "Ed",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Just because you have someone's spare keys, it doesn't entitle you to break into their apartment. That's the reason you took away Kramer's keys.",
+      "characters": [
+        "Kramer",
+        "Tv",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're out, Jerry. You're out as Godfather. You too, Elaine. You're both out.",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Bob",
+        "George"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "I suspect that this guy I'm seeing might be drinking but I can't smell it.",
+      "characters": [
+        "Elaine",
+        "Debby",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think I can sum up the show for you with one word: NOTHING.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

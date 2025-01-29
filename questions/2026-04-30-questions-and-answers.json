@@ -1,0 +1,106 @@
+{
+  "gameNumber": 483,
+  "date": "2026-04-30",
+  "questions": [
+    {
+      "quote": "Uh, yeah, the, uh, hot water takes a little while to come on. So, the best thing to do is to turn it on, do all your shopping, you come back and take a shower.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's right. I got 'em all. Cold cucumber, corn and crab chowder, mulligatawny.",
+      "characters": [
+        "Elaine",
+        "Keith",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If it makes you happy, I don't focus on these things. I will tell you this: Unfortunately, we live in a very superficial society. I don't condone it, but it's a fact of life.",
+      "characters": [
+        "Holly",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my God. That man over there. I think he's wearing glasses that look just like Jake's. Pull over, stop the car.  Here, here. I think I got a way of getting back at my ex-boyfriend.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I'm so sorry. I got stuck out of town. I missed our whole time together.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mickey",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Bah bah baaah, Boo doo bah bah bah, boo doo waaaah, waah, waaaah...",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now I remember, as I jumped over the hole I heard a, like a jingling sound.",
+      "characters": [
+        "Kramer",
+        "Man",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well who's gonna turn down a Junior Mint? It's chocolate, it's peppermint-- it's *delicious*!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Although one wonders if \"War and Peace\" would has been as highly acclaimed as it was, had it was published under it's original title \"War---What Is It Good For?\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I will. But now, I'm accountable. Alright, I take what I want.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

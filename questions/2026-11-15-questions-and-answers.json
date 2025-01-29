@@ -1,0 +1,106 @@
+{
+  "gameNumber": 682,
+  "date": "2026-11-15",
+  "questions": [
+    {
+      "quote": "That woman is such an idiot! I was gonna do this whole bit on that bottle - and now I got nothing to talk about.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Levitan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, listen, I've changed my mind about this whole thing. I don't want cable.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a second... My jacket! I wore that in the car! The Beast!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is going on in this community! Are you people aware of what's happening? What is driving you to this behavior? Is it the humudity? Is it the Muzak? Is it the white shoes?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look it's Bette It's Bette! Ah, Ah, AH, . . . Bette, psst, hi.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You told her? How could you tell her? I told you not to say anything.",
+      "characters": [
+        "George",
+        "Wendy",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, wait a second. Wait a second. ! Celebrate! How about some champagne?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Harold",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Just my luck, y'know... just when he's getting thin and attractive. Y'know Jerry, you should buy some of his art. That would really lift his spirits.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Elaine once tried to convert one but Elaine's not going through that again.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So I know this guy. I'm getting all my sneakers at a discount now.",
+      "characters": [
+        "Dana",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

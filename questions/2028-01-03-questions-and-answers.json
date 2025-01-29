@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1096,
+  "date": "2028-01-03",
+  "questions": [
+    {
+      "quote": "Each crepe has to be hand-rolled by a Mandelbaum. That's what puts the magic in Magic Pan!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "The courthouse. You gotta go with me to the courthouse. I'm contesting a ticket today.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Ha, Yeah right, hang on, I'll ah, I'll get her for you. he, he, he, he. Seriously, what's up?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"I don't think so. I think they were getting dressed and not only that; my shirt was out!!!\"",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Peterman",
+        "Detective"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I've uh, I've changed my mind. I think I'm going to build a rollercoaster instead.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mattress, I didn't order a mattress. Who sent this? Hal Kitzmiller?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! 860,000. I can't believe it's still standing. No one has beaten me in like 10 years.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Peggy, we've got to talk. What is it about me that you find so offensive?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh you may stray, but you'll always return to your dark master, the cocoa bean.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Regis",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I did. He loves Rava. Worse, he loves Ray. And he didn't think you're funny at all.",
+      "characters": [
+        "Abby",
+        "Elaine",
+        "Kramer",
+        "Maryedith"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

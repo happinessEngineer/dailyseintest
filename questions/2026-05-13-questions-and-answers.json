@@ -1,0 +1,106 @@
+{
+  "gameNumber": 496,
+  "date": "2026-05-13",
+  "questions": [
+    {
+      "quote": "I said yes, but I don't feel right about it. I mean I hardly know the guy. That's a big step oin a relationship. The biggest. That's like going all the way.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Enzo",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I was in the neighborhood. I figured I'd check you out.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Ramon"
+      ],
+      "correctAnswer": "Ramon"
+    },
+    {
+      "quote": "Y'know... I don't want to totally discount the emotional element in your recovery but, I think there were other factors at play here.",
+      "characters": [
+        "Darren",
+        "Jerry",
+        "Doctor",
+        "Babu"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Yeah, but get there after nine. You know, give the poeple a chance to loosen up.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Alec"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No one's ever written me a letter like this. Maybe I was wrong about her!",
+      "characters": [
+        "Maestro",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe you did that! Why did you tell him I said hi? I never said hi!  When did I say hi?",
+      "characters": [
+        "Puddy",
+        "George",
+        "Tim",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, listen, I just want you to know that I was more than willing to stick it out with Joel Rifkin.",
+      "characters": [
+        "Rula",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is all too much. So what are you feeling? What's going on? Are you like a couple again now?",
+      "characters": [
+        "George",
+        "Katya",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I never heard of anyone would turned down an apartment because of a weak shower spray.",
+      "characters": [
+        "Salesman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told you George, no more pudding. I'm starting a purification program. Keep all that kind of food away from me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

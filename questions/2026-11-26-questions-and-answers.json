@@ -1,0 +1,106 @@
+{
+  "gameNumber": 693,
+  "date": "2026-11-26",
+  "questions": [
+    {
+      "quote": "Yes, I'm sure! I would know if a tray of food had been served to me.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You come all the way up here to see a back specialist and you're lifting heavy suit cases.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, ahem, remember that whole deal with you selling Peterman your stories for his book and then he gave them back to you?",
+      "characters": [
+        "Silvio",
+        "George",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've been doing a lot of thinking about the wedding and all. and uh  I've decided to go with the chicken.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Gina",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Yeah, well you wouldn't be on that jury. He would have weeded you out.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That?s fantastic! We'll scalp the tickets, we'll make maybe five hundred a ticket.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tried to get him one but Man-Hands almost ripped my arm out of the socket!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, this is the one Vincent told me about. The Pain And The Yearning.  'An old woman experiences pain and yearning.' A hundred and ninety-two minutes?",
+      "characters": [
+        "Babs",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, there are no jerk stores. It..it's just a little confusing, is all.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, anyway, she's uh, having some kind of a family lunch, I'll swing by after.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

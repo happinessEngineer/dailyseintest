@@ -1,0 +1,106 @@
+{
+  "gameNumber": 399,
+  "date": "2026-02-05",
+  "questions": [
+    {
+      "quote": "Jerry, thank god you got my message. Thank you so much for coming down here. Uhm, listen...",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "Katie",
+        "Milos"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Rabbi, is there anything I can do to combat this Shiks-appeal?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on: 'Oh George, oh Geeeooorge!' Come on! Not that I don't appreciate the effort that was put into it.",
+      "characters": [
+        "Newman",
+        "George",
+        "Lloyd",
+        "Sharon"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who walks into a woman's bedroom without knocking. I want to know!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"So George. Have you heard anything about the missing equipment?\"",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "All right, all right. Newman, let's go grab some mail sacks and haul these beauties out of here.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "yeah I got some sandwiches.. I got tuna.. and salmon salad Tony because I know you don't like peanut butter",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no.  Kramer, you don't understand. He made the last contact between us. I had the upper hand in the post-breakup relationship. If he thinks that I said hi, then I lose the upper hand.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Cirrhosis of the liver with jaundice! Alright I get to wear make-up! What did you get?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Little Jerry's going to get his clock cleaned. I gotta get him outta there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 909,
+  "date": "2027-06-30",
+  "questions": [
+    {
+      "quote": "Oh! Would you gimme the clicker? I hate it when you're the clicker! You go too fast!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Lois"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, can I convince anybody to come down to Coney Island with me? I got to pick up my car at the pound. George?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now I want my money, mister, and I ain't leaving until I get it.  Now I am through playing games with you, I got things to do.",
+      "characters": [
+        "Voice",
+        "Jerry",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "Voice"
+    },
+    {
+      "quote": "Mr. Pitt! The board of directors is on the phone. They've called an emergency meeting. They want you to be there to discuss the merger!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Voice"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, it doesn't necessarily mean anything yet, it just means he was sniffing.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Lloyd",
+        "Marty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A-Anyway, I was thinking we would take two cars up to the cabin and that way if one of wanted to stay you know...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Abby",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not letting him buy us a Cadillac. He hasn't got that kind of money.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Well, let's see: speeding, running a red light, no license, no registration, no plates, no brake lights, no rear view mirror...yeah.",
+      "characters": [
+        "Patrice",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't keep real coffee in here, I get my coffee on the outside!  Yeah?!",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Excuse me. Hey, how you doing. Uhm, my, uh, friend here says that he invented that little twirl you're doing.",
+      "characters": [
+        "Elaine",
+        "Rabbi",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

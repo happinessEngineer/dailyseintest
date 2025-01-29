@@ -1,0 +1,106 @@
+{
+  "gameNumber": 967,
+  "date": "2027-08-27",
+  "questions": [
+    {
+      "quote": "Every wake-up call I make is important. You're no more important than any of our guests.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "You heard me young lady, get in the car.  And you, you should know better. I don't want you infecting my staff.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What about Thursday night? I mean they're playing the Sonics.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Joel",
+        "Frank"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Well, that's it! Tonight's the night. I'm getting one. No \"if and's or but's\".",
+      "characters": [
+        "Morty",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just remembered, I gotta be someplace. Yuh-hu-hur, that's enough. Pop. Pop, put down the wrench, Pop.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It would have been nice if someone told me about it. I just think you could have said something. That's all.",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you eating my peanut butter out of the jar with your disgusting index fingers? This is a sickening display.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Russell",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure, sure, sure, sure.  How about these seats? Are these fantastic, huh? Huh? I feel like Lincoln.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wha-- oh!  Oh, god!  That is the THIRD time today I have done that! BLAAAH!  Grabbing news- papers... I'm just tugging at 'em...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes I know. I just-- I can't get you out of my mind. Ever since that-- that day in the restaurant when we met...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Russell"
+    }
+  ]
+}

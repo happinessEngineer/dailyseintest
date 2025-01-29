@@ -1,0 +1,106 @@
+{
+  "gameNumber": 15,
+  "date": "2025-01-17",
+  "questions": [
+    {
+      "quote": "Alright, suit yourself. But let's keep this between us - we're key brothers now.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The sweater! The sweater made him sniff! See, I told you he wasn't a drug addict.",
+      "characters": [
+        "Duncan",
+        "Babu",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let's not forget the radiator. The steam has been on here for ten years. No human can turn this off.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Right, I talked to this lawyer guy, Shellbach. Now, he's gonna set me up, but you gotta come with me and be the executor.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He said she's mentally ill. He's one of those guys who is obsessed with neatness and order? Everything has gotta be just so. He would have made a great Nazi.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Sidra",
+        "Jerry"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "You only went in front first 'cause you saw me backing up and you didn't have room to parallel park!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm sure you are. I'm sure you are very close friends. Very close.",
+      "characters": [
+        "Elaine",
+        "Salesman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know what you were trying to do. Nobody does it better than me.",
+      "characters": [
+        "George",
+        "Mohel",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No...no...no, I hate to tell you this. You're not gonna see this woman.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a minute! You're--now you're getting a divorce because she's from Long Island?!?!",
+      "characters": [
+        "George",
+        "Patty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

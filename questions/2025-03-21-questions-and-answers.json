@@ -1,0 +1,106 @@
+{
+  "gameNumber": 78,
+  "date": "2025-03-21",
+  "questions": [
+    {
+      "quote": "I don't remember, but it certainly wasn't this. Look at this cartoon in the New Yorker, I don't get this.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aw, it's gold, Jerry! Gold! I got all these corporate gigs and even Cynthia took me back.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Kramer, it is such a dumb idea. I would be  totally embarrassed to bring it...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They're not supposed to just take everything and throw it out!",
+      "characters": [
+        "Beth",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How about our little Elaine huh? Attended the finest finishing schools on the Eastern seaboard. Equestrian competitions. Debutante balls. Look at her now. Interviewing Mohels.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well I was trying to make gravel and it just  just didn't work out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Is it possible they're just having babies to get people to visit them?",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, you know, I didn't drive her home. Plus, I give her a gift in front of Winona, how does that hurt me?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I have to have them by one o'clock. He's very regiment about his meals.",
+      "characters": [
+        "George",
+        "Anna",
+        "Kramer",
+        "Receptionist"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I just need your signature here, and we'll get you that yellow car ready to go.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    }
+  ]
+}

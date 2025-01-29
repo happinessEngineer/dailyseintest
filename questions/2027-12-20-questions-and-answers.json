@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1082,
+  "date": "2027-12-20",
+  "questions": [
+    {
+      "quote": "Yeah. Yeah. You know the odds of me being anyone's type?! I have never been anyone's type, but apparently, this Marisa Tomei loves funny, quirky, bald men.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Holly",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got all this junk at Cinqo de Mayo, because I was trying to show Putumayo how much business they'd lost. I mean, I been dancing  and strutting in front of their store for two days.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wide open, I was wide open underneath! I had three inches on that guy. You two were hogging the ball.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, Celia has listed you as a character reference. Whatever you can tell us would certainly be helpful in, her getting paroled.",
+      "characters": [
+        "Pitt",
+        "Betsy",
+        "Ned",
+        "Elaine"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Well we're hoping that if perhaps that the catalog is a little funnier,people won't be so quick to return the clothes ha ha....For example.. I..I really do....Well I love this one",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If it was six I could have let you go, but seven, I'm afraid, is over the limit. Unless, of course, there was no sex.",
+      "characters": [
+        "George",
+        "Stu",
+        "Jerry",
+        "Patty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There must be some kind of lab that would do that kind of thing.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, excuse me. When your, uh, when your wallet was open, I - I glanced inside, and I couldn't help but notice that you have several crisp dollar bills.",
+      "characters": [
+        "George",
+        "Kruger",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, he's in the hospital. And the cook says you put him there.",
+      "characters": [
+        "Bania",
+        "George",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't think we should see each other anymore. You're great but I'm I'm riddled with personal problems.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 992,
+  "date": "2027-09-21",
+  "questions": [
+    {
+      "quote": "They took my belt, Jerry. I got nothing to hold my pants up.  Well, you gotta come over here now! Just tell 'em what we talked about, how I, how I, I didn't do the project.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, what? What? That? Are you kidding? I didn't quit. What? You took that seriously?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Listen, could you mail those to me? Or bring them by my building, it's 129 West 81st St.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "ha ha ha Well you know sometimes it just has a way of finding you. Cigarette?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, what about those English sirens, you know...eee-aaa-eee-aaa-eee-aaa...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I'm kind of in the middle of something. Would you get these signs out of here, please?",
+      "characters": [
+        "Maura",
+        "Buckles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was a bad jig to begin with, we never should have started this jig.",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How, how could you guys have turned this place down, it's such a great location and it's...so close to the park.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Diane",
+        "Jerry"
+      ],
+      "correctAnswer": "Diane"
+    },
+    {
+      "quote": "George, I listened to your arguments, and they were rambling and flimsy. I'm not convinced. Come on, get dressed and let's get some dinner.",
+      "characters": [
+        "Maura",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Maura"
+    },
+    {
+      "quote": "Anyway ... So John told me that Richie is in town from Los Angeles and he's really messed up on drugs. So I told him that he should do an intervention.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

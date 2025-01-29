@@ -1,0 +1,106 @@
+{
+  "gameNumber": 623,
+  "date": "2026-09-17",
+  "questions": [
+    {
+      "quote": "What, you're gonna take her word over mine? I'm your best friend!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, I'll tell ya, I'd rather talk to a goiter with a nice disposition than the nut they sent me to.",
+      "characters": [
+        "Simon",
+        "Gary",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's despicable. How does he know how all coffee drinkers will vote? I'm a coffee drinker. If I was on that jury I wouldn't give you a nickel Kramer.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just hope that whole pony incident didn't put a damper on the trip.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's back. And I knew he would be someday.  Man that's some tart cider!",
+      "characters": [
+        "George",
+        "Jane",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. So let me ask you a question. Who was the man in the cape?",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, so uh, let's do something later. How 'bout a movie?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and there's a space opening up, and I could get it for you. You just have to pay the tax on it. It'd be like, fifty a month.",
+      "characters": [
+        "Elaine",
+        "Gary",
+        "Frank",
+        "Glenn"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Please give it to me. I love to help people. This is what I do. Come on. I'm going this way.",
+      "characters": [
+        "Morty",
+        "Testikov",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

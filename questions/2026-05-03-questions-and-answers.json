@@ -1,0 +1,106 @@
+{
+  "gameNumber": 486,
+  "date": "2026-05-03",
+  "questions": [
+    {
+      "quote": "I ran out of butter so I had to borrow yours. Anything else, Mr. Nosy?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was at Bloomingdale's... waiting for the shower to heat up.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You sure you don't want me to take my clothes off?  I'll do it!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jimmy",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He was in Chicago, the flight was overbooked, wouldn't let him on the plane. He kept screaming how he had to get to Madison Square Garden.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. Somebody around here has been giving Wilhelm the impression that I have been slacking off.",
+      "characters": [
+        "George",
+        "Morgan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "No, no. That's from, uh, Star Trek III... The Search for Spock.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ladies and gentlemen, may I have your attention, please? Would Joel Rifkin report to the stadium office. Joel Rifkin...telephone.",
+      "characters": [
+        "Announcer",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "So you're so grateful to have sex, that you'll just shout out anything that comes into your head.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And I was looking good, too. I had a nice, new shirt on, I'm wearing *your* jacket...",
+      "characters": [
+        "Donald",
+        "George",
+        "Kramer",
+        "Lou"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Since when do you know how to write? I never saw you write anything.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Officer",
+        "Frank"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 255,
+  "date": "2025-09-14",
+  "questions": [
+    {
+      "quote": "Oh, I'm sure you have. They're out on the ocean and, yada yada yada, and she says, \"Those aren't buoys.\"  Father...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, I got a little slicer happy, but listen; don't tell Kramer, okay? He has very strong feelings for it.",
+      "characters": [
+        "Jerry",
+        "Brett",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, Jerry, Jean-Paul's missing! He's alone in the city! Call me back.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I feel bad for him too, but he'll get another job. I mean, let's face it, it's not a profession where you embellish your resume and undergo a series of grueling interviews.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "you know, just by conversing, you can really learn a lot about a person.",
+      "characters": [
+        "Kramer",
+        "Rabbi",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I love being with him. I mean, I like being with him. It's okay being with him.",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We just bought an apartment on Riverside Drive. Bernard Goetz's mother used to live there.",
+      "characters": [
+        "George",
+        "Helen",
+        "Leslie",
+        "Estelle"
+      ],
+      "correctAnswer": "Leslie"
+    },
+    {
+      "quote": "The block is nearly split apart. We found the overhead cams thirty feet away. We can only hope the body sold for scrap.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Detective",
+        "Jerry"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "What? I'm not married. I'm not allowed to go out with somebody else?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Owner",
+        "John"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He doesn't know what he's talkin' about.  Jer? Jerry, I'm a good dancer, right?",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

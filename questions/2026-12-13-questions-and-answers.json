@@ -1,0 +1,106 @@
+{
+  "gameNumber": 710,
+  "date": "2026-12-13",
+  "questions": [
+    {
+      "quote": "'Dear Barry. Consider this letter to be official termination of our relationship effective immediately.'",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Hal",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my god, there she is. That's the face, just like the picture.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I always take care of my Pisano's. So here is a little something.",
+      "characters": [
+        "Holly",
+        "Doctor",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I think I will go upstairs. I can check my machine.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I don't know. I can't believe they're making me take this test.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Loretta"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Within the confines of his fastidious bachelor *pad*, Seinfeld and Costanza bicker over the cleanliness of a piece of *fruit* like an old married couple--\" *I told you that pear was washed*!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anything, everything, something, nothing - Who the hell cares? Put me down. I'm down!",
+      "characters": [
+        "Guy",
+        "George",
+        "Valerie",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, yeah I heard, Marvin Kessler. Boy, that makes you think. If he could go...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't believe we're doing this. This is the kind of thing they do in the movies.",
+      "characters": [
+        "Sophie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. He thinks he saw the devil. He won't leave his room in the church basement.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Kelly"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

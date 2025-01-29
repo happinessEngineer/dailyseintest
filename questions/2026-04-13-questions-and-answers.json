@@ -1,0 +1,106 @@
+{
+  "gameNumber": 466,
+  "date": "2026-04-13",
+  "questions": [
+    {
+      "quote": "Oh, three more days, three more days then we're off to Paris.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Helen",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You yelled that time at the movies. That's why you're not getting the baby.",
+      "characters": [
+        "Kramer",
+        "Shelly",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": ". . . Years. Many years , um,  we've been close friends and then recently something just you know *ehghh* happened.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Gavin",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, yeah, yeah, sure, why don't you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin' anything?",
+      "characters": [
+        "Kramer",
+        "Mike",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's a doctor!.I mean it's supposed to be like a sterile environment.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, this is one of the nicest things anyone has ever given me.",
+      "characters": [
+        "Keith",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? Jerry, I gave you my blood. Listen to your pulse,  hey buddy-hey buddy-hey buddy...",
+      "characters": [
+        "Joel",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Sometimes I've given my number out to guys and it takes them a month to call.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helen",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh good, good, come in. Come in, welcome. I'm George. And this is Jerry, over there, on the phone, that's Jerry. And you are, um?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's got everything, right?  She's intelligent, she's smart, she's got a great sense of humour.",
+      "characters": [
+        "Kramer",
+        "John",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

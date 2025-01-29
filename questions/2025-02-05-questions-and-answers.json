@@ -1,0 +1,106 @@
+{
+  "gameNumber": 34,
+  "date": "2025-02-05",
+  "questions": [
+    {
+      "quote": "Hey, you owe me. I got you into Actor's Studio. They thought what we did was the scene.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you just cut the stupid pants and get them off already/",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "It's about this woman, in a coma. Well, I couldn't finish watching it, so I want you to read this.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Are you kidding? I have seen the changes in you the past couple of years. Man, you have grown. You've matured.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Puddy",
+        "Beth"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. But I don't. I'm actually almost happy to hear it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Imagine walking by someone on the floor, and you say \"Hey, Carl!\" and he says \"Hey, Jerry!\" You see, that's the kind of society I wanna live in.",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So now, the father is screaming at me, he's demanding that I pay for the boom box. Finally, I gave them a fake address and got the hell out of there.",
+      "characters": [
+        "Bruce",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah! Hey--hey guys! Elaine, sit down. These are a couple o' my friends. Uh, this is Gene. And this guy, we.. just call \"Feldman!\"",
+      "characters": [
+        "Kevin",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "Ah, see, Mister.. I didn't write that report. That, that's not mine.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Noel",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why don't we get them a couch?  We'll rent a U-haul -- we'll bring 'em a nice sectional.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

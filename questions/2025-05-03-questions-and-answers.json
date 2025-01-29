@@ -1,0 +1,106 @@
+{
+  "gameNumber": 121,
+  "date": "2025-05-03",
+  "questions": [
+    {
+      "quote": "Hey everybody.  Listen, uh, do me a favour, will you? I got a hot date tonight with Connie. Knock on my door, wake me up in twenty minutes, alright?",
+      "characters": [
+        "Kramer",
+        "Valerie",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You wanna live here? You respect the rules of our house.  You're grounded!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Tell me about it. I went out with this girl last week. First I had to pay for dinner, then--",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if I didn't do something I wouldn't be able to live with myself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See, never bet against the backslide. I knew you two would get back together.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yes. I know all about his little performance in the break room.",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Ron",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello. George, come in. Come in I've heard an awful lot about you. Please sit down.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Dana"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "You don't work in the rain? Your a mailman.\"Neither rain nor sleet nor snow.....\"It's the first one.",
+      "characters": [
+        "Jerry",
+        "Vandelay",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, they're not here. You'll have to dig up your spare set.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you talking about? She completely misrepresented herself!  I don't offer happiness. I offer happiness! James Caan doesn't offer happiness!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Phil",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

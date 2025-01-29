@@ -1,0 +1,106 @@
+{
+  "gameNumber": 655,
+  "date": "2026-10-19",
+  "questions": [
+    {
+      "quote": "Yeah, uh, Ok, uh, tomorrow uh, where da ya - where do you live, uh, up town? Upper west side?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Joyce"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's tough keeping your feet dry when you're kicking in a skull.",
+      "characters": [
+        "Eddie",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Eddie"
+    },
+    {
+      "quote": "The one that sits atop my disproportunately puny body.. I'm a walking candy apple!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You wanna see?!  There! There it is!  Alright, here! You wanna try on the hat?! Here! Try on the hat!",
+      "characters": [
+        "Marlene",
+        "Jerry",
+        "Hoyt",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's your Champagne Coolie. Well looks like it's just you and me cowboy!.",
+      "characters": [
+        "George",
+        "Cynthia",
+        "Owner",
+        "Ethan"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "A man who respects a good comma. If it was one of those in and out comas, maybe. But when a guy's got a coma going like this … you don't want to mess with it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Buckles",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These are the guys, who turned this place down, can you believe it?  Diane gave me the greatest backrub today. She's a masseuse!",
+      "characters": [
+        "Carol",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "It's smart. It's a smart line, and a smart crowd will appreciate it.  And, I'm not gonna dumb it down for some bonehead mass audience!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Hoyt",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The meal is the act of sitting down with him. It doesn't matter what you get, as long as he's sitting in that restaurant, its a meal.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I happen to know for a fact, that he was called Maestro in social situations. I once saw him at a bar and someone came up to him and said \"Hello Maestro, how about a beer\". O.K. So that's a fact.",
+      "characters": [
+        "Elaine",
+        "Maestro",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "Maestro"
+    }
+  ]
+}

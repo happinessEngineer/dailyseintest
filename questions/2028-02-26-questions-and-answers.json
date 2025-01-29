@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1150,
+  "date": "2028-02-26",
+  "questions": [
+    {
+      "quote": "If I see her, what do I say that I'm doing here in the building?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Regis",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright. So, get a load of this. This guy, Fred Yerkes, remembers every little thing about that night except me.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well, maybe I'll just go down there and thank him in person.",
+      "characters": [
+        "George",
+        "Voice",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes George, I did. Come in, come in. George, the wordaround the office is that you're a Communist.",
+      "characters": [
+        "Elaine",
+        "Valerie",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "They really should mention that in the breakdown: height, weight, goiter.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah. It's a lovely little bureau and breakfast you're running. Well, I'm off to the bank.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Donald",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, I'll take your picture. I'll take care of everything.",
+      "characters": [
+        "Jerry",
+        "Darryl",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, I'd give you the watch. It's not the money, I happen to like it.",
+      "characters": [
+        "Leo",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Jerry, can't you just give it one more day, it's not his fault.",
+      "characters": [
+        "Nancy",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No. Fortunately, the special tiny instruments arrived just in time. Would you like to visit him?",
+      "characters": [
+        "Doctor",
+        "Beth",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    }
+  ]
+}

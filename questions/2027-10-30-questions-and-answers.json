@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1031,
+  "date": "2027-10-30",
+  "questions": [
+    {
+      "quote": "Oh, thanks a lot, two weeks late. Now that costs me thirty-five dollars to see Havana.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gennice",
+        "Waitress"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you, if I was running for office I would ask for the death penalty for double-parkers. If this is allowed to go on this is not a society. THIS IS ANARCHY!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Young guy, he's got a new book coming out, and it's about, and this is the best part -",
+      "characters": [
+        "Bonnie",
+        "Jerry",
+        "Kramer",
+        "Regis"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "Kramer what am I going to do did you hear that that guy's gonna put a kibosh on me he's crazy he's out of his mind....",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, well, I set their alarm. But they did have a lot of sake in that hot-tub.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's not offensive.  It's abnormal, but it's not offensive.",
+      "characters": [
+        "Jerry",
+        "Darryl",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's very familiar. I can't put my finger on it. It's very familiar.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Probably they think you're too good for them. You know, because of the car.",
+      "characters": [
+        "Evelyn",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Evelyn"
+    },
+    {
+      "quote": "Ok. Good. And Kramer, you're in charge of taping off the loading zone.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Secretary"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

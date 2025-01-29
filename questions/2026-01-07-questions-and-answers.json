@@ -1,0 +1,106 @@
+{
+  "gameNumber": 370,
+  "date": "2026-01-07",
+  "questions": [
+    {
+      "quote": "So it's more of a relationship problem than the final destination of your soul.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, it's all this guy can do to keep from killing himself. You think he's back there, talking to the chef, going, \"Hey, they like the soup! Keep it up!\"?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The remote, the remote, I can't find the remote. Did I lost, I lost it. Did you take it? Did you put it some place?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Silvio"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You shouldn't have said anything. What did you expect him to do?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "In the whole world right now, there's maybe three emergencies. Why would you think, on this entire planet, that you're one of those three?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Steve",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no, it's... \"She's not really dead if we find a way to remember her.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uuh, I can't believe she did this again. That's it! She's off the speed-dial completely!",
+      "characters": [
+        "Lloyd",
+        "Jerry",
+        "Valerie",
+        "George"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "Office Christmas gift. I tell you, this Human Fund is a gold mine!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Milos",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right in front of me!. How do you know we're not together. Two guys, sittin' laughin' drinking Champagne Coolies.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, if you want to make a person feel better after they sneeze, you shouldn't say 'God bless you', you should say, 'You're soo good lookin''.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

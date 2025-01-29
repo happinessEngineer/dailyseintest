@@ -1,0 +1,106 @@
+{
+  "gameNumber": 648,
+  "date": "2026-10-12",
+  "questions": [
+    {
+      "quote": "Well, you are a tenacious little monkey. Alright, I'll do it. Kramerica industries lives! Let's get back to work!",
+      "characters": [
+        "Kramer",
+        "Vivian",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're just going to sit there staring at the back of a seat?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Shelly",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, she didn't appreciate the erotic qualities of the salted cured meats?",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "well, I'm sure we'll come up with something. What do you say you and I order ourselves a pie? Do you like Lorenzo's?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, senator, I'd just like to know, what you knew and when you knew it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure, Beth, these things happen.  So, have you told many.. people yet?",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Pop"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think I'd rather go out on a deaf date than a blind date. The question is whether you'd rather date the blind or the deaf.",
+      "characters": [
+        "Pitt",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your clothes smell just like Pisano's. There's another Italian place on Jerome. Maybe I can fool him.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This court will come to order!  Go ahead Miss Mishke, try it on.",
+      "characters": [
+        "Kramer",
+        "Judge",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Judge"
+    },
+    {
+      "quote": "Oh, OK. Next time lets play ping pong. It's easier to jump over the net.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

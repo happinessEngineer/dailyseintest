@@ -1,0 +1,106 @@
+{
+  "gameNumber": 166,
+  "date": "2025-06-17",
+  "questions": [
+    {
+      "quote": "I'm very nervous about this. I've never spoken to a mental patient before.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How are you feeling, Adam?  Elaine!  This is our pediatrician, Ben Feffa.",
+      "characters": [
+        "Jimmy",
+        "Jerry",
+        "Carol",
+        "Peterman"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "No! I don't want to save seats. Don't put me through that! I once had the fleece just ripped out of my winter coat in a seat-saving incident!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You see what's going on here? You're attracted to him because he can't remember anything about you.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, how I've waited for this moment. But alas, my heart belongs to another man's wife, and I have given the coat to her.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So, then you asked yourselves, \"Isn't there something more to life?\"",
+      "characters": [
+        "Joe",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, you almost ready? Cause Jerry and Kramer are gonna be here any second.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nice meeting you. Ah, I gotta run, Elaine. I'll see you later.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Darryl"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "Oh all right, this is really dumb, really stupid. We've been doing this silly, dumb voice.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, she slammed into a parked car! She took no responsibility for mutilating the property of a stranger, then she sped off like a criminal!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Alton"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

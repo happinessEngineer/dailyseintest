@@ -1,0 +1,106 @@
+{
+  "gameNumber": 883,
+  "date": "2027-06-04",
+  "questions": [
+    {
+      "quote": "You were full. So you gave a reason. You didn't just shake your head.",
+      "characters": [
+        "Elaine",
+        "Sally",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Transport charge, storage surcharge, additional overcharge, finder's fee…",
+      "characters": [
+        "George",
+        "Elaine",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "All Simons was able to find out is that he's in the hospital.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, your, uh, folks said it was for rent, so I jumped on it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Tor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ladies and gentlemen of the jury, have you reached a verdict?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Vandelay"
+      ],
+      "correctAnswer": "Vandelay"
+    },
+    {
+      "quote": "And then, I was on such a... high, that I went upstairs to the salon on the fifth floor, and got a massage and facial, and skipped out on the bill.",
+      "characters": [
+        "Lippman",
+        "Marcy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "I don't know why you want to play man-to-man when you could play a zone.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Fdr"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Woah, back it up, back it up. Beep, beep, beep. Tractor story?",
+      "characters": [
+        "Jane",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I turned my house upside-down looking for this! It's all I have left of her.",
+      "characters": [
+        "Jerry",
+        "Marty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Marty"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 61,
+  "date": "2025-03-04",
+  "questions": [
+    {
+      "quote": "Well, it's a test drive, right? I never drive around here. If I'm gonna recommend this car, I need to see that it'll handle my daily routine.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, well, he had this idea of a pizza place where you make your own pie!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Somebody put a cane on my foot. Just like the one I'm going to put up your...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George doesn't work. He's a bum. That's why he lives at home with us.",
+      "characters": [
+        "Landis",
+        "Doctor",
+        "Morty",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "So what about the \"Maestro\" stuff. Did he make you call him Maestro.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'll tell you what. I'll choose you for it. Straight choose, three takes it, no disputes...that's it, you gotta win three.",
+      "characters": [
+        "Elaine",
+        "Darren",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it was just a bet. I mean, it actually started with George and his mother-",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, profit. I think you'll see from the estimate that I'm not really profiting that much. They might be a little high, but..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm just gonna get my jacket, I'll meet you downstairs. What's the matter, did you call?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Peterman",
+        "Naomi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Then Hank Bauer, you know, he's screaming, \"Mickey! Mickey! What have you done with Mickey? You killed Mickey!\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

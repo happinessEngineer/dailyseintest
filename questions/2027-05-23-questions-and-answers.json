@@ -1,0 +1,106 @@
+{
+  "gameNumber": 871,
+  "date": "2027-05-23",
+  "questions": [
+    {
+      "quote": "So when I saw George on the street with an 18 pound turkey and a giant box of wine, I thought: ... What a coincidence. We're just about to eat.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"The panties your mother laid out for you\"?  What does that mean?",
+      "characters": [
+        "Elaine",
+        "Emily",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It helps to control the direction regardless of the operator's tremors or spasticity.",
+      "characters": [
+        "Guy",
+        "Kramer",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "I'm not really going away, I told you, I'll be back every other weekend.",
+      "characters": [
+        "Kramer",
+        "Sara",
+        "Father",
+        "George"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "I just wish I could figure out if this guy is trying to keep me out of Tuscany.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sure she would apologize if she could. Probably somebody is holding her back against every fibre in her being.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She told me she wants--   She told me she wants me to make love to her.",
+      "characters": [
+        "Kramer",
+        "Christie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait, you can't make a call like that on your way out. You can't rush that conversation.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Harold"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Forget about Elaine. Let's just focus on us. Come on, big hug.",
+      "characters": [
+        "Ade",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.",
+      "characters": [
+        "Ben",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

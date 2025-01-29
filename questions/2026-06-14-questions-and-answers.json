@@ -1,0 +1,106 @@
+{
+  "gameNumber": 528,
+  "date": "2026-06-14",
+  "questions": [
+    {
+      "quote": "Ok, now listen, I don't want any scenes in here like the last time.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's not a Nazi. He just happens to be a little eccentric. Most geniuses are.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahh! Mr. Ross. Mrs. Ross. My name is Cosmo and I'll be your driver for this evening. We have blankets for your comfort. I also have hot chocolate if the mood should strike you.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Willie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He asked about me? John Kennedy asked about me?!  What did he say?",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Laura",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I wouldn't want you to do that. You know there's a lot of losers out there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are we, John Dillinger? How did this get to be the crime of the century? It's not like we stuck a broomstick in her spokes and she went flying...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me ask you this. If you stick your hand in the hair is it easy to get it out?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think your taking the trash out for this chicken place, but that couldn't be.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Anthony Quinn, fine actor. But from what I understand, not a very good driver. Hits everything on the road. But always leaves a note.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, do you want a flat edge on this molding or do you want me to bevel it?",
+      "characters": [
+        "George",
+        "Conrad",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Conrad"
+    }
+  ]
+}

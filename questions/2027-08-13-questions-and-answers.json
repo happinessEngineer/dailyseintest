@@ -1,0 +1,106 @@
+{
+  "gameNumber": 953,
+  "date": "2027-08-13",
+  "questions": [
+    {
+      "quote": "Where's he dropping us? Maybe we can get him to drop us right at my house?",
+      "characters": [
+        "Brett",
+        "Doctor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'd like to say it once to someone that can actually hear it!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Lena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you doing? All right, all right. What's the matter with that? What about that one?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Katya",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about you, shmoopy? How 'bout a little tuna? You want a little tuna fishy?",
+      "characters": [
+        "Valerie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. They've been in there since, like, World War II. The rent's three hundred a month.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, here's your *albums* [Journey \"Escape\" is on top, BTW...]",
+      "characters": [
+        "Jerry",
+        "Valerie",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Somehow? You've had an hour and twenty minutes sleep in three days!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, hobo Joe. I didn't wanna put a damper on your little Smorgasbord here, but it's the end of the week, so I added up your tab.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Nancy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! Wait, wait, wait! Whoa! Give it to the girl. I'm an independent contractor. Tax purposes.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Woman",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Yes. From endorsing checks for the Super Terrific Happy Hour.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Silvio"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

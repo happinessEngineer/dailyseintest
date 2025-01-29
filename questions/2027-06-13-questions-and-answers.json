@@ -1,0 +1,106 @@
+{
+  "gameNumber": 892,
+  "date": "2027-06-13",
+  "questions": [
+    {
+      "quote": "So listen, what should I do? I mean if I break up with him now it'll look like I'm abandoning him because of his condition, I'll be ostracized from the community.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, look. People seem to like those tip calculators, huh?",
+      "characters": [
+        "Marcy",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The CIA! Maybe they placed him in there to infiltrate the organization from within.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ugh. You wouldn't believe it. My boyfriend dumped me. My friends, who I don't even like, they won't talk to me.  All because I don't like that stupid English Patient movie.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Stationer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know my parents are coming in and I got some clean up to do , so if you and Potsie are done scheming....",
+      "characters": [
+        "Jerry",
+        "George",
+        "Shelly",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well you're not even a fan. I was at game six - you didn't even watch it.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're afraid to sit next to a man. You're a little homophobic, aren't ya?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you know what's going on here? Can't you see what's happened? I've become George.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I got the Alumni magazine. What ever happened to your friend George? I notice I never see his name in there.",
+      "characters": [
+        "Diane",
+        "George",
+        "Dwayne",
+        "Jimmy"
+      ],
+      "correctAnswer": "Diane"
+    },
+    {
+      "quote": "Yeah, yeah, yeah. But then, I said to him, 'Oh yeah? Well, the jerk store called, and they're running outta you.'",
+      "characters": [
+        "Beth",
+        "Joel",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

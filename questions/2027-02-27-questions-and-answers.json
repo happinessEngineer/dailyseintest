@@ -1,0 +1,106 @@
+{
+  "gameNumber": 786,
+  "date": "2027-02-27",
+  "questions": [
+    {
+      "quote": "Jerry, look, come on, I'm an invited guest. I can't be aiding and abetting some...party-crasher.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Clerk",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, listen, do you want me to stay here until George gets up?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, yes I am. The icing on the cake would be getting that landmark status from the City. We're hoping Lloyd Braun can pull a few strings.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, sometimes I get the feeling George isn't being completely honest with me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What am I doing here? You're in the women's dressing room. I need that ticket stub back so I can get my mother's fur coat out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Sid",
+        "Tom"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The uh, the letter of, authenticity's in the side pocket there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kevin",
+        "Gennice"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well that's the grand tour ... Aw but I save the best for last...",
+      "characters": [
+        "Elaine",
+        "Ethan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "Well you know ahh, they don't allow outside drinks in the movie theater. So I had to put it in my shirt and sneak it in.",
+      "characters": [
+        "George",
+        "Carol",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mickey, Mickey he hooked me up. He's a member of the academy.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, she thinks she's in love with him. But she's just remembering this old commercial.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

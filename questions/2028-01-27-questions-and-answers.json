@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1120,
+  "date": "2028-01-27",
+  "questions": [
+    {
+      "quote": "My doctor said it might never fully heal. I may never play again.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "They don't want us there, so we're going. We're moving right into Del Boca Vista!",
+      "characters": [
+        "Vivian",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "\"Dr Whatley's running a little late. If you'd like to take a seat, I'll call you when he's ready.\"",
+      "characters": [
+        "Receptionist",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "You know, we could go uptown, and that way we could give Jerry a ride home.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That?s the way it was, you know. You listen to the language, its got that sing songy quality. It?s the language Jerry, the language",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on, let's go do something. I don't wanna just sit around here.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Mel"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, how are we gettin' to Scott Drake's party on Saturday night?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How can you say that? My sister got a ticket last week. Are you saying she's not attractive?",
+      "characters": [
+        "Jodi",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jodi"
+    },
+    {
+      "quote": "Well, right now I'm reading manuscripts for Pendant Publishing.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's to think about? If Putty says it's what it is, it's what it is. He's not gonna cheat you.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

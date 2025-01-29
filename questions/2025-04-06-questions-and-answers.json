@@ -1,0 +1,106 @@
+{
+  "gameNumber": 94,
+  "date": "2025-04-06",
+  "questions": [
+    {
+      "quote": "Yeah, Yeah. The sneakers. All the Americans with the sneakers. Always running from something. Ya ya, well Sit, stop running, Ehh. two minutes, I give you latest manuscript!",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "It just didn't work out. What can I do? I wanted to love her. I tried to love her. I couldn't.",
+      "characters": [
+        "Darryl",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh.  Ha-ha. Hey. Yeah, yeah.  This Vincent guy, he is the best. He and I have the exact same taste in movies.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Katie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I have some friends who would really like to have these.",
+      "characters": [
+        "Bob",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what? I wasn't planning on showing that side for another six months. Now you make me throw off the whole learning curve.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So I'm going through the airport and I have to put my bag on that little uh, uh, the uh, that uh, the conveyor belt.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"George, don't make me get tough with you.\" Whu, hu, hu, hu huuuu  Who says that? She is really cool. What do you think? You think she likes me?",
+      "characters": [
+        "Jerry",
+        "Wyck",
+        "George",
+        "Winona"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's okay…it's just a hot dog,  everything is going to be okay.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ethan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, because the meats are divided into a class system. You got Pastrami and Corned Beef in one class and Salami and Bologna in another. That's not right.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know, I'm glad I got to see him before he hit puberty and got, you know all lurchy and awkward.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

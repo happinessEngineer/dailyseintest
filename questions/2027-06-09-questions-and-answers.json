@@ -1,0 +1,106 @@
+{
+  "gameNumber": 888,
+  "date": "2027-06-09",
+  "questions": [
+    {
+      "quote": "No. He blew out my Witchy Woman, and he won't share Desperado. Hey, what d'you think of Oye Como Va?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, wha -- I, uh -- uh, we were kind of, uh, talking to each other, weren't we?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no… I'm not kidding Elaine it's true, his mistress didn't like the title and insisted that he change it to \"War and Peace\"!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Heather",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, you think I eat all my meals with you?  Excuse me, sweetheart? I think you may have overcharged us. What is this?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. I'm a little worried. When there's no work, and the people get restless, who do you think they come after?  El Presidente!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Patrice"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I told you. He stopped calling me. I moved on. I'm not hung up on him. What are you looking at?",
+      "characters": [
+        "Jerry",
+        "Margaret",
+        "Elaine",
+        "Nurse"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "... Yeah dropped off that Bob Sacamano hat. Oh she's ah, upset at him, oh yes siree. Yeah well thanks for stopping by.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Marty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Bear with you! This is a parking lot PEOPLE ARE SUPPOSED TO BE ABLE TO GET",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, listen, George, what else can I do with these guys? Now, bear in mind, they're a little light on the yen.",
+      "characters": [
+        "Estelle",
+        "Bania",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's nothing more pathetic, than a grown man, who's afraid of a woman .",
+      "characters": [
+        "Kramer",
+        "Darryl",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

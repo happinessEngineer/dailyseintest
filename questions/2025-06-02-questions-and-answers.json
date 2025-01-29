@@ -1,0 +1,106 @@
+{
+  "gameNumber": 151,
+  "date": "2025-06-02",
+  "questions": [
+    {
+      "quote": "I can't, I don't have it, I don't have a square to spare, I can't spare a square",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah. The second button is the key button. It literally makes or breaks the shirt. Look at it, it's too high, it's in no-man's land.",
+      "characters": [
+        "Todd",
+        "Kramer",
+        "Jerry",
+        "Tor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, well, like I said I was on 3rd Avenue, and I stopped by a large department store.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Marcy"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "We gotta catch the early-bird. It's only between four-thirty and six.",
+      "characters": [
+        "Receptionist",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Then what do you call it? People don't just bump into each other and have sex. This isn't cinemax.",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I talked to my sponsor, and, uh, I've thought it over, and, you know, my apology at the coffee shop was sarcastic, and rude, and you deserve much better.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Hanke",
+        "Jerry"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "that's nice. Listen, listen to this I am in the bathroom, right before the movie starts",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Chiles"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, that's dynamite. You know, Lena, I wanted to talk to you about something...you know, because you're such a good person -",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.  ... Oh, you think because of what I said about the manure. I wa, wa, was just saying how it takes a negative thing, and puts it on a positive spin on it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at these salesmen. The only thing these guys fear is the walk-out. No matter what they say, you say, \"I'll walk out of here right now!\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Willie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

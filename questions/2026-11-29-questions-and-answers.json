@@ -1,0 +1,106 @@
+{
+  "gameNumber": 696,
+  "date": "2026-11-29",
+  "questions": [
+    {
+      "quote": "Fortunately, I still have George here to help me through this.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Me? No no no, you. You're gonna tell him. I'm not gonna tell- Noo.",
+      "characters": [
+        "Jerry",
+        "Hanke",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you want to take a ride with me out to Jersey? I'm gonna try to sell the van to a lot.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This watch, this watch could've paid for their whole trip.  This ring, this ring is one more dinner I could've taken them out to.  Water, they need some water",
+      "characters": [
+        "Aaron",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "No, just plug it in and the Commando 8 does the rest.  I'll seal that up later, right?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Alton"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's right, Choochie. Let's see how Bania does without the cushy timeslot.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that pear shaped loser was me! And I was in that photo, until I broke in here, stole the photograph and airbrushed myself out of there!",
+      "characters": [
+        "George",
+        "Jake",
+        "Karen",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, batteries have gone dead before, aren't they prepared for that?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Officer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, but this is it, this is the last favor, we're even!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

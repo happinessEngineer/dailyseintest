@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1078,
+  "date": "2027-12-16",
+  "questions": [
+    {
+      "quote": "So we decided I should go over there and apply for a job myself.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Excuse me. I don't want to disturb you, I'm Keith Hernandez and I just want to tell you what a big fan I am. I love your comedy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Susan",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "I'll let her down easy. All right.  Well, hi Olive.  No, no. No more of that. There's something I have to tell you.",
+      "characters": [
+        "Kramer",
+        "Conrad",
+        "Jack",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, you can put that whole schedule right in your daily planner.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's why we joined a program. We walk once around the block three times a week.",
+      "characters": [
+        "Helen",
+        "George",
+        "Joe",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "One mile from the exit it starts shaking, really violently shaking, like it's having a nervous breakdown. It completely stopped dead.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Harold",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I don't know. I thought he was coming. I assumed he wouldn't miss it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Morty Seinfeld, you are officially dismissed as condo president. As vice-president, Jack Klompus, in accordance with the phase two constitution, is hereby installed as president.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Herb",
+        "George"
+      ],
+      "correctAnswer": "Herb"
+    },
+    {
+      "quote": "It's probably so the woman has one last chance to change her mind.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'll tell you, Stacey. It's a lot of hard work. But, it comes fairly easy to me. Some people write symphonies. This is my gift.",
+      "characters": [
+        "George",
+        "Rudy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

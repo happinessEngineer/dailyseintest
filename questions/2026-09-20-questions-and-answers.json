@@ -1,0 +1,106 @@
+{
+  "gameNumber": 626,
+  "date": "2026-09-20",
+  "questions": [
+    {
+      "quote": "I got a date with Karen. I don't know what I'm gonna do. Nothing happening down there.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uhm...I'd like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Poppie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"I want you to have this job, of course the Board of Directors is under indictment and will be serving time.\"",
+      "characters": [
+        "George",
+        "Allison",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They were mailboxes, you idiot. I didn't have the heart to tell you.",
+      "characters": [
+        "Jerry",
+        "Carrie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well there is the possibility that you've gone right out of your mind.",
+      "characters": [
+        "Allison",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who says you gotta have a story? Remember when we were waiting for, for that table in that Chinese restaurant that time? That could be a TV show.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jack",
+        "Tony"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, in fact she said that you could be one of those people that sits in the back and answers the phone.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because most women when they're asked to sign a pre-nup are so offended they back out of the marriage.",
+      "characters": [
+        "Kramer",
+        "Marla",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute, that is my apartment. I earned it with 34 years of misery!",
+      "characters": [
+        "Peterman",
+        "Enzo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're pretending to live in a janitor's closet, just to get this flounder?",
+      "characters": [
+        "Jerry",
+        "Winona",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

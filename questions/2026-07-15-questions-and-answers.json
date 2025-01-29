@@ -1,0 +1,106 @@
+{
+  "gameNumber": 559,
+  "date": "2026-07-15",
+  "questions": [
+    {
+      "quote": "I can't believe they made the Wife the killer.  Gimme a break.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I can't call a woman with other people in the room. Come on, let's go.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, the remote! Okay, I'm just gonna put it on top of the television...",
+      "characters": [
+        "Kate",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Three hours of sleep again last night.. Three hours of sleep because of that dog.",
+      "characters": [
+        "Elaine",
+        "Attendant",
+        "Kramer",
+        "Steve"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think the damage is probably already done.  All right! I'll get that. Well, maybe she just practices good hygiene.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Alec",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Get up, get up, it's her! Oh, the hell with this, I'm scared to death, just walk away, it's off, cancel everything, go!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jane"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you insane? Jerk store, woulda smoked that guy! Smoked him, I say.",
+      "characters": [
+        "Jerry",
+        "Conrad",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No they don't. I tried that once. I snubbed for a year. Nothing. Every woman I saw, I snubbed. You never saw people so pleased.",
+      "characters": [
+        "Donna",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I just picked up the Cubans at the bus station.  What's going on!?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen uh, David, I, I, I want to apologize about that comment",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

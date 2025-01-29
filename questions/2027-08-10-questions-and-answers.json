@@ -1,0 +1,106 @@
+{
+  "gameNumber": 950,
+  "date": "2027-08-10",
+  "questions": [
+    {
+      "quote": "Anyway, I'm a new man, and I'm looking towards the future. Clean, dirty, whatever.",
+      "characters": [
+        "Elaine",
+        "Sally",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it was a whirlwind. They whisked us backstage, the media is sworming, champagne is flowing...whooo! I can't describe how great it is to win.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello Darren, this is Jerry from Jerry's office. . We're going to be three for lunch.  What do you mean he's already left?",
+      "characters": [
+        "George",
+        "Helena",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I got news for you, if we're making this movie, we gotta get a table immediately.",
+      "characters": [
+        "Katie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this, look at the hair on the back of my neck. It's all bramble, see it's like thicket back there. Look, I need somebody to shave it for me, huh?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's playing a recital this week at the McBierney School. You wanna hear her play? I got two extra tickets, you and Elaine could go...",
+      "characters": [
+        "Marlene",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, next Wednesday. If it was tonight, I would've said tonight.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So he just gets soup. He wants to save the meal. So now I got to do it all over again.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told Cynthia we'd double with her and Bania Saturday and then catch his act.",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "Elaine",
+        "Abby"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Oh, George brought home movies of his boyhood trip to Michigan.",
+      "characters": [
+        "Jerry",
+        "Hal",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

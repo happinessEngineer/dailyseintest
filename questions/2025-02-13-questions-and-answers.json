@@ -1,0 +1,106 @@
+{
+  "gameNumber": 42,
+  "date": "2025-02-13",
+  "questions": [
+    {
+      "quote": "Jerry, that was superheated water, nothing could live in that.",
+      "characters": [
+        "Elaine",
+        "Lou",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, do me a favor... Some guy comes in looking for me, tell him you don't know where I am.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The car, which we're leaving. So the net is zero. See you pocket the money, if there is any, and you get a new car.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jack",
+        "Marla"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I have known this guy since college. He doesn't do drugs.",
+      "characters": [
+        "Rachel",
+        "Elaine",
+        "Jerry",
+        "Jake"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I got everything here. I got the Cyclone F series, Hydra Jet Flow, Stockholm Superstream, you name it.",
+      "characters": [
+        "George",
+        "Salesman",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "No, Elaine's got this writer friend from Finland, Rava. Her boyfriend goes to Columbia grad school, and he's suppose to do it.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at where we are!  He's not stopping! He just keeps going and going and going!  We're not in the first row?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I am, but that is not the point. You are thirteen, and I am in my early... 20s.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hold on a second I got another call. Hello? Yeah, he'll call you back.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Connie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, anything I can do to help, um...she's a wonderful girl. Very smart. Very eh...crafty.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

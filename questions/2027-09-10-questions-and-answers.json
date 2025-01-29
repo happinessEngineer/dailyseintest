@@ -1,0 +1,106 @@
+{
+  "gameNumber": 981,
+  "date": "2027-09-10",
+  "questions": [
+    {
+      "quote": "Hello, Jerry.  Tim couldn't make it, he's in love.  Isn't that wonderful?",
+      "characters": [
+        "Bania",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, I gotta say that I think that that is a fantastic idea, Feldman!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you see, Kramer took it upon himself to say hi to you from me. When in fact it was an unauthorised hi.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Gone.  The tenant association made me give it to this guy because he was an Andrea Doria survivor..",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not taking a soak in that human bacteria frat you got goin' there.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Her father is so religious, I'm just amazed that he's letting you see her again after that Schindler's List make-out session.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Well, let's hurry up and eat I gotta get out of here. I'm meeting a woman for a drink.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "All right Jerry. But I can figure it out myself any way you want.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Conrad"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "What happened to the scotch tape? Who takes the scotch tape? Nobody returns anything around here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "That's another loop hole. That's two dates without asking you out.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

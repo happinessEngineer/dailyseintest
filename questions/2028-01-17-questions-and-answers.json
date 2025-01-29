@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1110,
+  "date": "2028-01-17",
+  "questions": [
+    {
+      "quote": "Yeah, that's a good idea. I'll tell you what chuckles, I give you permission to sublet my room right now.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So Biff wants to be a buff? ... Well sleeping less than 18 hours a day would be a start.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't. I'm meeting Uncle Leo. I saw him shoplifting at the bookstore.",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Long Island?!?! I thought I was gettin' advice from a Chinese woman!!",
+      "characters": [
+        "Keith",
+        "Lippman",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "I'm alone, and it's my second day. You know, I don't even think we have that flavor so... George, really, enough, ok? You know, I-I admitted I was wrong, so what more do you want from me?",
+      "characters": [
+        "Kramer",
+        "Hanke",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "Oh! but I do. There's probably fleas crawling all over your little snack bar.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the time I'm through with her mouth, she'll be able to eat off it. Is it safe to drink bleach if you dilute it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Stu",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see, my dear, all certified mail is registered, but registered mail is not necessarily certified.",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hello? Yeah, the defroster's the one on the bottom, just slide it all the way over. You're welcome.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, fine. I don't care. If the plane crashes, everybody in first class is going to die, anyway.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Enzo",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

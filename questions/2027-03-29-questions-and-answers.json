@@ -1,0 +1,106 @@
+{
+  "gameNumber": 816,
+  "date": "2027-03-29",
+  "questions": [
+    {
+      "quote": "So know every time you get dressed. You are going to go down to the basement and use the dryer.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at you. I told you. Up all night playing poker. Come on.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How hard could it be? You make a little contribution, you have a ceremony. I am going to think about this. I am really going to think about this.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lloyd",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We just got the Citibank account. In fact today was our first big meeting with them.",
+      "characters": [
+        "Seth",
+        "Gino",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Seth"
+    },
+    {
+      "quote": "George, those are prescription goggles? What is there to see in a health club pool?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "First you make a cell-phone walk-and-talk, then she loses a call-waiting face-off, now you're talking about a plane call?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah, like last year? Miss Texas? Now, she should have won easily, but she lost points in the swimsuit competition.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So you'll just explain to him you're not a Communist. You just called the woman for a date.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Mary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, performance artist. She's a real performer. A real trooper.",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I see you're still sticking with the denim.  Do you have that card that I gave you?",
+      "characters": [
+        "Elaine",
+        "Rudy",
+        "Stan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

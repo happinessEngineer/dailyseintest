@@ -1,0 +1,106 @@
+{
+  "gameNumber": 405,
+  "date": "2026-02-11",
+  "questions": [
+    {
+      "quote": "I don't understand things were going so great. What happened? Something must have happened.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on, I'm tellin' you, it's great. I opened up all the windows... the air is cold, the tub is boiling hot... It's like Sweden, man. Sweeeeden!",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "Carl",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ma, you can't look up words in the dictionary!  Dad, she's cheating!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Izzy",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! my god. What the hell is this? ..... Don't tell me.......Velvet!!!",
+      "characters": [
+        "Donna",
+        "Nina",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ooooo, I'm scared. . . . Ohoooo they're not going to do the show.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah.( reaches for the purse and finds a piece of paper . he looks annoyed.",
+      "characters": [
+        "Ed",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry you gotta bring me some clothes down here. I lost my job with the Yankees. I'm standing in the men's room on 43rd street in my underpants.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Oh! What? He is! Oh! that's fantastic! I'm so excited! Yes I'm excited, OK, OK I'll be in soon! yeah, yeah, I'm coming, I'm coming! OK bye.  Yuri Testikov, the Russian writer!",
+      "characters": [
+        "Jerry",
+        "Levitan",
+        "Attendant",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it doesn't sound like you completely thought this through.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, there were too many distractions there. Babu...what ever he's name was and Kramer...I couldn't concentrate.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

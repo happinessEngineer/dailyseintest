@@ -1,0 +1,106 @@
+{
+  "gameNumber": 28,
+  "date": "2025-01-30",
+  "questions": [
+    {
+      "quote": "The carpet sweeper is the biggest scam perpetrated on the American public since One Hour Martinizing.",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You think I should come clean? What d'you think, you think I Should confess?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, hey. Me. Talking. You know, between you and me, I always thought Kramer was a bit of a doofus, but he believed in me. *You* did not. So as I see it, he's not the doofus. *You* are the doofus.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Farkus",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, you're right, you're right.  Alright, maybe he's not interested, but you still know him - can't you just ask him?",
+      "characters": [
+        "George",
+        "Kruger",
+        "Todd",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's right! He never apologized to me for saying that I would stretch out the neck hole of his sweater.",
+      "characters": [
+        "George",
+        "Waitress",
+        "Kelly",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know it happens to everybody. It happened to Houdini. And he could get out of a trunk under water with his hands in chains! But he had a problem with that. The miracle is that it ever happens.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Elaine",
+        "Katya"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know they're making that Woody Allen movie in the block, and all those people and trucks everywhere, when I saw him I must have got a little distracted.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I take an eye test; I flunk it, the next thing you know I am swinging to the sweet sounds of risk management.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, that's a deal. That's a terrible deal. I don't want to go out to dinner with him. I'd rather make my own suit.",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "Kate",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Queensboro Plaza.  This stop is famous for its gyros, you want one?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Vivian"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

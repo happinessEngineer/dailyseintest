@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1016,
+  "date": "2027-10-15",
+  "questions": [
+    {
+      "quote": "Well, after he heckled Toby, she got so upset, she ran out of the building and a street sweeper ran over her foot and severed her pinky toe.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right. Well, I'll see ya. Hey, George, I think there's a sniper lookin' to pop ya.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Kate"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, to what do I owe the pleasure of this, unannounced, visit?",
+      "characters": [
+        "Kramer",
+        "Rick",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Yes, I called you, you idiot! Because you were going to... You were going to... Remember?",
+      "characters": [
+        "Sally",
+        "Nina",
+        "Newman",
+        "Steven"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "hey you know it's weird because that voice sounded a little familiar to me",
+      "characters": [
+        "Farkus",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why? Why would that one area of his mind not be affected by the yellow sun of Earth?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that's just Jane driving home to New York in the middle of the night.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Would you shut up? These are great! You can't get any better than this.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I'll do it.  Hey kids. What's the deal with homework? you're not working on your home!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Tim",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know Jake, you should learn to use them. Like the way I'm talking right now, I would put an exclamation points at the end of all these sentences! On this one! And on that one!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Guy"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 881,
+  "date": "2027-06-02",
+  "questions": [
+    {
+      "quote": "Kramer, listen, I got a little phone relay going, so, if a guy calls H&H and he's looking for me, you take a message.",
+      "characters": [
+        "Elaine",
+        "Rebecca",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I don't see how I'm gonna make December. I mean, I need a little more time. I mean, look at me I'm a nervous wreck. My stomach aches. My neck is killing me. I can't turn. Look. Look.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The city's probably teeming with people who've been waiting out that marriage.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, that makes sense, that's a good call, Stan.  Alright, we'll see you guys later, huh?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Landis",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What about me? I mean I just watched a few games with her sitting in the stands.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Driver",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. A little thing called Step Nine? Instead of an apology, he was beboppin' and scattin' all over me.",
+      "characters": [
+        "Lamar",
+        "Harold",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, see? I knew you would lose 'em. That's why I took 'em out of your dresser drawer and put 'em in my strongbox.",
+      "characters": [
+        "Vivian",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just don't think you should go alone. Can't you wait till after my set?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I was just at this recital and Jerry put a Pez dispenser on my leg and I started laughing.",
+      "characters": [
+        "Jerry",
+        "Craig",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I got just the thing to cheer you up. A computer! Huh? We can check porn, and stock quotes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Kate",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

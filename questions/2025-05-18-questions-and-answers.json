@@ -1,0 +1,106 @@
+{
+  "gameNumber": 136,
+  "date": "2025-05-18",
+  "questions": [
+    {
+      "quote": "It's just that my boss is very demanding and he needed the pencil right away.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah, right. I wish I had something on my mind.  So how about that Kramer, huh?",
+      "characters": [
+        "Maryedith",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If it's all the same to you, I think I'm just gonna go to bed.",
+      "characters": [
+        "George",
+        "Milos",
+        "Frank",
+        "Christie"
+      ],
+      "correctAnswer": "Christie"
+    },
+    {
+      "quote": "I don't even know them. What is she, your second cousin? I mean, I've met them three times in my life.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, we're discharging the squirrel. We think he'll be better off at home.",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I'm not giving you the satisfaction. I'm gonna watch it again...",
+      "characters": [
+        "Newman",
+        "Todd",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well Jerry, it might take a while for me to pay you back. Maybe a few years. How do you feel about that?",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm ten minutes slow again! That's it for this piece of junk! I've had it.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Two bedrooms? Why do I need two bedrooms? I got enough trouble maintaining activity in one.  I saw that.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Rene, can you come here a second? Let me ask you something: Ummm, have you ever... you know... faked it?",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

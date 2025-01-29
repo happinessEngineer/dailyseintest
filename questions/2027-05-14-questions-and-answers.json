@@ -1,0 +1,106 @@
+{
+  "gameNumber": 862,
+  "date": "2027-05-14",
+  "questions": [
+    {
+      "quote": "I went to look in the mirror, it wasn't there. You threw off my equilibrium.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now.. This is the tape that we made earlier and I think, that I see. a couple of buds right here.",
+      "characters": [
+        "Kramer",
+        "Mel",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, Jerry, this place is falling apart. You have no hot water, you can't have soft cheese...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Stan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, the female body is a... work of art. The male body is utilitarian, it's for gettin' around, like a jeep.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jeannie",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm bored. I got all this free time on my hands, I dunno what to do. You wanna do something?",
+      "characters": [
+        "Peterman",
+        "Bania",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How can I think you?  I'll tell you what, I'll take you to dinner sometime.  You ever been to Mendys?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Listen, you're lucking I'm not asking for a whole refund.  You gave me ladies' frames!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George is right, Jerry. See, here, you're just another apple, but in Japan, you're an exotic fruit. Like an orange. Which is rare there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Phil",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, after dinner last week, she invites me back to her apartment.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's funny. Hey, listen, what are you doin' Saturday night?",
+      "characters": [
+        "Jerry",
+        "John",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

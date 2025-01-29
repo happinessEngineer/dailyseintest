@@ -1,0 +1,106 @@
+{
+  "gameNumber": 250,
+  "date": "2025-09-09",
+  "questions": [
+    {
+      "quote": "Yeah, don't investigate, don't pay me back, it was an accident.",
+      "characters": [
+        "Newman",
+        "Noreen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe you could have sex with her again and then take it back.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is the only time this year we'll be asking for donations. You've been enjoying Ken Burns' Baseball-",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah. I'm Doctor Cooperman. I just want you to know that this won't take long. And he's going to be fine.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "You got it ALL wrong. I was thinking only of the poor Krakatoans",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no.. It's just a little performance piece I wrote... You know what? You really inspired me,oKay, a tear.",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "Kramer",
+        "Brody"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Oh, damn, this place is incredible, look at all this great light!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe we can get an army transport flight. They got a base in Sarasota, I think.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "(Tilts her head down, looking over her glasses in amazement of",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rava",
+        "Tom"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ask your mother,  you live with her now, don't you? Anyway, so then this guy comes up to me and starts feeling my jacket through his thumb and his forefinger like this.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "James"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

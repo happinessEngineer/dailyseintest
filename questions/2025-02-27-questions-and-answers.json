@@ -1,0 +1,106 @@
+{
+  "gameNumber": 56,
+  "date": "2025-02-27",
+  "questions": [
+    {
+      "quote": "Alright. Okay. Well, uhm, wait here and I'll uh, I'll bring it around.",
+      "characters": [
+        "Tony",
+        "Rabbi",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "All I have to do is stick my head out the window.  Which one's suppose to be the funny guy?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Steinbrenner",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "I still don't understand what the problem is having her in the building.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let's test him. Hey, driver. What do you say we stop off, pick up your sister, have a little fun back here? No, he can't hear us.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But in the circus you get to ride around in the train, see the whole planet!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I mean the question isn't even for me it's for a friend.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Vvvvup. Right there. I got it. I did this thing on the Ottoman Empire. Like, what was this? A whole empire based on putting your feet up?",
+      "characters": [
+        "Jerry",
+        "Jeannie",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Which market, the, eh, big one, the big market, the big board. Bull market, bear market, you name the market, I'm there.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Not everybody knows what the crop circles are.  Do you know what the crop circles are?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "James"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

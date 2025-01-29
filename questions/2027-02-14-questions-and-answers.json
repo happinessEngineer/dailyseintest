@@ -1,0 +1,106 @@
+{
+  "gameNumber": 773,
+  "date": "2027-02-14",
+  "questions": [
+    {
+      "quote": "What about you? You were even engaged, and you cut it off just like that.",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Ken",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You heard her. She coveted them. I bet she took them just to spite me. She's probably having a good laugh about it right now.",
+      "characters": [
+        "Holly",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "Listen. I want you guys to send along those agreements the minute you land. Our boys can't wait to kick your butts!",
+      "characters": [
+        "Stu",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, me too. I'll meet you down.  Oh, don't go in, Rachel's getting undressed.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Sophie",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aw right. I know I've been shooting off at the mouth lately; First with that girl whose life you destroyed and.. emm...about George dating a lady Jerry",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We're gonna sell this as a top. Here's the angle: Zelda Fitzgerald, aaaand, somebody in the 20s, wearing this at wild parties, driving all the men crazy … Have it on my desk by the end of the week.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "A turkey sandwich. A side of slaw, … you want whit e meat or dark?",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "To Hawaii. The most sought-after postal route of them all. The air is so dewy-sweet you don't even have to like the stamps.. But it's not to be - So, I'm hanging it up.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Remember I was telling you about Gillian, my friend who writes for the L.L. Bean catalogue? I really think you should give her a call.",
+      "characters": [
+        "Susan",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

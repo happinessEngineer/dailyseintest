@@ -1,0 +1,106 @@
+{
+  "gameNumber": 455,
+  "date": "2026-04-02",
+  "questions": [
+    {
+      "quote": "You're something. So anyway, when they were in my house before, I didn't offer them anything to drink.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I don't mind if somebody's funny, but I no like the funny business.",
+      "characters": [
+        "Enzo",
+        "Woman",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Oh, I used to love to sleep with my dolls when I was a little girl..",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "You don't understand. I'm in a very delicate position. Whatever I give her, she's going to be bringing in experts from all over the country to interpret the meaning behind it.",
+      "characters": [
+        "Jerry",
+        "Holly",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I want a small, plain vanilla in a cup to go. That's non-fat, right?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I remember he made you wear a jock on your head for a whole class. And the straps were hangin' down by his ,...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Harold",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah. We'll get back to you.  Let's get this baby home.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let me help you out with that. Here, just slip it over your head..",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Doctor",
+        "Nurse"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "Cause if you don't get that return, that's a pretty big matzoh ball hanging out there.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I think he could've asked me. Supposed to be a friend of mine.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Audrey",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

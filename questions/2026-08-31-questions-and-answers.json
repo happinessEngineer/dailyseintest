@@ -1,0 +1,106 @@
+{
+  "gameNumber": 606,
+  "date": "2026-08-31",
+  "questions": [
+    {
+      "quote": "let me go. let me go. Because I haven't talked to my mother in five years. We just don't see eye to eye. I don't even want to get into my childhood. I'm still carrying a lot of pain. A LOT of pain.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, sorry doesn't cut it. We're running a ball club here George. You've got to pay attention.",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "A woman with a sexy voice like yours its hard to believe your waking up alone.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "James",
+        "George"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Well, it's obvious, you know. You're carrying a lot of extra baggage up there.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no - I'm so sorry, it's the Moops. The correct answer is the Moops.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, h ha ha- if you're happy with her, that's all that matters.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Morty"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well we're sitting here together. Why wouldn't you think that.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's no big deal Jerry. We'll just meet him at the bubble boy's house.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, maybe he doesn't have a \"get outta here\" kind of personality.",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, funny. Yeah, I never heard that before.  So, you goin' to the funeral?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

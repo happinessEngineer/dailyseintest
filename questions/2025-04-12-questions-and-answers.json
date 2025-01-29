@@ -1,0 +1,106 @@
+{
+  "gameNumber": 100,
+  "date": "2025-04-12",
+  "questions": [
+    {
+      "quote": "Howbout this, come one down to Leapin' Parry's if you can beat our prices, we'll give you the store.",
+      "characters": [
+        "Lena",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I can't remember the last time I called a woman without being nervous. I, usually, I'm pacing all over the room, I'm...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, but I can't say anything because Kramer wasn't supposed to tell me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "oh, . . .because she handed you the bag. I could have handed you the bag. She happened to pick it up at the restaurant even though, . . .",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, and we had an accident with your car, it's a, it's a little crumpled.",
+      "characters": [
+        "Jake",
+        "Patrice",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. This is not cotton. Here, lemme see.  Will you stop it?  Oh. Of course. Polyester!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? The hell with this party, I don't even want to go to begin with.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wanted to get fired. George, you are looking at the new head scout of the New York Mets.",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Gary? Well, well, well well. Where the hell've you been? I've been leaving you phone messages for months.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Noreen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Untalented, She's always inviting me to see her in some bad play in tiny room without ventilation. It's really depressing.",
+      "characters": [
+        "George",
+        "Woman",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

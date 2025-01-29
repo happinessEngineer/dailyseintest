@@ -1,0 +1,106 @@
+{
+  "gameNumber": 344,
+  "date": "2025-12-12",
+  "questions": [
+    {
+      "quote": "These showers are horrible. There's no pressure, I can't get the shampoo out of my hair.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Izzy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, they have this clock now, where you punch in your age, and all your risk factors. It actually counts down how much time you have left to live.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ellen",
+        "George"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "So, because of a few bad apples you're gonna impugn an entire continent?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Lloyd",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine...let me just explain something to you. See, this is not just a weekend routine...I'm on the verge of make-up sex here. You know about make-up sex?",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's giving me a ride You know there had to have been a second spitter. But who was it? Who had the motive?",
+      "characters": [
+        "Evelyn",
+        "Helen",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Clean? Hardly. This looks like a man that isn't happy with his stereo performance.",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Santa is not a Commie. He just forgot how his good friend stuck his neck out for him to get him a good job like this. Didn't he Santa!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "You are a good friend. You know what? Even if you killed somebody I wouldn't turn you in.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're gonna score some big points with the man upstairs on this one.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know, but it's a very important wake-up call... and I don't wanna take any chances.",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

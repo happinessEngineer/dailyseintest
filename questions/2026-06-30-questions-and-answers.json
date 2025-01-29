@@ -1,0 +1,106 @@
+{
+  "gameNumber": 544,
+  "date": "2026-06-30",
+  "questions": [
+    {
+      "quote": "...Ahh. You don't plan to hit these balls with that racquet, do you?",
+      "characters": [
+        "Jerry",
+        "Milos",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Yeah, my wife couldn't make it today. She's got something with her mother... Who knows what's going on with her. Don't let any one kid you, it's tough.",
+      "characters": [
+        "George",
+        "Jackie",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So tell me. What's the problem with your little flaky friend? She doesn't return calls?",
+      "characters": [
+        "Manager",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because if she gets it back, then you'll have no reason to be sour. You'll de-sour, right?",
+      "characters": [
+        "Jerry",
+        "Pitt",
+        "George",
+        "Farkus"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean they're not going to do anything, they're the cops, they gotta do something, he just put the kibosh on me, do you know what the kibosh means, its a kibosh!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Doorman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, they've just got to get more cops on the force, it's as simple as that.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A sitcom. Can you imagine? And he actually tried to use it to hit on me!",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Russell, see, I'm really not interested in this stuff and I do have to go to work . So...",
+      "characters": [
+        "Peggy",
+        "Russell",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm going with him. I'd like to... I've never done a 'solid' before.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess the DJ booth was over there behind the bone saw?  Let's get out of here George.",
+      "characters": [
+        "Tim",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

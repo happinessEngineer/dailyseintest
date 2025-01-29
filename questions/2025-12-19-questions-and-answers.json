@@ -1,0 +1,106 @@
+{
+  "gameNumber": 351,
+  "date": "2025-12-19",
+  "questions": [
+    {
+      "quote": "No, you're not a divorcee. Youÿre just separated. You're---you're a separatee.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All because of this creepy new guy at work. He just - he just comes out of nowhere and he's right next to you!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at this sparkle.  Mrs. Enright!  Mrs. Enright! Mrs. Enright!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine said I could stay with her another month until Tina gets back. What are you thinking about?",
+      "characters": [
+        "Mike",
+        "Morty",
+        "Elaine",
+        "Audrey"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "I'm unbelievable at spelling last names. Give me a last name.",
+      "characters": [
+        "George",
+        "Seth",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, there may be a problem with the phone, hold on. >click click<",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Taht's judgment. Yes, yes. Judgment with earrings on. Yeah.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I know Jerry will tell you that The Wrath of Khan is the better picture, but for me, I always...",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You said, no matter what you do or say, I'm not to give you the number.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Morty",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nah, did you hear the end? I couldn't remember what I was trying to say, that whole thing about the, uh...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Sophie"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 57,
+  "date": "2025-02-28",
+  "questions": [
+    {
+      "quote": "Alright. Alright, alright. You come in tomorrow, we'll find something for you to do.",
+      "characters": [
+        "Jane",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh god, oh god. Okay, let's not panic. Let's just get to the hospital...",
+      "characters": [
+        "Carol",
+        "Frank",
+        "Elaine",
+        "Ken"
+      ],
+      "correctAnswer": "Ken"
+    },
+    {
+      "quote": "Come on, We're two intelligent people here. We can figure this out. Now we got a dog and a cat in an office.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah but there's a problem. I found a tube of a fungicide in her medicine cabinet.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, I just can't. Nobody in my family can pay for parking, it's a sickness. My father never paid for parking; my mother, my brother, nobody. We can't do it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Forget the shower! The shower's out. Move it! Put your clothes on! Put your clothes on!  Where are you going?",
+      "characters": [
+        "Audrey",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, this is Aunt May, and Father Jessup. Oh, and that's my brother, Timmy.  This is my boyfriend, George.",
+      "characters": [
+        "Betsy",
+        "Kramer",
+        "Doctor",
+        "Lloyd"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "That's my nipple. My nipple's exposed. I sent this card to hundreds of people! My parents. My boss. Uh, Nana and Papa.",
+      "characters": [
+        "George",
+        "Rudy",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I do, but it's three o'clock and then I'm flying right back and meeting Bridget at the Diplomat's Club in the airport.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why are they using so many colors? And the numbers go up to forty.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

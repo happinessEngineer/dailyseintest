@@ -1,0 +1,106 @@
+{
+  "gameNumber": 400,
+  "date": "2026-02-06",
+  "questions": [
+    {
+      "quote": "Elaine, have you noticed George was acting strange the whole flight?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I started riding these trains in the forties. Those days a man would give up their seat for a woman. Now we're liberated and we have to stand.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "I can't figure out what's going on here. I can't follow the plot. Why did they kill that guy? I thought he was with them?",
+      "characters": [
+        "Jerry",
+        "Landis",
+        "George",
+        "Janet"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, tomorrow's Sunday. We could sleep late, and get the paper and half breakfast and spend the morning together, go for a long walk, maybe do a little shopping, have lunch...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jane",
+        "Daphne"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "I don't know. All of 'em. They're all crooks! Besides, I couldn't get all different candy bars, anyway.",
+      "characters": [
+        "George",
+        "Beth",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a second, he's getting off. Yeah, he's gonna be going south on the one-thirty-five.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I've been in the slash many times. This is nothing. You'll get used to it. Just,  put it out of your mind.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Marty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well ahh. I was trying to get to my seat and I had to step over someone and I kind of got pushed and it spilled on me.",
+      "characters": [
+        "Peterman",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, Jerry--that's thirty-seven points! The Knicks covered! You won! See, that's a cooool-G, Daddy-O--now you gotta let it riiiide!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Enzo",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mr. Peterman, I don't know what's going on here. I am not addicted to anything.",
+      "characters": [
+        "Elaine",
+        "Clerk",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

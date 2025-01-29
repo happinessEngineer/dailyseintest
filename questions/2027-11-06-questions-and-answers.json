@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1038,
+  "date": "2027-11-06",
+  "questions": [
+    {
+      "quote": "Well then what are all those ties and sport jackets doing in my closet?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Could you hold on for a second? I've got something on the stove.",
+      "characters": [
+        "Kramer",
+        "Ray",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no please Mr. Peterman, she's crazy!  Crazy for feelings...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh huh. Yes, well, I'm going to have to be perfectly honest with you.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Gonorrhea? Excuse me, I think there's been a mistake, see, I had gonorrhea last week.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, I'll give it a shot! I do really like this coffee shop. Nice cuff links, by the way.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Corinne",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, uh, she has no female friends! You know that, don't cha? Something strange about a woman who's friends are all men.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Judge"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know, George. I'm still worried about this car thing.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Ah hah. You see Father, I'm I'm incredibly anxious to become a member. Um, don't you offer any kind of an express conversion? A quick change?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on Jerry. You gotta see the operation. They're gonna cut him open -- His guts'll be all over the place...",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

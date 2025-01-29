@@ -1,0 +1,106 @@
+{
+  "gameNumber": 601,
+  "date": "2026-08-26",
+  "questions": [
+    {
+      "quote": "Oooh, you're getting an air conditioner for Amy.  Amy doesn't like the temperature up here. She's a little hoooot.",
+      "characters": [
+        "Elaine",
+        "Gary",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Girls.  There's girls right here in the store.  Look, look, there's one over there.  Look, there's another one.  Soon as I walk outside there'll be girls out there.  What's the matter?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Maestro",
+        "Alec"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, has the summer of George already started or are you still de-composing?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is what I like, see? You come home and your parents are in your bed!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah. That's why they call it a Stairmaster. You get up there and you stare.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! He said that! Can you imagine what he'll do if he sees me with you! He'll think I?m the one who ruined his deal at NBC and took away his girl, he'll put a kibosh on me!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See what doctor Gene prescribes, huh?  Oh, here, look at that. Weekend At Bernies Two. Now, that's an hilarious premise.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm sure we're all aware of the flaws and biases of standardized tests..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where is that noise? It's traveling up my spine! Into my Brain!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Testikov"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "Oh, I can't believe it. Let me see that.  That's four and a half points in three days! That's almost half my money!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Nina",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 999,
+  "date": "2027-09-28",
+  "questions": [
+    {
+      "quote": "What are you talking about? That marriage ended six months ago. She's already remarried.",
+      "characters": [
+        "Morty",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And then assuming the strike is resolved, on April 14th, we, ah, play the Angels. So let's clear a floor at the Anaheim Hotel.",
+      "characters": [
+        "George",
+        "Steve",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's no good. He wouldn't last ten minutes in there. Anyway what can I do, I promised I'd go visit him tomorrow.  It's his birthday. I can't go to the cabin.",
+      "characters": [
+        "Kramer",
+        "Beth",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"...'cause that's what you need to do to prove I'm not going to leave you. I'm sick and tired of running from places and people and relationships. You want me, that fight for me, becau-\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Now I can break up with him. He's clean, and I'm the office hero.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I cancelled. Hal sent a mattress to my apartment. The nerve of that guy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Jodi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well so what. I mean you played first base. I mean they always put the worst player on first base. That's were they put me and I stunk.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Voice",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What?  Wh... what're you talking about? I'm not the one with the problem.  Lloyd Braun was in the nuthouse, not me.",
+      "characters": [
+        "George",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, as I say, the pink-eye made my vision...quite blurry...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sid",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, of course, of course it can wait until march if that is what you want.",
+      "characters": [
+        "Jerry",
+        "Detective",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

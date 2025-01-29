@@ -1,0 +1,106 @@
+{
+  "gameNumber": 849,
+  "date": "2027-05-01",
+  "questions": [
+    {
+      "quote": "I'll book a hotel, do you want a standard room or mini suite?]",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Kramer",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Ha.Ha.Ha. ha...You don't have any money. I make more money than you do. ha. ha. ha. Yeah.. give me the papers I'll sign 'em. a pre-nup...",
+      "characters": [
+        "Susan",
+        "Woman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "You tellin' 'em about the butler story? Is that beautiful or what? Hey, sorry I'm late.  Russell?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, this is an unexpected surprise – and delight! The once and future king of comedy, Jerry the First, gracing our humble abode. Rava, we're in the presence of royalty.",
+      "characters": [
+        "Ray",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Yeah, it wasn't ready on time. I have to return it after the show.",
+      "characters": [
+        "Wendy",
+        "Doorman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Just call me if you hear anything.  Well? I cashed the checks, the checks bounced and now my Nana's missing!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!",
+      "characters": [
+        "George",
+        "Doctor",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It doesn't have to be someone who gets a lot of women. It could be just some guy with a big ass.",
+      "characters": [
+        "George",
+        "Rick",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Huh? You know who I saw at the health club? Salman Rushdie.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Carol",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know. How could I possibly have ulcers? Who could have given me ulcers?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

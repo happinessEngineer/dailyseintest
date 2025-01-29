@@ -1,0 +1,106 @@
+{
+  "gameNumber": 555,
+  "date": "2026-07-11",
+  "questions": [
+    {
+      "quote": "I'm still big. It's the bootlegs that got small. So how are things at the office? Back to normal?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, had no face, no personality. It was like a martian. But hey, you know that's me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no. Not me. I just happen to know someone who specializes in exactely these kinds of sticky situations.",
+      "characters": [
+        "Voice",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know, the police, they've been having some internal dissension about the name.",
+      "characters": [
+        "Simon",
+        "Puddy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, alright, hold on!  Time out! Woah, woah!  What did she say?",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't call China now its like, what, three 'O clock in the morning there",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hard feelings? What do you know about hard feelings? Y'ever have a man die in your arms? Y'ever kill somebody?",
+      "characters": [
+        "Carrie",
+        "Bookman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Bookman"
+    },
+    {
+      "quote": "Wait a minute  Wait a minute. I know what's going on here. Skinny Mirrors!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He's not idiotic. He's the Wiz. And nobody beats him. Nobody...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Maestro",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't. I denounced them. Maybe I'll go raid Peterman's fridge. He's always got a truffle or something in there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morgan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

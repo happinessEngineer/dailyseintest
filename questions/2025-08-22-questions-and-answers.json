@@ -1,0 +1,106 @@
+{
+  "gameNumber": 232,
+  "date": "2025-08-22",
+  "questions": [
+    {
+      "quote": "Listen, George, I got some bad news. I'm not gonna be able to give you that parking space.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Gary",
+        "Laura"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "And then, then, then she leaves with somebody else! Never even, never even said goodbye! Never called me back.. Never apologized. Nothing. Like I was dirt.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Hal"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, Kramer that's it..... Hello . English. Does anyone speak English",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They put real blue berries in this. And there's real blue berries. What kind did you get?",
+      "characters": [
+        "Kramer",
+        "Katya",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm just gonna...wash.  WHY DID I PUT UP TWO? WHY DID I PUT UP TWO?",
+      "characters": [
+        "Elaine",
+        "Judge",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now wait a second, you mean the one where the guys are all standing around, supposedly being very casual and witty?",
+      "characters": [
+        "Jerry",
+        "Holly",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, I've given up. So, now we're going to a bunch of Spanish restaurants. I figure that'll cover us either way.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That was Elaine , she changed her mind. She's not coming over.",
+      "characters": [
+        "Gail",
+        "Jerry",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Absolutely, uh, lets see there's, uh, Vandelay Industries, I just saw them. I got very close there. very close.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yes. I already packed up my desk, sir. I can be outta here in an hour.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

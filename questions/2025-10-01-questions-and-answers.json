@@ -1,0 +1,106 @@
+{
+  "gameNumber": 272,
+  "date": "2025-10-01",
+  "questions": [
+    {
+      "quote": "They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Tony",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi Beth  Um anyway Jerry told me that uh.. it might have been my comment in the Coffee Shop that broke you up.",
+      "characters": [
+        "Morty",
+        "Doctor",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I gotta go home and open up with the house for the carpet cleaners. You know they're doing my whole place for twenty-five dollars.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He never finished the sentence. He got a call, that was the end of the interview.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sorry, I don't see the big deal about being a matador. The bull charges, you move the cape, what's so hard?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You have no idea how your life is gonna improve as a result of this. Food tastes better. The air seems fresher. You'll have more energy and self confidence than you ever dreamed of.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, he'll be right up. He's just getting some beer. And I'm not expecting ... any change.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mohel",
+        "Conrad"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, uh, I'll tell you what. I could go as high as uh...  I don't know, maybe...twenty dollars?",
+      "characters": [
+        "George",
+        "Carl",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "These are the balloons? Big deal, all I see is Woody Woodpecker.",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you're a victim. Now your face is shallow, unattractive, disgusting.",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    }
+  ]
+}

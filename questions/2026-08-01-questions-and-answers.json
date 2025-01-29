@@ -1,0 +1,106 @@
+{
+  "gameNumber": 576,
+  "date": "2026-08-01",
+  "questions": [
+    {
+      "quote": "Nothing, I got up, run some errands, I went down to Sara's office and apologized...",
+      "characters": [
+        "Gary",
+        "Lippman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mister Kramer, you heard the testimony so far. Would you please tell the court in your own words what happened on the afternoon of September 10th?",
+      "characters": [
+        "Newman",
+        "Sophie",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey buddy. I'm on no sleep, no sleep!. You don't know what it's like in there, all night long things are creaking and cracking. And that red light is burning my brain!",
+      "characters": [
+        "Joel",
+        "Elaine",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's right. Well, what's going on over there with you and, uh, Vegetable Lasagna?",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "What? In his drink? Are you outta your mind? What are you Peter Lorre?",
+      "characters": [
+        "Sophie",
+        "Peterman",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I picked up this shirt here yesterday. It's completely shrunk. There's absolutely no way I can wear it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm still here. Listen, you gotta go down to the Diplomat's Club...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's a writer from Entertainment Weekly . I would like to have a good show.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should be the one criticizing me. I, I'm lucky to even know someone like you.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Obviously we're gonna call the police and tell that he's not the guy.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

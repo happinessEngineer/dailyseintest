@@ -1,0 +1,106 @@
+{
+  "gameNumber": 19,
+  "date": "2025-01-21",
+  "questions": [
+    {
+      "quote": "Ah, soup and a sandwich for a brand-new Armani suit. Is that any kind of gesture?",
+      "characters": [
+        "Bania",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "All right, I'm gonna find a guy with a truck. GLC must live on!",
+      "characters": [
+        "Kramer",
+        "Kimbrough",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, because of that stupid rye bread, I gotta keep them all separated for the rest of my life.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, did you know that the Yankees don't wear cotton jerseys?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you talkin' about? It's fine, I love having you here.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ray",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. No awkward pauses. Probably the reason we never fooled around..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Detective",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, my. Well, the doorman certainly has a wild imagination, doesn't he?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Poppie",
+        "Russell"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The guy slept with Marilyn Monroe, he's in Dinky Donuts. What about this doctor's note? Let's go see your friend Roy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Salesman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I see how it works now.  He knocks me outta commission, so  you can strut around in your fancy number one shirt.  Well, I'll show you who's number one.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "You know what, maybe Elaine wants to go too, lemme call her.  She's at Mr. Pitt's, I think I got the number...",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

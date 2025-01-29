@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1102,
+  "date": "2028-01-09",
+  "questions": [
+    {
+      "quote": "I guess everyone here enjoys giving the old screwgie, huh?! You're all doin' a hell of a job!  Ho, ho. What I would do with you..",
+      "characters": [
+        "Kramer",
+        "Keith",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "yeah, well I just hope I run into her again ok, cause I will never forget that flinty voice, it is tattooed in my brain if I hear it, watch out So listen what happened with Jane last night?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, first, I'm brushing my teeth and this piece of apple-skin, that must have been lodged in there for days, comes loose.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've looked through that window and screamed at him to shut the blinds.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, look at this sport jacket. Is this a jacket to wear to an anniversary party?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I'm not getting on a regular plane now - I'm all psyched up to go on a private jet. No way I'm getting on a regular plane.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohh kay! Well, you know, I had Bob Saccamano on the phone, and I suddenly realized that I-",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right. Look, I'll tell ya what, I'll give you $50. Now, be reasonable you cannot turn down $50 for a $6 rye.",
+      "characters": [
+        "Maestro",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "hello. Oh, hi. What's happening? … what? oh um, sure, … um, yeah, okay, uh. I'll see you then. Yeah, yeah, Bye.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello? Oh, hi honey.  Yes, I told him. I'll get it.  Whenever. Okay, I'm sorry...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

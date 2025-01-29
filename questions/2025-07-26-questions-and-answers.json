@@ -1,0 +1,106 @@
+{
+  "gameNumber": 205,
+  "date": "2025-07-26",
+  "questions": [
+    {
+      "quote": "Oh, hey, uh, listen, Jerry, uh, laundry's pilin' up there. You might want to tell your girlfriend. Mmm. Yeah.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ohh boy. Well, I gotta meet Elaine and run some errands. So..",
+      "characters": [
+        "Salesman",
+        "George",
+        "Naomi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was because you hated your father and you would do anything to displease him. Isn't THAT true?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "That Gendason, what a jerk. I'm never playing golf with him again.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I want the one that I earned.  I'll get it. I'll get it!  H&H, and Elaine.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen Jerry, I've been doing some thinking. I want my suit back.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "\"JIMMY'S GONNA GET YOU KRAMER!!. HANDS OFF JIMMY!!. DON'T TOUCH",
+      "characters": [
+        "Jimmy",
+        "Alec",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "But wouldn't you get any satisfaction out of helping someone out?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because the underwear is pulled up from the back and ... it wedges in..",
+      "characters": [
+        "Elaine",
+        "Babu",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can get a good one today. It's Enzo's day off. Gino's there all by himself.",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

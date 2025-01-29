@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1093,
+  "date": "2027-12-31",
+  "questions": [
+    {
+      "quote": "Of course. Of course it got done. Things get done all the time, I understand.  Don't worry, your job'll be waiting for you when you get back.  Get better George. Get better!",
+      "characters": [
+        "Steinbrenner",
+        "Tor",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "My friend Bob Sacamano had shock treatments. But his synapses were so large, it had no effect.",
+      "characters": [
+        "Morgan",
+        "Woman",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I'm starting to get a little nervous about this lunch.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Hal"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I don't know if I lost track of time - or what, but the next think I knew..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's not as if Susan's pregnant. You've already postponed The wedding. Who knows if you'll ever get married.",
+      "characters": [
+        "Carrie",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "You just  tear it off, and vvvvrrrpppp you got a new one right here. Then you're gone.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, my friend told me about this great place in Vermont.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at that woman feeding her baby greasy, disgusting, coffee shop corned beef hash. Isn't that child abuse?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Beth",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, yeah, I'm familiar with some of his writing.  Alright,  look, we gotta get back to work. We just had a big breakthrough here.",
+      "characters": [
+        "Anna",
+        "Kramer",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, tell him you're concerned about it and he should see someone else.",
+      "characters": [
+        "Rava",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

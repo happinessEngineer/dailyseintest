@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1,
+  "date": "2028-02-25",
+  "questions": [
+    {
+      "quote": "I mean, why don't you two just take your business elsewhere, hmm?",
+      "characters": [
+        "Wendy",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "Till when - till he goes back to Seattle, or till he can feed himself?",
+      "characters": [
+        "George",
+        "Jackie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you got the AIDS walk tomorrow. You're never gonna make it, you're in horrible shape.",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Make sure you get this area here, where he needs the help....",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right. The other members of our party.  Other members of our party? What other members of our party? I didn't even know we were in a party. Oh, I'm telling you, the jig is up.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Lena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's embarrassing for them. It's painful for us to watch. I'm going out with someone later, I'm not even taking her out of the house.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, check this out.  Remember my idea about rickshaws in New Youk? Well, we're gonna make it happen!",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, the library is kind of a cool place when it's closed.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Rick"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ya, ya. I bumped into him on the bus. What did he have to say?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, she's uh...she's real. She can bring home the bacon and fry it in the pan.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 726,
+  "date": "2026-12-29",
+  "questions": [
+    {
+      "quote": "Yeah, yeah, like it's just part of the conversation. \"Oh my boyfriend really likes watches. He's a real watch freak.\" We-e-ell that's fabulous.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, what about 'ladies night'? Women admitted free before 10?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Naomi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you one thing, this chauffeur's gonna be waiting a while, O'Brien's not showing up.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No appointments at all? Because my neck is still tight. What about Thursday? And Friday? Oh boy. Okay, thanks anyway.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, you didn't have to do this. I'm president of a big company. I can afford to buy you coffee.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I tell you; if this woman dies, it is going to be a major inconvenience.",
+      "characters": [
+        "Kramer",
+        "Driver",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, Dad, we're five blocks from the house. Sit sideways.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Two minutes. Believe me, I know his two minutes. By his conception of time, his life will last over two thousand years.",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He must have caught a glimpse of us when I poured that beer on his head.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "What do you mean Wednesday? I though we had tickets to the Knick game Wednesday. We got seats behind the bench! What happened? We're not going?",
+      "characters": [
+        "Wilhelm",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

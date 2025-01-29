@@ -1,0 +1,106 @@
+{
+  "gameNumber": 739,
+  "date": "2027-01-11",
+  "questions": [
+    {
+      "quote": "Did I tell you I ran into her last week? Ho-ho, she looked great.",
+      "characters": [
+        "George",
+        "Susan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really John Mollika, they guy that used to bartend at the Comedy Club. How's he doing?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Never been a big fan. [coughing] Um..you know what? Has anyone ever told you you look exactly like Al Pacino? You know, \" Scent Of A Woman.\" Who-ah! Who-ah!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Janet"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a second. Wait a second. You're right. I had both of them.",
+      "characters": [
+        "George",
+        "Wyck",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me ask you something. When's the last time you went skiing?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I had it perfectly timed out: the Grand Central, the Van Wyck! You destroyed my whole timing!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excellent.  So, did you buy that electric toothbrush I was telling you about?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He wants to meet you? I'll tell you what. I'll show up. He doesn't know we're friends. I'll pretend I haven't seen you since High School. I'll back up the story.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Gino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi mom. So, what's happening with uncle Leo? Is he paying you?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, do you think they just crack their knuckles and come out?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

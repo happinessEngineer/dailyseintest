@@ -1,0 +1,106 @@
+{
+  "gameNumber": 324,
+  "date": "2025-11-22",
+  "questions": [
+    {
+      "quote": "Oh, yeah. Where the people eat the plant life. The edible foliage tour.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He doesn't have to say anything, he just has to sit there. I'm playing a detective.",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "So I got home, and he was vacuuming! I mean, he's twelve years old! Who else but my Alan would do something like that?",
+      "characters": [
+        "Woman",
+        "Ron",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "What are you like a sadist? No matter how bad somebody feels, you can make 'em feel worse. I bet you're rooting for a tumor.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Jimmy might have a compound fracture.. Jimmy's going into shock!!\"",
+      "characters": [
+        "Newman",
+        "Jimmy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "I swear to you, I didn't know they TV was bolted to the table.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "......laugh , everything's nice and at the end of the night I go for a little contact. I get the PULL BACK. This woman said the filthiest things I've ever heard in my life. I get the Pull Back.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I find it disorienting. Who buys an umbrella anyway? Y..you get 'em for free in the coffee shop in the metal cans.",
+      "characters": [
+        "Pop",
+        "George",
+        "Loretta",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you have the slowest elevator in the entire city? That's hard to get used to when you're in so many other fast ones.",
+      "characters": [
+        "Kramer",
+        "Attendant",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I admire Morty and Helen going to France. We should take a trip, maybe a cruise.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

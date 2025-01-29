@@ -1,0 +1,106 @@
+{
+  "gameNumber": 699,
+  "date": "2026-12-02",
+  "questions": [
+    {
+      "quote": "Y'know if the guy dies, the art could really be worth something...",
+      "characters": [
+        "George",
+        "Salesman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "LET'S GET IT ON!!! Alright!! Go Devils!! Go Devils!! Let's go Devils!!",
+      "characters": [
+        "George",
+        "John",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "\" I'll always be a winner and you'll always be a loser.\" This is what he said to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't see Joe DiMaggio sitting at the counter in little tiny filthy smelly Dinky Donuts.",
+      "characters": [
+        "Pitt",
+        "Elaine",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uncomfortable? How does you think I feel?.. Hey let me ask you something, how much did you pay for that ticket?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Michael",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We were walking down the block right by your house and I was just about to break up with him then all of a sudden he started to twitch.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Same thing. My god, I'm getting married in December, do you know that?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Tv",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, it is exciting! All right, this is gonna be my new face.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, I admit I was dumb to go to the bookstore to tell him I didn't say hi, but he didn't have to act so smug. Oh, I hate smugness. Don't you hate smugness?",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, I paid two hundred dollars for this racquet, because he said it's the only one he plays with. He could've played just as well with a log.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

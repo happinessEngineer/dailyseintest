@@ -1,0 +1,106 @@
+{
+  "gameNumber": 794,
+  "date": "2027-03-07",
+  "questions": [
+    {
+      "quote": "it's in my book - \"Astonishing Tales of the Sea\" 51 people died.",
+      "characters": [
+        "Daphne",
+        "Alton",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're very good. Very good with the moanings and the gyrations. Y-You really had me going there for a minute.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, we're going down to Mt. Sinai Hospital, See they hire actors to help the students practice diagnosing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Hal",
+        "Nikki"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what, I'll just uh, I'll just look around for a little while.  I'll just browse around.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Katie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that's okay.  We'll make this next right, and swing around to get back to the dealership.",
+      "characters": [
+        "Rick",
+        "Kramer",
+        "Kimbrough",
+        "Elaine"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "Alright. Well. Glad we got that straightened out because I've got a date with her.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey believe me, baldness will catch on. When the aliens come, who do you think they're gonna relate to? Who do you think is going to be the first ones getting a tour of the ship?",
+      "characters": [
+        "Kruger",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Barefoot in the clubhouse? Don't you realize this is against the rules.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Poor little bubble boy. He's sitting there waiting for you in his bubble, or igloo thing, whatever.",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I dunno about you two, but I'm quitting. I hate my guy. He's a mean, mean guy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

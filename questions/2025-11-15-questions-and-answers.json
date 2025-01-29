@@ -1,0 +1,106 @@
+{
+  "gameNumber": 317,
+  "date": "2025-11-15",
+  "questions": [
+    {
+      "quote": "I can't get my pants off, and Mickey's audition is in twenty minutes! You know, I'm supposed to be a business man, I gotta be in costume!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is this obsession people have with books? They put them in their houses like they're trophies. What do you need it for after you read it?",
+      "characters": [
+        "Clerk",
+        "George",
+        "Maestro",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All the comedians were happy. He was one of these club owners nobodu liked anyway. But Richie was never the same.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm tired. I hardly slept last night with all this scratching. Bonkers was going crazy.",
+      "characters": [
+        "Tawni",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Tawni"
+    },
+    {
+      "quote": "Let me show you to your table.  Your duck is cooking as we speak. It is so succulent...so succulent!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "I gotta go find this kid. So all you gotta do is lay here, pretend you're asleep in case she gets back, here  keep the covers over ya.",
+      "characters": [
+        "Kramer",
+        "Hanke",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why'd I think it was timbre? Yeah, she could do voiceover commercials, why didn't you tell me about her voice?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Alec",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm just pretending I'm married to get a discount on dry-cleaning.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello, Oh hi Lois, you want to get together, what for? I don't know about that, I'll have to think about it. I'll let you know. Okay, bye.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The mother seems to hit the sauce pretty hard. I didn't like that.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

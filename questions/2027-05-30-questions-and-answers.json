@@ -1,0 +1,106 @@
+{
+  "gameNumber": 878,
+  "date": "2027-05-30",
+  "questions": [
+    {
+      "quote": "What, do you break it in with her, then you try it out on me?",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Abby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, get the hell off of there. You're not trained to operate this equipment!",
+      "characters": [
+        "Captain",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "But you see my point here? You only hear of a hen, a rooster and a chicken. Something's missing!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Frank",
+        "Newman"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "\"Mustn't keep the princess waiting. Princess in a big hurry.\" \"No change for bus\" \"Poor princess.\"",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Holly",
+        "Ruby"
+      ],
+      "correctAnswer": "Ruby"
+    },
+    {
+      "quote": "Oh.  Well, I must have been in the incinerator room when you left. Here you go, Marty.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait. Is this the group that goes around mutilating squirrels?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Okay listen up people. There are plenty of you here, but we've only got two spots to fill. Good luck.",
+      "characters": [
+        "Man",
+        "Doris",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "\"You know that just admitting a man is handsome doesn't necessarily make you a homosexual.\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Pull yourself together. Your going in there soldier! That's an order!",
+      "characters": [
+        "George",
+        "Rachel",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, you must be Kramer's guys.  Come on in. You got the cigars?",
+      "characters": [
+        "Jerry",
+        "Seth",
+        "Kramer",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

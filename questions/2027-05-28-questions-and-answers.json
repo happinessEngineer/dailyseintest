@@ -1,0 +1,106 @@
+{
+  "gameNumber": 876,
+  "date": "2027-05-28",
+  "questions": [
+    {
+      "quote": "Come on Jerry. You know something TELL ME! TELL ME!, Oh, chocolates . . . Margaret?",
+      "characters": [
+        "Margaret",
+        "Todd",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "Okay, let's see. The beachhouse. 48 acres... ooh. Southampton. That should fetch a fair price.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Ok, yeah. All right look, I'll be out of here by noon. Maybe we'll have lunch together, huh?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, she's not even gonna ask, if we see her, which is remote.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Rava",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, now, come on. Look at these boys. If they were any more Cuban, Castro would've smoked them himself. Huh.",
+      "characters": [
+        "Clare",
+        "George",
+        "Bob",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I was telling Carrie about our argument, and when I told them the name, they just loved it.",
+      "characters": [
+        "Pop",
+        "Jerry",
+        "Morty",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "If you were Miss America, what would you do to make the world a better place?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Alton"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I really don't think we're supposed to be talkin' about this.",
+      "characters": [
+        "George",
+        "James",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...Alright, you're locked up in a prison in Turkey, I have your wallet. The only way I can bribe the guards to get you out is for you to give me your ATM code.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know honey for an unadvertised sale, you're doing a lot of yapping about it.",
+      "characters": [
+        "Heather",
+        "Steinbrenner",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

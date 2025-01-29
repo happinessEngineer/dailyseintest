@@ -1,0 +1,106 @@
+{
+  "gameNumber": 615,
+  "date": "2026-09-09",
+  "questions": [
+    {
+      "quote": "Well I'm sure you have secrets from me. I don't know anything about your cycles.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The only way out of this is if Leo breaks up with his girlfriend and has to move back into the apartment and then they would have to go back to Florida.",
+      "characters": [
+        "Testikov",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I feel like I'm talking fast but it's very hard to tell.",
+      "characters": [
+        "Kramer",
+        "Brett",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They lied to me about selling the car. I'll lie to them about buying it back. They think they can dump six grand on me? Think again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I said, I said: 'Get outta here! No story? Is that what I said?'",
+      "characters": [
+        "Jerry",
+        "Bruce",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ha! Elaine, shiks-appeal is a myth, like the Yeti, or his North American cousin, the Sasquatch.",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Alton",
+        "Jerry"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "No. No. No. It's for oil tankers. All I need to do is fill some sort of rubber container with oil and then drop it to see whether or not it can restrain the impact.",
+      "characters": [
+        "Betsy",
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, they have to give up some time, they can't stay out there all night?",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Lupe. That's very nice, very nice. Listen, are you going to be making up the bed in the morning?",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We had a funny guy with us in Korea. Tailgunner. They blew his brains out all over the Pacific. There's nothing funny about that.",
+      "characters": [
+        "Alton",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Alton"
+    }
+  ]
+}

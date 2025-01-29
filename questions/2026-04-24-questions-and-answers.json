@@ -1,0 +1,106 @@
+{
+  "gameNumber": 477,
+  "date": "2026-04-24",
+  "questions": [
+    {
+      "quote": "You don't? Boy, I think about it a lot. I think about it at my age. Imagine how much I'll be thinkin' about it at your age. All I'll do is keep thinkin' about it until it drives me insane...",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Someday, before I die, mark my words - I'm gonna tell that woman exactly what I think of her. I'll never be able to forgive myself until I do.",
+      "characters": [
+        "Frank",
+        "George",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No no no, they're talking the West Side Highway, at this time of day that's insane. They're heading straight into gridlock. Oh, those fools.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no. No. We're good. Let's get goin'. Alright.  Watch it, funny man.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If you had given me my mail last week when I got home, this whole thing never would have happened.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Thousand.  Six hundred and twenty thousand.  The horror, the horror.   The wife keeps giving us dirty looks.  Are you sure you gave him the right directions?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Hal",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's exactly what I said, except I used the word \"momentum\".",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Todd",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told her I was out o' soda, I went out to get some, an' I never went back.",
+      "characters": [
+        "Jerry",
+        "Doorman",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. One second sweetheart. Jerry, I really think it'd be easier if you didn't tuck.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know who - isn't here. He was in the early class today.  But I think you made quite an impression on him yesterday.",
+      "characters": [
+        "Joyce",
+        "Manager",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Joyce"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 985,
+  "date": "2027-09-14",
+  "questions": [
+    {
+      "quote": "She tolerated the strawberries and the chocolate sauce, but eh, it's not a meal, you know? Food and sex, those are my two passions. It's only natural to combine them.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, splendid. Welcome to the Institute for the Preservation of Motion Picture Costumes and Wardrobe.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Haarwood"
+      ],
+      "correctAnswer": "Haarwood"
+    },
+    {
+      "quote": "So you're telling me, because you're getting free parking, I gotta pretend this guy had cancer when he didn't?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, Carrie, you and Susan are cousins. So your baby daughter is gonna be Susan's second cousin, right? So what does that make me?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You would think that at the end of the week when they hand out the checks, throw in a few soaps.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Milos"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can you believe it? It's happening! It's finally happening! I'm free!!",
+      "characters": [
+        "George",
+        "Julianna",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Good. Thank God. Good riddance. [pause] Oh listen, before you go, would you mind changing my diaper? HAA!!",
+      "characters": [
+        "Sid",
+        "George",
+        "Elaine",
+        "Donald"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Oh, there's action. There's plenty of action. That damned alien autopsy is stealing all the headlines.",
+      "characters": [
+        "Newman",
+        "Sheila",
+        "Kramer",
+        "Jodi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, you are right. It's all about, me, me, me. Please, look at me! I am so pretty! Love me! Want me!",
+      "characters": [
+        "Danielle",
+        "Jerry",
+        "Elaine",
+        "Silvio"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "Oh, you might want to stick around Jerry. Mr. Thomassoulo picked the wrong man to hire because he was fake handicapped.",
+      "characters": [
+        "George",
+        "Man",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

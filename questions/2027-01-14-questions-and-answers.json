@@ -1,0 +1,106 @@
+{
+  "gameNumber": 742,
+  "date": "2027-01-14",
+  "questions": [
+    {
+      "quote": "No, no. Mister Peterman, why don't we keep them - as a, as a reference?",
+      "characters": [
+        "Ellen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No should I [continuity error: in fact he SHOULD from the basketball game]",
+      "characters": [
+        "Keith",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Yes! And then the handsome young prince was cast out into the cruel, cruel world.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "Rabbi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I really don't remember, I was kinda out of it for the 1st couple of days, I was on a lot of medication, it was kinda like haze, it was pretty cool",
+      "characters": [
+        "Tony",
+        "Elaine",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Yeah, hey did I see you on TV at the Ranger game? Were those your seats right behind the glass?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Detective",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, these balloons aren't gonna stay filled till New Year's!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Dana"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, so you just assume that the homeless will eat them, they'll eat anything?",
+      "characters": [
+        "George",
+        "Rebecca",
+        "Woman",
+        "Kruger"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "I'm fighting that one. You know, this is gonna cost me over six hundred bucks.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's nothing pleasant about it, so lets just cut the crap.. You gave me fleas. I know it and you know it..",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why you even bother with this ping pong guy, I'll tell you that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

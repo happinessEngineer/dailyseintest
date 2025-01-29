@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1022,
+  "date": "2027-10-21",
+  "questions": [
+    {
+      "quote": "Don't you see what Whatley is after? Total joke telling immunity. He's already got the two big religions covered, if he ever gets Polish citizenship there'll be no stopping him.",
+      "characters": [
+        "Kramer",
+        "Father",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because, he doesn't pay any attention to me, and uh he ignores me.",
+      "characters": [
+        "Ping",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Tell Jerry I'm sorry, I'm going to have to write him some new checks.",
+      "characters": [
+        "George",
+        "Nana",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Nana"
+    },
+    {
+      "quote": "Yes he can. He controls the means of production. What are you going to do Jerry?",
+      "characters": [
+        "George",
+        "Lois",
+        "John",
+        "Susan"
+      ],
+      "correctAnswer": "Lois"
+    },
+    {
+      "quote": "He said that?  What a nerve. How dare he say something like that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah,yeah!! I'll pick you up right now.....All right All right....Hey! gotta go.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What else did you tell  him.  The two of you must have had *quite* a little chat!",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, Gordon Lightfoot was the singer. Edmund Fitzgerald was the ship.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I think you'll find out soon enough.  Aren't you going to get that?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Sidra"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "Of course, I stink, you stink. It's show bizz. everybody stinks..",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

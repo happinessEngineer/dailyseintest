@@ -1,0 +1,106 @@
+{
+  "gameNumber": 870,
+  "date": "2027-05-22",
+  "questions": [
+    {
+      "quote": "Just keep the lights down and your eyes closed. I'll be back.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A bomb in the building, oh, m'god. Quick, everyone under the desk.",
+      "characters": [
+        "Steinbrenner",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "You have to stand tough sir. That's why I had to hang up the phone.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My mom's down in Florida. She's got uh one of those condos. Hot down there in the summer. You ever been down there?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm really sorry, but you can see why I'd make a mistake like that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, the stupidest guy in my fraternity became an architect - after he flunked out of dental school!  Contratulations, young man.",
+      "characters": [
+        "Wyck",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "\"Coccoon II: The Return\". I guess they didn't like it up there.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello? Yes. Uh-huh. Ya. Oh, really? Okay, thank you very much. Bye-bye.  Well, the yogurt verdict is in.  Fat!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's a hue. She's got great eyebrows, women kill to have her eyebrows.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me ask you a question. If you named a kid Rasputin do you think that would have a negative effect on his life?",
+      "characters": [
+        "Jerry",
+        "Poppie",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

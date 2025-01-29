@@ -1,0 +1,106 @@
+{
+  "gameNumber": 393,
+  "date": "2026-01-30",
+  "questions": [
+    {
+      "quote": "Well, well, well, I'm not treating you to lunch ANYMORE! You had to tell Julie that I made a special point of telling you that I bought you the big salad. Didn't ya'.",
+      "characters": [
+        "Helena",
+        "Dana",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I had a great time at the last one. I was in charge of the music. I turned that mother out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I could let it go for.. say.. a hundred and twenty-five.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "From now on when we pass each other in the hall, I don't know you, you don't know me.",
+      "characters": [
+        "Kramer",
+        "Clerk",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, you know that shoe repair place at the end of the block? Well, if they don't get some business, they're gonna have to shut down and make way for one of those gourmet coffee or cookie stores.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Speaking of Jerry, his father is driving me so crazy down at Peterman's.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't have \"a little grace.\" You either have grace, or you...don't.",
+      "characters": [
+        "Landis",
+        "Waitress",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "You know, for phone numbers, addresses, keep appointments, everything.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...but is there any way that I could possibly have Neil's phone number?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But in the zoo, you know, they might, put a woman in there with me to uh.. you know, get me to mate.",
+      "characters": [
+        "George",
+        "Babu",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

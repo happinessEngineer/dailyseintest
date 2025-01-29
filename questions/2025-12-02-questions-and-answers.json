@@ -1,0 +1,106 @@
+{
+  "gameNumber": 334,
+  "date": "2025-12-02",
+  "questions": [
+    {
+      "quote": "Well, there's a vending machine. I could show you where it is.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Hey, hey hey. Don't worry about me. I'm not a waffler. I don't waffle!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I wanna put a picture of me and my boss Mr. Morgan up at the office.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, look at that. Picture of me, huh?  Candidate Cosmo Kramer caught barefoot in clubhouse.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, see, now I've been thinking a lot about what happened and I feel horrible.  Listen, I want to give you a ticket back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "What do think I tell Jerry everything? It's not like he's my wife.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carrie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a huge problem, Jerry.  The hardest part about having sex with a woman is getting her to come back to your place!  He's already got that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think I want to meet the people that are in the market for a used van.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohhh, OK, fine, fine, go ahead. But listen let me tell you something as soon as I get there I'm going to tell everyone what a jerk you are.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Alton",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well come on. That's $182 right there. I don't think that's anything to sneeze at.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

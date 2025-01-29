@@ -1,0 +1,106 @@
+{
+  "gameNumber": 82,
+  "date": "2025-03-25",
+  "questions": [
+    {
+      "quote": "Well, nothin's sexier than a woman behind the wheel of a semi.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Marla",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean the problem is that the good ones know they're good. And they know they're in such demand they're just not interested in confining themselves to one person.",
+      "characters": [
+        "Cynthia",
+        "Doctor",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "Good morning. Good morning. Good morning. Hi nice to see you. How are you. Good morning.  Good morning.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because. There was a lot of cake lying around the house. Just sitting there going with all the excess milk from all the experiments [grins]",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rabbi",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, I'll drive out here tomorrow and I'll show the I.D. I got nothing to do all day.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, what's happening with the TV show? You come up with anything?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I gotta meet Anna's parents today, remember? I look terrible! I'm gonna hit the tanning machines.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, listen, do me a favor. Set your mental alarm for 6:30 and gimme a call.",
+      "characters": [
+        "George",
+        "Driver",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I got three kitchens going. I got brisket going at Newman's, I got kugel working at Mrs. Zamfino's, this is kreplach. Here, try some of this.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Remember that New Year's party he threw a few years ago? He had that very drafty apartment, you know, I think on Ninth Avenue.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

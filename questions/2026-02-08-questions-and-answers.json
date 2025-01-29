@@ -1,0 +1,106 @@
+{
+  "gameNumber": 402,
+  "date": "2026-02-08",
+  "questions": [
+    {
+      "quote": "Not our \"all the way\", their \"all the way.\" I got the stink of responsibility on me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "As you will see, the candy bar is paid for, and yet, remains dangling in the machine.  Hey, it's gone. Where is my Twix?  What?! That guy's eatin' it!",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "George",
+        "Manny"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Well\"? We've been dating for three months. Between you and me, and.. anyone else you want to tell.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any ice cream. I always felt that-",
+      "characters": [
+        "George",
+        "Elaine",
+        "Man",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've never heard of anything like this. I mean, it's almost as if I was hitch-hiking and she says \"Well, this is as far as I can take you.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know the only reason I'm doing this is because you took Audrey to the hospital.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well you know in college they used to call me the little bulldog.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, it is so sad, all your knowledge of high culture comes from bugs bunny cartoons.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, actually, we did date for a while, but... it's really not relevant here.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, actually, he, um, doesn't really like to do... everything.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Leslie"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

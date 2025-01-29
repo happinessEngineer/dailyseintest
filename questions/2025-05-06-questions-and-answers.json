@@ -1,0 +1,106 @@
+{
+  "gameNumber": 124,
+  "date": "2025-05-06",
+  "questions": [
+    {
+      "quote": "'Maybe you know some little places to go, where they never close...'",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I mean, he was in the apartment, and then it's gone and it's in your apartment.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Can you believe someone would lie about chemotherapy to get a wig? Would you do that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're just like George. George'd do the same thing. You're just like him. It's amazing!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Ned",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, here's my shower routine. Maybe I can make some changes. Get wash cloth mittens and maybe some liquid soap, and just... -pop- focus!",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really? You never slipped one past the goalie in all these years??... Boy, I'm surprised. You've slept with a lot of women!",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Carrie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what?! She is talking about my shoes! She is discussing my shoes! It is nobody's business where I buy my shoes!",
+      "characters": [
+        "Kramer",
+        "Stu",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You start flirting with him and I'll come by and, while you're keeping him busy, I'll slip it in his drink.",
+      "characters": [
+        "Susan",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, thank you, Sid, but that's all in the past. I'm ready to move on.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

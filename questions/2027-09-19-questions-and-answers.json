@@ -1,0 +1,106 @@
+{
+  "gameNumber": 990,
+  "date": "2027-09-19",
+  "questions": [
+    {
+      "quote": "Hm, That's interesting. You know someone mentioned to me you were not very happy with your toys, growing up.",
+      "characters": [
+        "Monica",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Jerry! Listen, I need you to come downstairs, help me get my stuff outta the car.",
+      "characters": [
+        "Kramer",
+        "Emily",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry I'm so glad we switched apartments. It was a perfect solution.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't sell yourself short. You made all the flight arrangements, hotels, busses.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no no [Elaine enters, flossing teeth] Elaine what's the name of that friend of yours ... that's a therapist ... the woman.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they tend to give those jobs to ex-ballplayers and people that are, you know, in broadcasting.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She'll be fine. I gotta go to the hospital to see her tonight.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jack",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, those aren't for New Year's. Those are my everyday balloons.",
+      "characters": [
+        "Betsy",
+        "David",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why did I buy it, because in the mirror, at Barney's, I looked fabulous. This woman was just walking by said I looked like Demi  Moore in Indecent Proposal.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Which part? The renovating the restaurant you don't own part or spending the two hundred million you don't have part?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sally",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

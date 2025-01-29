@@ -1,0 +1,106 @@
+{
+  "gameNumber": 647,
+  "date": "2026-10-11",
+  "questions": [
+    {
+      "quote": "You know, my fingerprints are all over this. That doorman knows you're a friend of mine. He'll tell that co-op lady, she'll tell Mr. Pitt... Jerry, I'm in this too deep.",
+      "characters": [
+        "George",
+        "Daphne",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, how about skipping breakfast. I'm guessing you're not a 'half-grapefruit and black coffee' guy.",
+      "characters": [
+        "Bania",
+        "Julie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the bet!  Hello?... No- oh, hi...  no, they just left... Oh, my God... hang on a second. Maybe I can still catch 'em.  Ma! Ma! Up here! Don't get in the cab! Manya died! Manya died!!",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "Darren",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I really didn't pay much attention, I'd just come from buying a speedboat.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I threw my back out about 15 years ago. Ever since I have been very careful. I only buy furniture in the ergonomics store.",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "I don't need a personal trainer.  all right I've got to go, we'll talk about this later.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, we just got the final budget numbers. We went over budget on some of the items, but I don't think there's gonna be a problem.  I'll let you get back to work, George.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Nevertheless, sometime this afternoon, behind the Market Diner, an unmarked van will be waiting. I'm expecting the call at any time. Are you in?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Aaron",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Okay, Okay, I promise.  Wow!!! Oh Man...Oh God.. Oh Brother....Whoooaaaa!! Whoaaaa",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, c'mon. Would you just make the call?  Please, make the call.",
+      "characters": [
+        "George",
+        "Tony",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

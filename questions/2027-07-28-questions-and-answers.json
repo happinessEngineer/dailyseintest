@@ -1,0 +1,106 @@
+{
+  "gameNumber": 937,
+  "date": "2027-07-28",
+  "questions": [
+    {
+      "quote": "I guess you're right. It's just walking around putting it into boxes..",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "She's right, I heard Kramer got mugged out on the suburbs on a baby-sitting gig.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? I can't do this. I can't read books anymore; books on tape have ruined me, Jerry. I need that nice voice. This book has *my* voice. I hate my voice.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Doctor",
+        "Gina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe how easy it is. I'm virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I'm in the club.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you crazy? Don't you understand what I'm saying to you? This is not just an odour-- you need a *priest* to get rid of this thing!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because of the Giant game! I told you, It went overtime! You know what those seats are like. They're very unforgiving.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They're good around the house -- and they're good for outside.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah. They give you a tenderloin, a salad and a baked potato, for four-ninety-five. You know what that cost you after six?",
+      "characters": [
+        "Kelly",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I can do six weeks standin' on my head. I'm a sexual camel. That's not the point. At least there was the possibility.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I should probably get going too. If I don't feed Pequita by seven, she goes all over everything.. take it easy.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

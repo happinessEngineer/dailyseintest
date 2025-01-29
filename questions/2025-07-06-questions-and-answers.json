@@ -1,0 +1,106 @@
+{
+  "gameNumber": 185,
+  "date": "2025-07-06",
+  "questions": [
+    {
+      "quote": "One more peep out of you and I'll slice you up like a smoked sturgeon.",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Mohel",
+        "Jerry"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Slapping hands is the lowest form of male primate ritual. In fact, even some of them have moved on - they're doing sign language now.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, hey, hey! What's goin' on here?  You didn't agree to anything, did ya?",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Mike",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And the two and one pitch to O'Neill. A towering shot back to deep right field and it's gone.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Tv",
+        "Helen"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "Jerry, check this out.  Remember my idea about rickshaws in New Youk? Well, we're gonna make it happen!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I think that's the statue from my house. That looks like the statue from my house!",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Matthew, Luke, Paul\", what you're cheating on your conversion chest?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She knew I didn't have a job, she knew I lived at home. Didn't seem to bother her. I think I could have married this woman.",
+      "characters": [
+        "Ben",
+        "Jerry",
+        "George",
+        "Ed"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I didn't really tell Susan about it, and she doesn't really have anything else to do.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if you're just gonna throw it out, you know, I could take it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

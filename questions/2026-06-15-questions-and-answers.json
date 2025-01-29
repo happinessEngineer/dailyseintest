@@ -1,0 +1,106 @@
+{
+  "gameNumber": 529,
+  "date": "2026-06-15",
+  "questions": [
+    {
+      "quote": "Actually, the seat next to me was empty, so, there was no problem at all.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Sally"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "I used to share that same outlook. But now, I have so many things to occupy my mind. For instance, the atom.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, well, we, uh, we had to leave early. There was a, uh, slight monetary discrepancy regarding the bill.",
+      "characters": [
+        "Ed",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Great streak of luck I'm having.  First, Kramer almost beat me at Risk but I narrowly escaped, and then Tim Whatley gives me his Super Bowl ticket.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Susan"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Actually, you know I just remembered I promised this comedy club that I'd do a set tonight, so, terribly sorry.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Holly",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You've got a good eye, there. I see you've noticed the uni-body construction. I'm Rick. Are you looking to buy or to lease?",
+      "characters": [
+        "Salesman",
+        "George",
+        "Farkus",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Nobody can be in here for 48 hours, I got my parents in town.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Banker! So you're killing yourself because your dreams of becoming a banker have gone unfulfilled. You-you-you-you can't live without being a banker.",
+      "characters": [
+        "George",
+        "Gary",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, I'm getting rid of all my furniture. All of it. And I'm going to build these different levels, with steps, and it'll all be carpeted with a lot of pillows. You know, like ancient Egypt.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Russell",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, Jerry is going to be here any second, and then this line is going to start moving, and we're going to end up in the front row.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

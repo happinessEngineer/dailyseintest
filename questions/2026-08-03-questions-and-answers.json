@@ -1,0 +1,106 @@
+{
+  "gameNumber": 578,
+  "date": "2026-08-03",
+  "questions": [
+    {
+      "quote": "What's going on here? Gotta be her boyfriend, she's too good to be alone. What's the difference, I can't maneouver anyway with Elaine next to me.",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Have you noticed that women today are, you know, they seem...bigger.",
+      "characters": [
+        "Man",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, yeah...see, men don't care what's on TV, men only care what else is on TV.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm sorry, if Joe DiMaggio wants a donut, he goes to a fancy restaurant or a hotel. He's not sitting in Dinky Donuts.",
+      "characters": [
+        "Lippman",
+        "Susan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, sort of swing them, so your not lurching around like a caveman.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know Elaine, It is not my way to intrude on the personal lives of close fiends....",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, all over the place. Yeah, I'm a seat filler. They don't like to see empty seats on TV so when somebody gets up I just park my kaboos on their spot until they get back.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm really sorry George, I, I, I wasn't jealous of you. It was just the whole marriage thing.",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, uh, eighteen dollars, and there it is. There you go. So maybe we could get together this weekend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know how you're going to write all those shows. And where are you get all the ideas?",
+      "characters": [
+        "Estelle",
+        "Melissa",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

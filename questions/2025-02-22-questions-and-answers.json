@@ -1,0 +1,106 @@
+{
+  "gameNumber": 51,
+  "date": "2025-02-22",
+  "questions": [
+    {
+      "quote": "No. No. I'm gonna stay home. I want to be close to my home base in case there's any news from the front.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Harold"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I can't believe you're bringin' in an extra bed for woman that wants to sleep with you. Why don't you bring in an extra guy too?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Gary",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, nothing doing. Let's, you and me, play a game of straight pool.. hmm?",
+      "characters": [
+        "Joe",
+        "George",
+        "Kramer",
+        "Donna"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look just because Kramer vomited on her doesn't mean the deal is dead.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, you want to come down to Mario's Pizza with me and help me pick up the Frogger?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Marcelino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I like Anna Quindlen's column and Safire. Don't you like Safire?",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "George",
+        "Julie"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "OK Look, the gum isn't cutting it for me. We need to be about something else...anything..please.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Izzy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm tellin' ya' somethin' is goin' on. He never likes anything I recommend. And then that lunch thing.",
+      "characters": [
+        "Rick",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because your parents are going down there. My buffer zone just went from twelve hundred miles down to two feet! You gotta do something.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's not like I went across the street. I bought the Jujyfruit and I got in a cab.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ellen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 456,
+  "date": "2026-04-03",
+  "questions": [
+    {
+      "quote": "You're not a doctor. You shouldn't even have books like this.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Nikki"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a Twix! They're all Twix! It was a setup! A setup, I tell ya! And you've robbed it! You've all screwed me again! Now, gimme one! Gimme a Twix!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, my blood is not enough. Would you like a kidney too, because I'll give it to you? I'll rip it out right here and stack it on the table!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rava",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on, come on kitty... ooh...how about that; it worked! Wow, can I borrow that thing for a while?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't keep this up. Don't you know what's going to happen? Everytime you shave it, it's going to come in thicker and fuller and darker.",
+      "characters": [
+        "Poppie",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George likes them, he feels it's a good personality showcase. He likes a date to see him with a friend so she can get a window into his nondate personality.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's a big night. I'm, uh, ice skating with one, and going to a staged reading of \"Godspell\" with the other.",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, as much as I enjoy all the good-natured ribbing, nothing really makes me happier than spending money on the people I care about.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, he kinda moved his head, you know. It mighta been on the zip up, I dunno.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I want to get to know her from the inside. What is she like? Tell me about her.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Sandi"
+      ],
+      "correctAnswer": "Sandi"
+    }
+  ]
+}

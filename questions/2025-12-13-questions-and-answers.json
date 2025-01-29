@@ -1,0 +1,106 @@
+{
+  "gameNumber": 345,
+  "date": "2025-12-13",
+  "questions": [
+    {
+      "quote": "I can't believe you still do that. You know those things are bad for ya.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "Fred"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I'm enjoying it very much. I think my coworkers are really taking to me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jack",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, let me tell you something, \"A man without hand is not a man.\" I got so much hand I'm coming out of my gloves. I got to thank Kramer.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was, but the one I thought was Julie turned out to be Karen.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just want the both of you to know how much you mean to me, and I love you both very, very much.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I'm sorry, I require twenty-four hours notice for a cancellation. Now, as I see it, you owe me seventy-five dollars.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Peggy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, Yes. It worked. Sister Roberta I've still got time to catch her.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I can't begin to tell you how much I hate that commercial.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because she came down to the club and heckled me! Give her a taste of her own medicine!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'VE FOUND A HAIR!!! Yes  Hey, come here, come here ,take a look at this.",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1037,
+  "date": "2027-11-05",
+  "questions": [
+    {
+      "quote": "Move it, move it! Get those knees up! Come on, kick it, kick it!",
+      "characters": [
+        "George",
+        "Izzy",
+        "Gail",
+        "Rebecca"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "No, no, no. You gotta spend New Year's nineteen ninety-nine with me and Jerry.",
+      "characters": [
+        "Mel",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, I could've stayed home and ordered a pizza from Paccino's.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright Mr Seinfeld, we'll let you know if we find anything. I gotta be honest with you, these cases never end up well.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Detective",
+        "George"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "Are you kidding? People get spaces this good, they never give 'em up.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah! Well that's nice. I'm sure that's right up her alley.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He was a communist. Thick as they come. Like a big juicy steak.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Don't you know? Look-look at your face! You only shaved the right side of your face! What is this? A joke?",
+      "characters": [
+        "Karen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was trying to stick the landing.  ...was right around here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Ethan",
+        "Greg"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You see those tears streaming down you don't know what to do. It was like she was on fire and I was trying to put her out.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

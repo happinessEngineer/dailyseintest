@@ -1,0 +1,106 @@
+{
+  "gameNumber": 504,
+  "date": "2026-05-21",
+  "questions": [
+    {
+      "quote": "Oh yeah, she called a little earlier. She's coming over to check out lost and found.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "oh I don't think so, no we never met, I never talked to you before on the phone, alright I'll see you later buddy",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm trying to buy some of the clothes back.  Hey you wanna come over for dinner tonight? My mother made all this extra Paella.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You want to hear more? The master bedroom opens into the solarium.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Rick"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my God. I sent one to the super in my building. My mailman. My ten year old little nephew. Sister Mary Catherine. Father Chelios. Oh my God Fred! I sent one to Fred.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, come on, that's a huge feature. When they approach a new recruit, I'm sure that's one of the big selling points.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Those are my coats. I saved them, I stored them, I've been waiting years for this pay off.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "What has this guy got a personal vendetta with me?! What'd I do to him? 'Cos I asked him about the Knicks?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm just saying there's a chance she may not have been enamored with your thoughts and feelings on manure.",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh huh. Well how do I know what they look like on the inside? What do they look like on the outside?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Katie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

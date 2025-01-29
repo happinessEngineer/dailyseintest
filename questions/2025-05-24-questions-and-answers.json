@@ -1,0 +1,106 @@
+{
+  "gameNumber": 142,
+  "date": "2025-05-24",
+  "questions": [
+    {
+      "quote": "And, to be perfectly frank, I've always felt I could use some support. I know, when I'm wearing Banlon, there appears to be some jiggling.",
+      "characters": [
+        "Joyce",
+        "Jerry",
+        "Kramer",
+        "Farkus"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "And you can do everything with it. You can get e-mail, fax, there's a calculator.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've always been very fond of Estelle. Beautiful woman. I uh, I hope you don't think uh, this is out of line, but would it be okay with you, if I were to ask her out?",
+      "characters": [
+        "Frank",
+        "Waiter",
+        "Jerry",
+        "Farkus"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Well I've never actually done it but if I really wanted to I could probably get one from my friend Roy, the dentist.",
+      "characters": [
+        "George",
+        "Rick",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, they've got a cure for cancer. See, it's all big business. Oh hey, Jerry just walked in. Hi, George.  Yeah yeah yeah yeah take my number. 555-8643. Okay, here he is.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh God, you're that girl in the coffee shop that was eavesdropping on us. I *knew* you looked familiar!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think you're both mentally ill.  And by the way...they're real, and they're spectacular.",
+      "characters": [
+        "Sidra",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "So then about a year ago I started selling, these funky little hair clips. It's going pretty good. I make them in my apartment.",
+      "characters": [
+        "Kelly",
+        "George",
+        "Morty",
+        "Mike"
+      ],
+      "correctAnswer": "Kelly"
+    },
+    {
+      "quote": "Well what did you want her to do, you left it on the night table.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Harold",
+        "Doorman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. She was so beautiful, it was like a pure reflex. The words just came out of my mouth.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Elaine",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

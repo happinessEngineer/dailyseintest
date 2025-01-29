@@ -1,0 +1,106 @@
+{
+  "gameNumber": 913,
+  "date": "2027-07-04",
+  "questions": [
+    {
+      "quote": "Nothing doing. Jerry, I didn't do anything. It's the monkey that should be apologizing to me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Valerie",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll leave when the guy comes in. I gotta tell you, I am loving this yada yada thing. You know, I can cross over my whole life story.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. a-hu. What about you? Did people make fun of your name?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tawni",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told you I couldn't. The woman was crying about how she might never play tennis again",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, do you want to do this now, or do you want to wait until we get in the car?",
+      "characters": [
+        "Jerry",
+        "Wendy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's like a magic trick. Sometimes I think it would be easier to bend a spoon mentally than to make that transformation.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no. You go on ahead. I'm not finished taking this in. Oh, Jerry look ... Merv Griffin's cigar.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So three dates and she still won't let me play with her toys.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no Elaine, stay. Lubeck here is the world's foremost appraiser of vintage pastry.",
+      "characters": [
+        "Frank",
+        "Teller",
+        "Peterman",
+        "Conrad"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "No, it didn't. And you know why? Seeing the pilot in the audience really freaked me out.",
+      "characters": [
+        "Jerry",
+        "Willie",
+        "Kramer",
+        "Mohel"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

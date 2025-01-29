@@ -1,0 +1,106 @@
+{
+  "gameNumber": 30,
+  "date": "2025-02-01",
+  "questions": [
+    {
+      "quote": "No, I'm sorry. I can't hurt a dog. I can't hurt a dog. I can't.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I told you Mendy's had the best pea soup. The best Jerry, the best. Are you enjoying it?",
+      "characters": [
+        "Bania",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Why do people always say that? I hate everyone, why would I like him?",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Julie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I was thinking today. I never liked those Seinfelds anyway, he's an idiot all together.  Ah there's Kramer.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "No, last one. Listen, you gotta help me out. Elaine and Puddy just broke up, he's treatin' me just like a regular customer, now!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you never know.  Let's see how many I can fit in my mouth.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, yes. We shall all try a piece and tell you how delicious it is.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Leo",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello. Oh, hi mom.  What? Oh my... He didn't?! He couldn't!  Alright, I will.  Okay, bye.",
+      "characters": [
+        "George",
+        "Rebecca",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because even if you have  to go a little you'd better go now because you won't get another chance until way after take off.",
+      "characters": [
+        "George",
+        "Rita",
+        "Jerry",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "I still don't understand why we had to walk out on that movie.",
+      "characters": [
+        "Elaine",
+        "Julie",
+        "Mel",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

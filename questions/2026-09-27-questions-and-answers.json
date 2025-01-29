@@ -1,0 +1,106 @@
+{
+  "gameNumber": 633,
+  "date": "2026-09-27",
+  "questions": [
+    {
+      "quote": "Yes, flowers. I will get her flowers, I will go to the florist!",
+      "characters": [
+        "Elaine",
+        "Saleswoman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I sold raincoats in the garment centre for thirty-eight years. In nineteen forty-nine...",
+      "characters": [
+        "Laura",
+        "Morty",
+        "Kramer",
+        "Todd"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "That's not the point. You put me in a position where I had no choice.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, the lock was broken. You just have to jiggle it, actually. But, I just need like a half an hour to an hour.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Ellen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "About 2 days. Although he's hinting at how he'd like to stay. Fortunately he has no money, and no prospects.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm cheap? You think I'm CHEAP? How could you say that to me? I can't believe this. How could you say that to me?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, go in there and talk to her. She's not going to put 'em on the glass.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, that crazy straight-armed woman down at Peterman's trashed my office. And then listen to this; this is message she left me.",
+      "characters": [
+        "Fred",
+        "Vivian",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nah, with crutches it's a funny story, with a cane it's a sad story. You through with those?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Receptionist",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

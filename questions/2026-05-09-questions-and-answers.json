@@ -1,0 +1,106 @@
+{
+  "gameNumber": 492,
+  "date": "2026-05-09",
+  "questions": [
+    {
+      "quote": "That you had ice cream all over your face. They were talking about how funny you looked.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She put them in her pocketbook. I guess she took them with her.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Umm, I'm not actually going straight to home, I have to first stop at the eh...circus, you know with all the...clowns.",
+      "characters": [
+        "Darren",
+        "Sid",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, nothing, I just stopped by to chat, you know, shoot the breeze.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now, I'm aware that my own physical dimensions are perhaps a little short of perfection.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I made a conscious effort not to look. There's certain information I just don't want to have.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'd accuse you of cheating, but I don't know where you'd hide the tiles.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Dandruff, kasha, mothballs, cheap carpeting. It's pot pourri, really.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "In your laundry the whole time? I told you not to mix in our guys. What did we figure the damage on that machine would be?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Cop",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry I didn't get any sleep you kept kicking me in the face.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Announcer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

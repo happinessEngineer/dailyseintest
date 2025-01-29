@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1148,
+  "date": "2028-02-24",
+  "questions": [
+    {
+      "quote": "How can I figure out if there's any places to rent in Tuscany? Wait a minute. Poppy's from Tuscany. I'm gonna go call him.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's like going out with someone and you never hear from them again.",
+      "characters": [
+        "George",
+        "Driver",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And, you know, I do a lotta business with Japanese TV. They broadcast a lot of American baseball. They got an office here in New York!",
+      "characters": [
+        "Anna",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, where's the waiter. Dad, what say we have some red meat tonight. Let's live a little. .",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Rava",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, well, my father when I was a kid, he took me to the bank and he lifted me up and he pointed to the teller and he said: 'Sonny boy, take a good look at him, that's gonna be you some day.'",
+      "characters": [
+        "Jerry",
+        "Phil",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, she seems very happy. She met an old friend who used to live next door to her.",
+      "characters": [
+        "Sharon",
+        "Kramer",
+        "George",
+        "Nurse"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "Say, I happened to catch you coming out of Schindler's List the other night.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "iIs it? Or is it so possible your heard is spinning like a top?",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, I'm really sorry but I'm just on my way out to meet a friend.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, I sell the restaurant, uh? I just take it easy. See, if I get excited, 'ats aggravated my condition. The last time I got aggravated, was in the restaurant. With your friend.",
+      "characters": [
+        "Poppie",
+        "Betsy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Poppie"
+    }
+  ]
+}

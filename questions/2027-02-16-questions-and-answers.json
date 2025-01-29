@@ -1,0 +1,106 @@
+{
+  "gameNumber": 775,
+  "date": "2027-02-16",
+  "questions": [
+    {
+      "quote": "Jerry, have you ever seen the movie The Other Side Of Darkness?",
+      "characters": [
+        "Jack",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, on one hand he's smart with rockets and on the other hand he's dumb with parking. . . . It's cold out here huh?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, nothing. It's no skin off my hide if people like to look. I just didn't see what the big attraction was.",
+      "characters": [
+        "Peterman",
+        "Marlene",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Marlene"
+    },
+    {
+      "quote": "Oh, actually, I really prefer to sit here. I don't hear very well out of this ear  so, I always try to sit to the right of people.",
+      "characters": [
+        "Betsy",
+        "Newman",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "We've been trying to get it out of him for ten years. What is it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Jake"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry! I need you to get another picture of man-hands. I'm beggin' you!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know, what were you doing opening her medicine cabinet?",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hey, you know you gotta get permission from me. I'm the super. Who said you could do that?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Silvio"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "I will - don't worry.  In fact, I'll have her bring up a whole case of the stuff. It'll be really heavy. Let's see if she likes sitting on a plane with a big box on her lap!",
+      "characters": [
+        "Mickey",
+        "George",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

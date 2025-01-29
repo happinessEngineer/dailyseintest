@@ -1,0 +1,106 @@
+{
+  "gameNumber": 165,
+  "date": "2025-06-16",
+  "questions": [
+    {
+      "quote": "Well, we've thought about this in a variety of ways. But the basic idea is I will play myself-",
+      "characters": [
+        "Elaine",
+        "Nikki",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they were in from out of town, I thought they would enjoy it.",
+      "characters": [
+        "Aaron",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "All right! Hey, Elaine, Feldman was able to get us all tickets to the Bolshoi!",
+      "characters": [
+        "Kevin",
+        "George",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "Oh yeah. It's a warm and wonderful feeling, Jerry. So what are you doing later?",
+      "characters": [
+        "Jerry",
+        "Duncan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, don't you see? This world here, this is George's sanctuary. If Susan comes into contact with this world, his world's collide. You know what happens then?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you gonna do, you just gonna leave it here like this? Uh. I'm going upstairs.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Hal"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He never watched a door before, Mrs Payton, he didn't know how to do it.  You know, he's a comedian, Mrs Payton, they don't know how to do anything.",
+      "characters": [
+        "George",
+        "Leo",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I still don't know how you can call lunch with me a business expense.",
+      "characters": [
+        "Estelle",
+        "Salesman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, boy I was up to four in the morning watching the Omen trilogy.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Nurse"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohh, because he said that he had to talk with you earlier about some problem that you were having.",
+      "characters": [
+        "Susan",
+        "Brody",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

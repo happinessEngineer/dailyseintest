@@ -1,0 +1,106 @@
+{
+  "gameNumber": 840,
+  "date": "2027-04-22",
+  "questions": [
+    {
+      "quote": "Oh with all due respect, I went there too, and I work for a team that just won the World Series.",
+      "characters": [
+        "Kramer",
+        "Farkus",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Out.  Wow. I spend so much time trying to get their clothes off, I never thought of taking mine off.  Alright, Hey come on, get out of here, Dophne gonna be here any minute.",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I am gonna make good use of this! I'm watching every superbowl here, every big fight....",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Specifically 9:30 shows. Seen any good 9:30 shows at the Paragon, Willie?",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Lloyd",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm calling the shots around here so there won't be anymore ACCIDENTS!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I had the directions on the seat right next to me, they flew out the window.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Ed"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, have you noticed George is acting a little strange lately?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you hadn't mentioned anything, I would have been fine. I became obsessed with him.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're right, how did I miss that?  Maybe because it's a crock of shit.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What ever they had. Miranda thinks I'm a butcher but i-i-it's not my fault is it? Don't we have a deal with the pigeons?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Allison",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

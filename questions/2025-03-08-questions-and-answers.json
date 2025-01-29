@@ -1,0 +1,106 @@
+{
+  "gameNumber": 65,
+  "date": "2025-03-08",
+  "questions": [
+    {
+      "quote": "This Supreme Flounder, it says first time served in America. Is that true?",
+      "characters": [
+        "George",
+        "Bania",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I was just curious why you didn't use an exclamation point?",
+      "characters": [
+        "George",
+        "Noel",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it always has to be explained to me, and then I have to have someone explain the explanation.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! I don't have to take it off, why should I take it off? This is ridiculous!!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Teller"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey! That's my cirrhosis! He's stealing my cirrhosis!  You wanna be sick? I'll make you sick.",
+      "characters": [
+        "Mickey",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "No, that's not enough BTUs for my living room...That was a complete waste of time.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes well unfortunately you'll never get the chance to find out.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Of course, the uh, the four passes.  Four passes to Madison Square Garden? Wait a minute. Wait a minute! Of course! Chicago! The Knicks are playing the Bulls tonight!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That?s not the issue, we're friends, if I?ve got to be uncomfortable, you've got to be uncomfortable too!",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It all right if I keep these here for a while? I'm having a New Year's Eve party.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

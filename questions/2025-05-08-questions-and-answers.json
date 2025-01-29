@@ -1,0 +1,106 @@
+{
+  "gameNumber": 126,
+  "date": "2025-05-08",
+  "questions": [
+    {
+      "quote": "Some people like to have the radio alarm a little louder than the radio.",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "George",
+        "Stu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "At the time, I was employed as a security guard in the parking lot at the Garden Valley Shopping Mall.",
+      "characters": [
+        "Jerry",
+        "Guard",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Guard"
+    },
+    {
+      "quote": "Yeah. Well, actuall today was the first day I worked out since the Central Park Mini-Marathon.",
+      "characters": [
+        "George",
+        "Conrad",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It does itch. Maybe I will go down at Kruger and talk to her.",
+      "characters": [
+        "Alec",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I'm here to pick up my new plates. My name is Kramer. Cosmo Kramer.",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Gary",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm sure he's having a good laugh over this with his doorman buddies.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's not necessary.  You know, maybe it's not that bad an idea.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "C'mon, go for twenty-five hundred. We'll do it together. Come on, come on. We're in it together.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Mike",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You ever see what that thing looks like in the back? You got your natural little curls on the bottom, and then that big phony mat coming down on top of 'em.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Please, sit down. Newman, um, I wanted to talk to you about something.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

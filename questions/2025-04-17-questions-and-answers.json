@@ -1,0 +1,106 @@
+{
+  "gameNumber": 105,
+  "date": "2025-04-17",
+  "questions": [
+    {
+      "quote": "You know uh, Valerie, I uh, couldn't help but notice that I'm on your speed-dial.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, thanks a lot for letting us stay here, Steve, I really owe you one.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this guy, he's like a cat burglar. He thinks if he goes through real slow the machine won't detect him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bookman",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He is filing a chapter eleven. Why, what's going on, why is he filing a chapter eleven?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Objection, Your Honor! This is completely inappropriate! My clients' medical condition is not on trial here! I refer you to the Disability Act of 1990.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Chiles",
+        "Kramer"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "hmm where is Jerry sitting? he's supposed to be here tonight with his new girlfriend I'm dying to see what she looks like",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They're reorganizing the staff, and I'm on thin ice with this guy as it is.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. No, no, no.  We're staying on me. We haven't solved anything yet.",
+      "characters": [
+        "Jerry",
+        "Dana",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That condom killed me. Why do they have to make the wrappers on those things so hard to open?",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cleaver, I once had cleaver as a kid. I was able to lift a car.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sid",
+        "Enzo"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

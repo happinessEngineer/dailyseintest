@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1077,
+  "date": "2027-12-15",
+  "questions": [
+    {
+      "quote": "Yes, I think I'm sponge-worthy. I think I'm very sponge-worthy.",
+      "characters": [
+        "George",
+        "Billy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Billy"
+    },
+    {
+      "quote": "Yeah, I made a map of my shortcuts. I'm gonna rock their world!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, thanks.  Yeah, it's got the magic grip. How d'you think I bowled that two-twenty today, huh?  Yo! Where did this come from?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, lemme ask you a question. What if I got a cup of coffee with her?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jeannie",
+        "Darryl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you oughta go down there and help him out. He's a widower.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Hanke",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You like that, huh? I had that custom made for me in Santa Fe.",
+      "characters": [
+        "Lippman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Well, this will really free up my time so I can focus on more important things, like my bladder system.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really , like a... like a.... Jerry, I want to slide my tongue around you like a snake.....Ooooooooooha ,oooooohaaaa.....",
+      "characters": [
+        "Peterman",
+        "George",
+        "Ramon",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh...yeah. I got my new plates. But they mixed them up. Somebody got mine and I got their *vanity* plates.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Latham, Massachusetts. Why don't you take a cab into town, get yourself something to eat. I got your beeper number - I'll beep you as soon as we're ready.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Captain"
+      ],
+      "correctAnswer": "Captain"
+    }
+  ]
+}

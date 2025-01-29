@@ -1,0 +1,106 @@
+{
+  "gameNumber": 905,
+  "date": "2027-06-26",
+  "questions": [
+    {
+      "quote": "Oh well there's a bathroom in the coffee shop just next door.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ed",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Me, either. Wait a second. Wait a second. Maybe it's that yogurt.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry, it was my aunt's birthday and she makes such a big deal about it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Michael",
+        "Cheryl"
+      ],
+      "correctAnswer": "Cheryl"
+    },
+    {
+      "quote": "Well it's all taken care of. I filed a report. An investigation is underway.",
+      "characters": [
+        "Elaine",
+        "Matthew",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Hmm. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well...there's no logical explanation. All right. Well, shall we go home?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahahaha. Well that's the positive thing about getting sick, you get to lose weight.",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Okay... well thanks a lot... sorry again about you and the Drake...",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well what do you think? They put the statue on a giant raft and a tugboat pulled it all the way from France?",
+      "characters": [
+        "Kramer",
+        "Ed",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And you must....look exactly like Jerry. You don't see this; you're like twins .. WOoooohhhhh!!! this is eerie.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

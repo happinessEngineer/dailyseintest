@@ -1,0 +1,106 @@
+{
+  "gameNumber": 896,
+  "date": "2027-06-17",
+  "questions": [
+    {
+      "quote": "Well, everything's goin' great except, basically, I'm payin' for sex.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Carl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Too bad, 'cause you gotta have the affection - which you obviously have. I think it's great that you're so open with your affections in public. See, we had that.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to say, as a glasses wearer I take exception to that. That's like me buying a wheelchair to cruise around in.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You got your own shampoo, conditioner, body lotion! Jerry, body",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Glenn",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't take my eyes off that lineswoman. The woman is absolutely mesmerizing.",
+      "characters": [
+        "Karen",
+        "Newman",
+        "Poppie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey you know what? I have access to one of the most deceitful, duplicitous, deceptive minds of our time. Who better to advise me?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Joyce"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If she doesn't show up, we can't possibly have dinner with him alone.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aah! .. right. The ones from Oregon that are only ripe for two weeks a year..",
+      "characters": [
+        "Elaine",
+        "Ben",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am going to Montreal tomorrow and they sell them dirt cheap.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Todd",
+        "Elaine"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Brody, c'mon. He's just kidding. He's a joke maker. Tell him, Jerry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

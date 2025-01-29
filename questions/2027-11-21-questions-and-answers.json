@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1053,
+  "date": "2027-11-21",
+  "questions": [
+    {
+      "quote": "Lo..k, if you want to taste mine, you don't have to offer me some of yours.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, I've been known to drink a beer or two. But then again, I've been known to do a lot of things.  Cigarette?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bob",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right! All right. I'll tell you what. How about this? Got the date; March 21st, the first day of spring.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. It's just the last coupla days my mind has been, not good.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well, Mr. Pitt, there's really nothing that can't wait. We're trying to catch a movie.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So it's like going to Idhao and eating carrots. I like carrots, but I'm in Idhao, I want a potato.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sophie",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Once again, I just want to say how sorry I am about the other night.",
+      "characters": [
+        "Elaine",
+        "Meryl",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is amazing.  Thank you. Thank you very much. . . . I'm going back in! . . . You'll feel better",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay... but there's no cake or anything, if that's what you're looking for.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Conrad",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, do you realize what's going on here? Do you know why you're here?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

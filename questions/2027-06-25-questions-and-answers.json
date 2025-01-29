@@ -1,0 +1,106 @@
+{
+  "gameNumber": 904,
+  "date": "2027-06-25",
+  "questions": [
+    {
+      "quote": "You want me to roll six thousand of these?! What, should I quit my job?!",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's not a novelty act, George. Where you hire her out for weddings and bar mitzvas.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George?  I don't have a lot of experience with this acting stuff. But from what I can gather, they're a little touchy about being told how to say the lines.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're on a different flight. They're scheduled to land in a half hour, only at Laguardia.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me, I've got a maniac stalking me, I'm not staying in the city.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Glenn"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, yes, I definitely waited. But let me say this: Once he passes on that option, that 'God bless you' is up for grabs.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Winona"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, they should've taken care of Castro when they had the chance. Like we did in Guatamala in 'fifty-three.",
+      "characters": [
+        "Leo",
+        "George",
+        "Pam",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "Ah. You see, the man who was the butler, uh, had gotten into a car accident with Jerry, and because he didn't have any insurance, the judge decreed that the man become Jerry's butler.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess I've been hanging on to them for so long cuz i couldn't accept the fact that Dad was really gone forever",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Father",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was on CNN  This Chinese doctor Zeng Zau. has discovered a cure for baldness.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

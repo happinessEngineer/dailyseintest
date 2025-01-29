@@ -1,0 +1,106 @@
+{
+  "gameNumber": 952,
+  "date": "2027-08-12",
+  "questions": [
+    {
+      "quote": "Tomorrow is his birthday and it would mean so much to him if you could find it in your heart ta' pay him a visit and, just say hello.",
+      "characters": [
+        "Elaine",
+        "Silvio",
+        "Mel",
+        "Kramer"
+      ],
+      "correctAnswer": "Mel"
+    },
+    {
+      "quote": "No, I actually find you quite charming. A bit verbose at times...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know, Jerry, just because George and I don't see each other anymore, it doesn't mean we shouldn't stay friends.",
+      "characters": [
+        "Kramer",
+        "Marlene",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Marlene"
+    },
+    {
+      "quote": "Ohh, I have tremendous respect for people who work with feet. I mean, to dedicate yourself to the foot - you're toiling in virtual anonymity. I mean..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "because she puts up such a big stink every time I have a piece of meat.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "This woman he's dating is making him take this IQ test for this course.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no no no no, this has to be carefully orchestrated. You go to a fancy dinner, flowers...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I look just like him. I. Me.  This! This is what her boyfriend looks like. How is that possible?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, guess what I'm doing. I'm going to Mr. Pitt's, and I am telling him that I am quitting.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm going down to that garage and telling him to stop doing it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bonnie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

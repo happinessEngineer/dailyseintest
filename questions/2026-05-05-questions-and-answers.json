@@ -1,0 +1,106 @@
+{
+  "gameNumber": 488,
+  "date": "2026-05-05",
+  "questions": [
+    {
+      "quote": "As much as I'd like to see the two of you living it up in a warm, tropical, setting, I, I would just miss you too much.  So, I've decided, I want you to stay.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you know there is an unusual number of people in this country having sex with AMPUTEES!  . . . Penthouse forum, newspaper, gum, Clark Bar.",
+      "characters": [
+        "George",
+        "Detective",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "In every situation. No matter how silly I look.  Hm.. tastes a little funky.",
+      "characters": [
+        "Jerry",
+        "Darryl",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry lives in New York. You just came from New York, didn't you?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Tim",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Listen Sheila it's not what you think. I put my trust into the wrong person. He said the key word was tasteful.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't come out. They're standing right by the door. Throw it up!",
+      "characters": [
+        "Elaine",
+        "Sally",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Federal Express? Come on up. . . . Federal Express. I'm not expecting a package.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I want to see if there's anything I can do.. maybe get him another job.. maybe I'll hear of something.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh no no no no, don't say anything to Kramer. Susan can't stand him. He vomited all over her.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Craig",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "MOOPS? LET ME SEE THAT. THAT'S NOT MOOPS YOU JERK, IT'S MOORS. IT'S A MISPRINT.",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "Kramer",
+        "Donald"
+      ],
+      "correctAnswer": "Donald"
+    }
+  ]
+}

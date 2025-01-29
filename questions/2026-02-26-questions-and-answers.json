@@ -1,0 +1,106 @@
+{
+  "gameNumber": 420,
+  "date": "2026-02-26",
+  "questions": [
+    {
+      "quote": "It's the Leonard Christian article about my show. Plus my gig in Miami got cancelled, I betcha it's because of the article.",
+      "characters": [
+        "George",
+        "Clare",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, this is not a crush. This is a complete fixation. he makes me very uncomfortable.",
+      "characters": [
+        "Elaine",
+        "Frankie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't see how I could perform sexually in a situation after something like that. I was completely emasculated. Anyway, it's not the only reason.",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, me too. Well, I've been waiting out two or three marriages, but this is the one I really had my eye on.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's embarrassing for them. It's painful for us to watch. I'm going out with someone later, I'm not even taking her out of the house.",
+      "characters": [
+        "Jerry",
+        "Ralph",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Would you grow up, George?! What is the difference? Nina slept with him , he slept with me, I slept with Pinter. Nobody cares! It's all ancient history.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey hey Kurt, slow down! I can't just marry you, whim-bam-boom! I mean, I need some \"fiance-time,\" I need some \"make-my-girlfriends-jealous\" time...",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Bookman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know! I'm gonna go and visit him later.  It would be nice if you got him something.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, I can't eat that. You can't eat a sandwich without Dijon.",
+      "characters": [
+        "Announcer",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, maybe you should try again. You know what happens the first time: people are a little shy, a little reticent.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

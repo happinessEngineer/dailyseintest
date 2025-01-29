@@ -1,0 +1,106 @@
+{
+  "gameNumber": 634,
+  "date": "2026-09-28",
+  "questions": [
+    {
+      "quote": "No, your mother found it. Son, this is the most wonderful and thoughtful thing you've ever done for me.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Not impolite...it's stupid, that's what it is. You gotta be stupid to do something like that!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah. This looks right. All right. Give me the dog. Okay, boy. This is it. This is your new home. Let go of my shirt. Come on. Let go of my shirt. This shirt is from Rudy's.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not pulling a shopping cart. What, am I suppose to wear a kerchief? Put stockings on and roll 'em down below my knee?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Interesting. She doesn't care for you, then a stern warning, suddenly a phone call. Seems Elaine's made you the bad boy. And Anna digs the bad boy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was all an act, Jerry. They conned us, and they scored, big time.",
+      "characters": [
+        "Pam",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't understand this. Why wouldn't you want to get something that's better if I'm telling you it's better? And it's not a little better - it's much better.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And everything else has changed. But toilet paper is exactly the same, and will be so until we're dead.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not so fast, Elaine! Only the bike's true owner would rather give it away than see it come to harm. Kramer, the bike is yours!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Keith"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "\"A donation has been made in your name to the Human Fund.\" - What is that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

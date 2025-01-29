@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1064,
+  "date": "2027-12-02",
+  "questions": [
+    {
+      "quote": "Well by now, you think people would be a little more open minded.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...When you pierce the skin of a piece of fruit, you've bought the whole fruit. Not a third of an apple, not a half of a banana...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, so she and \"Triangle Boy\" can go out to fancy restaurants.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, I'm just saying you didn't really go to medical school, you went to podiatry school. Which I'm sure is very grueling in it's own way.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's no watch ... I threw it in the garbage can on the street. It didn't keep good time. My parents gave it to me, but I didn't like it.  So don't mention it again, okay!",
+      "characters": [
+        "Donald",
+        "Kramer",
+        "Phil",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "First of all, you're not even supposed to have Elaine's keys. You're supposed to give 'em back to her, so she can give 'em back to me, because she has mine. So technically, those are my keys.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't care. Look, Lloyd doesn't know what he's up against. This is nothing to me.  My whole life is a lie.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a trick I just learned from Kramer. It keeps a crease in the pants.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm trying to get out of this Big Brother program. So when you get to Paris  all you have to do is drop 'em in any mailbox.",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "George",
+        "Glenn"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Elaine. The toll road of denial is a long and dangerous one. The price? Your soul. Oh, and by the way, you have til' 5:00 to clear out your desk. You're fired.",
+      "characters": [
+        "Wilhelm",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

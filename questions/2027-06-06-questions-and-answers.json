@@ -1,0 +1,106 @@
+{
+  "gameNumber": 885,
+  "date": "2027-06-06",
+  "questions": [
+    {
+      "quote": "Oh yeah.  There you go, keep the change. Bye now. I'll see you.",
+      "characters": [
+        "Elaine",
+        "Jake",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, and here it is: You get your toilet book out of here, and I won't jump over this counter and punch you in the brain!",
+      "characters": [
+        "Rebecca",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "Elaine, she's a psychic. She knows how the kid's going to be.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Tina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah. Exercises every muscle in the body. It's great for the back.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well now it's not gonna be original! It's gonna lose all its cachet!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Like you this donation for 50 bucks and I'd start tearing my clothes off?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know it's not what the ladies like. But without some solid sack time, I'm a zombie.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I lugged that table. That big heavy massage table all the way down to the cab! You ever seen one of those things?",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So now you're going to tell me what I'm thinking. Well, go ahead, 'cause I'd really like to know.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Lisi"
+      ],
+      "correctAnswer": "Lisi"
+    },
+    {
+      "quote": "\"JIM....JIMMY WONT FORGET YOU KRAMER... JIMMY HOLDS GRUDGES. LET JIMMY GO......\"",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jimmy"
+    }
+  ]
+}

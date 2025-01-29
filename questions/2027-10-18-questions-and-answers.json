@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1019,
+  "date": "2027-10-18",
+  "questions": [
+    {
+      "quote": "I don't know. We got into this whole thing about how podiatrists aren't real doctors.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Brody",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no no no. He's deeply in love, and I was just about to break up with her when she told me.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if she's available now, I'm not gonna let her slip through my fingers this time. Nooope.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Jerry. You know who the grand marshal is of this thing? None other than Miss Chita Rivera.",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Urgh.. these are so cheap.  And don't forget tommorrow we're going shopping for some rings, so don't make any plans...and this time we're not skimping.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, excuse me.    What have you been doing, I've been smacking myself senseless.  People think I'm a mental patient.",
+      "characters": [
+        "Elaine",
+        "Attendant",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what's insane: the price that I could get you on a new desktop computer.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Naomi",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Leslie, sometimes the road less travelled is less travelled for a reason.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why do they call it Ovaltine? The mug is round. The jar is round. They should call it round tine. That's gold, Jerry! Gold!",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Tonight I want you to sleep on this. Toughens the vertebrae.  What in holy hell? Sausages? Is this your diet?",
+      "characters": [
+        "Izzy",
+        "Doctor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Izzy"
+    }
+  ]
+}

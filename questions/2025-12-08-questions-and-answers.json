@@ -1,0 +1,106 @@
+{
+  "gameNumber": 340,
+  "date": "2025-12-08",
+  "questions": [
+    {
+      "quote": "You look like you're in better shape than Neil. Do you work out?",
+      "characters": [
+        "Danielle",
+        "Jerry",
+        "George",
+        "Todd"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "No, that's my only suit. It cost me 350 dollars. I got it at Moe Ginsburg.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Phil",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what, let's go to that mall in Liberal before we go to the party. We'll have to take your car, it's got the most room.",
+      "characters": [
+        "Manager",
+        "Bania",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "People don't say \" God bless you \" as much as they used to. Have you noticed that?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What are you gonna do? Badger a pregnant woman at her own baby shower?! What are you, gonna take it off and make her rinse it in club soda?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Helena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, what am I looking at here? Twenty-nine hours to go. Well, at least I got plenty of time to find out the name of that perfume...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Detective",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Or I could sleep in the park? You could knock these walls down, make it an eight room luxury suite.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Poppie",
+        "Fdr"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, you said the one in the second courtyard. He was in the second courtyard.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Newman",
+        "Wendy"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to punish you!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you know what happens with larvae hatch, they-they're everywhere.",
+      "characters": [
+        "Elaine",
+        "Sidra",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

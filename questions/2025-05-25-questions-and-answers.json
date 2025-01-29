@@ -1,0 +1,106 @@
+{
+  "gameNumber": 143,
+  "date": "2025-05-25",
+  "questions": [
+    {
+      "quote": "Yeah, that girl I was gonna call for a date, she was unlisted...and now here's her number.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Marlene"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Come on. I mean, think about it. He's engaged to be married. Your top priority is soup.",
+      "characters": [
+        "Elaine",
+        "Levitan",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you're basically a doctor. Right? I mean, people do call you doctor.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ellen",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If you read the agreement you signed the deposit is not refundable.",
+      "characters": [
+        "Levitan",
+        "Elaine",
+        "Attendant",
+        "Kramer"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Behold! The Games of the '84 Olympiad! Katya's silver medal performance!",
+      "characters": [
+        "Patty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I played with him every day until the age of four - and then we separated.",
+      "characters": [
+        "George",
+        "Helen",
+        "Stu",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "...when you're done George, and bring it directly to me. Mr Steinbrenner is very interested in this.",
+      "characters": [
+        "Rabbi",
+        "Newman",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "If I'm curt, then I appologize. But as I understand it, we have a situation here and time is of the essence.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, I happened to be eating at Poppie's when I told him the \"old\" idea, and his eyes - waaaaaah! - just lit up. You know, he wants to back it.",
+      "characters": [
+        "Jimmy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Aw c'mon. It's a fantastic name. It's a real original, nobody else is gonna have it and I absolutely love it.",
+      "characters": [
+        "Bookman",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

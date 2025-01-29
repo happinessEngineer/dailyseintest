@@ -1,0 +1,106 @@
+{
+  "gameNumber": 802,
+  "date": "2027-03-15",
+  "questions": [
+    {
+      "quote": "Hey. Oh, Jerry, listen uh, you know, I saw the rest of that movie, The Other Side Of Darkness? The coma lady wakes up at the end.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Toby",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You need some new material. I've heard you do that dog routine three times already.",
+      "characters": [
+        "George",
+        "Leo",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "You never support me! Let's see what George says about this.. Where're my pants?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Dana",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Because he thinks I was lying and I want to show him I wasn't.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, guess what?  I'm going to the Super Bowl with Tim Whatley.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why does it always seem like I'm the only one working at this break-up?",
+      "characters": [
+        "Susan",
+        "George",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, here, uh, why don't you give us a call and maybe we can develop a series.",
+      "characters": [
+        "Stu",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Oh, listen, Jerry. One of your friends came by and he was very upset that I had your wheels.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Am I fearing AIDS? Oh, yeah sure, who isn't. But you know you gotta live your life.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, honey, I know you're trying to get Lloyd to notice you, but this is too much. Parading around in a wet T-shirt.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

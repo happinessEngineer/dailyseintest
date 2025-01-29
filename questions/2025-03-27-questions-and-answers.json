@@ -1,0 +1,106 @@
+{
+  "gameNumber": 84,
+  "date": "2025-03-27",
+  "questions": [
+    {
+      "quote": "I lost my voice screaming at this thing. I can't sleep. I can't work. I mean, I just moved. I can't move again. What am I gonna do? What? What am I gonna do?",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Vermont!  With any luck, they said we could stay an extra couple of days if we want to!  Four days at a beautiful bed-and-breakfast! I can't wait.. buy-bye.  What?  What is this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you'll never guess who I bumped into. This guy Clyde. He's in your friend John Germaine's band there.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, look at me. Now I GOTTA FIGURE OUT THE HAT SIZES OF 59,000 DIFFERENT PEOPLE!! WHAT IF A PINHEAD SHOWS UP. I GOTTA BE ON TOP OF THAT.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it didn't quite work out, and now I've got nothing for them to do.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, killed. Because I killed first and warmed up the crowd. He's like that fish that attaches himself to the shark.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait.. Oh my god...Oh yeah....Elaine , I can't believe that that is you.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "George",
+        "Christie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, alright, I'm sorry.  Nothing's changed, Alma, I just need more time.",
+      "characters": [
+        "Russell",
+        "Tim",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, thanks for having me back, and sorry about the misunderstanding.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't know. I may never marry. It might be the closest I get.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jake",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

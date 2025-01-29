@@ -1,0 +1,106 @@
+{
+  "gameNumber": 811,
+  "date": "2027-03-24",
+  "questions": [
+    {
+      "quote": "Honesty, hard-work, these are the values that I was raised on. The most important thing Joey, is to be able to look yourself in the mirror before you go to sleep at night.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Actually, the only place she always looked good was in that back booth over there.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, so, now, is there anything else I need to know about this place?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No I don't! In fact, if even one corpuscles of that blood should find it's way across that hall I will freak out on you Kramer! Freak out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That book has been on a wild ride. George took it into the bathroom with him and-",
+      "characters": [
+        "Jane",
+        "Sylvia",
+        "Darren",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Who am I going to meet who is better than her? No one, Jerry. No one's better than her.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, listen, I want you to ask Gail to do me a favor. The next time Russell Dalrymple comes in the restaurant, ask her if she would call me.",
+      "characters": [
+        "Katya",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that ending was *so* obvious. I would have figured it out anyway. I didn't need you to tell me that stupid twist.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Look. Kevin. I really like you, heh, heh, uh. But, um, maybe we'd be, better off just being.. friends.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, oh yeah. I've heard of him. He's that \"Did you ever notice this? Did you ever notice that?\" guy.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

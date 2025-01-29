@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1054,
+  "date": "2027-11-22",
+  "questions": [
+    {
+      "quote": "I'm sitting at home, reading a periodical, and this is the call I get? My son is a bootlegger?",
+      "characters": [
+        "George",
+        "Gina",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ah, listen ah, I don't mean to bother you but ah, silly me, I- I think I may have left my hat in your apartment. So ah, I thought I'd just come by later and pick it up.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, I really appreciate your coming, but if you wouldn't mind - try not to say too much.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not paying for this. If you were going out with her, it'd be a different story.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do I gotta call him for? I thanked him five times when he gave them to me, how many time I gotta thank him?",
+      "characters": [
+        "Rudy",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, where's your new jacket?  What?  Ohhh. What did you do to it?",
+      "characters": [
+        "Doorman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If you think I'm looking for someone to just sit at a desk pushing papers around, you can forget it. I have enough headaches just trying to manufacture the stuff.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, that's it for me. You've been great. Goodnight everybody.",
+      "characters": [
+        "George",
+        "Marlene",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't believe this. I am not looking up if you're going to do that voice.",
+      "characters": [
+        "George",
+        "Woman",
+        "Elaine",
+        "Clare"
+      ],
+      "correctAnswer": "Clare"
+    },
+    {
+      "quote": "I got news for you. Golda Meir could make 'em all run up a tree.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Captain",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

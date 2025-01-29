@@ -1,0 +1,106 @@
+{
+  "gameNumber": 60,
+  "date": "2025-03-03",
+  "questions": [
+    {
+      "quote": "No, no. Vincent, I... Don't shut me out.  I just, I know you feel what I feel.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Parents never forget a foul-up. I once left a jacket on the bus when I was fourteen. Last week I'm flying to Chicago to do a show, \"Make sure you hang on to your jacket.\"",
+      "characters": [
+        "Vandelay",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Everything. The shirts, pants, sport jackets, pajamas. We could get eighty hooks on here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Marla",
+        "Elaine"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Well good, good. Take it off you're going to wear it out already. It's for special occasions this thing.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I know when I'm a little strapped, I sometimes drop off my rent check having forgotten to sign it. That could buy us some time.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, somehow the Bronzo  is reacting to the poison she's giving you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Carl",
+        "Rachel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, it's been awful. I wanted to tell somebody.  Help me Kramer! Help me!",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No , no no no no. Weddings are a great place to meet chicks. I have to be unfettered.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I can't go to a bad movie by myself. Who am I gonna make sarcastic remarks to, strangers? Eh, I guess I'll just go to my uncle's.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, someone's been cashing the checks and you're overdrawn.",
+      "characters": [
+        "Voice",
+        "Jerry",
+        "George",
+        "Babs"
+      ],
+      "correctAnswer": "Voice"
+    }
+  ]
+}

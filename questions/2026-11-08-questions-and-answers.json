@@ -1,0 +1,106 @@
+{
+  "gameNumber": 675,
+  "date": "2026-11-08",
+  "questions": [
+    {
+      "quote": "Sex... to save the friendship.  Well, if we have to  we have to.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it's our sense of humor that sustained us as a people for 3000 years.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tim",
+        "Man"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Mister Peterman, thanks for having me over. Your place isn't quite what I imagined..",
+      "characters": [
+        "Jerry",
+        "Phil",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do the medical journals mention anything about standing in a pool of someone else's urine?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey that sounds great, I'd love to do some TV commercials, that should really be fun.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, don't press the panic button. I'm sure that we can still salvage some sauce..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A sitcom? How can you write that crap? Carol, this guy's writing a sitcom.",
+      "characters": [
+        "Woman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Don't you know you're not supposed to poke around down there.",
+      "characters": [
+        "Kramer",
+        "Greg",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know, I guess it was on. I don't know my alarm sound; I'm not tuned in to it like it's my son.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, nothing really, as long as we get the physical therapist to go along with our story.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Roy"
+      ],
+      "correctAnswer": "Roy"
+    }
+  ]
+}

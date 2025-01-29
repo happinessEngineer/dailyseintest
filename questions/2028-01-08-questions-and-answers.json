@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1101,
+  "date": "2028-01-08",
+  "questions": [
+    {
+      "quote": "Did you see the homeless guy on the library steps screaming obsenities and doing some calesthetics routine",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A big long scar where her leg would dangle when she's riding a...?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Jerry, I'm sorry, I'm uh- you have insurance, right buddy?",
+      "characters": [
+        "Tony",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who, who, who do you think would win in a fight between me and ah, gorgeous George here.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Joe Mayo doesn't like my taste in music. He's not gettin' a gift from me.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This hat just bottles in the heat, I -I don't even need a coat! It's unbelievable!",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, how about the next time your car breaks down, you take *that* out of town.",
+      "characters": [
+        "Jerry",
+        "David",
+        "Newman",
+        "Lippman"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "What the hell he's supposed to be on medication I don't understand he told me he's getting medication what happened to his medication!?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Pam",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, where are those invitations you were supposed to get? If they don't go out today they're useless.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "George",
+        "Lanette"
+      ],
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "You know I was supposed to see this five years ago. I was in a Chinese restaurant with George and Elaine and got all screwed up trying to get a table and I missed it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1065,
+  "date": "2027-12-03",
+  "questions": [
+    {
+      "quote": "Jill, hi, it's Elaine. Well, I'm calling from my home. Indoors. Well, I was just calling to see how your fa.. I'm sorry, I'm getting another call. Hang on just a second. Hello?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I can't I gotta watch Farfel, you and George can go without me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, shut up, Jerry. My parents think they can ignore me. Heh heh. Well, they better think again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm starving. You got any of those free donuts you use to soften people up?",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen. You're beautiful. You're intelligent. You'll meet other girls...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Vivian"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Pretentious? Who, who isn't pretentious? Ha, ha, if everyone who was pretentious was in a mental institution, ... uh, obviously THIS isn't a mental institution.",
+      "characters": [
+        "George",
+        "Buckles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I was under the impression that I could take anything I wanted from your fridge, and you could take whatever you want from mine.",
+      "characters": [
+        "Jerry",
+        "Alec",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now are you just sayin' you want to have fun or do you reallllly want to have fun?!",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Rick",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, 'don't hang around and let your troubles surround you. There are movie shows...'",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. Cinqo de Mayo.  Yeah, Marcellino, he turned me on to it, and he's one sixty-fourth Mayan.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

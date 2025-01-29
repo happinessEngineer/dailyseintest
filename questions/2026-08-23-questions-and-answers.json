@@ -1,0 +1,106 @@
+{
+  "gameNumber": 598,
+  "date": "2026-08-23",
+  "questions": [
+    {
+      "quote": "So, why don't you just try your blow-off number and see if he's called it?",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No-one's gonna have a better gift than this big screen TV! Good for them, love the Drake!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Conrad",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have no power Do you understand? I need hand. I have no hand.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Alec",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The guy who had the Hawaii transfer got busted for hoarding Victoria Secret catalogues. I gotta deliver that mail!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "This is a crude mock-up of the conference room. 1/14th scale.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Debby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, why would you call someone up and ask them for two addresses if you're not invited to the party?",
+      "characters": [
+        "George",
+        "Levitan",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah yeah. Well uh, you know, I'd invite you in, but uhm... you know.",
+      "characters": [
+        "Kramer",
+        "Evelyn",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. I sent one to everyone I know. Remember my Christmas card.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh I'll tell you how it's looking. My lawyer Jackie says if there is one coffee drinker on that jury,  I'm gonna be a rich man.",
+      "characters": [
+        "Landis",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Seems like you're better at fake relationships than real ones.",
+      "characters": [
+        "Guard",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

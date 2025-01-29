@@ -1,0 +1,106 @@
+{
+  "gameNumber": 394,
+  "date": "2026-01-31",
+  "questions": [
+    {
+      "quote": "I'm gonna go meet Danielle.  There's a new Neil in town!  Hahaha!",
+      "characters": [
+        "George",
+        "Jackie",
+        "Kramer",
+        "Melissa"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a second. Think about it. He's not showing up. Wait till you see the line of cabs, its like forty-five minutes long. You said he's in Chicago.",
+      "characters": [
+        "Cynthia",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, Sandra. I'm sorry, I'm sorry! I really am! Listen, listen, Jerry's under a lot of pressure right now. It's very hard being a stand-up comedian! Sometimes they don't laugh!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's nothing. I got it. So, how are your levels coming along?",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You think you can pose me however you want? That's my ass in your window!",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean they found a tee and he played golf that day. Nobody walks into a dry cleaner's with a tee. The circumstantial evidence is overwhelming.",
+      "characters": [
+        "Margaret",
+        "Pitt",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "\"No No... That's not him. That's the guy who gave me... Jimmy's number.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh come on Jerry, its opening night, black tie, Pagliacci! The great clown, the great sad tragic clown, like you.",
+      "characters": [
+        "Jerry",
+        "Noel",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hey! Hey, Jer, I want you to meet my new friends, here.  This is, uh, Louis, Jorge, and Umberto.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's one thing I don't understand. Why does it please you?  George Costanza, please.",
+      "characters": [
+        "Bob",
+        "George",
+        "Betsy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

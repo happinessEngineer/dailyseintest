@@ -1,0 +1,106 @@
+{
+  "gameNumber": 707,
+  "date": "2026-12-10",
+  "questions": [
+    {
+      "quote": "He does not like you. And all indications are he does not like Drake's Coffee Cake.",
+      "characters": [
+        "George",
+        "Gina",
+        "Elaine",
+        "Pitt"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "See, we're already off the subject of how I got her number.  All I gotta do is get past the first phone call and I'm home free.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's the most dangerous part of the sidewalk. Cab hops a curb, wap! You've had your last egg sandwich.",
+      "characters": [
+        "Elaine",
+        "Ray",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "and I feel if we can just talk about this we can straighten the whole thing out, so listen, so call me back. Bye.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what, maybe we should all chip in for the gift.",
+      "characters": [
+        "Jerry",
+        "Jake",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I feel terrible, I can't be responsible for breaking up a marriage. Oh no",
+      "characters": [
+        "Anna",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sometimes it's good to have a pencil to write these things down.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The perfect combination of Mountain Dew and mozzarella...just the right amount of grease on the joy stick...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Bania",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, did you guys stop at the bodega today? Some moron bounced a clown check!",
+      "characters": [
+        "Jerry",
+        "Rabbi",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, that's what I want-- triangles. Alright, I'm outta here. Have fun with what's-her-name.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

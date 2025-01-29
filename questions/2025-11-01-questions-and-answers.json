@@ -1,0 +1,106 @@
+{
+  "gameNumber": 303,
+  "date": "2025-11-01",
+  "questions": [
+    {
+      "quote": "Elaine, often times in life there are problems, and just as often there are solutions.",
+      "characters": [
+        "Jerry",
+        "Wendy",
+        "David",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Let me just say this. It is inhumane to make a man stand on his feet, in one spot for eight hours a day. Why shouldn't he have a chair?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeeah, but David and Beth are going to need their grieving time.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "During that period when my folks were separated he went a little crazy.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, selling bras exclusively to women, we're really only utilising fifty percent of the market.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Farkus"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "That's true. But, you know, I can't help but think that uh...",
+      "characters": [
+        "George",
+        "Driver",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Could be years before I get back to Coney Island. I can't go to rides alone.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. But I was the only one at the table that didn't get violently ill.",
+      "characters": [
+        "Kramer",
+        "Cop",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, Jer, well you know, I was cookin' and I, I uh, I came in to get this spatula...and I left the door open, 'cause I was gonna bring the spatula right back!",
+      "characters": [
+        "Jerry",
+        "Marla",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A hundred and fifty dollars? A hundred and fifty dollars for what? For this couch?",
+      "characters": [
+        "Wyck",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

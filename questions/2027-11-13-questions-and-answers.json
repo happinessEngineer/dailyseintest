@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1045,
+  "date": "2027-11-13",
+  "questions": [
+    {
+      "quote": "See? Finally, *finally* I get to meet a man who pillages and plunders! I'm so lucky.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And instead of a tree, didn't your father put up an aluminum pole?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now, fellas, fellas.. easy. You wouldn't want to beat up on one of your own.",
+      "characters": [
+        "George",
+        "Susan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you understand? It's not about him. To have a line as perfect as 'jerk store' and to never use it. I, I couldn't live with myself.",
+      "characters": [
+        "Testikov",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, now she thinks that I'm one of these guys that love her. Nobody wants to be with somebody that loves them.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't understand. You're breaking up with me. Didn't we have fun doing the crossword puzzles?",
+      "characters": [
+        "Noel",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Noel"
+    },
+    {
+      "quote": "Jerry, this is Del Boca Vista's new physical fitness room. They got medicine balls, you can bike ride, anything you want.",
+      "characters": [
+        "Tim",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, I'll do it as long as there's no other girls around. I mean, I wanna be a man too.",
+      "characters": [
+        "Diane",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I think it would be nice if there was some kind of historical record of it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Helen",
+        "Fred"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, if Richie Brandes did this, I'd be suspicious, you know. He's always got some ulterior motive.",
+      "characters": [
+        "George",
+        "Marcy",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

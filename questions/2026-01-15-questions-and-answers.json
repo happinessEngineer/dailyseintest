@@ -1,0 +1,106 @@
+{
+  "gameNumber": 378,
+  "date": "2026-01-15",
+  "questions": [
+    {
+      "quote": "Hey!  ha ha ha ha. Nice sidle, huh? Speaking, of which I think I've got that problem, solved.",
+      "characters": [
+        "Ade",
+        "George",
+        "Elaine",
+        "Mike"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, then I shall be there. And now, Gentlemen,  if you will excuse me - I must prepare for the symphony.",
+      "characters": [
+        "Maestro",
+        "George",
+        "Jerry",
+        "Announcer"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "And the amazing thing is she eats like there's no tomorra'. I mean I've never seen an appetite like this. Desserts. Everything. I don't know how she does it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Holly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, C'mon! Let's go! I thought we were going to take a steam!",
+      "characters": [
+        "Kruger",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You want me to moon him? Ooh, let's moon him. Roll up your window. Let's do a pressed ham under glass.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Jerry",
+        "Sophie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, yeah. I was a little off last week, huh Jerry -- Yeah but the doctor says it was just a slight concussion",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I felt bad about the spying, so you know, ,I got them tickets to the show.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Exactly. You're not a psycho. You've been very helpful. Thank you very much. Allow me to leave the tip.  Well, I think we proven who the psycho is.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Since when are you treating me to medicine?  What are you doing?  You're stealing this, aren't you?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If the homeless don't like them the homeless don't have to eat them.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

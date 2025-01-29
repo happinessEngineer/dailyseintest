@@ -1,0 +1,106 @@
+{
+  "gameNumber": 930,
+  "date": "2027-07-21",
+  "questions": [
+    {
+      "quote": "I thought Jerry didn't want that couch, because of the stain?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Kramer. Okay uh, why don't we start the bidding. Do I hear, um, five bucks?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, George. She's coming over and not cleaning. It's like I'm seein' a prostitute.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, she fell, and then she started screaming, \"My back! My back!\" So, I picked her up and took her to the hospital.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, if you don't bring a guest they save a catering. You should be able to buy a cheaper gift.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm afraid I have some bad news, Elaine. It appears you will not be accompanying me to Africa.",
+      "characters": [
+        "Stationer",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Yeah, the Immigration guy said his Visa was expired. Poor Babu, everything was going so well for him. He had an apartment, he had a job. What a shame.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, it's like hitting a car and driving away without leaving a note.",
+      "characters": [
+        "Elaine",
+        "Ben",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey pal, you're not getting that space. I mean, I'll sleep in my car if I have to.",
+      "characters": [
+        "Newman",
+        "Mike",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "THIS is your daughter? My God! My God! I I hope you don't mind my saying. She is breathtaking.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

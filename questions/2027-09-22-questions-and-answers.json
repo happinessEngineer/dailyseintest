@@ -1,0 +1,106 @@
+{
+  "gameNumber": 993,
+  "date": "2027-09-22",
+  "questions": [
+    {
+      "quote": "Slippery Pete, Kramer tells me you are one hell of a rogue electrician. And shlomo, you're the best truck driver.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, what am I gonna do? I'm gonna go in there and spy on her in the sauna?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well Kramer, I have to return this test. I've got to get out of here.",
+      "characters": [
+        "Ken",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? He's - He's out there? Oh, my God. I-I gotta go, I gotta go..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I gotta see a dentist, this is killin' me. Well, I'll take a chance. We'll go together.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh hey, Helen uh, Could I uh, use some more of your hand lotion?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah! Look at me! I was free and clear! I was living the dream! I was stripped to the waist, eating a block of cheese the size of a car battery!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ho ho ho ho! I can't wait for Hanke to come crawling back to me.",
+      "characters": [
+        "Jerry",
+        "Keith",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't even like to sit next to a man on an airplane 'cause our knees might touch.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know, swan dives from twenty floors up, lands right on top. What do I got a bulls eye up there? He couldn't move over two feet? Land on the sidewalk. It's city property.",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

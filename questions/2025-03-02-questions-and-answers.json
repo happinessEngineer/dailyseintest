@@ -1,0 +1,106 @@
+{
+  "gameNumber": 59,
+  "date": "2025-03-02",
+  "questions": [
+    {
+      "quote": "Hey. Hey. Hey. Hey. Hey. Hey. Hey. Wha -- what are you doing?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell me your impressions, I would love to hear what a young woman thinks of \"The Big Game\".",
+      "characters": [
+        "Milos",
+        "Kramer",
+        "Allison",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sorry - I have to say, I'm a little disappointed, I thought it would be a lot nicer.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, don't take this personally, but when I'm coming back I'm sitting over there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Attendant",
+        "Barry"
+      ],
+      "correctAnswer": "Barry"
+    },
+    {
+      "quote": "Yeah. Th-That's why I where these sneakers, in case of any trouble -- Zip, I'm gone.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, hey! Elaine, I just heard that Noreen and Paul are breaking up. I want you to put in a good word for me.  I've always had a thing for Noreen.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bette",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, it's unbelievable. Every time you use it you feel like you just came from the dentist!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, George. How about that tour, huh? These guys are ready to run the bases.",
+      "characters": [
+        "Kramer",
+        "Jane",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I guess it's fair to say you've set different goals for yourself than say, Thomas Edison, Magellan, these types of people.",
+      "characters": [
+        "Elaine",
+        "Announcer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, I think people would talk about it at the coffee machines.",
+      "characters": [
+        "George",
+        "Guy",
+        "Celia",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

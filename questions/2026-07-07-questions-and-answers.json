@@ -1,0 +1,106 @@
+{
+  "gameNumber": 551,
+  "date": "2026-07-07",
+  "questions": [
+    {
+      "quote": "Hey, kid, quiet. Were did a nice little boy like you learn such a bad word like that? Huh?",
+      "characters": [
+        "Mickey",
+        "Phil",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "You're not crazy. Jerry does wear glasses. He just forgot 'em, that's all.  Not crazy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, pudgy, lets stop playing games. What happened with margaret?",
+      "characters": [
+        "George",
+        "Katya",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Can't it? Or is your entire world just crashing down all around you?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, my question is, How could Elaine be under the impression that you bought the big salad, when I was the one who handed it to her?",
+      "characters": [
+        "Susan",
+        "Julie",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "Well, I caved. I mean, I really had to use their bathroom. Frank, no offence, but this holiday is a little  out there.",
+      "characters": [
+        "Landis",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "anyone else, never. But, Leslie - I have a problem saying no to. For some reason, I seem to want her approval.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frankie",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Blood over there, sausages over here. I'm living in a slaughter house.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Cindy",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine. You shouldn't be reading that. So tell me about this rash of yours.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "You know, I don't see how you can sit there eating that and not even offer me any?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

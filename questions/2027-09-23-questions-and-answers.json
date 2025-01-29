@@ -1,0 +1,106 @@
+{
+  "gameNumber": 994,
+  "date": "2027-09-23",
+  "questions": [
+    {
+      "quote": "Cosmo, go. No, no, na, na.  Boy this new telephone number's driving me crazy -- wrong numbers, every five minutes.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can't do that, you can't just sneak in from the back like that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Doesn't matter. What's the young man's name? I would like to meet him.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Jerry",
+        "Lou"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, we think it would be a nice touch for the Foundation literature. Do you have a favorite poet, George?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "You gotta meet me at the police station. They're arresting me for attempted murder.",
+      "characters": [
+        "Connie",
+        "Morty",
+        "George",
+        "Tim"
+      ],
+      "correctAnswer": "Connie"
+    },
+    {
+      "quote": "I don't know what kind of a person would do something like that. Obviously a very sick person. A very immature person. A person who has no regard for wasting other people's valuable time. Good-bye.",
+      "characters": [
+        "Doctor",
+        "Laura",
+        "Ed",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "So, she mentioned she had a boyfriend and then it hit me. What do I need more closet space for?  Hi, Marla.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "N..no, no. You can't leave me.  Marry me! I'll burn myself. I'll burn my parents!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, perhaps we should inquire. Poppie! Oh, Poppie. Could I have a word?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah, Reilly?  Well, the jerk store called. They're running outta you",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

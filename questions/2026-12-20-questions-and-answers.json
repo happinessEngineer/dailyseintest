@@ -1,0 +1,106 @@
+{
+  "gameNumber": 717,
+  "date": "2026-12-20",
+  "questions": [
+    {
+      "quote": "George, take a look at this photo. This is taken 10 years ago. That mole looks exactly as it does today. So, there's no cause for concern, eh?",
+      "characters": [
+        "Kruger",
+        "Vanessa",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Elaine, you are something else.  No one can ever put a label on you, huh?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "It's like when tenant dies in a rent controlled building - you gotta take immediate action.",
+      "characters": [
+        "Steve",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Haven't seen him. There was a short guy with glasses... Looked like Humpty-Dumpty with a melon hat. But he left.",
+      "characters": [
+        "Man",
+        "Nana",
+        "Jerry",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "What's the deal with Aquaman? Could he go on land, or was he just restricted to water?",
+      "characters": [
+        "Shelly",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And you know what else I've decided to do? I'm going to keep seeing the bald woman.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. We made love on the floor like two animals. Ray is insatiable.",
+      "characters": [
+        "Jerry",
+        "Rava",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "Look, Java World.  Hey listen I'm gonna get out here. I'm gonna get myself a free cafe latte.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah.  There she is...Miss - yes, room 417 please? Karen Hanson?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see how it's collapsing? That's what's causing this huge dent.",
+      "characters": [
+        "George",
+        "Audrey",
+        "Kramer",
+        "Clerk"
+      ],
+      "correctAnswer": "Audrey"
+    }
+  ]
+}

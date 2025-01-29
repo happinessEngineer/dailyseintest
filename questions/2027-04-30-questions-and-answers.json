@@ -1,0 +1,106 @@
+{
+  "gameNumber": 848,
+  "date": "2027-04-30",
+  "questions": [
+    {
+      "quote": "I'm completely changing the configuration of the apartment. You're not gonna believe it when you see it. A whole new lifestyle.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I hope you realise what you've done. You've destroyed our whole venture.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "\"Okay...So you were violated by two people while you were under the gas. So What? You're single.\"",
+      "characters": [
+        "Elaine",
+        "Noel",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, uh, you see that's the great thing about Mediterranean women. All right, so what did you do?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Aaaa  aaaa  Ah ha. They had plans huh? They were busy. They were busy with their  big plans!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's great George, thanks a lot I'll get in touch with you.",
+      "characters": [
+        "Alec",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "If it attached itself to you, then... Oh, my God! That's why Carl said he had to get up early! Because I stink! Jerry, he thinks I have B.O.! Me!",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh ho right. Well very nice seeing you folks and a by the way you didn't hear this from me. Tata",
+      "characters": [
+        "Newman",
+        "Peterman",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hoh, that Milos.  Well uh, what shall we do, uhm, care for a cup of coffee?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

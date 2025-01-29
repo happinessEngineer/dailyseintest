@@ -1,0 +1,106 @@
+{
+  "gameNumber": 614,
+  "date": "2026-09-08",
+  "questions": [
+    {
+      "quote": "Leapin' Larry's? Hey, that's uptown. You gotta take Amsterdam.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You disappoint me, my friend. Sandy wants nothing to do with you. She tells Laura, \"If you want to waste your time with that pervert, that's your problem.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I ah, gotta give him something. Come on, where's that tape I shot?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh I don't know. Not always. No I uh I had to work at it. When I was a kid all the kids would be out playing, I would be up in my room practicing my kissing.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Patty",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just wanted to drop off this Chinese balm for your burns. It's supposed to be great stuff. It's all herbal.",
+      "characters": [
+        "Maestro",
+        "George",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Because, I've got the coat. I can sit in the car and not get cold.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would you stop it.   Would you quit it please.  Someone is going to see us here.",
+      "characters": [
+        "Worker",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, we do that all the time. You should see the looks on people's faces.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Cop"
+      ],
+      "correctAnswer": "Cop"
+    },
+    {
+      "quote": "You know, when I was a kid, I once found a dollar and fifty cents in change on the bottom of the pool.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where I come from, we don't say \"What?\" It's proper to say \"Pardon?\"",
+      "characters": [
+        "Simon",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Simon"
+    }
+  ]
+}

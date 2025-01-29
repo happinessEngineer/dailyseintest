@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1018,
+  "date": "2027-10-17",
+  "questions": [
+    {
+      "quote": "\"Master of the house/Doling out the charm/Ready with a handshake and an open...\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Captain"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is she the only girl in the whole world? Why can't you get find your own girl?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Huh... Cape...  What was a man with a cape doin' with my father?... What was my father doing with a man in a cape?...  Why a cape? Hmm!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who's got the tickets? GEORGE I do.  I thought you knew this mall. You said you'd been here before!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Secretary",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you could see her personality it would be like one of the Elephant Man exhibits, you know where they pull off the sheet and everyone gasps.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Your Honor, I'm only trying to establish Mister Kramer's fragile emotional state, my entire case depends on it.",
+      "characters": [
+        "Newman",
+        "Valerie",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I know but I thought that maybe you could mention how I apologized then encouraged you to stick with it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Even if the dialogue did ring true.  Even if somehow somewhere men actually talk like that, what does that have to do with the pants? Doesn't that bother you?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Maura"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh ya, like there's something wrong with saying 'God bless you'. I was raised to say 'God bless you'.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's right, you heard me. Get out! You are ruining this whole experience for me!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

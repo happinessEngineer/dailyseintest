@@ -1,0 +1,106 @@
+{
+  "gameNumber": 25,
+  "date": "2025-01-27",
+  "questions": [
+    {
+      "quote": "What if you get involved with a woman? How're you gonna tell her?",
+      "characters": [
+        "Jerry",
+        "Ade",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes...Ye..Yes..That's right...You see ,Billy Mumphrey was a simple country boy. Some might say a cockeyed optimist, who got caught up in the dirty game of world diplomacy and International intrigue.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm gonna personally notify them. ...and, ah, line up some candidates to fill that assistant to the General Manager position…",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Yeah, I'll zip in, \"How do you do?\", zip out. She'll love me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Worker",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He knows I'm waiting. He sees me. He just doesn't wanna look.",
+      "characters": [
+        "Lloyd",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We've been betting on arrivals and departures.  But I'm down $3200 , so you've gotta get me some cash.",
+      "characters": [
+        "Kramer",
+        "Phil",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...and I, of course, will return to mine. Kudos, Elaine, on a job... done.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Michael"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Oh, they're staring. They know we're on a date. They're making fun. Come on. It's embarrassing.",
+      "characters": [
+        "Keith",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey ya know I read an unbelievable thing about Tolstoy the other day, did you know the original title for \"War and Peace\" was \"War--What Is It Good For?\"!",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, the game's about to start. I wonder where your friend Kramer is.",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Joel"
+    }
+  ]
+}

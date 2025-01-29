@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1116,
+  "date": "2028-01-23",
+  "questions": [
+    {
+      "quote": "You're his friend. Better that she should sleep with someone else? Some jerk that he doesn't even know?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Toby",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, people never give a good 'hello' at a funeral. I mean, they go like this  That's the biggest.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, look. Here's the work order with everything that broke. Just kind of bring it up at the right time and find out.",
+      "characters": [
+        "Jerry",
+        "Roy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because Marcelino, he taped it up on his cash register with all the other bad checks.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I hit the wall yesterday with Lady Godiva. She did a full body flex on a pickle jar.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I see that Ziggy's back at the complaint department.. \"The New Yorker is stealing my ideas.\" ha ha ha See that's funny.....'cause it's real.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry, I didn't know you had company. I just wanted to return your tape.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, this you're not gonna believe. I found out why I was testing positive for opium. Poppy seeds!",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Think where man's glory most begins and ends and say my glory was I had such a friend.",
+      "characters": [
+        "Mike",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I found a rough spot on the kitchen floor, I thought I'd polish it up with this belt sander I have here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

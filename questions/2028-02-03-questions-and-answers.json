@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1127,
+  "date": "2028-02-03",
+  "questions": [
+    {
+      "quote": "Elaine, who among us hasn't snuck into the break room to nibble on a love newton?",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Jerry, you're not in show business. You don't know what these people are like.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Announcer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Right. I mean, we're on a subject. Why does it have to be changed?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a minute? He's picking up the van tonight? This is perfect. I'll drive Rhisa to someplace romantic. Then when my father slides the door open, I'm in the van kissing his brother's daughter.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that was a long time ago. How about if I just erase it. Now about that rash......",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Jerry, I'm trapped under my desk. Steinbrenner is in the room. You got to help[ me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Hal",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, you're forgetting how much Festivus has meant to us all. I brought one of the casette tapes.",
+      "characters": [
+        "Helena",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh, it's my parents. My father came up to see a back specialist.",
+      "characters": [
+        "Newman",
+        "Marlene",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you know what day this is? Because I know what day this is, they know what day this is, so I was wondering if you know what day this is!",
+      "characters": [
+        "Ray",
+        "Bob",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Yeah, well, I can't have this hanging over my head. It's bad mojo.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

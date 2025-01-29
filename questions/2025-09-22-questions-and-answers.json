@@ -1,0 +1,106 @@
+{
+  "gameNumber": 263,
+  "date": "2025-09-22",
+  "questions": [
+    {
+      "quote": "She works for PBS, I met her when I agreed to do that pledge drive.",
+      "characters": [
+        "Salesman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now, each of you is here because you're the best at what you do.",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I shouldn't go out with a friend of yours. I foresee messiness.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Patrice",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well Stubs has already sold it to some guy who's kid's in the hospital .",
+      "characters": [
+        "Kramer",
+        "Announcer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Huh? Ha. 200. You know, I've always wanted one of these things.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I wasn't going to say anything, but then I could see that he wasn't going to open his mouth.",
+      "characters": [
+        "George",
+        "Carol",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah ok. It's really gonna be something, this is the first time he's ever appeared in public, no one even knows what he looks like.",
+      "characters": [
+        "George",
+        "Dan",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "Eh, we had a little fight about the move. I took her to this other place. I think they might be trying to screw me.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "To do what?! Work in a post office? Is that what you want me to do?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Momma. Just talk to her, George. The doctor seems to think it helps.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

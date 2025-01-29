@@ -1,0 +1,106 @@
+{
+  "gameNumber": 983,
+  "date": "2027-09-12",
+  "questions": [
+    {
+      "quote": "She's at it as you get. Imagine bumping into her on the street in five years with a husband. And she tells me he's a sculptor, they live in Vermont...",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Diane",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no she can't tell. It's a perfect match. Beautiful job.",
+      "characters": [
+        "Frank",
+        "Keith",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, Jerry, now when the glee club's finished singing, George goes on, then you.",
+      "characters": [
+        "Katie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "I guess we are just going to have to teach him to wear the ribbon!",
+      "characters": [
+        "Bob",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Thank you very much... Well, then go out and smell the car; see which smells worse.",
+      "characters": [
+        "Jerry",
+        "Keith",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, I couldn't stop thinking about how everyone was enjoying the lobster so much an' well I thought I little taste wouldn't hurt, huh?",
+      "characters": [
+        "Elaine",
+        "Kate",
+        "Kramer",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Should I give you my keys, is that the transaction, trading keys...? Because Elaine has my keys.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Audrey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The add said that the bank's gonna pay a hundred dollars if you are not greeted with a hello",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No you can't.  Now let's cut the ball, sister! You think I don't know about you swapping spit with somebody yesterday on Columbus Avenue?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was quoting him. Why would I be insulted? I'm never insulted. You could call me baldy, dump soup on my head. Nothing insults me.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

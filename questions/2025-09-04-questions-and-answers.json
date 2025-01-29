@@ -1,0 +1,106 @@
+{
+  "gameNumber": 245,
+  "date": "2025-09-04",
+  "questions": [
+    {
+      "quote": "Oh, check it out. I guarantee you've never seen anything quite so objectionable. It's down the hall, third door on your left.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You could take the IQ test for me. I could pass it to you out a window. We could do it, she lives in the first floor.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Vandelay",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "When all the while, the real secret to happiness has been right in front of us!",
+      "characters": [
+        "Stan",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't get this. I go out with this girl three times, she doesn't want to shake my hand - why's she kissing you?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, like I was saying, I couldn't make the transition from conversation to sex. There were no awkward pauses... I need an awkward pause.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's my business now. Look, I stuck up for you. Man, if he catches you, we're both out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Sara"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah well, Newman's not happy, he booted me out of his freezer. Look, I've got to take my blood back to the bank, can I borrow your car?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, I've driven to east Hampton many times, I know the exit.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tv",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...then, when I was seventeen, I ran away from home and hopped a steamship to Sweden.  This steak is excellent, by the way.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Owner",
+        "Eddie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I gotta go zoo. I feel like I could set more of my own schedule.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

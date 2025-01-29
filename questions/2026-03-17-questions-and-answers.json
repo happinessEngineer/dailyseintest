@@ -1,0 +1,106 @@
+{
+  "gameNumber": 439,
+  "date": "2026-03-17",
+  "questions": [
+    {
+      "quote": "I don't know. But I'm sure it had, . . . parents. Call her up. She won't mind if you come.",
+      "characters": [
+        "Melissa",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah. That- that's, uh, okay, So, uh, I'd like to buy a couple of boxes of those from you, yeah?",
+      "characters": [
+        "Driver",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah well, maybe if he didn't lick his fingers before he reached in the bag we would've eaten some. Serves him right.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So when you get a rash all over your face in January do you think Coleman's will be there with a medical plan?",
+      "characters": [
+        "Levitan",
+        "George",
+        "Bania",
+        "Ned"
+      ],
+      "correctAnswer": "Ned"
+    },
+    {
+      "quote": "I am not gonna taste your peach. I ate some one's pecan last night, I'm not gonna eat your peach.",
+      "characters": [
+        "Jerry",
+        "Rabbi",
+        "George",
+        "Sara"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Y'know, I'm better with the mothers than I am with the daughters.",
+      "characters": [
+        "Manager",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aw, hoh, oh Deena, thank God.  Thank God you're here. Listen, you gotta help me. You gotta tell these people that I'm okay. You know that I don't belong in here.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And now he's gone. I'm sure he's looking for the car. Five minutes, that's all. I just want to find him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Guy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, this is very nice, but I really could take a cab. Really.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where are you gonna get this mickey? I can't believe I'm saying \"mickey\"!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tim",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

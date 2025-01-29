@@ -1,0 +1,106 @@
+{
+  "gameNumber": 522,
+  "date": "2026-06-08",
+  "questions": [
+    {
+      "quote": "Jerry got her phone number off of an AIDS walk list? Oh, that's awful!",
+      "characters": [
+        "Susan",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "You left them in the car? How could you leave them in the car?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because of me? You must be joking! Who wouldn't want to live because of me? I'm nothing!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My new salesman boyfriend took me out to celebrate his promotion.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's preposterous! They ask someone to take off a baseball cap at a baseball game.  How can you defend that?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nobody drives like me. Nobody. I'm doing things in this car, you have no idea they're going on. Wanna see me make a right turn from the left lane? Watch this.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're missing out on a relationship that could enrich your life in ways that you never could have thought possible.",
+      "characters": [
+        "Gavin",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "No! I'm not gonna do that! That's one step away from personal ads! And prostitutes! No! No, I am not going down that road! What does she look like?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wel...I have to be something. I 'm a close friend....What about being a bridesmaid.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This show looks interesting. Isn't he that Seinfeld fellow you went out with?",
+      "characters": [
+        "Tim",
+        "John",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "John"
+    }
+  ]
+}

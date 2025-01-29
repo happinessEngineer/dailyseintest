@@ -1,0 +1,106 @@
+{
+  "gameNumber": 360,
+  "date": "2025-12-28",
+  "questions": [
+    {
+      "quote": "That is what Mr. Steinbrenner wants. He wants, everyone, ta, twirl around.",
+      "characters": [
+        "Marla",
+        "George",
+        "Wilhelm",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Um, hi! Hi. I called earlier about getting the yogurt tested.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Tony",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Gee, I just didn't expect it from the way you've been acting.",
+      "characters": [
+        "Helen",
+        "Jane",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I am actually going to have a secretary and I get to do the interview.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "George",
+        "Driver"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I mean it's only a six month probation, it's a slap on the wrist.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm a comedian. Oh, let me get that.  You've been so helpful.",
+      "characters": [
+        "Lena",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes it is. I find the pastrami to be the most sensual of all the salted cured meats. Hungry?",
+      "characters": [
+        "Vivian",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "The last thing this guy's qualified to give a tour of is reality.",
+      "characters": [
+        "Frank",
+        "George",
+        "Sandi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know George they are doing wonderful things at mental institutions these days. I'd be happy to set-up a meet and greet.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And who were you tryin' to set up, anyway? The mechanic or the manager?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Salesman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

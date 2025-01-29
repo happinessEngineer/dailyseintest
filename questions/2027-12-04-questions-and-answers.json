@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1066,
+  "date": "2027-12-04",
+  "questions": [
+    {
+      "quote": "We all want the hand. Hand is tough to get. You gotta get the hand right from the opening.",
+      "characters": [
+        "Elaine",
+        "Vanessa",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I, I can't believe this. I know Phil, he, he's a good friend of mine. We play softball together. How could this be?",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Could we get a little more?  Aghh... You know ever since this new owner took over, the service here is *really* slow.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on. I don't want to tag along with George and Susan. If you're there it'll be a better group.",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "Elaine",
+        "Doris"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your name is a good name, Costanza. Sounds like it's stands for something, they'll believe us.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Take a look at this card. Tell me if you notice anything unusual about it.",
+      "characters": [
+        "Milos",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, so we're going to get the wine and we'll pick you up here in ten minutes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Harold",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Lesbian wedding. How do they work bride and groom out, what do they flip a coin?",
+      "characters": [
+        "Hanke",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Elaine, you have got to buy this new electric toothbrush I just got - the Ori-dent.",
+      "characters": [
+        "Jerry",
+        "Rita",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it was very funny. There was one great scene with the chef - what was his name?",
+      "characters": [
+        "George",
+        "Dan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

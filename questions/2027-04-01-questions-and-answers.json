@@ -1,0 +1,106 @@
+{
+  "gameNumber": 819,
+  "date": "2027-04-01",
+  "questions": [
+    {
+      "quote": "Ah hah. Well, listen. You would be wise to keep your distance from him.",
+      "characters": [
+        "Tor",
+        "Rita",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, my arm feels a lot better. That Wendy really knows her stuff.",
+      "characters": [
+        "George",
+        "Darryl",
+        "Kevin",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I used to have a problem.  Well, what d'you mean, he's not registered? Wha..S, E, I, N, V...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean how can I be with someone that doesn't laugh. It's like ... well it's like something!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Corinne",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Radar detector? I've never seen you go over twenty miles an hour. You're like the Grand Marshall of the Rose Bowl Parade. It's a Wizard organizer.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Master of the house/Doling out the charm/Ready with a handshake and an open palm/Tells a saucy talk/Loves to make a stir/Everyone appreciates a...\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right, I don't want Bridget to think I stood her up. I'll never get another date with her. She'll freak out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bob",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course they're coming, they're leaving soon. If they don't come tonight they might not see us.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well put something down, you're taking twenty minutes on this. So is Uncle Mac and Artie, they're all coming over here before the wedding?",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's raining? It's raining. The game will be postponed. We'll play tomorrow.",
+      "characters": [
+        "Jerry",
+        "Tony",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

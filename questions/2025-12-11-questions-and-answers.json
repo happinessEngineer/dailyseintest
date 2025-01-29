@@ -1,0 +1,106 @@
+{
+  "gameNumber": 343,
+  "date": "2025-12-11",
+  "questions": [
+    {
+      "quote": "Yeah, but they let me go on and on all about the Hamptons, they never said a thing! You don't let somebody lie when they know you're lying. You call them a liar!",
+      "characters": [
+        "George",
+        "Vanessa",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right! You're foolin' around with your maid. That is a wise decision.",
+      "characters": [
+        "Kramer",
+        "Stu",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm just gonna heat this up. Make a little hot-tub for Little Jerry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now that's a great looking shirt!  Aye Captain!  Yeah! I'm glad I ironed it. It's perfect.  Look at it! It's fantastic!",
+      "characters": [
+        "Kramer",
+        "Rebecca",
+        "Winona",
+        "Celia"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.",
+      "characters": [
+        "Noel",
+        "Lois",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sixteen hundred dollars? That's all? *Ooh*, they are ripping me off.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Ethan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's gotta be more to life than this. What gives you pleasure?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Bookman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? And Debby told me that she fell in love with him because he has all this perspective!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought that my suggestion was good. And, I think you could've been a little more tactful.",
+      "characters": [
+        "Worker",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is not the point.  The point is, you just can't have the bike.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

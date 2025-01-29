@@ -1,0 +1,106 @@
+{
+  "gameNumber": 924,
+  "date": "2027-07-15",
+  "questions": [
+    {
+      "quote": "How you gonna catch him? He's probably boarded the plane already.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "James",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "People don't turn down money. It's what separates us from the animals.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Bogambo - they've been in the neighborhood for 48 years. Now, come on, Jerry. You've gotta have a pair of shoes in need of a cobblin.'",
+      "characters": [
+        "Craig",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Elaine, we've covered all of that in the catalogue ad nauseum. No, I would like this book to be about my day-to-day life.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Could you do me a favor? If you see a guy that's five foot eleven, he's got uh a big head and flared nostrils, tell him his friend's going to be right back, okay?",
+      "characters": [
+        "Kramer",
+        "Secretary",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The bad date, the bad sport, the bad citizen...  The bad tipper!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A signal, right, um, okay, uh, okay, the signal is, I'll call out tippy-toe!",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Naomi",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just a movie?! You don't understand. This isn't 'Plans 1 through 8 from Outer Space', this is 'Plan 9', this is the one that worked. The worst movie ever made!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ruby",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's a goose that's had the old switcheroo pulled on it. Hi Sophie, it's me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. Well, I just saw Madeline off. Yeah. She's in a cab and--nguh nguh nguh--on her way. I miss her already.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Izzy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

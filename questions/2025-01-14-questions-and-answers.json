@@ -1,0 +1,106 @@
+{
+  "gameNumber": 12,
+  "date": "2025-01-14",
+  "questions": [
+    {
+      "quote": "Dad, that other car cut us off! They had swastikas all over it... They were hurling racial epiphates at us... I could have been killed!",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She dragged me down to that warehouse on the waterfront in Brooklin to see one of her \"performances\".",
+      "characters": [
+        "George",
+        "Kramer",
+        "Eddie",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, let me ask you something. You uh, you ever hear of Marisa Tomei?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay.  Hello.  Listen, thanks again for coming last night. Dad said he had a great time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh of course. Todd Gack. You did you bet was in Star Wars? Sammy Davis Jr.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well today's almost over. And weekdays always go by fast. Friday we're leaving. It's like two days really. It's like a cup of coffee. It will go by like that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No of course not. People ask me medical questions all the time.",
+      "characters": [
+        "Alec",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I mean, it's killing me! Newman's got the jump on the invites, and will crush me if I try to go it alone!",
+      "characters": [
+        "Father",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's the big deal if we don't make it? I'll just go tomarrow or the next day.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Ed"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "Yeah, well, I guess the only thing I can do is go into George Steinbrenner's office and tell him he has to give her a raise.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

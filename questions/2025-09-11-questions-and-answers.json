@@ -1,0 +1,106 @@
+{
+  "gameNumber": 252,
+  "date": "2025-09-11",
+  "questions": [
+    {
+      "quote": "But that's a one-way street coming this way. Besides, how am I gonna get all the way over there?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I had some milk, I made a sandwich. I got to get out of the building.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Craig",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I know. Uh, by the way, could you do me a favor and tell Mitchell Tanenbaum that I will be unable to attend this Saturday.",
+      "characters": [
+        "Elaine",
+        "Attendant",
+        "Gina",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, maybe, he was talking to me. Was you talking to him? Because you was obviously talking to one of us. So what is it? Who?! Who was you talking to?!",
+      "characters": [
+        "Bob",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Ya' gotta see the babi - When are ya' gonna see the babi... Can't they just send us a tape?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well, send them in. Send the little tykes in. … little people .. pony express … wow,",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Ah, this is the kind of day that almost makes you feel good to be alive.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Then we ended up going out to lunch and he had some great gossip about James Thurber.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh didn't work. He caught me hearing. Alright it's terrible, but I'm not a terrible person.",
+      "characters": [
+        "Kate",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh you know what happened. Some guy from the Post Office confiscated them. He left his card.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Ron"
+      ],
+      "correctAnswer": "Ron"
+    }
+  ]
+}

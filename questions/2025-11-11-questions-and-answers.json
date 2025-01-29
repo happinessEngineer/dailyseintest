@@ -1,0 +1,106 @@
+{
+  "gameNumber": 313,
+  "date": "2025-11-11",
+  "questions": [
+    {
+      "quote": "No, it's okay now, that, that girl is not comin'. Uh, I misread the whole thing.",
+      "characters": [
+        "Morty",
+        "George",
+        "Darren",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about your old car? They couldn't get Kramer's blood out of it?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I don't know. I couldn't hear anything. You, you talked the whole movie.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Aah!  The nerve of that guy! Taking back that pen. Well that's it for them.",
+      "characters": [
+        "Russell",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, I put a six hour tape in. That should cover the experiment, the arrest, and most of your trial. Alright, I'll see ya.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I guess your mother was right. You never could compete with Lloyd Braun!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Man"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No body said you're fat. He's a loving character, like the Kool-ade guy.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Abby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That is one place on my wardrobe I do not need sharp interlocking metal teeth. It's like a mink trap down there.  What are you doing today?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your father wanted a Mercedes, but I won't ride in a German car.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Hey oo, I just remembered uh my parents really wanna have you guys over for dinner before you leave town. What about tonight?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

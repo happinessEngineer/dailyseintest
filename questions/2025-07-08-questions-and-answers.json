@@ -1,0 +1,106 @@
+{
+  "gameNumber": 187,
+  "date": "2025-07-08",
+  "questions": [
+    {
+      "quote": "I can't stand these guys. You give your number to them and then they don't call. Why do they do that?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, oh, I do too. This guy could be a little bonkos. Really. Anyway, if you will, would you please welcome: Kramer!",
+      "characters": [
+        "Regis",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "And it's their anniversary Friday night. I could send them for a hansom cab ride. Y -- you think they'd like that?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, nothin' much, . . . talkin'. . . . Oh, oh, oh, did I have an unbelievable idea today!",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I could care less. I hope it is on our record. I'm just sorry they didn't lock me up.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Levitan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I don't know... h- how long have you been shaving your head for?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh sure, it just doesn't have any of the thrills of the Cougar.",
+      "characters": [
+        "Salesman",
+        "Jerry",
+        "Lloyd",
+        "George"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "I didn't take the subway all the way to New York to sit at a table like that!",
+      "characters": [
+        "Jackie",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hey, uh, Milos, I don't mind rolling over here, but could you lighten up on the 'not a man' stuff?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Course you know there is always the possibility, that she called an audible.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

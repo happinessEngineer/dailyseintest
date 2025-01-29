@@ -1,0 +1,106 @@
+{
+  "gameNumber": 430,
+  "date": "2026-03-08",
+  "questions": [
+    {
+      "quote": "You know what I think this thing is gonna get picked up George. You guys are gonna be rich!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I know she's mad at me, but I really have to speak with her.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am in your hands.  Well! Oh, good night, Jerry.  Kenneth will take you home.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "No, no, no, no, no, no, no! What were you thinking when you shot this?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh, what are you gonna do? You gonna put on phony beards and dress-up like Arab sheiks and sit around in some hotel room. I mean come on...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're luscious. You're ravishing. I would give up red meat just to get a glimpse of you in a bra. I'm terribly sorry.",
+      "characters": [
+        "Kramer",
+        "Attendant",
+        "George",
+        "Jimmy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a pot pourri. May I, uh, may I show you the master bedroom?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just got a brand new Armani suit -- doesn't fit me anymore. You want it?",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Rula",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "It was totally out of the blue.  We went upstairs to his apartment, you know, to look for the label maker.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aah! He's got a girl up there. This quilt is too thin...I know I'm gonna get cold. I don't even fit on this couch. Don't even know if I'm gonna sleep....",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Raymond"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 778,
+  "date": "2027-02-19",
+  "questions": [
+    {
+      "quote": "I just thought you would be a little more excited about a friend of mine having a baby.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Julio. I was wondering, could you get to that shower today, You think?",
+      "characters": [
+        "Jerry",
+        "Vivian",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And now I think she might really be interested in you. And Dan is",
+      "characters": [
+        "Kramer",
+        "George",
+        "Father",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I've been trying to jam stuff in the box, like you told me, but sometimes it says, like, \"Photographs - Do not bend\".",
+      "characters": [
+        "Jerry",
+        "Ethan",
+        "Voice",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Mr Lippman.  That is so exciting. I mean, you have no idea how sick I am of running around town looking for socks.",
+      "characters": [
+        "Newman",
+        "Danielle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh No nonono I'm not a cop ...Heum... I work for the Yankees.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's beautiful. She makes all the plans. I'm not from around here so it's okay if I'm stupid, and she knows I'm only in town visiting so there's no messy breakup",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sara",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now I don't believe this. That guy owes me big time. I got him off sugar! Look, I'm gonna go down there with you right now.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, it starts in five minutes. You were there at the taping, what's the big deal?",
+      "characters": [
+        "George",
+        "Donna",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It doesn't matter. If anything happens to her, I'm on deck! Scissors mishap, air show disaster, chinese organ thieves...it's a dangerous world.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

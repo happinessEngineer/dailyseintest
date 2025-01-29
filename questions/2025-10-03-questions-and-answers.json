@@ -1,0 +1,106 @@
+{
+  "gameNumber": 274,
+  "date": "2025-10-03",
+  "questions": [
+    {
+      "quote": "We just want to talk to her. We want to apologize and tell her the whole thing was an accident.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lisi",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ya know, its not fair people are seated First Come First Served, It should be based on who's hungriest. I feel like just going over there and taking some food off somebody's plate.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't want hope. Hope is killing me. My dream is to become hopeless. When you're hopeless, you don't care, and when you don't care, that indifference makes you attractive.",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, why don't *you* go, and I could save the seats. You said you didn't like saving anyway.",
+      "characters": [
+        "Kramer",
+        "Sid",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, they got a stand right out on the platform. Gyros are cooked, and wrapped, and ready to go.  Three dollars, no change. You want one?",
+      "characters": [
+        "Elaine",
+        "Michael",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me... we've been waiting here. Now, I KNOW we were ahead of that guy, he just came in.",
+      "characters": [
+        "Daphne",
+        "Tom",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No I can't. I can't die with dignity. I have no dignity. I want to be the one person who doesn't die with dignity. I live my whole life in shame. Why should I die with dignity?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Alton",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello?...yeah, I can be there in 10 minutes...you can count on me!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Feel much better here at my home base, Jean-Paul. It's a controlled environment.",
+      "characters": [
+        "Kramer",
+        "Marcy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Joe DiMaggio, you know this time I went in and sat down across from him and I really watched him. I studied, his every move. For example, he dunks.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bonnie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

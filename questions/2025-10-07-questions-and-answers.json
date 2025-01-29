@@ -1,0 +1,106 @@
+{
+  "gameNumber": 278,
+  "date": "2025-10-07",
+  "questions": [
+    {
+      "quote": "Oh, please. Do you know what you're talking about? Because I don't think you know what you're talking about. Take a look at that.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Bob",
+        "Mike"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "So you don't cry when your grandmother dies? But a hotdog makes you lose control?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah. I read what you said to the papers yesterday. You weren't in on the planing. What planning? YOU THINK WE PLANED THIS? Uh?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's perfect! He's a zoo guy! He take's care of animals. C-Can I bring the squirrel by?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Fine. Fine.  Excuse me.  Think I'm gonna forget about this? I haven't forgotten about this. I don't forget that easily!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Rick",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, George, have you seen the American league directory? It is a big green book. Oh, thanks kiddo.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Before we get started, I am happy to tell you that Eddie Sherman is no longer writing for this catalog.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's the deal with lampshades? I mean if it's a lamp, why do you want shade?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay! Well, you know, have a nice trip, and uh... alrighty!  I'll just hold down the, uh, fort!",
+      "characters": [
+        "Elaine",
+        "Salesman",
+        "Testikov",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hu, oh. No he thought I was hiding something from him about Morgan.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Craig"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 381,
+  "date": "2026-01-18",
+  "questions": [
+    {
+      "quote": "All right, you know you're not any help at all here. I don't know what even the point is of talking to you anymore.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The former still applies. I don't know what it is, but I just can't see you with a mechanic.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No! He's riding my coattails again. He's getting everything off me, first laughs now ladies.",
+      "characters": [
+        "Morty",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey George, you know what? I think this crest is different. It's got a moose on it.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No I don't think so. I saw Newman as I was leaving but see me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Audrey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, look at this closet! Look at this! I'm walking in it!  It's a walk-in. Can you believe it? I'm nuts about this, what do you think?",
+      "characters": [
+        "Jerry",
+        "Farkus",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's even more amazing is his formal training is in pediatrics.",
+      "characters": [
+        "Craig",
+        "Joel",
+        "Ron",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well obviously that was a mistake. You need to forget about Arnie. The important thing is you're moving on.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, after we met, you were all so nice. I just couldn't go through with it. But between you and me, you would have paid through the nose.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Cheryl"
+      ],
+      "correctAnswer": "Cheryl"
+    },
+    {
+      "quote": "right yeah.. no I mean did they get into stuff like a.. long jagged scars or.. gross deformities, major skin grafts, stuff like that",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

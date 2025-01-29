@@ -1,0 +1,106 @@
+{
+  "gameNumber": 280,
+  "date": "2025-10-09",
+  "questions": [
+    {
+      "quote": "A rule is a rule. And let's face it. Without rules there's chaos.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I did not bare myself deliberately, but I tell you, I wish now that I had!  Because it is not me that has been exposed, but you! For I have seen the nipple on your soul!",
+      "characters": [
+        "Rick",
+        "Farkus",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's where I come in. Umm, on splat. Uh, you see, Mrs. Sweedler, or is it hospital administrator Sweedler?",
+      "characters": [
+        "Milos",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, the photo I took in Tuscany of the little man in front of the sign that said \"Costanza\"?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I don't care for the name, either. In fact, that's one of the things that we argue about.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, but Babu, he could have come to my house to pick it up.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, he puts the couch down, and just as he's about to leave he says, \"Do you date moving men?\"",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What, you're gonna pass up a wonderful opportunity to put that aloe pusher in her place?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jake",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And who doesn't serve cake after a meal? What kind of people? Would it kill them to put out a pound cake? Something!",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Look.  We don't have to name names, or, point fingers, or..  name names!  Me and her, have had our problems. She and I have had our problems! You and I, and she and you--",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

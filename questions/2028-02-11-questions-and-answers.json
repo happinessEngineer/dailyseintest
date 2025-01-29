@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1135,
+  "date": "2028-02-11",
+  "questions": [
+    {
+      "quote": "Yeah, I think I've seen you in a club.  You talk about a lot of everyday things, right?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Ellen"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "Oh, you don't see. You don't see. Well it happened. Believe me.",
+      "characters": [
+        "Estelle",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Aren't those the guys that always go crazy and come back with a gun and shoot everybody?",
+      "characters": [
+        "Patrice",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. I'm getting rid of all, all my furniture. All of it! I'm building... levels... with steps... completely carpeted...  with pillows.  Like Ancient Egypt.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Tom"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "Well, you know, frankly, outside of a sexual relationship, I don't see the point to it. I'm not thrilled with all the handshaking either, but one step at a time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I tought I picked up a little something. I'm very good at this. Did you pick up anything?",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You see I disagree. I'd rather be dating the blind. You know you could let the house go. You could let yourself go. A good looking blind woman doesn't even know you're not good enough for her.",
+      "characters": [
+        "Tim",
+        "Usher",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do we have a chance? You get me one coffee drinker on that jury, you gonna walk outta there a rich man.",
+      "characters": [
+        "George",
+        "Jackie",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You know you're infringing on my right to celebrate new holidays..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You got hookers turning tricks in my car. How's that for starters.",
+      "characters": [
+        "George",
+        "Monica",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 980,
+  "date": "2027-09-09",
+  "questions": [
+    {
+      "quote": "You're not gonna believe what I got in the mail. Invitation to Sue Ellen Mischke's wedding.",
+      "characters": [
+        "Jerry",
+        "Tawni",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it was, but then I just couldn't decide if he was really sponge-worthy.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know where the rabbi got that. Ya know I never said that. I said \"I've never seen you looser\".",
+      "characters": [
+        "Elaine",
+        "George",
+        "Patty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know, I know Jerry.. but it's The Plazaaa... I've never stayed there .It'll be like a little vacation",
+      "characters": [
+        "Bookman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, your taking this totally the wrong way. That's not what Ii intended.",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "...And then, right after the All-Star Break, we, we just swept the Orioles. Four games. In Baltimore.  So... yeah.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's the guy we're the buying the chair for, remember? It was your suggestion.",
+      "characters": [
+        "George",
+        "Jake",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe how much we did this afternoon. I have friends who this would've be their whole life.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've got a tape of 'Fantastic voyage' if you think that would help.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know George, growing up as a boy in Costa Rica, I heard a rumor that momma had taken a lover. Perhaps Bosco was this man's name.",
+      "characters": [
+        "Rudy",
+        "Peterman",
+        "George",
+        "Sid"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

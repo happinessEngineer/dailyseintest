@@ -1,0 +1,106 @@
+{
+  "gameNumber": 777,
+  "date": "2027-02-18",
+  "questions": [
+    {
+      "quote": "They assign you a specific disease and you act out the symptoms. It's an easy gig.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Spit it out? I had dogs chasing me for that mutton. I was almost mauled because of that mutton.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I'm still holding the garlic shaker.. Yeah.. like this  I'm only showing eight fingers.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Captain"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Tsst...'Course I have. Come on. My cousin's in a bubble. My friend Jeffrey's uh, sister, also ... bubble ... you know.  I got a lot of bubble experience. Come on.",
+      "characters": [
+        "George",
+        "Lippman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, there were too many people in the room, we couldn't keep track of everybody. George, and the butler, and...",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I met some people smoking on the street, so I invited them up to my apartment to smoke.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's got Marlon Brando's. I could go to Marlon Brando's house if I really wanted.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's all worked out. Nina and I will have dinner Thursday at the restaurant where Babs works.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gina",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Say it's Saturday night in Spain. They go out dancing. You think they do the flamenco?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. On your bed. You got a headboard? You'll need a headboard.",
+      "characters": [
+        "Kramer",
+        "Herb",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

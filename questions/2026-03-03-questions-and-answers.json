@@ -1,0 +1,106 @@
+{
+  "gameNumber": 425,
+  "date": "2026-03-03",
+  "questions": [
+    {
+      "quote": "Yeah, well, H&H wouldn't let us use their bath room while we were picketing. It put a cramp on our solidarity.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I really like those new jeans Jerry was wearing. He's really thin.",
+      "characters": [
+        "Tor",
+        "Elaine",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "So, if you have any idea for like a TV show for yourself, well, we'd just love to talk about it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Stu",
+        "Susan"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Morty Seinfeld. I cut velvet for forty years with Harry Altman.",
+      "characters": [
+        "Woman",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Your damn right you screwed up. Where the hell did you get that damm balm anyway?",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You know you should be a lot more careful crossing the street like that, otherwise you could die.. If that bothers you.",
+      "characters": [
+        "Jeannie",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "What time does your flight get in? Six? All right, that gives us six hours. Then I'll meet you at the diplomat's club. I'll be the one without the big red sash. Okay, see you tonight.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Alec"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, a month in Europe with Elaine.  That guy's coming home in a body bag.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I'm against AIDS. I mean, I'm walking, aren't I? I just don't wear the ribbon.",
+      "characters": [
+        "Landis",
+        "Sylvia",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I think I'm getting tired of it. I mean is that all it does? Hello? La-la-la?",
+      "characters": [
+        "Carol",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

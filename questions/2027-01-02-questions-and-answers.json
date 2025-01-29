@@ -1,0 +1,106 @@
+{
+  "gameNumber": 730,
+  "date": "2027-01-02",
+  "questions": [
+    {
+      "quote": "Wait a minute Jerry, there's a bigger issue here. If you go through that wall and become one of those guys I'll be left here on this side. Take me with you.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, what was I supposed to do? Get out of the shower, put on my bathrobe? Go all the way down to the other end? Come all the way back?",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's girls everywhere.  I go out of my apartment, there's girls in the elevator.  They're in cafeterias, subways, so what?",
+      "characters": [
+        "Jane",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "His phone's been disconnected, but I was able to obtain an address - 1324 Amsterdam Avenue, apartment 4D.  Now, I did my job.  May I have the car keys, please?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah, I'm alright. Oh, by the way, the car hit a pothole and now it's making a clanking noise.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No Don't get the camera , we don't need the camera. Listen I know your skeptical , but I really believe in the Chinese.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know. The only way to fix it now, is to get a whole new photo of Kruger.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gino",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, car accident. He was trying to adjust his toupee while he was driving and he lost control of the car.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you find it odd that as soon as he leaves, the couch gets stolen? Maybe he's setting me up!",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!",
+      "characters": [
+        "Milos",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

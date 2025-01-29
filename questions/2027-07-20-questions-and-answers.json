@@ -1,0 +1,106 @@
+{
+  "gameNumber": 929,
+  "date": "2027-07-20",
+  "questions": [
+    {
+      "quote": "Look, it's a very awkward situation. I don't wanna be presumptuous.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Izzy",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, if your not doing anything Saturday do you want to meet somewhere?",
+      "characters": [
+        "Estelle",
+        "Todd",
+        "Voice",
+        "Amy"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Yes, she's the costume designer and he's the wig master for the show.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No no no no. Go to that place on the corner, they'll change the prescription in an hour. Take 'em.",
+      "characters": [
+        "Guy",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No argument. Unless, she's one of these multiple sneezers, and he's holding his 'God bless you' in abeyance, until she completes the series.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! Pendant's publishing his new book, and I'm working on it! Lippman and I are gonna go to the airport on Thursday and pick him up in a limousine!",
+      "characters": [
+        "Marty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "[studying his jacket] Oh man! Look at this! I sat in gum. Oh, by the way, you owe me seven fifty.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got another project for you. It's a movie called Cry Cry Again. I was gonna give it to one of my other guys, but it's an arty movie and quite frankly, they don't have the sensibility.",
+      "characters": [
+        "Elaine",
+        "Brody",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Brody"
+    },
+    {
+      "quote": "In fact she said that looks aren't even that important to her...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But you never became a banker, did you Mister Kramer? Why? Why did you fail?",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

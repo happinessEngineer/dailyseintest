@@ -1,0 +1,106 @@
+{
+  "gameNumber": 385,
+  "date": "2026-01-22",
+  "questions": [
+    {
+      "quote": "Okay. Kramer, Kramer, wait a minute. Do you still have that pricing-gun?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, this isn't even B.O.! This is *beyond* B.O.! It's *B*.B.O.!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I don't think I want to be your girlfriend or your maid.",
+      "characters": [
+        "Cindy",
+        "Jerry",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Cindy"
+    },
+    {
+      "quote": "Well General Chang was a very flamboyant man. A complete failure as a general, but a helluva cook.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've got an eyewitness to that jewelry store break-in. Come here. Do you recognize anybody in the lineup?",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Peterman",
+        "Jackie"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Oh, hi, Roxanne. Nice to be here. These are my friends. This is George, and this is Jerry.",
+      "characters": [
+        "Steve",
+        "Jerry",
+        "Elaine",
+        "Tia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah. I've been a professional waitress for the last 10 years. I've worked all over the city. These, uh, are my references. I'm sure you'll find that I'm more than qualified.",
+      "characters": [
+        "Sally",
+        "George",
+        "James",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Him and his friends are probably peeing all over the place. You want to call the Department of Social Services? Oh, it's Saturday. They're closed today. My luck.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Margaret",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you think he had to be uh near sighted? I mean know body would paint like that if they could see. It's all out of focus.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "George, you've been wearing those boots since I met you. You're not gonna wear them to the wedding, are you?",
+      "characters": [
+        "Nina",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Nina"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 704,
+  "date": "2026-12-07",
+  "questions": [
+    {
+      "quote": "I'm calling dentists all day here, there's nobody working the day before Thanksgiving.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I hope prune juice is alright. It's the only thing I had that was chilled.",
+      "characters": [
+        "Frank",
+        "Darren",
+        "George",
+        "Tv"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right in here. Just keep your eyes unfocused.  Waahh! Oh, mama!",
+      "characters": [
+        "Carl",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's a Costanza in Tuscany?  Did he look like me? Did you talk to him?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Conrad",
+        "Newman"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Because the next day in the offices, people gather around the water coolers to talk about it, right?",
+      "characters": [
+        "Russell",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "3.. I don't know what that is.. where's my damn preview channel?",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I'll tell you what happened. I bet he got the AM/PM mixed-up.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mister Fowler, I-I have a squirrel here that is a miracle of modern science!",
+      "characters": [
+        "John",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh look, I need to get in touch with Cheryl. Babu needs a lawyer, his Visa's expired.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Lena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean what if, what if, this this guy has got all my money. Plus he has got some Kramer's money with him. This guy could write checks to himself right out of my account.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

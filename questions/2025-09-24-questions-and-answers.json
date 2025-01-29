@@ -1,0 +1,106 @@
+{
+  "gameNumber": 265,
+  "date": "2025-09-24",
+  "questions": [
+    {
+      "quote": "Earl Hafler, nice to meet you. I'm headed to Houston, where you headed?",
+      "characters": [
+        "George",
+        "Earl",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "--but, you see, let me just talk to you for a second, see, what I did is inadvertently sent an insurance--",
+      "characters": [
+        "Newman",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You are gonna love this car. Even if you don't like Jon Voight.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had some trouble at my place, so I need a little company at night to sleep.",
+      "characters": [
+        "Kramer",
+        "Tor",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yup. It's really just a question of what kind. Thinking about a bar stool.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aah, yeah, yeah. Won't you head on in, we'll be in in a second. Be right with you.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess. She must've rolled over on a tick during the love-in.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Three days. Well, maybe you caught her on the cusp of a new wash cycle. You know, she did laundry the day after she met you, everything got clean and she started all over again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My fault? Your Nana is missing because she's been passing those bum checks all over town and she finally pissed off the wrong people.",
+      "characters": [
+        "Sally",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So then, I got a call this morning. You know, I was, uh, chosen to go on the space shuttle. We're goin' to Mars.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Tawni"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

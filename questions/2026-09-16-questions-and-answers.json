@@ -1,0 +1,106 @@
+{
+  "gameNumber": 622,
+  "date": "2026-09-16",
+  "questions": [
+    {
+      "quote": "Thirty-six.  What's the signal?  Howbout this?  Chicken wing?  No, no, no, I got a better one.  Head patting.",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "George",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, she had this great black and white dress, with a scoop neck. She looked like some kinda superhero.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, all right, um, uh, I'll call 'ya. I'll call you and we'll talk on the phone. A telephone communiqué. Every thing is fine ok, uh, fine, .. [exits]",
+      "characters": [
+        "George",
+        "Jerry",
+        "Seth",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean it's gotten to the point where I'm flirting with operators on the phone. I almost made a date with one.",
+      "characters": [
+        "Michael",
+        "Bob",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boxers! How do you wear these things!! Look at that--they're baggin' up, they're rising in! An' there's nothing holding me in place! I'm flippin'! I'm floppin'!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You got less than sixty seconds. That's like dismantling a time bomb. What got into you?",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you something. Could you tell if teeth marks on someone's arm matched teeth marks on a pencil?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, alright. Just let me finish my coffee... then we'll watch 'em go slice this fat bastard up.",
+      "characters": [
+        "Noreen",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm just getting over an allergy attack. This guy I'm going out with...",
+      "characters": [
+        "Elaine",
+        "Fred",
+        "Ricky",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, man, just *rampant*, **mutant** B.O. The \"O\" went from the valet's \"B\", to the car, to me. It clings to everything. Jerry thinks it's an entity. But I showered and I shampoo'ed, so...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Pitt",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

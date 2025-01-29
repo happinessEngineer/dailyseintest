@@ -1,0 +1,106 @@
+{
+  "gameNumber": 982,
+  "date": "2027-09-11",
+  "questions": [
+    {
+      "quote": "Listen, is it all right if we move in with you for a little while? Sounds of breaking glass, Jerry dropped his bottle.",
+      "characters": [
+        "Jerry",
+        "Man",
+        "Morty",
+        "Mohel"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Why don't you just let Golden Boy soak in the sink with some Woolight?",
+      "characters": [
+        "Naomi",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No one can tell what a balm's gonna do. They're unpredictable.",
+      "characters": [
+        "Jackie",
+        "Susan",
+        "Man",
+        "Mary"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Two hours in front of the entire junior high, grades six through eight. That's six grade, seventh grade--",
+      "characters": [
+        "Katie",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "You know, it seems to me that it's all you, and none of my ideas are getting in. You know, I mean, you just know it all and I am Miss Stupid. Right?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no, no.  This is evolutionary. I been reading this book, on Leonardo de Vinci. See, that means 'from Vinci', d'you know that?",
+      "characters": [
+        "Audrey",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, she's uh...she's real. She can bring home the bacon and fry it in the pan.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah, the flower guy. Listen, I know this all sounds a little crazy, but...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Doorman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, Jerry, if that's not what it is, you tell me. What is it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's kind of a stuffed meat thing. Israeli soldiers carry it. In case they're captured behind enemy lines, they eat it and it kills them.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Patrice"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

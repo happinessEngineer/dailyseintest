@@ -1,0 +1,106 @@
+{
+  "gameNumber": 548,
+  "date": "2026-07-04",
+  "questions": [
+    {
+      "quote": "We could go to one of those uh cappuccino places. They let you just sit there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lamar",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah there's a box spring but it's attached to the headboard and we'll have to take that apart. Then we got the couch.",
+      "characters": [
+        "George",
+        "Roy",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Aw, c'mon, you love that car. What about the Northstar system?",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But of course, we'd have to figure out a way to avoid the things that cause the little problems. Maybe some rules or something.",
+      "characters": [
+        "Ben",
+        "George",
+        "Jerry",
+        "Rula"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't stop her, Jerry! Oh, I've seen 'em come and go, but this kid has got something!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, and I use it all the time. Yeah, I made this whole meal in there.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did Jane's finance kidnap Sydney and take her to Las Vegas? And if so, did she enjoy it?",
+      "characters": [
+        "Lou",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Lou"
+    },
+    {
+      "quote": "So you're telling me instead of them being happy to see me, they're going to be upset because I didn't bring anything. Ttst --You see what I'm saying?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi, Jerry I'm sorry I'm late. George and I have been up working all night long. I can make up the time in any number of ways.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Conrad"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "I had a feeling you would like it. No, don't try it on now, try it on later.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

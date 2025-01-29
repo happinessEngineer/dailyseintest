@@ -1,0 +1,106 @@
+{
+  "gameNumber": 365,
+  "date": "2026-01-02",
+  "questions": [
+    {
+      "quote": "So anyway, you're his favorite comedian. He laughed so hard the other night we had to give him an extra shot of hemoglobin.",
+      "characters": [
+        "Carol",
+        "Elaine",
+        "Jerry",
+        "Mel"
+      ],
+      "correctAnswer": "Mel"
+    },
+    {
+      "quote": "Yeah, of course she did. That's all I ever heard growing up is 'Why can't you be more like Lloyd Braun?' Did you know he was in a mental institution?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It might be time to just let her go, Frank. She's worked hard for ya.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I was walking around naked in front of Melissa the other day--",
+      "characters": [
+        "Ellen",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, Matthew, I-I want to explain something to you. Now, cursing is not something that most comedians do.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Deena, I know you think I'm crazy, but I'm not. This is just a series of bad coincidences.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Puddy",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh hey, you know I invited Mike Moffit. You don't mind, do you?",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine is in the bathroom. She's wise to whole red dot thing. She's asking me all kinds of questions.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Rava"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, that's weird, actually, 'cause I'm sort of the same way. I mean once for like, no reason, I flattened my hair and I had all these strands hanging in my face all the time...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at this Jerry, dropping paper on the ground. That's littering.",
+      "characters": [
+        "Jerry",
+        "Melissa",
+        "Ramon",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

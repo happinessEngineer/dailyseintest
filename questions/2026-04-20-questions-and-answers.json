@@ -1,0 +1,106 @@
+{
+  "gameNumber": 473,
+  "date": "2026-04-20",
+  "questions": [
+    {
+      "quote": "You know, you're getting to be an annoying little chore yourself.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well Dad's been planning this for such a long time, he bought a new blanket, and he got tha...that game with foam paddles and the velcro ball.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I know this sounds a little arrogant but I never thought she would find anyone she would like better than me. Ya know, I guess I had my chance and that's that.",
+      "characters": [
+        "Cindy",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Hey you know , I felt we had like a synergy out there,you know, like we were really helping each other.\"",
+      "characters": [
+        "Elaine",
+        "David",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no no no. I was just looking for stock-pages. Here it is. Looking for the quotes. Gotta check to quotes. Love a good quote. Oh, IBM up a quarter.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right! And these pigeons broke the deal. I will not accept the blame for this!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Channel eleven? Forgive me for trying to class up this place, for trying to have the Yankees reach another strata of society that might not watch channel eleven.",
+      "characters": [
+        "George",
+        "Abby",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And you're sure with your busy schedule you'd have time to take on a protégé?",
+      "characters": [
+        "George",
+        "Eva",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "What? What? Did you go down there?  Did he tell you what's gonna happen?  How long were you there?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. No. I can't do this any more. I can't. It's too long.  Quit telling your stupid story, about the stupid desert, and just die already!  Die!!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

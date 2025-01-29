@@ -1,0 +1,106 @@
+{
+  "gameNumber": 920,
+  "date": "2027-07-11",
+  "questions": [
+    {
+      "quote": "4:02?  Aaa-aaahhh! Eight forty seven Jean-Paul! Wake up! Wake uuuuup!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I beg your pardon, your majesty, but we don't accept bills with lipstick on the president.",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "Betsy",
+        "Kramer"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Oh that's funny? Is that funny? Well tell me if you think this is funny: These fish are dying! They're gasping for oxygen right now! They'll be floating in an hour. Is that funny too?",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, well that's why I'm doing it all myself. This parenting isn't about delegating responsibility, it's about being there.",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "George",
+        "Officer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All my life I've dreamed of sitting front row, behind the dugout!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bob, you know what? I'm kinda swamped here. You think you could give me a hand with some of the catalogue?",
+      "characters": [
+        "Gina",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, look, uh, when you're in Florida, can my cigar guy drop off some Cubans for me at your parents' house?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A dealer? Are you insane? No, take out an ad. Sell it privately.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Gino",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahh, too bad you got a little, George Costanza thing going on.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Tony",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm the boyfriend. Otherwise, what's the point of being the boyfriend? This is where you have to be when you're the boyfriend.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

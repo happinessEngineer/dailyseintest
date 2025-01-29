@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1133,
+  "date": "2028-02-09",
+  "questions": [
+    {
+      "quote": "I can't have a cup of coffee with a person?! I'm not allowed to have coffee?!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, thank you so much.  Thank you so much, Mr..  Camaro.  Mr. Casea?  Well, whatever.  I'm gonna take this to the Maestro. He's, he's playing at the Queens Convalescent Center.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I noticed you eh, chose the eh \"clowns with balloons\" check design.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "yeah I mean, I mean what is my obligation here, you know we were just dating, it was probably gonna be over in a couple of weeks anyway",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's a woman over there that looks really familiar. Dark hair, striped shirt?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "His chiropractic job was a crock. It's even worse than it was before.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Morgan, Morgan, you know his name is conspicuously absent from this card. Almost like he went out of his way not to sign it.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Noh noh noh! I want you guys to shake hands. Come on, there are plenty of women out there for all of us, let's go.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's why we're always hiding in that coffee shop! He's afraid of getting caught.",
+      "characters": [
+        "Sally",
+        "Helen",
+        "George",
+        "Gwen"
+      ],
+      "correctAnswer": "Gwen"
+    },
+    {
+      "quote": "No, nothing. How could you not give a thank you wave? Hey buddy! Where's my thank you wave?",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 889,
+  "date": "2027-06-10",
+  "questions": [
+    {
+      "quote": "Hey, look at George. He's givin' it to T-bone. He's jumpin' up and down like some kind of monkey. Hey, what was the name of that monkey that could read sign language?",
+      "characters": [
+        "Elaine",
+        "Kruger",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You know... You better make sure and never tell this woman to jump off the Brooklyn Bridge...",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you gotta give me something! Come on, how was the wedding? Was the bride radiant?",
+      "characters": [
+        "Steve",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no…time! It's all this meaningless time. Laundry, grocery, shopping, coming in here talking to you. Do you have any idea how much time I waste in this apartment?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, really. Are you the boyfriend? I know she's got a boyfriend. Are you going to *kill* me? I'm an old man for crying out loud, you gonna kill an old man, you coward?!? [Jerry gets out card]",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Ugh, I hope a giant mountain rises out of the ocean and we just ram right into it and end this whole thing!",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's a big dinner Tuesday night at Frank's house - everyone's invited.",
+      "characters": [
+        "Janet",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know the D is the biggest. I've based my whole life on knowing that the D is the biggest.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is amazing, I haven't seen one person go in to that restaurant since it opened. Poor guy.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Cindy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well don't get too comfortable. As soon as Seth gets a real job you two are gong back in that chicken supernova.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

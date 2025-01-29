@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1087,
+  "date": "2027-12-25",
+  "questions": [
+    {
+      "quote": "Wow! Zanadu . No wonder you're putting in so many hours.  May I?",
+      "characters": [
+        "Wendy",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yoohoo ,Plenty......Wh..wh..what are doing hum...you're going in?",
+      "characters": [
+        "Stan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh those places have the stupidest names. Like, uh, \"Back in \", or \"Good Vertibrations\".",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Nana"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ho, ho, ho! He's got a live one. He's just reeling his big fish in!",
+      "characters": [
+        "Marla",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, of course it could be done! Anything could be done! But it only is done if it's done! Show me the levels! The bet is the levels!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this. Look at how this idiot packed it. He didn't tape it, he just flipped the flaps.  Kramer you missed a couple.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Sally"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Or we don't even send the check and then when they call, we pretend we're the cleaning service. Heh heh. \"Hello? I sorry, no here Kruger.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Voice"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Morty, what d'you have to open this box for?  There's already a box of cookies open.",
+      "characters": [
+        "Elaine",
+        "Gwen",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "The Korean women were talking about me. I think they were calling me a dog.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ooh! I asked Mr. Dinkins if he knew any good orthopedists, and he said he had the best.  So, I made an appointment for you. Dr. Dekter.",
+      "characters": [
+        "Lloyd",
+        "Jerry",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Lloyd"
+    }
+  ]
+}

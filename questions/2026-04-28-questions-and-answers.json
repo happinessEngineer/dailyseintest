@@ -1,0 +1,106 @@
+{
+  "gameNumber": 481,
+  "date": "2026-04-28",
+  "questions": [
+    {
+      "quote": "Well, you, my friend, have crossed the line that divides Man and Bum. You are now a Bum.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A free truck? Oh boy, that completely changes our cost structure. Our G and A goes down fifty percent.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah, I got the biggest one they had. It's industrial strength. 16000 BTU's.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What're you doing? What're you, telling secrets? What're you laughing at?",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, that's my bike! Along the sidewalk comes a happy-looking Newman, pedalling the Schwinn for all he's worth. He rings the bell.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"It's a long journey from Milan to Minsk…\"  wait wait. Hold it stop,  I'm sorry, I have to start it over, my shoelace.  I can't do it like this. Please let me start over.  Please.  Please. . . .",
+      "characters": [
+        "Gennice",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Gennice"
+    },
+    {
+      "quote": "Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.",
+      "characters": [
+        "Newman",
+        "Salesman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No. I'm completely blocked! In fact, I'm gonna work on it tonight. Oh. Oh no! Oh, I can't! I got that marathon runner coming in tonight.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If I meant this Wednesday, I would have said this Wednesday. It's the week after this Wednesday.",
+      "characters": [
+        "Regis",
+        "Ray",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Listen Jerry. With all due respect, Bania's voice is the voice of a new generation. My generation.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 826,
+  "date": "2027-04-08",
+  "questions": [
+    {
+      "quote": "Really? What is Bette Midler playing? Is she going to be there?",
+      "characters": [
+        "Rudy",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A forty-eight pack of Eggo waffles? A gallon of barbecue sauce? Ten pounds of cocktail meatballs?",
+      "characters": [
+        "Captain",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Insert a knife into the center and twist. Then, to make it bloom, soak it in water for thirty to forty minutes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course he is. There's got to be houses for rent in Tuscany. Do you know how big Tuscany is?",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, it was overheating. You should take better care of that thing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Toby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's incredible. Six months ago you were taking messages for your mother.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lamar",
+        "Stu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Have you seen the chest of drawers that Brett gave to Kramer?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh.  I thought a movie might cheer him up. I got him a Gene pick.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I never should've gotten involved in this. I'm a nervous wreck. I'm not cut out for investing.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Must be one of those rich, spoiled handicapped people, who didn't want to do any work, and just wanted to sit in her wheelchair and take it easy.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Detective"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1097,
+  "date": "2028-01-04",
+  "questions": [
+    {
+      "quote": "Oh, I contributed money to a charity that turned out to be fraudulent. It's very boring.",
+      "characters": [
+        "Wyck",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course it was a problem for me. . . . You didn't, you didn't tell anyone else about this, did you?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, everything. Divorce, patents, immigration and naturalization.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Cheryl",
+        "Jimmy"
+      ],
+      "correctAnswer": "Cheryl"
+    },
+    {
+      "quote": "Elaine? It's me, George.  Hey, sorry to bother you so late.  Hey! How ya doin.'  Uh, did you get any of those sponges?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? We sell this thing at Peterman that would be perfect for you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And Elaine - I wouldn't mind seeing something happening between you two.",
+      "characters": [
+        "George",
+        "Kimbrough",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "I have never seen one episode of I Love Lucy in my life, ever.",
+      "characters": [
+        "Sophie",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think so. I mean, he's acting really weird lately...he's different.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Michael"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.",
+      "characters": [
+        "Ellen",
+        "George",
+        "Testikov",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, George. Here's the model number on that chair, by the way.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

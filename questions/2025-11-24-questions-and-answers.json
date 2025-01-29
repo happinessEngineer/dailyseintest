@@ -1,0 +1,106 @@
+{
+  "gameNumber": 326,
+  "date": "2025-11-24",
+  "questions": [
+    {
+      "quote": "Of course it's a good idea, it's my idea. I conceived this whole project two years ago.",
+      "characters": [
+        "Ray",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm depressed. I got this new shirt, the button fell off. Once the button falls off, that's it. I'll never fix it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Doctor",
+        "Fred"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "You know you buy a big salad for somebody it would be nice if they knew it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, that's it. They have gone too far. They keep pushing me, and pushing me. Now I got no choice but to go down there... and talk to them.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well all right, beautiful, so you stop in. Ya, ya visit the bubble boy for twenty minutes and then we can go.",
+      "characters": [
+        "George",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, it's the K-man.  Maybe it's time you got a different hobby.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You get all his friends in a room, They confront himm to try to get him into rehab. It's a very popular thing now.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I cook naked, I clean....I clean naked, I drive naked. Naked. Naked. Naked.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh - comfort, schmomfort. Listen, Father, can I ask you a question? In a terrible time like this...who would I get the death certificate from?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Fine. Steal the battery. Now, all right, here is the Frogger. This is the front door, and this is the outlet.",
+      "characters": [
+        "Noreen",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

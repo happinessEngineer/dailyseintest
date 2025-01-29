@@ -1,0 +1,106 @@
+{
+  "gameNumber": 882,
+  "date": "2027-06-03",
+  "questions": [
+    {
+      "quote": "Sure, it's like robbing a bank. You don't loiter around in front of the teller holding that big bag of money. You come in, you hit and get out.",
+      "characters": [
+        "Tony",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, I'm obsessed with it. It's like a spider in the toilet struggling for  survival. And even though ya know he's not going to make it, y-y-you kind of root for  him for a second.",
+      "characters": [
+        "Morty",
+        "George",
+        "Earl",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Their grieving time is a luxury I can't afford. I'm calling Beth tonight, and if you want a clean shot at David, I suggest you do likewise.",
+      "characters": [
+        "Donna",
+        "Tony",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And then last night, he put on my high heels. Oh, he put on such a show for us! He was dancing around, lip-sync'ing to ``A Chorus Line'', I mean you can see he's got talent.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "I mean, people - they're not interested in things like this. They don't want to hear about it. They really don't.",
+      "characters": [
+        "Tony",
+        "Amy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The Hamptons? George Costanza? I, uh... I don't think so. Have a good one.",
+      "characters": [
+        "Dana",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah!..tha..that's right. that That's what led to... Billy Mumphrey's downfall.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh--George, uh--uh--it's five o'clock in the morning, what's the matter with you..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yes I am Father. Incredibly sincere. So, uh, pffft, am I in?",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You told me? You pushed this whole thing on me, it was your idea!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 660,
+  "date": "2026-10-24",
+  "questions": [
+    {
+      "quote": "Jerry, I'm not suggesting getting rid of the girl. She's integral.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "David"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Hey, by the way, did you ever call that guy from the health club.?\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Diane"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh god. Oh, Jerry it was so terrible what we just went through on the way home.  You wouldn't believe it.",
+      "characters": [
+        "Voice",
+        "Rebecca",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, tell me about it, soul sister.  Anyway, I told Jake that you said hi.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Milos"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what I've come to realize? I'm not just bored. I genuinely dislike her.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Doorman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you gonna leave after its over? You know, if we have sex.",
+      "characters": [
+        "Bania",
+        "Marla",
+        "Darryl",
+        "Aaron"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Uh, I think his answering machine's broken, so I just gave up. Well, what do you think?",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on, man. You need to lighten up. You know, a feeling like this only happens once a year.",
+      "characters": [
+        "Kramer",
+        "Sharon",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Two exact same watches. He tells you a week, and him a day. How could that be? Something's fishy about this.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You know my last name is Costanza. That's Italian. So you and I are like country men. Pisano's!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

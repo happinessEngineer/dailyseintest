@@ -1,0 +1,106 @@
+{
+  "gameNumber": 531,
+  "date": "2026-06-17",
+  "questions": [
+    {
+      "quote": "There's nothing I can even impart to you, that's the sad thing. It's so inborn, I can't pass it on.  Look at this guy. Are you crazy, what are you doing?! Hey! Hey, you're stealing my space!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Elaine here was picking up my mail while I was away, because you know that little box can get very full.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ya, Mickey. He hooked me up. We're stand-ins for the actors on 'All My Children.' Mickey, he's a stand-in for an eight year old kid and I stand in for the kids father.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, hem ,if you'll excuse me I think I'll just go to the ladies room.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Shelly",
+        "Peterman"
+      ],
+      "correctAnswer": "Shelly"
+    },
+    {
+      "quote": "Excuse me. I believe you just ate my Twix bar. It was dangling. And when you purchased your Twix bar, you got a little freebie, and you never bothered to ask why, or seek out its rightful owner.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you thought she was good looking and figured this would be a good way to meet her.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rabbi",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, because she's throwing off my whole sleep. She's got the jimmy legs.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A-and don't settle for 145, you can do better, you're a genius. Heheheh",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, maybe I can get him to draw a picture of her for you.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "George",
+        "Tim"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So he walks out of the stall, he's been talking the whole time.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helena",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

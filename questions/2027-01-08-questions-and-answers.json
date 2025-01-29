@@ -1,0 +1,106 @@
+{
+  "gameNumber": 736,
+  "date": "2027-01-08",
+  "questions": [
+    {
+      "quote": "So I told Ipswitch I'd have the hat by this afternoon. What am I gonna do?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, actually, I met him in Switzerland, and he was fighting uh, is that the word they use? Fighting? Because they don't really fight the bull, they avoid fighting the bull.",
+      "characters": [
+        "Peterman",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, I put all your zees on the weights and measures page.",
+      "characters": [
+        "George",
+        "Katie",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey! This is the kind of room Sinatra stays in. Hey! look , Macadamian nuts.",
+      "characters": [
+        "Cop",
+        "Mickey",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I'm homeless! I'm gonna be out on a street corner, dancing for nickels. I'll be with the hobos in the trainyard, eating out of a bucket.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Doctor",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I know Teddy Padillac. I worked with him on Forty-eighth and Sixth.",
+      "characters": [
+        "John",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wha...? Oh, man! Geez! Look at that! I'm all lathery. Jerry, you got to show me what I'm doing wrong.",
+      "characters": [
+        "Sid",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She wants to be an actress...or a, uh, model...or a dancer...or a...news woman.",
+      "characters": [
+        "Attendant",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A full house? You got a full house? Turn 'em over George, I wanna see 'em. Come on, I'm calling!  What d'you got!",
+      "characters": [
+        "Tim",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh huh. When you're on a stakeout, do you find it's better to stand up against the wall, or kinda crouch down behind a big plant?",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

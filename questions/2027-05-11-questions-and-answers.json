@@ -1,0 +1,106 @@
+{
+  "gameNumber": 859,
+  "date": "2027-05-11",
+  "questions": [
+    {
+      "quote": "Oh, come on you gotta go! He's harmless. He's got a little crush on you.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. That's just the thing. Anna told me that Elaine said I was one of the worst seeds she'd ever seen.",
+      "characters": [
+        "Elaine",
+        "Wendy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, you know what we should do? We should go to the movies. Get away from this script for a while..",
+      "characters": [
+        "George",
+        "Tony",
+        "Darryl",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe she's right. Maybe I am a complete hack. I'm the absolute worst. The worst, Jerry.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Oh yeah. Elaine was a fun project. I enjoyed working with her.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see I come up with these things, I know they're gold, but nothing happens. You know why?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know, but they don't seem to like it. By the way how am I doing?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Donald"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think the hats. The hat conveys that solemn religious look you want in a faith. Very pious.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Man",
+        "Ade"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, she didn't think it was funny. What is she, Rowan & Martin? We're supposed to meet with NBC tomorrow! She completely shattered my confidence. And I'm paying for this, she's my employee!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And then the game-winning field goal went over the net and into the crowd and I dove over three rows! My back, it's killing me!  It's killing me Jerry!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Marty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 539,
+  "date": "2026-06-25",
+  "questions": [
+    {
+      "quote": "Kramer! It's Silvio! Open up, I need to talk to you! I can see you through the reverse peephole.",
+      "characters": [
+        "Kramer",
+        "Silvio",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "Yeah I guess. So you wanna meet at that place at seven thirty?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? Huh, so I had it all along. How d'you like that?  I guess I owe that cashier an apology.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think George has ever thought he's better than anybody.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Brett",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who's going to bomb you. An airline for all the stupid little peanut jokes.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can I say one thing to you? And I say this with an unblemished record of staunch heterosexuality.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Kramer, you know what? There, there isn't a light there, in the ladies' room.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"There's a lot of money in this.. He's got a proven sales method\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah. Every which way. Couldn't crunch the numbers. It drove me crazy.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, pistol-packin mama, you swing that gal around, Allemande left with the old gray hag, around and around you go. Yee-ha!!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

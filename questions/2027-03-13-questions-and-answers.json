@@ -1,0 +1,106 @@
+{
+  "gameNumber": 800,
+  "date": "2027-03-13",
+  "questions": [
+    {
+      "quote": "No, it's normal. You're very normal. You're totally normal. Who's this?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, Jerry. Lloyd says it's no problem. He's capable of locating the gum.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Even if this so called mental defective did put something on her leg she's still the one who laughed.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Huh, yeah.  Oh, sweet setup. Elaine, d'you have any paint thinner? I need like uh, forty gallons.",
+      "characters": [
+        "Rachel",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm worried I won't be able to talk to him. He's such a great writer. Frankly, I prefer the company of nitwits.",
+      "characters": [
+        "Julie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell him to come down here and get his own packages. You have nothing better to do then worry about his boxes.",
+      "characters": [
+        "Doris",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Doris"
+    },
+    {
+      "quote": "I wish I could take credit for it. It's actually the line my butcher uses when we're chewing the fat. How about that beautiful desk over there?",
+      "characters": [
+        "Beth",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see, I don't think it is a Catholic joke. I think it's more of a Raquel Welch joke. What was it? No, I said hand me the buoys.  Bouys!",
+      "characters": [
+        "George",
+        "Bania",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "tes, it's very difficult. Few men have the constitution for it. That's why breakups take two or three tries. You gotta build up your immunity.",
+      "characters": [
+        "Morty",
+        "Willie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, George? What is this?  What is that? No really, what is that?",
+      "characters": [
+        "Keith",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

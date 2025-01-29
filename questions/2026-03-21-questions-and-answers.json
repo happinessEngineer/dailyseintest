@@ -1,0 +1,106 @@
+{
+  "gameNumber": 443,
+  "date": "2026-03-21",
+  "questions": [
+    {
+      "quote": "Just once I would like to tell someone they stink. You know what? I doidn't like the show. I didn't like you. It just really stunk. The whole thing…real bad. Stinkaroo. Thanks for the tickets though.",
+      "characters": [
+        "Carol",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well what's the difference -- Come on  -- were like Cain and Able.",
+      "characters": [
+        "Kramer",
+        "Allison",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It is amazing after years of training how one can contort one's body. Of course, it is only useful in gymnastics.",
+      "characters": [
+        "Tawni",
+        "Katya",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Katya"
+    },
+    {
+      "quote": "Ohh.. that's too bad.. Susan thought we'd really get along - I guess because we're both wacko!  You know what, um..  You have to give this to them for me. Okay? Here.  It's a wedding present.",
+      "characters": [
+        "Sally",
+        "George",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "You know, they say ostrich has less fat, but you eat more of it.",
+      "characters": [
+        "Kramer",
+        "Landlord",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can you hear yourself? Can, can, do you know what you're saying?!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Jerry, You know what just hit me? I was thinking -- What size suit are you?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "You're through, Soup Nazi. Pack it up. No more soup for you. Next!",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, right. I hope you have a good oral surgeon because that can be very serious.  Hey, look at naked people.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I thought you hated air conditioning. You've never had an air conditioner.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "Doctor"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

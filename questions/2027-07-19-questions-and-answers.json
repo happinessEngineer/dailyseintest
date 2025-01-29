@@ -1,0 +1,106 @@
+{
+  "gameNumber": 928,
+  "date": "2027-07-19",
+  "questions": [
+    {
+      "quote": "There is no other way in New York. Everybody goes every way all the time.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.  What's goin' on? What? Really? Oh my god....did he give you a reason?...Oh boy. Okay. Alright. Thanks.  Dalrymple just cancelled the pilot.",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He needs a three hundred-dollar Bruline to beat Ethyl Kennedy?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me tell you something Babu. You go back in that kitchen -- tell your chef I want the works.",
+      "characters": [
+        "Laura",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Now I'll always have this doubt about the car. What, your jaw still hurts?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I'm serious, Elaine. I went to medical school, but I still have to pass my licensing exam.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Aaron",
+        "Ben"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Trying to meet him. He's never at the video store. They said he sets his own hours.",
+      "characters": [
+        "Frank",
+        "Ethan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't understand, there's a *blurb* about me in this magazine!",
+      "characters": [
+        "George",
+        "Jack",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have noticed she does tend to go to the bathroom right after we finish eating.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is a real piece of junk. I don't even feel safe on this thing. I have a good mind to write a letter toMr. Kimbrough.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

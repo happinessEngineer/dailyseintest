@@ -1,0 +1,106 @@
+{
+  "gameNumber": 273,
+  "date": "2025-10-02",
+  "questions": [
+    {
+      "quote": "Oh yeah. Actually, I'm a little disappointed. I kind of had my eye on uncle Leo.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Naomi"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "I don't know. I do know that I have some kind of a talent - something to offer. I just don't know what it is yet!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mommy!? Jerry says daddy's closing the store. He's going out of business. We don't have any money?",
+      "characters": [
+        "Matthew",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Matthew"
+    },
+    {
+      "quote": "I will never understand the bathrooms in this country. Why is it that the doors on the stalls do not come all the way down to the floor?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "40? I'm payin' 60 to my maid. She doesn't do laundry and I'm gettin' nothin'. All right. Once she pinched my ass, but I don't know what that was.",
+      "characters": [
+        "Gennice",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Hospital receives grant to conduct DNA research\"..\" Government funds genetic research at area hospital\" ... Yeah, so?",
+      "characters": [
+        "George",
+        "Kruger",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Doctor gave me a relaxation cassette. When my blood pressure gets too high, the man on the tape tells me to say, 'Serenity now!'",
+      "characters": [
+        "Frank",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No, I slipped - and fell in the mud. Ruining the very pants I was about to return.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Melissa",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Without the writing, you have nothing. You're the ones that make them look good.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ohhh... You know, the whole concept of lunch is based on tuna.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

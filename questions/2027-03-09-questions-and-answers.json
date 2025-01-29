@@ -1,0 +1,106 @@
+{
+  "gameNumber": 796,
+  "date": "2027-03-09",
+  "questions": [
+    {
+      "quote": "Well, I'm really sorry I gotta run now.  Well, take it easy, huh, George?",
+      "characters": [
+        "Salesman",
+        "Jerry",
+        "Morgan",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "I have no use for either one of them. I don't even want them there tonight.",
+      "characters": [
+        "Jake",
+        "Helen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I'm not letting you cheat, Newman.  You're not getting anywhere near that board.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think it's neat. You don't hear that much about god anymore.",
+      "characters": [
+        "Kramer",
+        "Ethan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ya' got me I fell for it. Alright, OK I can be down there in like a half hour. Bye.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no no no, I was just down on the forty-second street subway today, it is disgusting. Guess who I bumped into. Owen.",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hmm, that's surprising. All right, what else? You got the cups in the front, two loops in the back. All right, a guess that's about it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Stop it, George! Get out! Get out! I never want to see you again!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Betsy"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "All right, Even Steven. Oh, by the way, when you get back to your apartment try to keep it down because Newman is taking a nap in your bed.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't. Susan wants to have it out when Sally comes tomorrow.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Celia",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1143,
+  "date": "2028-02-19",
+  "questions": [
+    {
+      "quote": "Nah, we need a medical dictionary! If a patient gets difficult, you quone him.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Testikov",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, Elaine, you're the bear claw in the garbage bag of my life.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Glenn",
+        "Elaine"
+      ],
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "Well, it better not. Paid for the whole year. So, should I pick those up later?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, they forgot to deliver your paper today. Why don't you just grab that one.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Oh, yeah, yeah. I'm Cosmo Kramer. Yeah, I had an appointment to annul my living will.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "Ronnie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "These old guys, they're up at 4 a.m., by two thirty they're wiped.  How did we get back onto you?!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, very funny. And it wouldn't be impolite to laugh at his antics.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Anyway, I just wanted you to know, that I'm going to do everything I can to make sure the party responsible is made to be responsible or something very close to that.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"You find you need to use a lot of obscenities at the dentist.",
+      "characters": [
+        "Julianna",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You think I don't know, Assman?!! To think I almost split the profits on the Manssierre with you.",
+      "characters": [
+        "Rula",
+        "Woman",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

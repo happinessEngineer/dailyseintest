@@ -1,0 +1,106 @@
+{
+  "gameNumber": 445,
+  "date": "2026-03-23",
+  "questions": [
+    {
+      "quote": "You're a salesman now - and the high-five is… it's very \"grease monkey.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You, anybody - whatever. You're in the little room, you're chained to the floor, you're there for a long time.. do you think they would ever consider doing the laundry?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, bully for you. Hey, Jerry! You know your friend here's a real piece of work!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Gwen",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Jerry, I can't talk to Jerry anymore. Ever since he moved into that apartment he's too much ... like you.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He purposely mispronounced my name. Instead of saying, \"Costanza\" He'd say, \"Can't stand ja\". \"Can't stand ja\" ... He made me smell my own gym socks once.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Wyck",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hola, Jerry! I'm into this Puerto Rican day! The sights! The sounds! The hot, spicy flavor of it all! It's caliente, Jerry!",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was just uh going over the Jake Jarmel book and I understand you worked with him very closely on this.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Aw, they didn't forget to put it out! It's deliberate! Deliberate, I tell ya!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "What do you mean stole? It's my bread. They didn't eat it. Why should I leave it there?",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "George, Festivus is your heritage - it's part of who you are.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

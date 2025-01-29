@@ -1,0 +1,106 @@
+{
+  "gameNumber": 828,
+  "date": "2027-04-10",
+  "questions": [
+    {
+      "quote": "O.K., Danny, take a swing.  N-No! No! No! You're opening up your shoulder.",
+      "characters": [
+        "George",
+        "Morty",
+        "Alton",
+        "Ed"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah--I just remembered, I'm gonna have to cancel my acupuncture class.",
+      "characters": [
+        "Donna",
+        "Receptionist",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "I'll get him to see a real doctor. You just stay away from this.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ahh, Steinbrenner gave 'em to us, in honour of Phil Rizzuto being inducted into the Hall of Fame.",
+      "characters": [
+        "Newman",
+        "Vanessa",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because we had a buyer, and we couldn't get a free flight until now.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "We went out for coffee last night and he offered me a ticket.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I lost them. I can usually come up with one good comment during a meeting but by the end it's buried under a pile of gaffs and bad puns.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Fred"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, it was dangling! There were only two left in the machine! He must've bought one, and gotten both.",
+      "characters": [
+        "Lisi",
+        "Elaine",
+        "Heather",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, don't worry about a thing. In twenty minutes that place'll be swarming with mailmen. We'll be back on the street by lunch.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yes, yes. Very smooth, super smooth. No, but I really wanna attack this thing, you know. Sink my teeth into it. So I was just wondering... what do you think would be the very best way to get started?",
+      "characters": [
+        "Sid",
+        "George",
+        "Morty",
+        "Waiter"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

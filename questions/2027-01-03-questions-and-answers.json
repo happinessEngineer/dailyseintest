@@ -1,0 +1,106 @@
+{
+  "gameNumber": 731,
+  "date": "2027-01-03",
+  "questions": [
+    {
+      "quote": "If anyone should be forced to leave that place, it should be her!",
+      "characters": [
+        "Stu",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The nurse said she would be right back. They're supposed to take me into the delivery room.",
+      "characters": [
+        "Rula",
+        "Steinbrenner",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "Officer, he backed up from down the street. He was double-parked, he was",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "No, he's very fancy! Want me, love me! Shower me with kisses!",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Silvio",
+        "George"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "No, he's up on the roof getting some sun with the butter  Oh no!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Shelly",
+        "Earl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know what he is. I recognized him. You didn't even notice him.",
+      "characters": [
+        "Naomi",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If we put our three heads together we should come up with something.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So Donald, would you please tell the court about the incident that occurred in your house, October 7th, 1992.",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "...F, E, L, D.  Well, I think you're wrong.  Alright, you have a lucky day, too.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They're right in front of you! Oh, for heaven's sakes...  Show you...",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Joel",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

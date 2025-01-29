@@ -1,0 +1,106 @@
+{
+  "gameNumber": 398,
+  "date": "2026-02-04",
+  "questions": [
+    {
+      "quote": "I can't believe that you're doing all this just to sell some stupid raincoats.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Helen",
+        "James"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Yeah, I washed, just not the hand. You wouldn't believe the women at this club. Ohh, man.",
+      "characters": [
+        "Daphne",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh Elaine, that's so good to hear. I've been having a few health problems lately.",
+      "characters": [
+        "Vivian",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "Well, I'll tell you this, though - I am never doing.. that , again.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Diabolical. He thought of everything. He was setting me up from day one!",
+      "characters": [
+        "Dana",
+        "George",
+        "Jerry",
+        "Patrice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohhh Jerry.  They're priceless. They've never been played with.",
+      "characters": [
+        "Celia",
+        "Frank",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "The only way I could talk him out of it was that I agreed to go and visit the Tunisian desert.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Boy I had a helluva time finding that air-conditioner. I looked everywhere. I completely forgot where I hid it. You know where it was?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Nurse",
+        "Bobby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Pre-prediction. You'll be calling me to ask if you can come and visit him before the month is out.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Newman",
+        "Gavin"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "So, what do you think? Your old man can look pretty good when he wants to, huh?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 432,
+  "date": "2026-03-10",
+  "questions": [
+    {
+      "quote": "Okay, you're in a restaurant. You've got a very big meeting coming up...",
+      "characters": [
+        "Detective",
+        "George",
+        "Kramer",
+        "Darryl"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I'm sorry. I gave you gonorrhea because I thought you'd have fun with it.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No. I'm gonna be just fine, but as far as your situation, you're seeing him tonight so talk to him about it.",
+      "characters": [
+        "John",
+        "Jerry",
+        "Bruce",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, hang on. Let me call Kramer and see if you can hear anything, hold on. >click click click<...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer how much longer? My chest hair is comming back and it's itching me like crazy. I can't let her see me scratch it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not going with him. I don't even know the guy.  Look, they did this for me before.",
+      "characters": [
+        "Danielle",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah. Sometimes she's on time, and... sometimes she's late.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Dana",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It is a big deal. You're supposed to serve cake after a meal. I'm sorry. It's impolite.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "We have some *delicious* Chateau Briande, my personal favourite. Or, if you prefer something lighter, a poached Dover sole in a delicate white wine sauce with just a *hint* of saffron.",
+      "characters": [
+        "Attendant",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "You know, these movies are great, but they're just so emotionally exhausting.",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

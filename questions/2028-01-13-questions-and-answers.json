@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1106,
+  "date": "2028-01-13",
+  "questions": [
+    {
+      "quote": "My parents told me you were too neurotic and that I was making a mistake.",
+      "characters": [
+        "Alton",
+        "Mickey",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "So you think you're not gonna get the job because your pants make a noise?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just talked to Dr. Dembrow's son. He said they almost had to call the police.",
+      "characters": [
+        "Leo",
+        "Joel",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Okay, come on boys, come on in here. George, this is Herb and Dan.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Regards don't mean anything. I mean, it's not like I said hi. Hey, the fact is...  I shouldn't say anything.",
+      "characters": [
+        "Susan",
+        "Willie",
+        "Debby",
+        "Jerry"
+      ],
+      "correctAnswer": "Debby"
+    },
+    {
+      "quote": "Well you shoulda seen the pile of albums this old guy I was visiting today was throwing away: Sinatra, Duke Ellington, Al Jolson, Benny Goodman...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you bought me dishwashing gloves. There's no *fine touch*...",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, Mr. Steinbrenner, you know, w-we've searched everywhere, th-there's no sign of him. n-n-Not even anyone who remotely fits his description, sir.",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Sorry I'm late, but look what I found in the Yankee Hall of Pride display case.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Chocolate chip mint? Oh well, actually Jerry I prefer chocolate chip. What is it about the chocolate and the mint that makes it go so well together?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

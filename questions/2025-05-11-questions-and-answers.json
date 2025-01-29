@@ -1,0 +1,106 @@
+{
+  "gameNumber": 129,
+  "date": "2025-05-11",
+  "questions": [
+    {
+      "quote": "Hey Kramer, my parents are gonna have to move back to Florida, isn't that great?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Look, see. I still have my business card.  Yeah, we've been on strike for 12 years.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. And since you go buy there everyday. I was hoping that we could help each other out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Buckles"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nobody does. You know, nobody knows what to do. You just close your eyes and you hope for the best. I really think they're happy if you just make an effort.",
+      "characters": [
+        "Jerry",
+        "Darren",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, he was pretty devastated. This is his first race in 3 years.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I've got to hose the puke off the floor of the bus.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe Manya missed the funeral because she was off visiting another galaxy that day.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's very funny. Elaine told me you were some kinda comedian.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Brett",
+        "Kramer"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "...Well, obviously... You know...  Ap..ap, Chu... Why would you think I was having an affair with George?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now you're being audited because of it. You see That's Karma.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

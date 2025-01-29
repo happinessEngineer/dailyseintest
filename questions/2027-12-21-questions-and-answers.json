@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1083,
+  "date": "2027-12-21",
+  "questions": [
+    {
+      "quote": "I thought that new promotion was supposed to be a lot more work.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Melissa"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm just a little nervous. OK, I gotta relax. Phew. Wish me luck, huh?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Then the doctor writes more stuff down and doesn't even look at my rash.",
+      "characters": [
+        "Elaine",
+        "Willie",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Good. O.K.  What about last year when I took him to the hospital every day? Did he ever say thank you?",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Kramer",
+        "Rick"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Kramer tells me that you are interested in an alternative to surgery.",
+      "characters": [
+        "Tor",
+        "Deena",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "Know body died. Jack I want you to do me a big favor.  In my garage there are a couple of boxes.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Naomi",
+        "Sid"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey, this looks like the thing I have. Caused by exposure to benzene, a common ingredient in metal cleaners.",
+      "characters": [
+        "George",
+        "Phil",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, I'm really looking forward to this duck. I've never had food ordered in advance before.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What do you mean you felt the material? What, with your fingers like this?",
+      "characters": [
+        "Cindy",
+        "Jerry",
+        "Frank",
+        "Lloyd"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I've seen MOST of it. I guess my favorite would have to be, uh... Chapter 2. Have you ever seen that?",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

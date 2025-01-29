@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1050,
+  "date": "2027-11-18",
+  "questions": [
+    {
+      "quote": "They're all off the project. They were boring. George, you are my main man.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Oh, he's come up with some other move. You should see this thing.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Hal",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Whoever wants to move them, why do I care who moves them? They can move themselves if they want.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I got no A/C and I gotta keep the blood cold or it'll go bad.",
+      "characters": [
+        "Kramer",
+        "Audrey",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey. Super's in my bathroom changing my shower head. Have they changed your shower head?",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, these people work and wait their whole lives to move down here, sit in the heat, pretend it's not hot, and enforce these rules.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to go meet Nina. Want to come up to her lot, check out her paintings?",
+      "characters": [
+        "Kramer",
+        "Enzo",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I'm like ice, buddy. When I don't like you, you've got problems.  Oh, is this for the fight?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And get this - I'm working in Atlantic City this weekend, and she's going to be down there for the pageant.",
+      "characters": [
+        "Ping",
+        "Kramer",
+        "Lippman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know, we haven't brought the Elaine character into the show yet. Umm, We should try and get her into this scene.",
+      "characters": [
+        "Chiles",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

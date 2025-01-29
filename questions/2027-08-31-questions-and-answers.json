@@ -1,0 +1,106 @@
+{
+  "gameNumber": 971,
+  "date": "2027-08-31",
+  "questions": [
+    {
+      "quote": "I mean, I thought he liked me. I really thought he liked me. we were getting along. He came over to me I didn't go over to him.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Jerry, if you're gonna be snacking on these, you can't expect me to pay for the whole box.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, come-on, Jerry--I don't wanna lose this feeling. Hey--let's go down to the O.T.B. We'll put some money on the ponies.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No don't do this.  You're not doing this. I will fight you. No you don't... No.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see it's kind of got a little piece of cloth that's slipped underneath and it's ...",
+      "characters": [
+        "Dana",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "I'll call Jack Klompus, he's got a key to the garage. He can send them overnight delivery.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah. He said, um, he said it's really important that we call them O'Brien and Murphy.",
+      "characters": [
+        "Sid",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. Well listen, I almost forgot to ask you. What happened at the funeral? Now, did you talk to Alec berg?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Dad, you know what it takes to compete with Microsoft and IBM?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's been flagged. I know. I used to work in a Brentano's. Mister, we're trying to help the homeless heare - it's bad enough that we have some nut out there trying to strap 'em to a rickshaw!",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Rebecca",
+        "George"
+      ],
+      "correctAnswer": "Rebecca"
+    }
+  ]
+}

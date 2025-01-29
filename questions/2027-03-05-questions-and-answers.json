@@ -1,0 +1,106 @@
+{
+  "gameNumber": 792,
+  "date": "2027-03-05",
+  "questions": [
+    {
+      "quote": "No, no, it's all right. I had a friend who had rabies once.  May I have one of those, madam?",
+      "characters": [
+        "Lanette",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You want a Christmas card? You want a Christmas card? All right here. [rubs George's head on her breasts] Here's your Christmas card.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you know, we were playing a game and, you know, I was pitching, and I was really throwing some smoke. And Joe Pepitone, he was up, and man that guy, you know, he was crowding the plate.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know Ron's Records down on Bleeker? They pay big cash for used records!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "See, what they gotta do is loose a plane or a Greenpeace boat in there. See, that would get the triangle going again.",
+      "characters": [
+        "Bob",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Well...He's singing at a benefit and I'm gonna be sitting at his table.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you see the irony here? You're rejecting somebody because they're bald.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, intervene, go intervene all you want. I am just afraid you might be interfering while we're intervening.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, so what are you gonna do? You gonna wait for the cable companies to resolve their dispute? They're gonna be in court for years.",
+      "characters": [
+        "Jerry",
+        "Eddie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're not the type that should be playing with matches, seriously Kramer.",
+      "characters": [
+        "Elaine",
+        "Raymond",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

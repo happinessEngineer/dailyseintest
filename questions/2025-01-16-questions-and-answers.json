@@ -1,0 +1,106 @@
+{
+  "gameNumber": 14,
+  "date": "2025-01-16",
+  "questions": [
+    {
+      "quote": "Because you kissed me. You kissed me, you stupid idiot! Rita called Russell and he fired me over the phone.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Susan",
+        "Morty"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Mmm. This food is fantastic, PEGGY: And what a pretty radish rose, huh?",
+      "characters": [
+        "Doctor",
+        "Salesman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no no no no I'll take it. Why don't you come over. Let's see if it will fit in my bedroom.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You are not gonna believe this! I told him that I just wanted to be friends. He's fine with it. He really wants to be friends.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But he doesn't know that. As far as he knows, somebody stole it, and that's the person who should be responsible.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Frank, this new holiday of yours is scratching me right where I itch.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Michael",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I really hate people who do that. I hope you don't let him get away with it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Sheila"
+      ],
+      "correctAnswer": "Sheila"
+    },
+    {
+      "quote": "Y'know there are tribes in Indonesia where if you keep your coat on in somebody's house, the families go to war!",
+      "characters": [
+        "George",
+        "Marla",
+        "Jerry",
+        "Bette"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe it! You were *huge*! Like blubber! I couldn't even get my arms around you...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Him and his little buxom friend Rachel were going at it pretty good in the balcony.",
+      "characters": [
+        "Newman",
+        "Steinbrenner",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

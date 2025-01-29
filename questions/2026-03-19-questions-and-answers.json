@@ -1,0 +1,106 @@
+{
+  "gameNumber": 441,
+  "date": "2026-03-19",
+  "questions": [
+    {
+      "quote": "Wow. You're so pious. I really respect that. You know when you die, you're gonna get some special attention.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. I'm flying them in to meet Ellen. I don't know where to turn! I gotta see what they think of her.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Tony",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I just found twenty dollars! I tell you this, something is happening in my life. I did this opposite thing last night. Up was down, black was white, good was -",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ho ho ho Well come on little Princess, tell Santa what you want. Don't be shy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Deeply in love. If you can't say anything bad about a relationship, you shouldn't say anything at all.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guarantee you that Moses was a picker. You wander throughh the desert for forty years with that dry air. ... You telling me you're not going to have occasion to clean house a little bit.",
+      "characters": [
+        "Announcer",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "the four of us are going out Saturday right? That should be fun",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Todd"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I'm tellin ya the pig-man is alive. The government has been experimenting with pig-men since the fifties.",
+      "characters": [
+        "Izzy",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Her birthday's comin' up, see, so I decided to get her a little present.",
+      "characters": [
+        "Jerry",
+        "Conrad",
+        "Katya",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He's this guy that I went to Tuscany with. He's a great guy, but I just wouldn't feel comfortable calling him.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

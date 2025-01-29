@@ -1,0 +1,106 @@
+{
+  "gameNumber": 702,
+  "date": "2026-12-05",
+  "questions": [
+    {
+      "quote": "Hey George, one second, she's having a party friday night and she wants me to take care of the invitations.",
+      "characters": [
+        "Cindy",
+        "Puddy",
+        "Marcelino",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, are you listening?! I didn't even get there!  All right, next story..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "After dark? Please. At their age, that's like swallowing stun grenades.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Have you given any more thought to what we talked about? You know, moving in?",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Daphne",
+        "George"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Yeah, yeah. I've heard that. Meanwhile I'm here with you in a parking garage, what am I supposed to do?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Sophie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay. So, is there any song that you feel very strongly about?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Please! Get help! There's a crazy big-headed woman beating up some guy! Tell the police \"The Old Mill Restaurant\". Hurry!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Well would you tell this jury exactly what you saw at the corner of 83rd Street and Columbus?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Yes. Yes  I ran into her today.  This woman has never, not once, ever, as long as I have known her, worn a bra.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mohel",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, a person that gives something and then they're dissatisfied and they wish they had, had never uh...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

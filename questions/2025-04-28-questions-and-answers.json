@@ -1,0 +1,106 @@
+{
+  "gameNumber": 116,
+  "date": "2025-04-28",
+  "questions": [
+    {
+      "quote": "Again, Mr Mandelbaum, this back specialist is supposed to be the best. So if there's anything else I can do, please don't hesitate to, uh, try and find my number.",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "God it's so hot in here. Why don't you put on the air conditioning?",
+      "characters": [
+        "George",
+        "Patrice",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ya, ya. I bumped into him on the bus. What did he have to say?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Attendant"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh now, don't tell me you're still mad at him for calling you a phony. Jerry, that was five years ago!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The ending is the whole thing. Without the ending, it's nothing. You had *nothing*.",
+      "characters": [
+        "Kramer",
+        "Milos",
+        "Robin",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Coincidence? This guy's in my apartment and then, just by coincidence, he has the same exact statue in his apartment?",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whew! Boy, it's cold outside, huh? Oh, these New York winters, huh. Bitter cold, bitter.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah... Hey, Jerry, would you like anything from Mrs. Hudwalker's apartment?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Harold",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Naw. Each one is for like twelve cents. It's barely worth the pain in my hand to sign 'em.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why don't you call Steve D'Jiff, he works in the marketing department at Calvin Klein. In fact he's a good friend of John Mollika and Richie also.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

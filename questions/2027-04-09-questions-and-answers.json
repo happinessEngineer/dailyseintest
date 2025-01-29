@@ -1,0 +1,106 @@
+{
+  "gameNumber": 827,
+  "date": "2027-04-09",
+  "questions": [
+    {
+      "quote": "So, anybody leaves anything here, you can just take it? You have a license to steal? You are like the James Bond of laundry?",
+      "characters": [
+        "Abby",
+        "Silvio",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I'm not Latvian Orthodox. Her parents won't let her get involved with anyone who isn't Latvian Orthodox.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rava",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My parents don't read! They're gonna wonder what a book is doing on the table!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Melanie, you can shush me at every opportunity. 5? 3? Oh, it was just an expression. All right, well, that's very sweet of you. Okay, I'll call you later. All right, bye. Hey!",
+      "characters": [
+        "Jake",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The walking date is a good date. You don't have to look right at the other -person.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. You get a couch. I get rid of my father. It couldn't be more perfect!",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "you better be careful on those rocks tomorrow buddy. And you're not getting any sandwiches either",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I never had feelings for Gary until he got sick. But, h... he was so brave and... and gained such a wonderful perspective on life. I... I fell in love with him.",
+      "characters": [
+        "Morty",
+        "Bob",
+        "George",
+        "Debby"
+      ],
+      "correctAnswer": "Debby"
+    },
+    {
+      "quote": "Obviously I'd rather sit than stand, if that's what your asking.",
+      "characters": [
+        "Kramer",
+        "Guard",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Guard"
+    },
+    {
+      "quote": "Of course not. I mean sure, there may have been one or two occasions in the past, when I may have reacted in uh impulsive or somewhat immature manner, but those days are well behind me.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

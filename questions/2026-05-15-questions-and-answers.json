@@ -1,0 +1,106 @@
+{
+  "gameNumber": 498,
+  "date": "2026-05-15",
+  "questions": [
+    {
+      "quote": "Because I'm going to be playing golf at the Westchester country club. Mmh.",
+      "characters": [
+        "Jerry",
+        "Sally",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah I better get to a doctor, bye.  That was close! What drives me to take chances like that?",
+      "characters": [
+        "Kramer",
+        "Noel",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, do you realize that Rava has asked me to edit her book?",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Jerry",
+        "Herb"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, that's a fair question. It is, uhm...  Jerry, yeah.  Jerry's a friend of mine.  He uh, he gave it to me. Unbelievable how many addresses of people this guy has.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had to give him a tissue. In fact, let me call his machine now and I'll just make up some excuse why I can't go to the game either.",
+      "characters": [
+        "Conrad",
+        "Helen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah. Stick.  'Cos I could still go to the coffee shop.",
+      "characters": [
+        "Kramer",
+        "Karen",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That would be good too. The idea is combine the this and the that. But this cannot be disturbed.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She knows that I have her clock. I know that she has my hat. I think she's getting ready to make an exchange.",
+      "characters": [
+        "Woman",
+        "Announcer",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I know the guy. I take my stuff in there all the time. Yeah, I bet I can get your watch back by tomorrow morning.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Attendant",
+        "Dana"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

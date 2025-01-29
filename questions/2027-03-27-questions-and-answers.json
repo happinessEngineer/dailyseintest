@@ -1,0 +1,106 @@
+{
+  "gameNumber": 814,
+  "date": "2027-03-27",
+  "questions": [
+    {
+      "quote": "See, I told you I wasn't funny all the time.  Hey George, look, I'm not funny now.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I see,  \"I pulled the lever on the machine, but the Clark bar didn't come out!\" Exclamation point?",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Oh, nothing much. You know, I went over to Jerry's. Talked to Jerry. Um, could I talk to you for a minute?",
+      "characters": [
+        "George",
+        "Rudy",
+        "Izzy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I... I think I'm... I'm having trouble swallowing. I can't... I can't swallow.",
+      "characters": [
+        "Poppie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You call me fatso one more time; you're going to be walking back.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, sure. Of course, you're entitled. Who doesn't want this, that, and the other?",
+      "characters": [
+        "Pam",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So get this: we're in the park today Alex goes wild for this hairless dog.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't understand, Elaine. I don't want to be overanxious. If he wants to see me he has my number, he should call.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ben",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You remember that next door neighbor of mine, the apartment that always smells like potatoes?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Guy",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What is wrong with my hair? Nobody takes better care of their hair than me. You can serve dinner on my head.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

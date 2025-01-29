@@ -1,0 +1,106 @@
+{
+  "gameNumber": 716,
+  "date": "2026-12-19",
+  "questions": [
+    {
+      "quote": "Oh, sure she was; Asked me where the 'humor' section was? Humor? Come on.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe this. So what are you saying? You didn't like my act, so that's it?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Poppie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Poppie...you really think people wanna make their own pizza?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know, but don't say anything to anyone. He told me not to tell you.",
+      "characters": [
+        "Stationer",
+        "Maura",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know you should keep in touch. Something may be opening up in a few weeks. Is that a Bruline?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Landis",
+        "George"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "You know, it's strange, because he's such an honest mechanic.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I got the tools. I got the pillows. All I need is the lumber.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because, I was thinking... are you at all concerned that living in the same building will, y'know... cramp our styles?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, that's a dangerous fruit. It's like a weapon that thing, got spikes on the end. You can get killed from one of those things.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you understand the very thought, the very idea, I'll never be comfortable again.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "Jane"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

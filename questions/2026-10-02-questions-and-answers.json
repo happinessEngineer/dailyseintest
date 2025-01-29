@@ -1,0 +1,106 @@
+{
+  "gameNumber": 638,
+  "date": "2026-10-02",
+  "questions": [
+    {
+      "quote": "My parents. It's their anniversary. I'm taking them out to dinner and a show tonight. You think we'll hit traffic?",
+      "characters": [
+        "Dana",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. As long as you're okay. Because I can't stop thinking about her.",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Peterman",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There you go, okay? That's my *other* friend's ticket. You happy now? You got two tickets.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Russell",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The blond with the blue sweatpants! Yeah, I think I've seen her.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Noel",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's almost six now. Can't we just wait til he goes home?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Hoyt",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah no no no no no. A better way to reach the bra would be to undo the jacket, then go around the back of the shirt.",
+      "characters": [
+        "Ade",
+        "Kramer",
+        "Landis",
+        "George"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "...But I have made a decision.  We will cut the bike down the middle, and give half to each of you.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Bob"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You wouldn't believe it if I told you. In fact, uh, I'm glad you're here. You know, maybe I've been a little rough on ya, huh?",
+      "characters": [
+        "Levitan",
+        "Stu",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "There's no fights here, Mr. Costanza. This is a minimum security facility.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Betsy",
+        "Kramer"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Grandma Memma's napkins. There's two missing. Elaine took them didn't she?",
+      "characters": [
+        "Kramer",
+        "Rabbi",
+        "Morty",
+        "Holly"
+      ],
+      "correctAnswer": "Holly"
+    }
+  ]
+}

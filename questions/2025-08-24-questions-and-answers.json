@@ -1,0 +1,106 @@
+{
+  "gameNumber": 234,
+  "date": "2025-08-24",
+  "questions": [
+    {
+      "quote": "ladies and gentlemen for this evening's performance the part of Rochelle will be played by Gennice Grant.",
+      "characters": [
+        "Announcer",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "I think it was a gun. And then they followed us all the way into the city, and then they just stopped and they turned around and they went home.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I can't stay under my own name. I was registered under Slappy White.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ray",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I workshopped that and.. SNOOZERS!!! he he he....but I'll tell you what I'll think... It's all a journey.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Sally",
+        "Rabbi"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "The very pants I was returning. That's perfect irony! Elaine, that is interesting writing!",
+      "characters": [
+        "Morty",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Looks like what you really need is a decent desk for writing your skits.",
+      "characters": [
+        "Brett",
+        "George",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "She dumped me! She rolled right over me! Said I was a hipster dufus. Am I a hipster dufus?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Orchestra, Row G, dead center, primo! You'll think you died and went to heaven.",
+      "characters": [
+        "Phil",
+        "Michael",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, and I - I heard you got on their good side. Now, what'd you do?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So she's flipping around the TV, and she gets to the naked station.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Stan",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

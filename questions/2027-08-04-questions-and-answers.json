@@ -1,0 +1,106 @@
+{
+  "gameNumber": 944,
+  "date": "2027-08-04",
+  "questions": [
+    {
+      "quote": "What are you two talking about? Look, Elaine just wasn't the one.",
+      "characters": [
+        "Mickey",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We missed you at the get well party. Poor old Walt has a polyp in the duodenum. It's benign, but--ooh--still a bastard. Oh, Elaine, can you keep a secret?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "And you! How many Twix does that make for you, today?! Like, 8 Twix?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I went in with a pretty woman? You know, kinda short, big wall o' hair, face like a frying pan?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, I spoke to Paul an' Noreen. They might be breakin' up.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We're gonna hang around here a little while....something funny going on here",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Apparently she doesn't think much of this George fellow either. I recall the word loser peppered throughout her conversation.",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Corinne",
+        "Jerry"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "All right, listen. There is something I haven't told you, all right?",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "George",
+        "Brody"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "But you gave me a ticket to the Super Bowl.  Hand it over, Whatley.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't think you wanna get hurt. Because if you wanna get hurt I can hurt you. Now, just back off.",
+      "characters": [
+        "Bob",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Bob"
+    }
+  ]
+}

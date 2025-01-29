@@ -1,0 +1,106 @@
+{
+  "gameNumber": 113,
+  "date": "2025-04-25",
+  "questions": [
+    {
+      "quote": "Let me digest it. Let me get my money's worth. Y'know what would be good is if there was someone else in the bathroom that could tell me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Voice",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, I guess you don't find the separate faucets for the hot and cold, charming?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Noreen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I tell you, Jerry, I'm feeling something. Something I haven't felt in a long time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no no no, Cynthia's just a successful businesswoman who's taken me under her wing.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Oh beautiful. Listen, we've got a little problem here, we've got two extra tickets.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The mother of all mail days. And guess who signed up for the truck.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "There was a man, he was trying to get into my apartment last night. He was jiggling the doorknob for twenty-five minutes.",
+      "characters": [
+        "Lippman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Well you know its.. great. You know, no kids ..allowed. you don't have to watch your language.\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Captain",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There are four different levels. Maybe we're on the wrong level. How long was the escalator ride up?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Rula"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Puddy thinks I should go for the CD player. What do you think?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

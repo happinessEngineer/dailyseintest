@@ -1,0 +1,106 @@
+{
+  "gameNumber": 779,
+  "date": "2027-02-20",
+  "questions": [
+    {
+      "quote": "Your whole business is based on other drivers. It's a rented car. That's who's driving it, other drivers. Doesn't my credit card cover me or something?",
+      "characters": [
+        "Jerry",
+        "Dan",
+        "George",
+        "Doorman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's Romanian. What am I gonna talk to her about, Ceausescu?",
+      "characters": [
+        "Elaine",
+        "Gina",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, the anger, it just melts right off. Serenity now. Look at this. Serenity now!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Holly",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We're double dating tonight, and if we wear the same shirt we'll look like idiots.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Michael",
+        "Tor"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Pat Buckles, ladies and gentlemen. Another round of applause for Pat Buckles!",
+      "characters": [
+        "Announcer",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "Yes it is. She just took credit for my salad. That's not right.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Tim",
+        "Alton"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, let's turn off the lights, get some real 'movie atmosphere.'",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Nina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well. I've encouraged her to go back into the Army... There she'll get the structure an' the discipline she needs right now... And she'll have qualified officers telling her what to do...",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Bailed? C'mon, you knew I wanted to be a comedian. Besides, we had some good time. Remember Tropical Storm Renee?",
+      "characters": [
+        "Elaine",
+        "Detective",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So? I'm innocent! I mean you guys believe that I'm innocent, don't you? Jerry? George?",
+      "characters": [
+        "Ray",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

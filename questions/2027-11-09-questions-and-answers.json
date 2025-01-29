@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1041,
+  "date": "2027-11-09",
+  "questions": [
+    {
+      "quote": "But, I live here! I ran out to buy some birdseed, and-and I forgot my key.",
+      "characters": [
+        "Phil",
+        "Kramer",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "Yeah, right!. On Prancer, on Dancer, on Donna, on Ethyl, on Harriet.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mickey",
+        "Newman"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Wait a second wait a minute, You jealous of him or you jealous of me?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, she keeps it in my apartment for when she comes up from Florida.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mike",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, I don't think I'm special. My mother always said I'm not special.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, that's what he has and I have to give him a call. Now we gotta came clean.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Milos"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I said preferably cashmere, for warmth. So in front of the whole party, he says, 'No. I don't want you stretching out the neck hole.'",
+      "characters": [
+        "Shelly",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I uh, spilled a yogurt smoothie in here two days ago. Hm, Can't smell anything, can ya?",
+      "characters": [
+        "Receptionist",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What happened to Babs. She never showed up last night. The whole thing blew up in my face.",
+      "characters": [
+        "David",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we'll get to know each other. We never get to spend any time together. Oh sure we have our little group here, but ...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

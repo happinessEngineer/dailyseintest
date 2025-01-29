@@ -1,0 +1,106 @@
+{
+  "gameNumber": 92,
+  "date": "2025-04-04",
+  "questions": [
+    {
+      "quote": "No, you had some good stuff. The cancer bit? I mean, it was edgy, it was not my sort of thing but some of those people out there, they really liked it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Whatever it costs. In fact, I would prefer it if the machines are not even touching each other. Because something could, you know, jump across.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I always wanted to drive the big rigs. I used to watch those commercials during the reruns of Gomer Pyle.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Carol, that's so rude. Please, I'm serious, just for a moment, if you wouldn't mind. And then we'll talk to Jerry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you really want to know what happened? I'll tell you what Happened. She wasn't my type.",
+      "characters": [
+        "Sylvia",
+        "Newman",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey, I eat healthy. If I have to take out an eye, that's the breaks.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I, uh, just think it's a little unusual. Two people to sit on one side...and leave the other side empty.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, yeah, he's fine! We took him to the emergency room, and you know, the x-rays were all negative.  It was quite a day!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's another way it can go down, and it's going down right now!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Christie"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "See, didn't bother Susan either. That's why I'm different. I can sense the slightest human suffering.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

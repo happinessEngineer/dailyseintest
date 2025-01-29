@@ -1,0 +1,106 @@
+{
+  "gameNumber": 671,
+  "date": "2026-11-04",
+  "questions": [
+    {
+      "quote": "What about the skin? I need a good cheek, I like a good cheek.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Herb"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mr Wilhelm, listen. You've been abducted! Please, Mr Wilhelm, you gotta listen to me!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Holly",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He was not the summer you. Besides, you had a summer me. Whitey Fisk, the guy who snuck you into Last Tango in Paris.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Me? Oh no, but I'd love to have a baby, I mean, I can't wait to have a baby. I'm just dyin' to have a baby.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait, wait, Mr Steinbrenner. George doesn't deserve any of the blame for what happened in the parking lot today, sir. If there's anyone to blame here, it's me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Faking? What makes you think that I have time to see doctors, take X-rays, make appointments, when there's absolutely nothing wrong with me? What kind of a person would do a thing like that?",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Good, as a matter of fact. I almost had my own show in Japan.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I understand, I like good breakfast. Long as you don't wind up trapped in a room with bib overalls and pigtails, been counseled by Dick Gregory.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, you got that straight!  Hey, Elaine, try the beef - because that's realy au jus sauce, huh.  Real au jus sauce!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're cut of the loot. Stubs gave me 200 dollars for the autographed birthday card that was inside.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

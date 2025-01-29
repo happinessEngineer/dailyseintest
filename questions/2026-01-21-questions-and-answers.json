@@ -1,0 +1,106 @@
+{
+  "gameNumber": 384,
+  "date": "2026-01-21",
+  "questions": [
+    {
+      "quote": "So uh, how are you getting to the airport? D'you need a ride, or...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Hoyt"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, so what? You're gettin' a deal, right? We'll split it three ways.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I had to cancel it. For some reason my wife got it into her head that it was more than just a massage.",
+      "characters": [
+        "Jerry",
+        "Morgan",
+        "Kate",
+        "Kramer"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "No, I can't, I can't. See, I told Frank he could borrow it. Yeah, he wants to move some of George's stuff into storage.",
+      "characters": [
+        "Kramer",
+        "Cop",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The average person in a situation like this, they walk right by it. Not me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Rick",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So the Wig master.......the Wig master said you could stop by the theater tonight.. and he'll show you around.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I think you should either take it off or tell her about it.",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well , I just came from the gym , unless I can shower at your place.",
+      "characters": [
+        "Babu",
+        "Elaine",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Jerry, you're parking meter's about to expire. Don't get up, I've got change.",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "Kramer",
+        "Ellen"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "... if this audit had happened to me and I didn't have this woman to help me I would have killed this man. I would have strangled the life out of him with my bare hands",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Officer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

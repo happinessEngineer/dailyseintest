@@ -1,0 +1,106 @@
+{
+  "gameNumber": 299,
+  "date": "2025-10-28",
+  "questions": [
+    {
+      "quote": "I pressed through the rushes and there, the native dancers whirled before me: limbs flailing, arms akimbo, feet kicking up dust...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Worker",
+        "Kramer"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "So, I've got ice cream all over my face. There were no napkins there. Whoever it was that's responsible for stocking that concession stand cost me a relationship.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Worker"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Chunnel , is playing at the Paragon 84th Street cinema in the main theater at 9:30 PM.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jack can afford to give away a pen with all his money. Believe me. He gives me a check for 19.45. He didn't have a Coke. Ho, ho, ho!",
+      "characters": [
+        "Morty",
+        "Patrice",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hello, Jerry. Say, this yogurt is really something, huh? And it's non-fat! I've been waiting for something like this my whole life! And it's finally here!",
+      "characters": [
+        "Newman",
+        "George",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Elaine, he's a psychiatrist. They're interested in stuff like that.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, let me ask you something something. Did George buy that sweater knowing the red dot was on it because it was cheaper?  Ooookay, you just gave me the answer.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've eaten 23 bad subs, I just need 1 more! It's like a long, bad movie, but you want to see the end of it!",
+      "characters": [
+        "Bette",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I fell asleep in the hot tub and the heat pump broke. Water went down to 58 degrees. I can't get my core temperature back up!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe she could like me? Is it that far fetched? Maybe she sees something? Is it possible?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

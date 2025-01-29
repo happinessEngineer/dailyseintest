@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1108,
+  "date": "2028-01-15",
+  "questions": [
+    {
+      "quote": "Alright, I'll tell you the truth. I'm not gay. My name's Buck Naked, I'm a porno actor.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Eva"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on, wait a second, this whole thing is ridiculous. How do I even know she wears the same size?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Great news! I showed the pilot to Kramer's Japanese friends. They loved it!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay. Now, I know this is an important decision. Why don't we all just sit down and talk about it? Come on, come on.  Now, look, you both find each other attractive, right?",
+      "characters": [
+        "George",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's the perfect cover for a money laundering operation . No one can keep track of all those kids with the little orange boxes of change.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't get you. Who goes on vacation without a job? What do you need a break from getting up at eleven?",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I just got back from swimming in the pool. And the water was cold...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Saleswoman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well you know it's funny George. Sometimes you don't know how you're really feeling about something until a person like you comes along and articulates it so perfectly.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Beth",
+        "Jerry"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Yeah. Well, she was very affectionate - which I love. You know I love that - but mentally, we couldn't quite make the connection.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Captain",
+        "Toby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look. It's a skill, just like juggling. She probably enjoys showing it off.",
+      "characters": [
+        "David",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

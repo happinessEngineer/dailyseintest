@@ -1,0 +1,106 @@
+{
+  "gameNumber": 837,
+  "date": "2027-04-19",
+  "questions": [
+    {
+      "quote": "All right. What are you, outta your mind? Look at this. What did you buy here? You will never be able to finish all this stuff.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Salesman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, Silvio's down there. He's shoveling the walk. Now, all you gotta do is put this on, you go down to the corner, you pick up a paper, and you come right back.",
+      "characters": [
+        "Steven",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I used to be able to have a huge meal and go right to sleep. But I can't anymore.",
+      "characters": [
+        "Jerry",
+        "John",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...so my shrink wants me to bring my mother in for a session. This guy is a brilliant man. Lenny Bruce used to go to him. And I think, uh, Geraldo.",
+      "characters": [
+        "Bania",
+        "Ray",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Relationships are difficult. It's very hard to stay together-",
+      "characters": [
+        "Bruce",
+        "Farkus",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Bruce"
+    },
+    {
+      "quote": "No, no, no. It was a fearless cat burglar.  Now listen, you gotta let me sleep here, huh? Y'know, I'll stay here on my side, and I'll stuff a sock in my mouth.  'Cos I don't wanna sleep alone.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How 'bout if it was something like \" I can't find my receipt my place's a stye.",
+      "characters": [
+        "Stationer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Going to the dog pound, everybody! Going to the dog pound, come on down.  What?",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Stu",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Paccino's? Oh no. You should never order pizza from Paccino's.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay. Tomorrow, Jerry and I will visit Izzy and apologise. Now, goodnight.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

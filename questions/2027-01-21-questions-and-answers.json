@@ -1,0 +1,106 @@
+{
+  "gameNumber": 749,
+  "date": "2027-01-21",
+  "questions": [
+    {
+      "quote": "Will you stop worrying? Jackie's going to get us off. He never loses. How about when he asked that cop if a black man had ever been to his house. Did you see the look on his face?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what I'm going to do? I'm going to run around the stadium and close all the windows. That's where I'm going, pal. And I'll tell you something else. I'm very nervous.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I don't know, 120, 130…Then they sent some guys to sandblast for 6 hours. Tomorrow they are putting in asbestos.",
+      "characters": [
+        "George",
+        "Rick",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I believe I referred to her personality as a potential science exhibit.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't understand. How can you have a cigar store, without an Indian? It's unseemly.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry told me so much about you, I feel like I know you intimately",
+      "characters": [
+        "Jane",
+        "Tim",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Hey! What are you doing? It's after six o'clock! You can't give me a ticket! Hey, you're not gonna get away with this. I'll fight this. I got witnesses.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, let's see? I seem to recall a conversation with Mrs. Winston in 1F.",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "I'm not going to give him $300 now for a suit with moisturizer cream all over it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's their secret sign! See, Van Buren, he was teh eighth President..  They thought I was a former Van B. Boy!",
+      "characters": [
+        "Kramer",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

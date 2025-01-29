@@ -1,0 +1,106 @@
+{
+  "gameNumber": 70,
+  "date": "2025-03-13",
+  "questions": [
+    {
+      "quote": "Kramer's got more muscle, higher protein content. It's better for you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should read the letters he's written. He's funnier than the whole bunch of you!  Oh, here's Jack. We should sit down.",
+      "characters": [
+        "Leo",
+        "Newman",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Well, that didn't work. Hey, how about this…ketchup and mustard in the same bottle?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I wanted to talk about how we have nothing to talk about.",
+      "characters": [
+        "Gavin",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let me understand, you got the hen, the chicken and the rooster. The rooster goes with the chicken. So, who's having sex with the hen?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Gina"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I know it's a big problem.. she puts like four pieces in her mouth, it's ridiculous, I don't think we're gonna be able to get together on Saturday night",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Chiles",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what we have here, doctor, is uhm, an extraordinary situation.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boys, this is Elaine. . . . Sorry, they're usually very friendly. Hey!",
+      "characters": [
+        "Jerry",
+        "James",
+        "Salesman",
+        "Elaine"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Well, again, sorry about that little mishap. But once you get everything checked out there shouldn't be anymore problems.",
+      "characters": [
+        "Jerry",
+        "Captain",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "I got three 'Pottery Barn' catalogs in one day. That makes eight this month.",
+      "characters": [
+        "Receptionist",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

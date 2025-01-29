@@ -1,0 +1,106 @@
+{
+  "gameNumber": 750,
+  "date": "2027-01-22",
+  "questions": [
+    {
+      "quote": "Madeline and I are watching Quincy together. Jerry, you know this comes on at the same time here as it does there?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Carrie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "With all due respect, Mr. O'Brien, we're just about to leave.",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "This woman left this really sexy message on Jerry's tape recorder......",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If you really want, maybe I can contact the guy in Singapore and have him make a photostat of the receipt and send it over.",
+      "characters": [
+        "Kramer",
+        "Ray",
+        "Nana",
+        "Jerry"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Ha ha. Everything's timed out to perfection, Jerry. Slippery Pete's got the Frogger running on battery power, the truck will be there any minute, and Kramer's taped out the loading zone.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Susan has the doll collection.. one of the dolls looks exactly like my mother.. she likes to sleep with it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Check these out. I just picked them up from Sheila. She must have loved these.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I've been watching too much. It was an addiction. I couldn't stop. It was, it was destroying my brain cells.",
+      "characters": [
+        "Patty",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. You buy me a meal -- you can't get a better deal than that",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Oh. That wasn't really necessary. I don't ride it. It's just for show.",
+      "characters": [
+        "Lippman",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

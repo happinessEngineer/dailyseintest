@@ -1,0 +1,106 @@
+{
+  "gameNumber": 738,
+  "date": "2027-01-10",
+  "questions": [
+    {
+      "quote": "Oh, it's a beauty! It's got these high-volume aqua-sage jets oscillating and pulsating, soothing your every aching muscle. The water's gonna get over 120 degrees!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The man in the cape--I bet you he is mixed up in this! I don't trust men in capes.",
+      "characters": [
+        "Hoyt",
+        "Phil",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But of course you know I would. I would do anything for you. Anything.",
+      "characters": [
+        "Eva",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "Well, it doesn't even have to be the general manager. Maybe I could be like, an announcer. Like a color man. You know how I always make those interesting comments during the game.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Haarwood"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He wants to install Kramer in a puppet regime and then wield power from behind the scenes. Preferably from the sauna in the clubhouse.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh.  Oh, I see.  Interesting.  Well, that's quite a project. Alright, thank you.",
+      "characters": [
+        "George",
+        "Tim",
+        "Clerk",
+        "Elaine"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Why not.  If she can't find me, she can't break up with me. And, if we're still goin' out, she has to gooo to the ballll.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Debby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh I suppose it's O.K. for Leonard Burnstein to be called Maestro because he conducted the New York Philharmonic. So he gets to be called Maestro and I don't.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Well I had to cut the gum out and I had a little trouble getting it even. So why don't you get undressed George.",
+      "characters": [
+        "Janet",
+        "Jerry",
+        "Jack",
+        "Morty"
+      ],
+      "correctAnswer": "Janet"
+    },
+    {
+      "quote": "He's a very good friend of mine, he's kind've like an older brother to me...when things don't go right, he kinda takes it personally.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Darren",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 484,
+  "date": "2026-05-01",
+  "questions": [
+    {
+      "quote": "Jerry, I felt like a straight man in some horrible sketch. He was riffing! Riffing! On my pain!",
+      "characters": [
+        "Mickey",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, who has a funeral on a Wednesday? That's what I want to know. I mean, it's the championship, I'm hitting everything.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Donald",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I really admire actors, you know. It's just such an incredible skill.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Rita",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Excuse me, uh, I don't mean to cause any trouble here, but George, if you take it, can I take your place?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I love this place. You know, Carl and I come here all the time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Robin, listen to me. The most amazing thing has happened. Kramer has opened my eyes. I think I've changed.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah I gotta get Testikov on tape. If this woman ends up in the \"New England Journal Of Medicine\" I'm not gonna pay for it.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, do you know what they do to dogs at the pound? They keep them there for a week and then if nobody claims them, they kill them.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Frankly I am shocked that you would ask such a question  of me, that you would think - the only surprise is how you could even think of that. That's what you were seeing.",
+      "characters": [
+        "Clerk",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You got bit by a strange dog and you didn't get a rabies shot?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

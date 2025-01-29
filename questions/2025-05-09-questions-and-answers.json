@@ -1,0 +1,106 @@
+{
+  "gameNumber": 127,
+  "date": "2025-05-09",
+  "questions": [
+    {
+      "quote": "Well, Kramer was right. My friend Kim told me the sponge is off the market.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, wow, these are nice. Do they have any cultural significance?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What a world that would be, if you just could ask a woman what she's thinkin'.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I want my vacuum cleaner! I know you can hear me. Look my mother, she's going to come and visit me. She sees that rug, she's going to kill me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Farkus",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, then the waitress, she comes up and she tells me to shut up or they're gonna throw me out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Sid"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, I found out who supplies the mannequins and I called 'em up.",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Elaine",
+        "Hoyt"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, right in the middle, the ship blows up-- burning debris, bodies falling-- and then just as this eerie silence settles over the airfield, I yelled out, \"That's gotta hurt!\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Fdr"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. You wanna know what one of her favorite expressions is? Happy, Pappy?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why must you always be the focal point of attention? Why can't you just be?  Why can't you live?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I got engaged. I'm getting married. I asked Susan to marry me. We're getting married this Christmas.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "David",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

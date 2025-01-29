@@ -1,0 +1,106 @@
+{
+  "gameNumber": 901,
+  "date": "2027-06-22",
+  "questions": [
+    {
+      "quote": "I was out for five minutes before, I couldn't feel my extremities.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh... here's a fact. Uh, I'm... the Wiz! I'm the Wiz and noooobody beats me!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "How can I not think about it? Look at the size of this thing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Rita",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uuh, long long time. Yes, I've seen moles so big they have their own moles. Freckles that cover two men.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Is that little Georgie C? How's the folks? You still got that nice little car?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Pop"
+      ],
+      "correctAnswer": "Pop"
+    },
+    {
+      "quote": "These Kramer stories are unusable!  I mean, some of them aren't even stories!  Look, this is a list of things in his apartment!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, and you're just what she's looking for too – a stranger leering through a pair of binoculars ten floors up.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you mean like this? So it looks like I'm saying something but I'm not really saying anything at all?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you're angry that this bizarre carpet cabal made no attempt to abduct you?",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because since you've been playing God with the front door, I've been tryin' to smooth things out, Jerry. In fact, I was just hanging out at his place.",
+      "characters": [
+        "Steve",
+        "Kramer",
+        "Jerry",
+        "Danielle"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

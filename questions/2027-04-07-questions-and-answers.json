@@ -1,0 +1,106 @@
+{
+  "gameNumber": 825,
+  "date": "2027-04-07",
+  "questions": [
+    {
+      "quote": "Well, Jerry, he doesn't have anything.    Well, but I might have something.",
+      "characters": [
+        "Kramer",
+        "Nurse",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes he was, and you know why? Because he was betrayed by people he trusted. They \"named names\".",
+      "characters": [
+        "Ned",
+        "Voice",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Ned"
+    },
+    {
+      "quote": "Tell you what. You're obviously concerned about your friend's welfare. A few of my students will be observing tomorrow's operation from the viewing gallery. How would you like to watch it with them?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Hey, what's the deal? What was goin' on there? I invite you down here, I have an important show, and she heckles me?!",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "Julie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?",
+      "characters": [
+        "Estelle",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, they told me that I got more blood, so I guess I owe you again.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, not giving. hoarding. I'm storing it in to a blood bank. Just in case.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well frankly, you can't keep a secret. You know, you'd get two pair, the whole table knows.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Gary"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Did you just roll your eyes at him? Because let me tell you something, if anobody should be rolling their eyes, it is me at him about you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I was almost Mr. Coffee. They felt I was a little too relaxed.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kevin",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

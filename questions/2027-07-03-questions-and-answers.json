@@ -1,0 +1,106 @@
+{
+  "gameNumber": 912,
+  "date": "2027-07-03",
+  "questions": [
+    {
+      "quote": "\"War--What Is It Good For.\"  Absolutely nothin' HUH! Say it Again! ahehehehe",
+      "characters": [
+        "Wyck",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well, so what? Laughter - what is that? I mean, what is the point of opening your mouth and going \"Ha, ha!\"? What is that? \"Ha, ha!\"?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's all George's fault. All that talk about impotence. It got to me. And that orgasm stuff: orgasm this and orgasm that. It's a lot of pressure!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Harold",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mr. Seinfeld, I might remind you that you are under oath.  Now I ask you again, did you or did you not, see this woman wearing a bra?!?",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "No, fine. If you wanna keep talking about it, we'll talk about it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "What do you think? The brought it over in pieces and screwed it together like a coffee table?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Babs"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What? After what you just went through, I thought you said you'd never say it again.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, you really have to take better care of yourself. We bought you some session with a personal trainer.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "It was pretty ugly from the get go. he's not listening, He's hostile, he's talking back.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm outta the picture. I am outta the picture.  It's only a matter of time now.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Diane"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

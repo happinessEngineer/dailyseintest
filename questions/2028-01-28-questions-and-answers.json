@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1121,
+  "date": "2028-01-28",
+  "questions": [
+    {
+      "quote": "Well, I'm not saying that! You know, things are going pretty well for me here. I met a girl...",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "George",
+        "Russell"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you just get some Ring Dings from the liquor store?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've seen that man in Tuscany. Eccentric fellow. Reputation of being kind of a village idiot.",
+      "characters": [
+        "Audrey",
+        "Jerry",
+        "George",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "I got news for you: handicapped people, they don't even want to park there! They wanna be treated just like anybody else! That's why, those spaces are always empty.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Silvio"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know if I told my engagement story to that receptionist, but told her this, was my fiancée..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I heard something.  Elaine, Elaine! It's Kramer! Kramer's on \"Murphy Brown\"!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what I'm thinking of doing? I'm getting rid of all my fillings, 'cos that mercury's toxic. Hey, let me see your fillings.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Kramer",
+        "Leo"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Hey check this out. I go to pick up my pictures and she says \" I hope you got that mustard stain out of your shirt.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you kidding? They can't cancel that show on me now, it's too late for me to book anything else for that weekend. Alright, alright ... okay, bye.",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Leslie, Leslie, whatever happened to Sargent Shriver? Is he still with them? You don't hear much about him these days. Is he out of the loop?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Duncan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

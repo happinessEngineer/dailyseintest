@@ -1,0 +1,106 @@
+{
+  "gameNumber": 705,
+  "date": "2026-12-08",
+  "questions": [
+    {
+      "quote": "No. So, tonight she's got tickets for that show she's been working on. The Flying Sandos Brother.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Guy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I don't get you Seinfeld. You want something one day. The next day you don't like it. Come on man, make a decision.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Conrad"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Newman and I are reversing the peepholes on our door. So you can see in.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Stu",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Lisi, Lisi. Let me in! We can work this out. I was wrong, you were right. I'll do anything!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Go? Why go anywhere?  Ahh, that feels good. Yeah. That's, uh... That's good.  Yeah, that's nice. That's very nice.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's right down here to the left. I will uh meet you right back here.",
+      "characters": [
+        "Clerk",
+        "Elaine",
+        "Rebecca",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What is with this dog, I thought we were taking it to the pound.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, what are we supposed to do? I gotta take Kramer to the doctor.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! I tell you what. How about if I come back here first and I clean everything up and I open up the windows and if you're still not satisfied we can switch apartments for the night.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Although what if it's one of those hugs where the shoulders are touching, the hips are eight feet apart?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Teller",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

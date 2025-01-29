@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1140,
+  "date": "2028-02-16",
+  "questions": [
+    {
+      "quote": "I don't understand. You get job security - you get a pay check every week..",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bania",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Alrighty. Ah ... my last job was in publishing ... I uh got fired for having sex in my office with the cleaning woman.",
+      "characters": [
+        "Elaine",
+        "Maestro",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, he'll be here. By the way, Elaine,  thank you for laying out for the Arabian mocha java.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Roy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You had a date? You went out with my butler? Who said you could go out with my butler?",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I thought there was going to be a character named Elaine Benes.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ow! What are you doing under there? Hey, stop that! Don't eat that! That's not food!  He's suckin' down Equal packets!",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There you are, Elaine. Go forth, and create.  And, by the way, when you get to that chapter about my romantic escapades - feel free to toss yourself in the mix.",
+      "characters": [
+        "Doctor",
+        "Corinne",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Alright, I'll pick it up, but it's the last time I'm doin' it!",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Donna",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh I beg to differ. My father took great pride in his appearance, he was a very handsome man, a casanova really.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, if you saw me naked, I wouldn't want to ride back in the same car with you either.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

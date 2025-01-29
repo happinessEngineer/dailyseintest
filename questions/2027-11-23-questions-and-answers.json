@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1055,
+  "date": "2027-11-23",
+  "questions": [
+    {
+      "quote": "I know, I know. Listen, your stuff has to be done by now, why don't you just see if it's dry?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's no need to deny it, Elaine. I heard every word you said.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "That's my candy line-up! Where are all my cards?! They're - they're all on the floor!",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, I'm sorry to bother you, I noticed that you have a textbook on tape. May I ask where you got that?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I didn't make these bagels.  Yeah, they're day-olds. The homeless won't even touch them.  Oh, we try to fool them by putting a few fresh ones on top, but they dig.. they, they test.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, wrong attitude. you're not bringing that trash into my house.",
+      "characters": [
+        "Jerry",
+        "Morgan",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Woah, woah, woah! What are you telling me for? You really had me going, there! C'mon, sit down.  What do you want to do when you grow up?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, please! I took you back. You know it, I know it, Vegetable Lasagna here knows it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Steinbrenner",
+        "Farkus"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, this'll be a very interesting experiment to see if Kramer says something. You sure you wanna go through with this?",
+      "characters": [
+        "Poppie",
+        "George",
+        "Jerry",
+        "Tv"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, Newmie. Um, I know how you feel about me, and I have to tell you, I'm quite flattered.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steven",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

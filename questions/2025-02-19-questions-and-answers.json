@@ -1,0 +1,106 @@
+{
+  "gameNumber": 48,
+  "date": "2025-02-19",
+  "questions": [
+    {
+      "quote": "We would love to be in business. We'll do business. We're in business. It's... it's business. This is business.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Pitt",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why don't you make a point with your own doctor?  What's wrong?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry. I can't believe you asked me about that statue. Do you know how much trouble you could've got me into?",
+      "characters": [
+        "Ray",
+        "Kramer",
+        "Farkus",
+        "Elaine"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "E-mail, telephones, fax machines. Fedex, telex, telegrams, holograms.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You won't regret this, Miss Benes. What time should I be in? I get up at four, I could be here as early as four twenty-five.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "...So, anyway, if you think about it, manure is not really that bad a word. I mean, it's 'newer', which is good, and a 'ma' in front of it, which is also good. Ma-newer , right?",
+      "characters": [
+        "Estelle",
+        "Jake",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I kept looking at her face. I'd go, \"C'mon, love her. Love her!\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. You know, men can sit through the most boring movie if there's even the slightest possibility that a woman will take her top off.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, I can see, not sayin' hello. She's very--what's the word--uh, supercilious.",
+      "characters": [
+        "Gwen",
+        "Newman",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I told my uncle I had a stomach ache tonight. You think he bought that?",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

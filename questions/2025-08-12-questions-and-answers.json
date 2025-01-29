@@ -1,0 +1,106 @@
+{
+  "gameNumber": 222,
+  "date": "2025-08-12",
+  "questions": [
+    {
+      "quote": "Hey Jerry, th...  George, you decided to get a rug! Good for you, Jack!",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "What are you talking? Jeffrey works for the parks department!",
+      "characters": [
+        "George",
+        "Morty",
+        "Noel",
+        "Doctor"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "\"Dear Henry, last night with you was bliss. I fear my.. orgasm  has left me a cripple. I don't how how I shall ever get back to work..  I love you madly, John.  P.S. Loved the cabin.\"",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "No. I need a guy that can rig a Frogger machine so that I can move it without losing power, 'cause I have the high score. H-hello?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, I'm done. I'll be back in the morning, when he's close to finish with his story.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Elaine, I need you to do me a big favor. I need you to go down to the Diplomat's Club and meet Bridget for me. I'm going to be late.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Pst.  Wilkinson's got a bite on a new one. Petramco Corp. Out of, uh Springfield. I think. They're about to introduce some sort of a robot butcher.",
+      "characters": [
+        "Kramer",
+        "David",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'll be seeing you.  \"Good morning, good morning..\"  Have you ever gotten up in the morning and felt it's great to be alive? That every breath is a gift of sweet life from above?",
+      "characters": [
+        "Father",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, because my previous vomit was also June 29th... 1972. That's why during the '80 vomit, I was yelling to George: \"Can you believe it? I'm vomiting on June 29th again.\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Keith",
+        "Steve"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What does he want from me? I didn't do anything. See this is all Elaine's fault. She took off to Europe with his psychiatrist. He probably can't get his medication. Now I got some nut after me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Tim",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

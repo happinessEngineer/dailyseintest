@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1138,
+  "date": "2028-02-14",
+  "questions": [
+    {
+      "quote": "Alright, you know I'm supposed to go on this special tour today with George's girlfriend.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, excuse me... Look, Ray, you were the only person in my house.",
+      "characters": [
+        "Steinbrenner",
+        "Gino",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no it doesn't. No joy no joy whatsoever. Just the whole think makes me . . sick.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Roy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sorry. I'm sitting here, the whole meeting, holding my tongue. I've known you a long time, Morty, but I cannot hold it in any longer.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "'scuse me. I uh, I was in here this morning and uh, I believe I paid you with a twenty dollar bill,  but you only gave me change for a ten.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm a man. Jerry, I'm a man. And do you know why? It's because of that talk we had. You were my inspiration. Do you believe it? You. That lunch was the defining moment of my life.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You now what you do? You sneak that photo out of there for couple of days and get it air brushed.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I wish I could believe you. Hey, Elaine, do you have some free time tomorrow afternoon?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Leslie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right all right forget it. You don't have to mention any of this to Miss. Landis do you?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Did you wrench it? Did you jam it? Maybe you squeezed it. Turned it...",
+      "characters": [
+        "Kramer",
+        "Nurse",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

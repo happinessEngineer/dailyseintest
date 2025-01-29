@@ -1,0 +1,106 @@
+{
+  "gameNumber": 861,
+  "date": "2027-05-13",
+  "questions": [
+    {
+      "quote": "\"This holiday season a donation has been made in your name to the Children's Alliance.\"?",
+      "characters": [
+        "Eva",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. Well, I mean, you know, he's more like an intern, you know, at best.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, so I talked to Lisi and she has got a big surprise for you. She's planning a weekend trip to Pennsylvania Dutch country.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're doomed. You're gonna have to have all your sex at women's apartments. It'll be like a permanent road trip. Forget about the home bed advantage.",
+      "characters": [
+        "Kramer",
+        "Eddie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at that. They got lobster on the menu. Who would order a lobster here. I mean, do they bring a lobster in everyday hoping *todays* the day.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Chicken, how could she look up to a person who voluntarily spends time with Bania?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you should choose the poem since you knew Susan best at the time of her unfortunate ...accident.",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Well, then, you've just got to fire her! Don't even think about it - there's no two ways about it.",
+      "characters": [
+        "Eva",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think maybe you're flattering yourself. That mannquein is wearing a twelve hundred dollar Gaultier dress.",
+      "characters": [
+        "Saleswoman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "- Nnnhhahahahahahahahahahahahahaha . Oh, you know what? I think Naked Gun is on. Oh I've seen it. I laughed through that whole thing. You wanna watch?",
+      "characters": [
+        "Naomi",
+        "Jerry",
+        "Newman",
+        "Stan"
+      ],
+      "correctAnswer": "Naomi"
+    }
+  ]
+}

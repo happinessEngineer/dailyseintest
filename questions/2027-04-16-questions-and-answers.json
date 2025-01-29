@@ -1,0 +1,106 @@
+{
+  "gameNumber": 834,
+  "date": "2027-04-16",
+  "questions": [
+    {
+      "quote": "Look, uh, Mr. Peterman, the fact is that I was planning on breaking up with Zach anyway. He was cheating on me!",
+      "characters": [
+        "Elaine",
+        "Jodi",
+        "Ben",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait wait George. You got room in the car for the pig-man huh?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry took the flyers off the car, I got the whole thing covered.",
+      "characters": [
+        "Farkus",
+        "Kramer",
+        "George",
+        "Bob"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Doesn't matter. You would have the only authentic Pakistani restaurant in the whole neighborhood.",
+      "characters": [
+        "Elaine",
+        "Ned",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no no, I can't go back there. Jerry, it's so awkward and, you know, it could be dangerous sexually. Something could happen, I'd be right back where I started from.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We have to make the flight, we're with a charter group. If we don't the trip is off.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Fdr"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Yeah, I'm a great quitter. It's one of the few things I do well. I come form a long line of quitters. My father was a quitter, my grandfather was a quitter... I was raised to give up.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Those are commercial lobster traps. You can't take those lobsters from there. That's against the law.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Well, this time, this time you're wrong. C'mon. I'll even bet you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How are you gonna get something and get back on the train in time?",
+      "characters": [
+        "Lois",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 157,
+  "date": "2025-06-08",
+  "questions": [
+    {
+      "quote": "Yeah. So, anyway, the engine's been idling a little rough. I thought it might be time for a check up...",
+      "characters": [
+        "Izzy",
+        "George",
+        "Betsy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well. Sounds like things are progressing. Do I hear, wedding bells?",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, they didn't even touch me. I tripped because of these stupid cowboy boots.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, well, because of the cane. You should see the bathroom they gave me!",
+      "characters": [
+        "Sally",
+        "Jack",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This dog in the courtyard across from my bedroom window that never never stops barking..",
+      "characters": [
+        "Sidra",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you know how embarrassing this is to someone in my position?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Holly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You go to the airlines, you tell them you got a death in the family? They give you 50% off the fare.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They were, but they're being absorbed by Matsushimi, that big Japanese conglomerate.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I had to say something.  I had to say something. Everything was going so well. I had to say something.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sure. You're an emotional person. People don't take you seriously.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

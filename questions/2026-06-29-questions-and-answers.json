@@ -1,0 +1,106 @@
+{
+  "gameNumber": 543,
+  "date": "2026-06-29",
+  "questions": [
+    {
+      "quote": "Grossbard's plane leaves in ten minutes. I *still* got time to catch him!",
+      "characters": [
+        "All",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "As long as you've got your checkbook out, how about forking a little over to PBS? You watch the station, don't you? You don't want to be a freeloader.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey! George, Janet looks very nice and she's quite a handsome woman.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why was he in charge of closing the door?  'Cause you came in after him!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, don't even think about it! Don't even dream about it!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Celia",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How could she say that on TV?.. And how did she get a cable special . I 've never gotten a cable special.....well that's it I'm not giving her any more material. We are incommunicado.  ...Exactly.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Vanessa",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This thing can't hurt me, can it? I mean, it is a laser. What if it hits my eye?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Guy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, just gimme that. And gimme some of those Sweet & Lows.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I wiped them for two minutes on the mat. I don't know why your father had to make a federal case out of it.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "And as we speak, she's generously writing PBS a check for fifteen hundred dollars!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

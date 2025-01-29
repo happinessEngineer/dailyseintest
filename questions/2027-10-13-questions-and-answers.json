@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1014,
+  "date": "2027-10-13",
+  "questions": [
+    {
+      "quote": "Yeah. Newman raves about it. It's on his mail route. He goes by there everyday.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So are you telling me there's not one house to rent in all of Tuscany?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lippman",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What if he's waiting for me outside? He pointed at me! Did you see him point?!",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Carol",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This guy's got quite a racket. I take you to dinner and then drop you off at his apartment...",
+      "characters": [
+        "Kramer",
+        "Carol",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How did you get the goop out of the top of the dishwashing liquid? It was like a brand-new nozzle!",
+      "characters": [
+        "Morty",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ovaltine. Have you ever had this stuff? Why is it called Ovaltine?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm laying down! Then we'll see how he does up there, without all the assistance.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Maestro",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, she's free.  Hi, I called before, uh, my car got smashed.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He thinks that if a woman sees a guy put on a better show, she'll walk out on his show, go see the other show.",
+      "characters": [
+        "Elaine",
+        "Tim",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It failed here! Because, here, every time you turn on a TV, all you see is four morons sitting round an apartment, whining about their dates!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Sally",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

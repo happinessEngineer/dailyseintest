@@ -1,0 +1,106 @@
+{
+  "gameNumber": 251,
+  "date": "2025-09-10",
+  "questions": [
+    {
+      "quote": "Jerry, that is so ridiculous. But, George didn't even have his glasses on!",
+      "characters": [
+        "Jimmy",
+        "Earl",
+        "Bonnie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, uh, yeah. Actually, the, uh, I-I bumped my elbow on a desk and uh injured something an.. now it sort of moves involuntarily.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jodi",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, my friend, Elise, lent it to me for the week. She's out of town.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Not as good. That's when you realize all the money you're losing.",
+      "characters": [
+        "George",
+        "Russell",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! No, I can't do this.  I can't go through with it.  Not even for him!",
+      "characters": [
+        "Patty",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "Just, just tell him about the picture. What's the matter with you? Stop it.  Yes, are you still there? Look I'm sorry about that. All right there's an 8:30 and a 10:15showing.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You'll see.  Boy, I had no idea you felt this way about the Costanzas'",
+      "characters": [
+        "Jerry",
+        "Ramon",
+        "Darren",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well after that Kidney Stone I only want fresh food. It's gotta be fresh. I'm not eating any more stored food. Plus you know I want the space.",
+      "characters": [
+        "Landis",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Ring Dings are better than anything you're gonna get at a bakery.",
+      "characters": [
+        "Waitress",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, look at this. This is the same massage chair we're gettin' for Joe Mayo, $60 cheaper.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

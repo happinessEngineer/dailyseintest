@@ -1,0 +1,106 @@
+{
+  "gameNumber": 75,
+  "date": "2025-03-18",
+  "questions": [
+    {
+      "quote": "Do you hold the neck together with one hand, or are you just letting it flap in the breeze?",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Holly",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was doing standup comedy in Kennebunkport Maine. ??? night club. The stage was on a cliff and the audience was throwing all the comics off.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ninety-four years old. I found her yesterday. She didn't have her wig on. It was horrifying.",
+      "characters": [
+        "Jerry",
+        "Harold",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Are - are you dense? I said I wanted you to drop dead. Now.. drop dead!",
+      "characters": [
+        "Fdr",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Fdr"
+    },
+    {
+      "quote": "We are gathered her today to unite this couple in holy... matrimony.",
+      "characters": [
+        "Jerry",
+        "Father",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "Hey, Jerry!! How's it going?! You gonna join us for dinner? The duck here's the best. The best, Jerry.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Dana",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Hey, she wants me to dress uh \"smart casual.\" What uh, what is that?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jake"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. There ya go. That's Beef-A-Reeno.  I'm so keen-o On Beef-A-Reeno What a delicious cuisine-o Fit for a king and queen-o! Yeah. Eat up. I got thirty four more cans.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Detective"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hold it, hold it...Look your gonna need the jaws of life to get out of those things.",
+      "characters": [
+        "Kramer",
+        "Anna",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've worn one once and I really think it did something for me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Attendant",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

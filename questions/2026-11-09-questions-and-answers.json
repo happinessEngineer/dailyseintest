@@ -1,0 +1,106 @@
+{
+  "gameNumber": 676,
+  "date": "2026-11-09",
+  "questions": [
+    {
+      "quote": "I saw Joe DiMaggio in Dinky Doughnuts again, but this time, I went in.  Oh! Uh, where's the bathroom?",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's been a rough couple of weeks, ya know I really needed to get away.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey look ..You walk in to this city you got to expect things are gonna stick to your foot. You open in your car and Bing!! Condom.",
+      "characters": [
+        "Attendant",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "No, it's not aluminum siding, it's volunteer work. All the money goes to the station.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kevin",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you say, \"Jerry, I didn't think you'd show\" or, \"Jerry, I didn't think you'd show\"?",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, letting my emotions out was the best thing I've ever done. Sure I'm not funny anymore, but there's more to life than making shallow, fairly-obvious observations. How about you?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, how come we played at this crummy place instead of your club?",
+      "characters": [
+        "Keith",
+        "George",
+        "Sophie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All I could think of was when I was looking at her face was; Newman found this unacceptable.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah I'm sure he loves to hear from fans in the locker room.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Um, uh, no one, no one.  Here, uh, let me show you a short cut. Come on. Come on.",
+      "characters": [
+        "Glenn",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Glenn"
+    }
+  ]
+}

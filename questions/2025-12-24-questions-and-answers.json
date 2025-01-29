@@ -1,0 +1,106 @@
+{
+  "gameNumber": 356,
+  "date": "2025-12-24",
+  "questions": [
+    {
+      "quote": "Well, this is a lovely apartment. Lovely! My kids are gonna go crazy. I, uh, I wonder if I could see the bathrooms. Preferably one with some paint thinner and, uh, some rags?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kelly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can make all the laws you want, he's still gonna bother people.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes! A more offensive spectacle I cannot recall. Anyway I just really came up to get some detergent.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "Jeannie"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": ". . . naw, it's just you thanked HER, and and oh, . . . what's the difference?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I did. I most certainly did. And he said, he goes, \"Oh, yeah. You're Jeanette's friend. We did meet once.\" And I said, \"Well, how do you go from that to totally ignoring a person when they walk by?\"",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Your movin'? That means I'm movin'.  Geeeeee  isn't that incredible!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why? No, that'll make great dinner party conversation. We'll read the letters at the dinner table.",
+      "characters": [
+        "Noel",
+        "Jack",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well what about you? What do you think The Gap in Rome has that's not in The Gap on Broadway?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Difficult job. You want those keys, we're gonna have to dig this up.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Ralph"
+      ],
+      "correctAnswer": "Ralph"
+    },
+    {
+      "quote": "Huh, oh hey, look at this.  It's the super hydrating, triple-action moisturizer, hmm.",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

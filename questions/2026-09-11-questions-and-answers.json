@@ -1,0 +1,106 @@
+{
+  "gameNumber": 617,
+  "date": "2026-09-11",
+  "questions": [
+    {
+      "quote": "Camera, curtains, lights - This is it, we'll hit the heights - Oh what heights we'll hit - On with the show this is it!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why do you have to be so suspicious of every one. This is a great man Zeng Zau, he wants to help bald people.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She probably gets that impression because you're cool. You're under control. Like me. Nothing wrong with that.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're a back-up, you're a second-line, a just-in-case, a B-plan, a contingency!",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I would just love to take you down to the shop where I got it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "I had him for Hygene. Remember his teeth. It was like from an exhumed corpse.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Maestro",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's not concerned about the security guard. What kind of a person is this? I'm marrying a person who doesn't care that this man has to stand here 8 hours a day when he could easily be sitting.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gail",
+        "Stu"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I think, you know, she was, like, crying, and he was consoling her, and then, she, uh, just got into his car, and they just drove away.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah I did. He was very talented. He was, ah just, I don't know a little too...",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no, in and out, I made sure of that. And you'll be happy to know I perused the script and it's met with my approval.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Gina"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

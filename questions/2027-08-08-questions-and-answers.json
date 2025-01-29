@@ -1,0 +1,106 @@
+{
+  "gameNumber": 948,
+  "date": "2027-08-08",
+  "questions": [
+    {
+      "quote": "Oh! Thank you. Thank you very much.  Really. I mean that. I am not one of those people who give insincere thank you's. No sir. No sir. When I thank someone I really thank them. So, thank... yoooou!",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "South America?!  What kind of snow blower you get us mixed up with?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Your meatloaf is mushy, your salmon croquettes are oily and your eggplant parmesan is a disgrace to this house!",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Cynthia"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Wait till you hear this!  Whoa, ah, I'm sorry, I didn't, I had no idea.",
+      "characters": [
+        "David",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, right. You can't run for condo president because you were impeached at the other condo.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "George",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know at the movies, they show that little ad for the concession stand?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where did I take it? Where Did I Take It?   Umm, to that place on, uh Columbus and 85th. Okay?",
+      "characters": [
+        "Peterman",
+        "Helen",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But, when you have a faucet instead of a tongue, you want to use gravity.",
+      "characters": [
+        "Tim",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're not the only one improving yourself. I worked out with a dumbbell yesterday. I feel *vigorous*.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I love the chop sticks. I, I personally prefer a fork but they look very nice.",
+      "characters": [
+        "Man",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

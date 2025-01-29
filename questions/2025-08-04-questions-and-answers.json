@@ -1,0 +1,106 @@
+{
+  "gameNumber": 214,
+  "date": "2025-08-04",
+  "questions": [
+    {
+      "quote": "Naw, that's probably just a dead body son. You see when the mob kills someone they through the body in the river.",
+      "characters": [
+        "Father",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "I'm gonna count to three. If you don't give up the chair, the wig is coming off.",
+      "characters": [
+        "George",
+        "Tim",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Also endowed. George... I know how much Susan meant to you. It can't be easy.",
+      "characters": [
+        "Elaine",
+        "Wyck",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "You ditched me. That's twice. Now I demand to know what's going on!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Julie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, sweetheart, let me tell you a little something about guts.  This is guts.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He has this power over me, okay. I mean he has this way of manipulating every little word that I say. He's like a Svenjolly.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can do better than me. You could throw a dart out the window and hit someone better than me. I'm no good!",
+      "characters": [
+        "Tony",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He didn't come within two feet of the thing. He's wavin at it... So, I told him if he picks us up at the airport, he wouldn't have to pay me anything.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Peterman here. What? Oh no. Alright, I'll be right there.  It's my mother; she's at death's door. I just pray to God we can make it there in time.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "If only he could have been cheating on his wife, you know, things would have been so much simpler.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

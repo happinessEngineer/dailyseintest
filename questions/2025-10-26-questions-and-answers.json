@@ -1,0 +1,106 @@
+{
+  "gameNumber": 297,
+  "date": "2025-10-26",
+  "questions": [
+    {
+      "quote": "Really! You know, a lot of restaurants are serving brewed decaf now, too.",
+      "characters": [
+        "Jerry",
+        "Lois",
+        "Frank",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And from disorder, you're a quirk or two away from full-on dementia.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Carrie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, how about if the book came with these little fold-out legs...so the book itself becomes a coffee table?",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Afternoon, Mom! Afternoon, Pop. You know you got a crack in the sidewalk out there? Now, you oughta get that fixed.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See, the other thing is, if you don't like anything, he takes it right back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, George, listen. You know that company I work for, they own that parking lot around the corner.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Yes. Yes. Care. You know who I think about a lot? Remember SUSAN: ? The one that used to work for NBC?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tim",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't eat cookies for breakfast! I'll fix you something. How 'bout a feta cheese omelette?",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "George, where are those invitations? You were supposed to leave them with her doorman!",
+      "characters": [
+        "Donna",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've gotta see this game. If it wasn't for this guy, we could get out of here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

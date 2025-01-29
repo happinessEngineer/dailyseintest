@@ -1,0 +1,106 @@
+{
+  "gameNumber": 281,
+  "date": "2025-10-10",
+  "questions": [
+    {
+      "quote": "All right. I'll tell you what. If it's going to make you feel any better you can see me naked.",
+      "characters": [
+        "Jerry",
+        "Margaret",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I think you're wrong about that.  [Elaine walks past the window again, glancing in] And ah now if you'll excuse me, I'd really like to get started, please.",
+      "characters": [
+        "Patrice",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. That's more like it. Thank you very much.  By the way, my uncle was an alcoholic, so...",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A lesser man would have crumbled. They would have gone for the \"dish\" and the sure fire sexual-harassment suit.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what? On my first road test, I hit a dog.  I think it was a golden retriever. No, no, no, it was a - it was a yellow lab.  I'm gonna check my messages.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Emily"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well why don't you get a hold of it and change what you don't like.",
+      "characters": [
+        "Silvio",
+        "Waitress",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, to tell you the truth Elaine. I don't know if I can be with someone who doesn't like The English Patient.",
+      "characters": [
+        "Newman",
+        "Blaine",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Blaine"
+    },
+    {
+      "quote": "Well, I'm not paying the five cents for that stupid recycling thing.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know, Jerry, there's this thing that I haven't told you about. See, there was this tractor and, oh boy, this is really difficult.",
+      "characters": [
+        "Sophie",
+        "Mike",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "Well you can confine them, you can punish them, you can cram them into the corner, but they're not going away, Jerry.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sid",
+        "Jeannie"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

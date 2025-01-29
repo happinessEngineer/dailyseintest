@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1113,
+  "date": "2028-01-20",
+  "questions": [
+    {
+      "quote": "Sid left the keys in the car. Alright, I gotta go. Drive carefully.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you better laugh 'cause I'm being reviewed. Leonard Christian's gonna be there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, what happened to your coat? And what is the smell? Is-ya, What are you drunk?",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ha Haaaaaaa... Jerry how do you like that.You see I get myself in a dizzy, I'm all worked up and for what?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a *con*. These agencies are usually a front for some money laundering scheme. Or they're bunko artists; bilkin' people out of their life savings, oh *yeah*.",
+      "characters": [
+        "George",
+        "Glenn",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Well anyway hum.... see when I made the date, I thought that Jimmy......\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Poppie",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why? It gets hot at night, you can't sleep. You ever tried to sleep in a really hot room?",
+      "characters": [
+        "Babu",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute. I thought that Art wanted to give up the exporting.",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "We might as well just stay here, we haven't got that much time if we wanna make it to the movie.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not interested in the X-Rays. I want my money back. Somebody stole my wallet. I had $225 in there.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Bob"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

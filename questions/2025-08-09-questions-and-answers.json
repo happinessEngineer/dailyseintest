@@ -1,0 +1,106 @@
+{
+  "gameNumber": 219,
+  "date": "2025-08-09",
+  "questions": [
+    {
+      "quote": "Uh, that's him. He just came home. ... Uh, the door [Jerry pushes his door against Kramer's entrance]",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Stationer",
+        "Raymond"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He claims that you followed him home, and started harassing him.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Hal",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Every woman on the face of the earth has complete control of my life. And yet, I want them all.. is that irony?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Chiles"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, he can't jump out of the chair? How long does that take? Here look at this.  Here, watch.  Criminals. Boom. I'm up.  Stop It! Stop It! Stop It!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Stan",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes. With a little guidance, Steven Koren is going to be everything I claim to be, only for real. That's my dream, Jerry.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rava",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Y'know, just because you two are homosexuals, so what? I mean you should just come out of the closet and be openly gay already.",
+      "characters": [
+        "Elaine",
+        "Phil",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, forget that idea, it's not for you....Okay, okay, I got it. You run an antique store.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So she sees you with hot fudge on your face and she ends it? You really think she would be that superficial?",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no, not just me, the whole organization. Especially Mr. Morgan.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Craig"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't return fruit. Fruit is a gamble. I know that going in.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

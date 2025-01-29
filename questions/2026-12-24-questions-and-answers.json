@@ -1,0 +1,106 @@
+{
+  "gameNumber": 721,
+  "date": "2026-12-24",
+  "questions": [
+    {
+      "quote": "I don't think that's the kind of thing you wanna hear about your father. But I'll tell you when he came out of that bathroom and he was kneading that dough, it was a wild scene.",
+      "characters": [
+        "Meryl",
+        "Kramer",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Mr. Bookman. I--I returned that book. I remember it very specifically.",
+      "characters": [
+        "Bookman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OUR LIVES!! . What kind of lives are these? We're like children. We're not men.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm supposed to meet my friends to see this movie ``CheckMate'' at 10:30.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. It was very frightening. My life was in danger. You should've seen the way they talked to me.",
+      "characters": [
+        "Salesman",
+        "Kramer",
+        "Jerry",
+        "Enzo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, it looked as if you were in a real conversation over there.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I said I couldn't believe you liked that commercial. So what?",
+      "characters": [
+        "Jerry",
+        "Chiles",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, I think we've covered my act. Now you get out there and stink it up with everybody else.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Patty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, speaking of which, I found a great way to separate the skin from the top of the pudding without leaving any around the edges; Exacto knife.",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Loretta",
+        "Toby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Get in a little closer. I can't see the screen door.  Perfect.",
+      "characters": [
+        "Sophie",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

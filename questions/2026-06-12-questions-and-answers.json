@@ -1,0 +1,106 @@
+{
+  "gameNumber": 526,
+  "date": "2026-06-12",
+  "questions": [
+    {
+      "quote": "Look at my hands. Look. Filthy from the paper. You know, they should give you a Wet-nap when you buy one, like at those rib joints.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Jake"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, what was you golf score, the last round you played… uh, before you shoulder was injured?",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Well, she doesn't mean anything to me either. If it were up to me, we'd still be together.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Lemme see.  I can't believe you got these for free.   Row F?!",
+      "characters": [
+        "Salesman",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought it was a pretty good idea. It's about coffee tables, it's on a coffee table.",
+      "characters": [
+        "George",
+        "Tv",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, we're.. uhh, drinkin' and talkin', and uhh, so, she starts rubbing my leg.",
+      "characters": [
+        "Marcelino",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You just checked your watch. Are you thinking of bailing on him?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Keith",
+        "Lamar"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, just make sure he reserves the good chair for me. Wait, what are you gonna tell him about the clanking noise in the car?",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Silvio",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So she's just sitting there, she's having a pleasant conversation... and all of a sudden.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Tim",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He wouldn't give me his number because he doesn't have a phone.  He's not married. He's poor.",
+      "characters": [
+        "Teller",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

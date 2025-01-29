@@ -1,0 +1,106 @@
+{
+  "gameNumber": 765,
+  "date": "2027-02-06",
+  "questions": [
+    {
+      "quote": "I could tell you what I did, but you wouldn't believe it. It's not believable.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Those brave Krakatoans East of Java. who sacrifice so much for so long.",
+      "characters": [
+        "Fred",
+        "George",
+        "Gail",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know when you break up, how you say things you don't mean? Well, he says the mean things you don't mean, but he means them.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, Jerry. She never dates, and I know it's because of her hair.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah well, that's easy. Just let me finish this mile high and I'll be right with you. Oh, and Jerry, we are gonna need a case of Kaiser rolls.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no, not more checks. They're coming faster than I can sign 'em.",
+      "characters": [
+        "Rita",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...give, given it to the person that they originally gave it to.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "GEORGIE! CONGRATULATIONS! Oh, my god. I haven't seen you since it happened. I'm so happy for you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Harold"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, he's almost fully recovered. He told me he was just using me for sex.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Fred",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, an instructional video about how to make your own sausages.",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

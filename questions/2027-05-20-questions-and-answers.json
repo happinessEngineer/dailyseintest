@@ -1,0 +1,106 @@
+{
+  "gameNumber": 868,
+  "date": "2027-05-20",
+  "questions": [
+    {
+      "quote": "Hey, I have found the best-smelling detergent. Lena, smell my shirt.",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "George",
+        "Ping"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Which word did he emphasize? Did he say, \"Why would Jerry bring anything?\" or, \"Why would Jerry bring anything?\" You emphasize \"Jerry\" or \"bring.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Braun, I got good news and bad news. And they're both the same: you're fired. Costanza, you've won the water pik!",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So you could call a woman for a date, ask her if she's free for Dinner and a flamenco?",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The woman she's \"lesbianing\" with? Susan told me she's *never* been with a guy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I suppose I could just pull this out and walk around like this and you wouldn't care?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I dunno, some designer. Anyway, Brett is so generous, and sensitive. Last night he was moved just listening to a song.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yesterday, took the day off.  Now, from the time I left the room...",
+      "characters": [
+        "Kramer",
+        "Tv",
+        "Lena",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Payoffs. Now we're playin' politics. All right, what do we next, Morty, huh? Wiretaps, slush funds?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't think so I know so, Kramer, come here I got to talk to you",
+      "characters": [
+        "George",
+        "Gary",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

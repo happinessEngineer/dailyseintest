@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1084,
+  "date": "2027-12-22",
+  "questions": [
+    {
+      "quote": "Hey, have fun at the... family reunion.  So, what do you know about this Jack fellow?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.",
+      "characters": [
+        "Detective",
+        "Jerry",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because, the owner contributes a lot of money to those fanatical, anti-abortion groups.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, ... now, you come on over. I'll have my cereal and I'll take your picture.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's so wild. Can I borrow her for a few hours tomorrow afternoon?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So Clare sure looked real funny covered in oil like that…  Hello-o-o-o I got beamed with a giant ball of oil…",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Diane",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, where could he be? It's not like George to just disappear.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "No, I was a fantastic beard. I held hands, I called him honey.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Great.  Oh, by the way, did you get a chance to read the script?",
+      "characters": [
+        "Julie",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Beautiful lineswoman. Alright listen uh I'm going to go to the concession stand and get some real sunblock. You want anything? Jerry?  Jerry?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

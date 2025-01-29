@@ -1,0 +1,106 @@
+{
+  "gameNumber": 49,
+  "date": "2025-02-20",
+  "questions": [
+    {
+      "quote": "Yeah. I don't know if I can handle one of these long-distance relationships.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Me? It wasn't me I never even saw the ball. All you do is dribble.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I don't want your business and from this moment you're banned from the store, you're banned!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Joe",
+        "George"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Jerry, have you ever seen the business hotels in Tokyo? They sleep in tiny stacked cubicles all the time. They feel right at home.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "uh, Uh, Vandelay Industries, is uh. 129 West 81st street. It's a very small industry Vandelay. It's one of the reasons I wanted to uh, work for them.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You see, now I really don't want to get into this, any kind of specifics...",
+      "characters": [
+        "Pam",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He talks about it all the time. Every time he takes it out he goes on and on about how it writes upside down, how the astronauts use it.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I don't know where the nurse is. Sweetheart why don't you get a nurse for mommy? … Anyway I was just curious. Remember the other day you were saying something about my trip.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't come up with your own stuff , so you *steal* other peoples? You're nothing but a hack.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Buckles"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, gee, I can't talk right now. Why don't you give me your home number and I'll call you later.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Manny",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

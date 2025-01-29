@@ -1,0 +1,106 @@
+{
+  "gameNumber": 771,
+  "date": "2027-02-12",
+  "questions": [
+    {
+      "quote": "You knew he was an alcoholic. Why'd you put the drink down at all?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You've got 'shiksappeal'. Jewish men love the idea of meeting a woman that's not like their mother.",
+      "characters": [
+        "Rula",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It never fails. See, it's based on your body clock. See, your body has an internal mechanism. It knows what time it is.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Today, I went record shopping in Greenwich Village. I bought this record, but I can't seem to find the hi-fi.",
+      "characters": [
+        "Kramer",
+        "Kruger",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Now you know who to thank for that!.. Alright, I've got to go.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Yeah,yeah yeah yeah! I've seen these.....they sorta ..they make your legs..stronger.\"",
+      "characters": [
+        "Rebecca",
+        "George",
+        "Patrice",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, she can't be too mad. She's still coming to the wedding.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I need you to sit in the car for two minutes while it's double-parked. I gotta pick up some birds.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Receptionist"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I remember when you wouldn't date that girl who lived in Queens because you didn't want to go over the bridge!",
+      "characters": [
+        "Dan",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well he's from the impressionist school, you know like Monet, Manet, Tippi Tippi Dayday.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "George",
+        "Daphne"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 416,
+  "date": "2026-02-22",
+  "questions": [
+    {
+      "quote": "My cousin worked for Bouchard's. They used to use the bouilla-base for a toilet.",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Oh yeah! But Jimmy's all out right now. Moving to Manhattan set Jimmy back a bit.\"",
+      "characters": [
+        "Abby",
+        "Jimmy",
+        "Jerry",
+        "Detective"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "[in babying voice] Because you love your little kiki don't you?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Elaine",
+        "Mike"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Boy, I'm surprised.  I would think Kramer would have a knack for moving pieces of a person's spine around.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, you came right upstairs, without talking to the doorman.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Voice"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I'll talk to Jerry. Yeah, [Hangs up] . . . you know that was Michael and Carol. She's wondering when we're going to come over and see the baby.",
+      "characters": [
+        "George",
+        "Beth",
+        "Rick",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe I'll stick around and see what she's wearing today. Or not wearing, if you know what I mean.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lloyd",
+        "Newman"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "You don't consider age in the face of cleavage. This occurs on a molecular level, you can't control it! We're like some kind of weird fish where the eyes operate independently of the head.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Daphne",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Well ,what happens when you show up . He'll see that you're not.?\"",
+      "characters": [
+        "Guy",
+        "Peterman",
+        "Kruger",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It was the Peace Corps that gave me my start in this business.  Clothing the naked natives of Bantu Besh.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

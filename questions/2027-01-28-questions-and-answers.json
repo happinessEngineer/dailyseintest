@@ -1,0 +1,106 @@
+{
+  "gameNumber": 756,
+  "date": "2027-01-28",
+  "questions": [
+    {
+      "quote": "Well we're gonna be here a while so take a seat.  You know if it hadn't been for that secretary of yours...I said sit down!  Are you deaf Bradley?! I said sit down!",
+      "characters": [
+        "Mickey",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Jean-Paul?  Hey Jean-Paul? Jean-Paul?  Jean-Paul?! Oh man...  Oh...machine.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What am I, a--a bulimic, chain-smoking, stenographer from Staten Island?",
+      "characters": [
+        "Carol",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Going to Houston. It's a publisher's convention.  Can I have my sports section?",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "No, no, no, I sensed something. I did sense something. I perceived a possibility Jerry.",
+      "characters": [
+        "Elaine",
+        "Lamar",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I started out working in mortgage bonds, but I just found that so limiting.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Well, take it. I'm sure as Hell not going to give it to my family.",
+      "characters": [
+        "Sid",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "They're men with jobs, Jerry! They wear suits and ties. They're married, they have secretaries.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. I'm gonna try givin' them fifty-five dollars each...  What do you think?",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You are having problems with your boyfriend and I am meeting you to discuss the situation.",
+      "characters": [
+        "George",
+        "Captain",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

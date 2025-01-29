@@ -1,0 +1,106 @@
+{
+  "gameNumber": 502,
+  "date": "2026-05-19",
+  "questions": [
+    {
+      "quote": "Oh fiance. Boy you coulda done a lot better than him.  Come on Elaine lets go.",
+      "characters": [
+        "David",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Do you think Newman would tell Martin if he wakes up? What kind of sicko would do that? He could kill me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's not the size of the opponent, Elaine, it's, uh, the ferocity.",
+      "characters": [
+        "George",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The recipe was for four to six people; I had to multiply for a hundred and eighty-three people. I guess I got confused.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I had to take a sick day. I'm so sick of these people. By the way, I talked to Lisi, and tomorrow night's good for her.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But we can't both get pancakes, it's embarrassing. It's like one step from the couples who dress alike.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you know it's a shame his parents didn't get divorced thirty years ago. He could have been normal.",
+      "characters": [
+        "George",
+        "Craig",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's a flight leaving at eight, and another one at eight-thirty, which one do you want?",
+      "characters": [
+        "Kate",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "No no, I never said I was a good driver, I said I was a good parker.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Julie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, George, come in, come in. George, word up's you've been cracking under the pressure. Can't cope, can't stand the heat. Spit the bit.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 751,
+  "date": "2027-01-23",
+  "questions": [
+    {
+      "quote": "Oh, well here.  Take Whatley's label maker, I don't want to see it again.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I, I couldn't come. I, I had to drive my mother to, to the chiropodist.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Elaine, has nothing but Good things to say about Susie.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, yeah, yeah. But they also rolled for his brother...  ...Dennis.",
+      "characters": [
+        "Elaine",
+        "Tony",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, do you think this is funny? ``Why do they call it athlete's foot? You don't have to be an athlete to get it. I mean, my father gets it all the time, and believe me, he's no athlete!''",
+      "characters": [
+        "Buckles",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Buckles"
+    },
+    {
+      "quote": "Well, they're more than an underwear to me Mr. Farkus. Two cups in the front, two loops in the back. How do they do it?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And well it should be. I think if you spent any time with me at all, you'd see I'm very sensitive to these matters as well. You wouldn't be hungry by any chance, wouldya?",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well yeah, I got him because he seemed so one-dimensional, I feel misled.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay. Come on. Give the guy his money. What -- what are you doing?",
+      "characters": [
+        "George",
+        "Ricky",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah... Hum..Jim , a man here says came in the other day , you didn't say hello?",
+      "characters": [
+        "Manager",
+        "Alec",
+        "George",
+        "John"
+      ],
+      "correctAnswer": "Manager"
+    }
+  ]
+}

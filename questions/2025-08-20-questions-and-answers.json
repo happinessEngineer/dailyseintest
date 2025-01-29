@@ -1,0 +1,106 @@
+{
+  "gameNumber": 230,
+  "date": "2025-08-20",
+  "questions": [
+    {
+      "quote": "So, the longer you know someone, the shorter you wait for 'em.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Damn you Seinfeld. You useless pustule. Um, somebody's got something on the griddle. maybe it's Kramer.",
+      "characters": [
+        "Newman",
+        "Michael",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "We just tease some one 'til they develop an eating disorder. guy who ruined his life.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tor",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I'm great! Just great. Really great! Oh, hey - did you hear about Bob Rosen?",
+      "characters": [
+        "Toby",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Box of raisinettes eating another box of raisinettes? It's perverse.",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "Kramer",
+        "Aaron"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, right… I'm gonna get my car repaired at a dealership. Huh! Why don't I just flush my money down the toilet?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, frankly, I don't think she was too concerned about my jacket.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Elaine, I've been thinking about this. This has got to be a massive conspiracy. Who knows how deep it goes. Hey, look, wait a second,  Kramer, turn that up.",
+      "characters": [
+        "Elaine",
+        "Alton",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, indeed.  The calendar says winter, but he gods of spring are out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Audrey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's a letter from the Immigration Bureau, it's Babu's Visa renewal application form. They must have put it in my mailbox by mistake.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

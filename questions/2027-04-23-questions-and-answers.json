@@ -1,0 +1,106 @@
+{
+  "gameNumber": 841,
+  "date": "2027-04-23",
+  "questions": [
+    {
+      "quote": "All right, which one is Julie?  Hey, you ladies look lovely tonight.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh I hate to hear this. That kind of growth really irritates me.",
+      "characters": [
+        "George",
+        "Keith",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, George, just because your life is destroyed, don't destroy someone else's.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you should call this off, Elaine. It's a barbaric ritual.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Noel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She lives right above First Avenue, says she has a perfect view of the race. And she said I can invite some friends.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Margaret"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no. I've been saving them up here in your apartment. And now, it's payback time. 'Pottery Barn' is in for a world of hurt.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, sure, we met at Jerry Seinfeld's apartment. When you fumigated for fleas over there.",
+      "characters": [
+        "Jerry",
+        "Alton",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't break up with her now. Her life is shattered. You got her fired. You gotta be there for her.",
+      "characters": [
+        "Wyck",
+        "Jerry",
+        "George",
+        "Raymond"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I used to love Paris. My uh, dead Fiancée, Susan..  In fact I. think I, I may have a picture of her..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Driver"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't. He loves me. He says I'm his most loyal customer. Plus he's right there on the corner. I'd have to pass him every day when I go by.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Harold",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

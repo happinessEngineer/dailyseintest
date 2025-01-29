@@ -1,0 +1,106 @@
+{
+  "gameNumber": 688,
+  "date": "2026-11-21",
+  "questions": [
+    {
+      "quote": "Yeah, I'm a very good boy. I'm flying down there and surprising him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Six months ago you were eating four of those for breakfast and chasing it with a ring ding. And two butter fingers on the train. Sounds familiar?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Wendy",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I've never met your sister but obviously these are not hard-and-fast rules.  Darling, the tea is getting a little cold sweetheart.",
+      "characters": [
+        "Jerry",
+        "Ron",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're not gonna see 'em. I got a case of party poppers I'm gonna keep in front of 'em.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine! You found the clubs. That's wonderful news. Where are they?",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Maestro",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Look it, look it, Ryan. These people are gettin' a baby. Period. Now we can do this the easy way, or we can do this the fun way.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right. All right. Give me a tsate. Mmm! Oh God, I gotta sit down. What happened? Where's my armoire?",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "Testikov",
+        "Sid"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look Jerry, the show isn't about the circus, it's about watching freaks.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey Kramer, by the way, I saw that guy at the health club...that is not Salman Rushdie.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I told them I have a place in the Hamptons. What did you say?",
+      "characters": [
+        "Elaine",
+        "Rita",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

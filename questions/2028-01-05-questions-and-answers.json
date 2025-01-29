@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1098,
+  "date": "2028-01-05",
+  "questions": [
+    {
+      "quote": "So we started drinking, and I'll tell you I don't know if it was the alcohol or the ammonia, but the next think I knew she was mopping the floor with me.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait, you, you mean to tell me you don't have a ticket for the coat?",
+      "characters": [
+        "Willie",
+        "Jerry",
+        "Bonnie",
+        "George"
+      ],
+      "correctAnswer": "Willie"
+    },
+    {
+      "quote": "My friends, a toast. As the wolly-haired Melanasians of Papua, New Guinea once said,  All right! Who's dancing?  No one? Alright, I'll just have to get things started.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, apparently you have a tremendous influence over this woman: anything you say she does!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Christie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where did I get the coffee? Where do think I got the coffee, at the grocery store.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what drove me crazy about him? Did you ever notice that he stood too close to you when he talked?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Morty",
+        "Jimmy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hmm ah. I'm not going through this every week, I tell you that right now. And what are these? Plums? What is that?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Clare",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, if Susan and I had... I mean, if the envelopes hadn't, uh... then we--",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've been trying to leave this group for 10 years. Vaya con dios.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I had a bad experience with a hair when I was younger.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Melissa",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

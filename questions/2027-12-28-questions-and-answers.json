@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1090,
+  "date": "2027-12-28",
+  "questions": [
+    {
+      "quote": "The plane's been re-routed *back* to Kennedy. We've got 45 minutes.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy - I'm really surprised at Elaine - that whole phone business - she should know better than that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah..  See? This is no good..  Hey, the baton.  I got a hunch, fat man, I can't miss.  13 in the side pocket.  Giddy-up.  Six in the corner.  This table's mine.  You know where it's going..",
+      "characters": [
+        "Gina",
+        "Kramer",
+        "Shelly",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Coffee shop? I think we can do a little better than that. You look like you could use a solid meal at a real restaurant.",
+      "characters": [
+        "Brett",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "Well, means that a man has come from very far away to compete in a very difficult race, he's put his faith in you, and frankly, I'm a little concerned!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're not mocked and humiliated when they get to the other side.",
+      "characters": [
+        "George",
+        "Jack",
+        "Conrad",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's gonna get a muffin and then he'll walk us outside. This is a great way to go through life.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No sir. He did not. But only by thge grace of God. He's in the courtroom today",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Susan"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell you something. It'll be years before they find places to hide more cheese on a pizza. Kramer!",
+      "characters": [
+        "Jerry",
+        "Carl",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, the great conversation girl.  The one you think can replace me?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

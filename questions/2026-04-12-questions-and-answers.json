@@ -1,0 +1,106 @@
+{
+  "gameNumber": 465,
+  "date": "2026-04-12",
+  "questions": [
+    {
+      "quote": "What do you think, junior? You think these hands have been soakin' in Ivory liquid?",
+      "characters": [
+        "Kramer",
+        "Seth",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm calling to let you know that Russell Dalrimple is no longer with this network.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Rita",
+        "George"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "So see um, I didn't say that I wanted to rent it, I was just wondering if there were houses there to rent.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Everybody likes pesto. You walk into a restaurant, that's all you hear - pesto, pesto, pesto.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, sure. Of course.  Um, uh, could you hold these? For just a second, just a second.  Here you go, now don't worry about a thing. It's gonna be fine. Here we go. Look at this shine.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I ruined this autographed picture of him that belonged to the Maestro. You think I can go and get his autograph?",
+      "characters": [
+        "Kramer",
+        "Stan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, why don't we stay here? The back booth just opened up.  Now this is a good looking booth.",
+      "characters": [
+        "Gavin",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whoa, this is a beauty. Great cut. It's probably very flattering.",
+      "characters": [
+        "Steinbrenner",
+        "Willie",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Willie"
+    },
+    {
+      "quote": "More like a dope was giving it to her straight. Another cup of coffee with you, she'll wind up in a convent.",
+      "characters": [
+        "Katya",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Get up! The alarm clock didn't go off!  It's 9:15! You're gonna miss the plane! It's 9:15!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

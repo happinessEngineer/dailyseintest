@@ -1,0 +1,106 @@
+{
+  "gameNumber": 270,
+  "date": "2025-09-29",
+  "questions": [
+    {
+      "quote": "I don't know. She..She's having some problems with this guy she's seeing.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Debby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Jerry don't worry about it all right. The important thing is, is we got to catch up. Mind if I ah, grab the want ads?",
+      "characters": [
+        "Seth",
+        "George",
+        "Puddy",
+        "Duncan"
+      ],
+      "correctAnswer": "Seth"
+    },
+    {
+      "quote": "Right. It's very important not to embellish on your order. No extraneous comments. No questions. No compliments.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I'm sorry, I...I hate to be one of those people, but we're right in the middle of this thing...I can't hear.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You telling me that wine is better than Pepsi? Huh , no way wine is better than Pepsi.",
+      "characters": [
+        "Rava",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! I'm a scatter brain. That's why I probably can't hold a job or keep a man!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "[stopping someone from sitting in the seat next to her] No, *TAKEN*, Taken, taken. [to George] [shrugs] I'm getting the hang of it.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you think it's effeminate for a man to put clothes in a gentle cycle?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello? Yeah, this is Jerry Seinfeld. What? Twenty-eight hundred dollars?!! That's the estimate on my car?!! No, don't even do anything. I'm gonna think about it. Okay, bye.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": ", You know it's not important I'm gonna, ok, well, you know. Take care of that condolitis",
+      "characters": [
+        "Elaine",
+        "Tony",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

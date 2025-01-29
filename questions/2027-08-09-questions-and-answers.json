@@ -1,0 +1,106 @@
+{
+  "gameNumber": 949,
+  "date": "2027-08-09",
+  "questions": [
+    {
+      "quote": "Shhh! Listen, you gotta do me a favor. Give me your wallet. I'll give it back to you later.",
+      "characters": [
+        "Kramer",
+        "James",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I was shaving. And I noticed an asymmetry in my chest hair and I was trying to even it out. Next thing I knew,  Gone.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute, that's my ticket!  You didn't even want to go.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Wilhelm",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Shhh… What is wrong with you? You never tell 'em you like the car.  You're not sure what you want. You don't even know why you're here.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Todd",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You said goin up the steps of her apartment was like being taken to a cell.",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, gore-tex. It's new.  Hey, look at this locket. What the hell is this? There's a picture in here, look at that.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yada yada yada, just some bad egg salad. I'll be right back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Marcy",
+        "Jerry"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "Well, Jerry. There was a pretty good chance I was never gonna have sex again anyway.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're probably one of those women who doesn't like to give out her number.",
+      "characters": [
+        "Duncan",
+        "George",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Okay, listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

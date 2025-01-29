@@ -1,0 +1,106 @@
+{
+  "gameNumber": 584,
+  "date": "2026-08-09",
+  "questions": [
+    {
+      "quote": "Kramer, how is that important? Honestly, do you really think he's gonna ask you that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Todd"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Kramer, I am in big. big, big trouble. I need a cake that looks like this.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Karen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, I could understand if there was something else playing, but it's this or nothing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Carol",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well , we've discussed this, here's the feeling. You got a greeting starts with an H how's twenty bucks sound.",
+      "characters": [
+        "Manager",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "There's been massive trauma. We could of course try to save him but, it would be costly, difficult and we'd have to send away for some special really tiny instruments.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Let's see, How I'm very good at going in reverse in my car, why isn't Postum a more popular drink,",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer's Andre, he's fooling around with these 976 numbers  hey I told you, I don't want you doing that on my phone",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hmm. So you feel \"women and children first,\" in this day and age, is somewhat of an antiquated notion.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Driver",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He saw that show on anorexia last year, and ate like an animal for two weeks.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Well, I just think it's wonderful. Honestly! I've gotta run, but um, please, please give my best to Susan.",
+      "characters": [
+        "Elaine",
+        "Waitress",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

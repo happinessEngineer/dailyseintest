@@ -1,0 +1,106 @@
+{
+  "gameNumber": 783,
+  "date": "2027-02-24",
+  "questions": [
+    {
+      "quote": "Well we went out one time. Don't you think that's coming on a little too strong?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I don't like it. I don't like it one bit! And, I'm supposed to see him tomorrow.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Gladys",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. No, I'll never cook again! Never! Now get out of my house!! Get out. Go.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Cop"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh well if it isn't Shakey the Mohel! Nice job on the circumcision but it's not supposed to be a finger.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. Listen, Rabbi, I'd like to ask you a question. Why, why did you tell my friend Jerry what I talked to you about?",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Jackie",
+        "Herb"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See I was saying \"six\" but she thought I was saying \"sex\". We straightened the whole thing out though.",
+      "characters": [
+        "Helen",
+        "Levitan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Severance package...The Yankees are giving me three months full pay for doing nothing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "After the Giant game I realized that this--this problem isn't going away.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Who told you to get a massage from her. I haven't gotten a massage from her yet!",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And where does it end? Then everyone's doin' it. It's like the wave at ball games. Air quotes. The phrase, \"Don't go there.\" - Someone's gotta take a stand!",
+      "characters": [
+        "Announcer",
+        "George",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

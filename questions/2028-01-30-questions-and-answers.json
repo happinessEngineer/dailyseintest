@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1123,
+  "date": "2028-01-30",
+  "questions": [
+    {
+      "quote": "Kramer, y'know, guys like you, with no conscience, don't know what it's like for guys like me. I'm in the unfortunate position of having to consider people's feelings.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, can I show this to my buddy Stubbs . He runs a sports memorabilia store. He pays top dollar for pro autographs.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm glad you're here. This can get really boring. Do you know where I can get some good olives?",
+      "characters": [
+        "Greg",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "Hey you know a friend of mine from work said that she saw George at the tennis match on TV yesterday.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Ricky",
+        "Naomi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it was sad for a Three Stooges, what with the dead baby and the Stooges being executed and all.",
+      "characters": [
+        "Helena",
+        "Hoyt",
+        "Jerry",
+        "Ruby"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "bowling? I don't think so George you get no rush from bowling",
+      "characters": [
+        "Elaine",
+        "Tony",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Somebody double parked and blocked us in. D-DOES ANYBODY KNOW WHOSE CAR THAT IS? Maybe there's a note on it. Ohh-oh brother. No, no note. Can you believe this?",
+      "characters": [
+        "Melissa",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've had yours, I'm telling you - this one is ten times better. Don't you believe me?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aah, Jerry I'm not gonna let you bring me down from this high. I've been partying all night. I saw the sunrise at Liza's!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Melissa",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, but we cannot give the people the right to choose any topping they want! Now on this issue there can be no debate!",
+      "characters": [
+        "Poppie",
+        "George",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Poppie"
+    }
+  ]
+}

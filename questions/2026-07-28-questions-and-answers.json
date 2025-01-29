@@ -1,0 +1,106 @@
+{
+  "gameNumber": 572,
+  "date": "2026-07-28",
+  "questions": [
+    {
+      "quote": "\"You're a terrible liar George. Look at you, you're a wreck!. you're sweating bullets.\"",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "So lemme get this straight: you find yourself in the kitchen. You see an éclair, in the receptacle. And you think to yourself, \"What the hell, I'll just eat some trash.\"",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Nina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "His feelings? You can't continue seeing him. You're destroying yourself.",
+      "characters": [
+        "Elaine",
+        "Corinne",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Good. Did you have fun? You have no idea, what you're talking about, now, come on, come with me.  I gotta go get my stuff out of the dryer anyway.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Wyck",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You want some funny material, you oughta come down to where I work, now that's a sitcom!",
+      "characters": [
+        "Kramer",
+        "Carol",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "You know the whole idea of taking the car service was so I wouldn't have to fight the traffic on Friday night.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not through here, Jerry.  I'm gonna keep on investigating. This thing is like an onion. The more layers you peel, the more it stinks.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Turn it off. You're making me jealous. I'm gonna think you like her more than you like me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Uh, listen, this is important. Tell him to meet me at the TV studio with a picture of his mother and that doll that looks like her.",
+      "characters": [
+        "Kramer",
+        "Man",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.. yeah. I know. Um.. how about if, instead of.. diving from the train, you.. uh, you, I don't know, you slip and, and fall in some mud, and.. ruin your pants?",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

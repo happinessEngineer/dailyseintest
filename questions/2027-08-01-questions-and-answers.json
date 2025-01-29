@@ -1,0 +1,106 @@
+{
+  "gameNumber": 941,
+  "date": "2027-08-01",
+  "questions": [
+    {
+      "quote": "If you got into a car accident, I can guarantee you I wouldn't stop for Jujyfruit!",
+      "characters": [
+        "Kramer",
+        "Jake",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Why don't you talk to her about how there's nothing to talk about?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And she was beautiful in that bra!  I'm crazy about her!  I love her whole free swinging, free wheeling attitude!",
+      "characters": [
+        "David",
+        "Sheila",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm working on my Jack Nicholson, You can't handle the truth!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Kevin"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer says you need it because you're an entertainer and you're desperate for attention.",
+      "characters": [
+        "Willie",
+        "Silvio",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "She stole twenty dollars from me.  Yeah, I might've gotten it back, but Lloyd Braun interfered!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, could you tell me where I could find, like, women's moisturizer lotions?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, no, see, my friend already bought me a ticket. I'm late, and she's inside.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No no it's ok.  So we'll go see Schindler's List later right?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Wyck"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I didn't catch his name, but then he went running into the park.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

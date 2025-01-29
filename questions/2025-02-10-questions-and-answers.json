@@ -1,0 +1,106 @@
+{
+  "gameNumber": 39,
+  "date": "2025-02-10",
+  "questions": [
+    {
+      "quote": "Or he's a crime fighter safeguarding his secret identity! Elaine, you could be dating the Green Lantern!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, wait a minute, wait a minute, don't tell me, don't tell me. It starts with a . . . Duncan Meyers. Oh, wow, this is something. I haven't seen you guys in what, twenty years?",
+      "characters": [
+        "George",
+        "Man",
+        "Noreen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Her back went out. She's gotta be there for a couple of days. All she said on the way over in the car was, \"Why, George, why?!\".. I said, \"Because it's there!\"",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, so are you ready, so we'll go out and get something to eat.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Brody"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, every time I see him, it's Tony this, Tony that. George is like a school girl around him",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh no. That's impossible. I'd rather lie to him for the rest of my life that go through that again. He was crying. Tears. Accompanied by mucus.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...so I said to him: Arthur, Artie come on, why does the salesman have to die? Change the title; The life of a salesman. That's what people want to see.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The attic? Y-you haven't wore any of those clothes for years.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey! Did you hear the bank on the corner is offering a 100 dollars if you go in there and they don't greet you with a hello?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Marcy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you deaf? I said sit down!  Hey, for the last time, sit down.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Officer",
+        "Landlord"
+      ],
+      "correctAnswer": "Officer"
+    }
+  ]
+}

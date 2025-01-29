@@ -1,0 +1,106 @@
+{
+  "gameNumber": 422,
+  "date": "2026-02-28",
+  "questions": [
+    {
+      "quote": "I'll tell ya what, I'll bring it over. I'll stop by Schnitzer's, I'll come by five after seven right after they leave.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He, uh, he must've been dictating first thing in the morning. \"I want a cup of coffee and a muffin!\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, I'm sure. I went in to get my X-Ray, Somebody takes my wallet. Is that the operation here?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Michael",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Jerry, my closet is packed to the gills, I'm afraid to open the door. Just for a few months. It'll make all the difference in the world.",
+      "characters": [
+        "Buckles",
+        "Jerry",
+        "George",
+        "Hal"
+      ],
+      "correctAnswer": "Buckles"
+    },
+    {
+      "quote": "My doves! They're dead! I trained those birds for eight years! How am I supposed to do my magic act now?",
+      "characters": [
+        "George",
+        "Karen",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Yeah. A friend of mine, he's a magician. He's going away on vacation. He asked me to take care of his doves.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ping",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's a big move, Georgie boy. Are you confident in the 'I love you' return?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. She did some outdoor version of Hair in Danbury, Connecticut.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, not recently. I craved. I crave all the time, constant craving...but I haven't yearned.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well they're so loud, they're always fighting it's uncomfortable, you never notice?",
+      "characters": [
+        "Helen",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 258,
+  "date": "2025-09-17",
+  "questions": [
+    {
+      "quote": "You see, I've been home for a week and Elaine didn't give me my mail until yesterday, even though I asked her repeatedly for it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I didn't know there was a fireplace. A fireplace, that's incredible.",
+      "characters": [
+        "George",
+        "Sally",
+        "Frank",
+        "Sharon"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Ed, let me ask you something. What's with the fatigues and all the psychotic imagery? Huh?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh my God! You won't believe what I just saw! A car just bashed into a parked car, and sped off, right on my block!",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a second. I think I see where that laser guy is. No! Don't look! Don't look. Oh, yeah, that's him. Ok. I'm gonna sneak up on him. Now the hunted becomes the hunter.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Meat? I don't, I don't know, go... hunt!  Well what happened in the game anyway?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Herb"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm not gonna use the ticket! I'm gonna get my money, I'll get off the plane and turn your ticket in for a refund. It's not gonna cost you a dime! Now gimme the card.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "but..why, it wasn't my fault, I .. you asked me a sandwich, I .. I make such delicious sandwiches Elaine",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, there's one way to check. Where there's Chinese food, there's leftovers.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's nine years old! You don't need karate, you can just wring his neck!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Babs",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

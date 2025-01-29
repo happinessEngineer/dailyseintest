@@ -1,0 +1,106 @@
+{
+  "gameNumber": 886,
+  "date": "2027-06-07",
+  "questions": [
+    {
+      "quote": "The wheels on the bus go round and round, round and round, round and round. The wheels on the bus..",
+      "characters": [
+        "Jerry",
+        "Steve",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh hey, by the way. Do you want a box 'a, Cuban cigars? I smoked one last night. I got nauseous.",
+      "characters": [
+        "Jack",
+        "Deena",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that's odd, 'cause I feel perfectly at peace with the world- uh! eggs! you! Serenity now, serenity now, serenity now.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait, wait… hold on now, wait, wait… *bang*  *bang*  *yip*  *yip* *yip* See? I told you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't think you're being helpful! I think you're being disruptive, and you make it very difficult for your friend here to improve his life!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Fulton's wife told me it's all my fault. She said since my visit he's taken a turn for the worse.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ray",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, they like to call it a set-up now. I guess the blind people don't like being associated with all those losers.",
+      "characters": [
+        "Elaine",
+        "Poppie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I understand. This could be a tough thing to deal with. The important thing is that you have a partner who's supportive.",
+      "characters": [
+        "Lisi",
+        "Sophie",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "I'd have to think about it. I doubt it, though. I doubt it. I'll let you know.",
+      "characters": [
+        "Rudy",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

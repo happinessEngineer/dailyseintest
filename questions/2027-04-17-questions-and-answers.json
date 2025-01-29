@@ -1,0 +1,106 @@
+{
+  "gameNumber": 835,
+  "date": "2027-04-17",
+  "questions": [
+    {
+      "quote": "On-the-street cell-phone call is the lowest phone call you can make.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I think I will. I like the idea of having the law on my side.",
+      "characters": [
+        "George",
+        "Lisi",
+        "Jerry",
+        "Deena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Awright already!! This is a very key issue with me, Jerry. I had this name for a long time.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yes, he's very proud of his work in the big game. So you've never uh, met him before?",
+      "characters": [
+        "Marla",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute. I must have been winking down at the office. That's why Mr. Wilhelm was acting so mysteriouso.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know your eyeliner's smudged a little. Why do you wear so much eye makeup?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well your views on race relations are just, fascinating. You really should do an Op-Ed piece for the Times.",
+      "characters": [
+        "George",
+        "Roy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Two? Sure kid, yeah. But then you gotta promise you'll do something for me.",
+      "characters": [
+        "Kramer",
+        "Worker",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There are twenty people on the board. Thank God you can get that deal.",
+      "characters": [
+        "Morty",
+        "Kruger",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "What is this 'saving movies' thing? Something's playing, you go.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 457,
+  "date": "2026-04-04",
+  "questions": [
+    {
+      "quote": "9... 1... 1. She said she'd do anything. Hello, police? Uh, yeah listen, we're in the back of a limo in Queens--",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She said there's some tractor story that she hasn't told me about.",
+      "characters": [
+        "George",
+        "Clerk",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't care that innocent defenseless animals are being tortured so that you can look good?",
+      "characters": [
+        "Elaine",
+        "Testikov",
+        "George",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh that's good, that's good. Make the eyes, uh, what's that nut?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Harold",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Funny, cause I happen to be very good friends with Keith Hernandez.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, No! She's going out with a friend of mine. It's only courteous that we should try and like each other.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, listen, it wasn't you. I just didn't have 'em back then.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you let go of my arm?! I'm trying to drive, you're getting us both killed!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Helena, you're wrong, you know I'm not that sensitive at all.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No. But what if we get married or something? We'll always have that between us.",
+      "characters": [
+        "Leo",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

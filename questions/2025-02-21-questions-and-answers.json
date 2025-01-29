@@ -1,0 +1,106 @@
+{
+  "gameNumber": 50,
+  "date": "2025-02-21",
+  "questions": [
+    {
+      "quote": "You know what? That's discriminatory. That is unfair. Why should these women have all the advantages? It's not enough they get all the attention from men, they have to get all the waitress jobs, too?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Yeah, that's it. Because everybody laughs at Jerry here in America.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey. All right. Hi. Check it out, official police caution tape. Look at that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Kramer, it's Elaine, thanks for bringing my mattress back. And I guess I'll just get my spare key from you - whenever. All right, bye.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Saleswoman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry? It was incredible! Models! As far as the eye could see!",
+      "characters": [
+        "Gillian",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know Bobby, it's very very hard to hit two home runs in one game. Even for Paul O'Neill.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This is fantastic. Man, what a weekend. Swimming, lobster for dinner...",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't want to be Murphy anymore; do I still have to be Murphy?",
+      "characters": [
+        "Jane",
+        "Elaine",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Murder one? Oooooo, watch out everybody. Better be nice to you. I'm only kidding sir - lighten up. How about you, what are you in for?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Doctor",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You would not believe what just happened. I was waiting for you and this woman was sitting at the counter.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Simon",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

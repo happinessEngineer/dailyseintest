@@ -1,0 +1,106 @@
+{
+  "gameNumber": 428,
+  "date": "2026-03-06",
+  "questions": [
+    {
+      "quote": "She's got rabies, just like my friend Bob Sacamano. She's delirious.  She's foaming at the mouth!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Eva",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"About tonight hum.. there's been a little misunderstanding.\"",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I'll give you a sportin' chance. I'll take Ithaca.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Earl",
+        "Tawni"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Oh. Jerry, those are the guys that mugged me for the armoire.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at that guy. Right there. Isn't that the guy from the show? He's..he's wearing the jacket.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mr. Kramer…Dean, my internship is on line two, she wants to set up a meeting.",
+      "characters": [
+        "George",
+        "Darren",
+        "Lloyd",
+        "Elaine"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Okay, George, I am on the other line. I promise you, I'll get you her number.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're passing already? But the show just ended two minutes ago!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. I'm very attracted to her. That accent, it's so sexy.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What're you talking about, Wilhelm. You popping pills? You got the crazies again?",
+      "characters": [
+        "Steinbrenner",
+        "Susan",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    }
+  ]
+}

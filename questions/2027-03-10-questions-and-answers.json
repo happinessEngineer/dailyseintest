@@ -1,0 +1,106 @@
+{
+  "gameNumber": 797,
+  "date": "2027-03-10",
+  "questions": [
+    {
+      "quote": "I wish that was all needed. Life can be so confusing. I..I'm searching for answers, anywhere.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If I wind up sitting next to Uncle Leo, I am leaving. He's always grabbing my arm when he talks to me. I guess it's because so many people have left in the middle of his conversation.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ned",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what?! She still gave you advice; what's the difference if she's not Chinese?!?!",
+      "characters": [
+        "Jerry",
+        "Daphne",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, after ordering, Mr. Seinfeld and Mr. Costanza debated on whether or not iron man wore some sort under garment between his skin and his iron suit…",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Darren",
+        "George"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Nah, no, no, no. No doctors for me. A bunch of lackeys and yes-men all towing the company line..  Plus, the botched my vasectimy.",
+      "characters": [
+        "Elaine",
+        "Lloyd",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got Sandra transferred to another office upstairs, okay?! So, she blabs to Lippman about my long distance calls to Europe!",
+      "characters": [
+        "Kramer",
+        "Karen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You did?! That's Goood! That's very good! I'm very glad to hear that.",
+      "characters": [
+        "Jerry",
+        "Man",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kosher meal? I don't want a kosher meal. I don't even know what a kosher meal is.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I was wondering.. You know that Black Hawks jacket you have?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "First she screams, \"George, what are you doing?! My God!\" And it looked like she was gonna faint - she started clutching the wall, trying to hang onto it.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 238,
+  "date": "2025-08-28",
+  "questions": [
+    {
+      "quote": "Elaine, that's what mail is. Without bills, magazines and junk mail, there is no mail.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm talking about the pig man. I went into the wrong room and there he was.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Raymond",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, don't be ridiculous! Is that what you wanted to talk to me about? [Gives him the $35] Here.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Yeah.  I'll get it, I'll get it! Take it easy, why are you so tired?",
+      "characters": [
+        "Hal",
+        "Owner",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey did you notice they moved where they do the interview on Jeopardy now?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Landis"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know exactly what's gonna happen tonight. I'm gonna try and act like I'm not impressed, he's gonna see right through it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Seth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine? Guess what. I've decided to Form a Charitable Foundation, in Susie's honor. And as Susie's best friend, I want you to be involved.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Yes, in fact she told me that she wishes she was the one getting married.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Well, do you want to go out for a walk, get a cup of coffee...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Shoes? Shoes?! Shoes?! Shoes weren't invented till the fourth century! People walked around for thousands of years without them!  I got this. Let's go!",
+      "characters": [
+        "Elaine",
+        "Landlord",
+        "Kramer",
+        "Izzy"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

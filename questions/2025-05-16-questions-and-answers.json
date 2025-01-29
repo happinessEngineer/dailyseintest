@@ -1,0 +1,106 @@
+{
+  "gameNumber": 134,
+  "date": "2025-05-16",
+  "questions": [
+    {
+      "quote": "She works for Pendant Publishing. She's the most beautiful woman I've ever seen. You know, I used to work for NBC, but when I go back to her this time, she'll respect me.",
+      "characters": [
+        "Russell",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Well, at least you probably had some, uh, pretty good make-up sex after.",
+      "characters": [
+        "Steve",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll see.  Have a seat. That's a lovely scarf you're wearing. Where did you get it?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Yeah, woman have no problem getting the hand off. How do they do that?",
+      "characters": [
+        "Kramer",
+        "Nina",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ray, I had a statue in my house. You were in my house – and then I saw it in your house.",
+      "characters": [
+        "Pam",
+        "Marcelino",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm sorry.  I just.. have to ask that doctor one more question.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Maestro",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hi, Allison? Oh, I guess you're not at home.. I probably should 'ave tried you at the office. Anyway, good to hear from ya, really looking forward to the ball..  Ha ha!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I'm sorry about that Mongolian barbecue last night. I'd heard good things.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I knew I had hit my high note so I thanked the crowd and I was gone.",
+      "characters": [
+        "Julie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, but you know what? I have a friend, he's got a couple of seats. If you don't mind the nose bleed section, they're yours.",
+      "characters": [
+        "Kramer",
+        "Alec",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Alec"
+    }
+  ]
+}

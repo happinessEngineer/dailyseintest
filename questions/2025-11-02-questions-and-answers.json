@@ -1,0 +1,106 @@
+{
+  "gameNumber": 304,
+  "date": "2025-11-02",
+  "questions": [
+    {
+      "quote": "That?s-that?s-Harry Fong, he's a very good friend of mine and he's a big opera buff. Enjoy the show there harry!... You know what.",
+      "characters": [
+        "Puddy",
+        "Ping",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on. He's just a lonely old man. All old people steal.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know something really stinks to high h… Holly! What are you doing here?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I was nice enough to give you the picture. I don't like what I wrote. I don't want it up there. Now please just give it back to me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What kind of pills are these, anyways?! \"For Smuckers\"? \"May cause panting and loss of fur\"?  These are dog pills!",
+      "characters": [
+        "Wilhelm",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yours were hilarious, we were both cracking up. I just love jokes like that.",
+      "characters": [
+        "Betsy",
+        "Elaine",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Jerry, buddy, I got to tell you something. That voice is played.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What? You're moving to Florida!?! That's wonderful! I'm so happy!  For you! I'm so happy for you! Oh, what do you need this cold weather for?",
+      "characters": [
+        "Elaine",
+        "Noel",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I couldn't help it. We hadn't been alone in a long time, it just got the better of me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How would you like it if I just pulled your heart out of your chest right now, and shoved it down your throat?",
+      "characters": [
+        "Tom",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Tom"
+    }
+  ]
+}

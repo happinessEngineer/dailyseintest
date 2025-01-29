@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1136,
+  "date": "2028-02-12",
+  "questions": [
+    {
+      "quote": "Well...hum.....we'll just have to do something about that. Won't we.",
+      "characters": [
+        "George",
+        "Sharon",
+        "Elaine",
+        "Craig"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "You're taking that much to literally. Now sir , do you have any business to transact.",
+      "characters": [
+        "Teller",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Teller"
+    },
+    {
+      "quote": "Shh. Shh. Shh. It's not important. What's important is I'm not gonna let a little thing like that ruin what could be a very long-term and meaningful relationship.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell me what you're wearing tomorrow. I'll help you lay it out on the bed.",
+      "characters": [
+        "Pitt",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And a guy will appear from out of nowhere. I say \"Get out of here! What do you want? You don't belong here!\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, question #8. What if I told you my fiancee left me for another man? Does that make me more likable, less likable, as likable? Let's start over here this time.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Vivian"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I have lost complete control of my staff. Why did I let George go to that party? I mean, we were having so much fun. We were wining, we were dining, we were dancing.  What?",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, hey, hey! All right! Yeah, uh, yeah.. well.. Uh, the pants. they, uh, they fit, uh, well - and so I, uh, decided I wasn't gonna return them!  Wooh-hoo-hoo-hoo!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You mean just because I asked him to go upstairs, he thinks he's going downtown?",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Beth",
+        "Ray"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright I happen to know what they did last night, they had dinner with Kramer.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

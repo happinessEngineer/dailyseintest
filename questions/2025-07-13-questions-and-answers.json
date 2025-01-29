@@ -1,0 +1,106 @@
+{
+  "gameNumber": 192,
+  "date": "2025-07-13",
+  "questions": [
+    {
+      "quote": "Hey Doc, check this out. [does an around-the-world with the Yo-Yo]",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Steve",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, where, where are you going? You gonna take a trip? The map... what...",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi, George. How ya feeling? Is anybody getting your apartment?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think I'd be good at that. I talk to people all the time. Someone even told me once they thought I'd be a good talk show host.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cancel!  Think again, longshanks! I started planning this in nineteen seventy-eight. I put a deposit down on that revolving restaurant that overlooks Times Square, and I booked Christopher Cross.",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yes, but you're still not allowed. These seats are very expensive.",
+      "characters": [
+        "Attendant",
+        "Kramer",
+        "Cheryl",
+        "Jerry"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Hi, this is Darren from Kramer's office. Mr. Kramer would like to schedule a lunch with you at Monk's coffee shop.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Darren",
+        "Morty"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Yes I am, a guy on my mail route just got a couple of tickets and he offered one to me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "The only time it wasn't uncomfortable was when we were making fun of you.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Dana",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George. Thanks for coming down to talk to me. I wanted to see you right away, but my hours here aren't very flexible. I just started yesterday.",
+      "characters": [
+        "Hanke",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Hanke"
+    }
+  ]
+}

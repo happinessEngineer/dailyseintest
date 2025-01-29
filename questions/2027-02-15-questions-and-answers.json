@@ -1,0 +1,106 @@
+{
+  "gameNumber": 774,
+  "date": "2027-02-15",
+  "questions": [
+    {
+      "quote": "Uh, let me get a coat. I think I'll uh try a sport jacket and scarf thing, you know, like an unemployed actor.  Ahh, haven't worn this one in a long time.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, we're not stupid, right? We know when something's funny!",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think so, Vic. I've done my homework. '89 Volvo, that's the car for me, it's the one I want.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Michael",
+        "Tawni"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on, come on. I?ll guarantee 140. What do you have to lose?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "When I started out as a comedian, I sold umbrellas. It was my idea to twirl it, to attract customers.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Ellen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know you want me to keep my big mouth shut and that's exactly what I'm going to do. I'm never gonna talk again.",
+      "characters": [
+        "Kramer",
+        "Poppie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, look at this one by the bus stop. Jerry, come here. Take a look at this.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You must have done *something* wrong. You probably screwed up the order. Did you close with the swirl?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
+        "Tv"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the bra I gave here, she's wearing it as a top!  The woman is walking around in broad daylight with nothing but a bra on, she's a menace to society.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, to me, the Hakuna Matata is not nearly as embarrassing as the cup of soup...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

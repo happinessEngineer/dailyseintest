@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1062,
+  "date": "2027-11-30",
+  "questions": [
+    {
+      "quote": "Yes.  Oh, your father bought a exercise device off the television. He does it every morning at four.",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "As you can see my references are impeccable. I think I'd be a real asset here. My only concern is, I do take care of my mother. So will there be any late nights?",
+      "characters": [
+        "Jerry",
+        "Kurt",
+        "Ade",
+        "Kramer"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "I asked because you were the mailman, you would know the neighbourhood.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm on my way to cash in their plane tickets for them. They need a little food money.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Frank",
+        "Leo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If you had gotten into the backseat of the car we could've figured this whole thing out.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Well she apologized, and then she wanted to know if we could get together Wednesday afternoon.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Siege mentality, Jerry. They really want me out of here. They've downgraded me to some sort of a bunker. I'm like Hitler's last days here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Manny",
+        "Voice"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not goin' there. Didn't he get busted by the Board of Health?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know how to do it. Pair of pants, a stupid story, a huge markup. I can do that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, she left. Listen, you can't mention any of this to Elaine. Cynthia will kill me, we made a deal.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

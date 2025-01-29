@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1009,
+  "date": "2027-10-08",
+  "questions": [
+    {
+      "quote": "Let me tell you something. No one walks into a beauty parlor and says \"Give me the Larry Fine.\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But I didn't know, Tom. I g -- can't you just make an exception? Please. I've got a nice face.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine and her sponges...she's got like, a war chest full of them.",
+      "characters": [
+        "George",
+        "Kelly",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, if you talked this loud to begin with, I wouldn't be in this costume in the first place!",
+      "characters": [
+        "Driver",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. As you walk in the place move immediately to your right.",
+      "characters": [
+        "George",
+        "Harold",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This you are not going to believe. Al Netchie, that pimple. Tells Daphne, not get this 'Not to get involved with me.'",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you realize this is the last meal I am going to have for three days?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I read the Lenny Bruce biography, I thought it was really... interesting. He would-",
+      "characters": [
+        "Jerry",
+        "George",
+        "All",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you doing? Don't tell a woman she looks like a man and George doesn't want to hear his girlfriend looks like me and frankly neither do I",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, relax, tough guy. I got to go out to my father's garage, help him sell some computers.",
+      "characters": [
+        "George",
+        "Susan",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

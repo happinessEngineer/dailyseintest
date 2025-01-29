@@ -1,0 +1,106 @@
+{
+  "gameNumber": 225,
+  "date": "2025-08-15",
+  "questions": [
+    {
+      "quote": "Very good. My name is Babu Bhatt, I will be your waiter. A steaming hot folded face cloth for your pleasure.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "That's what you want to see, yeah. . . . Yeah, you want to trade your hair for some phlegm.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Pop",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, what do you know, you have no breast touching experience.",
+      "characters": [
+        "Katya",
+        "Brody",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If I don't have a good shower I am not myself. I feel weak and ineffectual. I'm not Kramer.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Can I have one? I need one of those old-looking phones. So you wanna grab a bite?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe we should call one of those escort services.  I saw one of them advertised before on the cable station.",
+      "characters": [
+        "Jerry",
+        "Steve",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "Are you even vaguely familiar with the concept of giving?  There's no grace period.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is the signal? Thank you, Mr. Signal. Where were you yesterday?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, why? Why do guys do this? What is so appealing to men about a cat fight?",
+      "characters": [
+        "Ken",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I put Canadian quarters in the washing machine.  I gotta be out by the end of the month.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Owner",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

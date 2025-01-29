@@ -1,0 +1,106 @@
+{
+  "gameNumber": 510,
+  "date": "2026-05-27",
+  "questions": [
+    {
+      "quote": "Oh, well, I just felt so bad about what happened in Tuscany..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The houses are passed down from generation to generation, it's very hard.",
+      "characters": [
+        "Maestro",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Well, no. They're not really in the supermarket. Yeah, they got their own case at the end of the aisle.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lou",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That is the single greatest packing performance I have ever seen.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mr. Lippman, when I worked for you at Pendent Publishing, I believed in you, you know as a man of integrity. But, I saw you in that paper hat and that aprin...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "David"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer, I got your message. I haven't celebrated Festivus in years! What is your interest?",
+      "characters": [
+        "Farkus",
+        "George",
+        "Robin",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "He bothers me. I don't even answer the phone anymore because of him. He's turned me into a screener. Now I gotta go see him on Wednesday.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I had to tell them. I had to. I had no choice. They were onto the scam from the very beginning.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So it was the meeting on the street that prompted you to buy the bra for Miss Mishke, would you say that was correct?",
+      "characters": [
+        "Jackie",
+        "Harold",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "I guess after that many beers he's probably a little groggy anyway.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

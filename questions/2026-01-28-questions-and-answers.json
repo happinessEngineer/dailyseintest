@@ -1,0 +1,106 @@
+{
+  "gameNumber": 391,
+  "date": "2026-01-28",
+  "questions": [
+    {
+      "quote": "Think, a second. You know, your friend was talking about me and, you know...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, could you do me a personal favor? And if I'm out of line, *please*, let me know. Could I keep my trench coat in your closet for a few months?",
+      "characters": [
+        "Ron",
+        "Captain",
+        "George",
+        "Buckles"
+      ],
+      "correctAnswer": "Buckles"
+    },
+    {
+      "quote": "Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care..",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've been drinking Café Latte since the fifth grade and I haven't looked back.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you call her agency. Maybe she's been out of town and she didn't get the calls.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Winona",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, after talking to you, we realised we may not have much time left.",
+      "characters": [
+        "Jerry",
+        "Rebecca",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, you know, those annoying little bumps on the lane-lines?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How do you like that? Can I turn now? Is this over? No, I can't, I can't. I'm stuck.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Mary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mono? Huh, well, if anyone needs any medical advise, Elaine met a doctor. And he's unattached.",
+      "characters": [
+        "Marcy",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, anyway, the operation is on Tuesday and I need you to drive me home because I'll be all drugged up.",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Kramer",
+        "Kevin"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

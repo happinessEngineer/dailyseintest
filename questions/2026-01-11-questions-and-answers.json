@@ -1,0 +1,106 @@
+{
+  "gameNumber": 374,
+  "date": "2026-01-11",
+  "questions": [
+    {
+      "quote": "All right. Oh, hey, I think you're gonna like my first my third choice.",
+      "characters": [
+        "Joel",
+        "Landlord",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Our neighbor that you... turned against.  Anyway, I told him it'd be fine with us if he wanted to let it stretch its wings out in the hallway.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, I'm sorry uh, that I doubted you. Whatever you need, just uh, make yourself at home.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "All right, remember: no rust-proofing. Commit to nothing. If you have to speak - mumble.",
+      "characters": [
+        "Allison",
+        "Cynthia",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, if this mechanic guy, was, in fact, eating a 5th Avenue bar, as he claims, wouldn't you agree he would have no problem picking one out from a candy line-up?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what happened? I thought Cheryl was gonna help Babu get his Visa.",
+      "characters": [
+        "Holly",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I'm goin' there today. In fact you should see this house keeper he's got. She's from Senegal [and, ala Carson] Wild, Wild, Stuff...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yes. Yes, I yearn. Often, I...I sit...and yearn. Have you yearned?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "For me? Go...Yeah, what tonight? Yeah, I'll be there...Yeah later.  Well, somebody's baby-sitting.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know what Elaine is so upset about. I mean, without dessicates, those clothes'll be noticeably musty in five years.",
+      "characters": [
+        "Estelle",
+        "Steinbrenner",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

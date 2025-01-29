@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1005,
+  "date": "2027-10-04",
+  "questions": [
+    {
+      "quote": "Well, it's the style.  Jerry give me the keys.  Well, I guess we're gonna go for a drive now. She really loves that.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He says \"I don't want to sleep alone.\" She says, oh boy, \"love to.\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, all right. I'll help you but I will except something in return.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know, a member of my congregation has a timeshare in Myrtle Beach. Perhaps, if you're not too busy, we could wing on down after the High Holidays? Elaine? 'Lainie?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Well, I had to talk to you - I noticed you haven't been returning my calls.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Mike",
+        "Bette"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great!  Nina could go, huh? Jerry, this is great. You and Elaine. Me and Nina.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Rudy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, and before I forget, I have the checks for the first month, last month's security deposit.  I have seventy-five dollars left in my account.",
+      "characters": [
+        "George",
+        "Bookman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, you know, I just told them what kind people you are and, uh, yada yada yada, that is it.",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't understand. This organ, it's very... schizophrenic.",
+      "characters": [
+        "Jerry",
+        "Marlene",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They are shut. Oh by the way, your friend Seth, he stopped by.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

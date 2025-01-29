@@ -1,0 +1,106 @@
+{
+  "gameNumber": 595,
+  "date": "2026-08-20",
+  "questions": [
+    {
+      "quote": "Sure, well uh, you know I'll check in with you next week uh, I gotta run now because I got a full plate this afternoon. All right, really go to uh,.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lemme tell you sum'in. When Ponce looked in that mirror and saw that he hadn't changed, and that tear started to roll down his cheek? ... I lost it.",
+      "characters": [
+        "Elaine",
+        "Anna",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. NBC limo is downstairs - beep beep beep. {NBC tune} I'm just going to call Jill one more time before we go.",
+      "characters": [
+        "Elaine",
+        "Karen",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Excuse me, uh I couldn't help but notice that you were looking in my direction.",
+      "characters": [
+        "Kramer",
+        "Manager",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well... now I know this sounds touristy, but I'd just love to go on one of those five-hour boat rides around Manhattan.",
+      "characters": [
+        "George",
+        "Receptionist",
+        "Elaine",
+        "Laura"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "All right. Okay, tell me what you think about this idea: Extend the doors on the toilet stalls at Yankee Stadium all the way to the floor.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, maybe we better not. I, I think I'm getting a little cold. I don't wanna give you any of my germs.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you think I know the difference between a pick and a scratch?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright. I guess I just have to pick myself up, dust myself off, and throw myself right back down again!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So Elaine... Where are we going for our big dinner on Friday?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Roy",
+        "Elaine"
+      ],
+      "correctAnswer": "Roy"
+    }
+  ]
+}

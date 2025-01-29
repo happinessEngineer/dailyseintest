@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1059,
+  "date": "2027-11-27",
+  "questions": [
+    {
+      "quote": "Please! Please!! I take it all back, everything! I take it all back, every word! I love you! I love *you*! I can't live without you, I,ll, I'll do anything!",
+      "characters": [
+        "Man",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nothing. I'm sure \"Jon\" probably mispelled his own name. I know sometimes I spell Jerry with a G...and an I!",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "George",
+        "Roy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you go in the bathroom at eleven your in bed by what, two?",
+      "characters": [
+        "George",
+        "Mike",
+        "Jerry",
+        "Levitan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The worst part is getting from the subway station to the house. There's no transportation...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "So, this worked out pretty good. Them givin' me an extra ticket, y'know, you get a free trip to St. Louis, I did my gig, you got to see your sister...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Michael"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no you know we're not partners. I only get twenty-five percent.",
+      "characters": [
+        "Kramer",
+        "Sally",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What can I do? Break up with him? Tell him, \"I don't think we're right for each other.\" He's a guy! At least with a woman, there's a precendent. You know, the relationship goes sour, you end it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Detective",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I'm not doin' this anymore. I don't know what I was thinking. It's illegal, it's dangerous...",
+      "characters": [
+        "Levitan",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's good, then I get the apartment for at least one night. You know I'm paying for this whole Paris trip it's their anniversary present.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yes, yes. Very beautiful girl, very beautiful. Is your girlfriend?",
+      "characters": [
+        "Bruce",
+        "George",
+        "Rudy",
+        "Jerry"
+      ],
+      "correctAnswer": "Bruce"
+    }
+  ]
+}

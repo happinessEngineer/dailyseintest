@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1099,
+  "date": "2028-01-06",
+  "questions": [
+    {
+      "quote": "Well this way I figure you can go out and get yourself whatever you want. No good?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Milos",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy.. imagine.. liking wigs to the point it becomes a career choice.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Eddie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Geez, Hey you know something, you should try my friend's wake up service. She swears by this thing.",
+      "characters": [
+        "Puddy",
+        "Harold",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Marriage is not an intervention to be entered lightly... Yada yada yada, I pronounce you man and wife.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Father",
+        "George"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "Oh, the cameras was, vrooom, there. The announcers, they made a couple of cracks about you.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "Lanette"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, I want you to come and work for me as my personal assistant. Now, I'll pay you the same as Pendant, but I would need you to start right away.",
+      "characters": [
+        "Pitt",
+        "Jimmy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "I told ya. Hey, any of you guys want to come out and help me fix my father's screen door in Queens?",
+      "characters": [
+        "George",
+        "Kate",
+        "Jerry",
+        "Gino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, I was thinking - if things don't exactly work out..",
+      "characters": [
+        "Carrie",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, the main thing is that this is just between us, and that'll be the end of it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

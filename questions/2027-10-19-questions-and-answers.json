@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1020,
+  "date": "2027-10-19",
+  "questions": [
+    {
+      "quote": "Of course I'm all right. I'm here with my girl, Nina. And what better way to pass the time than gabbing with my best friend -- with whom there are no secrets.  Like this. Since the fourth grade.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Moving cars from one side of the street to the other don't take no more sense than putting on a pair of pants. My question to you is who's putting your pants on?",
+      "characters": [
+        "Sid",
+        "Susan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Jerry, a throat-clear is a non-verbal implication of doubt - he thinks I killed Susan!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, so get this. I get a call this morning from one of the Mets front office guys. They wanna take me out to lunch.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, your grandmother gave you this gift. She wants you to spend the money, to have the fun that she can't have. Oh, this is tantamount to a slap in the face.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I told them I was just about to see you.. It's a Festivus miracle!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\" That guy was amazing, he could dunk and he was my height...What was his name again?\"",
+      "characters": [
+        "Attendant",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I love full lips. Something you can really put the lipstick on.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Glenn",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just when I was doing great. I told you God wouldn't let me be successful.",
+      "characters": [
+        "Gavin",
+        "Morty",
+        "Gina",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He just walked away! And once again I'm standing here like a little man. Well not this time!  You! Dog man!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

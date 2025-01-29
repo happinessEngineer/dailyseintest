@@ -1,0 +1,106 @@
+{
+  "gameNumber": 566,
+  "date": "2026-07-22",
+  "questions": [
+    {
+      "quote": "Look. This plane is *full*. I got a lot of people to serve. Now please... You're just gonna have to wait.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Kramer",
+        "Attendant"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Yeah. I mean, his upper lip landed flush on my upper lip. But his lower lip landed well below my rim.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, let me ask you a question. In these nudist colonies, do they eat naked in the dining room?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But if we did that, we might feel a certain obligation to call.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Guy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hold it. I really want to be clear about this. Are you talking about the woman in the meeting? Is that the woman you're talking about?",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ahh, you know what I think. I'm just going to have soup. Yeah, I'll save the meal for another time.",
+      "characters": [
+        "Bania",
+        "Frank",
+        "Jerry",
+        "Phil"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Well, I guess I have all the more reason to get back with her.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Darren"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...you'll see, things will be different now - if you just give me one more chance.",
+      "characters": [
+        "Kramer",
+        "Michael",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, Newman. What do I have to do to get you to stop pulling the strings for Kramer?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because to pull rickshaws means more than just strong legs. You're also going to need a well-toned upper body.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

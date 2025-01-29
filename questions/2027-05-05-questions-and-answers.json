@@ -1,0 +1,106 @@
+{
+  "gameNumber": 853,
+  "date": "2027-05-05",
+  "questions": [
+    {
+      "quote": "Oh, I'm taking this lace out. It came undone and touched the floor of a men's room. That's the end of that.",
+      "characters": [
+        "Elaine",
+        "Ralph",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you when it's enough!  Alright, now you better not say anything, or I'll stalk you!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ressurected! And look what I pried off of his bumper, a Jesus fish!",
+      "characters": [
+        "Kramer",
+        "Laura",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...Yeah, you're right. Well, will you at least keep me company until somebody comes out?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Morty, doesn't that watch look like the one that we gave Jerry.",
+      "characters": [
+        "Helen",
+        "Keith",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "These are not \"scraps.\" These are historic remains of a once Great Society of Hair.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Gary",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's a very handsome man. Passionate, intense, but troubled, strange. I think he may be in love with me. Of course there's nothing abnormal about that, I have many suitors.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "Shut up or I'll snap you in half and stuff you in the overhead!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I could've called the travel agency, got them on another flight to Paris, I coulda got them out.",
+      "characters": [
+        "Aaron",
+        "Jerry",
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "No! It's an isolated, sexual incident. We are not back together!",
+      "characters": [
+        "Mickey",
+        "Kramer",
+        "Russell",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

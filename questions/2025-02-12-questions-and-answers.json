@@ -1,0 +1,106 @@
+{
+  "gameNumber": 41,
+  "date": "2025-02-12",
+  "questions": [
+    {
+      "quote": "She does a full hour about how you're the devil .I got to go see this thing.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Vandelay"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! Not me pal. I can't keep this up much longer. I'm sick of being single. I'm getting out.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! Step into that spotlight and belt that gonorrhea out to the back row.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is not a Metallica concert, it?s an opera alright, a little dignity, a little class, just give me my ticket, I will stand over here and sell it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Bruce"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But enough about fish, huhuhu. I can discuss other things you know, ah… architecture. Huhu.",
+      "characters": [
+        "Hal",
+        "Jerry",
+        "Lloyd",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is that about leaving after sex? Did I ever leave with you?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Made out to the Human Fund.  Oh, damn. I've locked myself out of my office again. Oh well. I'm going home.",
+      "characters": [
+        "George",
+        "Kruger",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "His administration did excel in one department: the hiring of incompetents.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Jerry",
+        "Stan"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Why would I spend seven dollars to see a movie that I could watch on TV?",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, um, before I forget, . . . Cuban cigars. It's a present from my father.",
+      "characters": [
+        "Ade",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

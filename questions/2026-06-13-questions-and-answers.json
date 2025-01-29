@@ -1,0 +1,106 @@
+{
+  "gameNumber": 527,
+  "date": "2026-06-13",
+  "questions": [
+    {
+      "quote": "No Jerry, it is out of the question. You know what sex does to a friendship, it kills it.",
+      "characters": [
+        "George",
+        "Morty",
+        "Craig",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well what difference does it make? They wouldn't lie to us, they're are dear friends.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Mohel"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, I'm just gonna go down there and personally thank him. I mean, I had this guy all wrong. This is wonderful!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The super has keys to your apartment.  Don't you see what's going on? Newman is planning a sneak attack.",
+      "characters": [
+        "George",
+        "Naomi",
+        "Tor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, he want me to fix him up with Marisa Tomei. I am not gonna be a part of this!",
+      "characters": [
+        "Corinne",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I should have let her have it! I held back because of Kramer.",
+      "characters": [
+        "Maestro",
+        "Ricky",
+        "Silvio",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When I see someone enjoying themselves like that, it reminds me why I got into this business in the first place.",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "Elaine",
+        "Carol"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Well, I didn't really get a good 'hello', but see, I was at a funeral.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Amy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi, you must be Jerry. Sandy's in the shower. Do you want to come in?",
+      "characters": [
+        "Laura",
+        "George",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "That's not how it happened. It's when he fell on him with his knee.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Driver"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

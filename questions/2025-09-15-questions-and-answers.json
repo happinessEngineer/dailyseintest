@@ -1,0 +1,106 @@
+{
+  "gameNumber": 256,
+  "date": "2025-09-15",
+  "questions": [
+    {
+      "quote": "Hey, remember Beth and David from yesterday? They got separated.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, first of all, for some reason, they started the game an hour Late. And uh, I was sittin' next to Spike Lee an' he an' Reggie were jawin' at each other, so I guess I got involved.",
+      "characters": [
+        "Elaine",
+        "Gennice",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh no. Look at this. Okay yeah this looks good and I like what your wearing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, yeah, yeah. Here it is, Brody. One copy of Cry Cry Again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Can't you do anything about this? I mean this woman is a psycho!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well,, why did you tell me to order it if you knew you were going to get one someplace else?",
+      "characters": [
+        "Stationer",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Stationer"
+    },
+    {
+      "quote": "Yeah, and this is just the Upper West Side. Wait until I get to the Village, then you're gonna see a magic show.",
+      "characters": [
+        "Gina",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let's do it then! Festivus is back! I'll get the pole out of the crawl space.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "C'mon, you can't do anything about it. The cops won't do anything. What, are you going to fight him? Why don't you just forget it?",
+      "characters": [
+        "Elaine",
+        "Hal",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, hey. Wha... wait... what, you're gonna leave it there? That's like half a pound of turkey!",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

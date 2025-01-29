@@ -1,0 +1,106 @@
+{
+  "gameNumber": 563,
+  "date": "2026-07-19",
+  "questions": [
+    {
+      "quote": "Hey, look, there's Bobby Eighteen?s father-in-law, Mr Reichman. George and I were just talking about that today, I can?t believe it! That?s the guy who threw George out of the wedding.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Maryedith",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mr. Peterman, Peggy, I.. guess we, should just get this over with.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What are you starting with me for? You know this is my crazy time o' year?!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Beth"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No! I'm lefty, can't go right. What about women? Do they go left or right?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She wants my shoes? What kind of person is this? Alright! She is not getting 'em!",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Either way, we need to get into your apartment and do a safety check.",
+      "characters": [
+        "Jerry",
+        "John",
+        "Carol",
+        "George"
+      ],
+      "correctAnswer": "John"
+    },
+    {
+      "quote": "So, I'm thinking of putting in na tropical fish tank right here.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Amy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You come to a parking lot, you write it down. How hard is that?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Testikov",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wha-You never see him. He sidled me again in my office. I was sitting there making Cup-A-Soup singing that song from \"The Lion King\".",
+      "characters": [
+        "Glenn",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I gotta go to the Dixieland Deli to pick up Mr. Pitt's security pass for the parade.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 283,
+  "date": "2025-10-12",
+  "questions": [
+    {
+      "quote": "Yeah, this is room 419, I'd like a wake-up call for 6:50 AM tomorrow morning.",
+      "characters": [
+        "Tia",
+        "Elaine",
+        "Jerry",
+        "Silvio"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, hey, hey! I met this guy! And it was like this, totally unreal, fairy tale moment.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Gennice"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ha ha! We took it to you! You couldn't get it out of your zone all night. We were aggressive, we didn't let you penetrate!",
+      "characters": [
+        "Puddy",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Now I know who you are! You're a comedian. I've seen you, it's driving me crazy.",
+      "characters": [
+        "Carol",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I've been clean for two years. Anyway what would we do together?",
+      "characters": [
+        "Sally",
+        "George",
+        "Kramer",
+        "Babs"
+      ],
+      "correctAnswer": "Babs"
+    },
+    {
+      "quote": "I don't know.. I made it up.  I'm never gonna get this thing.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Steven"
+      ],
+      "correctAnswer": "Steven"
+    },
+    {
+      "quote": "Well, my lawyer says 14 months, but with good behavior, maybe...10?",
+      "characters": [
+        "Newman",
+        "Kurt",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kurt"
+    },
+    {
+      "quote": "It got a little dirty, so they wanted to clean it before they gave it back to you.",
+      "characters": [
+        "Estelle",
+        "Helen",
+        "Elaine",
+        "Hallie"
+      ],
+      "correctAnswer": "Hallie"
+    },
+    {
+      "quote": "No no no, I want you to beg me. And I don't want you to say it, I just want you to put some beg into it. Go on.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, hey what's going on out here? You two should be ashamed of yourselves, both of ya!",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Stan"
+      ],
+      "correctAnswer": "Stan"
+    }
+  ]
+}

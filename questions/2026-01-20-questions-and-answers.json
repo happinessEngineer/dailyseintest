@@ -1,0 +1,106 @@
+{
+  "gameNumber": 383,
+  "date": "2026-01-20",
+  "questions": [
+    {
+      "quote": "Yeah, she's something else. Hey, so what happened? Did you hold your ground or...uh…",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, ELAINE:, There's any number of things I could do. But, I can promise you this, though, this vicious beast will never bother you again. So, what's it going to be?",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Cynthia",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, not billiard..  Not billiards.. it was.. Come on, already. Come on..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "When we were little girls Grandma Memma would take us to a matinee and then dinner here.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Holly",
+        "Kramer"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "I don't know. He wouldn't tell me his phone number, where he worked... I'll bet he's in a relationship.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sue Ellen sends me an invitation, one week before her wedding in India. Tst, I'll show her...",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "Elaine",
+        "Margaret"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, honey. What do you want to get? [in babying voice] I want you to get anything you want...'cause I love you so much. I want you to be happy. Okay, sweetie?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The bathroom door. I remember someone had played tic-tac-toe on it, and the X's won; they went diagonally from the top left to the bottom right.",
+      "characters": [
+        "Fred",
+        "Driver",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "She has this in addition to Epstein-Barr. It's like Epstein-Barr with a twist of Lyme disease.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Fred",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no, no, not at all. No, I have always felt that the most important thing in the world is spending time with family.",
+      "characters": [
+        "Susan",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

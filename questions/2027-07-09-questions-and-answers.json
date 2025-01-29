@@ -1,0 +1,106 @@
+{
+  "gameNumber": 918,
+  "date": "2027-07-09",
+  "questions": [
+    {
+      "quote": "If only you could put your mind to something worthwhile. You're like Lex Luthor.",
+      "characters": [
+        "Kramer",
+        "Mary",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I got stamped at the reggae lounge last night. Yeah, I'm going back there tonight, you know, I'm not gonna pay another cover charge.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is this. It's like you're selling movie tickets back here.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sophie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I am under direct orders from Mr Wilhelm. So if you have a problem with that, maybe you should just take it up with him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Gino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, you know what's weird? I think I had a dream about you last night.",
+      "characters": [
+        "Greg",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "Hey Deena, come on, give us a hug.  Oh my gosh, you look as pretty as you did back in high school.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. She should be commending me for treating everyone like equals.",
+      "characters": [
+        "Audrey",
+        "Sophie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, why don't you just take a good, hard look at what your life will be like if I'm not around?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Attendant",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let me ask you ; Had she been exposed to any kind of inexpensive glue?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Poppy told me to talk to his cousin, he lives down in Little Italy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

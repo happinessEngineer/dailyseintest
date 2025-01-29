@@ -1,0 +1,106 @@
+{
+  "gameNumber": 308,
+  "date": "2025-11-06",
+  "questions": [
+    {
+      "quote": "Let me tell you something about that tag. It's no 31, and uh...let's just leave it at that.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it wasn't just that, i realized after 3 years of marriage that David's little quirks were getting on my nerves a little.",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Yeah. Why not Susan. I should be friends with Susan.  Of course! Susan! Oh! OK, I'll see you guys. Huh.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what they do in there? Did you see CooCoo's Nest? They put those electrodes in your head.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...And it gets worse. The team working on the statue in Lafayette Square kind of over-smoothed it. They ground the head down to about the size of a softball, and that spells trouble.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kruger",
+        "Milos"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Hey if you're the real Peterman, who come you're wearing those ratty clothes? The're not very romantic.",
+      "characters": [
+        "Peterman",
+        "Celia",
+        "Rabbi",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "So? For a twenty-five dollar cleaning, I can listen to some pointless blather.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George! She said George? She remembered my name.  Diane DeConn remembered my name. She was the \"it\" girl!",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Did you see that? That-that pigeon didn't move! I had to swerve to get out of the way! I saved that pigeons life!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh-huh. Okay, well, we're coming down. All right.  Okay. I got a place that can analyze it. It's in Brooklyn. We have to drive there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

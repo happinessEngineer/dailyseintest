@@ -1,0 +1,106 @@
+{
+  "gameNumber": 305,
+  "date": "2025-11-03",
+  "questions": [
+    {
+      "quote": "[To herself, loudly] Wake up, you human slug! Wake up! *Wake* *up*!! I can't hold it anymore! [To the slug out loud] Excuse me, I've gotta go to the bathroom...",
+      "characters": [
+        "Tony",
+        "George",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know what? Maybe he's a diabetic, he might just need a cookie or something.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, she wants me to like her, if she likes me. But she doesn't like me!",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's like I'm thinking of something, and you're  one step ahead of me.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I dunno.  Oh, 'cos you said you'd give the bike to anyone who fixes your neck.",
+      "characters": [
+        "Helen",
+        "Bob",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, don't forget Sunday, okay? You and George are coming, right? Hotel Westbury, eight o'clock.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, the stock is the same as when you checked it earlier. There are no changes after the market closes. The stock is still down.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Vanessa",
+        "Elaine"
+      ],
+      "correctAnswer": "Vanessa"
+    },
+    {
+      "quote": "What are you doing here? I thought you said you hated Isabella's?",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, uh, \"The Falconer\" by John Cheever. It's really excellent.",
+      "characters": [
+        "Rick",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You gotta give us odds. At least two to one - you gotta put up two-hundred dollars.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

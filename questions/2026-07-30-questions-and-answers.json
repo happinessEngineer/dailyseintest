@@ -1,0 +1,106 @@
+{
+  "gameNumber": 574,
+  "date": "2026-07-30",
+  "questions": [
+    {
+      "quote": "I'm sorry. This is what comes from living under a Nazi regime.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you like sending out catalogs!? How do you like gettin' 'em back!?",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I'm a *woman*.  Ba-ba-ba-boom-chicka-boom-chicka-boom-boom- boom.",
+      "characters": [
+        "Jerry",
+        "Poppie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Thanks. So, I'm gonna get tested again later, hopefully I'll get my job back and I will be on my way to Africa.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Receptionist"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're not a little anything, Newman.  So just pack it up and move it out of here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Gavin",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, I gotta tell you something, but you cannot tell Susan.",
+      "characters": [
+        "Peterman",
+        "Ron",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no, it's o.k. I don't care about the keys. It's my fault. I gave the keys away with my stupidity. I broke \"the covenant of the keys.\"",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Toby",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I dunno. It's like, if one of 'em dies, the other one wants to bench press the casket.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "C'mon George relax . Just because they look alike doesn't mean you're secretly in love with Jerry.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nope, the cop says it's my word against his. There's nothing they can do.",
+      "characters": [
+        "Mary",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

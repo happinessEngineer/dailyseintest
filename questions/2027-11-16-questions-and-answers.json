@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1048,
+  "date": "2027-11-16",
+  "questions": [
+    {
+      "quote": "Well, break 'em. You missed the bris, I want you at the game.",
+      "characters": [
+        "Keith",
+        "Jerry",
+        "Frank",
+        "Lippman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "See? See the way they are?! We're - we're still best friends, right?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "D-d-d-d. I gotta switch shaving creams. I'm getting no protection.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Nurse",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "By the way, Jerry, I don't want you to freak out, but the pilot is going to be in the audience.",
+      "characters": [
+        "Jerry",
+        "Kate",
+        "Kramer",
+        "Gennice"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "The cool evening breezes of Anytown, USA. Let's see how this baby closes. Oh yeah, yeah, yeah.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was speaking earlier with Kramer and he mentioned something about a private jet to Paris?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "All right, don't panic. Let's just decide now. Which one do you want?",
+      "characters": [
+        "George",
+        "Mickey",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Look, sweetheart, you know you've got it all. But let's face it...",
+      "characters": [
+        "Morty",
+        "Kruger",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No Elaine he's normal. Your boyfriend is a normal guy. He just happens to have the same name as one of the worst serial killers in the history of New-York.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, too bad he didn't get shot. He could have been the one.",
+      "characters": [
+        "Kate",
+        "Jerry",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

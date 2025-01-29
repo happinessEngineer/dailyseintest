@@ -1,0 +1,106 @@
+{
+  "gameNumber": 700,
+  "date": "2026-12-03",
+  "questions": [
+    {
+      "quote": "Nonsense!  I have Benes' woderfully imaginative mind to spin my stories. You take back your tales, you vagabond!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "You got gonorrhea from a tractor?? And you call *that* your tractor story??",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. You have a good lunch. But I'll meet you back here for the movie.",
+      "characters": [
+        "Maestro",
+        "Kate",
+        "Sheila",
+        "Jerry"
+      ],
+      "correctAnswer": "Sheila"
+    },
+    {
+      "quote": "So, can you believe that message? Now I?ve got to spend the rest of my life looking over my shoulder.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, I will do the opposite. I used to sit here and do nothing, and regret it for the rest of the day, so now I will do the opposite, and I will do something!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Deena",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't fool me. Don't insult me, George because I know when you're happy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was moving it across the street, I looked up and I saw Woody Allen and I got all distracted.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And even when she did like something, she doesn't laugh. She says, \"That's funny.\" ... That's funny!",
+      "characters": [
+        "Harold",
+        "Elaine",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good. 'Cause Dad can make some people a little uncomfortable.",
+      "characters": [
+        "Ed",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Extend the doors on the toilet stalls at Yankee Stadium to the floor ...door comes down. Hides your feet. Yes. I like it. I like it a lot.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tim",
+        "Ron"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

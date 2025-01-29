@@ -1,0 +1,106 @@
+{
+  "gameNumber": 216,
+  "date": "2025-08-06",
+  "questions": [
+    {
+      "quote": "You raise the hand, lower the head-- \"I'm sorry, I'm sorry. The buttons are really big on the car. I don't understand it. I haven't read the manual. Ooh!\" You get my drift.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yes, by no means, the mood. Let me know if there's anything I can do to lend support to the mood.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was built by Mark Fargman. He build a lot of these homes here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ben",
+        "Secretary"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Hey, boys and girls. I need you both to sponsor me in the AIDS walk.",
+      "characters": [
+        "Lippman",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A physician married to a salesman.  Well, I gotta tell you, Beth, you coulda done a lot better than him.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, we got ten thousand deposit bottles here. I mean, this guy could be going to Arkansas.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "tsh  Ah, yeah, we've - we've talked . . . I believe I can speak for the both of us on this.",
+      "characters": [
+        "Steve",
+        "George",
+        "Jerry",
+        "Rula"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I hate gum. The only guy I ever liked came with the Mickey Mouse gumball machine. They stopped making that 20 years ago.",
+      "characters": [
+        "Lou",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Lou"
+    },
+    {
+      "quote": "What!? I happen to have a very steady boyfriend. You know, I mean, we broke up a few times and there has been an occasional guy here or... or there, but, wh-why is this your business?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "no problem, ... no problem. [Hangs up] ... How did YOU know who that was?",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

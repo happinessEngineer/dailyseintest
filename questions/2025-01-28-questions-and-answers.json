@@ -1,0 +1,106 @@
+{
+  "gameNumber": 26,
+  "date": "2025-01-28",
+  "questions": [
+    {
+      "quote": "Remember the guy who pretended he had cancer so O would buy him the toupee?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sara",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's cute. That's really cute. Oh! Come on! All right. Bye again.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but get this, the message said 'call me if you have the time'. Heh heh if I have the time, you get it?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Voice",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would you please just get on with the stupid Bob Saccamano story?!",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why, because you picked out the poision envelopes? That's silly.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's a hell of an organization they're running up there.  I can't understand why they haven't won a pennant in 15 years.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OooH!!! You. you ate these? You sucked on these and put them on the plate?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and you're not going to, because I'm hanging it up. Boys, I'm retiring.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, understudies are a very shifty bunch. The substitute teachers of the theater world.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, hey, hey. I'm getting a vibe here. What, are you unhappy with our arrangement?",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1033,
+  "date": "2027-11-01",
+  "questions": [
+    {
+      "quote": "Me? You see what he did here, you see how he tried to sneak into my space?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Manny"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Vodka, cigarettes, fireworks.  What kind of a sick woman brings this to a fifteen year old?",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "What are they too good for us? A raincoat salesman, I could buy and sell 'em like that.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "When you're dead, you're dead. That's it. You're not goin' anywhere...",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "And we discover yet another talent. Posing as a girlfriend for homosexuals.",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm not leaving the premises without tote bags. I was promised tote bags and tote bags I shall have.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Margaret",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why do you invite these women over if they annoy you so much?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And if you're ever in the city, you know, you want to come to a comedy club, whatever.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey!! Buddy. I thought of a great invention for driving. A periscope in a car, so you can see the traffic.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey! Kramer come on in. You've got to watch this, now she's got nothing.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1000,
+  "date": "2027-09-29",
+  "questions": [
+    {
+      "quote": "Don't you see what's going on here? He set us up. He's playing all these mindgames.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Very soft, huge button flaps, cargo pockets, draw string waist, deep biswing vents in the back perfect for jumping into a gondola.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Peterman",
+        "Newman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "George, stop worrying about this guy. It wasn't your fault.. Come on, he's not stalking you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, you know, I've never been so insulted in my entire life. There's something really wrong with this man. He is a Soup Nazi. What? What is that?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, don't worry. I'll be there and I'll be packing an artery.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait wait, hold it, hold it. Look who's over there. Don't look, don't look! It's Fred Savage.",
+      "characters": [
+        "Kramer",
+        "Man",
+        "Detective",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's funny because I haven't seen you working for a while. A long while.",
+      "characters": [
+        "Joel",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're giving me the \"it's not you, it's me\" routine? I invented \"it's not you, it's me\". Nobody tells me it's them not me, if it's anybody it's me.",
+      "characters": [
+        "Frank",
+        "Joel",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, let me ask you something. How long do you have to wait for a guy to come out of a coma before you can ask his ex-girlfriend out?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Anna",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, George is pretty pleased about it. It's like she signed a letter of intent.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Naomi"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

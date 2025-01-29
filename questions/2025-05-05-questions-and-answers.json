@@ -1,0 +1,106 @@
+{
+  "gameNumber": 123,
+  "date": "2025-05-05",
+  "questions": [
+    {
+      "quote": "Uhm, George felt that I was too adamant in my stand that Art should focus on the exporting and forget about the importing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh you don't want to think about that no sir. Otherwise I'd have no choice but to put that banner back up and eh, he-he-hwow, run that Roger's right out of town.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You didn't have make-up sex? How could you not have make-up sex? I mean that's the best feature of the heavy relationship.",
+      "characters": [
+        "Raymond",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't call her now. It's too soon. I'm planning a Wednesday call.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right Miss Benes. This doesn't look to serious. You'll be fine.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "How late are the stores open? I'm thinking of maybe uh, buying a new TV and smash it over my head.",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I gotta go back to the library and talk to him. I gotta find out if I&Mac226m the guy who ruined his life.",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you're gonna show up at that party with a chewed-up pencil and Kramer's gnarled arm.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Who are you to play God!? Every man's time comes! If his number is up, who are you to interfere!?",
+      "characters": [
+        "Jerry",
+        "Driver",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on, if you don't see the baby now you're never gonna see it",
+      "characters": [
+        "Jerry",
+        "Gino",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

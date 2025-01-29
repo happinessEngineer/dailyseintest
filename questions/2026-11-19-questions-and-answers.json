@@ -1,0 +1,106 @@
+{
+  "gameNumber": 686,
+  "date": "2026-11-19",
+  "questions": [
+    {
+      "quote": "You know, I can't believe you're even considering not playing. We need you. You're hitting everything.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The thing is, even if we go back by the car, and there's nobody there, how do we know they're not all hiding, waiting for us?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should see the smiles on the drivers' faces. I mean, you gotta look quick, but they're there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where am I? Is this a dream? What in God's name is going on here?!",
+      "characters": [
+        "Elaine",
+        "Celia",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shhhhh! All right, Bania, I - I'm not letting you cut in line.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, we have a problem. There's a memo, here, from accounting telling me there's no such thing as the Human Fund.",
+      "characters": [
+        "Kruger",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Well, I'll tell you what I'll do, you know. If you wanna do it out of town...okay. But not in the city.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I think that's fantastic. Good for you. Nice. That's very nice.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mickey",
+        "Tom"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Stupid cigars. You know if I didn't send Nikki over to talk to him they wouldn't be together.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh? You know my last boyfriend, he had a real kroner comprehension problem. Know what I mean? A real cement head.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Stan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

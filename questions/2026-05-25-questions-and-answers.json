@@ -1,0 +1,106 @@
+{
+  "gameNumber": 508,
+  "date": "2026-05-25",
+  "questions": [
+    {
+      "quote": "Why didn't you want me to bring my equipment or wear my uniform?",
+      "characters": [
+        "Carl",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Carl"
+    },
+    {
+      "quote": "Well, I didn't know that it was a manuscript that I had to read...",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Lanette",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It was a good idea. Susan liked it. Now, if he hadn't vomitted all over her, we'd be writing it right now.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Conrad"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me tell you who did, uh, buy it...um we pitched this story to Russell Dalrymple, the president of NBC, and he ate it up with a spoon.",
+      "characters": [
+        "Naomi",
+        "Jerry",
+        "Regis",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sorry, Elaine. I always knew that after I became a doctor, I would dump whoever I was with and find someone better. That's the dream of becoming a doctor.",
+      "characters": [
+        "Ethan",
+        "George",
+        "Jerry",
+        "Ben"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Remember that guy who took my jacket. The one I found at my mother's house.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Son of Sam. The worst mass murderer the post office ever produced.",
+      "characters": [
+        "Newman",
+        "Peterman",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Look it, I'm dating a doctor and I like it. Let's just move on.",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Kramer",
+        "Darryl"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look Ramon, about the other day. I'm sorry if I offended you. I get a little crabby on the subway.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You are kidding. That is amazing.  I just took a car service from work and to get the driver to not talk to me, I pretended I was going deaf.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

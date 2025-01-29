@@ -1,0 +1,106 @@
+{
+  "gameNumber": 996,
+  "date": "2027-09-25",
+  "questions": [
+    {
+      "quote": "Oh, Mr. Lippman you forgot your handkerchief. Mr. Lippman, you forgot your handkerchief. It's on my desk.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no no it's not about postponing. I just think the first day of Spring is the perfect day to get married. You know, Spring! Rejuvenation! Rebirth! Everything is blooming all the …",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "George",
+        "Sophie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is much better. And frankly, in Memphis, we think that other sauce as  kind of a joke.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Hey! Is that Peter? ...I can't believe it. Get me a cup of Decaf.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, I'm sorry, but the Alex is a family theatre, not one of your swing joints.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry Seinfeld. My best friend. He can explain all of this.  Jerry.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, we're kind of in the middle of something here. Would you mind coming back later?",
+      "characters": [
+        "Peterman",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Everyone in my family's creative. And even though I'm working as an accountant now I'd really like to eventually live exclusively on my pappe-ay mache-ay hats",
+      "characters": [
+        "Ed",
+        "Elaine",
+        "Kramer",
+        "Patrice"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "Ok, fine. I'll go back... You know, our goal should be a society *without* *classes*! [She goes through the curtain to, ick, *coach*] Do you realise that the people up here are getting *cookies*!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ruby",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She does a lot of abstract stuff. In fact she's painting Kramer right now.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

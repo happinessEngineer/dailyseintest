@@ -1,0 +1,106 @@
+{
+  "gameNumber": 864,
+  "date": "2027-05-16",
+  "questions": [
+    {
+      "quote": "What the hell do I know about cooking a shirt? What the hell is this? Your paying in pennies?",
+      "characters": [
+        "Worker",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "So what's the great moment? You're on your death bed, they're pounding on your chest - and you're going 10, 9, 8,.. I told you this thing was good!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I thought you said people dress up when they go to the opera!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, I taught 'em all about Cuba, and they really took to it. You know, Marxism, the Worker's Revolution, the clothing.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Glenn",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How 'bout that, huh? The World's Greatest Dad. My son made it for me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Jerry, I think I'm on to something. I think I found your stuff. You know the Englishman who lives down the hall?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "C'mon Morty, it's been broken for six months already. What the hell are you doing?",
+      "characters": [
+        "Anna",
+        "Herb",
+        "Rebecca",
+        "Jerry"
+      ],
+      "correctAnswer": "Herb"
+    },
+    {
+      "quote": "There's a mechanism. You just pull it, and throw your body weight.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I got fifty right here in the cupboard. How about Bisquik? Pimento. Gherkin. Sauce. Maxwell House.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My dad was a collector. I inherited them after he died from a long painful bout with…",
+      "characters": [
+        "Celia",
+        "George",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "Celia"
+    }
+  ]
+}

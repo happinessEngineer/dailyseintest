@@ -1,0 +1,106 @@
+{
+  "gameNumber": 838,
+  "date": "2027-04-20",
+  "questions": [
+    {
+      "quote": "Oh, you're tall - she's tall I'm tall. What's the difference who's tall. We're all tall.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I'm a little bit worried about him. I don't understand. We had one date two months ago. Am I that charming and beautiful?",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You talk about your day. How was your day today? Did you have a good day today or a bad day today? Well, what kind of day was it? Well, I don't know. How about you? How was your day?",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Deena",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got: You enter, you go \"Hi\", and I go, \"Hello.\" Now.. we need something here..",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Marcy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, so he just wants to talk to you. I couldn't talk him out of it. So you just tell him that you're my boyfriend and that we're in love, okay. Can you do that?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Lou",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I spent my money on the Clapgo D-29. It's the most impenetrable lock on the market today. It has only one design flaw. The door...  ...MUST BE CLOSED!!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Ellen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you really understand my point about building a rocket and double-parking.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Harold",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, so, what are you going to do? Sit in the doctor's office doing this?  He's gonna think you're a mental patient.",
+      "characters": [
+        "Kate",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but then I'd have to...  well, you know... into a cup in the middle of the day??",
+      "characters": [
+        "George",
+        "Sally",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I, uh, I borrowed it last night and it got a little dirty.",
+      "characters": [
+        "George",
+        "Stan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 68,
+  "date": "2025-03-11",
+  "questions": [
+    {
+      "quote": "Would you stop that? It's not safe to be jumping up and down on a plane.",
+      "characters": [
+        "Alton",
+        "George",
+        "Jackie",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I saw someone on the street eating M&Ms with a spoon.",
+      "characters": [
+        "Bette",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, she's starting to slip a little. Sometimes she has Difficulty distinguishing between the past and the present.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but I'll tell you something. Of all the guys I know, I could envision you going out with him.",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, to teach something you really have to know a lot about it. I think you need a degree.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So did you bring the lease?  All right, gee, three years, that kinda seems like a long time.",
+      "characters": [
+        "James",
+        "Kramer",
+        "Jerry",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm in awe of his intellect, when he talks it sounds like he's reading from one of his novels.",
+      "characters": [
+        "Puddy",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, do you want the quarter, take the quarter, but don't try and tell me it's yours.",
+      "characters": [
+        "Jerry",
+        "Pitt",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You wanna sell computers? I will show *you* how to sell computers! Hello, Mr. Farneman. You wanna buy a computer? No? Why not? All right, I see! Good answer! Thank you!  Serenity now!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"....Maybe you were still under the gas.Maybe you were hallucinating you're coming out of the gas but you were still under the gas.\"",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 812,
+  "date": "2027-03-25",
+  "questions": [
+    {
+      "quote": "I uh, I uh, I arranged for the appropriate accommodations. And then, Knick tickets, floor seats.",
+      "characters": [
+        "Elaine",
+        "Joyce",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hu humm? i suppose we could go to Lincoln Center and I'd be wearing sneakers and jeans and that would be fine too.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I bet this is from that kick from that crazy Joe Davola. You better see a doctor and get some X-rays.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.  Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Possibly, but then shouldn't the outfit only reappear again at the end of the cycle?",
+      "characters": [
+        "Diane",
+        "Kate",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm goin' baby. I'm goin.'  It's Jerry's fault. He took out all my good lines. He's such a control freak!",
+      "characters": [
+        "Elaine",
+        "Craig",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "… yeah …ha ha. Well you made a long journey from Milan to Minsk.",
+      "characters": [
+        "Kramer",
+        "Bette",
+        "Pop",
+        "Carol"
+      ],
+      "correctAnswer": "Bette"
+    },
+    {
+      "quote": "Yeeeaaah.  Well..... I've never really felt confident in uh..... one particular aspect.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh! He swears like he thinks I don't believe him. I believe you. I believe you! Oh, he's so funny!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Jerry, enough. I'll do your friend's cancer screening, because I believe in that, but as far as you and I are concerned; it's off.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Enzo",
+        "Sara"
+      ],
+      "correctAnswer": "Sara"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 979,
+  "date": "2027-09-08",
+  "questions": [
+    {
+      "quote": "Oh, by the way, your stationery store guy called and he's got your pencil.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We did! We pulled it off! I can't believe it! Where's the needle?",
+      "characters": [
+        "Rick",
+        "Elaine",
+        "Levitan",
+        "Estelle"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "Hello. No she's not here. Okay, fine, whatever. I'll tell her. Okay. Goodbye. The stationery store guy called to say he ORDERED your pencil.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Helen",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Here's one. I borrowed Puddy's car and all the presets on his radio were Christian rock stations.",
+      "characters": [
+        "Kruger",
+        "Jimmy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, they turned brown!!  Brown!!  So let me ask you something, you know any women we could call?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "Wait a minute, Just wait a minute...Elaine, Elaine! Now you're smart, is it statue or statute of limitations?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Marla"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well so what's the problem, you just put some newspaper down.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told you not to say anything. You can't go in there, brazenly flaunt the rules and then think I'm gonna share with you!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I think ultimately, I'm upset with myself. I knew what I was getting into, she's a bitter, unstable person. I mean the sex was good. I'm sure it was fine for her. I need more.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Is that right? I just threw away a lifetime of guilt-free sex, and floor seats for ever sporting event in Madison Square Garden. So please, a little respect. For I am Costanza: Lord of the Idiots!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

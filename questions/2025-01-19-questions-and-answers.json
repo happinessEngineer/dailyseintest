@@ -1,0 +1,106 @@
+{
+  "gameNumber": 17,
+  "date": "2025-01-19",
+  "questions": [
+    {
+      "quote": "You're a fine person. You're a humanitarian. She's very sexy.",
+      "characters": [
+        "George",
+        "Gary",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Special occassions? It wasn't special when my family visited?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I think I saw him on land a couple times. So how's the job situation goin'?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He couldn't tell an apple from an union and he's your eye witness?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, she puts ten dollars in every card for my birthday, that's why I save them.",
+      "characters": [
+        "George",
+        "Carol",
+        "Jerry",
+        "Sheila"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not gonna give you my card unless you tell me what it's for!",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've learned that the new shipment's coming in by boat... which does tend to take a little longer with, you know ,what with the waves and all .. So you'll just have to be a little bit patient .",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "For putting my picture up on that wall! I'm like Richard Dawson down there now. And every person I see engages me in this long, boring, tedious, conversation. I can't even get out of the building!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what your problem is? You just have no respect for the mentor/mentor relationship.",
+      "characters": [
+        "Abby",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Didn't go out of the house? Didn't take a walk... on Columbus Avenue?",
+      "characters": [
+        "Keith",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 727,
+  "date": "2026-12-30",
+  "questions": [
+    {
+      "quote": ". . .uh, . . . wait a second. Are you suggesting that I went out of my way to tell Elaine that even though you handed her the big salad, that it came from me?",
+      "characters": [
+        "Guy",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we were engaged to be married, uh, we bought the wedding invitations, and, uh, yada yada yada, I'm still single.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Suze? I actually had a little thing with her for a while.  Her too.",
+      "characters": [
+        "Kramer",
+        "Mickey",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, if anything happened, and we couldn't be friends the way we are now, that would be really bad.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Compartments underneath, that's probably where it is. Okay boys, let 'er rip. I'll tell you what George. Starting tomorrow no more desks. Just Lucite tables and four leSTEINBRENNER.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I did. I'm back. I love this relationship, I feel so liberated!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Me Too! And he's Dying Jerry! If Relationship George walks through this door, he will Kill Independent George! A George, divided against itself, Cannot Stand!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Laura",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I never assisted in a birth before. It's really quite disgusting.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, you don't know anything. You see, \"I don't know anything\", means there's something to know. If you really didn't know anything you would have said \"You're crazy.\"",
+      "characters": [
+        "Mike",
+        "Elaine",
+        "George",
+        "Announcer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on, just put your clothes on! You'll get dressed in the car!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

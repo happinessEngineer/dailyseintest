@@ -1,0 +1,106 @@
+{
+  "gameNumber": 636,
+  "date": "2026-09-30",
+  "questions": [
+    {
+      "quote": "No, no. I don't wanna say it out loud. Kills the spontaneity. You know, Gleason, he never rehearsed.  'Kay, go 'head, do it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What the *Hell* is going on here? How do you *lose* a human being?!",
+      "characters": [
+        "Doorman",
+        "Elaine",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "If I have this much influence over her, why don't I just call her an' tell her to get back together with him--that's aalll!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Tony"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A divorce? Oh, so you can marry her and give her the discount?",
+      "characters": [
+        "George",
+        "Meryl",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Meryl"
+    },
+    {
+      "quote": "Alright that's it.  So you get rid of me and now the two of you are going to sleep together?",
+      "characters": [
+        "George",
+        "Susan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's been going on out there? I've been standing here 20 minutes.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Ellen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ohh yeah. A wise man once taught me the Healing power of the body's natural pressure points.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just wanted to talk to him for a minute, but I'll come back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, the library is kind of a cool place when it's closed.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We're taking Elaine to dinner. She's got to start the fast again. Um, you want to go?",
+      "characters": [
+        "Phil",
+        "Conrad",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

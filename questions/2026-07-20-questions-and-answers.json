@@ -1,0 +1,106 @@
+{
+  "gameNumber": 564,
+  "date": "2026-07-20",
+  "questions": [
+    {
+      "quote": "Well, I'm uh, I'm putting everybody's picture up in the lobby of our building.",
+      "characters": [
+        "Elaine",
+        "Rabbi",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, what about a nice frame? With a picture of another guy in it. Frame says I care for you, but if you wanna get serious, perhaps you'd be interested in someone like this.",
+      "characters": [
+        "Donald",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh come on. Have some compassion. Okay well I hope it's contagious",
+      "characters": [
+        "George",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry asked me to meet his girlfriend here. Did you here about his plane in Ithaca?",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! I don't! Don't you even care? This is your company! It's your name on the outside of the building! Speaking of which, the 'R' fell off and all it says now is K-uger!",
+      "characters": [
+        "George",
+        "Jake",
+        "Jerry",
+        "Hanke"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'd give him 24 hours to get out of it. They can't get out of it in 24 hours, it's a land rush.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I was uh, I was waiting downstairs for the jackhammer, thought I'd drop by.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it's a story about love, deception, greed, lust and...unbridled enthusiasm.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Alton",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, are you out of your mind? You got the AIDS walk in like, three hours! You're never gonna make it!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You've selected ... Agent Zero? If that's correct, press one.",
+      "characters": [
+        "George",
+        "Wendy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

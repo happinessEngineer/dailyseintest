@@ -1,0 +1,106 @@
+{
+  "gameNumber": 479,
+  "date": "2026-04-26",
+  "questions": [
+    {
+      "quote": "No, no, I don't have it now. I gotta pick it up at Mr. Pitt's. Elaine was framing a bunch of stuff for him, so she did me a favor. What, you wanna take a ride?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I was gonna surprise Joey with them, you got an extra one right?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Leo",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Technically, you're sautéed. So, what are you doing for that?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well, I'm staying out of this one. This is between them. I am not getting involved.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, he is fantastic! And then they fired a gun right up in the air.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh the red. Yeah, It's the chicken roaster sign. You know, its right across from my window.",
+      "characters": [
+        "Jerry",
+        "Silvio",
+        "Kramer",
+        "Katie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We can't eat here anymore, because he took a waitress out for a walk.",
+      "characters": [
+        "Susan",
+        "Clerk",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you could put a fence around these condos, and call it an insane asylum. Nobody would know the difference!",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Train was so crowded. I had to sit in the seat facing the wrong way.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rachel",
+        "George"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ooohh... That sounds juicy. Listen, I gotta go to the bathroom, but I want to hear all about it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

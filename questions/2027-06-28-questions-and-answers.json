@@ -1,0 +1,106 @@
+{
+  "gameNumber": 907,
+  "date": "2027-06-28",
+  "questions": [
+    {
+      "quote": "My whole night's ruined. I didn't do any sets, didn't do any movies...",
+      "characters": [
+        "Sidra",
+        "George",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah you almost went to the game. You haven't been out of the building in ten years!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Ronnie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, speaking of tomato sauce, you want to come with me and George to Mario's Pizza?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bobby",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why do I always have the feeling that everybody's doing something better than me on Saturday afternoons?",
+      "characters": [
+        "Jerry",
+        "Kimbrough",
+        "Elaine",
+        "Danielle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't listen to anymore of this, the guy's losing a lung in there.",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, I did have to talk with him. I definitely had to talk with him. Having a problem with my boyfriend.",
+      "characters": [
+        "Jerry",
+        "Tom",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's standard. Has she left you one of those messages where she uses up the whole machine?",
+      "characters": [
+        "Bookman",
+        "Farkus",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excited? I'm gonna kill her! She knew she was coming here and she made me carry that box?!",
+      "characters": [
+        "Jerry",
+        "Gino",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "First it was the health club, then the supermarket, now the bookstore. They could put it anywhere they want, no one's meetin' anybody.",
+      "characters": [
+        "Rebecca",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But he still needs all of our support. Now, when he gets here treat him like he's one of the gang, huh.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

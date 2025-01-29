@@ -1,0 +1,106 @@
+{
+  "gameNumber": 212,
+  "date": "2025-08-02",
+  "questions": [
+    {
+      "quote": "But there's no way you could have beaten me by that much. I already beaten you in Junior High School three times.",
+      "characters": [
+        "Connie",
+        "Duncan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "Oh, dammit, you know I just remembered I gotta go, I left something on, the gas, the lights, the water in the tub. Something is on somewhere so I?m just gonna get the uh..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, well, if you had never taken your keys back from Kramer, he never would have taken his back from you and given 'em to me, in which case I wouldn't have had to take mine back from her.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah. I mean, of all the men that I know, you're the only one who's held down a steady job for several years.",
+      "characters": [
+        "Salesman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course, Jackie O. was a great lady. Those are going to be some tough shoes to fill. Everyone loved her. She had such...grace.",
+      "characters": [
+        "Jerry",
+        "Landis",
+        "George",
+        "Rita"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "Hey, I had the show of my life last night. I ad-libbed like ten new minutes.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That was in the past, Jerry. As it happens, New York Magazine just judged his kitchen to be one of the cleanest in the city. They got a duck there, you think you died and went to heaven.",
+      "characters": [
+        "Steve",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...I was just telling Mary how I'm not gonna be doing the kiss hello thing anymore.  I'm sorry. I just can't do it. It's nothing personal, it's just I'm not really able to do it and uh, I'm sorry.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on. Come check out my new place. It'll take you two minutes.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Allison",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know why I have to go to the hospital. I didn't do anything to Bette Midler. Driver can you stop over here, we're picking somebody up.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

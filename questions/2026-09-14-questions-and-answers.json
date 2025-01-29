@@ -1,0 +1,106 @@
+{
+  "gameNumber": 620,
+  "date": "2026-09-14",
+  "questions": [
+    {
+      "quote": "Where are you meeting these women? When they get off the bus at the port authority?",
+      "characters": [
+        "George",
+        "Helena",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sorry, umm he-here's your money back  I-I-I'll have the clothes.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "Audrey",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, right, at the coffee shop. Where did they get the idea that you have a place in the Hamptons?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean every time I mention it you never say anything or join in the conversation.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No problem.  There's no problem.  She just owes me ten dollars, that's all.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Na....no ... This relationship he..he..has got to be about something and fast or I'm in very serious and weird trouble....hum What else happened?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah! And the best part is, I still get to look for work in publishing.",
+      "characters": [
+        "Vivian",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, where's this boyfriend of yours? I can't wait much longer. I've got a flight.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Kramer, I have to take this test ok, I don't have a lot of time.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I haven't seen George for a while. He must be working very hard.",
+      "characters": [
+        "Joe",
+        "George",
+        "Elaine",
+        "Sylvia"
+      ],
+      "correctAnswer": "Sylvia"
+    }
+  ]
+}

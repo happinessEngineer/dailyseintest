@@ -1,0 +1,106 @@
+{
+  "gameNumber": 621,
+  "date": "2026-09-15",
+  "questions": [
+    {
+      "quote": "You'll get your tape. But here's what I'm gonna need. I'm gonna need three cameras, two on the floor, one in the balcony. And I want headsets for the guys runnin' 'em. I wanna be able to talk to 'em.",
+      "characters": [
+        "George",
+        "Alec",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "To a guy you've never met?  Your screening process is getting ever more rigorous.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, but then we gotta get some work done. Let me just call Kramer, see if want anything.  Hey, we ordering Chinese food. If you want anything--  let me know what it is and I'll order for you.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they're hanging from the trees. You know, Newman found one there yesterday. Man, that guy can climb like a ring-tailed lemur!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at that guy's dog. I hate it when their ears get flipped inside out like that. Why doesn't he fix it?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "'Thick lustrous hair is very important to me,' is that what you said?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they recognised Jerry from the Super Terrific Happy Hour. See now, you should be doing your own show in Japan. Now, they get you.",
+      "characters": [
+        "Peterman",
+        "Guy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Sure, the pinky toe is cute! But, I mean, what is it? It's useless! It does nothing. It's got that little nail that is just impossible to cut. What do we need it for?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello, oh hi Duncan, 4:00 o'clock tomorrow? That is not going to work. . . . Why? I'll tell you why. Because I chose not to run!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now we'll open the peritoneal cavity, exposing the body's internal organs. Nurse-- retractor.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Jake",
+        "Elaine"
+      ],
+      "correctAnswer": "Doctor"
+    }
+  ]
+}

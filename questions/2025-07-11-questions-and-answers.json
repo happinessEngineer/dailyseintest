@@ -1,0 +1,106 @@
+{
+  "gameNumber": 190,
+  "date": "2025-07-11",
+  "questions": [
+    {
+      "quote": "Anatoly!  Look, it's gonna take a few minutes.. Then, you and the gals can take a load off and watch something on Lifetime.",
+      "characters": [
+        "Kramer",
+        "Julianna",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What am I talking about? Come on.  You don't think I bought all that?",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Fredo was weak and stupid! He shouldn't have eaten that key!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "Craig"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Hey look. Hank's got a new boyfriend. Jimmy's not threatened by Hanks sexuality ... Jimmy's happy for Hank.\"",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Jerry",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "I didn't talk to anyone - I was just walking by, and I saw the sign, and I thought George might get a kick out of it.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, it's George. Hey, hey are you all set for the weekend. This is going to be great. You're going to have a great time with Naomi.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at it! Look at it! And it's all me. I shaved there when I was a lifeguard.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Eh...Varnsen. Kel Varnsen. Actually, this room intrigues me. Why is it called the TV room?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Going backstage is the worst. Especially when they stink. You know that's a real problem.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A thousand?! I know a coupla Chinamen over there on Forty-third Street, who'll do it for half that.",
+      "characters": [
+        "Tina",
+        "Morty",
+        "Elaine",
+        "Guard"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

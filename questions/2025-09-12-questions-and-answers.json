@@ -1,0 +1,106 @@
+{
+  "gameNumber": 253,
+  "date": "2025-09-12",
+  "questions": [
+    {
+      "quote": "I've been saving it for the plane. I never miss the Sunday sports section.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Lippman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Alright alright, goodbye.  I don't think we are gonna make that flight.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You sure have a lot of friends. How come I never see any of these people?",
+      "characters": [
+        "Jerry",
+        "Carrie",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, this is great. Alright, well, where is the mechanic? I'll just go and pick 'em up myself.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Out? Oh no, I've been to four other places, you're the only ones that have had it.",
+      "characters": [
+        "Cindy",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that's something. So, Jerry thought I was flirting with him.",
+      "characters": [
+        "Jerry",
+        "Noreen",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "C'mon, Frank, relax. I don't even know what you're talking about.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Nana",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yep, she's not gonna be back for a month, but I got six hours.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Chiles",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That is a Schwinn Stingray! And it's the girl's model! Oh, I always wanted one of these when I was little.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, nice work.  Where's Uma's number? The moisturizer smudged out the phone number.",
+      "characters": [
+        "Jerry",
+        "Keith",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 415,
+  "date": "2026-02-21",
+  "questions": [
+    {
+      "quote": "I got another meeting with Reilly. A whole new audience, and I bet I can get him to try that line again.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'd love to do something. Uh, I have my seminar in the morning, then after that I'm right open.",
+      "characters": [
+        "Laura",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "His apartment was being fumigated, so we thought we'd give it another shot.",
+      "characters": [
+        "Ron",
+        "Jerry",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You went to the coffee shop without me? I told ya, I just wanted to hop in the shower.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Mr. Kramer, I gotta thank you. I - I learned a lot. Things are gonna be different for me now.",
+      "characters": [
+        "Joe",
+        "Rick",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "Paul, woman here claims there's a restaurant on the West side that's only hiring large-breasted women.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "You know, I should've done this years ago. I mean, I feel like I've had two lives. My pre-mousse. And now, I begin my post-mousse. Hey, tell me the truth, have you ever seen a better looking guy?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Maestro"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, right. C'mon, don't you think they seem a bit too perfect?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't want Morgan's job. He's got a lot of work to do. Hey, Elaine, your friend never woke up Mr. Morgan.",
+      "characters": [
+        "Peterman",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a minute, wait a minute, do you think I?m comfortable here. I can't change, I?ve got no clothes here! You've got to go like that, I can?t go like this alone!",
+      "characters": [
+        "Kramer",
+        "Gina",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

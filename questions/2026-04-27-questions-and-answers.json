@@ -1,0 +1,106 @@
+{
+  "gameNumber": 480,
+  "date": "2026-04-27",
+  "questions": [
+    {
+      "quote": "Don't insult me, my friend. Remember who you're talking to. No one's a bigger idiot than me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Carlo! It's me, Frank!  I'm your cousin, Frank! Aren't you Carlo?",
+      "characters": [
+        "Margaret",
+        "Worker",
+        "Frank",
+        "Mickey"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You know, she really doesn't belong here. My uncle put her here, Because he's trying to prove he doesn't owe my mother fifty dollars.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ron",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "YOU SAID YES!? Don't you have any pride or self respect? I mean, how can you prostitute yourself like this? I mean what are you going to do? You're going to start driving him to the airport?",
+      "characters": [
+        "Ruby",
+        "Izzy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, so, ah, flower shows and, shopping for pretty bows, and then back to her place, strip down to bra and panties for a tickle fight?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Go. Really. I understand. You got an appointment, go to your appointment.",
+      "characters": [
+        "Leo",
+        "Izzy",
+        "Margaret",
+        "Jerry"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "No. You are not a man. It takes a *long* time to become a man. I mean, half my friends aren't even there yet.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Daphne",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What, your sad little horsies, the house with the little curl of smoke, the sunflower with the smiley face. the transparent cube...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yesss! Alright, so it's you, it's me, and it's Jerry, huh.  Yeah, now things are starting to snowball, huh. I'll tell Newman I don't need him. So, I'll uh, see you two in the twenty-first century.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It - it's just that I'm here with my parents, and my mother wants me to take a civil service test - and to tell you the truth, I don't even think I'd pass it.. So..",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

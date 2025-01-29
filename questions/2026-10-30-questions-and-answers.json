@@ -1,0 +1,106 @@
+{
+  "gameNumber": 666,
+  "date": "2026-10-30",
+  "questions": [
+    {
+      "quote": "You know, I remember when we parted company, I was babbling incoherently for months.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Daphne",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh he'll be home, it's Friday night. That's the big night on the Nature Channel.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Ramon",
+        "Donna"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? You're kidding, I just got this invitation today. Oh, I was so excited. It's really a beautiful invitation.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, you cannot judge a person on a situation like that. I mean it's like asking for someone's canteen in the desert",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's a hundred different things here.  What's the difference between these two?    You got propylparabin?",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I dropped a grape in the kitchen and it disappeared. I couldn't find it. I was, I was literally on my knees for ten minutes looking for this stupid grape. I have no idea where it went.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Doctor",
+        "Ben"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I'm thinking of joining. Pat Cooper said he would put me up for membership.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Wyck",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see, they had to move the cars so the truck could get through, right? But these guys don't trust each other so they got these two nonpartisan drivers to move them.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Chiles"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That damn delicatessen that - that is last time they screw up one of my orders.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, what are we gonna do? I'm not gonna let him hurt you.  I'm not gonna.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

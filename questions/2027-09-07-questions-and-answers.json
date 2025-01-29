@@ -1,0 +1,106 @@
+{
+  "gameNumber": 978,
+  "date": "2027-09-07",
+  "questions": [
+    {
+      "quote": "I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my anger..  Hey, is anybody listening?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe instead of trying to satisfy two of your needs, how about satisfying one of somebody else's.",
+      "characters": [
+        "Jerry",
+        "Aaron",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is not good. World's are colliding! George is getting upset!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Holly",
+        "Lloyd"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, I'll get ya a Mounds bar. Keep the engine running.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I am lying down. I am trapped under a funky mattress. I gotta go get a doctor or at least come over and roll this thing off of me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what you ought to do? Go see my friend Dwayne at J & T Optical on Columbus Avenue. He'll give you thirty percent off.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yeah, he was drinking something, it started to come out of his nose.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can't pick up anything with these! There's no absorption!",
+      "characters": [
+        "Harold",
+        "George",
+        "Ed",
+        "Jerry"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "And I think he's been telling his friends. I got invitations to six more Bar Mitzvahs.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, we're friends! We can't do that, it would ruin our friendship.",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

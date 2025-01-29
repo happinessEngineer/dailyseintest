@@ -1,0 +1,106 @@
+{
+  "gameNumber": 922,
+  "date": "2027-07-13",
+  "questions": [
+    {
+      "quote": "And it's a waste of my talent. It's just a little burning. Mickey, he got bacterial meningitis.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Stu",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Neither did you, that's how he got caught. We sent in four notes from two doctors.",
+      "characters": [
+        "Elaine",
+        "Sally",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ten minutes? That's kooky talk. Hey Elaine, how long do you spend in the shower?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hi. I-I'm Jerry Seinfeld. I'm movin' in. I saw your name on the buzzer - You must be Kessler.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I got a great idea for a cologne. The Beach. You spray it on and you smell like you just came home from the beach",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah ha, well, I really wouldn't know about that. I don't watch much TV. I like to read. So what do you do, a lot of that \"did you ever notice?\" this kind of stuff.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? I think this Ruthie Cohen gave me the wrong change. Didn't I pay with a twenty? I'm sure I paid with a twenty.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Well, what am I gonna do for a date.?...Oh! do you know that ..hemmm! blond guy who's always at the exercycle at the health club?\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, when I first met you, Kramer, you used to wear jeans all the time.",
+      "characters": [
+        "George",
+        "Man",
+        "Emily",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you what. Why don't we just get a couple of dishes and we'll just share 'em.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

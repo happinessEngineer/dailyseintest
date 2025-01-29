@@ -1,0 +1,106 @@
+{
+  "gameNumber": 171,
+  "date": "2025-06-22",
+  "questions": [
+    {
+      "quote": "oh.. uh.. you know your breath is a little garlicky you better take some gum.",
+      "characters": [
+        "Bania",
+        "Brett",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it would take a hell of a lot. Because a friend is something you earn.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tim",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Mmm, hey, you know what? You wanna go see that new Meryl Streep movie?",
+      "characters": [
+        "Elaine",
+        "Lloyd",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Good news. We got a 900 in black. That's the hot color.  High-five.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Salesman",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "So, whaddya say? You know you'll always be the only man I'll ever love.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Alec"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How do you figure?  'Cause you're the one who left the door open.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're looking tremendous. What are you on some kind of regimen?",
+      "characters": [
+        "Mike",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "No, my face feels so good, I'm gonna use it all over my body.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nah, I don't go for these non-refundable deals. I can't commit to a woman. I'm not going to commit to an airline.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well as I see it, you've got to apply the same principles that get you fired, but redirected, outwardly.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Holly",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 235,
+  "date": "2025-08-25",
+  "questions": [
+    {
+      "quote": "I'll take it? Who told you to take it? Did I tell you to take it?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "What about ponies? What kind of abnormal animal is that? And those kids who had their own ponies...",
+      "characters": [
+        "George",
+        "Marla",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Or is it because I've built a stronghold around Greenland?  I've driven you out of Western Europe and I've left you teetering on the brink of complete annihilation.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, in the 48 years we've been here, I don't think we've ever called an electrician.",
+      "characters": [
+        "Pop",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Pop"
+    },
+    {
+      "quote": "Oh no. Tonight will be the first chance I've had to talk to her.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "I use Planet. It's bio-degradable and doesn't pollute the oceans.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Lena"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "They wish. I hate the big broker-houses. Hate them with a passion. Big broker-houses killed my father.",
+      "characters": [
+        "Rachel",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A crazy clown is after you? Oh that?s rich. Now clear the entrance so people with tickets can get through.",
+      "characters": [
+        "Rachel",
+        "Jackie",
+        "Deena",
+        "Usher"
+      ],
+      "correctAnswer": "Usher"
+    },
+    {
+      "quote": "Elaine, I once told a woman that I coined the phrase, \"Pardon my French.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah yeah yeah yeah, go. Go about your business, I'll just wander around.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

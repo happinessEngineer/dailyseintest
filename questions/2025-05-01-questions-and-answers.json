@@ -1,0 +1,106 @@
+{
+  "gameNumber": 119,
+  "date": "2025-05-01",
+  "questions": [
+    {
+      "quote": "Yes  Apart from that, dreadful airline food. It tends to reek havoc with my stomach.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Jerry",
+        "Simon"
+      ],
+      "correctAnswer": "Simon"
+    },
+    {
+      "quote": "Roger's can't sell chicken around here, we got chicken places on every block.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If he says he doesn't want it to be a show about nothing, don't go nuts.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Puddy",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I gotta prep. I need a couple of anecdotes, a few you-were-right-abouts. It's a whole procedure. Wasn't Fragile Frankie the one that used to run into the woods every time he got upset?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you're not kiddin'. Who'd 've figured Susan would break up with him? They had a good thing going.",
+      "characters": [
+        "Gail",
+        "George",
+        "Lena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah. She's punctual... and uh she's been late, sometimes.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just a quick sidebar here -- are you in anyway authorized to give raises?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "ah no, I got the machine. Rachel! Are you there?! I got the place to myself for a few hours! Rachel! Where are you? Rachel!",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm afraid I could't do that. It wouldn't be fair to the other customers.",
+      "characters": [
+        "George",
+        "Naomi",
+        "Jerry",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "How did I ever let you talk me into this, I must have been out of my mind.",
+      "characters": [
+        "Elaine",
+        "Duncan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

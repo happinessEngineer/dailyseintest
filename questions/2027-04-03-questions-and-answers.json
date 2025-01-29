@@ -1,0 +1,106 @@
+{
+  "gameNumber": 821,
+  "date": "2027-04-03",
+  "questions": [
+    {
+      "quote": "This guy's a writer, he's a total nut. I think he goes to the same shrink as Elaine.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Janet"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah!  I've got it! I've got it! We're calling just to say, \"I'm there for you.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nothing. I hate everything I have, I really hate it.  I mean, at this point, it's like I can wear something three or four times and that's it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I read somewhere that this Brentano's is the place to meet girls in New York.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jimmy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, he like you though. Said you reminded him of somebody he knew in Korea.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Eight years have I had this car. Not a scratch on it! Eight years!",
+      "characters": [
+        "Donna",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You know, the corkscrew pasta. It was a Fusilli Jerry. It got stuck in me. Had to go to the proctologist.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, he doesn't even do it exactly the same. He--he--he uses a pinch at the end instead of the *swirl*!",
+      "characters": [
+        "Elaine",
+        "Joe",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shake is bad, but what if it's the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",
+      "characters": [
+        "Morty",
+        "Frank",
+        "Jerry",
+        "Gavin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but you said this is one of the things that her firm does.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

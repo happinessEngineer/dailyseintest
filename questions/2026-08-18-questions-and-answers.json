@@ -1,0 +1,106 @@
+{
+  "gameNumber": 593,
+  "date": "2026-08-18",
+  "questions": [
+    {
+      "quote": "Hey, you know what? Newman sent me an invitation already, to his party.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hmmm,..to tell you the truth they haven't manufactured that one for a number of years. I might have couple of boxes left in our warehouse in New Jersey. I'd have to check.",
+      "characters": [
+        "Driver",
+        "Clerk",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Check it out. Rain and sleet may not stop them, but let's see them get by... these bricks.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The Samaritans were an ancient tribe - very helpful to people.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I spend that much on after shave. Yes, I buy and sell men like myself every day. Now, I assume that there's a waterfall grotto?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not stealing it.  They owe me ten dollars.  They stole from me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't understand it. I was with her last night in my apartment; it was very romantic. Y'know with that fake wood wallpaper, the atmosphere is *fabulous* in there, now. It's like a ski lodge.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you doing? That's Witchy Woman. That could be our song.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Audrey"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Jimmy why don't you wait outside, you know, play with something.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at hose babies [hands]. They're prunes. I saw Conrad going up to oyur place.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lou",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

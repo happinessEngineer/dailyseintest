@@ -1,0 +1,106 @@
+{
+  "gameNumber": 137,
+  "date": "2025-05-19",
+  "questions": [
+    {
+      "quote": "I love this couch. You know what the best part about it is? It doesn't fold out, so no one can sleep over.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And they're old jokes. I mean, the Pope and Raquel Welch in a lifeboat.",
+      "characters": [
+        "Marcy",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but this is different. Those fur storage warehouses are huge. You can't, get anything without a number.",
+      "characters": [
+        "Steve",
+        "Kruger",
+        "George",
+        "Willie"
+      ],
+      "correctAnswer": "Willie"
+    },
+    {
+      "quote": "I see here that you play the harp.. tell me, why do you have to tilt it? Can't you just build it on an angle? It'd save you a lot of trouble.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What kind of a therapist are you? I'm telling I'm scared that something terrible is gonna happen to me, right away you start looking for tumors?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'The Other Side Of Darkness'. Huh, I never heard of that one.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because he does it quiet. He does it quiet. Lookit, Just like this, watch.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who's dressing you?  You look like a complete idiot! You know, I wouldn't wipe my-  AAHHHH!!!!!",
+      "characters": [
+        "Secretary",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe uh, it needed some air. You know sometimes they need air, they can't breathe in there. It's in human.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I wasn't aware that, uh, Mike, this is George Constanza. He's starting here today.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Secretary",
+        "Estelle"
+      ],
+      "correctAnswer": "Secretary"
+    }
+  ]
+}

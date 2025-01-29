@@ -1,0 +1,106 @@
+{
+  "gameNumber": 241,
+  "date": "2025-08-31",
+  "questions": [
+    {
+      "quote": "Because, Jerry, it's a couple rule! We have to tell each other everything!",
+      "characters": [
+        "Jerry",
+        "Detective",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My father used to take me to the circus. When the elephants came by, he would scream curses at them, blaming them for all the ills of society.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Jerry",
+        "Katya"
+      ],
+      "correctAnswer": "Katya"
+    },
+    {
+      "quote": "My car's totaled. It's all his fault and now, he has absolutely no money. There is no way that he can pay me. So the judge decrees that he becomes my butler.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no, but why are you using a knife and a fork? Did you just",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know why he did this? Because I told him it was over. I did not want to see him anymore.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Gina",
+        "George"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "Right, so, I called my friend, you know - the one who set us up - I found out, he's a bad-breaker-upper.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're supposed to buy me dinner in a nice restaurant, like Mendy's.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Hey, I know what we can do. I've got a friend who works over at the police station. He's a composite artist.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Aw, well, you know, it's your anniversary. It's - it's the least I can do. I - I just want you guys to go out and have a good time. Ha ha. So, you think we should, uh, we should get downstairs?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you blur your eyes like you're starin' straight through the picture. And you keep your eyes unfocused. And then...  Oh, oh, oh, YEAH!",
+      "characters": [
+        "Helena",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

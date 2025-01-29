@@ -1,0 +1,106 @@
+{
+  "gameNumber": 691,
+  "date": "2026-11-24",
+  "questions": [
+    {
+      "quote": "She comes to my restaurant, comes right in my kitchen, and starts complaining that I'm talking about her shoes.",
+      "characters": [
+        "Gail",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Gail"
+    },
+    {
+      "quote": "You wouldn't believe what this guy put away at Nathan's. Look at what we won!",
+      "characters": [
+        "Jerry",
+        "Toby",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I saw you the other night stepping out with my Hounds-Tooth jacket.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Pretentious!? The woman has my tax papers. You told her she was pretentious? The IRS. They're like the MAFIA. They can take anything they want",
+      "characters": [
+        "John",
+        "Man",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I probably didn't hear it on the way over because of the street noise.  This is no good! I got to meet these guys from MacKenzie for lunch in half an hour!",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no that can happen. I've, uh, I've read about that in medical journals. It's a freak thing, but...",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "HEY DOUBLE-PARKER!  SHOW YOURSELF.  COME ON OUT, I'M FREEZING!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Actually, yeah.  Wait a second! Is that the fork that fell on the floor?!  Are you using the fork that fell on the floor?!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wanna bite into a big hunk of cheese, just bite into it like it's an apple.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Joe",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi, i've been doing a lot of thinking today and i don't know maybe i made a huge mistake",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Beth"
+      ],
+      "correctAnswer": "Beth"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 276,
+  "date": "2025-10-05",
+  "questions": [
+    {
+      "quote": "Well I, well I, felt, pretty bad about everything an' uh, then the three of us, we went to a strip club.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Holly"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh my god. I, I know you. I-I'm, I'm Elaine Benes. Do you remember we met at Linda van Grak's baby shower.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They won't do anything; in fact, you'll be giving them a story to tell for the rest of their lives.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So as a result of your test being free of opium, I am reinstating you.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "So get this. I get down there, and right away, I see the drain is clogged. I mean it's obvious. Can you believe it?",
+      "characters": [
+        "Ramon",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Ramon"
+    },
+    {
+      "quote": "Elaine, don't get too down. Everything'll even out, see, I have two friends, you were up,  he was down. Now he's up,  you're down. You see how it all evens out for me?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Obviously, Mr. Peterman, there's something wrong with this test. I don't take opium. Let me take another one, please? I'll call the doctor right now, I'll take a pop urine test.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Dump him. I can't be with someone who doesn't break up nicely. I mean, to me, that's one of the most important parts of a relationship.",
+      "characters": [
+        "Kramer",
+        "Leo",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's ridiculous. Why do do you want to go back there if you don't want the coat?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I went all the way down to the warehouse. It took me three hours. I had a big fight with the foreman.",
+      "characters": [
+        "Stationer",
+        "Jerry",
+        "Newman",
+        "Susan"
+      ],
+      "correctAnswer": "Stationer"
+    }
+  ]
+}

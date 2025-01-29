@@ -1,0 +1,106 @@
+{
+  "gameNumber": 966,
+  "date": "2027-08-26",
+  "questions": [
+    {
+      "quote": "That's how waitress types express derision. They don't want to get their mouths dirty.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you hear what I'm saying to you?! I'm telling you that if I don't go, I could die. Die. Is it worth dying for?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry Jerry Jerry Jerry Jerry, listen, if, if you are feeling uncomfortable about this at all, at all. Do not feel like you have to take it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, you gotta let them know you're out there, this is the playoffs.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well I could put a, dresser in there. I could get dressed while I'm making breakfast.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is that bubbling sound? Are you making your tomato sauce?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jane",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, w-what are you saying? So we're not going to go in there anymore?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "..OK get this; I heard he makes his best friend date women that look just like him.Hello issues..",
+      "characters": [
+        "Stan",
+        "Jerry",
+        "Elaine",
+        "Sally"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Oh, don't you? Joke boy? You really think you can manipulate that beautiful young woman like the half-soused nightclub rabble that lap up your inane \"observations\"?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, Uncomfortable? Not at all.  My friend's wife's breast sticking out - why would that make me uncomfortable?",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

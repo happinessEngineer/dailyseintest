@@ -1,0 +1,106 @@
+{
+  "gameNumber": 375,
+  "date": "2026-01-12",
+  "questions": [
+    {
+      "quote": "See, so I don't know if I got a funeral 'hello' or he was mad because he didn't get his day-after 'thank you'.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, I mean, sometimes it's good to get there and make sure you get your seats and then go to the bathroom.",
+      "characters": [
+        "Tom",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What difference does it make? Who cares if she doesn't like you? Does everybody in the world have to like you?",
+      "characters": [
+        "Karen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "You know, I can't believe it myself sometimes. You have to start thinking in terms of \"we\". Ugh, it's a very stressful situation.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Phil",
+        "Laura"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "Well. You are not gonna believe this. Now Lippman is renounced. This shiksa thing is *totally* out of control. What is *with* you people? What are you looking at?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's the giant ball of oil. Clare's right underneath that thing. Clare! Hello-o-o-o! Hello-o-o-o! Hello-o-o-o!",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, go in the bedroom. Open the window. You can go out the fire escape.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let's just say that I don't have to worry about working for a while. A long while.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Landis",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What was wrong with that sorry? It was a good sorry. Jerry, was that a good sorry?",
+      "characters": [
+        "George",
+        "Earl",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, You might wanna think about...maybe, eh...moving your arms a little when you walk.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

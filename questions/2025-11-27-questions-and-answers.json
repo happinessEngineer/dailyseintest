@@ -1,0 +1,106 @@
+{
+  "gameNumber": 329,
+  "date": "2025-11-27",
+  "questions": [
+    {
+      "quote": "Why? What's wrong? You're not still thinking about this afternoon are you?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bob",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, yup. Yes, yes, it just... such a miracle, um. My visit must have buoyed  his spirits.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Showmanship, George. When you hit that high note, you say goodnight and walk off.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what do you say? Run in the cyclone. Hotdogs on Nathan's is on me.",
+      "characters": [
+        "Gina",
+        "Mary",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm glad I cut you off, because black Saab rules! So long, jackass!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nobody's giving anything back! You tried to take it from me, I don't forget that.",
+      "characters": [
+        "Tony",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "A beautiful woman like you should. You're quite breathtaking.",
+      "characters": [
+        "Ben",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Yeah, listen, uh, Elaine, I've changed my mind about the whole coma thing.  Yeah, I decided I'm up for it.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "These two and this one. ... No! Don't come over here! These are taken. Go! Go! These are taken! They're taken! THEY'RE TAKEN!!!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Dana"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't aaaaah! I'm supposed to do something with her later? I don't even think I wanna see her.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Tony",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

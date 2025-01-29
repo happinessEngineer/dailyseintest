@@ -1,0 +1,106 @@
+{
+  "gameNumber": 67,
+  "date": "2025-03-10",
+  "questions": [
+    {
+      "quote": "What come on?  Have you ever dated a woman that worked in your office?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She looks like something out of an old high school yearbook. You should say something to her.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mr Har-harwood. Well, what an unexpected surprise to have you back at the Alex Theatre.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Four hours in this chop and I'm a full inch taller. . . . Giddyup.",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, you said it.  Uh, excuse me, Mr Wilhelm. Uh, do you really think... Well, is this downtown trip really necessary, you know, for the project?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Nurse"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, yeah, it's me and him. I might have a whole new career on my hands, huh?",
+      "characters": [
+        "Jack",
+        "Helena",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, how come nothing ever happened between you and Nina?  Is there a problem with her? Is she a man?",
+      "characters": [
+        "Toby",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I parked in front of that restaurant . As soon as this race is over I got to go to the airport.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now see? Just saying beg doesn't make it a real beg. You gotta put some beg into it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Alton",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And a slice of pepperoni pizza and a large soda and three times a week I will require a canolie.",
+      "characters": [
+        "Kruger",
+        "Tim",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

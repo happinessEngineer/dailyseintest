@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1035,
+  "date": "2027-11-03",
+  "questions": [
+    {
+      "quote": "No matter what I do, I cannot weasel out of raising this kid.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shouldn't he say \"Bad bye\"? Isn't that the, opposite of \"Good bye\"?",
+      "characters": [
+        "George",
+        "Gennice",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's my day off, but I take care of you anyway because you're my favorite customer. You've been with me for so long. You're so loyal.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Kramer",
+        "Enzo"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Kramer, you make me get a ticket for this friend of yours and then the guy forces me to bootleg the movie at gun point!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The guy's got a fat fetish. Spector never dates a woman under two hundred-fifty pounds.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Ethan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm going out with one of the Miss America contestants, you wanna go?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll make time, because Abby, I was once like you; wide-eyed, naive, I didn't know the first thing about a subject as fundamental as risk management.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Oh, Elaine. I'm glad you're here. Stay right there. I'm gonna be right back.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, I'm his nephew, all right? Don't worry about it. Go ahead. Check it out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you went from the mailroom to the director of corporate development in two days?",
+      "characters": [
+        "Woman",
+        "Hal",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    }
+  ]
+}

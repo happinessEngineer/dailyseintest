@@ -1,0 +1,106 @@
+{
+  "gameNumber": 850,
+  "date": "2027-05-02",
+  "questions": [
+    {
+      "quote": "Jerry, ninety four percent of communications is non-verbal. Here watch.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Milos"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's the one with the swirling chocolate in the commercial?",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "I leave you alone for two seconds, and this is what you do! I trusted you!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, you just tell him ah, an old boyfriend has come back into your life.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do we do? You get your ass over to Beth's, toot sweet. That's what you do and turn on some of that so called charm you're always telling me about.",
+      "characters": [
+        "Joyce",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, by the way, tomorrow night, Paull O'Neill has to catch a fly ball in his hat.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no no no, George! A deal's a deal. I want you to have it!",
+      "characters": [
+        "Nina",
+        "George",
+        "Carol",
+        "Newman"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Doesn't it give you any joy to see your friend enter into this holiest of unions?",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Morty",
+        "Shelly"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Y'know, you've been developing quite the acid-tongue lately...",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Chiles"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Only I hold the answer key to their true candy identities. And so, without further ado, I give you… the candy line-up.",
+      "characters": [
+        "Jerry",
+        "George",
+        "James",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

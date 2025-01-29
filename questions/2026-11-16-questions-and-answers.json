@@ -1,0 +1,106 @@
+{
+  "gameNumber": 683,
+  "date": "2026-11-16",
+  "questions": [
+    {
+      "quote": "Oh, what's the point? When I like them, they don't like me, when they like me, I don't like them. Why can't I act with the ones I like the same way I do with the ones I don't like?",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'Scarsdale surprise'. That's the musical about that Scarsdale diet doctor murder.",
+      "characters": [
+        "Attendant",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, Leo's not there. He's got a girlfriend, Lydia. In fact, he moved in with her.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I, I really should go home. Ya.. actually I'm planning on spending the day with my father tomorrow  we're uh we're going to a father-son picnic, just the two of us.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, here's the book. Don't let anybody see it. Don't let anything happen to it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Too good. Peterman was so pleased, now he wants to take me out to dinner tomorrow. Maybe you wanna come with me.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I see a very cheap man holding a sweater trying to get away with something. That's my overview.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right after we get off the phone, then you go and tell her that?! Well, of course she knows it was me who complained! Now I'm responsible for this woman's quitting. Oh, this is unbelievable!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What am I doing? I'm on a date with this guy because he didn't remember me? He's demented, listen to him...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I want you to promise me something. If I'm ever in a comma. In the first 24 hours get everything out of my apartment and put it in storage.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Pam"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

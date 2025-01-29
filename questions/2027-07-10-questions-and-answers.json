@@ -1,0 +1,106 @@
+{
+  "gameNumber": 919,
+  "date": "2027-07-10",
+  "questions": [
+    {
+      "quote": "So anyway his boss has a box at the Met and he invited us to see Swan Lake, which is fine, but he's afraid that his boss can't handle his orientation, so I'm going along as his date.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! But maybe you wish it was you who was getting married, not him.",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "…OK, I'm tellin' you right now - if your kiddin' around I'm not gonna be able to be your friend anymore. I'm serious about that. You got that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Dwayne, my friend and I would like to exchange frames. Could you put his lenses in my frames and mine in his?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Go out and have a ball with the guys. I'll be waiting right here for you.",
+      "characters": [
+        "Celia",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "What's he doing? Is he out of his mind? Do you see him? I don't even think I see him anymore. Where is he?",
+      "characters": [
+        "Kramer",
+        "Evelyn",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Damn that George, I told him I don't want this stuff around here anymore...",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah to take some of the pressure off of me. So, Jerry ah, what's going on with you? I understand there's a young lady in your life. mmm.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You should be thanking me for liberating you from your world of loneliness and isolation. Now, you're part of a family.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No it's true. This woman saved my life. I was crossing the street .I was almost hit by a car...and then we talked and.......the whole thing just seemed like a dream.",
+      "characters": [
+        "Gary",
+        "George",
+        "Toby",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

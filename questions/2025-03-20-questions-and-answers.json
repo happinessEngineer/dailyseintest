@@ -1,0 +1,106 @@
+{
+  "gameNumber": 77,
+  "date": "2025-03-20",
+  "questions": [
+    {
+      "quote": "What do you think? They gave me a new car for thirty minutes of 'So, who's from out of town?'",
+      "characters": [
+        "Jerry",
+        "Man",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Remember Mrs. Hudwalker? The ninety-four-year-old woman who lived above me?",
+      "characters": [
+        "Christie",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait, wait a minute...they don't have them anymore. I just found out, they just took them off the market.",
+      "characters": [
+        "Elaine",
+        "Lloyd",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's the Mohel! the Mohel is here! Thank God, the Mohel is here.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "All"
+      ],
+      "correctAnswer": "All"
+    },
+    {
+      "quote": "But I can't find any vacation clothes. They were in the attic.",
+      "characters": [
+        "Wendy",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Uh, excuse me.  Excuse me.  This--This is not right. May I?  You see, you're going: \"They fooled *me* Jerry!\"  You wanna hit 'fooled' more: \"They *fooled* me Jerry!\". You see the difference?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I tell you, I really don't think so-called relationship humor is what this show is all about.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Clare",
+        "Captain"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "please please I don't want to die up here. please, stop moving that's all I'm asking.. Kramer!!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's not good, okay. It's not good. You look  stupid.  I'm sorry.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Debby",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well Elaine, when you're shopping on Madison Avenue, you don't want to skip on the, swank.",
+      "characters": [
+        "Kramer",
+        "Testikov",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

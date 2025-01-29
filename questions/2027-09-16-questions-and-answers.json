@@ -1,0 +1,106 @@
+{
+  "gameNumber": 987,
+  "date": "2027-09-16",
+  "questions": [
+    {
+      "quote": "You got that straight. Now I want four new ideas from each of you by 6:00. No, make that six ideas by 4:00. All right, let's move, move, move, move, move!",
+      "characters": [
+        "Leslie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, the shut-ins, that's nice. You know, they're a very eccentric group. Because they're shut in. Of course, they're not locked in, they're free to go at anytime.",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't get it. I, I've been doing the same exercises. I haven't been eating anything different.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, he's out in front of the building. He's arguing with some guy about a parking space.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, let's get him in the studio today. We can send these out immediately.",
+      "characters": [
+        "Sid",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Yeah, no pop-in, no \"in the neighborhood,\" no \"I saw your light was on.\" And the best part is, if things go really well...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Maestro",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She knows about the speed-dial. Mrs Hamilton, you gotta get me off this thing.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Is there any work being done?  Is there any rubbing, touching, finger manipulation on the other person, and if so, who's making the request?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The nerve. Talkin' about ya behind your back--and right to your face!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Patrice",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Owen March, prominent author and essayist suffered a stroke yesterday in the upper West Side apartment of a friend.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

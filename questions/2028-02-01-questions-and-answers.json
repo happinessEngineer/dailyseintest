@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1125,
+  "date": "2028-02-01",
+  "questions": [
+    {
+      "quote": "Well, apparently, the week after that, you buzzed up some Jehova's Witnesses and they couldn't get them out of the building.",
+      "characters": [
+        "Elaine",
+        "Tina",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Tina"
+    },
+    {
+      "quote": "How do you make a decision which one to wear? I'd go crazy if I have to decide which sneakers to wear every day.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "French impressionism. Oh, I love this.  Now, what is the problem with this book?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh great, put it all on the Peterman account with the other stuff.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey. There is a couple of people that wouldn't mind having me out of the way.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That place is about to have the sale of the century. Nothing over ninety-nine cents.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer tell you? We reserved some special seats, so we can all sit together.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Yeah, and then I asked him if my friend could have them and he said yeah.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Evelyn",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you doing? You're making more than I am. A secretary cannot make more than her boss.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Dad, it's me. Hey, listen, I was at Fortunoff's the other day, and, you know what, you were right.",
+      "characters": [
+        "Kramer",
+        "Hal",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 97,
+  "date": "2025-04-09",
+  "questions": [
+    {
+      "quote": "Oh yeah. Yeah, in fact, if George and I weren't so busy here working on the script, I'd do it myself.",
+      "characters": [
+        "Tony",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So I'm glad we had a talk and worked this out. Don't you feel this is better?",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They like it outside, so I kept them in a cage on the terrace...then I found them dead in a pool of water!",
+      "characters": [
+        "Karen",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "No, I don't know too many monkeys who could take apart a fuel injector.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "\"You know, I've never heard anyone talk the way you do. It's very unusual.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A relationship is an organism. You created this thing and then you starved it so it turned against you. Same thing happened in \"The Blob\".",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How about: You've been diagnosed as a multiple personality. You're not even you. You're Dan.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Poppie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Poor Georgie, was it our fault this happened to him? Did we do something wrong? Maybe it was our fault.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Alright, just get yourself together... I dunno if I can be friends with you anymore after this display.",
+      "characters": [
+        "Jackie",
+        "Officer",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, the drunken make-out. An office classic. Did you end up xeroxing anything?",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "John",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

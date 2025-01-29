@@ -1,0 +1,106 @@
+{
+  "gameNumber": 452,
+  "date": "2026-03-30",
+  "questions": [
+    {
+      "quote": "Oh oh oh, all right, fine, Jerry, you win. Take it, just take it!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Could you ask her, just ask her. If she says no, case closed.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aah, top of the fridge. Hey George, I'm taking that waitress to the Tony's.",
+      "characters": [
+        "Elaine",
+        "Lena",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Lopper. You know, Lisi, maybe we should give this a little more time. See how it looks in the light of day.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Nikki",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe this. My next door neighbour had the idea for this exact perfume last year. He even met with an executive at CALVIN KLEIN. I can't believe they stole his idea.",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I couldn't help but notice that you have quite a library in there.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "That he may be. But he's outta my life, starting in the year two-thousand. For me, the next millennium must be, Jerry-free!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Ay ay ay! The next one of you that opens up your mouth, says something, you're gonna have to deal with me. You know, I bet I know what this is about. It's about a woman, isn't it?",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, Jerry. New Year's Eve nineteen ninety-nine. The millennium. I told you about that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, it's an invitation to a house warming from Martin and Gina.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

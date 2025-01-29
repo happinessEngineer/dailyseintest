@@ -1,0 +1,106 @@
+{
+  "gameNumber": 711,
+  "date": "2026-12-14",
+  "questions": [
+    {
+      "quote": "Well you're not getting any money back.  Jerry, come back in here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look...humm..I'm on with Beijing with the hair restauration clinic. Could you talk to them for me and tell them I'd like to place an order.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Kramer",
+        "Nana"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you're havin' the sex, next day you don't have to call. That's pretty good.  Go ahead.",
+      "characters": [
+        "Attendant",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I thought this would be more fun so I gave the tickets away.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Patty"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "I know, I hated those kids. In fact, I hate anyone that ever had a pony when they were growing up.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just talked to Mr. Kruger, he'll be down in a minute. He wanted me to take a photograph for the record.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, what are you saying? That I'm a bad maid or some kind of a prostitute?",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Aaron",
+        "Cindy"
+      ],
+      "correctAnswer": "Cindy"
+    },
+    {
+      "quote": "Look at me....Look at Mee!. Come on. I'm stretching right in front of you. Heeeey!! ...a smile. Aah! we made contact, all right one more stretch and then go talk to him.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah. Top floor.  Listen, Frank, have you ever considered wearing something for support? Now, look at this.  Mind you, this is just a prototype.",
+      "characters": [
+        "Julianna",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Vandelay. Wait a second. Mr. Pennypacker, if you're here, and Mr. Vandelay is also here, then who's watching the factory?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 150,
+  "date": "2025-06-01",
+  "questions": [
+    {
+      "quote": "I want you to get on this phone and give him his 'thank you'!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You didn't realize? How could you not realize? You're stupid! You're a stupid, stupid man!",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, no, no, no. That's exactly how you said it was going down.",
+      "characters": [
+        "Jerry",
+        "David",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So anyway, she's kind of upset about it so I need you to do me a favor.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...so we were just kinda wondering if it was possible for you to write us a note, and if you can't, believe me, it's fine.",
+      "characters": [
+        "Frank",
+        "Maryedith",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've got the softball game on Wednesday. It's the championship.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Babu",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Never mind Uma, I need that ticket to get my mother's fur coat back. Why don't you just give him the money for the suit?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine. You don't remember our conversation? I talked about how my uncle worked in the book depository building with Lee Harvey Oswald?",
+      "characters": [
+        "Bob",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I was chewing gum with Lloyd Braun, and he was bragging about the peepshow you gave him at the Alex.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Meryl",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something.  Oh, please, come on.. it was nothing.",
+      "characters": [
+        "Peggy",
+        "Peterman",
+        "Elaine",
+        "Michael"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

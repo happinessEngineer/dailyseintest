@@ -1,0 +1,106 @@
+{
+  "gameNumber": 732,
+  "date": "2027-01-04",
+  "questions": [
+    {
+      "quote": "Well, I almost did once, and I blacked out. When I came to, the car was in a ditch, and the tank was full. I don't know who did it, and I never got to thank them..",
+      "characters": [
+        "Beth",
+        "Elaine",
+        "Secretary",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's going to be! Because I'm going back on strike. Come on Elaine.  It's a walk out!",
+      "characters": [
+        "George",
+        "Izzy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know. He got the hit in game SIX. So, so then what happened?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, he wants me to run the catalog! It's crazy! I can't be in charge!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Cause you only get one call. The prison call is like the king of calls.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "what happened to his face, tell me, what happened to his face",
+      "characters": [
+        "Elaine",
+        "Farkus",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah..  Sally called Susan - said you guys really hit it off.",
+      "characters": [
+        "George",
+        "Ralph",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your father won a thousand dollars at the track last week, and he gave you a hundred, and you were supposed to give fifty dollars to your sister.",
+      "characters": [
+        "Jerry",
+        "Nana",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Nana"
+    },
+    {
+      "quote": "Actually, I never had any formal training. I guess I'd be better suited for improvs, or something..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mickey",
+        "Celia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know why Rifkin was a serial killer? Because he was adopted.  Just like Son of Sam was adopted. So apparently adoption leads to serial killing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

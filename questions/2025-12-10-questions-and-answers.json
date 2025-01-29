@@ -1,0 +1,106 @@
+{
+  "gameNumber": 342,
+  "date": "2025-12-10",
+  "questions": [
+    {
+      "quote": "Oh, come on, Jerry. If everybody knew everybody, we wouldn't have the problems we have in the world today. Well, you don't rob somebody, if you know their name!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Puddy",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, I'm sorry to bother you, but you always said you'd be there for me.",
+      "characters": [
+        "Morty",
+        "Beth",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Vandelay Industries, Kel Varnsen speaking. May we help you? ... Oh Hi Keith. Na, I was just jokin' around",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Babu? Babu...[waves Babu to come to table] Babu...you know, I got to tell you, I never do this, but the shrimp, it's just, it's a little stringy. You have any chicken?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm gonna get your picture, and you're gonna participate in my program.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I'm not sure and and and correct me if I'm wrong but I think I see ... a nipple.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because they're Jujyfruit. I like them. I didn't know it would start a chain reaction that would lead to the end of Pendant Publishing.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you are? I guaranty you, Lupe is going to tuck your covers in.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You think I'm going to spend my life with somebody because he can get me a deal on a box of nails?",
+      "characters": [
+        "Emily",
+        "Elaine",
+        "Carrie",
+        "Jerry"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "Well, it'll gonna mix up with the water, and then by the end of the cycle it'll be a solid block!",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

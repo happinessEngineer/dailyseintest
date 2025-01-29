@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1015,
+  "date": "2027-10-14",
+  "questions": [
+    {
+      "quote": "Some woman named Uma. I got her number off of that ticket before it was smudged. Hope she's good-looking.",
+      "characters": [
+        "George",
+        "Bania",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "I'll need you to write down your phone number on the check for me.  Perhaps you could do the same.",
+      "characters": [
+        "Elaine",
+        "Craig",
+        "Ray",
+        "Jerry"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "You mean it was open? We desecrated a pet cemetery for nothing?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, Jerry Lewis is gonna be at this Friar's Club roast I'm goin' to next week. Now I have an in to strike up a conversation with him.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Dick? He can't drink. He's an alcoholic. I told you to hold it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, when's the funeral? Well, Aunt Clarice was so ill, I guess it was really a blessing.  Yeah, I'll fly home as soon as I can.  O.k. You, too. Get some sleep.",
+      "characters": [
+        "Elaine",
+        "Marty",
+        "Betsy",
+        "Jerry"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Yeah, pretty much. Although I still get the vibe every once in a while.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, there's only one way to settle this.  One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare 'em, rip 'em, tear 'em, tay, taw, toe..",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Tor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "OH, AH! OH! WOW! WHOA! A COMMIE! Wow, gee, man it must be a bummer for you guys what with the fall of the soviet empire and everything .",
+      "characters": [
+        "George",
+        "Elaine",
+        "Alec",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I don't have time for this. Uh, Anna, do you wanna talk to George?",
+      "characters": [
+        "Jackie",
+        "Keith",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 277,
+  "date": "2025-10-06",
+  "questions": [
+    {
+      "quote": "Yeah, you know we need a fourth for the back nine. You want in?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Guy",
+        "Elaine"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Well I'm sorry if I ruined your life. That's exactly what I set out to do.",
+      "characters": [
+        "Clerk",
+        "Ron",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it's getting late. You've cleaned up the car. You've made all your phone calls. Why are you still here?",
+      "characters": [
+        "Jack",
+        "Diane",
+        "George",
+        "Tim"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "They're all the same. You go, you sit, you eat popcorn, you watch. I'm sick of it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Toby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, I am so sick of you comin' in here and eatin' all my food. Now shut that door and get the hell out of here!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You wanna hang out here, at phase two of the Pines of Mar Gables?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Mr. Kramer, looks like you're in the hole $3200... Will that be cash or check?",
+      "characters": [
+        "Earl",
+        "Morty",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Oh. Let me ask you, when someone is lying, is it true that their pants are actually on fire?",
+      "characters": [
+        "Lippman",
+        "Marla",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what is that? That's a crime! Do you know how hot those things get? They should be wearing cotton.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Rabbi",
+        "Billy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I don't like to carry my wallet. My Osteopath says that it's bad for my spine. It throws my hips off kilter.",
+      "characters": [
+        "George",
+        "Alec",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

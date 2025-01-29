@@ -1,0 +1,106 @@
+{
+  "gameNumber": 44,
+  "date": "2025-02-15",
+  "questions": [
+    {
+      "quote": "Second of all, Jerry Seinfeld - big or little - doesn't go down for anyone, anywhere, at anytime! Now I'd appreciate it if you please leave.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Keith",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, everybody would know everybody. It would be like a small town.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, sure.  Then my father will have no place to sleep.  He's gotta move out.",
+      "characters": [
+        "Izzy",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was in the back of the room on the left, she must have been sitting right in front of it.",
+      "characters": [
+        "Jerry",
+        "Wendy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh. Well, I'm sick o' waiting. ) I am springin' ahead riiight now.",
+      "characters": [
+        "Jack",
+        "Karen",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "YES! It Blows Up! If you knew that, what did you tell Elaine for?",
+      "characters": [
+        "Elaine",
+        "Tim",
+        "Pitt",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I tell you what. How about if you and George go to the movies, and I stay here and watch the dog tonight.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, it's a bad day. Uh, you got everyone in your house, you're thinkin', \"These are my friends?!\"",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is it about sex that just disrupts everything? Is it the touching? Is it the nudity?",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's nothing to read, it's just yesterday's news. You know, the Yankees won, the Mets lost, Ricky Henderson's unhappy...",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

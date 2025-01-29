@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1047,
+  "date": "2027-11-15",
+  "questions": [
+    {
+      "quote": "You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Tor",
+        "George"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "I thought Johnny was very rude to you. He didn't even let you talk.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Woman",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "So Jerry, your mother told me you're gonna do one your little comedy skits tomorrow?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "I can't relax. I don't know what line! I don't know any of 'em!",
+      "characters": [
+        "Kramer",
+        "Michael",
+        "Testikov",
+        "Peterman"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "It's a little unusual. So, uh, Susan and I were thinking, uh, dinner at our house Saturday night. Just the four of us.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jack",
+        "Ping"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hid? I have no idea how this suit got misplaced. Nevertheless, I do believe I shall purchase it.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "Duncan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It seems that a psychotic mechanic has absconded with my friend's car.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, they gave me the heave ho. You know, I don't think that Kenny Rogers has any idea what's going on down there.",
+      "characters": [
+        "Kramer",
+        "Laura",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Take it easy, you guys, just spread out! Don't worry about it, if anything was wrong she would have called you already!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. And here's to David Puddy for helping me install a much needed and much appreciated garbage disposal in my bathtub.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

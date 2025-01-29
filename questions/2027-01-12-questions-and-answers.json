@@ -1,0 +1,106 @@
+{
+  "gameNumber": 740,
+  "date": "2027-01-12",
+  "questions": [
+    {
+      "quote": "Hey, there's a tomato stand, let's stop, I can get some more.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey! I'm trying to prevent my friend from becoming one of those guys people snicker at behind their back, because they look ridiculous! No offence to you personally!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, actually I, uh, I have some very interesting information on that.  You know, uh, this is a co-venture and as...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Rula",
+        "Lippman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "So, I don't want people coming into my kitchen. I think she might have sneezed all over someone's pasta primavera. Someone might have gotten sick because of her.",
+      "characters": [
+        "Gail",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Gail"
+    },
+    {
+      "quote": "Yeah, well, how 'bout if we give one out to every member on the condo board.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jill's father is in the hospital and you call to ask about him on a cell phone?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, let's get going. C'mon, c'mon now.  C'mon, let's get it together..  Yeah?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're a crazy religious cult. The carpet cleaning is just a means for them to get into your apartment.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't even know their names! Look, why don't you just take the one that was on the left?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Maestro"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, we're wasting our time here! We're a half-hour late, they've probably took it off the board already.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

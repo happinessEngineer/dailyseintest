@@ -1,0 +1,106 @@
+{
+  "gameNumber": 884,
+  "date": "2027-06-05",
+  "questions": [
+    {
+      "quote": "That is a sad story. Hey, you should have been here tonight. Some guy from NBC saw my set, he wants me to do a showcase. I might have another shot at a pilot.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry I'm sorry, here's the test. Thanks again for doing this - hhe.",
+      "characters": [
+        "Ping",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Hey Jerry, listen to this. I discovered something even better than conjugal visit sex. Fugitive sex! Now, it's like everytime -",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, it was okay,. He's coming over later to watch a movie. Hey listen, what's better for your back? Couch cushions or a folding chair?",
+      "characters": [
+        "Bonnie",
+        "Elaine",
+        "Danielle",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "..living together after a while we... we might start to get on each others nerves a little.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He didn't do anything, Jerry. It's a scam! Who told you to do that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Detective",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's all fresh. Fresh fish, fresh foul, fresh fruit. I buy it, I omniga nominga, I eat it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jumping up and down? What are you talking about? C'mon. Cough it up.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Since when is Elaine's boyfriend selling cars? I thought he was a mechanic.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "hu_uh,  You know, everybody listens to the Chinese. I mean, look at the fortune cookie. You couldn't get away with that in any other restaurant.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Connie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

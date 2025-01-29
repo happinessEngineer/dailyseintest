@@ -1,0 +1,106 @@
+{
+  "gameNumber": 843,
+  "date": "2027-04-25",
+  "questions": [
+    {
+      "quote": "So, we're, uh, foolin' around there.. you know, it's getting a little passionate..  and, uh, she starts with the dirty talking.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's it! That's it! I can't take it. I can't take it anymore! You stole the statue! You're a theif! You're a liar!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No problem. Yeah, you'll have the whole thing installed by the time you get back.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ipecac? Kramer, I really think you guys are going too far with this.",
+      "characters": [
+        "Doorman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, they're in the kitchen. . . . okay, quite! What's going on?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is that? It's ridiculous! You don't even know what hotel she's staying at, you can't call her. That's a signal, Jerry, that's a signal!  Signal!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you saying? . . . Salad! What was I thinking? Women don't respect salad eaters.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let's face it, you get a bunion, where are you going? You're not going to the ear guy.",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Stationer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ga, of course you can't, you poor sap! Now why didn't you tell me?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "42, That's what I am now. I've been working out, I'm huge. How'd you like to sell it?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    }
+  ]
+}

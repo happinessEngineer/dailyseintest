@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1095,
+  "date": "2028-01-02",
+  "questions": [
+    {
+      "quote": "George? Are you there?  I hate that stupid message.  I know you're avoiding me, I'm at the office, please call me, I've gotta talk to you.",
+      "characters": [
+        "George",
+        "Allison",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Allison"
+    },
+    {
+      "quote": "You think people will still be using napkins in the year two-thousand? Or is this mouth-vacuum thing for real?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And Kramer thinks a penalty stroke may have driven him to it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, I had what you might call a little encounter this morning.",
+      "characters": [
+        "Guard",
+        "Maura",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Take a look at this. Doesn't that look like my flesh and blood? Of course, your mother-",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "All right. If you refuse to grow up and scam your insurance company, you'll have to work this out with maroon Golf.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, what about this? I'm in a car accident. The motorist is uninsured, you with me?",
+      "characters": [
+        "Morty",
+        "Holly",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, Cynthia and I got into this big argument afterwards and I think it's over.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Well, I had to. I had to apologize. I mean, I punched Mickey Mantle, my idol. It was eating me up inside!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nothing to worry about, it was just a flat tire. But rest assured, we're prepared to handle anything that might come up.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
+    }
+  ]
+}

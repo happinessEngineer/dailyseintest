@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1006,
+  "date": "2027-10-05",
+  "questions": [
+    {
+      "quote": "Yeah, yeah. Anyway, uh...we're going into business together. Remember that idea I had a few years ago about the pizza place where you make your own pizza?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Janet"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Every time you're with that Kramer, something happens... He's a real trouble maker!",
+      "characters": [
+        "Estelle",
+        "George",
+        "Ron",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Moths are a discourage to my business, all it takes is one moth to lay eggs. You know what happens to the larvae? They hatch and they're everywhere.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rudy",
+        "Elaine"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "They try to push you into using their cleaning crew, with all their so-called maintenance equipment.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright - come on - come on now, people. Let's face it, we're not all going to agree on anything. Why don't we all just go to Paris?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I tell ya, there's some people, they just wear a ribbon and they think they're doin' something? Not me. I talk the talk, and I walk the walk, baby.  I'll be right back.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no no no, this is no joke. O'Brien's coming in from Chicago, Jerry's in a limo, says he's O'Brien? That's not funny. Oh my god. Yes. Yes!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Doris"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "you would not believe what just happened to me in the bathroom",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And that failure to become a banker was eating at you. Eating-eating-eating at you inside.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "This is gonna be the easiest money I've ever made in my life.  So, my fried, Joyce, is teaching an aerobics class. I'm gonna go tonight.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

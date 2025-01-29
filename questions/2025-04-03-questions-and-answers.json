@@ -1,0 +1,106 @@
+{
+  "gameNumber": 91,
+  "date": "2025-04-03",
+  "questions": [
+    {
+      "quote": "No no, look. I'll tell you what -- they're having a sale right.",
+      "characters": [
+        "Rabbi",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, we go into NBC, we tell them we've got an idea for a show about nothing.",
+      "characters": [
+        "George",
+        "Sidra",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm touring with Joseph and the Amazing Technicolor Dreamcoat",
+      "characters": [
+        "Ethan",
+        "Kramer",
+        "Jane",
+        "Helena"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "They're -- They're killing independent George! And they're, they're all in on it! World's are colliding!",
+      "characters": [
+        "Eva",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let's just replace \"hail of shrapnel\" and \"scar tissue\" with \"string of pearls\" and \"raspberry scones\".",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Each according to his ability, to each according to his needs.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah go ahead yeah, put the banner up doesn't matter to me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Rita",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "As you care for me. Which is why it is very important that you never breathe a word of this to anyone about the... you know. What, with Clarence Thomas and everything.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now listen to me you little quack, There was a half man, half pig in that room over there. Now where is he?! Where is he?!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahh. Everyone just settle down. We have three hours left on this thing, and I can't drive and argue with you rubes all at the same time. Okay. Lomez's place of worship is right on the right here.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

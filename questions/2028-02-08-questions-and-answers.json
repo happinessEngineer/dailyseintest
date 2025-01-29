@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1132,
+  "date": "2028-02-08",
+  "questions": [
+    {
+      "quote": "So Peterman bought it? I can't believe you got away with that!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, So Barney's is having this huge sale. I try this dress on --  -- Stunning. Stunning. I couldn't take my eyes off myself.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I dunno. I was just talking to the man and he walked out on me!",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello? Oh hello Gussy. What? Jerry wouldn't do that. Jack gave it to him. All he said was he liked it. I mean nobody put a gun to his head.  You're giving him back that pen.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Todd",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Yeah! Then after the ambulance left, I found the toe! So I put it in a Cracker Jack box, filled it with ice, and took off for the hospital.",
+      "characters": [
+        "Steve",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why is everyone talking about \"The English Patient, it's so romantic\".  God, that movie stunk!",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Todd",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I didn't do it! It..It just got done. I don't know how it got done, but it did.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, to be honest sir -- my, my new secretary Ade, came up with that one.",
+      "characters": [
+        "Kramer",
+        "Debby",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Y'know I have some friends who try and base their whole life on that principle.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh oh, listen to this, this is not good, listen to these symptoms for rabies: anxiety, irritability. I got those, I'm irritable!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Tawni"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

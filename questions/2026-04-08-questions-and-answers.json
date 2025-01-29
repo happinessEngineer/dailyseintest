@@ -1,0 +1,106 @@
+{
+  "gameNumber": 461,
+  "date": "2026-04-08",
+  "questions": [
+    {
+      "quote": "I know it may sound shocking. But, I just can't stop myself from... wanting you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Captain",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm afraid I'm just not interested in how I present myself. If those kind of superficialities are important to you, this probably isn't gonna work.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lloyd",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Someone's have to unhook the boat before it leaves...the place!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look... I've known Newman all my life, in the building, and you're all wrong about him. He's a model tenant. Portly, yes, but smart as a whip.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Kate"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because if Jerry finds out that I'm hooked on Roger's chicken I'm back there with the red menace.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So if everyone would just put their cars in reverse at the same time, we can do this. All right, on the count of three. Can everyone hear me? Hey, amigo, are you paying attention?",
+      "characters": [
+        "Doctor",
+        "Toby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Inka-dink, a bottle of ink, the cork fell out, and you stink.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Rava"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I like being with her. Plus, I know where she is all the time. I have relatively no competition. An-and you know how you live in fear of the pop-in?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Mike"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"All right then say you were. I mean .. what do you think could have happened.?\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Receptionist"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A second later, something happened that changed us in a deep and profound way front that day forward.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

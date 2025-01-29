@@ -1,0 +1,106 @@
+{
+  "gameNumber": 458,
+  "date": "2026-04-05",
+  "questions": [
+    {
+      "quote": "Well it was worth it.  I'll be  right  back . Where are you going?",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "George",
+        "Tawni"
+      ],
+      "correctAnswer": "Tawni"
+    },
+    {
+      "quote": "Well, you know, Poppie's over at my place. Tonight's the big night. I'm gonna make the first test pizza at the restaurant.",
+      "characters": [
+        "Ron",
+        "Kramer",
+        "Jerry",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what, why don't you read this book and let's just see if you can explain it to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No keys. And I been calling the city all day. Course there's not really a number to call if you wanna make a pothole.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So my parents get home, they open the door, my father flicks the light on, the whole place is cleaned out, everything.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Lookit. He knew I was gonna use the machine next, he didn't wipe his sweat off. That's a gesture of intimacy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer? Have you seen George, around? I can't get a hold of him.",
+      "characters": [
+        "Allison",
+        "Roy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Allison"
+    },
+    {
+      "quote": "No I meant the bald cure. We were talking about the bald cure.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen M. Klompus, it was really a nice gesture of you to give me the pen, but I don't really need it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Melissa"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There was cleavage in the area. That's a reflex -  - cleavage-poke, cleavage-poke...",
+      "characters": [
+        "Doctor",
+        "George",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

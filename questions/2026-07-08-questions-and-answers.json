@@ -1,0 +1,106 @@
+{
+  "gameNumber": 552,
+  "date": "2026-07-08",
+  "questions": [
+    {
+      "quote": "Ha ha ha ha!!! That's killer! Killer! I love that! Ha ha ha!!! You gotta use that, that's a definite!! Ha ha ha!!!",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "Elaine",
+        "Marcy"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "It's OK. It's fine. She'll do it. I'm sure she'll still do it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Alton"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Imagine the laugh you could have gotten if you'd yelled that out at the actual disaster.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, FDR. This wish is for all the marbles. You win, you get your wish - I drop dead. I win, I don't drop dead, and I get one-hundred percent anti-drop-dead protection -- Forever.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen do me a favor -- just call Jerry, tell him to bring me some clothes.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I guess it would be nice if you called all the ticket holders if the game was going to be rained out.",
+      "characters": [
+        "Jerry",
+        "Roy",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, c'mon! I'm telling you, I can coach for the NFL. It's not that hard",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I saw Jerry wearing his. He looked like a bit of a dandy. Check it out! 8-Ball! You got a question, you ask the 8-Ball.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I never should have brought her up there. Should have known better. Should have seen it coming. I didn't see it coming.",
+      "characters": [
+        "Jerry",
+        "Marlene",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What? What?! You were the one who was talking dirty. I was just trying to keep up!",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

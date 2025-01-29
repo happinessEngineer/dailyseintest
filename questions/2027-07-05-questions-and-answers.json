@@ -1,0 +1,106 @@
+{
+  "gameNumber": 914,
+  "date": "2027-07-05",
+  "questions": [
+    {
+      "quote": "I cannot believe I'm doing this. I never meet people like this. You're not a nut, are you?",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't you drag me into this! This is between you and her, and her.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "All right, Honey, one last look, then you have to let Fredo rest in peace.",
+      "characters": [
+        "Phil",
+        "George",
+        "Woman",
+        "Lloyd"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "WHAT ARE YOU LOOKIN' AT? NEVER SEEN A KID IN A BUBBLE BEFORE?",
+      "characters": [
+        "Joel",
+        "Donald",
+        "Jerry",
+        "Alec"
+      ],
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "Alright, listen to this. Remember that guy I was telling you about at the health club?",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. It's piquing hot. It's fresh out of the dryer. Hey Elaine you have to feel my pants.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, your spirit, your, uh, being. The part of you that says, \"Yes, I can!\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey who's your barber, eh? You tell the joke, I cut the hair.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Enzo",
+        "Elaine"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Well, I don't wanna get into the whole physics of carbonation with you here, but you know the sound a can makes when you open it?",
+      "characters": [
+        "Jerry",
+        "Gail",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He is? Listen. When he's finished, send him over to my house.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Tom"
+      ],
+      "correctAnswer": "Tom"
+    }
+  ]
+}

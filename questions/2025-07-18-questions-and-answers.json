@@ -1,0 +1,106 @@
+{
+  "gameNumber": 197,
+  "date": "2025-07-18",
+  "questions": [
+    {
+      "quote": "Remember when we were standing there and she mentioned it? I made a mental note of it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know I hear Mr. Steinbrenner can be a bit erratic. I would hate to see him when he's hungry.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh yeah, all the time, all the time...although, recently I've been thinking about this friend of mine.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Deena",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no........I'm sneaking in with Stan the Caddy, we've been going through the caddies entrance.",
+      "characters": [
+        "Gina",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I have an idea.  We can make the nine-thirty at Cinema Three.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why should we let petty, personal differences get in the way of business? I, uh, I want you to come back.  You can use my bathroom anytime you want.",
+      "characters": [
+        "Levitan",
+        "Puddy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "First of all, I don't think you can make a rooster take a dive.",
+      "characters": [
+        "George",
+        "Leo",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You really do the worst Godfather I ever heard. You're not even close.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you'd be embarrassed and humiliated in front of a large group of people and have to walk out in shame with your tail between your legs.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Blow out the candles! Blow out the candles, I said! Blow out the damn candles!",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

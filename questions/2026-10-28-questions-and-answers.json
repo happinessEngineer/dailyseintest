@@ -1,0 +1,106 @@
+{
+  "gameNumber": 664,
+  "date": "2026-10-28",
+  "questions": [
+    {
+      "quote": "So what? Somebody dropped an egg on my head as I went into my building last night.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, No, no, no, I can't. I learned my lesson from that coffee company.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"I'm very imPRESSED\"? ... Ah you mean pressed caus' its like a dry cleaner?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Mr. Peterman, I've got a really good idea for a hat. It combines the spirit of old Mexico with a little big city panache. I like to call it the Urban Sombrero.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "D'you realise, an above-average performing growth mutual fund for fifty-three years...",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I'm not going to see that nut doctor she went to Europe with.",
+      "characters": [
+        "Kramer",
+        "Kimbrough",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well, come on. This is an apartment, this is a home! This is a place to live. Oooh, a fireplace, are you kidding me! Does this work?",
+      "characters": [
+        "Izzy",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Where I go? You mean she was asking me to wear this ridiculous shirt on national TV, and I said 'Yes'?!",
+      "characters": [
+        "Christie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about fine fabrics? How do you deal with that kind of temperament?",
+      "characters": [
+        "Anna",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Reprogram all the buttons, see if he changes them back. You know? The old switcheroo.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

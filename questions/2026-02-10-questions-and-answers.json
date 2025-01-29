@@ -1,0 +1,106 @@
+{
+  "gameNumber": 404,
+  "date": "2026-02-10",
+  "questions": [
+    {
+      "quote": "Boy, I am really surprised at you.  You are the last person I figured would do something like this. I mean, George, yeah, I can see that. Even Jerry. But not you, Elaine...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Elaine, thanks for picking me up. I can explain everything.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Anna",
+        "Jerry"
+      ],
+      "correctAnswer": "Anna"
+    },
+    {
+      "quote": "Anyway, I called him back... I told him I had to go visit my father in the hospital in Maryland.",
+      "characters": [
+        "Carrie",
+        "George",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Vivian, hi it's Elaine. Yeah, I'm over at Jerry's, I got your message...What? Yeah, he's right here, hold on...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you didn't ask me to do it? I could raise enough money to cure polio.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you just tell me the name of the movie you've selected.",
+      "characters": [
+        "Peterman",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So get this. I'm in the bathroom at work today, and I see Peggy using a seat protector.",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "Jeannie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "When you're talking about a movie like \"Beaches\", moving from the chair to the couch , . . . that's quite a voyage.",
+      "characters": [
+        "Jack",
+        "George",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Have you noticed anything else that's different since the new management?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hewwo and welcome to Movie phone. If you know the name of the movie you'd like to see, press one.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

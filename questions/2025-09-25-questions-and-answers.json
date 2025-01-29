@@ -1,0 +1,106 @@
+{
+  "gameNumber": 266,
+  "date": "2025-09-25",
+  "questions": [
+    {
+      "quote": "Ya, or if you're ever on Fifth Avenue here in New York City, you could get some there.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, if the situation were reversed and Manya had some mah-jongg championship or something, I wouldn't expect her to go to my funeral. I would understand.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe we should have her over for coffee, and explain our side of it?",
+      "characters": [
+        "George",
+        "Helen",
+        "Pitt",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You know, it's a miracle you're not married.  Hey, I'm not obligated to buy anything, am I?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kruger",
+        "Manager"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Two months ago, I saw a provocative movie on cable TV. It was called The Net, with that girl from the bus. I did a little reading, and I realize, it wasn't that farfetched.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ah, Yeah Yeah, I have a - I have a question, um -- What do you know about inter-abdominal retractors?",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Elaine",
+        "Maestro"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Eh, died on the table. Just spent hour and a half making me feel, if I don't save lives, I'm worthless.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Glenn"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You hear about that kid that was kidnapped the other day in Pennsylvania?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They'll get dehydrated on the plane! Get the Seinfelds some water. Please! Please!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Hal",
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "A half hour then diving class started. Well… that got a little messy. I gotta find a new place to swim 'cause that pooll can't hold me, Jerry.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

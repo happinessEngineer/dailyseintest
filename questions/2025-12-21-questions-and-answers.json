@@ -1,0 +1,106 @@
+{
+  "gameNumber": 353,
+  "date": "2025-12-21",
+  "questions": [
+    {
+      "quote": "Yes, well anyway, she said something that was kind of intriguing.",
+      "characters": [
+        "Marla",
+        "Jack",
+        "Julie",
+        "Elaine"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "An hour and a half!!! I was reading a manuscript, I just couldn't put it down.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Cynthia"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no, Just a custom. Uh, THAT'S MY FRIEND GEORGE. YOU LOOK GOOD.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Take it easy. There's plenty of lobsters in the ocean for everyone.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, you're fine... you're fine.  So you think this guy playing Kramer took the raisins?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mr Wilhelm, uh, this is Lafarge in payroll. Uh, there's a Costanza here, says he's working on some project?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "It's my apartment, Eldridge! The Stalkholm may not have sunk ya, but I will! Ha, ha, ha!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Roy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, you boys get yourselves together. We'll head up to the restaurant. I'll leave a note for Elaine. I'm going to the bathroom.",
+      "characters": [
+        "Alton",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "In my spare time. . You know, I'm working on one of you, George. I'm using ravioli. See, the hard part is to find a pasta that captures the individual.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I don't if what you have here constitutes a legally binding document.",
+      "characters": [
+        "Izzy",
+        "Pitt",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

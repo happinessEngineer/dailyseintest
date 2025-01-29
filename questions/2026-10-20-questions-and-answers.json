@@ -1,0 +1,106 @@
+{
+  "gameNumber": 656,
+  "date": "2026-10-20",
+  "questions": [
+    {
+      "quote": "All right come on in. ... Just wait over HERE! Just wait here and I'll get it for you. ... Kramer this is Tia.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello... Oh hi Patty, thanks for calling me back. I-I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Ya, Okay, bye.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "NOTHING LEFT! That's why I'm trying to get that vacuum cleaner. Because somebody's going to grab it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it might not be hell but you're gonna run into some bad dudes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but you gotta order it two days in advance.  You know, I'm gonna call him, I'm gonna order the duck for you.",
+      "characters": [
+        "Bania",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I told them to meet me in front of my building at six-fifteen.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Fred"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, the tenant association has decided to hear my side of the story. So, uh, I gotta kinda get ready. I'll see ya.",
+      "characters": [
+        "Testikov",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, who do you think you're going? Do you think that they have big picnic tables there?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Is that important, really? What is this, a police investigation? The woman's been through enough. She has to relive the experience now?!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, say, I wanted a side order of fruit but I didn't see it on the men",
+      "characters": [
+        "Guard",
+        "Elaine",
+        "Jerry",
+        "Nana"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

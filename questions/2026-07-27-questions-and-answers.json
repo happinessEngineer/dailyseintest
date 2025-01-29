@@ -1,0 +1,106 @@
+{
+  "gameNumber": 571,
+  "date": "2026-07-27",
+  "questions": [
+    {
+      "quote": "Thank you, but, unfortunately, I have much larger problems to fry. My wife, she has no respect for Milos anymore.",
+      "characters": [
+        "Milos",
+        "Morty",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Yeah, but, Jackie Chiles, he put a restraining order on me.  I'm not allowed within two hundred feet of his office. I couldn't even give him his Christmas present.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Of course. C'mon Georgie, you wanna tell me. It's eating you up inside. Sing it, sister.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, it was purple, I liked it, I don't actually recall considering the buttons.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know as far as I'm concerned, this whole thing is George's fault",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "The Dominicans are rolling them too tight.  Uhm, well, that's why you gotta get real Cubans.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I gust met Uma Therman. She's giving me her telephone number. Uma Jerry, Uma.",
+      "characters": [
+        "Kramer",
+        "Jeannie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Make-up sex? You have to have that right after the fight, we're way past that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry have you ever seen any of those impressionist paintings?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, you're better off sitting around here, reading comic books, and eating spaghetti at two in the morning..",
+      "characters": [
+        "Elaine",
+        "Worker",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

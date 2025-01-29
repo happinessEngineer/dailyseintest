@@ -1,0 +1,106 @@
+{
+  "gameNumber": 447,
+  "date": "2026-03-25",
+  "questions": [
+    {
+      "quote": "To find the theater nearest you, please enter your five digit zip-code, now.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Dustin Hoffman in Star Wars!?! Short Jewish guy against Darth Vader. I don't think so.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry I don't have a square to spare, now if you don't mind",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jane",
+        "Jerry"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "She was a guest of my father's. She should've taken the cap off.",
+      "characters": [
+        "Jerry",
+        "Nina",
+        "Kramer",
+        "Deena"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Yeah. I gotta be honest with you Kramer. You might be more than just a coupla tweaks away from a healthy relationship.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just like to have and few drinks and just let the guy do whatever he wants. Would you close your eyes for a second? I wanna tell you a secret about my bra.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, it's fantastic. I love the people over there. They- they treat me so great. You know they think I'm handicapped, they gave me this incredible office, a great view.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What would you say if I told you I never impregnated a woman?",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "Jerry",
+        "Tawni"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, see that's why I hate it. So, come on, you going to go?",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Dan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now what does the little man inside you say? See you gotta listen to the little man.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jackie",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

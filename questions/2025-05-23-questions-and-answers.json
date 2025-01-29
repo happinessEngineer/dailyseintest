@@ -1,0 +1,106 @@
+{
+  "gameNumber": 141,
+  "date": "2025-05-23",
+  "questions": [
+    {
+      "quote": "I think I'd really like to be a city planner.  Why limit myself to just one building, when I can design a whole city?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Steven",
+        "Jerry"
+      ],
+      "correctAnswer": "Steven"
+    },
+    {
+      "quote": "Hey, hey! Get back over here! Kramer! Get over here! You are bad! Bad neighbor! Kramer!",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told you! Now, Frank, listen. Here's what I'm thinking. Now, you have a friend in the bra business, right?",
+      "characters": [
+        "Emily",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I got banned from the store I can't go back in there now.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And my agent said as a bonus, I can use their private jet, so we'll all go somewhere - the four of us, one big fling before George and I go to California.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Detective",
+        "Jake"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, why does he do that? Doesn't he know what a huge turnoff that is?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. Those are handsome. Look at that set. Yeah, think I might bid on those.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Celia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't understand, I've never had a problem with these notes before.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Roy"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Okay, he open-lips me, he dreams about me, we have an olive project...that's it, I'm asking this guy out.  Um, you know Greg, I...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got a feeling I'm gonna be much smarter than you pretty soon.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

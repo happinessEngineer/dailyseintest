@@ -1,0 +1,106 @@
+{
+  "gameNumber": 442,
+  "date": "2026-03-20",
+  "questions": [
+    {
+      "quote": "Well, he gave me the morning off, I was doing a little... shopping. How did this happen?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "OK, just a second lets not lose our heads here. Kramer you know you are always welcome in my home but as far as Mr. Johnson is concerned, that's another story.",
+      "characters": [
+        "Diane",
+        "George",
+        "Jerry",
+        "Lou"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, no uh, someone offered Harold and Manny five thousand for the apartment. I'm sure they'd just as soon give it to you, but you'd have to come up with that money.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi! Hey, look at this - I just got a citation in the mail for my work with shut-ins.",
+      "characters": [
+        "Elaine",
+        "Lena",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "Where's your bathroom scale?  Oh my god, I've gained seven pounds.",
+      "characters": [
+        "Elaine",
+        "Captain",
+        "Stan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, that kinda brings us to why I'm here. You got eleven minutes?",
+      "characters": [
+        "Jerry",
+        "Joe",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ben Cantwell. 85. Huh... You think we'll make it to that age?",
+      "characters": [
+        "Jack",
+        "Susan",
+        "Waiter",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wow! That's the astronaut pen. I heard about that. Where did you get it?",
+      "characters": [
+        "Kramer",
+        "Landis",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Would you just keep an eye out for this woman. She's about ye high and eh, she doesn't swing her arms when she walks.",
+      "characters": [
+        "Elaine",
+        "Jane",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Raincoats?  You think you're gonna sell those old crappy raincoats? That's garbage.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jack"
+    }
+  ]
+}

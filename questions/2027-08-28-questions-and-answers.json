@@ -1,0 +1,106 @@
+{
+  "gameNumber": 968,
+  "date": "2027-08-28",
+  "questions": [
+    {
+      "quote": "I'm sorry I can't do this. I can't do it. I can't. It, it's too soon. I don't know you. I can't help you move. I'm sorry. I can't. I just can't.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These are Cubans.  Maria, poquendo los scientos de estes con gleam.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, 'cos I made her this very special gift. 'Kay, it's a bouquet of paper from her TV Guide.",
+      "characters": [
+        "Guy",
+        "Jerry",
+        "George",
+        "Ricky"
+      ],
+      "correctAnswer": "Ricky"
+    },
+    {
+      "quote": "You know it must be impossible for a Spanish person to order seltzer and not get salsa.  \"I wanted seltzer, not salsa.\"",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, but yesterday, he told Joyce, the aerobics teacher, that he wants to meet me outside here at nine o' clock tonight.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's a few things in here, ah, peanut butter, cheese, yeah ...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know. A lot of attitude, like he's better than me, or something.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you what -- you can take me out to dinner sometime.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Ya well, so was uh sacrificing virgins to appease the gods, but we don't do that anymore.",
+      "characters": [
+        "Captain",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Just checking it out. Look at how this thing is made. Can I tell you something? That's a hell of a piece of equipment.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

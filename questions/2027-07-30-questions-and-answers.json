@@ -1,0 +1,106 @@
+{
+  "gameNumber": 939,
+  "date": "2027-07-30",
+  "questions": [
+    {
+      "quote": "He's moving to Seattle. We wanted to say goodbye, I was just getting out of the shower, and yada yada yada--",
+      "characters": [
+        "Marcy",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "Uh, excuse me. I know this is gonna sound crazy but I - I have to have that rye. It's a - it's a long story, but a person's whole future may depend on it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No he didn't. They were in business together… it was dry wall, or somethin'.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, just cooking up a little thank you for Puddy. Hey, how do you make those radish roses?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait, wait wait, not so fast. Jerry, you gotta take me to get this thing refinished.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How could she forget I've been ordering lunch every day here for 3 and a half years?",
+      "characters": [
+        "Kramer",
+        "Man",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What am I supposed to do? I don't want to do it. I like dogs. I'm not sure this is a dog.",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The ocean called. Running outta shrimp. Outta shrimp!  Oh! Yes! That's what I shoulda said!  Dammit!",
+      "characters": [
+        "George",
+        "Karen",
+        "Elaine",
+        "Ralph"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Remember me? I said I 'd come back with someone and I did. Surprised?.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know what you try to do. Get out. Don't ever come back ever.",
+      "characters": [
+        "Kramer",
+        "Worker",
+        "George",
+        "Doris"
+      ],
+      "correctAnswer": "Worker"
+    }
+  ]
+}

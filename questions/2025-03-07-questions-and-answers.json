@@ -1,0 +1,106 @@
+{
+  "gameNumber": 64,
+  "date": "2025-03-07",
+  "questions": [
+    {
+      "quote": "All right! OK! Right, here we go. Yeah. OK, so... 'For sale. A big, juicy van.' And, ooh, you gotta put down, 'interesting trades considered.'",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Shelly",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm having a little trouble with all this. I mean all I ever wanted to do is sing. Now I'm the focus of this big media frenzy.  Nobody in the show will even talk to me.",
+      "characters": [
+        "Kramer",
+        "Gennice",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Gennice"
+    },
+    {
+      "quote": "I just saw Joe DiMaggio in Dinky Donuts. You know, I-I looked in there and there he was having coffee and a donut.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer you might as well run along. Jerry might be a while. Suspicion of mail fraud.",
+      "characters": [
+        "Russell",
+        "Newman",
+        "Jerry",
+        "Joe"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh yeah? What if you got ten car lengths? You have to pull all the way up to the front car?",
+      "characters": [
+        "Mike",
+        "Conrad",
+        "Sylvia",
+        "Peterman"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "I'll fake an illness.  My back! My back! I can't believe, my back.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, um, by the way, who was that gorgeous woman I saw you with the other day?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Wendy",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Hey, Jerry! Guess what! The Kramer name might live on! Noreen's late! She's laaate!!",
+      "characters": [
+        "Kramer",
+        "Simon",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey listen, the Tonight Show called me, they want me to come out and do the show on the 28th and they're giving me two free tickets to LA. You wanna go?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, who are you kidding? You come up to my apartment with your table and your little oils, and I'm not supposed to expect anything? You're a massage teaser.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Rebecca",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

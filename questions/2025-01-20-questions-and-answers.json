@@ -1,0 +1,106 @@
+{
+  "gameNumber": 18,
+  "date": "2025-01-20",
+  "questions": [
+    {
+      "quote": "No, she said it was fine. There's something very strange about this girl.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He could have said: \"Thank you, I like it too\" and put it back in his pocket.",
+      "characters": [
+        "Jerry",
+        "Rabbi",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't bring me down.  Do you have another copy of that photo?",
+      "characters": [
+        "Frank",
+        "Karen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis here at PBS. Our lines are open, so please call the number you see on your screen.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway there was all this tension. I asked her if she wanted to go out to dinner and she said \"no, maybe we could get together for lunch.\" You know what that means.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, do you think I would go willy-nilly into a situation so obviously fraught with potential complications?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's exactly right. The law requires you to help or assist anyone in danger as long as it's reasonable todo so.",
+      "characters": [
+        "Officer",
+        "George",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Officer"
+    },
+    {
+      "quote": "Well if you didn't think I was parking, why did you put it in head first?",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No,no I tought the show was terrific. I was just wondering if you have to keep saying Jerry Seinfeld is the devil.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'll tell her I met some guy who knew her and he gave it to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Regis",
+        "Russell"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 292,
+  "date": "2025-10-21",
+  "questions": [
+    {
+      "quote": "Here you go, Mrs. Seinfeld...with your 25% discount, it comes to $17.80.",
+      "characters": [
+        "Elaine",
+        "Marty",
+        "Jerry",
+        "Tony"
+      ],
+      "correctAnswer": "Marty"
+    },
+    {
+      "quote": "I've been thinking about her, I just cashed some of her checks.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, maybe I could bribe one of those women that hand out the towels in the powder room.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what happened with Sandy. I forgot all about it. Did you call her?",
+      "characters": [
+        "George",
+        "Lippman",
+        "Janet",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes I am. I defy you to come up with a better name than Seven.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Farkus",
+        "Katie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, they're not funny at all. No, I have no funny friends. I'm the funny one. El Clowno.",
+      "characters": [
+        "Kate",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at that. Why do I get bananas? They're good for *one* day...",
+      "characters": [
+        "Jerry",
+        "Waitress",
+        "Morty",
+        "Attendant"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry if you have something to do we could just sit right here and read.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "So that night I cut off the loops and the Executive was born.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You smell like the beach. What's the name of that perfume? you're wearing.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

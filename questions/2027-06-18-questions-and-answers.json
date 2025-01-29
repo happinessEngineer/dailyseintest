@@ -1,0 +1,106 @@
+{
+  "gameNumber": 897,
+  "date": "2027-06-18",
+  "questions": [
+    {
+      "quote": "The woman across the street has nothing on, nothing on, nothing on..",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, I need those cufflinks, but now they're in the box, and the key is in the bird... What are we gonna do?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand lunch, I don't know anything about lunch. Listen. Just because I got the guy fired doesn't mean I turned him into a bum - does it?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you aware that I'm being charged for Tuesday's appointment? I had to take my mother to the chiropodist.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you, that There for you crap was a stroke of genius.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Could you do me a favor? Um, when my friends call, could you not talk to them for too long?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Harold",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have. Funny, funny. In fact it was on TV just the other night. Happened to catch it.  I couldn't help notice a STUNNING similiarity--",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I knew this was gonna happen some day. It was inevitable. I've known it ever since I was a little kid. I've been waiting for it.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe he doesn't. Maybe he and I are exactly the same, except for one minor, yet crucial, detail. You never know.",
+      "characters": [
+        "Cop",
+        "Jerry",
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They, uh... said you were with some guy who was wearing a cape?...",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Jerry",
+        "Bonnie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

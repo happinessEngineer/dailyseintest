@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1128,
+  "date": "2028-02-04",
+  "questions": [
+    {
+      "quote": "Oh, man. Alright, listen. Just tell me something, what are you gonna say?",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, what are you gonna do? Are you gonna live here, or are you gonna move out, or what?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I like that! Hey look, will you do me a favor? Will you take my quilt into the cleaners for me, so I can get the discount too?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So you asked Mr. Seinfeld if he would wear your puffy shirt on the Today Show?",
+      "characters": [
+        "Bruce",
+        "Jerry",
+        "Hoyt",
+        "Elaine"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "George. It's the timeless art of seduction. You got to join in the dance. She sends you an enticing photo, you send her one right back.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Way off? Have you been to the motor vehicle bureau? It's like a leper colony down there.",
+      "characters": [
+        "Leo",
+        "Lippman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'd look again. So ah, how come you didn't call Jerry about all this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's from Finland, for crying out loud. Finland! Do you understand?!",
+      "characters": [
+        "Ed",
+        "Elaine",
+        "George",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "And that pinkie toe, come on . How adorable is the pinkie toe.",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do they take money? Everyone takes money. I used to go out with a guy who did it all the time, you just slip him 20 bucks.",
+      "characters": [
+        "Deena",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

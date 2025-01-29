@@ -1,0 +1,106 @@
+{
+  "gameNumber": 703,
+  "date": "2026-12-06",
+  "questions": [
+    {
+      "quote": "But you know... not in the building. Really, I feel terrible about this. My intentions were good. What can I do? Tell me.",
+      "characters": [
+        "Marla",
+        "Jerry",
+        "George",
+        "Detective"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, we've had it with you. Understand? We love you like a son, but even parents have limits.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Maybe you should call the airline, they might know where he is.",
+      "characters": [
+        "Marlene",
+        "Ethan",
+        "Elaine",
+        "Lois"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, not for me. A little too delightful. Well, George and Jane should be almost there by now.",
+      "characters": [
+        "Jerry",
+        "Gary",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, you not gonna go I?m not gonna go, I?m gonna call the whole thing off.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Hal"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't despair, my friend.  I won't allow your love to go unrequited. Not like mine.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, they are arranged according the price. And as I recall...",
+      "characters": [
+        "Clerk",
+        "George",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "I don't know it was weird. Crazy printing. I don't know who it was from.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, the woman I grew up with in Maryland, she moved here last year...",
+      "characters": [
+        "Darren",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, and you know what she told me? She said her first order of business is to put my coffee table book into the bookstores as soon as possible.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 427,
+  "date": "2026-03-05",
+  "questions": [
+    {
+      "quote": "Do you have any conceivable reason for even getting up in the morning?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because my cousin's imbecile dog was rolling around outside and they got in his carpet.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, even though you're not really going out with this guy, he's cheating on you?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You were completely right. I sleep so much better when I'm alone.  And you scream in your sleep.",
+      "characters": [
+        "Jerry",
+        "Emily",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Emily"
+    },
+    {
+      "quote": "Oh, you again. Buddy, look, forget about Jerry. It's not gonna happen.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, you overload your inventory and you blow your margins on gasoline. Trust me, it doesn't work.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, when I was a kid, we didn't have these elaborate birthday parties w-with catered food and entertainment. I remember my 7th birthday party...",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's an easy move: go from screwin' you behind your back to screwin' you right to your face.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is she doing? She's starting in on the bidding now?  Eighty-five hundred!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Conrad",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah. In fact I like the picture so much I cropped out the nipple and am using as my health club ID.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

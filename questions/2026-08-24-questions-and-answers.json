@@ -1,0 +1,106 @@
+{
+  "gameNumber": 599,
+  "date": "2026-08-24",
+  "questions": [
+    {
+      "quote": "Oh, Mrs Hamilton, this is a very bad time. I've got Valerie on the other line. Just a second.",
+      "characters": [
+        "Tim",
+        "George",
+        "Raymond",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry? I have to tell you something. This is the dullest moment I've ever experienced.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, she kinda calmed down. I talked to her today. In fact I'm gonna see her tonight.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Carrie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm afraid so. And that's just the tip of the iceberg. I've been asking around - they didn't even have any kids.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, your secretary faxed me the copy. Would you like to look it over?",
+      "characters": [
+        "Jerry",
+        "Julie",
+        "Elaine",
+        "Eva"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "\"Do not bend\".  Just crease, crumple, cram.. you'll do fine.  Hello?.. This is he. I don't understand.. very well.",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So I think we should just forget the whole deal, and go back to being friends.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "... Uh, go ahead, yeah.  Alright uh... Yeah, yeah, okay... I look forward to it too.  Eh, hah, okay. So long.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Ken"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh beautiful! Look at that, the dream space right in front of Jerry's building. Huh? Dreams can come true, what did I tell you?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Maryedith",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We don't have any feta. How about cottage cheese and Egg Beaters?",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

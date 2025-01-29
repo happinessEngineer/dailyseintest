@@ -1,0 +1,106 @@
+{
+  "gameNumber": 388,
+  "date": "2026-01-25",
+  "questions": [
+    {
+      "quote": "I was locked out of my apartment, I'm just trying to get my keys.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Levitan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But, unfortunately I will be out of town with my lady-friend and therefore unable to bid on the lot. I was hoping maybe you would go in my stead.",
+      "characters": [
+        "George",
+        "Jake",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "David, I'm going to hell! The worst place in the world! With devils and those caves and the ragged clothing! And the heat! My god, the heat! I mean, what do you think about all that?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I'll hold on. Hey George, did you see a piece of paper I had on the nightstand here, like crumpled up, like a napkin?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year.",
+      "characters": [
+        "Frank",
+        "Manny",
+        "Morgan",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I don't know. Once he leaves the building, he's out of my jurisdiction.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When you cough, there are thousands of unseen muscles that suddenly spring into action. It's like watching that fat guy catch a cannonball in his stomach in slow motion.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm going on record right now that that was my last kiss hello. I am getting off the kiss program with her.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well--Noreen listened to you like George's mother listened to the Chinese.",
+      "characters": [
+        "George",
+        "Darren",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, she lives right around the corner. You could take it here or go to the coffee shop.",
+      "characters": [
+        "Wendy",
+        "George",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

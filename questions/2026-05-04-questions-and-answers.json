@@ -1,0 +1,106 @@
+{
+  "gameNumber": 487,
+  "date": "2026-05-04",
+  "questions": [
+    {
+      "quote": "...yeah, my wife started getting on me about the lawn today. I'm tellin' you, it's one thing after another.",
+      "characters": [
+        "Elaine",
+        "Jodi",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Talk - call him from your house.  He's calling you now.. okay.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Nina",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why? It didn't mean anything. I was just trying to join in so you wouldn't feel embarrassed.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright. I just hope I can get it to the Friars Club before the show.",
+      "characters": [
+        "George",
+        "Bania",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great. Uh, you know what? Why don't you put it in the car so I don't toss it in that dumpster?",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you?  Lemme ask you something.  Where do you get your material?",
+      "characters": [
+        "Guy",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "You just had to go lookin' for it, didn't you? See, you hate it that I have a little secret. Anything I do -- oooh, oooh! -- you gotta know all about it. You're so OBSESSED with me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't wanna mix in everything! My guys don't know your guys. You can't just lock 'em all in the same machine together. They'll start a riot.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you ever see her lose her temper. I was once late cause I bought a Panama hat -- she grabbed it by the brim, pulled it down so hard my head came right through the top of it.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But wouldn't that be the ultimate comedian's revenge? I've always had a fantasy about doing that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

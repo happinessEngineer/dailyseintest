@@ -1,0 +1,106 @@
+{
+  "gameNumber": 956,
+  "date": "2027-08-16",
+  "questions": [
+    {
+      "quote": "You know what? You're right. These reports, they can wait a couple of hours. Whadda say we go out tonight? Any place you want.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well it can't be any worse than the pointless drivel we normally churn out.",
+      "characters": [
+        "Vivian",
+        "Hanke",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know what? This is all your mail. They're puttin' it in my box now.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello… yeah… yes it is… really… ah, ah… Could you hold on a second?  Hey listen to this, some woman found an electronic organizer, my name was in it, she wants me to help her track down the owner.",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you've only got another fifty years or so to go before it'll *all* be over...",
+      "characters": [
+        "Deena",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A matador! Well, well, well. Uno momento por favor. Pray tell, what was the young man's name?",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeahhh, am I imagining this?  Found this little cutie in the pocket.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes! Yes. You know. She didn't know about Pasteurization. He didn't know anout Fumigation. But they made it work!",
+      "characters": [
+        "Gary",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, for all I know this guy went out of his way to not invite you. How am I gonna feel if I show up with an uninvited, unwelcome intruder?",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? But, it's a little bit slow out there it rained last night.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "George",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
+    }
+  ]
+}

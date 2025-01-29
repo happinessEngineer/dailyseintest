@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1100,
+  "date": "2028-01-07",
+  "questions": [
+    {
+      "quote": "I don't know if you should sit for this or not. Sitting is good if you faint, but standing is good for jumping up and down. I can't decide.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Every time I turn on the TV, sirens are gonna go off. They're gonna track me down like a dog, I know it..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm going to call Gino, you're going to see him, and we're going to get that haircut fixed up.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Lanette"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Believe me, it is Milos great shame. But Jerry, I could lose my business if anybody find out. How would you like extra year membership of the club? Free. No charge.",
+      "characters": [
+        "Milos",
+        "Fred",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Yeah buddy. You really came through for me man. You've been so nice.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mickey",
+        "Gary"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Some guy. Some guy? Neil! I have got to find out how he could get a girl like Danielle.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about me? I was a total failure. Everything was fine. Now this thing's gonna be a success and God's gonna give me a terminal disease.",
+      "characters": [
+        "Elaine",
+        "Brett",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, I happen to know how much that watch cost. It's a sixty dollar watch, you paid forty to get it fixed. That's a hundred dollars. I'm offering you two hundred!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you know what you're like? You're like a pathetic gambler. You're one of those losers in Las Vegas who keeps thinking he's gonna come up with a way to win at blackjack.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Lou",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, it's not a problem, I can get rid of the apartment this afternoon.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

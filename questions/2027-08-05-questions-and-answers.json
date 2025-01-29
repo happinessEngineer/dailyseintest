@@ -1,0 +1,106 @@
+{
+  "gameNumber": 945,
+  "date": "2027-08-05",
+  "questions": [
+    {
+      "quote": "No, no, no, no. Borrowing money from a friend is like having sex. It just completely changes the relationship.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah.  Sit down there.  Hello, Jerry.  I believe you know Nina.",
+      "characters": [
+        "Joel",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The prophet Isaah tells us without friends our lives are empty and meaningless.",
+      "characters": [
+        "Sid",
+        "George",
+        "Rabbi",
+        "Kramer"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "A man is lying here unconscious and you're afraid of him? What kind of a man are you?",
+      "characters": [
+        "Gina",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "Well, I'm making out my will. Oh, I got a big slice of dough for you, buddy. And you too, Elaine, I haven't forgotten you.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Steve",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was hoping you know, that you might be interested in... changing teams?",
+      "characters": [
+        "Ned",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey! I hired you to work during the holidays. This is the holidays.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Manager",
+        "Jerry"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Well, I have a feeling that what you are about to go through is punishment enough. Dismissed.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Keith",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Kramer, my neighbor has a cat. When you blew the power, we must've shut off the automatic feeder.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Captain"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I was jumping over a puddle, and for some reason I went like this.  And they called me a Mary. So I chased them, and I tripped and I fell.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Marcy"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

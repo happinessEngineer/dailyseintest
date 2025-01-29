@@ -1,0 +1,106 @@
+{
+  "gameNumber": 908,
+  "date": "2027-06-29",
+  "questions": [
+    {
+      "quote": "Of course. But I really wanna leave my mark this time, you know, uh. I wanna walk away from the Yankees with people saying 'Wow! Now that guy got canned!'",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We all know that this relationship isn't working. So Allison an' I think that the best thing to do is just.. make a, clean break.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"What day is today?....Aw. ..Tuesday! Damn it. I shouldn't have worked out today. Mr Wilhem has called a big meeting and now I'm gonna be sweating through the whole thing.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Todd",
+        "Lanette"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "One of your guys - Kip, or Ned, short name - stole my Twix candy bar!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mike",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is this it? Is this how it ends? It can't- it can't end like this.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Guys, hitting is not about muscle. It's simple physics. Calculate the velocity, v, in relation to the trajectory, t, in which g, gravity, of course remains a constant.  It's not complicated.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The \"Jerry\"'s back on - the TV show! George and I are moving to California!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! Wait! Wait! Wait a second! Where you goin'? I-I hardly ever see you anymore.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it started out nicely: \"I'm returning some pants.\" A very identifiable problem..  \"I set of down a train tunnel.\"..  But that's where the story takes a most unappealing turn.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I thought the thing you said about the sex not being simulated . That was really funny.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Monica",
+        "Man"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

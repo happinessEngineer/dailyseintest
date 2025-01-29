@@ -1,0 +1,106 @@
+{
+  "gameNumber": 300,
+  "date": "2025-10-29",
+  "questions": [
+    {
+      "quote": "Yeah, yeah. I forgot all about it. Alright, it's no big deal. We'll just go back to your place.",
+      "characters": [
+        "Nina",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I found a better way to humiliate myself. There was this guy, and we had a few too many..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, sometimes people won't go in a place, if they don't see anyone else in there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Can I say one word to you? Lobster. The lobster here is unbelievable.  Ooh, a little expensive.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Tor",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't do this! I can't do it. I have tried. I'm here. It's impossible.",
+      "characters": [
+        "Elaine",
+        "Announcer",
+        "George",
+        "Ned"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no it's that guy. He's really been bugging me about the jacket.",
+      "characters": [
+        "Kramer",
+        "Mike",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, if you think I'm just going to step aside and do nothing while you defile this woman, you're crazy.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I wonder if, ah, Susan ...  No. I better just go.  heh. All right! See ya.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no, no. I can walk it off. It's a hundred and twenty degrees in here.. I'll sweat it out.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Audrey",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My fish are dying right in front of me! We have to get someone to drive us around the parking lot to help us look for the car.",
+      "characters": [
+        "Doorman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

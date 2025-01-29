@@ -1,0 +1,106 @@
+{
+  "gameNumber": 619,
+  "date": "2026-09-13",
+  "questions": [
+    {
+      "quote": "Oh right, right! The blue sweatpants! Gees, it's too bad you can't say anything because of Angela.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I've been thinking, why is Kramer getting twenty-five percent?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": ": \"Master of the house/Keeper of the inn...\"  This is huge! When did this happen?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'm a great clicker!  Great instincts. How dare you impune my clicking.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You? Wh...what're you doing here? You work at this building too?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So he gets out of the car, I say, \"Hey buddy! I saw you hit that car!\" So he says to me, \"What are ya gonna do about it?\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are there terrorists on the plane? A hotel fire. Is that it? Malaria? Yellow fever? Lupus? Is it Lupus?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's the stupidest idea I ever heard. Sentenced to be a butler.  Ping, what happened?",
+      "characters": [
+        "George",
+        "Bette",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah exactly. Anyway I've got to go over there and return it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

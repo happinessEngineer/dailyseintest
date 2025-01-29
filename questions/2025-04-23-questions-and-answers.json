@@ -1,0 +1,106 @@
+{
+  "gameNumber": 111,
+  "date": "2025-04-23",
+  "questions": [
+    {
+      "quote": "Well, we gotta get it washed ....Ah, the keys are locked inside!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I still like the Bloomingdale's executive training program for him.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Two hundred seats on a plane, I gotta wind up next to Yukon Jack and his dog Cujo. Shut up! One more day and you are pound bound!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Keith",
+        "Lamar"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What idea? I just said something. I didn't know you were going to listen to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Babs",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your order is ready. Three calzones and one shirt and jacket.",
+      "characters": [
+        "Elaine",
+        "Worker",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "*Fusilli* Jerry! It's made from Fusilli pasta. See the microphone?",
+      "characters": [
+        "Maura",
+        "Kramer",
+        "George",
+        "Maestro"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All you got is instant coffee? Why don't you get some real coffee?",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you think that's coming on a little too strong? .. Isn't that like a turn off?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've been doing a lot of thinking. This might be my chance to start giving something back.",
+      "characters": [
+        "Wendy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, the very fact that you oppose this makes me think I'm onto something.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Marla",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

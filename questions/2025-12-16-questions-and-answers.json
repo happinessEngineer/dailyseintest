@@ -1,0 +1,106 @@
+{
+  "gameNumber": 348,
+  "date": "2025-12-16",
+  "questions": [
+    {
+      "quote": "Speaking of ex's, my old boyfriend came over late last night, and, yada yada yada, anyway. I'm really tired today.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Marcy"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "Look Ramon, you're, you're a nice guy. But I, I actually only have three friends. I really can't handle any more.",
+      "characters": [
+        "George",
+        "Joe",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Blast! There's no way I can handle 8 in addition to my ususal load of one! I'll never get to Hawaii!  I'll be stuck in this apartment building forever!  The dream is dead.",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell you why. Because I believe Whatley converted to Judaism just for the jokes.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Babaloo, you better get home. You know this guy Bookman from the library he's waiting for ya.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, but, you see, I saved something! See? I can save. I'll see you at the pledge drive, ok?",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This guy makes the best soup in the city, Jerry. The best. You know what they call him? Soup Nazi.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Ladies and gentlemen, this  is Steven Koren. His G.P.A. is a solid 2.0! Right in that meaty part of the curve - not showing off, not falling behind.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So what, they don?t have another plane? She couldn't take a bus?",
+      "characters": [
+        "Beth",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You , you know what you should've done is watching that report on CNN last night.",
+      "characters": [
+        "Tim",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

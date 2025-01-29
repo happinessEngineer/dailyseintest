@@ -1,0 +1,106 @@
+{
+  "gameNumber": 289,
+  "date": "2025-10-18",
+  "questions": [
+    {
+      "quote": "People can drop change down here, Jerry. And they're too lazy to pick it up.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute, I know you. You're the guy from the Calvin Klein underwear ads.",
+      "characters": [
+        "Stu",
+        "Leo",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Well,you told me how familiar I looked and that you must have seen me somewhere before.",
+      "characters": [
+        "Elaine",
+        "Janet",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Janet"
+    },
+    {
+      "quote": "That is correct. But here's the beauty part - now I stand up for myself by telling everybody I'm dumping his sorry ass, and I'm the office-",
+      "characters": [
+        "George",
+        "Morty",
+        "Wilhelm",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, but um I have very good report with women, very good, comfortable. And from the first time I laid eyes on a brassieres, I was enthralled.",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I wanna tell you. This is one of the most thoughtful gifts anyone's ever given me.",
+      "characters": [
+        "Morty",
+        "Naomi",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I know, I know, but man! I never felt so alive! Now, are you coming with me?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Lippman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, and they come back with things taped to they're large intestine.",
+      "characters": [
+        "Greg",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not going for this, Kramer should go! It was all his idea!",
+      "characters": [
+        "Morty",
+        "Steinbrenner",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

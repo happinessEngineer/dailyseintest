@@ -1,0 +1,106 @@
+{
+  "gameNumber": 485,
+  "date": "2026-05-02",
+  "questions": [
+    {
+      "quote": "Yeah. They should make a movie about all the Hindenburg flights that made it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, A big salad. Very good. Actually it was too big. Ha ha ha Wht?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Gina",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, look. Jerry, you know the whole story, you should settle this.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Guy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, actually, it's kind of a funny story because she has this amazing toy collection and last night I finally got to play with them.",
+      "characters": [
+        "Cindy",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And so, for all these reasons, we are officially broken up.  Thank you,  and good night.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Melissa",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Rava was standing right next to me. I never told her where I got the statue.",
+      "characters": [
+        "Bob",
+        "Hanke",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Listen, it's really been a pleasure taking care of your dog for a week, but if you don't mind...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Beth, Arnie, it's Elaine. Um, thought you guys might wanna have lunch. Gimme a call. Bye.",
+      "characters": [
+        "Elaine",
+        "Rudy",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anna. I don't recall seeing you around the office. Do you work in the mail room?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Anna",
+        "Elaine"
+      ],
+      "correctAnswer": "Anna"
+    },
+    {
+      "quote": "Well, Mrs Hamilton, it's certainly nice that you and Valerie patched things up, so we could all get together like this. Where is Valerie?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

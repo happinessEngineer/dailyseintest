@@ -1,0 +1,106 @@
+{
+  "gameNumber": 79,
+  "date": "2025-03-22",
+  "questions": [
+    {
+      "quote": "Hey Bob. What's with you? You gotta problem?  You see that look he gave me?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Oh, was he? Was he? I guess the cable man doesn't like to be kept waiting.",
+      "characters": [
+        "Sandi",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The wall had just come down, and you told me you wanted to be part of the celebration.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Marla"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Tennis courts? W-w-what about the yard? Where do they have the gang fights?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Ethan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey you know this is the first time we've ever seen each other naked.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And you know what else? He picked up that woman in the coffee shop.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If I'm gettin' him a new fur, I'm not chippin' in on a gift, too.",
+      "characters": [
+        "Newman",
+        "Izzy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What the hell is this? \"George, Elaine and I went to see Chunnel ... with Jerry.\" With Jerry, huh? With Jerry! Great. Great!  Probably went to the 84th St. That's where I always go with Jerry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, she's the loser of the group. Every group has someone that they all make fun of.. Like us with Elaine.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I see what's going on in here. I am smack dab in the middle of a good old fashioned cat fight.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

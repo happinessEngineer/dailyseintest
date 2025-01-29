@@ -1,0 +1,106 @@
+{
+  "gameNumber": 823,
+  "date": "2027-04-05",
+  "questions": [
+    {
+      "quote": "Oh, by marriage.  We went to their wedding. You should have heard him talking about Chappaquiddick - trying to blame the whole thing on bad directions.",
+      "characters": [
+        "Marlene",
+        "Elaine",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't keep pecans in the house so I didn't think it'd be a problem.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Shelly"
+      ],
+      "correctAnswer": "Shelly"
+    },
+    {
+      "quote": "Well, sorry I missed that, uh, charity thing. But this was one of those truly glorious Hampton weekends that you always hear about.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, did I tell you I called one of those girls from the personal ads in The Daily Worker?",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh.. ah,  Oh, nothing - nothing.. No, I certainly don't have any stories, if that's what you're implying.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's so hard about that? How am I supposed to get it in there? I can't just walk in with it. I have to get the Rosses out of the apartment!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You wanna know what happened to Kramer? I'll tell you what happened to Kramer. He was ticked off. About the keys. Yeah, that's right - about the keys. Thought he got a bad rap.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Rabbi",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Actually, I was thinking of donating a large portion of it to charity.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Yeah! They isolate the muscles. The muscle has to grow....or die.\"",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh ho! Class, huh? At Columbia? Let me tell you something, pal. I called the registrar's office. I checked you out. They have no record of a Ray Thomas at that school! You liar!",
+      "characters": [
+        "Elaine",
+        "Kate",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

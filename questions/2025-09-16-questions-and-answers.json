@@ -1,0 +1,106 @@
+{
+  "gameNumber": 257,
+  "date": "2025-09-16",
+  "questions": [
+    {
+      "quote": "Did you feel that tension? We use to have banter -  - there's no more banter.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think if one's going to kill oneself, the least you could do is leave a note. It's common courtesy. I don't know. That's just the way I was brought up.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I, would, I would wait on that. I know how you feel but. Juries today, you never know how they're going to look at a thing like this.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Captain"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh I got in, I had to break the window with a rock and then I got my hand all cut up reaching in.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "The extent of the damage would have been far less severe had paramedics been able to reach him sooner.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright if you think it's too much they don't have to mail the postcards.",
+      "characters": [
+        "Morty",
+        "Wendy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no! It *can't* be! I shampoo'ed! I rinsed! I repeated!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. But I'd like to try that earpiece on, see if it's real.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah yeah, I have to. I'm your fiancé, Peter Von Nostrand.",
+      "characters": [
+        "Tim",
+        "Helen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I'm staining my floors, y'know, I don't want to get my hands dirty...",
+      "characters": [
+        "Kramer",
+        "Todd",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

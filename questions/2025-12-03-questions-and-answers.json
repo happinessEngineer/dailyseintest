@@ -1,0 +1,106 @@
+{
+  "gameNumber": 335,
+  "date": "2025-12-03",
+  "questions": [
+    {
+      "quote": "Anything you wish. I'll tell you a little secret about zip codes: They're meaningless!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Busboys are always changing jobs. That's the business. I know. I work with these guys. I tallk to them in the kitchen at the comedy clubs.",
+      "characters": [
+        "Kramer",
+        "Babu",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry wake up to reality. It's a military thing. They're probably creating a whole army of pig warriors.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Estelle",
+        "Harold"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, the quailifications for this scholarship were suppose to be.. largely academic.",
+      "characters": [
+        "Aaron",
+        "George",
+        "Jerry",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Wait a second! I never baited a hook with a rye before. Your hook is too small. This is for, like, a muffin. All right. Take it away.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Attendant",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why should she like me? Who am I? Huh, there's a million people to like.",
+      "characters": [
+        "Maryedith",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, Lloyd, I-I've been to the doctor  there's really nothing they can do.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's serving Mexican, Italian, Chinese. He's all over the place. That's why no one's going in.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, are you crazy? It's a traumatic thing to be thrown up on.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, sometimes those guys don't make it back.  I'm really hungry.",
+      "characters": [
+        "Frank",
+        "Woman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

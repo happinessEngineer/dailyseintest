@@ -1,0 +1,106 @@
+{
+  "gameNumber": 706,
+  "date": "2026-12-09",
+  "questions": [
+    {
+      "quote": "Yeah, I probably have. Yeah, of course I have. What am I talking about?",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe I lost the deposit on that U-Haul. And I threw out my couch.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Noreen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, they haven't even arrested him yet. Come on, let's go out.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Margaret"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "Mr. Pensky. I was just working on your file. I was transferring the contents of the file into this flexible accordion-style folder.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Audrey",
+        "Carrie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Want, want? What could I possibly want? Uh, I just came because I, I heard so many nice things about you from George.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, my vacation just started. I need a day or two to de-compress. Besides, I did plenty today.",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay.. well, I guess I'm just going to have to take matters into my own hands, huh?  Alright, I'll see you guys.",
+      "characters": [
+        "Jeannie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see . You see. You see what I'm talking about. It's all just slipping away. And you're letting it happen.",
+      "characters": [
+        "Bob",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What? Two animal acts on the same show?  What is this, amateur hour? Look, George, I'm sorry, maybe another time, all right?",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We got a tip that a lot of prostitutes had been turning tricks in the parking lot.",
+      "characters": [
+        "Detective",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Detective"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 643,
+  "date": "2026-10-07",
+  "questions": [
+    {
+      "quote": "Alright, maybe it is, but listen, I gotta get ready - Sidra's coming over in a few minutes, so if you don't mind...",
+      "characters": [
+        "Kramer",
+        "Emily",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "An Alan Mercer called for you. He said he's sorry, but he won't be able to make it tonight.  He's been stabbed.",
+      "characters": [
+        "Waiter",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "Oh, Peterman ran off to Burma, and now he wants me to run the catalog.",
+      "characters": [
+        "George",
+        "Patrice",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Awright, let's see. How about Mug?  Mug Costanza, that's original.  Or uh, Ketchup? Pretty name for a girl.",
+      "characters": [
+        "Marla",
+        "Kramer",
+        "Greg",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, this is perfect. I need you to go in there, pretend you're a doctor and check this guy for moles.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Valerie",
+        "David"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mr. Peterman, you have my deepest sympathies. Unfortunately, I've gotta get going.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Jerry, I been thinkin'. I've gotten as far as I can go with George Costanza.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kevin",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So now you want an apology for the apology, plus the original apology?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's normal.  Excuse me, sir. Could I have a look at that business section?",
+      "characters": [
+        "Jerry",
+        "Joe",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, I know.  Listen, Jerry, I can't let you come to my New Year's party.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

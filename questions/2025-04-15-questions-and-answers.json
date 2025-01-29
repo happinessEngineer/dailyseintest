@@ -1,0 +1,106 @@
+{
+  "gameNumber": 103,
+  "date": "2025-04-15",
+  "questions": [
+    {
+      "quote": "You know we should really order, the service is so slow here, by the time you get anything...",
+      "characters": [
+        "Bob",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Jerry! How are ya? I thought you were going to the movies.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Good for you! What kind of a sick lowlife would do a thing like that? You know those people, you know they're mentally disturbed.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "'Cause I'm an idiot! You may think you're an idiot, but with all due respect, I'm a much bigger idiot than you are.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Jerry, what was the name of the exterminator who fumigated your apartment when you had fleas?",
+      "characters": [
+        "Kramer",
+        "Buckles",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, he's got a real horse face.  Here, look at this! It's the guy with the dog!  Hey! Hey! You down there! Remember me? I had to get shot because of your stupid dog!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, there's much you don't understand about the Jewish religion. For example, did you know that rabbis are allowed to date?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Hey, uh, before you go, did you talk to Newman about getting that mail outta there?",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I love these pastries. You know, in Scandinavian mythology, the pastries were the food of the gods.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Yes! You don't understand. I'm living with Ethel Merman without the talent.",
+      "characters": [
+        "Poppie",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

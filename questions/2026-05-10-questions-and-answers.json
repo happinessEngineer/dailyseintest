@@ -1,0 +1,106 @@
+{
+  "gameNumber": 493,
+  "date": "2026-05-10",
+  "questions": [
+    {
+      "quote": "I can't stand Joe Mayo's parties. You know, the second you walk in, he's got you workin' for him. 'Hey, can you do me a favor? Can you keep an eye on the ice, make sure we have enough?' Uh...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Before we go any further, I'd just like to point out how disturbing it is that you equate eating a block of cheese with some sort of bachelor paradise.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "…kissed me. We both had tears streaming down our faces. I never saw anyone so beautiful. It was at that moment that I decided to tell her that, I was not a marine biologist.",
+      "characters": [
+        "Ralph",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, I really like this girl and I, you know, I think if I could just work out this one thing...",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No? Listen Morty you wanna settle up for last night?  All right. I owe you 19.45$ .",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "So you work all day as a doorman at one building. Then you come home and stand outside your own building?",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "Kramer",
+        "Haarwood"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uncle Leo! I just met an old acquaintance of yours.  You remember Buddy. He just told me quite a story about you and Grandpa at the track.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm used to a 1200 mile buffer zone. I can't handle this. Plus I got the dinners, I got the pop ins. They pop in! It's brutal!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Nurse",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The only thing I can think of is I told her we should have those moving walkways all over the city.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Owner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe no one noticed it. You didn't notice it. Let me go get Newman. We'll see if he sees it.",
+      "characters": [
+        "Jerry",
+        "Keith",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

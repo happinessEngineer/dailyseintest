@@ -1,0 +1,106 @@
+{
+  "gameNumber": 951,
+  "date": "2027-08-11",
+  "questions": [
+    {
+      "quote": "Uh, JFK. [To Elaine] I need some small bills for a tip. You got anything?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Celia",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great, great. So anytime you want you can just visualize her naked.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Lanette",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We have a bonus reality stop today. We will be hauling muffin stumps to the local repository.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Believe it or not, George, isn't at home, please leave a mes-saaage at the beep. I must be out or I'd pick up the pho-one. Where could I be? Believe it or not, I'm not hooome.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I hate rental cars. Nothin' ever works: the window doesn't work, the radio doesn't work... and it smells like a cheap hooker... [pause] Or is that you?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But, I - I didn't know what she was talking about. I couldn't hear her!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "One second... Well, if it would make you feel better I could speak to Dr. Whatley. I have to go back and have a wisdom teeth removed.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Seth",
+        "Father"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "Why should I be uncomfortable just because my apartment is closer to town hall than yours?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you were in the mafia, would you tell her every time you killed someone?",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

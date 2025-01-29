@@ -1,0 +1,106 @@
+{
+  "gameNumber": 807,
+  "date": "2027-03-20",
+  "questions": [
+    {
+      "quote": "alright I changed my mind, uh yeah I don't think I'm not gonna go now",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me tell you this: there is no way cousin Jeffrey is dating Amy. He looks like a horse!",
+      "characters": [
+        "Ray",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Right. So why I'm the one who gets 'reer'. You know I mean they were being as catty as I was. It's a double standard.",
+      "characters": [
+        "Elaine",
+        "Naomi",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We were expecting about two hundred people...Well...Thank you , thank you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, she's taking this course in education for her masters. It's part of her research project, so I have to be a guinea pig.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Audrey",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's just that I was the one who actually paid for the big salad. She just happened to hand it to you. But it's no big deal.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, are you still on this? I've seen gymnasts. I know what they do. It's not going to make any difference.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Poppie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, the face-painting auto mechanic. So she's dating him again, huh?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Cindy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh oh oh, so a Maestro tells you to put a balm on and you do it?",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Oh, yeah, that's right. Those new kitchen cabinets. How is that coming?",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "Ramon",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

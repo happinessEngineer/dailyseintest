@@ -1,0 +1,106 @@
+{
+  "gameNumber": 421,
+  "date": "2026-02-27",
+  "questions": [
+    {
+      "quote": "I'd be happy to get you some if that's what you're driving at.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Brett",
+        "Jerry"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "He can't hear you, you idiot. Why don't you just buy another one.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, trust me, that one was doing more harm than good. Don't forget to use the Plax too.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, come on, you can come up with something better than that.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "Karen",
+        "George"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "The cops? What are you calling the cops for? They?re not going to do anything!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How 'bout this one? How 'bout, 'Your cranium called. It's got some space to rent.'?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ho ho ho ho A racing car set! Those are assembled in Tai Wan by kids like you. And these Coleman pigs, they sell it at triple the cost.",
+      "characters": [
+        "Michael",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, I'll tell him I got it on the street, and maybe it's hot. That's his favorite.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So she's giving me the massage and I'm just making conversation.",
+      "characters": [
+        "Ned",
+        "Elaine",
+        "Sophie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The girls for poker night. You know, Joanne, Renee, Winona...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

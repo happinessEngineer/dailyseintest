@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1147,
+  "date": "2028-02-23",
+  "questions": [
+    {
+      "quote": "Alright, two hundred, but that's as high as I can go. I really think you're being unreasonable here!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sally",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look Hubert. It's the mailman. You remember the mailman don't you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See, there you go again. What is the difference what I think?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wonder how Susan's father's going to react to this. Alright, what- what's the worst he could do? So you burn a cabin down..",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, listen to me. Listen! This is a once in a lifetime opportunity.  Your dreams have been shattered, somebody's got to be held accountable. Come on, we'll take for every penny she's got!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I didn't tell you to have a hot dog. Who told you to have a hot dog?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right . . . . I once found a hair in my Farina and I freaked out.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tony",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright. Next thing on the agenda, the restoration of the fence at the Briarwood gate. At the present time, we are still accepting bids.",
+      "characters": [
+        "Fdr",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, I know, but... \"Moland\"? I wouldn't drink anything called \"Moland\".",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think you're getting a little pudding under the skin yourself.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

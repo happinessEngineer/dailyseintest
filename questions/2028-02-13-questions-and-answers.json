@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1137,
+  "date": "2028-02-13",
+  "questions": [
+    {
+      "quote": "Oh, I am sorry.  I'm supposed to meet my boyfriend here. He looks just like you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Danielle"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "That's the Commando 450, I don't sell that one. What about thi-",
+      "characters": [
+        "George",
+        "Morgan",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Well, that's great.  And, uh, I'll be very interested to hear the diagnosis.",
+      "characters": [
+        "Cop",
+        "Lloyd",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Well you know, if you were sitting right next to her you'd have to console her no matter what.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, ah, I'll tell you, uh Regis... actually, this is a true story. I umm I was skiing at the time.",
+      "characters": [
+        "Saleswoman",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what I mean - pork, sausage,  A-deek-a-deek-a- deek th-th-th-that's all folks.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "yeah without a doubt, I'm down  oh hey how're you doing? Jane this is my neighbor Kramer",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm going to surprise Joey, I?ve never been to his apartment so I?m just going to 'pop in'",
+      "characters": [
+        "Marcy",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you're not gonna cop a girl's phone number off an AIDS charity list!",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why, because I threw the card out? How long was I supposed to save it?",
+      "characters": [
+        "Elaine",
+        "Wyck",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 820,
+  "date": "2027-04-02",
+  "questions": [
+    {
+      "quote": "Oh Gosh! None of this would never have happened if you wouldn't have said 'God bless you'!",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If you wanna live in a butcher shop, I'm gonna treat you like a piece of meat.",
+      "characters": [
+        "Izzy",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "What, are you kidding?  The knuckles are all out of proportion. you got hair over there - where do you get off comparing your hands to my hands?! This is a one-in-a-million hand.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, what about you? You told me that you were engaged. What was the rest of that?",
+      "characters": [
+        "George",
+        "Salesman",
+        "Jerry",
+        "Marcy"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "Jerry? I have an announcement. Your grandmother is on the line.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen. Let me ask you something. If you and Mona were ever to... dance, how do you decide who leads? I mean... do you take turns? Do you discuss it beforehand? How does that work?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you see what it says here? Don't you understand what that's implying?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, don't worry. We'll get you home to your husband real soon.",
+      "characters": [
+        "Lena",
+        "Elaine",
+        "Darryl",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no, no, no-no--I don't want any pay. I'm doin' this just for me.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no no no no - we have to be in California next week. We're starting a TV show.",
+      "characters": [
+        "George",
+        "Waitress",
+        "Donald",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

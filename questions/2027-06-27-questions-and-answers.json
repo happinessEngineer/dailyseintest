@@ -1,0 +1,106 @@
+{
+  "gameNumber": 906,
+  "date": "2027-06-27",
+  "questions": [
+    {
+      "quote": "What am I going to do now? I can't live without Susan. I gotta get her back. How? How, am I gonna get her back?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Noreen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, it's like the feeling is palpable. You think it could have something to do with the party?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The best in the world.  Which means I'm better than just number one.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Why did you tell this crazy guy that Kramer didn't invite him to his party?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kimbrough",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[mockingly] \"Please hurry\". Look at you. Look at what you've become.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wow. That's great! When it comes out, I'll have to get someone to ghost read it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Manager"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My father left us when I was 9 so I guess that is why i have such a fear of abandonment.",
+      "characters": [
+        "Michael",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well this is not like a park bench where you just come in and sit down. It's a business.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, I want my money back for this suit. You're nancy-boy cream leaked all over the pockets -- Suits ruined.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    }
+  ]
+}

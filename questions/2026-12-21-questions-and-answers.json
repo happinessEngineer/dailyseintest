@@ -1,0 +1,106 @@
+{
+  "gameNumber": 718,
+  "date": "2026-12-21",
+  "questions": [
+    {
+      "quote": "Y'know what it is? It's \"Clara Nightingale Syndrome.\"  He falls ill; she falls in love.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Steven",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Oh yeah! Jimmy couldn't jump at all before he got these. Jimmy was like you",
+      "characters": [
+        "Jimmy",
+        "Newman",
+        "Testikov",
+        "George"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "Hey. Hey Elaine, what do you say if neither of us is married in ten years, we get hitched?",
+      "characters": [
+        "Kramer",
+        "Jake",
+        "Frank",
+        "Worker"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I hope Carlitto feels better. Ben really wishes he could've helped.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, baby. I set the trends. Who do you think started this whole Café Latte?",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Jerry",
+        "Donald"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He went crazy from one note. He couldn't get it out of his head. I think it was an A. He kept repeating it over and over again. He had to be institutionalized.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bonnie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ya and also I'm afraid that people in that state are finally going to tell me what they really think of me. You know they got nothing to lose what do they care?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had to use the bathroom, so I asked this guy to watch the door for a few minutes.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Doorman"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "It doesn't matter. You'll fix it later. Tell me about your girlfriend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Dana"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "Jerry, you don't understand, that?s the way they talk in Italy, they sing to one another. Kramer starts to sing in bad Italian.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 337,
+  "date": "2025-12-05",
+  "questions": [
+    {
+      "quote": "all right let's be reasonable, Bania. I'm taking you out for a nice dinner. All I want is a little ticket in that pocket. I think it's a pretty good deal.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Kevin",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You've got to stop it. Your your all hopped up on the caffein.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no, no, no. This man is not insane. Now there's nothing wrong with it or you.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "My name is George. I'm unemployed and I live with my parents.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It drove itself into the swamp! Besides, I think I lost my pen, too.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "I don't want free coffee. It's not hard to get coffee. I can get my own",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "They guy's in my house right now.  What a mistake that party was, I never should have gone.",
+      "characters": [
+        "George",
+        "Harold",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right. I was looking for something different. Something that would have people talking at the water coolers.",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "I'll tell you what that is - that's a violation of club rules. Now I got him! And you're my witness!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, bread is his soul. He's trying to buy back a loaf of his soul.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

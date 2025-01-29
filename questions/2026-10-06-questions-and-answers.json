@@ -1,0 +1,106 @@
+{
+  "gameNumber": 642,
+  "date": "2026-10-06",
+  "questions": [
+    {
+      "quote": "Stop it, stop it! It's not fair. It's not fair. I don't like this situation, Jerry. I don't like it one bit.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Leslie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Remember when we were in the bookstore, that woman came up to us?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Testikov"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Exactly, but they're on there – waiting. She said she can't wait to see me, we're having dinner tonight. She's supposed to call me as soon as she gets home.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Robin",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, maybe in Korean \"dog\" isn't an insult. Could be like the word \"fox\" to us. Oh, she's a DOG!",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Gail",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, it's tarragon. Hey Kramer, I'm sorry about that whole fight we had about you having my apartment keys and everything.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute. Wait a minute. As long as you're going to lie to the guy, why don't you tell him that you lost both of the tickets, then we can go?",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I couldn't, his cab pulled away. But he did, however, make an impression on me.  Look.",
+      "characters": [
+        "Kramer",
+        "Kruger",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, they ran out of it. Manhattan can be quite pricey. Even with fifty thousand yen.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, I'll be lying on an X-Ray table with my wallet in my mouth.",
+      "characters": [
+        "Morty",
+        "George",
+        "Gennice",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No, no, I don't want it back.  Are you gonna watch the Knick game tonight?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 512,
+  "date": "2026-05-29",
+  "questions": [
+    {
+      "quote": "The box of raisinettes runs up to the concession stand, buys another box of raisinettes.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well thanks to you and your little comment there to David and Beth. Jerry and I are in prime pouncing position to scoop these two up  before they know what hit em.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ahh! This is very much as I imagined it to be. Aside from this rattan piece, which seems oddly out of place.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Don't fill up on the bread. I'm making you a very special dinner. Very special.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "I just wanted to stop by -- see if you had any questions about tomorrow's operation.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "What the hell are you doing here, aren't you supposed to be at work?!?",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, look at this.  This doesn't belong here! Someone has made a terrible mistake.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. All right. You don't know what your missing. I'm loving this Jerry. I am never putting on another piece of clothing unless it's straight out of the dryer.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wednesday? That's your personal business?!  Skiing?!  So let people suffer, while you're shushing all over a mountain?",
+      "characters": [
+        "George",
+        "Man",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think if you go down the hall, it's on the right at the very end.",
+      "characters": [
+        "Stu",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Stu"
+    }
+  ]
+}

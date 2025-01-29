@@ -1,0 +1,106 @@
+{
+  "gameNumber": 339,
+  "date": "2025-12-07",
+  "questions": [
+    {
+      "quote": "You know, you're nuts with these sponges. George is gettin' frustrated!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, you don't think I can attract beautiful, intelligent women?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Rita"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, all right, all right! I'll give him the discount, just put that thing away! This squares us.",
+      "characters": [
+        "Newman",
+        "Dwayne",
+        "Katya",
+        "Jerry"
+      ],
+      "correctAnswer": "Dwayne"
+    },
+    {
+      "quote": "So, it's actually gotten to you? You're playing right into his hands!",
+      "characters": [
+        "Marcy",
+        "Elaine",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey that's life. Good-looking men have the same advantages. You don't see any handsome homeless.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, one minute you say they're fake, the next minute you think they're real...I don't know what to believe!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "At least that's what Jerry says. Now face it. If it hasn't happen it's not gonna happen. All right, we go grab some bouffe . Join us?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Julianna",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah. But what about money? Are you strapped? Do you need a little?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, all right. All right you go ahead. You go ahead and keep it secret. But you remember this. When you control the mail, you control... information.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I always get myself in this position. Can't be on time. Gotta rush.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

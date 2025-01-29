@@ -1,0 +1,106 @@
+{
+  "gameNumber": 581,
+  "date": "2026-08-06",
+  "questions": [
+    {
+      "quote": "...uh, Jerry, I think he broke my toe.  W-Where're you going?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, is he still mad at you for crashing his Thanksgiving party?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, obviously, we all know each other very well,  I'm sure that we'll all feel comfortable within the confines of the honor system.",
+      "characters": [
+        "Gavin",
+        "Puddy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. Okay. So he'll just think that the two of you didn't sit with him on purpose. Ooh yeah, that's very nice. Very nice.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, let's go. We don't have much time before the meeting.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nevermind. Disgraceful. Leaves you sitting there on the kitchen floor like some kind of roach trap. Wham, bam, thank you ma'am. Sir, whatever. She's not going to get away with this.",
+      "characters": [
+        "Jerry",
+        "Ray",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George...but if I ask him now, I will have no chance of going out with him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, actually my parents are over, but, would you like to meet them?",
+      "characters": [
+        "Maura",
+        "Jerry",
+        "George",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "More Pledge! I just bought two cans last week and I don't even have any wood in the house!",
+      "characters": [
+        "Saleswoman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, karate is not here . It's here , and here , and here .",
+      "characters": [
+        "Patrice",
+        "Puddy",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

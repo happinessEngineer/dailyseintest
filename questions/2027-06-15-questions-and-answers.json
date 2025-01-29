@@ -1,0 +1,106 @@
+{
+  "gameNumber": 894,
+  "date": "2027-06-15",
+  "questions": [
+    {
+      "quote": "Yeah, well, I lost them all in the fire!  Hey, George, maybe you can ask Susan's father for more, huh?",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, an eighteen-wheeler's no good. Too much overhead. You got permits, weigh-stations, tolls... Look, you're way outta your league.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You shut up!  I demand a recess so I can take him outside and help him regain hius composure.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, Franklin Delano Romanowski.  I go to his birthday part, and just before he blew out his candles, he gives me this look..",
+      "characters": [
+        "Clerk",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, well that's all the time we have for today. Why don't we pick up with this next week?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Vote for Kramer.  Cosmo Kramer. I'm running for condo president. I'd like your vote. Thanks.  Remember, ma'am, a vote for me, is a vote for Kramer.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah Yeah I split a case with Newman..I waited all year for this.. Oooh this is fantastic.. Makes your taste buds come alive....It's like having a circus in your mouth.....Take a taste",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Oh, hi, hi. Hi. Nice to meet you.  What're you having, veal?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Jerry, he could have used your laugh. He was a big turkey out there.",
+      "characters": [
+        "Frank",
+        "Dana",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

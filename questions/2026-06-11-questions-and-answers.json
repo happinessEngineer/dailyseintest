@@ -1,0 +1,106 @@
+{
+  "gameNumber": 525,
+  "date": "2026-06-11",
+  "questions": [
+    {
+      "quote": "Uh, you know, why don't you go first, you just had a long trip.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhh, Jerry, I've got a lot goin' on with, uh, Lippman right now.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, Stu here started telling me about a show, \"Jerry\", that he developed five years ago.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "Well, you know the important thing is that you learned something.",
+      "characters": [
+        "Kramer",
+        "Harold",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well actually um, I do have a bill here. If you could just sign, this expense form, I think I could still make the last fan boat out of here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Dirt? That's alright,  because there's nothing wrong with dirt.",
+      "characters": [
+        "Elaine",
+        "Kruger",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe I'll go visit my mother. She just bought me some new panties  and they're - all laid out for me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but...  you don't want to go to... that... no.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, Wilhelm, listen to me. I want the stadium scoured. He could be bleeding to death in the bullpen.",
+      "characters": [
+        "Steinbrenner",
+        "Woman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I mean, she thought it was kind of strange to just order a salad. . . . You know. . . . For a man.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Milos",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

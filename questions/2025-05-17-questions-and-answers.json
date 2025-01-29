@@ -1,0 +1,106 @@
+{
+  "gameNumber": 135,
+  "date": "2025-05-17",
+  "questions": [
+    {
+      "quote": "I know he once went from West 81st Street to Kennedy Airport in 25 minutes.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, this is what ya gotta do: I need ya to go out to the parking lot at Yankee Stadium, take the flyers off my car.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where the cartoon candy's dancing and the Milk Dud's playing the banjo?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well my buddy works in an appliance store and he got us thirty percent off.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now! Now, George! Turn on the faucet! George, turn on the faucet! Hoochie mama! Hoochie mama! Hoochie mamamaaaaa!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Donald",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, take you for example. Now, you're very attractive, but you got a big waist.",
+      "characters": [
+        "Kramer",
+        "Meryl",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well it's been quite a night I could sure use a cup of coffee.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Elaine. George, when momma said 'Bosco' she must have been trying to communicate something, a legacy, a dying wish perhaps.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Alright, there you go. She's gonna get the jacket back.  So, let's go get some coffee, huh?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah.  Not that I care, one way or the other, but these doctors today really do amazing things, you know, if you were so inclined. And again, I'm not suggesting.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

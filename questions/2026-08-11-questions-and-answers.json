@@ -1,0 +1,106 @@
+{
+  "gameNumber": 586,
+  "date": "2026-08-11",
+  "questions": [
+    {
+      "quote": "Oh, no. No. No. No. No. Nothing. I'm fine. Everything's fine. Fine. Just get a little nervous on the weekends, that's all. Could I, uh, could I get a glass of water?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You could pet them. They come right out of the water onto the sidewalks.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Todd",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I may not say this enough but you two are about the best friends a guy could have.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Kevin",
+        "Jackie"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "Yes, about how you're very jealous of George. How you wished it was you who were getting married instead of him.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should've seen her face. It was the exact same look my father gave me when I told him I wanted to be a ventriloquist.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The cable? No, no, no. I'm having a party here. You can't do this now!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know why I let you talk me into that corned beef at Snitzer's.",
+      "characters": [
+        "Ethan",
+        "Enzo",
+        "Kramer",
+        "Todd"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She thinks I'm a nice guy. Women always think I'm nice, but women don't nice.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sure I have a low IQ. I've been lying about my SAT scores for 15 years.",
+      "characters": [
+        "Cynthia",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't think I know how you're feeling, every second of the day? Looking over your shoulder to see if someone's coming up from behind. Sitting alone at night, knowing they could be closing in.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

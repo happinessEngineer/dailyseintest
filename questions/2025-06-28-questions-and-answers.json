@@ -1,0 +1,106 @@
+{
+  "gameNumber": 177,
+  "date": "2025-06-28",
+  "questions": [
+    {
+      "quote": "Well, what kind of a kiss? Was it a peck? Was it a kiss? Was it a long make out thing?",
+      "characters": [
+        "George",
+        "Sally",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's right...We just had sex......You know Jerry I've been searching for someone a long time. Well the search is over.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, not nervous. I'm good, very good.  I can't do this! Can't do this!",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, not fan talk, not gushing, you know? Actual conversation, I was incredibly articulate!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You never run out, do you?  Where's Kramer? Everything's finished here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is-is that what I said 'no story'? Because Jerry had to tell me later.",
+      "characters": [
+        "Frank",
+        "Abby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, where is the guy?!... Nothing?! Almost half my money's gone... Well, call me right back.  Nobody can reach Wilkinson. He hasn't been home or in his office in the past three days!",
+      "characters": [
+        "Jake",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. I have to be very careful here. I don't want to send the wrong message. Especially after the other night.",
+      "characters": [
+        "Jerry",
+        "Craig",
+        "Elaine",
+        "Stan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're close, you're on the green. You just have to go for the cup.",
+      "characters": [
+        "Frank",
+        "George",
+        "Newman",
+        "Stan"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "That's exquisite. Listen, uh, if it's not too much trouble, could you pass me that paper over there?",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

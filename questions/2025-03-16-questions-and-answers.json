@@ -1,0 +1,106 @@
+{
+  "gameNumber": 73,
+  "date": "2025-03-16",
+  "questions": [
+    {
+      "quote": "Hey! So what's the deal with brunch, I mean that if it's a combination of breakfast and lunch. How comes there's no lupper or no linner.",
+      "characters": [
+        "Jeannie",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "I took over his route. And boy, were there a lot of dogs on that route.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, what about my hands? I don't see how your hands are any better than my hands.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but you're supposed to be a compassionate person! That cares about poor people! You look like you're gonna.. swing in on a chandelier!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah, yeah, I'm fine, I'm fine.  Hey, we made the paper. Eh? Look at this- page 2, sports section... we're all in the picture.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did you see the way she pointed at the check? She gave me the finger.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No.  But I did run into somebody you might be interested in, a Mr. Jon Voight, the actor?",
+      "characters": [
+        "Keith",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, you're like Rosa Parks. You opened the door for all of us. I can't wait till the next time someone heckles me.",
+      "characters": [
+        "Ronnie",
+        "Elaine",
+        "Betsy",
+        "George"
+      ],
+      "correctAnswer": "Ronnie"
+    },
+    {
+      "quote": "It is a horrible company. There's no management what so ever. I could go hog wild in there.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, the way you were wolfing down that popcorn, maybe you ate it.",
+      "characters": [
+        "Jerry",
+        "Joe",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

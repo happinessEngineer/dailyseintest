@@ -1,0 +1,106 @@
+{
+  "gameNumber": 9,
+  "date": "2025-01-11",
+  "questions": [
+    {
+      "quote": "If you guys wouldn't mind, I would like to ward off dementia.",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "Jackie",
+        "Vanessa"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's going on? You're the man of the hour, That's what's going on.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's the romance of the Handsome Cab without the guilt or dander of the equine.",
+      "characters": [
+        "Newman",
+        "Vivian",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, a coffee table book about coffee tables!  How did you come up with this idea?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "I still don't see why you wouldn't eat me. I'm your best friend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Betsy",
+        "Haarwood"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you know, all you guys ever do is sit around the coffee shop talking, sit around Jerry's apartment talking. Frankly, I don't know how you can stand it. I'll see you.",
+      "characters": [
+        "Susan",
+        "George",
+        "Nina",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": ". He's good. He's *very* good. He worked on this kid from Guatemala with no nose. Turned him into Ricardo Montalban.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Kate",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no, no, no. Because I'm picturing 'French Connection', kind of thing. You know? Sort of a Popeye Doyle chase through the city!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now see, this is what the holidays are all about. Three buddies, sitting around, chewing gum, huh? Mmm, mmm, yeah. So uh, you know, Lloyd, he thinks he can get more of this.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, I was wondering, would it be okay if I turned your room into a billiard parlor?",
+      "characters": [
+        "George",
+        "Frank",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

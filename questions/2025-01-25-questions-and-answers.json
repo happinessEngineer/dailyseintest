@@ -1,0 +1,106 @@
+{
+  "gameNumber": 23,
+  "date": "2025-01-25",
+  "questions": [
+    {
+      "quote": "All this? This whole thing? It's going to take me forty-five minutes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Let's see..  oh, those are nice. You know, I've never noticed this before? They're smooth.. creamy.. delicate, yet  masculine.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, computers, they're cracking down now on overdue books. The whole thing is completely ridiculous.",
+      "characters": [
+        "Elaine",
+        "Joyce",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, you know what? My friend Judy recommended me for a job at Viking Press.",
+      "characters": [
+        "George",
+        "Maestro",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know that coat was Gore-Tex. It's worth a hell of a lot more than that, cheap Chardonnay.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why not? They could have met. She loves the park, he works for the Parks Department.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me see those.  Oh! I know the chunky that left these Chunkies......NEWMAN!!! I've got him.",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Jerry",
+        "Corinne"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's Jerry, you don't have to worry about him. Why don't you go across the hall and get started on that mail.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Peterman",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And then when I come out of the pool, my towel's always gone.",
+      "characters": [
+        "Meryl",
+        "Leo",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just love meeting new people. You know that's how you really do learn about life.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Cop",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

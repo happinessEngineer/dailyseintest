@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1034,
+  "date": "2027-11-02",
+  "questions": [
+    {
+      "quote": "...Well, actually uh, we're uh, we're not friends Uh, we're uh, we're much more than friends...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, suddenly I'm in the mood for pasta primavera myself.",
+      "characters": [
+        "George",
+        "Audrey",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The story is the foundation of all entertainment. You must have a good story otherwise it's just masturbation.",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I have a general idea what it was. I could take a guess.",
+      "characters": [
+        "Silvio",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, now. It's gonna take a few days and my parents are gonna be back. I gotta have it back before them!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a minute, wait a minute. Kramer, Kramer... Hold on a second. I don't get this. This woman has *never* been with a man her *entire* life--",
+      "characters": [
+        "Brett",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I get the feeling when lesbians are looking at me, they're thinking: \"That's why I'm not heterosexual\".",
+      "characters": [
+        "George",
+        "Jerry",
+        "Patrice",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "you know I hate to tell you this, but it's time to defrost that freezer",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Steve"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you should always consider podiatry.  There's nothing wrong with the feet.",
+      "characters": [
+        "Tim",
+        "George",
+        "Pitt",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I need someone to go with me to Mr. Lippman's son's Bar Mitzvah.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Marcy",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

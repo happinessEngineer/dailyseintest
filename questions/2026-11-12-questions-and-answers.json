@@ -1,0 +1,106 @@
+{
+  "gameNumber": 679,
+  "date": "2026-11-12",
+  "questions": [
+    {
+      "quote": "He was at a carnival with his mother. She goes to get a hot dog, next thing you know she turns around, boom, he's gone.",
+      "characters": [
+        "Newman",
+        "Kate",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, when my father was black listed he couldn't work for years. He and his friends used to sit at Hop Sing's every day figuring out how to survive.",
+      "characters": [
+        "Joel",
+        "Ned",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Ned"
+    },
+    {
+      "quote": "Would you hold it a second?! Thank you, will you get out of here with that stuff?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what you should do? You should tell this guy you're seeing  somebody else. That's the easiest way to get out of these things.",
+      "characters": [
+        "Morty",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, alright. Look, Jerry, we gotta get down to PBS, PDQ.",
+      "characters": [
+        "Vandelay",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey Marge, you see those two people over there? They think I'm talking to you, so you pretend like you're talking to me, okay now you start talking.",
+      "characters": [
+        "Bonnie",
+        "Kramer",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, n--Well, you know, I wore 'em for about a month but I couldn't stick with it. No, I need the secure packaging of Jockeys.  My boys need a house!",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see, there's this certain flounder and they won't deliver it to my side of the street.",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, right, right, and on the cover is a built-in coaster.  Alright, well I'm gonna go.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It is the van! Don't you remember, we always talked about how cool it would be to have a van and just drive?",
+      "characters": [
+        "Frankie",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Frankie"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 209,
+  "date": "2025-07-30",
+  "questions": [
+    {
+      "quote": "Oh, you're getting together with some of your jackass friends, and you want me to take notes?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well because I meet a lot of women in this jacket, you know they're attracted to it. I mean why do you think my mother went out with him?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Leo",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, we're still going, we're still going. Elaine, do the spokes model.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why don't we just throw a Molotov cocktail through their window?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sure you'll have another fight, George.   Hold that thought!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jake"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We come up with all these stupid reasons to break up with these women.",
+      "characters": [
+        "Newman",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've been waiting a while for this. You know it's a shame Tony got all banged up, we're not gonna be able to get together on Saturday night",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I know what I'm talking about. I gotta be honest with you, I gotta tell ya... Ever since I saw you holding hands with that woman, I can't get you out of my mind.",
+      "characters": [
+        "Lamar",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you know what a balm is? Have you ever seen a balm? Didn't you read the instructions?",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Well, also, Jerry, we read an article in the Sun Sentinel.  It says standup comedy is not what it used to be, what with def jam and all.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Joel",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 784,
+  "date": "2027-02-25",
+  "questions": [
+    {
+      "quote": "Maybe his dogs heard about how you tried to kidnap that other dog. These muts like to gossip. So have you talked too Holly?",
+      "characters": [
+        "David",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, he came by to pick up his check for the banquet hall. You know I got a hundred and eighty-three responses? Oh, it's gonna be a rager.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Maestro",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh listen, guess what? Cheryl convinced Ping to drop the case against me.",
+      "characters": [
+        "Elaine",
+        "Tia",
+        "George",
+        "Russell"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer, how are you gonna cook Jewish delicacies for a hundred and eighty-three people?",
+      "characters": [
+        "Wyck",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't say? You know I have boxes of those sitting in my garage in Florida?",
+      "characters": [
+        "Willie",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, well, listen. If you're going there,  maybe you can get him to tell you where he got those glasses.  Elaine!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The guy that stole my glasses. This time I got 'em!  Would you pick it up a little?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What person who runs an antique store gets involved in people's lives?",
+      "characters": [
+        "Hal",
+        "Toby",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So am I. What about my feelings? Don't my feelings count for anything? Oh, only the poor monkey's important. Everything has to be done for the monkey! Look, I'm sorry. I--",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Roy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, if I ask her out again - I don't know who's showing up: The good, the bad, or the ugly.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

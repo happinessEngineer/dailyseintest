@@ -1,0 +1,106 @@
+{
+  "gameNumber": 139,
+  "date": "2025-05-21",
+  "questions": [
+    {
+      "quote": "W--then I'm pretty much where I am now. At least I got to take a ride on a spaceship.",
+      "characters": [
+        "George",
+        "Susan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't think I had to. Look with a piece of Tupperware you just assume.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How could you do that to Mr Mandelbaum? You should be ashamed of yourself.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Because I relate to George through you, we're like friends-in-law. Besides, you said we were gonna see Prognosis Negative together. Can't you just put some newspapers down or something?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jack",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, you do everything, get me job, you get me a place to live in your building.",
+      "characters": [
+        "Tom",
+        "Elaine",
+        "George",
+        "Babu"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "No, I don't know. Maybe you haven't. You know, not everybody's seen a massage table.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't give out bites. I got another one. But I'm saving it for later.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, why would the guy make up something like that? Of all the names he could pick, why settle on Jon Voight?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait till you see it, it's perfect. The guy told me it's one of a kind, they stopped making it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Naomi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ahh! Ahh! So YOU got the scotch tape! I've been looking all over for it!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

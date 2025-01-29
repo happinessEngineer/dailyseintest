@@ -1,0 +1,106 @@
+{
+  "gameNumber": 935,
+  "date": "2027-07-26",
+  "questions": [
+    {
+      "quote": "Ha ha ha ha. Yeah, well, I'll tell you, she's a full-figured gal.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, that restaurant on top of the Chrysler building? Yeah, that's a good idea.",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So get this. Peterman has his henchmen forcefully eject me from the book signing like I'm some kind of a maniac.",
+      "characters": [
+        "George",
+        "Marty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, I just saw a pig man! A pig man! Ya know he was sleeping and then he woke up and he looked up at me an-and he made this horrible sound, this .",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what's going on? First, he vomits on me. Then, he burns down my father's cabin. And now, he's taken Mona away from me.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Jerry, you gotta give him some credit.  You're just being totally ridiculous.  I'll see you later buddy.",
+      "characters": [
+        "Kramer",
+        "Ned",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Um, well, his false teeth got mangled up in the garbage disposal--",
+      "characters": [
+        "Elaine",
+        "Aaron",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's exactly what I'm worried about. God would never let me be successful. He'd kill me first. He'd never let me be happy.",
+      "characters": [
+        "Vanessa",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So... we're the only women on the floor. I mean, we're like roommates. Would-would you use a seat protector if you had a roommate?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you. All right, look at all this stuff. What are we getting'?",
+      "characters": [
+        "Doorman",
+        "Jerry",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

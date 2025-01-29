@@ -1,0 +1,106 @@
+{
+  "gameNumber": 998,
+  "date": "2027-09-27",
+  "questions": [
+    {
+      "quote": "Don't worry, he'll be here. Look, we only got about two hours. We just need to come up with one good story so we can get through this meeting.  There's your food.",
+      "characters": [
+        "Elaine",
+        "Bookman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you what, if pig-man shows up, we'll squeeze him in. I'll see you later.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's the second time you said \"personal favor\". Why do you keep saying that?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Salesman"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Mary Contardi. No? Doesn't ring a bell, Jerry? We had a date, three years ago. You took me to one of your shows.",
+      "characters": [
+        "Mary",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "It's fine. Anyway, it's been really nice dating you for a while. And uh good luck!",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you're as pretty as any of them, you just need a nose job.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Is this a waste of time? What should we be doing? Can't you have coffee with people?",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You see? We were made for each other.  It's amazing. If I reach out and touch her breast right not, she'd scream and throw me out of the car. But at this time tomorrow, I could touch it all I want.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got a bottle of scotch my uncle gave me. It's Hennigans. It's been here for two years. I've been using it as a paint thinner.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh-m, uh I'm so sorry Roy, but actually, we are going to the, Poconos on Friday, right honey?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "Karen"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

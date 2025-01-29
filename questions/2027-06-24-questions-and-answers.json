@@ -1,0 +1,106 @@
+{
+  "gameNumber": 903,
+  "date": "2027-06-24",
+  "questions": [
+    {
+      "quote": "This is the letter she wrote to me, she stole it right from the movie!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Guy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, after I have sex with Emily, uh, I don't want her in the bed any more.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know the Maestro didn't tell you to take it, he wasn't there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Steinbrenner",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Ah, you've selected ... Brown-Eyed Girl? If this is correct, press one.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Receptionist",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "'Kay. I'll uh, I'll see you later. Anybody want some tomatoes?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think there's ever been an appointment in my life where I wanted the other guy to show up.  Wait a second, is that him?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'Cause believe me, I would only say this to you and maybe a psychiatrist, maybe. Well, her nose is a little big.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "In five minutes. He's then going to pick us up, then we're going to pick up Elaine, and Laura is going to meet us there.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Attendant"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're not goin to do it? What do you mean, You're not goin to do it?",
+      "characters": [
+        "Elaine",
+        "Wendy",
+        "George",
+        "Steve"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tsk. Well, I can guess within the hour, and I don't even have to look at the sun.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

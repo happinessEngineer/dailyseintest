@@ -1,0 +1,106 @@
+{
+  "gameNumber": 542,
+  "date": "2026-06-28",
+  "questions": [
+    {
+      "quote": "Yeah, so he says if Little Jerry Seinfeld wins, the check comes down.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morgan",
+        "Gary"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. So what's going on? We're gonna shoot the pilot and then it's gonna be on TV the following week?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. you'd be a damn fool to change it. It's very becoming.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I feel terrible about your friend Jerry. He's upset that I gave Kramer that chest of drawers, isn't he?",
+      "characters": [
+        "Darryl",
+        "Brett",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "Who told you to put the cheese on? Did I tell you to put the cheese on? I didn't tell you to put the cheese on.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kate",
+        "Chiles"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "Listen to me. You don't tell anybody about this. No one. You hear me?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Roy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maura, I, uh- I want you to know... I-I've given this a lot of thought. I'm sorry, but... we, uh, we have to break up.",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The shirt you got on under your sweather. It sits for three weeks in your drawer, waiting to come out. and when it finally does . It sticks up only half an inch out of your collar.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "Yeah, yeah, yeah. It's in the vault. I'm putting it in the vault.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Gavin",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nananeena, Ladadeeda, laadadeeda, saadina.... Laadadeeda sa saadina",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Babu",
+        "Susan"
+      ],
+      "correctAnswer": "Babu"
+    }
+  ]
+}

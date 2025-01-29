@@ -1,0 +1,106 @@
+{
+  "gameNumber": 389,
+  "date": "2026-01-26",
+  "questions": [
+    {
+      "quote": "Please, if he's found guilty, please be kind to him. He's a good boy.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "It strikes me a lot of guys are doing that kind of humor now.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Nina",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But the reservation keeps the car here. That's why you have the reservation.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe it's not even stupidity. Maybe it's just a blatant disregard for basic human decency. Yeah this how dictator's start. Do you think Mussolini would circle the block six times looking for a spot?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Poppie, I was just curious...where do you stand on the abortion issue?",
+      "characters": [
+        "George",
+        "Rava",
+        "Donna",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Erika is gonna meet me here, now we're gonna find out the truth",
+      "characters": [
+        "Kramer",
+        "George",
+        "Father",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I caught him urinating in the shower. I'm thinking about turning him in, too.",
+      "characters": [
+        "Greg",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "Oh, you missed it, buddy - lot of femininas - some major femininas",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, let me ask you a question. How come you asked Mr. and Mrs. Seinfeld to go to the museum with you?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Betsy",
+        "David"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's an incredible deal. I don't know why you don't come with me.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

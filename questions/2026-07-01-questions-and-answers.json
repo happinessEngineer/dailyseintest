@@ -1,0 +1,106 @@
+{
+  "gameNumber": 545,
+  "date": "2026-07-01",
+  "questions": [
+    {
+      "quote": "Kramer, I think perhaps you've overlooked one of the key aspects of this activity. It's ball *boys*, not ball men. There are no ball men.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, sports are so pedestrian. I've prepared some science experiments that will illuminate the mind and dazzle the eye.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would I want to see what Mary Todd wore to Lincoln's funeral?",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, well I trust things are moving smoothly. Mr Steinbrenner's counting on you, you know.",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "All right, well, then what if we become a couple, George? Every time we see you you're going to be walking around going like this?  Even you can't keep that up.",
+      "characters": [
+        "Elaine",
+        "Cynthia",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "48 years, Mom! And now we have to close! All because of that idiot and his bloody nose!",
+      "characters": [
+        "Pop",
+        "Ray",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "Pop"
+    },
+    {
+      "quote": "I would like to know what my name's doin in this creep's organizer to begin with.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why not? Pay is good. I got dental, private access to one of the great handicapped toilets in the city.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He is just in his own world when he hears that song. It's like, I'm sitting there in the car, and he's.. out riding fences.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I I ..put a lot of thought into this and I think I would like you to sign a prenuptual agreement.",
+      "characters": [
+        "Sid",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

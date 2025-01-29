@@ -1,0 +1,106 @@
+{
+  "gameNumber": 632,
+  "date": "2026-09-26",
+  "questions": [
+    {
+      "quote": "Well, if you can't tell Susan about it, then there's something wrong.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Stan",
+        "Tony"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "well I need mine  oh god loot at the time, I gotta get to work",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Jane"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "All right, first of all, I want to apologize for all the phone calls. It's just--It's just--  I don't understand, we went out once...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Do you have to do that? Jerry, don't do that, that is so annoying.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You sure you want to do this? I'm going to be on the road for three weeks!",
+      "characters": [
+        "Kruger",
+        "Cheryl",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And they made it their sign, because, Van Buren, our 8th President, was the man they most admired.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Wyck",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah.  That would really blow his mind. He's always wanted one, his whole life, he's never been able to afford it.  I'm gonna do it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have no medical evidence to back me up but, something happened during the operation that staved off that infection. Something beyond science. Something perhaps, from above...",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Are you sure you didn't hear my car making a funny noise? I know those two idiots did something to it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, man. Well, I guess you'll be going back to that hospital.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

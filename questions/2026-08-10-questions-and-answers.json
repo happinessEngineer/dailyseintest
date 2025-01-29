@@ -1,0 +1,106 @@
+{
+  "gameNumber": 585,
+  "date": "2026-08-10",
+  "questions": [
+    {
+      "quote": "Ah, Jerry! Tonight you in for a real treat. I'm personnaly going to prepare the dinner for you and my Audrey.",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Oh. Well, would you look at that.  I guess I forgot to lock it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Helena"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I had the perfect situation here, he was shouldering half the load.",
+      "characters": [
+        "Keith",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I guess as an airline pilot, you're one of the few people who can say that and mean it.  Um, do you have the time?",
+      "characters": [
+        "Russell",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Dr, Allenwood, uh...I was hoping to compile an - admittedly, rudimentary - scrapbook of her life. Something that Betsy could have, and hold onto.",
+      "characters": [
+        "Fred",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I'm gonna keep these here too, huh? They'll be alright.",
+      "characters": [
+        "Gary",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, have you ever taken a bath in the dark? If I'm not talking into the soap right now, call me back.",
+      "characters": [
+        "Marlene",
+        "Sophie",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Marlene"
+    },
+    {
+      "quote": "This judge has to use it for some scofflaw. And you know you can't fight City Hall.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Gary",
+        "George"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "All right, you guys listen, I've got to wait here for Elaine, I'll meet you in front of the theatre.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Wendy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was betrayed! That kid was like a son to me. And if there's one person you should be able to hold down, it's your own flesh and blood. Like my father.. my father's father before him.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

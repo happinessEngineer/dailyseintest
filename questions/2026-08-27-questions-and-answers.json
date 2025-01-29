@@ -1,0 +1,106 @@
+{
+  "gameNumber": 602,
+  "date": "2026-08-27",
+  "questions": [
+    {
+      "quote": "The doc called and said the lab's backed up and now I'm not gonna get the results for another two days.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, I think I'm on the outs with Brett. I got shushed during Desperado.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes. In Chinatown with the money I earned cleaning people's apartments.",
+      "characters": [
+        "Ray",
+        "Elaine",
+        "Helen",
+        "Gennice"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "...It was all a terrible misunderstanding, sir. Just five minutes. Just five minutes of your time.  Thank you! Thank you, Mister Dalrimple.",
+      "characters": [
+        "George",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh boy. There's Sue Ellen. She didn't want me at this wedding, but here I am with a bunch of my idiot friends!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I look like me and I'm working from the outside.  Who do you think is in the better position?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cars can go on empty, but not us humans, huh, fella? I'll get us a couple of Twix bars.",
+      "characters": [
+        "Jerry",
+        "Rava",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do the Chinese have to gain by faking a cure for baldness?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, I'm sorry. I'm afraid the worst of it is it's someone you know. Jerry Persheck.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Daphne"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Because, if I'm looking straight ahead, and something enters my field of vision, that's merely a happenstance.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Deena",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

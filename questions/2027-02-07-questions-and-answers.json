@@ -1,0 +1,106 @@
+{
+  "gameNumber": 766,
+  "date": "2027-02-07",
+  "questions": [
+    {
+      "quote": "Well, Mr Seinfeld, I..I'm not sure I understand why you want a job here.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Sidra"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So when are we gonna see this baby? When is the momentous event?",
+      "characters": [
+        "Jane",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Like if she wants to know if I'm pleased with something, she'll say, \"Happy, Pappy?\"",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you just joked yourself right out of that commercial, didn't you, munjamba?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, I don't have time to explain every little thing to you.",
+      "characters": [
+        "Chiles",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Saving lives? The whole profession is; eh, just put some aloe on it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, payroll. Yes I did. Very productive. Payroll... Paid off.",
+      "characters": [
+        "Kramer",
+        "Jimmy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I'm sitting over there waiting for you to finish your sandwich for twenty minutes. Now you're drinking coffee, that's gonna be another ten minutes.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. She wouldn't say anything. She just kept shaking her head like this",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Didn't you tell 'em I got the bill of sale? That proves I paid for it.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

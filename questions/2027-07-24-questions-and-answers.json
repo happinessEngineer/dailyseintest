@@ -1,0 +1,106 @@
+{
+  "gameNumber": 933,
+  "date": "2027-07-24",
+  "questions": [
+    {
+      "quote": "This is so exciting! Look, I have goosebumps!  Touch! Touch them!  I've never been to a comedy club before!",
+      "characters": [
+        "Meryl",
+        "George",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "No, that's what I thought but apparently it's just a big piece of plastic dividing the room.",
+      "characters": [
+        "George",
+        "Brett",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, hey, listen, by the way, have you seen a tall... lanky... doofus, with a, with a bird-face and hair like the Bride of Frankenstein?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Using your touch-tone keypad, please enter the first three letters of the movie title, now.",
+      "characters": [
+        "Kramer",
+        "Russell",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Tell you what. If they win the penant I'll sit naked with you at the World Series.",
+      "characters": [
+        "Carol",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Jerry, they're Japanese. I mean, that TV you watch, that sushi you eat, I mean, even that kimono you wear. Where to you think all that money goes, hmm?",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's great! It speeds up the intimacy level. It's like putting the relationship in a time compressor. Where we would be six months from now we accomplish  three days.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lena",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ladies and gentlemen, could I direct your attention to the center ring, where the incomparable Misha will balance ten stories above the circus floor on a wire no wider than a human thumb.",
+      "characters": [
+        "George",
+        "Announcer",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "You know a friend of my father's used to live right around here.  Mike Wichter.  He sold plastic straws.  You know the ones?  You could bend them.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, hey, hey! It's not Lupe's fault, you shouldn't have left it out.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Wyck",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 437,
+  "date": "2026-03-15",
+  "questions": [
+    {
+      "quote": "Simple. You let out one emotion, all the rest will come with it. It's like Endora's box.",
+      "characters": [
+        "Bania",
+        "Alec",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Shut up. Shut up!  Hello? No, who's calling? Oh my god, the dog guy. Where have *you* been? Yeah, well you better pick up your dog tonight or he has humped his last leg.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Such a long story, Cynthia, seriously, I mean he just had some problems at work.",
+      "characters": [
+        "Jerry",
+        "Ray",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sorry if I caused any trouble. I was just being friendly.",
+      "characters": [
+        "Jodi",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "God, there are still people who have trouble with an interracial couple.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "So... uh you feel okay about that whole thing... what we do in there... you're generally okay with everything in there?",
+      "characters": [
+        "Laura",
+        "Elaine",
+        "George",
+        "Doorman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "[realizing the only way out is to show the stub] I've got the stub.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I worked a club in Dallas one time and they couldn't afford to pay me so they gave me these. Oh, I can't wear these!  They look ridiculous!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Abby",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what happened to you yesterday? We were supposed to go to the auto show, I waited for you, you never came.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you want to watch, sit down. You're making me nervous. I tell you this Scissorhands is a hell of a barber.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 575,
+  "date": "2026-07-31",
+  "questions": [
+    {
+      "quote": "Come on ,c'mon i need to taste it. .....Nothin' , Can't even taste a Macanaw.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Gina"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They'll make you a \"Big Salad.\" What do you think, they're the only one's that make a \"Big Salad\"?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a minute! Wait a minute! I need my massages! Can't you see I'm burned out!",
+      "characters": [
+        "Kramer",
+        "Father",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No depravity! I mean, I look at her, I can't imagine she even has sex.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Marcy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I think I'm a little bit scared of her. She's five-three, like a hundred pounds. I'm frightened to death of her.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Doctor",
+        "Aaron"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know... I don't know. Five thousand... let me just take one more look at it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"...tootsie, good-bye. Too-too, tootsie...\"  You call this coffee?",
+      "characters": [
+        "George",
+        "Sid",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, and when I see freaks in the street I never, ever stare at them. Yet, I'm careful not to look away, see, because I want to make the freaks feel comfortable.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Bankruptcy, bankruptcy...as in I've taken your money and spent it on drugs!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ramon",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "As I said, it'll be different once we design something specifically for you. But I don't think your friend here is being very helpful.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 844,
+  "date": "2027-04-26",
+  "questions": [
+    {
+      "quote": "The next thing you know, he'll have you driving him to the airport..",
+      "characters": [
+        "Jerry",
+        "Vivian",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, she is nice. I like her, I like her Jerry. She's got substance. She oozes substance.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No no no, I don't have time right now. I'll catch you tonight, we'll do sort of an all over kind of thing, all right?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, great. All right, with the wine I'm in over twenty dollars now.",
+      "characters": [
+        "Melissa",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sorry buddy, this is the \"Hamlet\" of diseases. Severe pain, nausea, delusions, it's got everything.",
+      "characters": [
+        "Kruger",
+        "Kramer",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "\"That's the guy who took the bread out of Jimmy's mouth. Jimmy's out of work because of you..",
+      "characters": [
+        "Rick",
+        "Morty",
+        "Jimmy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "Thirty years ago, we came to an agreement. It was the only way I could get some rest.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "They should update these pieces, nobody rides horses anymore. Maybe they should change it to a tractor.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I-I-I don't like the opera. What are they singing for? Who sings? You got something to say, say it!",
+      "characters": [
+        "Kramer",
+        "Waiter",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These seats are fantastic. It was really nice of Mr Peterman to give us these tickets.",
+      "characters": [
+        "George",
+        "Bob",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Bob"
+    }
+  ]
+}

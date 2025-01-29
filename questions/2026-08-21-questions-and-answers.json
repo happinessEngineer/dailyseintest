@@ -1,0 +1,106 @@
+{
+  "gameNumber": 596,
+  "date": "2026-08-21",
+  "questions": [
+    {
+      "quote": "I'm all for awkward pauses. Fix me up with her.. Wait a minute, Nina just saw me in my Timberlands! Now I have to wear them every time I see her.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your friend and I are going to make a lot of money. Of course, I already have a lot of money. Poppie does very well...very well.",
+      "characters": [
+        "Elaine",
+        "Poppie",
+        "Babs",
+        "Jerry"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Nicole Millers, We're not expecting any Nicole Millers, in fact we have too many as it is.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Don't you see what's goin' on here???... No boxers, no Jockeys...",
+      "characters": [
+        "Nina",
+        "George",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, they can't find the problem. It's really getting ridicurous.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Donna",
+        "Elaine"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "you would not believe what just happened to me in the bathroom",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jane",
+        "Jerry"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Hum, a cologne that smells like the beach. I can't believe I'm saying this, \"That's not a bad idea.\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A limousine has just pulled up it's being surrounded by a huge group of protestors, this has the makings of a very ugly scene.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Jodi"
+    },
+    {
+      "quote": "My name is George Steinbrenner, I'm afraid I have some very sad new about your son.",
+      "characters": [
+        "Steinbrenner",
+        "Man",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Alright, alright! We'll buy her a wheelchair! Wheelchairs, engagement presents.. IT NEVER ENDS!",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

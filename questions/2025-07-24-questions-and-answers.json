@@ -1,0 +1,106 @@
+{
+  "gameNumber": 203,
+  "date": "2025-07-24",
+  "questions": [
+    {
+      "quote": "\"Just one....gotta go back.....Oh but get this. Elaine, you will appreciate this. I'm sitting in Tim Whatley's waiting room...He's got a Penthouse right out on the table.\"",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, she's loaded.  She's the heiress to the O'Henry candy bar fortune.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It cannot not be funny! Now come on, let's stay with it, we gotta finish this today.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, just standing there with a box, holding it by the little string.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I got that root canal tomorrow morning. It'll be easier if I go home.",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm here to clean the carpets. Most of the world is carpeted. And, one day, we will do the cleaning.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "They just don't know what street to take. You remember that time I got us to Yankee Stadium in rush hour in fifteen minutes?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I think so, and I can prove it. You see, I was doodling on the bill and uh, so if you have a twenty in there with big lips on it... well,  that's mine. Would you mind opening up the register?",
+      "characters": [
+        "George",
+        "Izzy",
+        "Steve",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, it isn't!  it's not true. You're a wonderful, wonderful boy. Everybody likes you. It's impossible not to like you. Impossible. Morty?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Your name's Benes, your hair, and you kept taking me to those Spanish restaurants.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Darryl",
+        "Farkus"
+      ],
+      "correctAnswer": "Darryl"
+    }
+  ]
+}

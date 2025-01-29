@@ -1,0 +1,106 @@
+{
+  "gameNumber": 433,
+  "date": "2026-03-11",
+  "questions": [
+    {
+      "quote": "I think my last time was in Rochester. My hair was a lot shorter.",
+      "characters": [
+        "Waitress",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Eight hours of jingle belling and ho ho hoing. Boy, I am ho'd out.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now, George, you don't have to cover for him any more. He's going to be gone soon and I'm going to recommend you for his job.",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Oh, I get all jazzed up about something and I go way to far with it.",
+      "characters": [
+        "Kevin",
+        "Kramer",
+        "Karen",
+        "George"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "How can I do this? How can I move back in with those people? Please, tell me. They're insane. You know that.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "People with guns don't understand. That's why they get guns. Too many misunderstandings.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi.  I was running late and I didn't have a chance to drop off my stuff before I came over.",
+      "characters": [
+        "Poppie",
+        "Jodi",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jodi"
+    },
+    {
+      "quote": "Hi, I was just uh... I just had one little question about uh, my assignment.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Patty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen to this. Marcy comes up and she tells me her ex-boyfriend was over late last night, and \"yada yada yada, I'm really tired today.\" You don't think she yada yada'd sex.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jimmy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I spent two hundred dollars on a racquet because I thought you knew what you were talking about.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Harold",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

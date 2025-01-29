@@ -1,0 +1,106 @@
+{
+  "gameNumber": 628,
+  "date": "2026-09-22",
+  "questions": [
+    {
+      "quote": ". Well So fine then ..then I don't want it and then that's why I'm returning it",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why even try anymore? There's no sense to it. I'm never gonna meet anybody, I should just accept it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Helena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm excited. Oh, you're going to love this cabin. My grandfather built it in 1947. It's it's incredible.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Russell",
+        "Sophie"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Huh, strawberries, anyone?  Ah, that's good. Ooh, juicy this time of year.",
+      "characters": [
+        "Noel",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'Had to come in' and 'maybe we'll get together'? 'Had to' and 'maybe'?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Suzie. Call Dr. Bison. Set up an appointment for Mr. Kramer here. Tell him it's from me.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Y'know the funny thing is, I was attracted to you immediately.",
+      "characters": [
+        "Sharon",
+        "Elaine",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Sharon"
+    },
+    {
+      "quote": "Regulation table, the hi-fi, maybe even a bar.. Give it real authenticity..",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ah, look, I..I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.",
+      "characters": [
+        "Donald",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Manager"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

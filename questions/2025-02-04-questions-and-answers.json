@@ -1,0 +1,106 @@
+{
+  "gameNumber": 33,
+  "date": "2025-02-04",
+  "questions": [
+    {
+      "quote": "Look, if we're gonna stay here until all hours of the night, can we at least get some food here?",
+      "characters": [
+        "George",
+        "Morty",
+        "Chiles",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You have some kind of problem here? What is it you not understanding? We taking the armoire and that's all there is to it. Okay?",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Elaine",
+        "Jodi"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "How about this, you put your car in the good spot, that'll hold the good spot in front of the good building, and we can get the good car!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jake",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. Look at this. I'm in the passing lane of the Arthur Berkhardt expressway, going seventy and  Dragged this thing for five exits.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I *love* the Drake! I'm looking forward to meeting the Drakette!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now, I should tell you… that, at this point, she's under the impression that you're - a - ah…",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Vivian",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, yes, that's true, but then I was taken to the Bell's Palsy Center in, in, in, in Rockford. Absolutely first, first rate facility, top notch physicians.",
+      "characters": [
+        "Gavin",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "Fire! Whoa! There's a lot of major chicks in this place, huh?  Something wrong with your arm?",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Poppie",
+        "Kramer"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "That's David Letterman. I just saw David Letterman walk by. I'll be right back.",
+      "characters": [
+        "Detective",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, Vanessa, of course the market fluctuates. Everybody knows that. I just got fluctuated out of four thousand dollars!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

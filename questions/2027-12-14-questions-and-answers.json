@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1076,
+  "date": "2027-12-14",
+  "questions": [
+    {
+      "quote": "Well, my friend Jay Reimenschneider eats horse all the time. He gets it from his butcher.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, but I know I've seen cake just like that. Oh--Entenmann's. Yeah.",
+      "characters": [
+        "Rudy",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...Well, I suppose I could,  but I'd have to shift a few things around, uhm... Hold on for a second, will you? Uh...",
+      "characters": [
+        "Kramer",
+        "Waiter",
+        "George",
+        "Mary"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's stuck.  Oww! The steam from the hot-tub musta warped the wood.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[pause] Would I like to come up? I would love to come up. I, I'm fighting not to. Fighting! Unfortunately I uh have to get an early start tomorrow. Gotta' get up and hit that pavement",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look-it. It's not Suze. All right? It's Su-zie. My name, is Su-zie!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know what the problem is - I like her too much. That's why I can't make a move.",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought you saw that before. How come you're watching that again?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "And here's your check.  Thank you very much.  It was an honor.",
+      "characters": [
+        "George",
+        "Morty",
+        "Saleswoman",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Ah, what kind of a man are you? The guy is unconscious in a coma and you don't have the guts to kiss his girlfriend?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Gary"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

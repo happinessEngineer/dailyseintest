@@ -1,0 +1,106 @@
+{
+  "gameNumber": 597,
+  "date": "2026-08-22",
+  "questions": [
+    {
+      "quote": "Yeah, I grabbed it on the way out, I don't want my mother reading it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Milos",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah. He'd hold national security meetings in there. He planned the Hanoi bombing after a bad Thai meal.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Julianna",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I lived with him for forty years, I never saw him trying on my underwear. As soon as he leaves the house, he turns into J. Edgar Hoover!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rabbi",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "My censor quit two years ago. He checked into a clinic. Emotionally exhausted.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, if you two are meant to be together...I'm sure the cops'll pick her up on something.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Ade"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll pay you for your time....I just ..I just need some information . How much do you want? ten....fifteen? You have change for twenty?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I can see that. What do you have to do that for? Who cares about your pants size?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, I'll just take the fire escape to get in and out of the building.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wonder what happened to my fiancé.  I know he's here somewhere. Ellen?  Have you seen my fiancé?",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Alright, this one is about 8 years old. Not a scratch on it, it was owned by some lady who only used it to go from the bathroom to the kitchen and to feed her cat.",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    }
+  ]
+}

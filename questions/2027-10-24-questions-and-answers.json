@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1025,
+  "date": "2027-10-24",
+  "questions": [
+    {
+      "quote": "Uh, well, you know, a coffee grinder is nice. Or a coffee maker. Everyone likes coffee. Anything to do with coffee. Maybe you should go get some coffee.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Over here. I thought that was you. You're Jerry's friend, right?",
+      "characters": [
+        "Elaine",
+        "Christie",
+        "Jerry",
+        "Hanke"
+      ],
+      "correctAnswer": "Christie"
+    },
+    {
+      "quote": "So this ah, woman you plan on hiring, is she going to be in the \"Spokes model\" category?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, listen, so we'll meet you and Susan at the movie tonight?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aw, okay.  Yeah, I need his shoeshine kit.  He always hides it from me.  Yeah, Bally's? Yeah, Jerry Seinfeld's room, please.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't believe how a little thing like George going too fast - and my whole weekend is gone - the plans, the packing, ... everything.",
+      "characters": [
+        "Doris",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know the way you smell when you first come home from the beach? Well, I want to make a cologne that captures the essence of that smell. Oh yeah.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright get out of my way.  Alright don't make me get physical here!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sid",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at this. This sandwich is terrible. Everywhere you go, they give you this misshaped shardy meat. Look at this...",
+      "characters": [
+        "Susan",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I told her we'd all go out afterwards, okay? And don't applaud when she stops playing the first time. It's not over yet.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Nikki",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

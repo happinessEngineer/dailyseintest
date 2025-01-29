@@ -1,0 +1,106 @@
+{
+  "gameNumber": 608,
+  "date": "2026-09-02",
+  "questions": [
+    {
+      "quote": "Oh, yeah. Yeah, I've uh...I've spent a little time in the Mideast. You ever been to the Mideast?",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "My mother loves Hampton tomatoes. She's nuts for Hampton tomatoes.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "O.K. You take normal sips. Nothing wrong with that. Then what happened?",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "A woman that hates me this much comes along once in a lifetime.",
+      "characters": [
+        "George",
+        "Dan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I waited, he didn't show up. Anyway, this guy gave me an open-lip kiss.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So she just left the office - didn't say a word to you about anything?",
+      "characters": [
+        "Jerry",
+        "Deena",
+        "George",
+        "Dan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, because I called over there a couple of times and the manager didn't like it.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You mean, you didn't know you were doing any of these things?",
+      "characters": [
+        "Worker",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, get this, he tells me there are no houses any where in Tuscany to rent.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, I am going to tell you something and I want you to really hear me.",
+      "characters": [
+        "Nina",
+        "Rula",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Rula"
+    }
+  ]
+}

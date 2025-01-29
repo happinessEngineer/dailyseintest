@@ -1,0 +1,106 @@
+{
+  "gameNumber": 687,
+  "date": "2026-11-20",
+  "questions": [
+    {
+      "quote": "Elaine, please, it was a long time ago. The man doesn't want a history lesson.",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Jerry, I never saw you flirt with anyone before. It was quite the spectacle.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morgan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, we don't allow any outside syrups, jams or condiments in the restaurant.  And if I catch you in here with that again...I will confiscate it.",
+      "characters": [
+        "Elaine",
+        "Owner",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "Oh yeah? Well, maybe I'll go out there and knock a few balls around with him. You know, show him a thing or two..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you think, would you go out with a sixty-six year old woman?",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you're saying, I go in to NBC, and tell them I got this idea for a show about nothing.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Blaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hmm. Looks like a minor concussion. Let me see what I can do to relieve the swelling.",
+      "characters": [
+        "Doctor",
+        "George",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "You make me change restaurant, but nobody come! You say make Pakistani, Babu Bhatt have only Pakistani restaurant. But where are people? You see people? Show me people. There are no people!",
+      "characters": [
+        "Elaine",
+        "Gina",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Hey! Great plane! Thanks a lot. Piece of junk. You know you almost got us killed!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's not that. I just, you know, I thought that we were both uh...",
+      "characters": [
+        "Gavin",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 472,
+  "date": "2026-04-19",
+  "questions": [
+    {
+      "quote": "The pilot's back on. In fact, Elaine's going out with him tomorrow night.  Listen, Elaine, you know if Russell mentions anything about the pilot, you'll of course tell him how much you liked it...?",
+      "characters": [
+        "Peterman",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Thank god you're home. I'm wiped out. I drop my car at Jiffy Park and I forgot to take my apartment keys off the ring. So you got my spare?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, my friend is awful disappointed is all. You know, she's very emotional.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahh, no, no, no. You got me all wrong buddy. I am loving this no refrigerator. You know what I discovered? I really like depriving myself of things. It's fun. Very monastic.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Poppie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "take the rope, thread it through the carabiniere and knot it, and I'll climb up to where you are",
+      "characters": [
+        "Tony",
+        "Jerry",
+        "Newman",
+        "Helen"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "I'm not going to 'Skyburger'. Besides, it's in the opposite direction, let's just eat popcorn or something.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where have you been?!! You were supposed to fix the stove! I've been waiting for hours!",
+      "characters": [
+        "George",
+        "Estelle",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "We bring her to the party, and she can tell me what Gwen is saying about me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The Chinese have done it my friend. The Chinese have done it.",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And so, I made an explosive out of chick peas, and I stopped that great rhino right in his tracks.",
+      "characters": [
+        "Peterman",
+        "Ava",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

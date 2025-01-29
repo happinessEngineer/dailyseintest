@@ -1,0 +1,106 @@
+{
+  "gameNumber": 770,
+  "date": "2027-02-11",
+  "questions": [
+    {
+      "quote": "Here's the TV.  I know you wanted to watch the Super Bowl.  Do you at least have some towels we could sit on?  It's, like, a four hour game.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, he doesn't know O'Brien, if he knew O'Brien he wouldn't have a sign. Let's just do it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Cindy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, isn't it obvious? She doesn't want anybody else to have me!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I love it!  This is fantastic!  Look at this couch, is this velvet?!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, hold on. I'm, uh, I'm just trying to get a reading on my dashboard compass. Where are my parents?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Lanette",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if you need that ride, just uhm, gimme a call.  Heh. I can meet you at the gate, Jer.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're just trying to take it all back because you're feeling guilty I'm in here.",
+      "characters": [
+        "Kruger",
+        "George",
+        "Jerry",
+        "Patrice"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "Your Honor, with the court's permission, we would like to play back that video and enter it into evidence as Exhibit A.",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "Estelle",
+        "Morty"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Because George has heightened extra sensory perception. FAYGY GET YOUR FINGER OUT OF YOUR NOSE.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Rula"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "Well, that's the most important thing.  Hey how ya doing Fulton! Octane, Butane, Nitrane!  How's he doing?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Phil"
+      ],
+      "correctAnswer": "Phil"
+    }
+  ]
+}

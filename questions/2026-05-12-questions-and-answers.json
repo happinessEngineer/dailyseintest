@@ -1,0 +1,106 @@
+{
+  "gameNumber": 495,
+  "date": "2026-05-12",
+  "questions": [
+    {
+      "quote": "The Rosses have started up a foundation, Jerry, and I have to sit on the board of directors.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, Puddy, listen, and listen good: I need to know the name of that mechanic that walks around here. Big guy, a liar. Short name. Sam? Moe? Sol?!",
+      "characters": [
+        "Attendant",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "In fact, she's come up with a new one that is going to be the big new look in men's fashion.. It's a, a puffy shirt.  Well, yeah, it - it's all puffy. Like the pirates used to wear.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Fifteenth , Yes last day for the Macanaws. I can still make it. Wait.. Newman...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Usher",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's one hell of a gig.  Hey, look, I got something for you. The Ori-dent!",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Rimsky -- great great book if I may say so sir. I almost read the whole thing.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, Julie, Julie, don't insult me. You know, what difference does it make who pays for lunch. It's totally meaningless.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't have any quarters for the dryer. Anyway this is better. And it's more convenient.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Father",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, he uh, he wants to uh, quit the exporting and uh, focus just on the importing. And it's a problem, because she thinks the exporting is as important as the importing.",
+      "characters": [
+        "Wyck",
+        "Jackie",
+        "George",
+        "Rudy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can't do it. I'm on an unbelievable birthday-wish hot streak! My last five birthday wishes came true.",
+      "characters": [
+        "Kramer",
+        "Izzy",
+        "Karen",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

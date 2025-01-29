@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1080,
+  "date": "2027-12-18",
+  "questions": [
+    {
+      "quote": "Well, wait a minute, we're gonna tell each other everything, I mean every secret?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Those are my friends I was telling you about. We're gonna talk to them, pull over.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "yeah... she says she doesn't wanna see me again. Told me to drop dead!",
+      "characters": [
+        "Tom",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He does.  In fact we're looking for another girl if you know anyone.",
+      "characters": [
+        "Waitress",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "How could she leave us alone with this lunatic? Ten more minutes, and that's it! I'm leaving. I have to tell you, this guy scares me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Tv",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's on the lease! George you have got to find another place for me.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You shrunk it! You know you shrunk it! Just tell me that you shrunk it!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, you've been saying that for twenty years because you know you can't beat me. You couldn't beat me then and you can't beat me now.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Kramer",
+        "Duncan"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "Oh no, I'll tell you what you did Caligula; you combined food and sex in to one disgusting uncontrollable urge.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The circumcision was perfect. The finger was your fault! You flinched!",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "George",
+        "Mohel"
+      ],
+      "correctAnswer": "Mohel"
+    }
+  ]
+}

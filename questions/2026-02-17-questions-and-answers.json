@@ -1,0 +1,106 @@
+{
+  "gameNumber": 411,
+  "date": "2026-02-17",
+  "questions": [
+    {
+      "quote": "So you're driving in the car, you're with your friend, minding your own business?",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Cynthia",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Uh. Ah, if you don't mind my asking, could you tell me where you got your glasses?",
+      "characters": [
+        "Debby",
+        "Salesman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. You know we shouldn't have bowled that last game, I'm gonna be late.",
+      "characters": [
+        "Joe",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Boy, it's hard to believe - with all that biting experience - a person could still make a mistake like that.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "K-uger, that sounds like one of those old-time car horns, huh? K-uger! K-uger!",
+      "characters": [
+        "Hal",
+        "Kruger",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "No, listen; we are always sitting here, I am always helping you with your girl problems and you are helping me with my girl problems. Where do we end up?",
+      "characters": [
+        "Helen",
+        "George",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, you can't live down here. This is where people come to die.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Marty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Saw it? I loved it! And thank you for the free tickets. You are so funny.",
+      "characters": [
+        "George",
+        "Sally",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Now I gotta take the car down to Tony and get it checked out.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ray",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nothing It's not you. It's me. I have a fear of commitment. I don't know how to love.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

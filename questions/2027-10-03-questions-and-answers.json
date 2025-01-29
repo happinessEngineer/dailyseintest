@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1004,
+  "date": "2027-10-03",
+  "questions": [
+    {
+      "quote": "Wel-Well, I just don't appreciate these little courtesy responses, like I'm selling you aluminum siding.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Dan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know it's bad enough you have a car phone, you have to use the speaker?",
+      "characters": [
+        "Kramer",
+        "Sidra",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Hey, you're not working this weekend, why don't you come down?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Nina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, she said she had to pick up a friend of hers at the airport. It cost me a hundred dollars this ticket.",
+      "characters": [
+        "Wendy",
+        "George",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why do you keep bringing up the bubble boy. You don't have to mention the bubble boy?  I know about the bubble boy. I'm aware of the bubble boy. Why do you keep reminding me about the bubble boy?",
+      "characters": [
+        "Rita",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hold on. Hold on. Wait a minute. How am I gonna get the rye bread into the apartment?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What I said? I say stupid things all the time I can't go two minutes without saying stupid things.",
+      "characters": [
+        "George",
+        "Newman",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just talked to Becky Gelke outside, she told me how you hit and ran.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Would you hang on just a second, son? George, what are you talking about?",
+      "characters": [
+        "Hanke",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "Well, I'm sure things'll pick up for you soon. Elaine, maybe we should get going.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Brett",
+        "Farkus"
+      ],
+      "correctAnswer": "Brett"
+    }
+  ]
+}

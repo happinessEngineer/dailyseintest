@@ -1,0 +1,106 @@
+{
+  "gameNumber": 927,
+  "date": "2027-07-18",
+  "questions": [
+    {
+      "quote": "\"You know.. You really shouldn't brush 24 hours before seeing the dentist.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if you like that one, I got more.. what are you looking for? Romance? Comedy? Adventue? .. Erotica?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you know what happens if I miss him? I don't get credit for the pickup and I lose my 50 bucks...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Never mind, never mind. I need you to do me a favour. Uhm, remember what we were talking about at the coffee shop earlier?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello. Oh! Hi George.......What! ..really! All right I'll call Elaine , we'll meet you down there.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Steven",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just need someone who can give me some kind of direction. I'll see ya.",
+      "characters": [
+        "Frank",
+        "Abby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Well, he-- he had his hands, you know, and uh, he was, huh, ...",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "So, set it up. You know what, we could have dinner at the Friars Club.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, come on. Good? What was good about it?  Those sex scenes! I mean, please! Gimme something I can use!",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How does sitting next to a person in a movie theater increase the level of enjoyment? You can't talk during a movie. You know, this is stupid, c'mon, let's just go.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Steve",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

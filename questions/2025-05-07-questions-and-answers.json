@@ -1,0 +1,106 @@
+{
+  "gameNumber": 125,
+  "date": "2025-05-07",
+  "questions": [
+    {
+      "quote": "No, I jumped on the bus. I told the driver, \"I got a toe here, buddy - step on it.\"",
+      "characters": [
+        "Kramer",
+        "Conrad",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If we deliver to you, then what? Eighty-fifth Street, Wall Street, Mexico, Eighty-fourth Street.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Owner",
+        "Leo"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "What? D'you think you're such a big shot now, because you got a Cadillac?",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Mr. Petermen, this is not a cat fight. This is violent psychotic behavior directed at me all because are told her to swing her arms.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Remember the plane we took here? The pilot is gonna be sitting out there watching the show.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Oh, it's a great place, it's uh two-bedroom uh, west 83rd 'bout half block from the park.",
+      "characters": [
+        "Michael",
+        "Kramer",
+        "Maestro",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How long has your car been sitting in the Yankee parking lot?",
+      "characters": [
+        "Jackie",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why we didn't think of this before. We just could call TV Guide.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just can't be with someone who's life is in complete disarray.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, revulsion has now become a valid form of attraction.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

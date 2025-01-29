@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1109,
+  "date": "2028-01-16",
+  "questions": [
+    {
+      "quote": "He was in the shop. I thought you told me he wasn't going to be there.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I didn't know that he'd fall for me and I'd drive him insane. I mean, you know, that's not my fault.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Seth, it's me. What's more important than catching up with an old college buddy?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're an errand girl, sent by grocery clerks, to collect a bill.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Carol",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Where do you think this relationship is? If you are thinking of instituting an open-door urination policy, let me disabuse you of that notion right now, my friend.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "Audrey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no. Don't give me that. I know you. Something's wrong. What is it.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Jerry, remember Frogger? I used to be so into this game. Gettin' that frog across the street was my entire life.",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "George",
+        "Sidra"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't be ridiculous.  Holyfield. He's a good friend of one of my patients. He's got a hell of a body, doesn't he?",
+      "characters": [
+        "Patrice",
+        "Roy",
+        "Rudy",
+        "Jerry"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "This guy leaves this jacket at my mother's house two years ago. Now, she hasn't spoken to him since and now he says he wants the jacket back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Farkus"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't like when a woman says, 'Make love to me', it's intimidating. The last time a woman said that to me, I wound up apologizing to her.",
+      "characters": [
+        "George",
+        "Tony",
+        "Kramer",
+        "Sophie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

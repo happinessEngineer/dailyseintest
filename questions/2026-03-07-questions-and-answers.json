@@ -1,0 +1,106 @@
+{
+  "gameNumber": 429,
+  "date": "2026-03-07",
+  "questions": [
+    {
+      "quote": "It's like you're livin' in the Playboy Mansion! Did she, uh, did she frolic?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer you're never gonna be able to completely stop talking.",
+      "characters": [
+        "Enzo",
+        "Jerry",
+        "George",
+        "Announcer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you're right. I really should keep more of your favourites on hand.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's right, go. Go home to your dumbbells. Work on your pecs. I'm really impressed.",
+      "characters": [
+        "George",
+        "Fred",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He got two minutes into that Ovaltine thing and I just couldn't take it anymore.",
+      "characters": [
+        "Abby",
+        "Elaine",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Yes, yes. I am Dr. Vanostran from the clinic. I need Elaine Benes chart. She's a patient of mine and she's not going to make it. It's uh very bad very messy.",
+      "characters": [
+        "Julianna",
+        "Helen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You better zip up.  I couldn't get the top on the convertible up.",
+      "characters": [
+        "Testikov",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh.. Hi, Peggy. Um.. Look, I should have said this yesterday, but--",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you spoiled, spoiled man. Do you now how much mental energy I expend just trying to picture women naked?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're always walkin' around the city. Why not just strap something to them?!",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

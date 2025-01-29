@@ -1,0 +1,106 @@
+{
+  "gameNumber": 476,
+  "date": "2026-04-23",
+  "questions": [
+    {
+      "quote": "I have a right to be here. These are my fans. Hey you're hurting my elbow.",
+      "characters": [
+        "Kramer",
+        "Mike",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Deduct a minimum of two days off all expiration dates.  No meat, no leftovers, no butter.  And I cannot overstate this: No soft cheeses of any kind. Is that clear?",
+      "characters": [
+        "Jerry",
+        "Ade",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Y'know you try to do some good. You want to be a good person but this is too much to ask.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A drafty apartment? A... sweaterless friend? A ball-game giveaway Metlife windbreaker?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, at least we know the prosthetic squirrel hips work ... sorry 'bout the set.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, we're screening that tonight at the Alex. Do you think that I could wear that to promote the theatre?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Tv"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe I should just go anytime I get the urge like you...wherever I am. There's too much urinary freedom in this society. I'm proud to hold it in. It builds character.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Saleswoman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So are you going to bring your gun?... All right, then it's settled. First date, no weapons... All right I'll see you then... Okay, bye.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Elaine , I really don't...............pay much attention to men`s faces.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well here's your chance to try the opposite. Instead of tuna salad and being intimidated by women, chicken salad and going right up to them.",
+      "characters": [
+        "Mike",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

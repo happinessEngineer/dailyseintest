@@ -1,0 +1,106 @@
+{
+  "gameNumber": 330,
+  "date": "2025-11-28",
+  "questions": [
+    {
+      "quote": "My mother left us when I was six years old. All seven of us. We never heard from her again. I hope she's rotting in an alley somewhere!",
+      "characters": [
+        "George",
+        "Rava",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "Well, you remember I told you about the pro, you know, at the Westchester Country Club, who's letting me play a round every time I give him a couple of those Cuban cigars?",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, well when you don't actually do the steps, you can go through them pretty quick. You can get through six a day.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is like a Penthouse letter...Why can't I meet women like this?",
+      "characters": [
+        "Kramer",
+        "Maura",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not really. My friend was supposed to pick me up, but I don't know where he is.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Bonnie",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So--ah, Kramer. Why'd you ask me out to dinner?  An' why Pomodoro?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Ellen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, actually, Jerry, we wanted to talk to you about something.",
+      "characters": [
+        "Hanke",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Well, I thought it was a nice gesture. But I guess I was wrong!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I--I've been, walkin' around all night.. I've been thinkin' about Allison and me.. an' you--",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Greg",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uhm, listen, I really felt bad about what happened, and I, I, I'd really like to apologise. Can I come up?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

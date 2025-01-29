@@ -1,0 +1,106 @@
+{
+  "gameNumber": 247,
+  "date": "2025-09-06",
+  "questions": [
+    {
+      "quote": "Because I - I thought we had a good time the other night, an' the only explanation I can come up with is that you think that you caught me",
+      "characters": [
+        "Jerry",
+        "Todd",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I see. So you can go, \"Hey, you know who I saw wilding today? Herb!\"",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Marlene",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand.. you were wearing the pants you were returning?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait. Whoa! That's the Rabbi from Elaine's building. I just met this guy the other day.",
+      "characters": [
+        "George",
+        "Mary",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How you gonna drive when looking through a periscope? Besides it's not a submarine and there's no room for a periscope in a car.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, think. Don't you remember you kept begging me to see it then finally I agreed. You were supposed to return it. I met you in the gym locker room.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Said I'm not good looking enough for her. Not good looking! Jerry, look at me, look at my face, huh, am I beautiful? George, am I beautiful?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kimbrough",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was in there for two minutes. He didn't do anything. Touch this, feel that – seventy-five bucks!",
+      "characters": [
+        "Elaine",
+        "Eva",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you kidding? People love it. There's something about the clip clop, clip clop. They're nuts for it.",
+      "characters": [
+        "Eva",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, come on, take a walk with me down to the Laundromat. I gotta pay this guy the money..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Owner",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

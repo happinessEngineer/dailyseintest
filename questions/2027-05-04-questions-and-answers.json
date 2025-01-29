@@ -1,0 +1,106 @@
+{
+  "gameNumber": 852,
+  "date": "2027-05-04",
+  "questions": [
+    {
+      "quote": "Ah... You're the woman from the street, and I am so sorry. You know, I'm not really a home-wrecker. I-I-I-I-I thought he was a superhero. I swear.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rebecca",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You better believe it. Jackie's cashin' in on your wretched disfigurement.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Well, you know, I shouldn't have let you into Kramer's, now you want to go into Elaine's...she entrusted me with her spare keys, how can I just let you in?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Russell",
+        "Stu"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, hey guys. Man, I'm telling you, this pizza idea, is really going to happen.",
+      "characters": [
+        "Elaine",
+        "Phil",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, twenty-five percent bran flakes. The forty percent was too much so I found a store to mix it up special for me, they take it down another fifteen percent.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not a peep. They just cleaned the carpets and left. Call themselves a cult!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Waitress",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She had some personal affair she had to attend to. I left a message on your machine. You didn't get it?",
+      "characters": [
+        "Wyck",
+        "Receptionist",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "I like Christian rock. It's very positive. It's not like those real musicians who think they're so cool and hip.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's the last thing she said to me. She wanted to go there also, but I wasn't in the mood.",
+      "characters": [
+        "Jerry",
+        "Clare",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is an emergency, what's taking so long?  Wait a second, maybe that's them.  Hello?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

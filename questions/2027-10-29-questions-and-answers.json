@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1030,
+  "date": "2027-10-29",
+  "questions": [
+    {
+      "quote": "I went down to Madeline's. I told her, \"You gotta move, or it's over.\"",
+      "characters": [
+        "Kramer",
+        "Babu",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, he's okay. In fact him and Elaine are getting ah, pretty chummy. Now Elaine wants me to buy some of his art.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Alec",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, you know what I just did? I just amended my will to include you as a beneficiary.",
+      "characters": [
+        "Donna",
+        "Pitt",
+        "Kramer",
+        "Kruger"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "Dublin. Originally. Parents came over here when I was eighteen. Cereal famine. Couldn't get a bowl anywhere. Bad. 'Tis a beautiful country though; lush rolling hills, and the peat, ah the peat.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can get you any kind you want, you know. Four holes, three holes, two holes, bronze, no hinge at all.",
+      "characters": [
+        "Conrad",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "It's Martine. I think he's dying. He tried to kill himself with pills.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I would think, under the circumstances, it would have sent you running out the building. Apparently, it didn't have any effect on you.",
+      "characters": [
+        "Jerry",
+        "Jake",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "And you can't cast aspersions on someone just because they're wearin' a cape... Superman wore a cape... An' I'll be damned if I'm gonna stand here an' let you say something bad about him.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because my nephew Larry could do it. He's a brilliant lawyer. He says Jack has no case.",
+      "characters": [
+        "Dan",
+        "Kruger",
+        "Blaine",
+        "Evelyn"
+      ],
+      "correctAnswer": "Evelyn"
+    },
+    {
+      "quote": "How come he's gettin' so smart? I stopped having sex with Ben three days ago and I don't know no Portuguese?",
+      "characters": [
+        "Wyck",
+        "George",
+        "Babu",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

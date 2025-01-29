@@ -1,0 +1,106 @@
+{
+  "gameNumber": 96,
+  "date": "2025-04-08",
+  "questions": [
+    {
+      "quote": "He also came up with an idea for a brimless rain-hat but that never materialized.  Alright come on let's play.",
+      "characters": [
+        "Jerry",
+        "Gail",
+        "Doctor",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Newman, how'd it go? Did you get it all delivered?  What happened?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jack",
+        "Frankie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll expect that tape by three o'clock tomorrow.  May I borrow this?",
+      "characters": [
+        "Farkus",
+        "George",
+        "Elaine",
+        "Brody"
+      ],
+      "correctAnswer": "Brody"
+    },
+    {
+      "quote": "Well, when you mail me a new one I'll send you back this one.",
+      "characters": [
+        "Elaine",
+        "Waitress",
+        "George",
+        "Vandelay"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "I never feel comfortable in the women's department. I feel like I'm just a *little* too close to trying on a dress.",
+      "characters": [
+        "Bania",
+        "George",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, come on over, Dr. Zhivago's on cable in five minutes.. I'm making popcorn!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You want to get outta here? Here's what we do. We leave the car here, we take the plates off, we scratch the serial number off the engine block, and we walk away.",
+      "characters": [
+        "Aaron",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, he said there was nothing he could do, and next time I should probably break the Prozacs in half.",
+      "characters": [
+        "Karen",
+        "George",
+        "Marcy",
+        "Salesman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Will you put that thing out before you start another fire. You had to give him a box of cigars.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute; this postmark is three weeks old. Man, this happens all the time.  Jeanine? Who the hell runs the mailroom?",
+      "characters": [
+        "Rava",
+        "George",
+        "Wyck",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 541,
+  "date": "2026-06-27",
+  "questions": [
+    {
+      "quote": "I believe the deal was that I get the calzones on my mail route. Well today I won't be going on my mail route! Will I. Perhaps tomorrow.",
+      "characters": [
+        "George",
+        "Newman",
+        "Todd",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "At least I've spoken to my guy. You're going out on a deaf date.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, keep it.  Hey what happened to you? You buzzed five minutes ago.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "An apartment-warming gift? We got to give presents to people for moving? Birthdays, Christmas, it's enough gifts. I would like one month off.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Neeson? How are you comparing Liam Neeson with Jon Voight? Jerry, we're talking about Joe Buck. If you can play Joe Buck, Oskar Schindler's a cake walk.",
+      "characters": [
+        "Ethan",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I'm going to have an English muffin with margarine on the side and a cup of coffee.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Loretta",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm sorry. Well, George, I tried to put the good word in for you with Siena, but I don't think she heard me. You know, left ear?",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, I'm helping my parents move into their new condo. I'm gonna be busy.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, give us a break. We haven't seen it yet. Thanks a lot big mouth!",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Actually, you know I think I did. The first time I couldn't really cons...[Monica closes the window]...entrate.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Elaine",
+        "Tony"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

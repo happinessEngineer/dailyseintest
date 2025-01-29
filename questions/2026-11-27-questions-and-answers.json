@@ -1,0 +1,106 @@
+{
+  "gameNumber": 694,
+  "date": "2026-11-27",
+  "questions": [
+    {
+      "quote": "Thank you. If we were in my apartment and we were watching a movie on the couch, would we sit right next to each other?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lippman",
+        "Roy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Kramer thought it would make her happy.  I never should have cashed those checks!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, thank you, thank you so much. I have so many people I want to thank and don't want to forget anyone...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Clerk",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't want to hear another word. And to think how close I came to you being the one! I must have been out of my mind.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Let's turn the radio on. Maybe there's a news report about it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's amazing how many beautiful women live in New York. I actually find it kind of intimidating.",
+      "characters": [
+        "Jerry",
+        "Audrey",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "The better looking they are, the faster they go! I mean, I see they out there on the street, they're zooming around, like a blur. Like they have a motor on their ass.",
+      "characters": [
+        "Morgan",
+        "George",
+        "Kramer",
+        "Poppie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I've considered that.  Look, how do I get in touch with this guy?",
+      "characters": [
+        "Jerry",
+        "Pop",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, so you're chewing your apple, you got your enthusiastic hi... Go ahead.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, doctor. I'm going to have to wait in that little room all by myself, aren't I?  I better take this. I hate the little room.  \"Oh, hello, Doctor.\"",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

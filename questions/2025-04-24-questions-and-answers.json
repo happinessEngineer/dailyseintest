@@ -1,0 +1,106 @@
+{
+  "gameNumber": 112,
+  "date": "2025-04-24",
+  "questions": [
+    {
+      "quote": "I don't know where you're getting this from. I....you're serious aren't you? Oh,  you see? You see, you just don't know my sense of humor. Dan, don't I joke around all the time?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that's not really a meal Jerry. I mean, if he had gotten, Chicken Gumbo, or Matzah Ball, even Mushroom Barley. Then I would agree with you. Those are very hardy soups.",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why couldn't you squeeze one of those stupid rubber balls to get your stress out? Why did you have to destroy *twenty-five* computers?",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I had to draw that guy from memory. Considering, I think that's damn good.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Hey! I got bit by a dog! I had to go to the hospital! I was bleeding to death! I can't solve every little problem you have!",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course. She's got a great body, buddy. All right, I'm gonna go upstairs, I'll be right back.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hold it, hold it! You're right, I'm not ready for this.  Yeah?",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Merry Christmas, Merry Christmas!  Oh, Sandy! Here is a little something for you..",
+      "characters": [
+        "George",
+        "Newman",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How long do you think this will take. I have a millllioooon things to do.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Play Now has all kinds of different rubber balls. Why don't we test your bladder system at my office?",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

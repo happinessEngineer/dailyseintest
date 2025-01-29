@@ -1,0 +1,106 @@
+{
+  "gameNumber": 712,
+  "date": "2026-12-15",
+  "questions": [
+    {
+      "quote": "When you sent me the-the bill for the dry-cleaning. I thought the show didn't have a chance.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that interests me very much Mr. Farkus.Very much indeed, sir.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Marla"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no.  I explained the whole thing to him, he was fine with it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but they got the chocolate. We'll be going in with lesser babka.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...But, you must promise That you will abide by my decision, no matter how unjust it may seem to either of you. Do I have your word?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, Kevin...you can go on and on about how you don't want kids...and it sounds, it sounds really nice, but...the truth is, I don't know if you mean it or not.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kate"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, look. I'm going to be honest. I'm very interested in the van.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A big dinner with dessert. But I've got till the end of the month.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Are we going to be sitting here when we're sixty like two idiots?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You dated her. Give me some inside information. Anything I can use!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

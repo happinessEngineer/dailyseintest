@@ -1,0 +1,106 @@
+{
+  "gameNumber": 218,
+  "date": "2025-08-08",
+  "questions": [
+    {
+      "quote": "Actually, the importer's right in Chinatown. I'll introduce you to him, you can get it whenever you want.",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Rula",
+        "Elaine"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "What, are you kidding? Opening night Pavarotti and Pagliacci. Ha, we're gonna clean up!",
+      "characters": [
+        "Jerry",
+        "Hal",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, I got news for ya, its nice to be involved with somebody who?s interested in something other than nick at night. Now he?s got a grip on reality, he's happy, he's well adjusted.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What about the Coast Guard? Seems like a lot of pride there, a lot of tradition.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, what compels a seemingly normal human being to do something like that?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Pop",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It looked just like the jacket I brought in to be dry-cleaned. He complimented me on it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Karen",
+        "Kelly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know.  Just, things seem a little more exciting when you're around. That's all.",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What are you getting to be too much of a big shot now to give me a call? I don't hear from you anymore!",
+      "characters": [
+        "Leo",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Ohh! You know, and sometimes she'll go,  \"Hello, Jerry?\" And I'll go, \"Oh, hi Marlene.\" And then it's \"Jerry...\"",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, everybody listens to the Chinese. I mean, look at the fortune cookie. You couldn't get away with that in any other restaurant.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

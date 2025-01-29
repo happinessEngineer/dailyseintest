@@ -1,0 +1,106 @@
+{
+  "gameNumber": 824,
+  "date": "2027-04-06",
+  "questions": [
+    {
+      "quote": "No No, Don't ruin it for me, I haven't seen it yet! Ah-C'mon, what d'you say?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no no no, if you must know, I would rather be with her than go to the game.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, wake up. It's 8:30 you were supposed to walk me up at 7:15.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, Jerry, uh, I was wandering, would it be possible – and if it's not, fine – for me to stay here tomorrow night too?",
+      "characters": [
+        "Laura",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's the idea. That's what's clever about it, that they're not talking about the pants.",
+      "characters": [
+        "Donna",
+        "Sidra",
+        "Stan",
+        "Jackie"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "Don't worry, Jerry, I can manage these bags; really I'm fine.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, uh, this power. I'm dangerous Jerry, I'm very very dangerous.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I bet I can get in once I mention I'm from ...The New Yorker.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "..Well, as I was saying, I would play myself, and, as a comedian, living in New York, I have a friend, a neighbor, and an ex-girlfriend, which is all true.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

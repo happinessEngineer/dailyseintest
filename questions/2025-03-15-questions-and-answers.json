@@ -1,0 +1,106 @@
+{
+  "gameNumber": 72,
+  "date": "2025-03-15",
+  "questions": [
+    {
+      "quote": "No, no, he's not having a party. He's doing something. I don't know what it is. It's nothing. He's not doing anything.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This jackass goes to Paris, leaves the alarm on. It's been beeping since 3:30 this morning.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Regis",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mm-hmm. Mm-hmm. All right. I don't think we're gonna have any problem with that.  Good talking to you Tom. Really.",
+      "characters": [
+        "Frank",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Surprisingly, no. I'm freee, I'm unfettered...  Feel like a naked innocent boy rrroamin' the countryside!!",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay. . Thanks.  Assman? Oh, no, these don't belong to me. I'm not the Assman. I think there's been a mistake.",
+      "characters": [
+        "Audrey",
+        "Kramer",
+        "Jerry",
+        "Valerie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No we didn't. You take these things too literally. It's like saying, you're hungry enough to eat a horse.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course you do... It's just, uh, y'know, I-I never *knew*, uh, that, uh...",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "Abby",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you? Satan? I'm close to a job here. It's my second interview with them.",
+      "characters": [
+        "George",
+        "Darryl",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, Well, it comes down if Little Jerry Seinfeld wins the cockfight.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's going on in here?  Are you two still playing?! You've been up here three hours!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

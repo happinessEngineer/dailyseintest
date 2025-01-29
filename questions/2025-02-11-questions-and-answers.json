@@ -1,0 +1,106 @@
+{
+  "gameNumber": 40,
+  "date": "2025-02-11",
+  "questions": [
+    {
+      "quote": "All right, I'll see you after school. I,,m late for Hayman's hygiene.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, one more thing about the car. Let it warm up for a minute.",
+      "characters": [
+        "Eddie",
+        "Jerry",
+        "Worker",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "September 21st, first day of Autumn. Leaves changing colours.. Beautiful colors.",
+      "characters": [
+        "Jerry",
+        "Ellen",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Call me. Thirty-six, twenty-four, forty-six. I think I have what you're looking for.\" .",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah! You're fine. There's nothing wrong with you. I'm the one who's dying.",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, why did you have the cab come down the street?! We were almost out!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Glenn",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think things were going ok. We were having a nice conversation.",
+      "characters": [
+        "George",
+        "Toby",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I hate this place. I don't know why we came here, I'm never coming back here again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Then you are entitled to a hundred dollars. That's our policy.",
+      "characters": [
+        "Manager",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Well well, if it isn't the first lady of the American Theatre.  What brings you here?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "Hanke"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

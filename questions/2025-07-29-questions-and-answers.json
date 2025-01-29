@@ -1,0 +1,106 @@
+{
+  "gameNumber": 208,
+  "date": "2025-07-29",
+  "questions": [
+    {
+      "quote": "Well I was just trying to be supportive, you know. I knew you were upset.",
+      "characters": [
+        "Frank",
+        "George",
+        "Landlord",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What could I do? She said there might be something for me at Doubleday. Oh wouldn't that be great I wouldn't have to work for Mr. Pitt anymore.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Elaine",
+        "Helena"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, ah, let's see, we've got two. There's a big one down the hall there and a small one over here. You know I should ask Jack.",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Good one. Very funny. You're very funny, Jerry. That's what I always tell people.  Jerry Seinfeld's a funny guy!",
+      "characters": [
+        "Morty",
+        "Wilhelm",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, let's uh, change the subject, ah.  Now, uh you and uh, Jerry dated for a while. Tell us ah ... what was that like?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Maestro",
+        "Allison"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because it's really a pretty good little story. Don't you think?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Eddie. Yes, um, I am so sorry but I'm afraid we're gonna have to... promote you.",
+      "characters": [
+        "Elaine",
+        "Marcy",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well what about me! If you're going like that, I?m not going like this.",
+      "characters": [
+        "Jerry",
+        "Lois",
+        "Newman",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, this is good. This Kruger guy is clueless. I can't wait to work for him.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Bobby",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Even if I were dragged through manure I still wouldn't put that stuff on.",
+      "characters": [
+        "Steve",
+        "Kramer",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Steve"
+    }
+  ]
+}

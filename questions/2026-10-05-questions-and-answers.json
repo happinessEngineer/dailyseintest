@@ -1,0 +1,106 @@
+{
+  "gameNumber": 641,
+  "date": "2026-10-05",
+  "questions": [
+    {
+      "quote": "And you met her in an antique store! I don't know how you do it!",
+      "characters": [
+        "Lloyd",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know you're very busy, but I just wanted to come by and give you this.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Cynthia",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah, well, for some reason, um, I just find myself just overcome with feelings of jealousy and resentment.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well Bob Sacamano he stayed with me once for a year and a half.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah? Well, you bombed! That story stunk worse than these chairs!",
+      "characters": [
+        "Tim",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Jerry, come on. If my mother keeps shrinking, this is exactly what she's gonna look like in ten years!",
+      "characters": [
+        "Marcy",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe you called me a chucker. No way I'm a chucker, I do not chuck, never chucked, never have chucked, never will chuck, no chuck!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Heather",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Security? Well, I don't know how you're gonna make it in this business if you can't take it! Ya gotta be tough! Booo! Boooo!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What can I say, you know? It's a gift. I only wish I could teach it but, you know it's inborn.",
+      "characters": [
+        "Jerry",
+        "Morgan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's right. Now it looks like it was broken during shipping and I insured it for $400.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Babu",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

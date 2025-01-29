@@ -1,0 +1,106 @@
+{
+  "gameNumber": 911,
+  "date": "2027-07-02",
+  "questions": [
+    {
+      "quote": "Just, can I have my car? I wanna pay my bill, I'm gonna be on my way.",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Patrice",
+        "Maura"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, he is your butler. You can give him any order you want. That's what butlers do.",
+      "characters": [
+        "Tom",
+        "Maestro",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "I just don't like the idea that any time there's a dinner invitation there's this annoying little chore that goes along with it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Wouldn't it just bounce back and forth between your cornea and the mirror, faster and faster, getting more and more intense, until finally-",
+      "characters": [
+        "Earl",
+        "Jerry",
+        "Stationer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe he went to one of the other levels. I'll go look for him.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, he doesn't handle my money, he handles Jerry's money. He just does my taxes.",
+      "characters": [
+        "Carrie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey how about that ball man injuring Monica Seles. Wasn't that something.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "So concerned was he, that word of his poor tennis skills might leak out, he chose to offer you his wife as some sort of mediaeval sexual payola?",
+      "characters": [
+        "George",
+        "Chiles",
+        "Jerry",
+        "Celia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know Jack, do me a favor will you? Take the pen and the scotch tape, and get the hell out of here!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Frank",
+        "Leo"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Guess what? Mrs. Costanza called me, they're not getting divorced.",
+      "characters": [
+        "Morgan",
+        "George",
+        "Donna",
+        "Jerry"
+      ],
+      "correctAnswer": "Donna"
+    }
+  ]
+}

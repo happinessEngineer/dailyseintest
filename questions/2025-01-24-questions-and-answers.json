@@ -1,0 +1,106 @@
+{
+  "gameNumber": 22,
+  "date": "2025-01-24",
+  "questions": [
+    {
+      "quote": "I don't know about you, but I'm getting a hankering for some doublemint gum. Alright, I'm dropping you off at work, right?",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "Karen",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I haven't seen it yet, but it's a two-bedroom, it's on the uh, west 83rd, 'bout a half block from the park?",
+      "characters": [
+        "Conrad",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well yes I did that's true. A couple of a guys I knew in the coastguard told me about her.... and I sensed that she had the anger and intensity that I needed to make this film work.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Pizza man was here. Maybe some fall off. He's going bald.",
+      "characters": [
+        "Morty",
+        "Gino",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Gino"
+    },
+    {
+      "quote": "I think that I was in that theatre. That, that was really funny.",
+      "characters": [
+        "Valerie",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "It's all a bunch of cheapskates in there anyway. People sitting around reading the newspaper attached to huge wooden sticks Trying to save a quarter, ooh,",
+      "characters": [
+        "Puddy",
+        "Woman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, man! It's my father's wallet! The one he thought they stole at the doctor's office that time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you know what's great about our relationship?...It's not about looks.",
+      "characters": [
+        "George",
+        "Marcelino",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know I went to the hospital today, and I saw the woman, you know, and the wheelchair is totalled, we gotta get her another one!",
+      "characters": [
+        "Kurt",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So lemme ask you this: how long would you say I have to put in now because of, you know, last night.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Hanke"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

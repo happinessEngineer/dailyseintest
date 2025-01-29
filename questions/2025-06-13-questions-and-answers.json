@@ -1,0 +1,106 @@
+{
+  "gameNumber": 162,
+  "date": "2025-06-13",
+  "questions": [
+    {
+      "quote": "Sister, right. Do you know when Father Curtis has office hours?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Buckles",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what about George? He's supposed to pick us up at Kennedy.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let me see the card.  To a wonderful girl, a great pal, and more?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I got this new poster. 3-D art? Computers generate 'em.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Hey listen, let me give you my card. It's got my home number on it. I want to buy the first pair when the next shipment comes in.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, neither should I! Jerry's the one who left the milk in the refrigerator.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What could possess anyone to throw a party?  I mean, to have a bunch of strangers treat your house like a hotel room.",
+      "characters": [
+        "Kramer",
+        "George",
+        "John",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, Tolstoy use to write in the village square. The faces inspired him.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Hated all the commercial and religious aspects of Christmas, so he made up his own holiday.",
+      "characters": [
+        "Elaine",
+        "Joyce",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I, I'm in a bit of a quandary. I've misplaced my spectacles.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Haarwood",
+        "Jerry"
+      ],
+      "correctAnswer": "Haarwood"
+    }
+  ]
+}

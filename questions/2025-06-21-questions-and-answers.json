@@ -1,0 +1,106 @@
+{
+  "gameNumber": 170,
+  "date": "2025-06-21",
+  "questions": [
+    {
+      "quote": "Let me call him back... Hello? Who is this? Donna Chang? Oh, I'm sorry, I must o' dialed the wrong number.",
+      "characters": [
+        "Ray",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well George, your vision is quite impaired. If you'll just sign this insurance form, here's a pen.",
+      "characters": [
+        "Doctor",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Yeah. He just got a job at a condom factory in Edison. Look at this, he gave me a gross.",
+      "characters": [
+        "Beth",
+        "Stan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't worry, Tim.  I didn't come by to yell at you, I didn't come by for that at all.  I just came by to pick up my label maker.  I gave you a label maker and now I would like to have it back.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, but those are my socks! I had a pair just like that with the blue stripe, and now I don't have them anymore!",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's dynamite. Yeah, I'll look for the Chinese food leftovers.",
+      "characters": [
+        "George",
+        "Greg",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. I got some bad news for you, buddy. I think your car got stolen again.",
+      "characters": [
+        "Kramer",
+        "Buckles",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what you do? Ask him a follow-up question. Tell him you're having trouble getting started, and you want his advice.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, well you know what'cha gotta do, you gotta go through her purse. Y'know, the-the credit cards, driver's license...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So she wanted you to come up, but you left because you thought some guy might be calling you?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

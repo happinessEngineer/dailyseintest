@@ -1,0 +1,106 @@
+{
+  "gameNumber": 254,
+  "date": "2025-09-13",
+  "questions": [
+    {
+      "quote": "She goes to these lengths to entice you and your only response is \" Gee I really like your picture. Would you like to go out on a date with me please. \"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Valerie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, we watching the movie, or are we still talking?  Okay, c'mon. Let's go.",
+      "characters": [
+        "Abby",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're all over the dial! You don't know what you want! I've never seen you stay on anything for more than 5 seconds. Gimme that.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who ever thought the first thing somebody wants on a plane is a peanut?",
+      "characters": [
+        "Elaine",
+        "Waitress",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. You can't get her anything better than me. Whatever I spend, you have to spend half.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I, uh, um, wa, wa, What did I do? ... Where are you going?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Janet",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The city's a toilet. When's the last time you saw my little Adam?",
+      "characters": [
+        "Carol",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "So I'm curious. What'd you tell Mrs. Costanza that changed her mind?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Deena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told him to meet us here in ten minutes. How long has it been?",
+      "characters": [
+        "Landis",
+        "Hal",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, well, I'll tell you what. Um, I'll give you a check, and then this person can pay me back.",
+      "characters": [
+        "George",
+        "Newman",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

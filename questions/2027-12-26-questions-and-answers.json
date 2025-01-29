@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1088,
+  "date": "2027-12-26",
+  "questions": [
+    {
+      "quote": "Why don't you give me the twenty, and I'll stop and get change, and then you and I can... uh... you-know, settle.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So what if they have a lobster. Suddenly you're a shell-fish connoisseur.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Don't go shouting we got a hundred dollar bill. People will be jumping out of windows on top of us.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Farkus",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aw! You'll be fine, you were in there for what , a couple of minutes.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "One little wink. She'll freak out, tell my parents. They'll be all over me. Who is this guy?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Five cups chopped porcini mushrooms. Half a cup of olive oil. Three pounds celery.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what about sneakers? You know, they'll clean 'em. They do complete detailing.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He knows how to read. And he also knows finishing an entire book doesn't prove anything. And get this: he's into architecture.",
+      "characters": [
+        "Winona",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, well I thought I'd throw him off. See, he knows where I live.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Chiles",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because he made a big deal about how I understand everything immediately. That's what impressed him.",
+      "characters": [
+        "Sally",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

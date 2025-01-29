@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1,
+  "date": "2025-01-04",
+  "questions": [
+    {
+      "quote": "Of course I'm back. Why wouldn't I be back? My mother's in the hospital, I'm going to pay her a visit.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Melissa",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, thanks a lot for letting us stay here, Steve, I really owe you one.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Pitt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So eventually these people came and, somebody, gave him mouth-to-mouth.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I know, but... \"Moland\"? I wouldn't drink anything called \"Moland\".",
+      "characters": [
+        "George",
+        "Aaron",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is George, Elaine and Jerry. These are the guys who got us the apartment.",
+      "characters": [
+        "Susan",
+        "Carol",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "No, well, I set their alarm. But they did have a lot of sake in that hot-tub.",
+      "characters": [
+        "Kramer",
+        "Toby",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, flowers. I will get her flowers, I will go to the florist!",
+      "characters": [
+        "Rebecca",
+        "Gary",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I once broke up with a guy because he didn't keep his bathroom clean enough.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nobody drives like me. Nobody. I'm doing things in this car, you have no idea they're going on. Wanna see me make a right turn from the left lane? Watch this.",
+      "characters": [
+        "Allison",
+        "George",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told her. In the kitchen – which was risky 'cause it's near all the knives. I started with the word \"Listen.\"",
+      "characters": [
+        "Manager",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

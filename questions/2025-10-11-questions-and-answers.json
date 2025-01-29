@@ -1,0 +1,106 @@
+{
+  "gameNumber": 282,
+  "date": "2025-10-11",
+  "questions": [
+    {
+      "quote": "I think you absolutely have to say something to this guy. Confront him.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Joe",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know. You know, whenever I'm on a date I feel people can tell.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I told her to call me here and to tell anyone who answers the phone to ask for a balding, stocky man with glasses. I better tell him I'm expecting a call.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If there's any doubt, I do a leave-behind. Keys, gloves, scarf -- I go back to her place to pick it up... date number two.",
+      "characters": [
+        "Kramer",
+        "Daphne",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway it's kind of a fluke thing but uh I'll be leaving for Paris in two days. I will send you a postcard when I get there.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about you, George? Have you written anything we might know?",
+      "characters": [
+        "Russell",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Oh, I wanted to talk to you--I'm sorry, I--didn't know you...  had company.  Hiya, I'm George.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not surprised. I really let him have it, Jerry. He has no business being in your audience if you didn't want him there.",
+      "characters": [
+        "George",
+        "Alec",
+        "Kramer",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Why did we invite him? Stupid, stupid. when he asked for a ticket, I should have said no. I'm gonna go chew him out.",
+      "characters": [
+        "Steinbrenner",
+        "Kate",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "I went to podiatry school because I like feet. I chose to work with feet.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    }
+  ]
+}

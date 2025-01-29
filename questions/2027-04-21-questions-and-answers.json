@@ -1,0 +1,106 @@
+{
+  "gameNumber": 839,
+  "date": "2027-04-21",
+  "questions": [
+    {
+      "quote": "No, I met someone at this party, and I know where she works, but I don't know her name.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Kate"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You've got some nerve. I almost break my neck in that death-trap of yours, and now you ask me for a favour!",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Kramer",
+        "Cop"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Well, uh.. it hurts when he swallows. Expecially when he drinks orange juice.  I mean, uh.. dog food.. juice.  What's worse - he has a nagging cough.  Yeah, that's it. That's it.",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "O-kay ... well then your teeth are green for a different reason. You just gotta stop carrying these, okay? Just ... just mouth wash.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, Elaine but this is beyond news. This is like Pearl Harbor. Or the Kennedy assassination. It's like not even news. It's total shock.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Allison",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "oh look at that I got oil all over me. Can I have your napkin?",
+      "characters": [
+        "Barry",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I really liked her. We talked. We flirted. And when she left, she reached out and touched my arm.",
+      "characters": [
+        "Susan",
+        "Newman",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, she's a Kramer. And uh, while I was there I uh happened to pick up another juicy little nugget about our friend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "James",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.",
+      "characters": [
+        "Tor",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "You know, you should tell your dad that 'serenity now' thing doesn't work. It just bottles up the anger, and eventually, you blow.",
+      "characters": [
+        "Ron",
+        "Eddie",
+        "Elaine",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    }
+  ]
+}

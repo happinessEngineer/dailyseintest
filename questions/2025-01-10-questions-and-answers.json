@@ -1,0 +1,106 @@
+{
+  "gameNumber": 8,
+  "date": "2025-01-10",
+  "questions": [
+    {
+      "quote": "Wait a minute. You mean you get five cents here, and ten cents there. You could round up bottles here and run 'em out to Michigan for the difference.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Jerry, I left you a pair right here... C'mon. There, put on those boots.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, George. Jerry. Listen, I just got sober, so I've been going through the Twelve Steps.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Clerk",
+        "Hanke"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "Did I tell you that story's relatable?! That was a great show! That is why I'm bringing it back to NBC.",
+      "characters": [
+        "Estelle",
+        "Captain",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No no you didn't ...Hundred dollars.. I get a hundred dollars.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no-no, it's okay. *comment from transcriber: yeah, she doesn't want to be paid, didn't she send the bill?*",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Um, yes this is my friend Jerry. Um, he accompanied me, ya know , single women in a big city can be dangerous, so…",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Sally"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey what about Dr. Resnick My Uncle Leo is going to see him tomorrow .",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Manny"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so funny?! ..That's not funny.. There's nothing funny about that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and she's going to find I'm a moron. You know, people think I'm smart, but I'm not smart.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

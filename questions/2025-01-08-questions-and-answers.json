@@ -1,0 +1,106 @@
+{
+  "gameNumber": 6,
+  "date": "2025-01-08",
+  "questions": [
+    {
+      "quote": "The doorman. I don't wanna play anymore of his mindgames. What time does he get off?",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was a very nice sweater. Take a look at his neck, not to mention the melon sitting on top of it. I don't know if I'd trust him with a v-neck.",
+      "characters": [
+        "Hanke",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "These people never fail. They sit in a room with a big clock all night long, just waitin' to make that call!",
+      "characters": [
+        "Elaine",
+        "Maestro",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I didn't hit puberty til the 9th grade. That's what gave me my speed. Besides, if I got a head start why didn't Mr. Bevilacqua stop the race?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Farkus",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what? I'll start talking to him, you know, casual, and I'll work my way around to it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "--Astroturf? You know who's responsible for that, don't you?! The Jews! Ah, the Jews hate grass. They always have, they always will.",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll talk slower. I'm kidding - I love Cellblock D. My friend George is in Cellblock D. What are you in for,sir?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why don't you just drop off some chicken skins and lobster shells.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Rebecca"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "Look, I'll go down and talk to this adoption guy and I'll make sure that it all gets worked out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You, you really have no idea what it's like until you actually do it. And I'm on this emotional roller coaster.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Laura",
+        "Tony"
+      ],
+      "correctAnswer": "Laura"
+    }
+  ]
+}

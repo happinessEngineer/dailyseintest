@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1105,
+  "date": "2028-01-12",
+  "questions": [
+    {
+      "quote": "Oh, he's always been jealous of me. I always get to stand in for the bigger stars; The Cosby Kids, Ricky Schroder, Macaulay Culkin.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Proof? You want proof? He's driving around in a brand new Cadillac. Now what more proof do you want?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Because, if you ever see her and it comes up, we have to be in sync. Hmm?",
+      "characters": [
+        "Elaine",
+        "Manager",
+        "Ethan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Very cool. So, what do you say? Can you do this one little favor, Newmie?",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I don't care, I don't want to go anyway. I don't want to fight that traffic on Friday night.",
+      "characters": [
+        "George",
+        "Father",
+        "Jerry",
+        "Jane"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told you to clean out this garage. I have to put my car in!",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "They're not getting a baby so you're taking them out to lunch?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Secretary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OK, now I projected some of those figures for you regarding the switch to Canola oil for the stadium popcorn and surprisingly it will only come to 1/2 a cent more per bag, so it is definitely doable.",
+      "characters": [
+        "Levitan",
+        "Jerry",
+        "Ade",
+        "Elaine"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "A man like you, limiting yourself to one woman, I don't know. But it's none of my business.",
+      "characters": [
+        "Kate",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I told him the whole story and he just let me have it. Wha -- Yeah. He's a wonderful man.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Captain",
+        "Gavin"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

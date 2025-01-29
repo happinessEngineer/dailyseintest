@@ -1,0 +1,106 @@
+{
+  "gameNumber": 323,
+  "date": "2025-11-21",
+  "questions": [
+    {
+      "quote": "Well, I think Poppie's got some problems. There's a whole other thing going on with Poppie. So how did you leave it?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Rava",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well you have fun... oh no clowns...hate clowns...the clowns.",
+      "characters": [
+        "Jerry",
+        "Ruby",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ohhh. another interesting confrontation. This could be spicy. Yeah, George bring him over.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on, you've got the gift. You're the only one that can help me.",
+      "characters": [
+        "Hanke",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhh, so you want to join me and Susan for lunch at the coffee shop?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Alton",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I tell ya, I hear people really stuff themselves on those cruise ships.  The buffet, that's the real ordeal, huh, Clarence?",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cheap fabric, and dim lighting. That's how you move merchandise.",
+      "characters": [
+        "Todd",
+        "Kramer",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No, I'm fine. Just as long as you don't ever do that voice again.",
+      "characters": [
+        "Clare",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Clare"
+    },
+    {
+      "quote": "What? Devola? See I told you this guy is crazy. I can't believe this. What happened?",
+      "characters": [
+        "Jerry",
+        "Wyck",
+        "Hoyt",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

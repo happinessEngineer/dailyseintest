@@ -1,0 +1,106 @@
+{
+  "gameNumber": 279,
+  "date": "2025-10-08",
+  "questions": [
+    {
+      "quote": "That was the Golden Nugget. Also in Atlantic City. They heard such good things about my show at Bally's, they want me for tonight. So I'll have to repack, and go.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's probably why we're staying here, because you lost money on the stock.",
+      "characters": [
+        "Kramer",
+        "Vanessa",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Vanessa"
+    },
+    {
+      "quote": "That reminds me of the Hatian Voodoo rattle torture! You haven't gone over to their side have you?",
+      "characters": [
+        "Keith",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Jerry, it's vastly superior to any commercial shaving cream. The shave is close and clean, and the natural emolients keep my skin silky-smooth. Now feel my face.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, Jerry, if my investors don't get Cubans, the whole deal's off.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, fire engines, ambulances all along the runway. And then, when we landed safely, they all seemed so disappointed.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe if you called more often, I wouldn't have to. Listen, is it all right if I watch a tape in here?",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "Jake",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, yes, we do need documentation or you know, people could take advantage.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Eh, they're trying to pick out a new couch - you don't want to know.  Give me your wallet, or I'll spill your guts right here on the street!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, you can't do that, they're round, it makes an 'eight' and, yeah, well alright.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Usher",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

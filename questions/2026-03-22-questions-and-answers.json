@@ -1,0 +1,106 @@
+{
+  "gameNumber": 444,
+  "date": "2026-03-22",
+  "questions": [
+    {
+      "quote": "Ah!  How 'bout this? How about, he's thinking of quitting the exporting, and just focussing in on the importing. And this is causing a problem, because, why not do both?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Lanette",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, for the first quarter mile they thought that I was just doggin' it.",
+      "characters": [
+        "Jerry",
+        "Kimbrough",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, let's just say it wouldn't exist without me.  So you two uh, shop at the same store, ?",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I'm outta here, and when I get back, I don't want to see you here , here , or here .",
+      "characters": [
+        "Jerry",
+        "Evelyn",
+        "Helena",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You might regret that, because the money my wife spends on clothes...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I just stomped some pigeons in the park. They - they didn't move.",
+      "characters": [
+        "Milos",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, that's right.  Go ahead, go ahead, maybe you can run over a squirrel!",
+      "characters": [
+        "Elaine",
+        "Katie",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, it's gotta be fifty! Hee hee! You know how much Ted Danson makes, huh?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "UH, do you want to catch a movie this weekend? Have you seen JFK?",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Yeah! She made me promise not to tell you .It's supposed to be a joke.",
+      "characters": [
+        "Craig",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

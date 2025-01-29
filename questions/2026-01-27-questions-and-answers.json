@@ -1,0 +1,106 @@
+{
+  "gameNumber": 390,
+  "date": "2026-01-27",
+  "questions": [
+    {
+      "quote": "Wow, well, I guess you don't have any advice for me on how to win the case?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sorry? You almost took my toe off. Why don't you watch what you're doing you, LUNATIC!…",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You should've just had dinner with your uncle tonight and gotten in over with. It's just a movie.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Kramer",
+        "Ned"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If I wanna get my hair cut I've gotta go now. Call me when you get home. I wont be there, but leave a message so I know you called.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lanette",
+        "George"
+      ],
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "Man, 2.9 percent financing on a Toyota Onedun . That was my idea too!",
+      "characters": [
+        "Ping",
+        "Father",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah. You know, uh..I'm engaged.  Yep, gettin' married in fifty years.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Mary"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What?...Oh! by the way. What am I going to be in the wedding party?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's right in the explosion scene. So if you could just...leave me a little window. You know, my, uh, my aunt had a thing removed with a laser. All right, I don't want to interrupt your meal, so...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you would choose your last meal based on the method of execution?",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "What, you know what, the keys. I want the keys. You've lost your key privileges.",
+      "characters": [
+        "Jerry",
+        "Fred",
+        "Elaine",
+        "Monica"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

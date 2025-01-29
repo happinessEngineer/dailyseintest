@@ -1,0 +1,106 @@
+{
+  "gameNumber": 997,
+  "date": "2027-09-26",
+  "questions": [
+    {
+      "quote": "What are you doing? This is not right, people. You're making a very bad mistake, very bad.",
+      "characters": [
+        "Jerry",
+        "Sandi",
+        "George",
+        "Babu"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Elaine that was a legitimate bet and I lost so I bought you dinner.",
+      "characters": [
+        "Todd",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Well No! No, don't go out there, Kramer, they'll hurt you, they'll destroy you. You'll never make it in this town, you're too sensitive like me,",
+      "characters": [
+        "Nina",
+        "Helena",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "No, it's nice to meet you. Well, I'm outta here, see you guys.",
+      "characters": [
+        "Fred",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "You know last time you had me throwin' a rye bread up three floors to you, now you want me to go up to the Bronx, take flyers off your car, where does it end?!?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It pains me to say this, but I may be getting to mature for details.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, what's with George and Susan? Does he actually like her?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Katie",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't forget, we're eating dinner at the Feinerman's tomorrow night.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Emily",
+        "Elaine"
+      ],
+      "correctAnswer": "Emily"
+    },
+    {
+      "quote": "So the spit could have only come from the front and to the right.",
+      "characters": [
+        "Kramer",
+        "Darryl",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How's her handshake? A little firm, isn't it? Maybe a little too firm?",
+      "characters": [
+        "George",
+        "Rick",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

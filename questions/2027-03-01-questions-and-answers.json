@@ -1,0 +1,106 @@
+{
+  "gameNumber": 788,
+  "date": "2027-03-01",
+  "questions": [
+    {
+      "quote": "Worse. We made out at the table like our plane was going down!",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So we're still going to the health club to play racquetball right?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, I know. But some how she explained it to me and I couldn't say no.",
+      "characters": [
+        "Ned",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, you can really talk some trash.  I guess that's better than eating it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I actually like ponies. I was just trying to make conversation. What time's your game?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, uh, I was wondering if you got a chance to look at that , um, biography of Columbus, I gave you?",
+      "characters": [
+        "Joe",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Huh... Thursday is no good because we've got to get to the hospital to see if we qualify as those organ donors.",
+      "characters": [
+        "Rebecca",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I tried brushing my teeth by holding the brush and moving my head from side to side. It didn't work.",
+      "characters": [
+        "Harold",
+        "Kramer",
+        "Kurt",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Morning Thunder has caffeine in it, Jerry doesn't drink caffeine.",
+      "characters": [
+        "Jerry",
+        "Marcelino",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I would love to. Nothing would please me more. But, unfortunately, the guy retired and moved to Singapore.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Ray"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 627,
+  "date": "2026-09-21",
+  "questions": [
+    {
+      "quote": "oh I'm sorry I didn't get most of that.. isn't that Kramer over there?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, how's this? We wait till we get to your street corner, we see Elaine and Kramer then we get out. They can't shoot us in the city.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Wendy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, hi. Uhm, remember me? I..I'm the guy who looks like Neil?",
+      "characters": [
+        "Salesman",
+        "Elaine",
+        "George",
+        "Sylvia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, yeah, great.  And get some of those blue corn chips.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Robin",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no, no. These brown things. The chairs.  Jerry, this is the set from the old Merv Griffin Show!  They must be throwing it out. This stuff belongs in the Smithsonian!",
+      "characters": [
+        "Kramer",
+        "Gavin",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, there's something in the air today. You feel it? There's something in the air.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Not that it was that nice of a jacket. I mean it didn't fit him that well. To me there's just something about a monster in a blazer. It shows at least he's making an effort.",
+      "characters": [
+        "Jerry",
+        "Rick",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "As Miss America, I would try and bring an end to world hunger. If every person sacrificed one meal a week, there would be enough to feed the whole world!",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Come on up.  Well, now we gotta get a posse together. I love a good posse.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "THANKS FOR SHOWING UP. YOU KNOW YOUR FRIEND HERE TRIED TO KILL ME.",
+      "characters": [
+        "Elaine",
+        "Donald",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Donald"
+    }
+  ]
+}

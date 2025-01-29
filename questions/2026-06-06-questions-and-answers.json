@@ -1,0 +1,106 @@
+{
+  "gameNumber": 520,
+  "date": "2026-06-06",
+  "questions": [
+    {
+      "quote": "Do you know the last time I wore this thing? Six years ago, when I made that toast at Bobby Leighton's wedding.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Fred",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, funerals always make me think about my own mortality and how I'm actually gonna die someday. Me, dead. Imagine that.",
+      "characters": [
+        "Elaine",
+        "Hanke",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, well, well, Mr. Seinfeld! That must have been so frightening! When you confronted that guy, in Queens! Now, let's just see if I've got this scenario right.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Will the defendants please rise. And how do you find, with respect to the charge of criminal indifference?",
+      "characters": [
+        "Vandelay",
+        "Clerk",
+        "George",
+        "Maura"
+      ],
+      "correctAnswer": "Vandelay"
+    },
+    {
+      "quote": "Speak now, or we are headed to the Hamptons. It's a two-hour drive. Once you get in that car, we are going all the way... to the Hamptons. All right, you wanna get nuts? Come on. Let's get nuts!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's uh, KL5-8383. Are you calling them soon because, they keep very strange hours.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That was two years ago, remember? 'Jeh-Ree, you gotta see the Bay-Bee! You gotta see the Bay-Bee!'",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't call here, it's a coffee shop. I mean what am I going to say to him?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It certainly should be. It's nobody's damn business! But they really would like to know.",
+      "characters": [
+        "Kramer",
+        "Sid",
+        "Jodi",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The only thing between him and us is a thin layer of gabardine... Kramer, say it isn't so.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

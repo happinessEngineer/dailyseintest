@@ -1,0 +1,106 @@
+{
+  "gameNumber": 191,
+  "date": "2025-07-12",
+  "questions": [
+    {
+      "quote": "Yes I look forward to many years of... looking at the triangles. Well, I'll ah, I'll wait for you outside.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well I don't want to disturb him. We're just rather excited to meet him face to face, finally. We're faithful readers of his newsletter.",
+      "characters": [
+        "Kramer",
+        "Eva",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "It's a par five. So you know I step up to the tee and I hit a beautiful drive right down the middle of the fairway. I mean you know my hook, right?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, hey. Take it easy. I'm not gonna be pressured. I'll walk away right now. Is this thing bent? I'm not paying for that.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, is there somebody around here I could talk to who would know?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well. I'm not gonna go without you. Do you guys want 'em?",
+      "characters": [
+        "Kramer",
+        "Nina",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "I know it sounds pretty glamorous, but it's business as usual at Kramerica.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't believe it. You know better than to get involved with Kramer.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morgan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Hanke's moved on to Step Ten. He was spotted taking personal inventory.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "These mirrors are skinny mirrors. This is false ... reflecting. And I think, that the department of ... you know, whatever, would be very interested to know what's going on here.",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

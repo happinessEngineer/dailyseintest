@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1079,
+  "date": "2027-12-17",
+  "questions": [
+    {
+      "quote": "Yeah, but if you called up and described someone, do you think they would know who it was?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Darren"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, maybe I need somebody who has nothing, somebody who just has to appreciate being with me because he's so desperate.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Cynthia",
+        "Russell"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "\"That's all\"?! That's everything! I don't know what all the rest of it is for anyway!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Many times.  You love velvet, you want to live in velvet, everything with the velvet.",
+      "characters": [
+        "Eva",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am talking about you and Jodi. You're completely obsessed with her!",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "No, it's doing the same thing to someone that they did to you.",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, you wanna have sex right now? Do want to have sex with me right now? Let's go! C'mon, let's go baby! C'mon!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's that temper on your side. They're yelling and yelling, and then one day, they're all gone.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Yeah, Kramer. K-R-A-M-E-R. Uh, I don't know, wavy? George, how would you describe Kramer's hair?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Betsy",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is an astronaut pen. It writes upside down. They use this in space.",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    }
+  ]
+}

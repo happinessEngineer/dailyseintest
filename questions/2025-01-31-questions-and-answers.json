@@ -1,0 +1,106 @@
+{
+  "gameNumber": 29,
+  "date": "2025-01-31",
+  "questions": [
+    {
+      "quote": "I need like a bucket of water! I got a car overheating, I got an alarm that won't go off, I'm pressing 'one', I'm pressing 'two', nothing! What do I do?! Help me! Help me!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I went to the movies last night, I went to the bathroom and I unbuckled a little wobbly and the buckle kind of banged against the side of the urinal. So… that's it!",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hmm, that job sounds like it might be worth a year's free haircuts. And a comb.",
+      "characters": [
+        "Morty",
+        "Helen",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Now you're going to see what kind of liar you're mixed up with.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Duncan"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "I'm gonna go see if there are any girls on the beach. Elaine, you wanna come?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I saw Mom and Pop this morning, but when I went by the store on my way home? The place was empty. Everything is gone. Mom and Pop - vrooop - vanished.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, ever since she started dating Kramer, she won't even talk to me!",
+      "characters": [
+        "Elaine",
+        "Janet",
+        "Father",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you.  Oh ya, heh, I'll call you back. Ooh, Myra had the baby! Oh, my God that's wonderful! Who called?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And I know you wouldn't be just having fun with his handicap.  That kind of cruelty would be grounds for dismissal.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "That's nice. Listen, Kramer, you know, if you ever want to have kids you shouldn't wear briefs. Boxers are much better for your sperm count.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 763,
+  "date": "2027-02-04",
+  "questions": [
+    {
+      "quote": "Bad dog! Bad dog! You go outside! Outside!! What do you want from me? Tell me! Money, you want money? I'll give you money, how much?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well yeah, yeah. He could build the rocket, but-but he's still stupid for double-parking and blocking somebody in.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy! What a story! I'm speechless. Speechless. I have no speech.",
+      "characters": [
+        "George",
+        "Lisi",
+        "Dan",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I thought they wore gloves and helmets, you know, like \"American Gladiators.\"",
+      "characters": [
+        "Sandi",
+        "Jerry",
+        "Abby",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you mean you will? That's a bad idea. Jerry is a very private person.",
+      "characters": [
+        "Julie",
+        "Kramer",
+        "Fred",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, believe me it's not good. I'll mail you a new one with something really funny written on it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen uh, you want some leftovers? I made some African food. There's, yambalas and uh, sambusa.",
+      "characters": [
+        "Kramer",
+        "Fred",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, it's three-thirty in the morning. I'm at a cockfight. What am I clinging to?",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm afraid the problem with Zach is more serious. He's back on the horse, Elaine. Smack. White palace. The Chinaman's nightcap.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Doorman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "She's right in my building! Right above me! Every time I come in the building, I'm gonna have to sneak around like a cat burglar.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

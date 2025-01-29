@@ -1,0 +1,106 @@
+{
+  "gameNumber": 722,
+  "date": "2026-12-25",
+  "questions": [
+    {
+      "quote": "Look, that's his problem, alright? Now you don't like it, too bad.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steinbrenner",
+        "Ron"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "So I listened to my katra and now <vreep> I'm dominating the dojo. I'm class champion.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No I can't I've got some stuff to do then I've got to meet Keith at my apartment at three. I'm helping him move.",
+      "characters": [
+        "Ned",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How could I have tested positive twice? Once I could understand, that's a mistake. But twice?",
+      "characters": [
+        "Jerry",
+        "Ellen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you said you were gonna be here at a certain time, and you weren't.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, I gotta try and talk my mother into taking him off my hands.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know she was behind the idea. She was going to champion the show. That's what I was bring her up there to tell you. And she liked me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh!!.....Joseph Aboud .. and look at this hand ticking around the crest.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, perhaps one day when the pig-men roam free it will be stopped Kramer. Until then, off with their heads.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And now, there's this intense animosity whenever we pass. I mean, it's like we really hate each other. It's based on nothing.",
+      "characters": [
+        "Alec",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

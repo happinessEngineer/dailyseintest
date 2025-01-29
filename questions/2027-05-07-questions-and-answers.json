@@ -1,0 +1,106 @@
+{
+  "gameNumber": 855,
+  "date": "2027-05-07",
+  "questions": [
+    {
+      "quote": "That is so lame. Jerry, people are going to be reading that for the next twenty years and laughing at you.",
+      "characters": [
+        "Jake",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I'm not riffing. I'm ignoring! Do you understand the difference?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Lou"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'The lights are much brighter there. You can forget all your troubles, forget all your cares, just go...'",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, believe me, if I'd been with you there in Barcelona...you'd be polishing that medal right now.",
+      "characters": [
+        "Frank",
+        "Susan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that's what comes from avoiding manual labor your whole life.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's fantastic. We were out in front of the post office today, and not one person went in.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No George, it's so funny. We saw this cab driver's picture, right?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Marty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know with all do respect I would think it's right up your alley.",
+      "characters": [
+        "Bruce",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's one think to not give me the extension But to tease and to torture me like this. There's no call for that.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's right.  High-five!  On the flip side!  Takin' me to Arby's…",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

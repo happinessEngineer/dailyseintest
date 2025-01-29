@@ -1,0 +1,106 @@
+{
+  "gameNumber": 761,
+  "date": "2027-02-02",
+  "questions": [
+    {
+      "quote": "Oh, yeah. You know why? Because it's dinner time. And you know what you do at dinner?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Receptionist",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But, but of course they didn't do it, the police had made an awful mistake.",
+      "characters": [
+        "George",
+        "Helena",
+        "Regis",
+        "Jerry"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "Oh, you can have mine. I'll ship it out to you.  But what about that big apartment on West End Avenue?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, George. Come on, let's go. I'm putting it in a garage. The fight's starting in two minutes.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, fine. It's going to be very interesting, very interesting if they don't show up tonight. You know my mother made all this Paella.",
+      "characters": [
+        "George",
+        "Frank",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I'm glad you're here, so we can get this all straightened out. Would you like a cup of tea?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Duncan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You might've if I'd stayed. So you know what? I got served with papers today. Ping is suing me. I need your virgin as a witness. You better be nice to her.",
+      "characters": [
+        "Elaine",
+        "Lena",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I've been thinking. I cannot envision any circumstances in which I'll ever have the opportunity to have sex again. How's it gonna happen? I just don't see how it could occur.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Hey! Hey! Watch it.!... You're drooling all over the floor. How much Novocaine did that guy give you.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I think of you as part of my family. You've come to be like a daughter to me and I want to make sure you're taken care of after I'm gone.",
+      "characters": [
+        "Doorman",
+        "Pitt",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Pitt"
+    }
+  ]
+}

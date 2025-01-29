@@ -1,0 +1,106 @@
+{
+  "gameNumber": 549,
+  "date": "2026-07-05",
+  "questions": [
+    {
+      "quote": "Jerry, a gift not enjoyed is like a flower that doesn't blossom.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Another productive meeting. By the way, I saw that English Patient film last night. It was extraordinary.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Right, well I'm sorry, all right. I guess I was just thinking of myself.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Look, I don't like people talking about my shoes behind my back, okay? My shoes are my business. The two of you shouldn't have been looking at some fifteen year-old's cleavage anyway!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What?! They're stealing the name?! That's my name, I made it up!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Huh. Well, it all sounds pretty good. There's only one flaw in it: They're roommates. She'd have to go out with me behind Sandy's back. She's not gonna do that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lloyd",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now my sense of it is that you're probably wasting time working piecemeal, first cleaning one area, then another.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Worker",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it's Sharon from NYU. I'm just calling to tell you that I'm not going to play up that angle we talked about and I'm sorry.",
+      "characters": [
+        "George",
+        "Hallie",
+        "Jerry",
+        "Sharon"
+      ],
+      "correctAnswer": "Sharon"
+    },
+    {
+      "quote": "Nine hundred. Do I hear a thousand? Ladies, he is a Harvard graduate.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So Sherry, what do you remember about that day at the library?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

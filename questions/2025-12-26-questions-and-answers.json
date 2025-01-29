@@ -1,0 +1,106 @@
+{
+  "gameNumber": 358,
+  "date": "2025-12-26",
+  "questions": [
+    {
+      "quote": "...and uh, I'm afraid we have a bit of a problem. Well, the point is, doctor uh, I'm very much in love with Elaine...",
+      "characters": [
+        "Kramer",
+        "Michael",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Y'know my cousin knows the producer. I may get to go backstage and meet Olympia Dukakis.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "He's with the touring company of Joseph and the Amazing Technicolor Dreamcoat. He's the guy in charge of the wigs.",
+      "characters": [
+        "Dan",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Um, what was that last thing you gave me? That was pretty good.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Tim"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I kissed her in the meeting. Russell found out, he fired her over the phone. Finally, my stupidity pays off!",
+      "characters": [
+        "George",
+        "Bania",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Here you go. Mail is evil. Pass it on. Hey, mail blows. Fax it to a friend.",
+      "characters": [
+        "Maryedith",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright!  Hello, Alec? Hi, it's Jerry Seinfeld. You know, you got a great 'John Houseman' name. Alec Berg. Did you hand in your assignment, Mr. Berg?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sheila",
+        "Rachel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, white meat. And if I see one piece of dark meat on there. It's your ass buster.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I love the black and white. Two races of flavor living side by side in harmony. It's a wonderful thing isn't it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He'll always be criticizing your brushing technique, it'll drive you crazy.  Away from the gums...",
+      "characters": [
+        "Daphne",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

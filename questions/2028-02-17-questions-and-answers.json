@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1141,
+  "date": "2028-02-17",
+  "questions": [
+    {
+      "quote": "All right. So, what theatre you wanna go to tonight? We got 61st and 3rd or 84th and Broadway.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean you don't like it? How could you not like it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Under the circumstances, I don't really feel that we should be in business together.",
+      "characters": [
+        "Russell",
+        "Manny",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Yeah, wait here. Come on, sit down. What's the matter with you?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Noreen",
+        "Landlord"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know I never though he would be able to recreate the experience of actually knowing him, but this is pretty close.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright the administrator's on the third floor. I'll meet you guys back at the car.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "When my uncle said to him, 'the president's been shot' Oswald winked at him and said, 'I'm gonna go catch a movie'?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Rabbi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well, you wouldn't want that because you always have to remain friends!",
+      "characters": [
+        "Nina",
+        "Peterman",
+        "Elaine",
+        "Stan"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Oh, finding a Mohel is a piece of cake. Any idiot can find a Mohel. I have to hold the baby while they do it. That's a tough job. How would you like that?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well we should at least tell them what happened. They might be very late if they make it at all.",
+      "characters": [
+        "Kevin",
+        "Elaine",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

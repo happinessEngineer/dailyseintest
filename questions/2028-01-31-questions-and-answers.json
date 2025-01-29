@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1124,
+  "date": "2028-01-31",
+  "questions": [
+    {
+      "quote": "Like a history of coffee tables, celebrities and their coffee tables. It's a natural. This is a story that must be told.",
+      "characters": [
+        "Kramer",
+        "Pitt",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, baking soda. Annoying little product. 'I can do this. I can do that.' Why doesn't this stuff just shut up?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Kramer's the only person who could say something like that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not worried about their best pitching. They got pitching. ...They got no hitting.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'Just listen to the music of the traffic, in the city. Linger on the sidewalk, where the neon lights are pretty.' Where the neon lights are pretty. The Broadway area?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, all you have to do is pay the full fare now, then return to any one of our counters with a copy of the death certificate, and we'll refund half your fare.",
+      "characters": [
+        "Todd",
+        "Clerk",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "I don't mean to interrupt or anything, but on Sunday, my friend is having a brunch for the New York Marathon.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I tried to stop him. I couldn't. He just wants to make people happy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not much!  I, uh, would have invited you up, but I don't have any furniture.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Carl"
+      ],
+      "correctAnswer": "Carl"
+    },
+    {
+      "quote": "What about the woman who's been drugged and taken advantage of?",
+      "characters": [
+        "Levitan",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

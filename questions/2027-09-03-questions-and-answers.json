@@ -1,0 +1,106 @@
+{
+  "gameNumber": 974,
+  "date": "2027-09-03",
+  "questions": [
+    {
+      "quote": "You know, I've seen you around the club. My name's Sidra. This is Marcie.",
+      "characters": [
+        "Susan",
+        "Helen",
+        "Sidra",
+        "Jerry"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "You think that could be a coincidence George? Is that possible?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Nina",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, if I hear an anguished \"oink\", I'm outta here. I-I don't see any pig-men. Look  Human, human, human...   Wait a second!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Father"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe I'm having trouble getting rid of Super Bowl tickets.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's no big deal. It's just some guy who's been running around Riverside park-pffff. You know, cutting people's heads off.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Y'know I remember when I was a kid growin up, kids would make fun of my name like you wouldn't believe-- \"Jerry Jerry Dingleberry\", and-hu \"Seinsmelled\"...",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah!! I found a quarter. Anybody want there clothes heated up?",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The appeal of the posse? The posse has tremendous appeal. Get away from the job, camp out, you're with your friends... Come on, it's a week-long game of hide-and-seek on horseback.",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't even question my instincts, because my instincts are honed.  Look at that.",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I knew this was going to happen. I just made a delicious casserole, but now it won't keep because I have no Tupperware.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

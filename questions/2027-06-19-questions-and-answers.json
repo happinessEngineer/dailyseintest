@@ -1,0 +1,106 @@
+{
+  "gameNumber": 898,
+  "date": "2027-06-19",
+  "questions": [
+    {
+      "quote": "No, no buts. We made up our minds.  We want Kramer. He showed us how much he cares about Steven.",
+      "characters": [
+        "Doorman",
+        "Stan",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Oh I'm lying. Why would I do it unless I was in mortal danger? I know it's against the law.",
+      "characters": [
+        "Jerry",
+        "Emily",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because they're the best Jerry, the best. Look. Maybe I'm just being paranoid.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'll tell ya, this sidler guy is really chapping my hide.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "hey, you know what? I just remembered something. I had a dream about that guy last night. This is amazing.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, you know why I didn't ask you, I mean I felt so uncomfortable, and you were so annoyed in the cab.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhm, look, I know this'll sound odd, but can I buy them from you?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, maybe we'll just stand and watch the tv. [knock knock]. I gotta go someone's at my door. Yeah!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, are you blind? He's a writer. He said his name was Sal Bass. Bass, Jerry! Instead of salmon, he went with bass! He just substituted one fish for another!",
+      "characters": [
+        "Bruce",
+        "Guy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "C'mon up.  You know what? Do me a favor. Don't even do the move anymore. You're gonna give it a bad name.",
+      "characters": [
+        "Tor",
+        "Abby",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

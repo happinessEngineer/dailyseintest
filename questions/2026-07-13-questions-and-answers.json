@@ -1,0 +1,106 @@
+{
+  "gameNumber": 557,
+  "date": "2026-07-13",
+  "questions": [
+    {
+      "quote": "Yeah, but if I take you to your door, then I have to go all the way around Central Park West, back to Columbus, you know it's all one way...",
+      "characters": [
+        "Mohel",
+        "Clerk",
+        "George",
+        "Wendy"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "how did I know you were here? Something drew me here. This is phenomenal.",
+      "characters": [
+        "George",
+        "Dwayne",
+        "Steve",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well why should that be? Oh, I have an idea. I have an idea. No call the day after that.",
+      "characters": [
+        "Announcer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you want me to paint you something? I'd love to paint you some- thing!",
+      "characters": [
+        "Newman",
+        "Gary",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told I had a bus transfer that was only good just for another hour.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I can't. What if I meet a woman? I'd always be worried about that first moment where I'd take it off and see that look of disappointment on her face.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, maybe because we were sitting in the right field stands cursing at him in the bullpen all game.",
+      "characters": [
+        "Ellen",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait `til I get my hands on that George. I am gonna *pull* that big hood over his little head... tie the strings, and suffocate. You remember that Panama hat? That was nothing.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So? We've always just kind've pecked. This one had a totally different dynamic.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And one more thing, you really think we need the exclamation point? Because, it's not \"Top of the Muffin *TO YOU!!!*\"",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

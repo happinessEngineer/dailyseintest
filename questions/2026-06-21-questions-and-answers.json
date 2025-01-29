@@ -1,0 +1,106 @@
+{
+  "gameNumber": 535,
+  "date": "2026-06-21",
+  "questions": [
+    {
+      "quote": "But I mean look at him. He's gotta be on his feet like that all day? That's brutal. I think I'm gonna say something to your uncle.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Carl",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, it's been two years. I mean isn't there like statue of limitations on that?",
+      "characters": [
+        "Billy",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, I think I know where this is going, and I am going somewhere else.",
+      "characters": [
+        "Elaine",
+        "Landis",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What?!? He doesn't have one appointment this whole month!?! Oh come on. I am dying here man. Hello, hello.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, it be so. I'm out there, Jerry, an' I'm lllovin' every minute of it!!!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Carl",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nothing, I'm gonna finish watching The Other Side Of Darkness.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "look guys, don't worry about it, I uh, Well I guess I better get going.",
+      "characters": [
+        "Frank",
+        "Keith",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Oh I'm sure she did, I'm sure they're impeccable. I'm talking about the ones that forge `em.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey George, did you buy that sweater knowing that red dot was on it because you could get it at a discount?",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but if you still look closely you can see ah, a little bump where the nose use to be. huhuhuhu.",
+      "characters": [
+        "Elaine",
+        "Enzo",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

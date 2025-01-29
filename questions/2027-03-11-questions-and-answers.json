@@ -1,0 +1,106 @@
+{
+  "gameNumber": 798,
+  "date": "2027-03-11",
+  "questions": [
+    {
+      "quote": "All right...we're going with adult contempo...  now... the failsafe. The wake-up guy...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Ray, listen, you really did a tremendous job cleaning that apartment.",
+      "characters": [
+        "Holly",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you saying, that I'm not good enough for this hideous dress?  Listen Natasha... I wouldn't be caught dead wearing your crummy little euro-trash rags.  I'll meet you outside.",
+      "characters": [
+        "Conrad",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what's up. My stepmother is violently ill, so I hit the button for poison control and I get you!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Valerie"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "They haul you aboard the mother ship, take you back to their planet as a curiosity. Now: would you rather be in their zoo, or their circus?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They've got everything there, Jerry. I underlined the best parts.",
+      "characters": [
+        "Jerry",
+        "Darryl",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, me too. Well, you can't expect to just forget the past completely.",
+      "characters": [
+        "Kramer",
+        "Eva",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Say you're getting intimate with a woman uh, you don't want her fumbling and struggling back there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, Danielle,  we should get going. I got a key made for you.",
+      "characters": [
+        "George",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, I've got some literature in my car that will change your whole way of thinking.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Maestro",
+        "Ned"
+      ],
+      "correctAnswer": "Ned"
+    }
+  ]
+}

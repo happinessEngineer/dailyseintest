@@ -1,0 +1,106 @@
+{
+  "gameNumber": 795,
+  "date": "2027-03-08",
+  "questions": [
+    {
+      "quote": "Can I have the address of that garage sale? Okay, thank you very much.  I found Mom and Pop, they're sellin' my sneakers!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He'll be all right. I must go and be with Misha now. I don't want you to come with me.",
+      "characters": [
+        "George",
+        "Wyck",
+        "Jerry",
+        "Katya"
+      ],
+      "correctAnswer": "Katya"
+    },
+    {
+      "quote": "Oh yeah yeah, George he came by and made more of those pudding skin singles. They're delicious.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm performing in this club on the east Side. You should come in.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, one question does come to mind. Have you considered just...asking them what happened to the briefcase?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The Van Buren Boys? There's a street gang named after President Martin Van Buren?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I did it. Hunh, we're going out as soon as she gets off of work and it'll still be daytime. You know I, I'm much better in the daytime then I am at night. it's less pressure.",
+      "characters": [
+        "Jerry",
+        "Dan",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have a vague recollection of doing something with someone, but it was a long, long time ago.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Duncan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Seth, if you knew the meeting was so important why did you go the lunch with me?",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, let me take down your number.  Is that Jerry Seinfeld?",
+      "characters": [
+        "Elaine",
+        "Marcy",
+        "Tim",
+        "Kramer"
+      ],
+      "correctAnswer": "Tim"
+    }
+  ]
+}

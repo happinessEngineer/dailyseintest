@@ -1,0 +1,106 @@
+{
+  "gameNumber": 380,
+  "date": "2026-01-17",
+  "questions": [
+    {
+      "quote": "Hey.  I'm going to tell you what I think. I know you don't care what I think, but I'm going to tell you. I think that you are terrific.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, I'll tell you what, Chubs, if that yogurt has fat in it, I will put myself on an all-yogurt diet for a week.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Clerk",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just came by to tell you - I'm really, really happy about this relationship. Really happy.",
+      "characters": [
+        "Marlene",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well if you and I ever got into, like a really serious fight you know, and the punches started flying -- who do you think would win?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Nina",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got some Cubans for George's wedding. They were more than I wanted to pay for but what the hell!",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, I have to call her, tell her where we are. I'm very lucky she's even considering seeing me at all.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean \"might\"? You don't think he really owned this car?",
+      "characters": [
+        "Rita",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, this is the way society functions. Aren't you a part of society? Because if you don't want to be a part of society, Jerry, why don't you just get in your car and move to the East Side!",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Except for one small problem. Hah, I left some books in her apartment.",
+      "characters": [
+        "Emily",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, it's a funny thing, because after the pilot got cancelled, we hadn't heard from you.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 891,
+  "date": "2027-06-12",
+  "questions": [
+    {
+      "quote": "Uh huh, okay, alright, bye. Huh, how do you like that? I'm gonna do some TV spots for Leapin' Larry's Appliance Store. That was Leapin' Larry himself, I'm gonna meet with him tomorrow.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, just get your thing together and let's get out of here.",
+      "characters": [
+        "Elaine",
+        "Clerk",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer! That... Kramer! I'm just about to leave, he calls me up. He begs me to sit in his car for two minutes, so he can pick up these birds...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I really like him but, well, I still haven't told him the tractor story.",
+      "characters": [
+        "Sophie",
+        "Valerie",
+        "Jerry",
+        "Harold"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "What do you have to go underwater for? What's down there that's so special?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Wendy",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "In your situation the only sex you're going to have better than make-up sex is if you're dent to prison and you have a conjugal visit.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah? This woman was selling them at this crazy party I was at last night. You'll appreciate this. Snapple?",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, the great thing about robbing a fat guy is it's an easy getaway. They can't really chase ya!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah! An' he is a friend, Jerry. He is reliable. He is considerate. He's like your, exact opposite.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! As a matter of fact! David Putty won't do the move anymore.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

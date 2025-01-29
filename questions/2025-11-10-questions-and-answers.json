@@ -1,0 +1,106 @@
+{
+  "gameNumber": 312,
+  "date": "2025-11-10",
+  "questions": [
+    {
+      "quote": "Yeah, I'm part of the solution now Jerry. Yeah, I went down there and I checked it out this morning. Here, take a look. Mile one-fourteen.",
+      "characters": [
+        "Kramer",
+        "Eva",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey.  Hey what're you watching? What is that? My Cousin Vinnie?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "All right, so what? You put out the catalog. How bad could it be?",
+      "characters": [
+        "Jerry",
+        "Silvio",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. That's a big oven. Huh. Listen. I was wondering if you could do me a favor.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now you didn't tell me you didn't know how to drive. You should have mentioned that.",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Where are you up to, with such a nice present, birthday party?",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Because if I watch it at my apartment I feel like I'm not doing anything. If I watch it here, I'm out of the house; I'm doing something.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"They took a pitching machine, a batting cage ,the in-field tarp and all of Mr Steinbrenner's vitamins.. Now , we have reasons to believe it's an inside job.\"",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Captain",
+        "George"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "All right! Yeah.. Courtside.. Whoa! Don't let this girl get away..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tell you this. If the real Phil Rizzuto was down there, this wouldn't be happening!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

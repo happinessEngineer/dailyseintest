@@ -1,0 +1,106 @@
+{
+  "gameNumber": 976,
+  "date": "2027-09-05",
+  "questions": [
+    {
+      "quote": "He said it was a show about nothing. So, I saw the pilot and I've got to tell you - I flipped out.",
+      "characters": [
+        "Kimbrough",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "Yeah, I eat the whole apple. The core, stem, seeds, everything.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jimmy",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, THANKS! This is FUN! Yeah, this turned out to be a GREAT weekend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it's not the money. It's my hand. It's crippled from writing and writing.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah I know. This would be good, but it would be the same. But if we go some place else, it would be different, but it might not be as good. It's a gamble. I get it.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Imagine how sick a person has to be to do something like that.  And these people are all over the place. You never know who's crazy, I could be one of these people.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the way, you know you're falling way behind on the 'I love you's.'",
+      "characters": [
+        "Meryl",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Meryl"
+    },
+    {
+      "quote": "This is what you used to build me up? This is where you got all that stupid katra stuff?",
+      "characters": [
+        "Jerry",
+        "Aaron",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. I am like a drug dealer. I got the guy hooked. I am having lunch at his desk everyday this week. He doesn't make a move without me. It's very exciting.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, the tickets are for tonight. So you and Bob can knock off a little early, so you both can get ready.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

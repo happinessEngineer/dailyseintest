@@ -1,0 +1,106 @@
+{
+  "gameNumber": 902,
+  "date": "2027-06-23",
+  "questions": [
+    {
+      "quote": "Wow. Well, don't you sweat it. You can use my car any time you want to.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Donna",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I would see no trouble in spending up to, say, ten thousand dollars. Have my secretary give you a signed cheque.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Suppose I told you I had fifty in mint condition, would you be interested?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, let's see, let's see. What else. What else. Oh yeah, what does she do?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Vandelay",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, \"with what?\" You know what. With the waitresses. How they're all... alike.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. OK. Maybe we could grab some lunch sometime. D-do you work around here or-?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What I don't get is, just because the battery is dead, you think she'd be able to roll up the hill with her hands!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, because you're perfect. You're a calculating, cold-hearted businesswoman. And when there's dirty work to be done, you don't mind stomping on a few throats.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's to see? A woman from Norway, a guy from Kenya, and twenty thousand losers.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "Mary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen. I need you to do me a favor. When's the next time you're gonna see him?",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "George",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

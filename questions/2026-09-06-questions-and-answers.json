@@ -1,0 +1,106 @@
+{
+  "gameNumber": 612,
+  "date": "2026-09-06",
+  "questions": [
+    {
+      "quote": "What are we doing out here? Aren't we going to go in and eat?",
+      "characters": [
+        "Jerry",
+        "Donald",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And now, uh, ladies and gentlemen of the press, it is my pleasure to introduce you to Mr Jake Jarmel.",
+      "characters": [
+        "George",
+        "Lippman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Listen, this is a million dollars we're talkin' about, Jerry, now this is the big league, the big time, now I need you on my team, Jerry!",
+      "characters": [
+        "Kramer",
+        "Marty",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute. Wait a minute. It's from that grapefruit that Jerry squirted at me.",
+      "characters": [
+        "George",
+        "Tia",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, look! You gotta help me! I can't have 'em near me! If I have one pair in my house, I'm gonna wear them!",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "25 kids for his birthday party?  Don't put your tongue on the floor! He's putting his tongue on the floor! Here, here, have some more sugar packets.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Marcy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah,  I guess I'd better. I wouldn't want to take any attention away from the hookers!",
+      "characters": [
+        "Jerry",
+        "Mohel",
+        "Kramer",
+        "Corinne"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "That's a nice name. Todd Gack. Is that Dutch?  Oh baby. Here we go. Uh momma. Hey George hey.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hi! I'm Pam. You must be Kramer.  Jerry's told me a lot about you.  Well, I'm supposed to meet Jerry, it's my day off. I work in a bookstore.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Pam"
+      ],
+      "correctAnswer": "Pam"
+    },
+    {
+      "quote": "Don't tell me about business! I sold raincoats for thirty-five years!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Nina"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

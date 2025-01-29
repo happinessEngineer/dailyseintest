@@ -1,0 +1,106 @@
+{
+  "gameNumber": 284,
+  "date": "2025-10-13",
+  "questions": [
+    {
+      "quote": "No, no, I didn't say you could keep it. You see I don't give away tupperware.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no. I have to get home tonight. Bridget's gonna be waiting for me at the Diplomat's Club. Rent a car.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute. This looks familiar. This reminds me of something. I can do this.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just 'cause of that? It's like finding out Mickey Mantle corked his bat!",
+      "characters": [
+        "George",
+        "Peterman",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, why do they make that bed so tight? You gotta sleep with your feet like that.",
+      "characters": [
+        "Kramer",
+        "Sid",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Believe me. You know, I forgot how much fun it is hanging out with you.",
+      "characters": [
+        "Aaron",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Darren? What are you doing here? The college canceled the internship.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No! Not part of the show! Booing and hissing are not part of the show! You boo puppets! You hiss villains in silent movies!",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "SHUT UP!! Shut up Farfel, stop it!  I don't know what to do. I mean what if I take it to the pound then the guy shows up?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We'll see about that.  Kramer, I'm comin' up! We got a cockfight to win!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

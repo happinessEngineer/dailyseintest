@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1089,
+  "date": "2027-12-27",
+  "questions": [
+    {
+      "quote": "\"I have to go see Steinbrenner later. Mr Wilhelm told him that I was the one responsable for stealing all the merchandise.\"",
+      "characters": [
+        "Doctor",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was a little nervous, I got distracted. It has something to do with a car, or a fish...",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no. Out of the question. I was over there today. He's got the good spot in front of the good building in the good neighbourhood. I know he's not gonna wanna move.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've been out with him three times, I should know the mans name.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm interviewing all these annoying little overachievers.. finally, this kid walks in - Steven Koren - a regular guy.. likes sports.. watches T.V..",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I put that Chinese balm on that the Maestro gave me. And look, it healed it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's a clothing store downtown. They got a mannequin in there that looks exactly like Elaine.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, Gary  I had a little chat with George the other day...",
+      "characters": [
+        "Voice",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's alright, I'm your fiance. Everyone assumes you'll tell me everything.",
+      "characters": [
+        "Susan",
+        "Morty",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Yeah, so Lenny gave me the tickets for tomorrow night. I'm inviting Frank and Marsha. 'Wantcha to come.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Ben",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    }
+  ]
+}

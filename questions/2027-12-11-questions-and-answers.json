@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1073,
+  "date": "2027-12-11",
+  "questions": [
+    {
+      "quote": "A poppy seed! It must have been in the chicken. Oh, I'm dead. I'm going to the doctor's in a half an hour.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, yeah. Give me a ring tomorrow. I'm gonna be at emergency callbox seven-eight-four.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, uh equivalency. A high school equivalency program graduate.  He's uh, self-employed. He's... I don't know, six foot three, 190 pounds, he likes, uh... fruit, and he just got uh, a haircut.",
+      "characters": [
+        "Elaine",
+        "Dan",
+        "Kramer",
+        "Willie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you very much. You just stand over there, I?ll stand over here.",
+      "characters": [
+        "Sheila",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, anyway, let me show you Memphis. I am taking you  out to dinner.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sally",
+        "Kramer"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Well, I was just in the neighborhood visiting my mother so I thought I'd drop by and say, \"Hello\".",
+      "characters": [
+        "Lloyd",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Ohh.. thank you.  Huh..  Wha-- why does a toothbrush come in such a big box?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Brett",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well this worked out okay. So are you going to see the police woman?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George and I just signed up with the Senior Citizen's Volunteer Agency. Same thing Elaine's doing.",
+      "characters": [
+        "Steinbrenner",
+        "Lloyd",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, the basic idea of negotiation, as I understand it, is to get your price to go... up.",
+      "characters": [
+        "George",
+        "Roy",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

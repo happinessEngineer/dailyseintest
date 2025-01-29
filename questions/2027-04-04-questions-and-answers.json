@@ -1,0 +1,106 @@
+{
+  "gameNumber": 822,
+  "date": "2027-04-04",
+  "questions": [
+    {
+      "quote": "Sorry, George, our Chinese food just came. Talk to you later.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So I set up a screening, everyone takes their shirt off and click, I snap me a shot of a bear-chested Kruger.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Ellen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. All right. Well, do you still want to see a movie later?",
+      "characters": [
+        "Gillian",
+        "Jerry",
+        "George",
+        "Betsy"
+      ],
+      "correctAnswer": "Gillian"
+    },
+    {
+      "quote": "Oh, yeah, yeah.  Well, you guys just watch the tape and, uh, I'll get you some food.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I once broke up with a guy because he didn't keep his bathroom clean enough.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know I got someone to make up that cologne for me, big mouth.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yeah, and vice versa. Mother Nature's a mad scientist, Jerry.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine is having a \"houseguest.\" She's picking him up at the airport tonight.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's too late. I gave it to Elaine, and she's already on her way to give it to George's father.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is it! It happened to me, Jerry! I was sitting in the restaurant, the two nut jobs were talking - I couldn't take it any more. I got up, and  I bop into this woman..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

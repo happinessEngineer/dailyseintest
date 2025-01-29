@@ -1,0 +1,106 @@
+{
+  "gameNumber": 362,
+  "date": "2025-12-30",
+  "questions": [
+    {
+      "quote": "This is my ketchup. I bought this ketchup just so I could have as much as I want.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You! Take off your socks, your pants, your underwear. We're doing the wash. C'mon! Take it off, take it off!",
+      "characters": [
+        "Tv",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine! Excellent. I'd like you to meet a friend of mine, Irwin Lubeck.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Estelle",
+        "Helen"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well boys, I did it. I had to stay up all night but I finally came up with a great New Yorker cartoon.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "John",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Pauline? . . . Wait a minute. I got it. My brother once impregnated a woman named Pauline.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who else have you mentioned my shoes to, huh? I wanna know why my footwear is your conversation!",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, bye. : You see this? Any thought pops into their head they're calling me because it's a local call now.",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Oh no, you got to eat before surgery, you need your strength.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know you could've thrown a pencil out the window and seen if that came back.",
+      "characters": [
+        "Elaine",
+        "Mike",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh. It's really not that bad, actually. He said he'd even go with me to the Museum of Miniatures. This is something you would never ever do.",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Dan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

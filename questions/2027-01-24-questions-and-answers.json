@@ -1,0 +1,106 @@
+{
+  "gameNumber": 752,
+  "date": "2027-01-24",
+  "questions": [
+    {
+      "quote": "No, no, I think I agree with you. I mean, all this talk about having babies.",
+      "characters": [
+        "Kevin",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "Yeah. This friend of a friend knows this banker guy, he's, I don't know, 30 years, unbelievably gorgeous, of course he's gay.",
+      "characters": [
+        "George",
+        "Tony",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, every time he tries to make a move, something screws up. Like on their last date, they were on the couch, but she was sitting on his wrong side.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "In the old days how do you think they got the alcohol from town to town?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Glenn"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Show this card at any participating Orlando-area Exxon station...to get your free 'Save the Tiger' poster.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I remember saying to myself, \"Why is Jerry so far off the base?\"",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A gymnast! I can't believe it, you didn't tell me she was a gymnast.",
+      "characters": [
+        "George",
+        "Valerie",
+        "Kramer",
+        "Clerk"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why can't I meet a Kennedy? ..I saw John Junior once downtown. I was on a bus. I hit the ding, but.. it didn't stop.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, but... he has... The Worst Habit. Whenever he answers the phone, he won't put Noreen right on. Ya have'ta go through, like, ten minutes of chit-chat.",
+      "characters": [
+        "Jerry",
+        "Sally",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But that's what podiatrists do. They deal in fungus. They're knee- deep in fungus. This guy knows fungus.",
+      "characters": [
+        "Kramer",
+        "Receptionist",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 307,
+  "date": "2025-11-05",
+  "questions": [
+    {
+      "quote": "Yes, yes. The quality, the texture, the intoxicating aroma. These guys don't have it.",
+      "characters": [
+        "Kramer",
+        "Greg",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's proposing a plan where everyone in the city should wear name tags.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, he'd been logging some pretty heavy hours, first one in in the morning, last one to leave at night.  That kid was a human dynamo.",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "After Dinkins lost the election, he had a complete nervous breakdown. They had to lock him up.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rebecca",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, don't tell it to me George, tell it to the new Assistant to the General Manager.",
+      "characters": [
+        "Kevin",
+        "Patrice",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Look, they have it in blue...for my baby bluey. Are you my baby bluey?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Here, here. Jerry Seinfeld, I cannot believe you're doing this. This is absolutely infantile.",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Vivian left me a message. I guess a certain someone changed her mind about whether someone was responsible enough to watch certain other someone.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, what are you doing tomorrow? I was thinking that we could go down...",
+      "characters": [
+        "Melissa",
+        "Elaine",
+        "Jerry",
+        "Captain"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "Ehh.  Remember that summer at Dairy Queen where I cooled my feet in the soft-serve machine?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

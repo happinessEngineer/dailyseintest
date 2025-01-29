@@ -1,0 +1,106 @@
+{
+  "gameNumber": 611,
+  "date": "2026-09-05",
+  "questions": [
+    {
+      "quote": "Hey. You know, do I have a case for you guys to do on L.A. Law.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If this lip reading thing works tonight do you know how incredible this is going to be? It's like having Superman for your friend.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh!  Do you know what this means, it's like working with Tolstoy!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes several.. Just tell him he doesn't have to be in tomorrow before Eleven.",
+      "characters": [
+        "Kramer",
+        "Bob",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "We're just talking. Is this not the greatest marketing ploy ever? If you feel good, you're supposed to take one!",
+      "characters": [
+        "Man",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because the judge decreed he'd become my butler, not my friend's butler.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's lying. They're in the trunk  Now you get to sign another one.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I went too far. I over seasoned it. Men were keeling over all around me. I can still hear the retching, the screaming. I sent sixteen of my own men to the latrines that night. They were just boys.",
+      "characters": [
+        "Kramer",
+        "George",
+        "James",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "...and I brought I whole new set of cookware, and a Water Pik.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you like to buy me a fat-free frozen yogurt at the store, Kramer?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helena",
+        "Jerry"
+      ],
+      "correctAnswer": "Helena"
+    }
+  ]
+}

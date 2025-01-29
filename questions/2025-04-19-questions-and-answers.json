@@ -1,0 +1,106 @@
+{
+  "gameNumber": 107,
+  "date": "2025-04-19",
+  "questions": [
+    {
+      "quote": "Well, not anymore. He traded it to me for some Hollywood memorabilia.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, see those two women over there? I almost dated the one on the right. She's in the closet business.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Lena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She was practically undressing in front of me at the theatre.",
+      "characters": [
+        "Lloyd",
+        "Jerry",
+        "George",
+        "Eva"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Mmm-mmm-mmm. That means, if you still had those stock options...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Gail"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Drop the case? Well, congratulations, that'll save you some money.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I finally realized what's missing, in my life. Structure. An' at Brand/Leland, I'm gettin' things done. An' I love the people I'm workin' with.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Tim",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I've seen you so many times and now we can finally talk to each other.",
+      "characters": [
+        "Jerry",
+        "Mary",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "Oh yeah, he's fine, fine. He was in bad shape for a while though.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know a chef who doesn't wash is like a cop who steals. It's a cry for help, he wants to get caught.",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Will you look at that kid. Sucking away. Sucking like there's no tomorrow. Suck, suck, suck...",
+      "characters": [
+        "Stan",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Stan"
+    }
+  ]
+}

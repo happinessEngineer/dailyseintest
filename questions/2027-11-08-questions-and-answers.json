@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1040,
+  "date": "2027-11-08",
+  "questions": [
+    {
+      "quote": "So everyone will know everybody's name. See, people are gonna be a lot friendlier.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tried! I almost threw it down the incinerator, but I couldn't do it. The guilt was too overwhelming.  Susan's so attached to this thing.",
+      "characters": [
+        "Gina",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Comming up on the right, if you glance up you can just make out my bedroom window. It's the one that's covered in chicken wire.",
+      "characters": [
+        "Blaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And she didn't say something to you about a certain something?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, basically George the job here is quite simple. Selling bras.",
+      "characters": [
+        "Kate",
+        "George",
+        "Farkus",
+        "Glenn"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "She hasn't seen the article! When she sees it, she's gonna think-- *I'm out baby*!! I'm out!!!!!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "uh.. mañana? huh mañana might.. huh mañana might be a problem, I'm supposed to have huh a boil lanced mañana. Huh you know I think they charge me if I cancel with only one mañana's notice",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So I finally stop and say, \"Tatiana, I hope you don't take this the wrong way, but I think it would be best if I left\".",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. Now you listen, and you listen good. I know who you are. You're the scofflaw.",
+      "characters": [
+        "Announcer",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

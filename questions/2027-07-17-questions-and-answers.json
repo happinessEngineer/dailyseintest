@@ -1,0 +1,106 @@
+{
+  "gameNumber": 926,
+  "date": "2027-07-17",
+  "questions": [
+    {
+      "quote": "With Jon Voight's teeth marks.  Owner's manual...you know what? This car was owned by Jon Voight.",
+      "characters": [
+        "Cop",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, well, you know, I'm not thinking about the price. You know you're the only woman I've never thought about the price. Get the lobster. I beg you to get the lobster. Go for the lobster.",
+      "characters": [
+        "Elaine",
+        "Matthew",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You put a label on something, then ten minutes later it would peel right off.  It was the worst gift I ever got.",
+      "characters": [
+        "George",
+        "Audrey",
+        "Farkus",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Mr. Thomassoulo during times of great stress, people are capable of super human strength. Have you ever seen the Incredible Hulk, sir?",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Those birthdays. I told you. They're relationship killers. If a relationship is having any problems whatsoever, a birthday will always bring it out.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I cannot believe Lindsay's still seeing you after that \"Breakfast at Tiffany's\" thing.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe it was Ghostbusters? Where ever it was, it worked!",
+      "characters": [
+        "Peterman",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean, 'what is it?' It's a country right next to Belgium.",
+      "characters": [
+        "Corinne",
+        "Jerry",
+        "Kramer",
+        "Dan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should slow down, you know that? It's dangerous to go that fast.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright George, I'll be honest. The first time we went out, I found you very irritating. But after seeing you a couple of times, you sorta got stuck in my head,  Ca-stan-za!",
+      "characters": [
+        "Elaine",
+        "Doorman",
+        "Heather",
+        "Kramer"
+      ],
+      "correctAnswer": "Heather"
+    }
+  ]
+}

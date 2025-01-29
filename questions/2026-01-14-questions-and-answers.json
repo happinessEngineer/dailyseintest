@@ -1,0 +1,106 @@
+{
+  "gameNumber": 377,
+  "date": "2026-01-14",
+  "questions": [
+    {
+      "quote": "You know what you oughta do. You should go to her office and heckle her.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm taking the car. I gotta run some errands. You want to go?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Never mind who I am. I know who I am. Do you know who you are?  Why is it every time you park a car in this block, everything gets disrupted and disjointed?",
+      "characters": [
+        "George",
+        "Gavin",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Jerry, this is Joanne, and this is Stan. They're in my short story class with Roxanne and me.",
+      "characters": [
+        "Elaine",
+        "Stu",
+        "Abby",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, when I heard you weren't coming I made up and excuse and got the hell out of there.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Tv"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I gotta find a way to work this out, I love that apartment.  It's so cozy, I'm ensconced in velvet.  You know, if it were socially acceptable--",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Saturday?.. Well, I have a show in Buffalo on Saturday. They're not gonna bust up my apartment, or anything, are they?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sally",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I saw her last week, she looked healthy and peaceful, but...she knew...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah yeah, we're cracking along pretty good! We're almost up to 80 degrees!",
+      "characters": [
+        "Estelle",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not stopping you from eating. Go ahead and eat. Get anything you want.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

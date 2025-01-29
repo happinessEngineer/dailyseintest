@@ -1,0 +1,106 @@
+{
+  "gameNumber": 161,
+  "date": "2025-06-12",
+  "questions": [
+    {
+      "quote": "I don't see any tissues back her..  Wait a minute!..  This isn't the way to the park!  Where are we going?.. I recognize this block!  You're taking me to the doctor!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hi Elaine, hey.  Hey, you missed a great game tonight, buddy!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I - I can't wear this puffy shirt on TV! I mean, look at it! It looks ridiculous!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I still don't know what I'm supposed to do. I don't even know what my assignment is.",
+      "characters": [
+        "Morty",
+        "Jack",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was not winking you idiot. That was the grapefruit. It's like acid. I need that card back. It's Mr. Steinbrenner's. I was responsible.",
+      "characters": [
+        "Corinne",
+        "Mary",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't take this anymore! I don't want to hear how interesting the change with the hole in it is! And if you tell me what time it is in New York again, you are going home in a body bag!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Leo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's just no justice. This experience has changed me. It's made me more cynical, more bitter, more jaded.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you think this is such a good idea, with you being on the verge of this big promotion?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell ya, I think birth control should be discussed in an open forum.",
+      "characters": [
+        "Kramer",
+        "Poppie",
+        "Eddie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I been, uh, thinking about the family. Tell me, uh, about Aunt Baby.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 590,
+  "date": "2026-08-15",
+  "questions": [
+    {
+      "quote": "Hoh. Yes, yes, you're right. That's right. I'll bring her over to meet...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Hanke",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who doesn't like cashmere? Find me one person in the world that doesn't like cashmere. It's too expensive.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, I gotta go to, uh, Susan's parent's house for dinner.. and, you know, I want to shower first.. and I want to leave myself plenty of time.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about your side? Your cousin Hennie.  She was sickly from the moment I met her!",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You don't know what that spot means to him. Once he gets it, he doesn't go out for weeks.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, you want to know how far you can drive your friend's car for free.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Sophie",
+        "Rick"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "David, this has been the worst month of my life and if I never see you again it'll be too soon.",
+      "characters": [
+        "Frank",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're a rabid anti-dentite! Oh, it starts with a few jokes and some slurs. \"Hey, denty!\" Next thing you know you're saying they should have their own schools.",
+      "characters": [
+        "Manager",
+        "Jerry",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm a friend. Who do you think told him to pour the Gatorade over Marty Benson's head?",
+      "characters": [
+        "Barry",
+        "George",
+        "Rudy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what I was just thinking -- she could really use a raise.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

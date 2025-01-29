@@ -1,0 +1,106 @@
+{
+  "gameNumber": 969,
+  "date": "2027-08-29",
+  "questions": [
+    {
+      "quote": "I said, I would like you to leave. Come on, just get your clothes on and get out.",
+      "characters": [
+        "Morty",
+        "Karen",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "But this isn't fair! Lookit, my neck is still hurting me, and now you have the bike?!",
+      "characters": [
+        "Elaine",
+        "Sally",
+        "Izzy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah, so she sees me and she goes,  \"Oh, hi! Kramer!\" You know? Like nothing happened! Like she never you know went three dates with you and refused to kiss you goodnight.",
+      "characters": [
+        "George",
+        "Heather",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is with this guy? I've been waiting three and a half hours. Should I go? No way Jack! ??? at the registrar again, I'll tell you that.",
+      "characters": [
+        "Steinbrenner",
+        "Toby",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I think he was trying to tell me something, like it had some sort of a meaning.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The uh, the shoe laces that you bought me, they uh, they worked out well.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Marcy",
+        "Clerk"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you a question. This, uh, this turkey sandwich here, is that real turkey, or is it a turkey roll? I don't want that processed turkey.  I hate it.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "They're the ones who should be ashamed. They signed me to a one-year contract. As long as I show up for work every day, they have to pay me.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, well why don't we smooth the head down to nothing, stick a pumpkin under its arm and change the nameplate to Ichabod Crane?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"I dunno how you could forget . He kept reffering to himself in the third person. \"Jimmy's under the boards. Jimmy's in the open. Jimmy makes the shot.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Sharon"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 659,
+  "date": "2026-10-23",
+  "questions": [
+    {
+      "quote": "Yes! I would like to very much!... Well, I'm low, aren't I? I ca--I can feel it!...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not force-feeding myself a steak at four-thirty to save a coupla bucks, I'll tell you that!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi. I'm your neighbour, uh, fr... from across the street. And uh,  I was wondering, if it wouldn't be too much trouble, if I could use your apartment to order some food?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Heatbreaker, Brewbaker, …\" Hey George, I remember that tune. George? George? Um, what's that ticking. Oh oh. Oh, oooh,…wo wo wo wo . [runs out] fire in the hole!",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Vandelay",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "There's already an ambulance here for Mrs Glickman. There's room for one more.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Jerry! We've lost the fat man, and we're running lean. We're back on track, buddy!",
+      "characters": [
+        "Dana",
+        "Kramer",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no. C'mon, put something else on. It's early, let's go out.",
+      "characters": [
+        "Jane",
+        "George",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, what the difference? You know, you're the ones obsessed with this stuff, not us. I'm sure it wouldn't matter to Jane.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Bye, Koko. Whew! Jerry, this relationship is killing me. The distance, the longing, the distance, the-- you know, I didn't realize it, but I'm a needy person.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Karen",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No no no no no, these are good. Listen, listen: You ran out of underwear, you can't leave the house.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

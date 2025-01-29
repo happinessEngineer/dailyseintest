@@ -1,0 +1,106 @@
+{
+  "gameNumber": 767,
+  "date": "2027-02-08",
+  "questions": [
+    {
+      "quote": "Look at this. Boy, one minute Elliot Gould is sitting on you and the next thing - you're yesterday's trash.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, all right. What. What. You tell me; I'll do anything. Come on, Doc, tell me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was squinting! Remember that drive from Wortsborough?  I was spotting those raccoons.",
+      "characters": [
+        "Jerry",
+        "Brett",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Every time we go out to eat the minute we we're done eating she's runnin to the bathroom.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I don't do \"bits.\" I'm a prop comic. Dammit, I can't find my water gun. I can't go on without my water gun.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Ronnie",
+        "Elaine"
+      ],
+      "correctAnswer": "Ronnie"
+    },
+    {
+      "quote": "Well, for me it's a step up. It's like moving from Iceland to Finland.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George I've just reading this thing in the paper, it's unbelievable!",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello? Yes, I need an ambulance at one twenty nine west Eighty-first Street, apartment five-A.",
+      "characters": [
+        "Elaine",
+        "Aaron",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The way I remember it, Cain, he was a successful doctor, but when he took this special formula, he became Mr. Able.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "…And then Julianna asked me if I wanted to join her here in the office.",
+      "characters": [
+        "Raymond",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Raymond"
+    }
+  ]
+}

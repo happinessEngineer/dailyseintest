@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1008,
+  "date": "2027-10-07",
+  "questions": [
+    {
+      "quote": "Well, you should probably ask, because if he's gonna be coming over with those Paccino's pizzas...could be trouble.",
+      "characters": [
+        "Farkus",
+        "Tom",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told him I didn't take his Chuckle. I don't eat that gooey crap!",
+      "characters": [
+        "Joyce",
+        "Elaine",
+        "George",
+        "Driver"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "I had to listen to a five minute discussion on which one is actually called shmoopy.",
+      "characters": [
+        "Jerry",
+        "Chiles",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"One hundred percent Cotton Dockers. If they're not Dockers, they're just pants\"",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See, I don't get that. First they come out with the regular, then a year later they come out with the cherry. They know that we like the cherry, start with cherry! Then come out with the regular!",
+      "characters": [
+        "Darren",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Bite-size Three Musketeers. Just like the real Peterman eats.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I'm sorry but, I didn't mention it earlier but actually I preferred to be called Maestro.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Ohmygod! Lippman could see this! He thinks I was visiting my father! Oh my g-I make up one little white lie and they put my picture in the paper!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If you know what happened in the Met game, don't say anything, I taped it, hello. Yeah, no, I'm sorry, you have the wrong number. Yeah, no",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I could get uromycitisis poisoning and die - that's why.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

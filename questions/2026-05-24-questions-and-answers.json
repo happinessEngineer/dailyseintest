@@ -1,0 +1,106 @@
+{
+  "gameNumber": 507,
+  "date": "2026-05-24",
+  "questions": [
+    {
+      "quote": "No, no, no, I don't want to carry it around all night. I'll pick it up later.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Pitt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I see what you mean. I forgot who I was dealing with here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, well, see, here's the thing, Babu. Um, what happened was I was away for a couple of weeks doing some comedy shows.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Powerful. He is so powerful, he can lift a hundred pounds right up over his head. And um, what else. What else. Oh, right. Um, well, he's kind of, just kind of losing his hair.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sure, I fix. But you gotta make sure you no tell anybody. He's a little crazy. I don't know what he'd do if he found out I touch Jerry's hair.",
+      "characters": [
+        "Elaine",
+        "Gino",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Gino"
+    },
+    {
+      "quote": "I hear the fella owns a couple of racehorses. You know, trotters, like at Yonkers.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Woah, wait, wait, wait. If you make a birthday wish out loud, it doesn't come true.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, first let me just say I've never been with a guy who was so committed to commit. I mean it's so rare in men these days an, that's what makes this all the more difficult.",
+      "characters": [
+        "Daphne",
+        "Seth",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "I dunno, Jerry somethin's missing. There's a void, Jerry, there's a void...",
+      "characters": [
+        "George",
+        "Michael",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. Anyway I thought we'd all go to a movie on Friday.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Janet",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1039,
+  "date": "2027-11-07",
+  "questions": [
+    {
+      "quote": "You know, my insurance doesn't cover this? The whole thing is a total loss!",
+      "characters": [
+        "Frank",
+        "Gennice",
+        "Carol",
+        "Morty"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Rugged? The man's a goblin. He's only been exposed to smoke for four days. By the time this case gets to trial, he'll be nothing more than a shrunken head.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Quite a dilemma. You know, I have a bit of a dilemma of my own.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well anyway, the, uh... the stone is up, I paid my respects, guess that's it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bottom of the eighth, score tied at one apiece. Two and one to Paul O'Neill.",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "Rachel",
+        "Tv"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "Well, uh..  \"What is this stuff? Why do we need this stuff?.. And why do they make it so small..?\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, well if you change your mind, we'll wind up as Isabella's probably around seven.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I only went in front first 'cause I could make it in front first and if you pull out I'll show you!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Great, its yours. I can't stand the sight of it. Elaine, here's the car keys.",
+      "characters": [
+        "Jerry",
+        "Marty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you see, that's terrible. The problem is, that curtain is no security-- there really should be a locking door.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

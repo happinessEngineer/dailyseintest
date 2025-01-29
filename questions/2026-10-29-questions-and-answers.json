@@ -1,0 +1,106 @@
+{
+  "gameNumber": 665,
+  "date": "2026-10-29",
+  "questions": [
+    {
+      "quote": "You know what my feelings are about this. I don't even pay taxes.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. uh..I was in here the other day and I went up to that teller and he didn't say hello.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh!! Let me ask you a question. Was the movie part of the bet?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah well, the budget changed, you know. I mean, it might be a good investment.",
+      "characters": [
+        "Frank",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "What d'you mean it doesn't work? You get enough bottles together...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So, anyone sweaty comes into your house has to be offered a drink?",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No believe me, I'm always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",
+      "characters": [
+        "Morgan",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, he just got me thirty percent off on an air conditioner.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, you were lucky that I was there. You lost a lot of blood.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm going to miss 60 Minutes. You know, I hate to miss 60 Minutes. It's part of my Sunday weekend wind-down.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

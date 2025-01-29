@@ -1,0 +1,106 @@
+{
+  "gameNumber": 463,
+  "date": "2026-04-10",
+  "questions": [
+    {
+      "quote": "Well I've been going with him for 12 years. I can't switch. I'd hurt his feelings.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what's been going on around this dump? How's your fiancee?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Beth",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. I couldn't see. I couldn't look down because of my neck.",
+      "characters": [
+        "George",
+        "Daphne",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We were talking about our lives and we both kind of realized we're kids. We're not men.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh No, wait a second... Wait a second... I-I don't know the name of this woman in the bathroom, so when she comes out, you introduce yourself and then she'll be forced to say her name.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, if you must know, shhhe, was my fiancée, Susan. May she rest in peace.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm just waiting for my friend George, we worked out together.",
+      "characters": [
+        "Glenn",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm not a phony an' I don't want anything to do with this guy.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Rick"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, those civil servants who risk their lives really got it made.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? What? Who? Me-me-me? I made an impression? What impression?",
+      "characters": [
+        "Jerry",
+        "Gina",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

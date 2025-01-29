@@ -1,0 +1,106 @@
+{
+  "gameNumber": 758,
+  "date": "2027-01-30",
+  "questions": [
+    {
+      "quote": "Yes. Between you, me and the lamppost. And the desk. Peggy says this \"Suze\" isn't much of a Worker.",
+      "characters": [
+        "Maura",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Huh? You know? Spring. Rejuvenation. Rebirth. Everything's blooming. All that crap.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, ... you are making some wisecracks in a night club... wo wo wo. The guy was in game SIX two runs down two outs facing elimination.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Katie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm saying, if a situation arose in which you didn't want it, I might take it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cause sometimes I write in bed and I have to turn and lean on my elbow to make the pen work.",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, now I know it's not him. Joe DiMaggio could not be a dunker.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know that store, Putumayo?  I was trying to buy these hirachis, right, and the saleswoman just completely ignored me.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Anna",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. We were going to see that but it was sold out. So were going to see\"Blame it on the Rain\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, you should. I certainly remember you. Let me refresh your memory.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can get you a spot right behind him. He has got a great butt.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Joyce",
+        "Kramer"
+      ],
+      "correctAnswer": "Joyce"
+    }
+  ]
+}

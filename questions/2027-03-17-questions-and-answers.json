@@ -1,0 +1,106 @@
+{
+  "gameNumber": 804,
+  "date": "2027-03-17",
+  "questions": [
+    {
+      "quote": "Whatever it takes, for as long as it takes me, where ever it takes me as long as it takes you away from me!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Stu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look I, I uh, I had nothing to do with this. It wasn't my decision. It was Jerry! Jerry told me no. I'm the creative guy. He handles the business end.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ugh, does it have to be Hop Sing's. I kind of had a fight with him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, the nerve. You know, some people have asked me if you've uh, done that.",
+      "characters": [
+        "Morty",
+        "Alton",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Well I'll tell you I'm looking forward to my appointment on Thursday. I might even get there a few minutes early.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "David",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, she'll be here. . . . Oh no, my frankfurter, my frankfurter fell  . It was really good. I can't believe that I dropped it.",
+      "characters": [
+        "Gennice",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Gennice"
+    },
+    {
+      "quote": "Alright, now the play is tomorrow night. So do you want to have dinner first, or do you just want to meet at the theatre?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Rula"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not so fast pretty boy. There is more to this sorted little affair.",
+      "characters": [
+        "Jerry",
+        "Tawni",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "He's actually doing him a favor. It's less money for him to buy food.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Gavin",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you think it might be possible to add a little shelf like, uh, for an alarm clock?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

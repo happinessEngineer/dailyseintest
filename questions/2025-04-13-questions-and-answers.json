@@ -1,0 +1,106 @@
+{
+  "gameNumber": 101,
+  "date": "2025-04-13",
+  "questions": [
+    {
+      "quote": "Kramer, you can't keep avoiding her like this, you're gonna have to say something.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No I didn't mean to imply that you did. You're obviously a very well proportioned individual. I was just wondering, have they ever offered you a chair?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think that's a \"what's good for the goose is good for the gander\".",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh please, Jerry, please please please, I can't sit with him, he tells these stories, it's gonna be awful.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey you know when Superman saves someone no one asks if he's trying to hit on her!",
+      "characters": [
+        "Frank",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, anyway, I've been giving out your number as my standard fake.",
+      "characters": [
+        "Alton",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you know what the interest on that fifty dollars comes to over fifty-three years?",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No, I'm gonna hold it under her nose so she can smell the scent of stale Bosco that I had to live with for three years, and I'm gonna say, \"Remember this shirt, baby?! Well, now, it's payback time!\"",
+      "characters": [
+        "Elaine",
+        "George",
+        "Debby",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Fluff and Fold. The only way to live.  I drop it off. I pick it up. It's a delight.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well, I don't know if I'm happy for them, I mean I'm glad they're happy, but, frankly, that doesn't do anything for me.",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

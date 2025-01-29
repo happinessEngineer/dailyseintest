@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1104,
+  "date": "2028-01-11",
+  "questions": [
+    {
+      "quote": "A few stitches? I've never had stitches. I'll be deformed. I can't live with that. It goes against my whole personality. It's not me!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but don't you think there should be two beds?  There's two of us.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Marcy",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Right. So I call her up, I tell her it's me, she gives me an enthusiastic 'Hi!'",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's never guiled. You know some women keep a lot of important papers in their, uh, pocket books. Like for example oh, someone else's personal financial papers.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, let me ask you this: when she comes over, you're cleaning up a lot?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, you did him a favor. He probably wants to come up and thank you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Oh, here, wait wait  Ah, maybe you could ah, use this  Ah, here, it's a electronic organizer...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen I was talking to Elaine today and she said she'd would really like to be an usher at the wedding",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is far more important. You must exercise the gaskets, George.",
+      "characters": [
+        "Earl",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh ...oh ...oh ... Here, I want to show you something. Hand me that pillow.",
+      "characters": [
+        "Ade",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Ade"
+    }
+  ]
+}

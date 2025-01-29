@@ -1,0 +1,106 @@
+{
+  "gameNumber": 803,
+  "date": "2027-03-16",
+  "questions": [
+    {
+      "quote": "The reverse peepholes. Silvio said I'm an agitator and I'm out of the building.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You are paying a woman to come to your house and sleep with you.",
+      "characters": [
+        "Elaine",
+        "Alec",
+        "Celia",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, it was, uh...\"Next Stop Pottersville.\"  Uh, do you know when they're giving out the passes?",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Blonde hair, remember? Glasses?  Have you totally blocked out the entire time we were a couple?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Lean your head back. Open your mouth!  Open your mouth! Open it! Open it!",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So listen, I'm going to crab a bite to eat at Sardi's. You wanna go?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you know. You've never worked in an office.  See, George, you've worked in an office. Jerry thinks I'm over reacting but you understand, ... LUNCH!",
+      "characters": [
+        "George",
+        "Joe",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Fleas? Bwa ha ha ha ha .That's preposterous. How can I , give you fleas. Now if you don't mind...",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well I'm feeling a little disoriented. It's just weird for me not to have an advisor.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Abby"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "It's out of our way. Why can't we pick up something at Lord's? It's right over here.",
+      "characters": [
+        "Estelle",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 890,
+  "date": "2027-06-11",
+  "questions": [
+    {
+      "quote": "I thought you liked to laugh. I thought you were happy go lucky.",
+      "characters": [
+        "Naomi",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "Well, it's coughing, Jerry. It expells the diseased germs out of the body, into the air.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sophie",
+        "Lippman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, it's a cake party. It's the third one today. I didn't realize how hooked I got on that 4:00 sugar rush.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They bump you in junior high, the next thing you know you're being bumped in high schools, colleges, trade schools. Before you know it, Letterman's not returning your calls.",
+      "characters": [
+        "Katie",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "I'm sorry, I don't owe you anything. I had some personal business that day.",
+      "characters": [
+        "Wendy",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "So you've got him standing by the elevator like a dope! What happens when he sees her?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Uh, here we go. The supervisor. You know what she's saying over there?",
+      "characters": [
+        "Mary",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ahh.. I don't know who you really are, but I've seen Jerry's girlfriend, and she's not you. You're much better looking - and like, a foot taller.",
+      "characters": [
+        "Kramer",
+        "Leo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Tan pants. Why do I buy tan pants, Donna? I don't feel comfortable in them.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was no big deal OK? I mean we fooled around, then we went out and grabbed a little dinner.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

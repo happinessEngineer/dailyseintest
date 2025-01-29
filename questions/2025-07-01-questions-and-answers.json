@@ -1,0 +1,106 @@
+{
+  "gameNumber": 180,
+  "date": "2025-07-01",
+  "questions": [
+    {
+      "quote": "What about the whole Christmas spirit thing? Any flexability there?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, do you think it's possible that he's mad at me because he didn't get the day-after 'thank you'?",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mrs Seinfeld, please. I am begging you. Put the air conditioner on.",
+      "characters": [
+        "Pitt",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mothers say things. My mother goes babbling on and on like a crazy person.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sotheby's is having an auction of JFK's memorabilia. One item in particular has caught my eye. The presidential golf clubs. To me, they capture that indefinable romance that was Camelot.",
+      "characters": [
+        "Rebecca",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "A gymnast, Jerry. Think of the flexibility. Mmm, that sex'll melt your face.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Wyck"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The government is very touchy about us being in the air. Let us run around on the ground as much as we want. Anything in the air is a big production.",
+      "characters": [
+        "Kramer",
+        "Enzo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have to get in touch with Tatiana! And look at his little outfit. It's all so coordinated, the way his socks matching to his shirt. I really hate this guy.",
+      "characters": [
+        "George",
+        "Hanke",
+        "Jerry",
+        "Detective"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Spread out, spread out you numbskulls. Why don't you just settle it like mature adults?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Dag Gavershole Plaza huh?  Pendant Publishing, that's books right?  Miss?",
+      "characters": [
+        "George",
+        "Estelle",
+        "Driver",
+        "Toby"
+      ],
+      "correctAnswer": "Driver"
+    }
+  ]
+}

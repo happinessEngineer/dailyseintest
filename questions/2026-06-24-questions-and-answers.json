@@ -1,0 +1,106 @@
+{
+  "gameNumber": 538,
+  "date": "2026-06-24",
+  "questions": [
+    {
+      "quote": "Hey, Babe, your boss called. You owe five bucks for a balloon bouquet. Yeah, he says you can just give it to him tomorrow when you see him.",
+      "characters": [
+        "Puddy",
+        "Maestro",
+        "Peterman",
+        "Ray"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "No, no, I was just thinking out loud I don't want my picture on a card.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Course, I wouldn't, I mean uh, the guy is uh, well obviously  the guy has his problems.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can see the can if you're in the army, but fresh fruit it's available, it's there, it's 2 aisles over.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You stuck your hand out, so I shook it. I don't know about a pact. Anyway, you should be happy you're engaged. You're getting married.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you kidding? They were merciless! What do you expect when your name rhymes with a part of the female anatomy?",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Do you know how hard it's getting just to tell people I know you?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, I'll go downtown to Chinatown with him, but that is it!",
+      "characters": [
+        "Attendant",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Trust me, Kramer. Given the legal opportunity, I will kill you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What did they put on this tuna? Tastes like a dill, I think it's a dill.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

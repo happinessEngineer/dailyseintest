@@ -1,0 +1,106 @@
+{
+  "gameNumber": 158,
+  "date": "2025-06-09",
+  "questions": [
+    {
+      "quote": "If not, I can assure you, doctor, that I can make things very unpleasant for you and your staff. If you have one.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't think so. I've seen you two together. You make each other miserable. It's kismet.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "Craig"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She reorganizes your closet and shows you how to maximize your closet space. She looked into my closet.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey George, you want this cup holder mounted on the left, or the right, or the middle, . . .",
+      "characters": [
+        "Conrad",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Elaine, you don't seem yourself today. You seem, if I may say, troubled.",
+      "characters": [
+        "Rabbi",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Hey, at least I'm bringing something to this.  \"Have you seen me?\"  Nope.  Woah, something from Whatley.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Umph, sorry! But the rules clearly state that you cannot clean the ball unless it's on the green. The rules are very clear about that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't sit on this bus anymore. I think I'll go play with that dog.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You have to realise this has not been custom-fitted to his scalp.",
+      "characters": [
+        "Salesman",
+        "Winona",
+        "Elaine",
+        "Maestro"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Yes, yes of course. The Pensky file. Ho ho, can't wait to sink my teeth into that. Wow that Pensky. Well we'll straighten him out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

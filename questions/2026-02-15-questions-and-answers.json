@@ -1,0 +1,106 @@
+{
+  "gameNumber": 409,
+  "date": "2026-02-15",
+  "questions": [
+    {
+      "quote": "yeah, all right, yeah….  They don't have any. But don't worry I'm going to get you one somewhere.",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Leo",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I was going to say: why don't you get off with me, but you're obviously very busy on your way to some important meeting or something.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "But the whole thing is a mess. He told everyone in the building. I met that cute guy on the fifth floor. I mean he could barely bring himself to nod.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I'm telling you, this phone sex thing is hilarious, like this woman Erika, here look . You gotta call her, the voice she uses..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There is no coma etiquette. You see that's the beauty of the coma, man. It doesn't matter what you do around it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Julianna",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello Jerry.  What did you say to Elaine? I just got her cancellation in the mail.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "That's for me.  Kramerica Industries. Oh, hi, Mark. No no no. Forget that. I got a better idea. A pizza place where you make your own pie...",
+      "characters": [
+        "George",
+        "Vivian",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Elaine Benes. Well, this is quite a thrill, yes. Come - -  Come on sit down. Yes.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Katya"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I just need them to deliver it here and I have to be kinda inside is all.",
+      "characters": [
+        "Toby",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

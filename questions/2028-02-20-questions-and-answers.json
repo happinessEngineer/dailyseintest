@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1144,
+  "date": "2028-02-20",
+  "questions": [
+    {
+      "quote": "my popcorn, you were supposed to get me popcorn what? would you forget about me babe?",
+      "characters": [
+        "George",
+        "Tony",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Because I've seen every Miss America pageant since I was six.",
+      "characters": [
+        "Silvio",
+        "Kramer",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You unwittingly made a major commitment.  That's a lot of pressure.",
+      "characters": [
+        "Jerry",
+        "Shelly",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's just, all you said was 'your welcome', which is nice. It's very nice. But... I feel I gotta get the apology.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, they're three kind of funny looking guys and they hit each other a lot.",
+      "characters": [
+        "Babu",
+        "Roy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because this world is your sanctuary and if that world comes into contact with --",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well we're talking with Elaine Benes; Adult film star on the set of her new picture \"Elaine does the Upper West side\"",
+      "characters": [
+        "Deena",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So Kramer, where'd you get all these lobster, at the Fleesher's Market?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Maura",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Oh, I can't believe it! I've lost my \"Atomic Sub\" card!.. Oh no! I bet I wrote that fake number on the back of it when I gave it to denim vest!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm not goin' along. I can just see you in Berlin in 1939 goose- stepping past me: \"C'mon Jerry, go along, go along...\"",
+      "characters": [
+        "George",
+        "Tim",
+        "Jerry",
+        "Nurse"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

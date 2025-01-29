@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1002,
+  "date": "2027-10-01",
+  "questions": [
+    {
+      "quote": "May be she realized she could never have you and she jumped off the George Washington Bridge.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If it was real ,they would never let it out of the country. No baldness , it'd be like a nation of Supermen.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You want to give something back? Start with the 20 thousand dollars.",
+      "characters": [
+        "Jerry",
+        "Noreen",
+        "Darren",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's from all that smoke. You've experienced a lifetime of smoking in 72 hours. What did you expect?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it was on the windshield of the car when we came out of that rest stop.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Ya know, why don't ya, open those pants, it's gonna be a lot easier that way.",
+      "characters": [
+        "Raymond",
+        "Jerry",
+        "Morty",
+        "Frank"
+      ],
+      "correctAnswer": "Raymond"
+    },
+    {
+      "quote": "Look, I can't say anything. You know, the guy told me the stuff in confidence, I'd be betraying a friend.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Eddie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I gotta go help her tape up all his boxes and get them ready for shipping.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'Cause I'm on a special diet, and the doctor said I can't have any fat.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Elaine if a guy wanted to end a relationship with you . What could he do?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

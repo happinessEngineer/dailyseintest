@@ -1,0 +1,106 @@
+{
+  "gameNumber": 242,
+  "date": "2025-09-01",
+  "questions": [
+    {
+      "quote": "Here's what you do: you bring a lightweight jacket, that way the sun comes out, you play the jacket off the sweater.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Elaine",
+        "Stan"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Well, your tip is four dollars and thirty-six point six six six six cents.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The alternative media, Jerry. That's where you hear the truth.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm going to the hospital to see Fulton. I'm not even saying hello, I'm going right into material.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Ralph"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.. look at this, Mickey. These pants are fallin' apart, huh?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why did I think there was a Rubber Man? There's Elastic Man... Plastic Man...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, so did I. You know what? I bet it was the engagement. I've shown I can go all the way.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's mine. That's my smell. Jerry you've got to get that model to get me an appointment with CALVIN KLEIN.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Those eyebrows could use a trimming, you ever mention that to him?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, last night. Oh, come on... Men *have* to get up early some time...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 787,
+  "date": "2027-02-28",
+  "questions": [
+    {
+      "quote": "Just wait there. I'll pick you up, and, Kramer, stay alive no matter what occurs, I will find you!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Harold",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If I call Jill from prison, do you think that would make up for the other ones?",
+      "characters": [
+        "David",
+        "Jerry",
+        "Rebecca",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And then, somehow, we started talking about, what if we had sex.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, the guy's Jewish two days, he's already making Jewish jokes.",
+      "characters": [
+        "Alec",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know how we did it, but there's some kind of chemistry between us, we turned out one hell of a catalog.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, sure. Poor doorman has to work two jobs to put food on the table for mother and baby.  No, I live here. That's okay, isn't it?",
+      "characters": [
+        "Kramer",
+        "Doorman",
+        "Jerry",
+        "Rava"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Poison you? Jerry Seinfeld tried to poison you? Wha? Mr. Pitt, what are you, delirious? He's never even met you!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Shelly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...and then when I saw the photo I remembered where I'd seen him; the boom box incident.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, but he's doing a lot better now. I've taken him under my wing.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Nina"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How would you find out something like that...wait a minute, what am I thinking? I've got the entire Yankee organization at my disposal.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 616,
+  "date": "2026-09-10",
+  "questions": [
+    {
+      "quote": "'When you're alone, and life is making you lonely, you can always go...'",
+      "characters": [
+        "Levitan",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But I'm keeping it. As much as I hate the idea of being a van guy, it's much better than hanging out here with the nocturnal dirt people.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Roy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, Come in - come in - Come in Miss Benes! That is if you can spare a minute from your busy schedule! And you bring guest for my entertainment?",
+      "characters": [
+        "Testikov",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "So call her up and tell her to bring you another one. She'll be delighted to talk to you.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I still have it. The collar's okay. I wear it under sweaters.",
+      "characters": [
+        "George",
+        "Tim",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, when I'm driving, I let people in ahead of me all the time. I'm always waving everybody in. \"Go ahead, go ahead, go ahead.\" ...All right. All right. I'll have a chicken salad.",
+      "characters": [
+        "Jerry",
+        "Dwayne",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, I guess I'll just get invited up to his apartment and see if he's got a label maker.",
+      "characters": [
+        "Kramer",
+        "Worker",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My father gave me four tickets to the Yankee game for Saturday afternoon. Owner's box, first row behind the dugout.",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "This is my son Jerry, from New York.  He thinks he can lift more than Izzy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I'm learning a lot about you tonight George. I've never seen you like this.",
+      "characters": [
+        "Karen",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Karen"
+    }
+  ]
+}

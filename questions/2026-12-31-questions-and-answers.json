@@ -1,0 +1,106 @@
+{
+  "gameNumber": 728,
+  "date": "2026-12-31",
+  "questions": [
+    {
+      "quote": "But you said he was just coming out of a very serious relationship. Maybe he's, you know, still....kind of...he...not gonna happen.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, much better, much better. The doctors say I cannot have no aggravation.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Oh, he's this guy who made these terrible movies in the 70's with these kinds of women. He's obsessed. He's obsessed with breasts. That's hard to say.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Jerry",
+        "Betsy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, what's so great about a Mom and Pop store? Let me tell you something. If my Mom and Pop ran a store, I wouldn't shop there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That blond across the street. You know the one with the long ponytail, she wears those blue sweatpants.",
+      "characters": [
+        "Dana",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Every day she comes in, she sits at that table and reads. Never talks to anybody.",
+      "characters": [
+        "Jerry",
+        "Testikov",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The little extra moan you threw in there. Laying it on a bit thick, don't you think?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. All right. I'll tell ya what I'm gonna do, I will give you double what you paid for it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You won't believe this but, as I'm leaving, she calls me \"Susie.\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Helen",
+        "Diane"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

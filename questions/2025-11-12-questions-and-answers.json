@@ -1,0 +1,106 @@
+{
+  "gameNumber": 314,
+  "date": "2025-11-12",
+  "questions": [
+    {
+      "quote": "Oh come on Jerry. How hard is it to act. You say something, I'll pretend it's funny.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Today. I'm going today. Just don't do anything until you hear from me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Fred",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you thought as long as they're mailing postcards, it wouldn't be too much to ask my parents to drag a child who they've never seen, through the streets of Paris?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean I can't shake this woman. You know, now I have to go to Jimmy's birthday party.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Beth"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, right, let's go. Jerry, let's go, it's time to eat. We're going to dinner.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Either that, or they've got a weird little hang-up about lying face-down in filth. Why don't you just go to the cashier?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Pitt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Behind the dugout, that's where we were sitting the other day.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Pam",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, can I use your place? I got a bunch of friends coming over this weekend.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I refuse to give up on this relationship. It's like... launching missiles from a submarine. Both of us have to turn our keys.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Maura"
+      ],
+      "correctAnswer": "Maura"
+    },
+    {
+      "quote": "He's acting very strangely. I think he started drinking again.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

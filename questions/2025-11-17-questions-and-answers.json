@@ -1,0 +1,106 @@
+{
+  "gameNumber": 319,
+  "date": "2025-11-17",
+  "questions": [
+    {
+      "quote": "Look, there's a man in there. Get out of there, you're in danger!",
+      "characters": [
+        "Kramer",
+        "Frankie",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Hey, hey, let's not get so defensive here. This is a give and take process.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, that's better than 'God bless you'. Anyway, she left a message on my machine, she wants you to call her.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Russell"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Cash advance... yes  … no  balance inquiry... no  receipt.... no  processing... processing...  I won!",
+      "characters": [
+        "George",
+        "Maestro",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Answering machine.  Oh, I hate the idea of somebody out there returning my calls.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'd like to follow the regular procedures. I don't want any special treatment.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "well it's a dog leg left, so I play the hook right? .. hold on there's another call.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "These pretzels are making me thirsty.  Boy, these pretzels are making me thirsty.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They've opened up a whole new market. Medication for the well.",
+      "characters": [
+        "Newman",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Well apparently I do something 'cause I'm sitting at the head table with Mr. Mel Tormé",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

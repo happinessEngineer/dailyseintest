@@ -1,0 +1,106 @@
+{
+  "gameNumber": 102,
+  "date": "2025-04-14",
+  "questions": [
+    {
+      "quote": "We haven't heard his notes yet, we don't know how he feels about our work.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The whole time that I was growing up, all I ever heard from my mother was 'Why can't you be more like that Lloyd Braun?'",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we've got to do something.  I'm calling Giuliani's headquarters.",
+      "characters": [
+        "Newman",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Still, I bet when they gave him a plane, it was a lot nicer than this one.",
+      "characters": [
+        "Haarwood",
+        "George",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now if you will kindly help me unwedge my front wheel, I'll be on my way.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. Thanks. I have a headache. Can you just get me an aspirin?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Celia"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "I can't eat with you leanin' over like this. Just look straight forward.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's like a virus. He attaches himself to a healthy host company, and the next thing you know, the entire staff's infected.",
+      "characters": [
+        "Captain",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "From Maryland. The one who brought you the chocolate covered cherries you didn't like.",
+      "characters": [
+        "Chiles",
+        "George",
+        "Morty",
+        "Owner"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "He's giving away what's left! I gotta go home and get a big pot!",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 184,
+  "date": "2025-07-05",
+  "questions": [
+    {
+      "quote": "[holding out his coat] Jerry, take the coat. Please. One month.",
+      "characters": [
+        "Father",
+        "Jerry",
+        "Kramer",
+        "Buckles"
+      ],
+      "correctAnswer": "Buckles"
+    },
+    {
+      "quote": "\"Jimmy's got a record. Jimmy's jumping for dollars. Jimmt and George are gonna get rich.\"",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I didn't have an expression. I have a deviated septum. I have to open my mouth sometimes to breathe.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, do you know how booked up this guy is? Now, if I send him away now, it's gonna take Jerry months to get him back.. He won't like that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ohh, my pants.  It's an old conductor's trick I learned from Leonard Bernstein.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Look, I'm doing you a favor. They're having an unadvertised sale. This suit is gonna be half-priced starting ... Monday.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, what are you talking about...Janet doesn't look anything like Jerry",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So chasing little kids huh? You're in a lot of trouble mister.",
+      "characters": [
+        "Elaine",
+        "Kevin",
+        "Morty",
+        "Officer"
+      ],
+      "correctAnswer": "Officer"
+    },
+    {
+      "quote": "Because men think if women are grabbing and clawing at each other there's a chance they might somehow kiss.",
+      "characters": [
+        "Elaine",
+        "Amy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Our next speaker is George Costanza on the subject of risk management.",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Voice",
+        "Kramer"
+      ],
+      "correctAnswer": "Voice"
+    }
+  ]
+}

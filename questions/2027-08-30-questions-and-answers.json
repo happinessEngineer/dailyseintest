@@ -1,0 +1,106 @@
+{
+  "gameNumber": 970,
+  "date": "2027-08-30",
+  "questions": [
+    {
+      "quote": "I don't know, what? Eight thousand. It's a Hyundai. Get out of here. I told you not to sell. Simons made money, Wilkinson cleaned up.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, the New York Yankees traded you for a bunch of Tyler chicken.",
+      "characters": [
+        "Waitress",
+        "Marla",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Papers? Oh, Jerry, You're the Jerome with the tax problem. You know after that day with George I got so cuckoo I threw out all your papers. So I'd love to help you but I'll need the copies.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Patrice",
+        "Susan"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "\"Did you notice he always refer to himself in the third person. Jimmy can dunk. Jimmy's new in town. Jimmy we'll see you later.\"",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, all those quick shots of the pants. Just pants, pants, pants, pants, pants, pants, pants. What is that supposed to be?",
+      "characters": [
+        "Sophie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. Well, bad news, boys. My life is over. My girlfriend's movin' away.",
+      "characters": [
+        "Kramer",
+        "Leslie",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, it's an autographed picture for my dry cleaner. I never know what to write on these things. I hate doin' this.",
+      "characters": [
+        "Woman",
+        "Lena",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, there was an awkward moment in the conversation. It never happened before.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I got a card, and they stamp it every time I buy a sub. 24 stamps, and I become a submarine  captain.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I come here all the time. You wouldn't believe the rat problems in the kitchen.",
+      "characters": [
+        "Kramer",
+        "Nurse",
+        "Jerry",
+        "Carl"
+      ],
+      "correctAnswer": "Carl"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 371,
+  "date": "2026-01-08",
+  "questions": [
+    {
+      "quote": "A fan?  I would drape myself in velvet if it were socially acceptable. And look at this, hardwood floors!",
+      "characters": [
+        "Patrice",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He was made of wood and in the rain he would swell up and then split.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "..So anyway, Jerry, Elaine, we have something we want to ask you.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Stan"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Did you explain to her about the good naked and the bad naked?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Steinbrenner wants everyone in the front office to give a lecture in their area of business expertise.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, I'm thinking, as she's saying this, I'm thinking: great, the relationship's over. But the egg salad's on the way. So now I have a decision: Do I walk or do I eat?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Leslie",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Good thinking, Kruger. Until you pin me, George, Festivus is not over!",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "All right, OK So you the name now. The cat is .a a a .. out of the bag.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're moving to New York? That's fantastic. I can see you all the time now.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ned",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And I'm her protégé. You must have someone like that. You know, who guides you in your career path.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Owner",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    }
+  ]
+}

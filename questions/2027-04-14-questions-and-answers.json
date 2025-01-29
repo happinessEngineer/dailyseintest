@@ -1,0 +1,106 @@
+{
+  "gameNumber": 832,
+  "date": "2027-04-14",
+  "questions": [
+    {
+      "quote": "Look sweetheart I don't know who you are. I don't know what you're doing here. But...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Celia",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Yeah. Alright, I think that's enough for today.  Little Jerry is lean, mean, peckin' machine!  What are you doing with that?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So someone comes in to buy an old lamp and all of a sudden I'm getting them out of a jam? I could see if I was a pharmacist because a pharmacist knows what's wrong with everybody that comes in.",
+      "characters": [
+        "George",
+        "Testikov",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I just got off the phone with him, you know we had a great conversation.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, our stupid friend freaked out the pilot. Single handedly delayed the plane a whole hour. Can you believe that?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Sylvia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's unbelievable. You know what else is unbelievable? I picked up the check. She didn't even offer. She ended it. The least she could do is send me off with a sandwich.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No.  Jackpot. I don't believe this. There's no hair in this thing. I've never seen a person that didn't have at least one hair in a brush.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "For I am in love with Svetlana, and I don't care if the whole world knows, except for Silvio, who would throw me out of the apartment, where I would be dancing on the sidewalk--",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Marla",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So, that's it. All of my darkest fears, and... everything I'm capable of. That's me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, two for the 7:15 of Novaj pravas . What you're wearing the green sweater?",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

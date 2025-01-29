@@ -1,0 +1,106 @@
+{
+  "gameNumber": 233,
+  "date": "2025-08-23",
+  "questions": [
+    {
+      "quote": "No, it offends me as a comedian. And it'll interest you that he's also telling Catholic jokes.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If every instinct you have is wrong, then the opposite would have to be right.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "yeah, I ... I snuck a peak. ... But it was so fast I didn't see anything. It was just a blur.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well maybe you can stick around after everybody leaves and we can sweep together.",
+      "characters": [
+        "Elaine",
+        "Todd",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Unless she goes for the bathroom. That's my only chance.  Who am I kidding? I can't do this, I can't do this. I don't even know how to work those stupid machines.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't mind that I got your number off the AIDS walk list?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, something's goin' on here, 'cause every able-bodied Israelite in the county is driving pretty strong to the hoop.",
+      "characters": [
+        "Elaine",
+        "Nina",
+        "Jerry",
+        "Seth"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it's a windshield. It's going to be your new coffee table.",
+      "characters": [
+        "Kramer",
+        "Attendant",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well you can't tell someone how you feel about their girlfriend until after they stop seeing them.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Gavin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "..Who, who proceeds to burn the man's cabin down with one of those very same cigars!  It's very comical..",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

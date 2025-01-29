@@ -1,0 +1,106 @@
+{
+  "gameNumber": 869,
+  "date": "2027-05-21",
+  "questions": [
+    {
+      "quote": "Wait a second, wait a second, what coming in, what woman is coming in?",
+      "characters": [
+        "George",
+        "Tina",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I said you know what I do  when I want to relax? The Jumble. Hey uh do you make a book of Jumbles?",
+      "characters": [
+        "Driver",
+        "Joyce",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "What are you talking about? It's my car. Let me pay for the gas.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, I found the place, I set the whole thing up, I'm doing all the leg work.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Thank you I am not very hungry. Anyway, um, this friend of mine, George, got engaged .",
+      "characters": [
+        "Ben",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My money's on the snooze. I bet he hit the snooze for an extra 5 and it never came back on.  Imagine your whole life riding on an alarm clock.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Helen",
+        "Nina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, I got a few good years left. If I want a Chip Ahoy, I'm having it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "It's all departures. I see nothing but departures.  Do you know where the arrivals are?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now listen, let's keep an eye on each other tonight.  In case one of us gets in a bad conversation, we should have a signal that you're in trouble so the other one can get us out of it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "David",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is insane. You know, I don't even know where she's staying! She, she's not gonna call me, this is unbelievable.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

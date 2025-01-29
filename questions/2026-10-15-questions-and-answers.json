@@ -1,0 +1,106 @@
+{
+  "gameNumber": 651,
+  "date": "2026-10-15",
+  "questions": [
+    {
+      "quote": "You know, a friend of mine almost got beat up at that place by the Van Buren Boys?",
+      "characters": [
+        "Gino",
+        "Kramer",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, you're right. That's a lot of pupkitz. Hey Frank, you know anybody who can help me cook?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We talked about his new batting stance, you know, I'm not crazy about it, but I said , 'Donny, go with it 'till it stops workin'.' Donny baseball. He's a helluva guy.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Joel"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, old friend, sometimes I ponder this silly gulf between us and I say, \"Why?\" Are we really so different. For what is--",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, *please*! Me? C'mon! That's *great*! Are you kidding? I think thats fan*tastic*! I've always encouraged experimentation! I'm the first guy in the pool! Who do you think you're talking to?",
+      "characters": [
+        "Carol",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know. I cut the button off and poked a hole with a letter opener.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Wilhelm",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Everybody knows. y'know George told me he thinks you're totally cute and everything.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Nina",
+        "Ade"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well didn't you hear that person laughing? I couldn't play. I was *humiliated...",
+      "characters": [
+        "Noel",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Noel"
+    },
+    {
+      "quote": "I'll make it out to cash. How 'bout two hundred bucks? Two-fifty?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's a very good question. You know she and I go out for dinner, she doesn't even reach for the check. That?s all I?m asking for is a reach. Is that so much to ask for?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

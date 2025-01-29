@@ -1,0 +1,106 @@
+{
+  "gameNumber": 645,
+  "date": "2026-10-09",
+  "questions": [
+    {
+      "quote": "I don't need a reason to give gifts, it's my nature. I love to make people happy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well once he gets married that's it, she'll probably get pregnant, they'll move to Westchester. I'll never see him again.",
+      "characters": [
+        "Brett",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you should just go back to the optical store and ask Dwayne if he knows the name of the owner of the dog.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So I guess I'll have to buy him a new coat, even though I don't think I should be held responsible, which I am anyway.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bonnie",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, Kevin. If I don't want children, does that make me a bad humanitarian?",
+      "characters": [
+        "Wyck",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, hello is this Allied Lock Smith?! Oh, finally, listen I need someone to come over here right away!",
+      "characters": [
+        "Landlord",
+        "Elaine",
+        "Tv",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright then, I guess I can accept a little Jerry, if it gets me a  lot of Elaine.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "They just don't like me. It's a long story. I can tell you one day but I can't tell you right now.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I like this one!  C'mon, let's go. Let's go!  Oh, hi..",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Susan",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No-no-no, Kramer. Kramer! Kramer! You *cannot* abandon people in the middle of an airport pickup! It's a binding social contract. We... we must go forward... not back.",
+      "characters": [
+        "George",
+        "Gary",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

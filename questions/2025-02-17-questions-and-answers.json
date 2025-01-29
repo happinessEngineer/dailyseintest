@@ -1,0 +1,106 @@
+{
+  "gameNumber": 46,
+  "date": "2025-02-17",
+  "questions": [
+    {
+      "quote": "I know how you feel. For I, too, have a woman for whom I pine.",
+      "characters": [
+        "Newman",
+        "Ricky",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Bookman? The library investigator's name is actually, Bookman?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Todd"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did I get him in trouble? Because of what I said?! I just told him what happened.. he didn't do it on purpose..  He pointed at me. Why did he point at me?!",
+      "characters": [
+        "Jerry",
+        "Man",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Jerry it's my fault .I couldn't make a shot. These losses they stay with me. They  Jerry. Now this is gonna plague me.\" OH! Mother!!!\"",
+      "characters": [
+        "Bania",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't believe what I just did. I didn't know kramer didn't invite him. I better call Kramer, ...",
+      "characters": [
+        "Raymond",
+        "Frank",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nice going. Thank you, that ought to get us a free dessert..  I think the busboy's in trouble.",
+      "characters": [
+        "Jerry",
+        "Carol",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They look like keys, George. They look exactly like keys.  \"What do they look like.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well...a little rough finding something good in your price-range.  But you, my friend, may be in luck.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Lena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is it flowing? I like flowing, cascading hair. Thick lustrous hair is very important to me.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no, no no. Listen to me. Most days, the post office sends one truckload of mail to the second domestic regional sorting facility in Sagenaw, Michigan.",
+      "characters": [
+        "George",
+        "Kevin",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

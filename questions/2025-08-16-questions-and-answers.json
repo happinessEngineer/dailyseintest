@@ -1,0 +1,106 @@
+{
+  "gameNumber": 226,
+  "date": "2025-08-16",
+  "questions": [
+    {
+      "quote": "You know, the water pressure's terrible in my building. And she loves a good shower.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know it's interesting, because I called the hospital and they said you were released on Monday.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And Billy and Jake and Allison, yes we could have discussed it.",
+      "characters": [
+        "George",
+        "Announcer",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me speak with the head librarian. ... Because it's absurd. An overdue book from 1971? ... This is a joke right? What are you? From a radio station?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I knew you'd have an affinity for it, because it's the dance of a very proud people.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, yeah, that's funny. Hey, you wanna hear something weird? Mr. Pitt eats his Snickers bars with a knife and fork.",
+      "characters": [
+        "Elaine",
+        "Kate",
+        "Kramer",
+        "Gwen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, why don't we wait? Because, I'm going out of town tomarrow.",
+      "characters": [
+        "Lou",
+        "Mickey",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's not doing well, the doctors don't know what it is. They're baffled.",
+      "characters": [
+        "Elaine",
+        "Roy",
+        "Jerry",
+        "Captain"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, sure, sure. So ah, did ya have a good time at the party last night?",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I think I'm getting a little depressed about George's wedding.",
+      "characters": [
+        "Tony",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

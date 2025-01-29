@@ -1,0 +1,106 @@
+{
+  "gameNumber": 336,
+  "date": "2025-12-04",
+  "questions": [
+    {
+      "quote": "He split.  Let me ask you something.  Is there anything to drink in here or is that, like, a stupid question?",
+      "characters": [
+        "Manager",
+        "Pam",
+        "Steve",
+        "Jerry"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "Yeah...uhh...well, the streets are all blocked. I think every Puerto Rican in the world is out here.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Ron"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Tell me, is it your contention that Shakespeare was an imposter?",
+      "characters": [
+        "Landlord",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "On the other hand, you take a guy like George Washington Carver.  The man devoted his whole life to the peanut.  Imagine having so much passion for something.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Guy",
+        "Raymond"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "No, no. No, Elaine, the car can wait. What's important is you two getting back together. Eh, then we'll talk about the car.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Valerie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean he's a good fighter and a nice guy but I don't like him.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My God! I can't believe the other guy's going to be on the show!",
+      "characters": [
+        "Newman",
+        "Izzy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm the assistant to the travelling secretary. I'm going on the road trips with 'em! I'll be on the plane... I'm working in Yankee Stadium! This is a dream, I'm busting, Jerry, I'm busting!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I watched \"Beaches\" on cable last night. … … Give me a break.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Corinne",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah when I was 8, I had a deaf cousin who lived with us for about a year.  So I haven't been able to do it in a while.",
+      "characters": [
+        "Noel",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

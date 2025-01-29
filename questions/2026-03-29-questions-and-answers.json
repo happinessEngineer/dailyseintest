@@ -1,0 +1,106 @@
+{
+  "gameNumber": 451,
+  "date": "2026-03-29",
+  "questions": [
+    {
+      "quote": "Oh, you gotta be kiddin'! You see those two ladies I got showin'? Do they look scared?!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Dad. You know you can program this thing to beep every time you need to take a vitamin.  Dad, you look so different.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe we'll get together.",
+      "characters": [
+        "Jerry",
+        "Ken",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He could be eating a gyro, he wouldn't offer me anything. It's a sickness.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, don't say a word. If she thinks my friends are jerks, then I'm a *jerk*...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It is too small for someone with such a big mouth . Let me ask you. What will you do if Martine wakes up? Run away like a mouse?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Gina"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "Well I.. ran out onto the court an' threw a hotdog at Reggie Miller. \"Involved.\" An' they threw meee, an' Reggie, an' Spike out o' the game.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Jerry",
+        "Attendant"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, we're meeting a friend of ours for lunch. He works here in the building.",
+      "characters": [
+        "Kramer",
+        "Rebecca",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Just stick with the story. We'll be fine. Let me do the talking!",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'd love to, but I don't know anything about him. He could be one of those people that walks around the street pricking people with pins.",
+      "characters": [
+        "Bania",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

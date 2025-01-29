@@ -1,0 +1,106 @@
+{
+  "gameNumber": 734,
+  "date": "2027-01-06",
+  "questions": [
+    {
+      "quote": "George! Forget Bozo, George. Bozo's out. He's finished. It's over for Bozo.",
+      "characters": [
+        "Robin",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Robin"
+    },
+    {
+      "quote": "What? What this? I'll be out of here in couple of hours. Hey, guess who I met today? Rick Savage, oh nice kid, really good kid. You know, we're talking about doing a project together.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm just doing this waitress thing for a while, because I wanted to go to Europe this summer…",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Kelly"
+    },
+    {
+      "quote": "I don't care. It was good. I was enjoying it. Had to interfere. Couldn't leave well enough alone. Well, I will get even with you for this. You can count on it.",
+      "characters": [
+        "Tim",
+        "Holly",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I think you're all a little touched in the head.  You're so worried about your health.. You're young men.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "he's not a mimbo, he's an exciting, charismatic man he just happened to have a perfect face",
+      "characters": [
+        "George",
+        "Jerry",
+        "Gwen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, Jerry, you have to. I need a buffer. You know, I haven't seen my father in a while and... you know...",
+      "characters": [
+        "Jerry",
+        "Detective",
+        "Toby",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, but I've read articles and I must say it, doesn't sound very pleasant.",
+      "characters": [
+        "Mike",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I met this lawyer, we went out to dinner, I had the lobster bisk, we went back to my place, yada yada yada, I never heard from him again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Wilhelm",
+        "Receptionist"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, well, what you need is some summertime adolescent high jinx.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 240,
+  "date": "2025-08-30",
+  "questions": [
+    {
+      "quote": "I'm not bragging, I happen to have a very keen lesbian eye.  Hi, how ya doin.'",
+      "characters": [
+        "George",
+        "Michael",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're going to that again? Why? Just to do that stupid line?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Sidra"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm telling you the guy's a drunk, he's probably on a bender.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I was kind of, hehehe, short on material and I, um, I put them in the book anyway.",
+      "characters": [
+        "George",
+        "Marcy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You couldn't pay me enough to go to the beach on a weekend. I mean it's hard enough...",
+      "characters": [
+        "Tim",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, sure sure, he wants to. It's very kind of you. Yeah, Jerry, he appreciates it. Don't you, Jerry?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Tony"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got rejected by a bald woman. A bald woman rejected me. Heh, you like that one? A woman with no prospects and no *hair*, told me that I wasn't her type. Apparently *baldy* likes a slimmer guy.",
+      "characters": [
+        "Kramer",
+        "Testikov",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, hey, hey.  I hear you've got some lip reader working for you. You gotta let me use her for one day. Just one day.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rachel",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well one day somebody's going to sleep on that thing and we'll get sued.  I hope this doctor knows what he's doing.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey look ,you know, you're the one who's locked out. I'm letting you stay here. You're wearing my bathrobe. You should adapt to me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Laura"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

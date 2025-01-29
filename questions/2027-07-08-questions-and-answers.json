@@ -1,0 +1,106 @@
+{
+  "gameNumber": 917,
+  "date": "2027-07-08",
+  "questions": [
+    {
+      "quote": "Hello Jerry. Well, I may have a solution to our little problem. Elaine, would you excuse us?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Conrad"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So you broke the news to Mr. Costanza? Could you tell the court, please, what his reaction was?",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Alright put your hands up over your face, pretend you're sleeping.",
+      "characters": [
+        "Joel",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Ping! Hi! Listen, thank you so much for dropping that lawsuit against me.",
+      "characters": [
+        "Jerry",
+        "Ethan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The whole apartment. And I'm buying that fake wood wallpaper. I'm gonna surround myself in wood. It's gonna be like a log cabin. 'Cuz I *need* wood around me. Wood, Jerry [Snaps fingers]... Wood.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh hey guess what. Morty Seinfeld and I are going into business together, selling raincoats.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Y'know, now you gotta ask her her name. It's so embarrassing.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know this is not the first time this has happened to me. I always carry water because of my condition. It dehydrates me. It's a vicious cycle.",
+      "characters": [
+        "Jerry",
+        "Levitan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Long as they don't throw 'em on the field.  Huhu.  Help yourself to some shrimp, I brought enough for everybody.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not a very religious person but I do feel as if I'm in need of some guidance here.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

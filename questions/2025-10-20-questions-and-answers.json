@@ -1,0 +1,106 @@
+{
+  "gameNumber": 291,
+  "date": "2025-10-20",
+  "questions": [
+    {
+      "quote": "Drink your soda! Come on! I know you're there, laughing at me. Laughing and lying and laughing! I had to go to Reggies, Jerry! Reggies!",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well every day for the past four days she hasn't returned one call.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh..  Ori-dent - that electric toothbrush I've heard so much about..",
+      "characters": [
+        "Steinbrenner",
+        "Maestro",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Well, as of today I am a proud parent of a one-mile stretch of the Arthur Berkhardt Expressway.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you cancelled on Tuesday, and our policy is \"twenty-four hours notice, for all cancellations\".",
+      "characters": [
+        "Receptionist",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Really?  You know Gary, I really have to say, I'm a little bit hurt that you didn't decide to confide in me.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, you always look good. You got respect for yourself. You're genuine. Jury's going to pick up on that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helena",
+        "Chiles"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "Oh!, so what. I'd rather she hate me and thought I was good looking....At least I can get somebody else.  What is this? Why am I itching?",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My God this is fantastic! Tell me, were you guys just blown away or what?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Daphne",
+        "Wendy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Probably. They all do. In my high school, half my graduating class had them. Of course, I'm from Long Island, so...",
+      "characters": [
+        "Jerry",
+        "Ethan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

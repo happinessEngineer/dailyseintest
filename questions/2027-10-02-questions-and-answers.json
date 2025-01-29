@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1003,
+  "date": "2027-10-02",
+  "questions": [
+    {
+      "quote": "I couldn't have dinner with him. 'Plan 9 from Outer Space', one night only, the big screen. My hands are tied!",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's the new cover of the J. Peterman Catalog. It is Elaine's choice. Let's congratulate her.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't make a health inquiry on a cell phone. It's like saying \"I don't want to take up any of my important time in my home so I'll just get it out of the way on the street.\"",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Plus I'm wearing short sleeves, I don't want to expose my tattoos.  She's unbelievable!",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't have more than a one-foot differential in your heights. Otherwise, you could really hurt your neck.",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What was that line again? Something about finding your way in a shadow?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "ya....Yes!....Yes! it's back I can taste again.  Hey! What's the date today?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Tony",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's where the Seinfeld's are moving. They got a great deal. Yep. You know what they got in Florida? Jai-Alai! You bet on the games, you clean up.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well how could you just play your message in front of anybody?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We had a deal. Are you reneging out of the deal? Are you reneging? That's a renege.",
+      "characters": [
+        "Elaine",
+        "Frankie",
+        "Newman",
+        "Pitt"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

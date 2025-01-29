@@ -1,0 +1,106 @@
+{
+  "gameNumber": 515,
+  "date": "2026-06-01",
+  "questions": [
+    {
+      "quote": "Oh, you're getting it , it comes with your breakfast special.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Carol",
+        "Waitress"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Well, guess what, FDR? I made a wish on a shooting star last night, and I wished, against your wish.",
+      "characters": [
+        "Morty",
+        "Buckles",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I got screwed on the donuts. There were none left. Heh!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They were shooting the Sports Illustrated swim suit issue right in the hotel pool.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Aaron",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Lloyd Braun can do anything he puts his mind to. He's fine, Jerry.  And you should say hello to him, Elaine.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Gina",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah.. like a pirate..  Anyway, ah, you know, we're hoping to, um, raise enough money.. with this.. uh..",
+      "characters": [
+        "Karen",
+        "Sid",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, Jerry. Did you taste these peas?  These peas are great!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Not necessarily. Why don't you take back the couch you gave me?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I wonder what toilet paper was loike in the 1860's. Did they carry it in rolls in their duffle bags?",
+      "characters": [
+        "Janet",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, now, he says that if your friend has five thousand dollars, we'll give it to her.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Harold"
+      ],
+      "correctAnswer": "Harold"
+    }
+  ]
+}

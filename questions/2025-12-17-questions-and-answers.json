@@ -1,0 +1,106 @@
+{
+  "gameNumber": 349,
+  "date": "2025-12-17",
+  "questions": [
+    {
+      "quote": "Jerry it's funny, Paula and I actually met because of Elaine.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Rebecca"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's always bragging about his vertical leap, so I bet him fifty bucks that he couldn't touch the awning.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was, I had to leave. She lit some vanilla incenses. The smell drove me nuts, all I could think about was food, I had to get out of there. We need some pudding here! Pudding!",
+      "characters": [
+        "Kramer",
+        "John",
+        "Gennice",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What happened to the rules? Remember? Sleeping over was optional.",
+      "characters": [
+        "Leo",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer is actually sleeping one off, so I thought that I'd help out... what's that, some raccoon or something...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I wish I didn't. Brace yourself, madam, for an all-out bidding war. But this time, advantage Varnsen!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Take that pink Eldorado Cadillac over there , it's a Mary Kay car....",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Attendant"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Do you realize how crazy he had to be to do something like this? He knew I was gonna know it's missing, and he took it! And of all things to take! I left my watch, tape recorder, stereo. He's crazy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm looking at a guy in a semi-daily with tampax in his house and an implied date on Saturday night. I would like to help you out, but...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Tom",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'd like to apologize. I want to tell him I.. I.. didn't mean to get him in trouble.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

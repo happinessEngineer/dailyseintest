@@ -1,0 +1,106 @@
+{
+  "gameNumber": 35,
+  "date": "2025-02-06",
+  "questions": [
+    {
+      "quote": "I especially enjoy the catalogue, those fanciful narratives really take me away..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Craig",
+        "Ethan"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "Well, thank you very much. I'm telling you, one more day stinkbreath!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And who were these other people. What were they doing in the apartment!?",
+      "characters": [
+        "Katie",
+        "Tim",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "You know what, let me bring some other people in on this...Barbara, Jane, Mike Can I see you please.",
+      "characters": [
+        "Manager",
+        "George",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "No!!! The reason he's the iron man is because he goes out there and plays every game. Wash!!! Spin!!! Rinse!!! Spin!!! You take that away from him, you break his spirit!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Argh!!..Anyway...Jimmy couldn't be here today so he asked me to fill in for him, and I'm sure that you'll be impressed at what can be accomplished after only a few short days of training.....yeah!\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't understand this jeweller, Jimmy Sherman.  He brings in a watch, it takes over a week to fix. He fixed yours in one day.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey, you know what else is playing here? ``Rochelle Rochelle''.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't. She'll get upset. I never talk about other women with her, especially this one tonight.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why. There's a one-second clip of me in the opening credits of some Japanese comedy show.",
+      "characters": [
+        "Mary",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

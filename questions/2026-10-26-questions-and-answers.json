@@ -1,0 +1,106 @@
+{
+  "gameNumber": 662,
+  "date": "2026-10-26",
+  "questions": [
+    {
+      "quote": "Okay. A little later, we're gonna be talking with animal expert, Jim Fowler.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's a one-time fee. A hundred and fifty bucks. Why live like this?!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I can't trust him, he gets insane. I won't enjoy myself. That's right, Farfel, I'm talking about you!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I thought you said they had a good time, is there anything else you're keeping from me?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Tim. Quick question. Is it normal for your teeth to make noises, like a hissing or a chirping?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Bookman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you talking about, that's seventy-five bucks! I'm not working, I can't afford that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So how about that guy wearing sweat pants? I mean did he do that for the part or does he walk around like that?",
+      "characters": [
+        "Jerry",
+        "Melissa",
+        "Kramer",
+        "Beth"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "So, get this: Mister Peterman is finally letting me do some real writing. He's got this book deal, for his autobiography. He's gonna let me ghost write it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's right I don't like , I never like her from the get-go.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Almost. Couldn't get the girl go out with me the second time.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

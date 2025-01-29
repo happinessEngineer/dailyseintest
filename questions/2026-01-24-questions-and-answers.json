@@ -1,0 +1,106 @@
+{
+  "gameNumber": 387,
+  "date": "2026-01-24",
+  "questions": [
+    {
+      "quote": "Ha ha, uh, well you screwed me again, Costanza. How am I supposed to sign the card now when it's already under glass?",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Morgan",
+        "Karen"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "But, but I'm disturbed! I'm depressed! I'm inadequate! I got it all!!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. There's nothing to be worried about. She's just a little annoyed right now. Tomorrow I'll personally go over there. I'll apologize. I'll get the papers. Don't worry. Don't worry.",
+      "characters": [
+        "Jerry",
+        "Valerie",
+        "George",
+        "Ray"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's been known to happen....... telling you right now Elaine, this guy 's gonna dangle that dress in front of you like a dirt farmer dangles a carrot in front of a mule.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Enzo",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think yes, yes. You like the idea of telling people you're driving Jon Voight's car.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're gonna first start shipping boxes? We're leaving for Paris in three days.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Tv",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "George what the hell are you doing over there? I told you to mind your own business now stay out of my affairs!",
+      "characters": [
+        "Regis",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no Kramer. I don't want you to do that. You can't do that.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course I remembered. You reminded me everyday for two months. Oh, the card.",
+      "characters": [
+        "Patrice",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George and Elaine went to a flea market in Westchester, okay?!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Lois"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

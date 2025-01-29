@@ -1,0 +1,106 @@
+{
+  "gameNumber": 540,
+  "date": "2026-06-26",
+  "questions": [
+    {
+      "quote": "Oh, look at this. There's no place to park around here. I don't even know why they sell cars in Manhattan.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But it--eh.. It was here, I'm tellin' you, an' w--w--it was really here! The, there was, a, bar, and a, an' a dance floor..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Announcer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, Jerry. I just checked your duck...it is more succulent than even I had hoped.",
+      "characters": [
+        "Poppie",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Well, the drive home should be a delight. I'm speeding the whole way. Let them throw me in jail. I don't care.  That's the manager? Do you want me to see if we can get another room?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well.. For one thing the glue isn't very adhesive. It takes a lot of moisture to make them stick.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Sally",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Well, I'm going to the game tonight, and me and these five other guys are gonna take our shirts off and spell out 'Devils'.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "Jerry",
+        "Chiles"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well, you on all fours, that thing vibratin', kickin' up sawdust, ho ho! She'll get the picture!",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was nice meeting you By the way, How do you warm up your fingers before you play?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, stay away from the chicken. Bad, bad chicken, mess you up.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because, if I hear one more rattle - just one - your out on your can. And if you are undead - I'll find out about that too.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sid",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

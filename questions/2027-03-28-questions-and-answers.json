@@ -1,0 +1,106 @@
+{
+  "gameNumber": 815,
+  "date": "2027-03-28",
+  "questions": [
+    {
+      "quote": "That's all I needed to know. So you actually swim in this thing?",
+      "characters": [
+        "George",
+        "Hal",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "Now look here, see it's right here: Gloria Vanderbilt Collection.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, if we're all set to go, why don't you two hop aboard and let me show you a little taste of old New York...the way it once was. Oh, happy anniversary. On, Rusty!",
+      "characters": [
+        "Kramer",
+        "Jimmy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Cheryl, can I ask you a legal question? Um, I'm being sued.",
+      "characters": [
+        "Elaine",
+        "Buckles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, see.  I got the whole night ahead of me.  Boy, that's a nice jacket, huh?",
+      "characters": [
+        "Kramer",
+        "Patrice",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, twice what you're payin' here, but it's a great building. It's two bedrooms!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They owe me for those ducks. They were flown in from Newfoundland.",
+      "characters": [
+        "Poppie",
+        "Maestro",
+        "Jerry",
+        "Landlord"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "When my mother was abducted by the Communists, she was with child...",
+      "characters": [
+        "Morty",
+        "Chiles",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "You know what? I think I'm gonna do that! She came down to where I work, I'll go down to where she works!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's amazing. We, we both have dates on the same night. I can't remember the last time that happened.",
+      "characters": [
+        "Maura",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

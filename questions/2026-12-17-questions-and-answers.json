@@ -1,0 +1,106 @@
+{
+  "gameNumber": 714,
+  "date": "2026-12-17",
+  "questions": [
+    {
+      "quote": "I don't know. \" 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds of celery, chopped parsley...\"",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I banged it on the desk in the doctor's office. An  aaaa . . .",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Huh, I think it's a little old-fashioned. Don't you?  Uh, tell her.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Be with you in a minute.  No, you shoulda come last night, it was fun.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Gladys",
+        "Elaine"
+      ],
+      "correctAnswer": "Gladys"
+    },
+    {
+      "quote": "Well, the people have spoken. Well, that's it for me. I'm, I'm headin' back to New York.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Milos",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You asked for a piece of gum because you thought your breath smelled like hummus.",
+      "characters": [
+        "Janet",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Janet"
+    },
+    {
+      "quote": "Oh, I can be very persuasive. Do you know that I was almost... a lawyer.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What're you kidding me? We were all getting along so well. Where is all this coming from?",
+      "characters": [
+        "Landlord",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Elaine just called, she won't be joining us. Not to worry, I'll tell the maitre'd it'll just be the three bulls.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "It's not for me. It's for Hilde -- the waitress I was telling you about. She's hungry, she wants food. If I go back in there without any food ... there's gonna be trouble.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

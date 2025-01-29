@@ -1,0 +1,106 @@
+{
+  "gameNumber": 866,
+  "date": "2027-05-18",
+  "questions": [
+    {
+      "quote": "Oh, he took it. I put four hundred dollars in the new wallet.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Have you ever seen a handicapped person pull into a space and park?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You sold us a hair with a cake around it. We'd like another one.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That chick's whacked. We're history.  I just left out a couple of things: uh, rust-proofing…",
+      "characters": [
+        "Puddy",
+        "George",
+        "Helen",
+        "Pitt"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "You know they told me that they wanted me to walk down the block carrying this bag of groceries.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I told my Chiropractor how swimming in the river made my back heal. He recommended it to all his patients.",
+      "characters": [
+        "Hal",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "Did that cigarette warning label mention anything about damage to your appearance?",
+      "characters": [
+        "Noreen",
+        "Kramer",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Oh trust me. He's a bad seed. He's a horrible seed. He's one of the worst seeds I've ever seen.",
+      "characters": [
+        "Patty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know and I didn't want to find out. So where is my jacket?",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, my bathing suit? That's a little familiar, I don't want your...your boys down there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Izzy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

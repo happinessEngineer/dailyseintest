@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1013,
+  "date": "2027-10-12",
+  "questions": [
+    {
+      "quote": "Yeah, I thought I might give her a call. I, I don't meet that many women. I meet like three women a year. I mean, we've been introduced. She knows my name.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Marcelino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I should really clean those bearings. Hold this. Look at all that gunk.",
+      "characters": [
+        "Melissa",
+        "Jerry",
+        "Elaine",
+        "Driver"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "This was supposed to be 'The summer of George'! The summer of George.",
+      "characters": [
+        "George",
+        "Wyck",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look it, gentlemen. The fact remains you still have no proof. This is all speculation and hearsay.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, go around, you bunch of crazies. You maniacs are gonna get us all killed.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, it's my neighbor. They blast that stuff twenty four hours a day. I hate it.",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "I don't know, I don't know what to do.  Oh god.... so how was the movie?",
+      "characters": [
+        "Elaine",
+        "Todd",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "…does not imply transfer of ownership. Moe, Sol, or… Lem is not gonna get away with this!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can see not caring what happens to us, we're human. But what about the fish? The fish?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, come on, come on, come on.  \"George, Elaine and I went to see Chunnel ... with Jerry.\" Love?",
+      "characters": [
+        "Tim",
+        "Gladys",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

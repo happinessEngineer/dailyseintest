@@ -1,0 +1,106 @@
+{
+  "gameNumber": 316,
+  "date": "2025-11-14",
+  "questions": [
+    {
+      "quote": "Yeah, this is Kramer. I got Genderson in the car. He wants to see his fish. I'm taking him to see his fish. So tell the police to back off.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, your car caught fire because of my father and the woman on the horse?",
+      "characters": [
+        "Mike",
+        "Elaine",
+        "Kramer",
+        "Deena"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "Yes, it bothered me. So I bought a pair of shoes at Botticelli's, I'm not allowed to shop there? That really embarrassed me.",
+      "characters": [
+        "Steinbrenner",
+        "Rava",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Todd. Let me ask you a question. Um. Was this whole date thing just a way of asking me out?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh...yeah...uh you've never met my wife, Meryl? Meryl Seinfeld.",
+      "characters": [
+        "Rudy",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, look at that. Se that's that fire I was listening to yesterday.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I'm not buying it. No way. Forget it. No way I'm buying this!  I mean, look at it! What is it? It's a bunch of squiggly lines!  Are you telling me you couldn't paint this?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Guard",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Will you calm down. I took all my blood down to Newman's. He let me put it in his meat freezer.",
+      "characters": [
+        "Vivian",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, I don't get it. If there's no Human Fund, those donation cards were fake. You better have a damn good reason why you gave me a fake Christmas gift.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Well, I guess he figured you just wouldn't care. It *has* been a few years.",
+      "characters": [
+        "Elaine",
+        "Pitt",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 215,
+  "date": "2025-08-05",
+  "questions": [
+    {
+      "quote": "Would you excuse us for a minute Tim boy, we're kind of in the middle of something.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Clerk"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, he called last night about 3 a.m. and we got to talking, he sells Russian hats down at battery park, forty bucks.",
+      "characters": [
+        "Chiles",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi, Sidra. I usually last about ten minutes on a Stairmaster. Unless of course there's someone stretching in front of me in a leotard, then I can go an hour.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you what's going on. Morty Seinfeld has been stealing funds from the treasury.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Buckles",
+        "Jerry"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Well they just came in, part of my spring-time cruise collection. Two for twenty-five dollars.",
+      "characters": [
+        "Rudy",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "What if she becomes Miss America? You could be dating Miss America, Jerry!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey hey hey hey, we're starving here! We've been waiting here for ten minutes already!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "We-We're doing that evening of Eastern European National Anthems.",
+      "characters": [
+        "Mickey",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what is it then?! My new sofa! Poppie peed on my new sofa!",
+      "characters": [
+        "Kevin",
+        "Jerry",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No come on, let me, let me. I smashed your car, it cost you over two thousand dollars,",
+      "characters": [
+        "Rebecca",
+        "Jerry",
+        "George",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

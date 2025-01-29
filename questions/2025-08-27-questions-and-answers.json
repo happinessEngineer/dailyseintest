@@ -1,0 +1,106 @@
+{
+  "gameNumber": 237,
+  "date": "2025-08-27",
+  "questions": [
+    {
+      "quote": "Now, you see, I don't get that. We had a relaxed stimulating, great conversation, she doesn't mention it? Why doesn't she mention it?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Driver"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well, then I can't accept your testimony. Maybe if you had seen her naked.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe the baby would like to see my spot. A positive, uplifting message to start his life out with. Huh, You can still get a great space in this city - if you apply yourself.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kevin and his friends are nice people! They do good things. They read..",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She'd driven me a hundred and twenty miles and, all of a sudden, three blocks from my door, she decides this trip is over. Isn't that strange?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hu-Yeah, interest. It's an amazing thing. You make money without doing anything...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. I can't think of any solution, unless of course they should meet with some unfortunate accident. What do you think a hit man would charge to rub out a couple of cats?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Sidra"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah. The pinch. *I've* done the pinch. That's not new. Besides which, I don't know how you could trust any of his moves now. His whole *repertoire* could be lifted.",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "yeah there's no toilet paper in here, I usually check but would you mind?",
+      "characters": [
+        "Jane",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "I hurt it in a hotel room. You know where they tuck the covers in real tight in those hotel rooms? I can't sleep like that so I tried to kick it out and I pulled it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Anna"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

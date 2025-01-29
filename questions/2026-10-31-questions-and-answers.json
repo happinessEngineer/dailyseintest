@@ -1,0 +1,106 @@
+{
+  "gameNumber": 667,
+  "date": "2026-10-31",
+  "questions": [
+    {
+      "quote": "Pretty chintzy, huh? Considering the money she makes.. She's a big executive for Federal Express.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, look at this, c'mere. There's a naked woman across the street.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hang onto that thought - I'm rinsing a sweater, I left the water running.  Hey, Jerry, can you get me a towel out of my bedroom closet?",
+      "characters": [
+        "Lena",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "I gotta try and find a way to switch places with him.  It's like a Sigfried and Roy trick.",
+      "characters": [
+        "George",
+        "Joe",
+        "Morty",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, Mrs. Choate, would you please tell the court what happen the evening of January 4th.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Hoyt",
+        "Jerry"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Kramer, I just want to thank you again for last night, you really saved me.",
+      "characters": [
+        "Rachel",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So you ready for the assembly tomorrow? You know what you're gonna say about the Yankees?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ya it used to be right in the middle of single Jeopardy and now they do it right after single Jeopardy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why would I do it unless I was in mortal danger? I know it's against the law.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll just talk to Jerry when he gets back.  Oh. Mrs. Ross, Mr. Ross.",
+      "characters": [
+        "Laura",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

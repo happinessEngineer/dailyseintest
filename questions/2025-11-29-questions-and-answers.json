@@ -1,0 +1,106 @@
+{
+  "gameNumber": 331,
+  "date": "2025-11-29",
+  "questions": [
+    {
+      "quote": "Who's off the street? I'm in the raincoat business for thirty-five years.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Because I think the blind would probably be a little messier around the house. And lets face it they're not going to get all the crumbs. I'd possibly be walking around with a sponge.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry, can you hold on a sec? I just want to check my messages..  Oh, Melissa! Kim!",
+      "characters": [
+        "Ellen",
+        "Lloyd",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "The woman had an orgasm under false pretences. That's sexual perjury.",
+      "characters": [
+        "Elaine",
+        "Doorman",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that whole storyline about a guy who gets into a car accident, doesn't have any insurance, so the judge sentences him to be a butler? I didn't really buy that.",
+      "characters": [
+        "Dana",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "My intern from NYU. Well, you remember my corporation, Kramerica Industries.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tell you what, you give me the twenty, and I will buy *you* a popcorn and soda, and I'll throw in a bon-bons.",
+      "characters": [
+        "Wyck",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well what are we going to do now. If we can't get the babka the whole thing's useless.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'Cause I had like three jokes on it, they were all perfectly worded just the way I wanted to have it. Can't find it. Hello?",
+      "characters": [
+        "Jerry",
+        "Hal",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, All right, all, right!! How you gonna find out who this is?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

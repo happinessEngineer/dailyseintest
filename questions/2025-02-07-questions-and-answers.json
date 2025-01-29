@@ -1,0 +1,106 @@
+{
+  "gameNumber": 36,
+  "date": "2025-02-07",
+  "questions": [
+    {
+      "quote": "Well, when I came over to the table she mentioned something about how she better hurry up and leave or you'd make her buy lunch to make up for the one you bought yesterday.",
+      "characters": [
+        "Julie",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "Oh, wait! Jean-Paul, Jean-Paul! Isn't he the guy who overslept at the Olympics 4 years ago and missed the marathon?!",
+      "characters": [
+        "George",
+        "Estelle",
+        "Michael",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, if she puts the bags down before she greets you, that's a good sign.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, my father works for the United Volunteers, maybe he can get her one.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, Elaine's gonna do the same thing to Puddy's radio that the radio did to her.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it was an accident. Right Jerry it was an accident. Ah, she's going to be all right. .. baby, baby, ah, baby.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Mr. Lippman. It was *his mistress* who insisted that he call it…",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Personally I'm a little nervous about going through these things. I'm afraid I'm gonna step through into another dimension.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, they're all the same. Here. [gives him Dust Buster] Now if you'll excuse us, ..",
+      "characters": [
+        "Captain",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes! This guy ripped me off! He stole that statue right out of my house!",
+      "characters": [
+        "George",
+        "Alec",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

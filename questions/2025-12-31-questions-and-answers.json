@@ -1,0 +1,106 @@
+{
+  "gameNumber": 363,
+  "date": "2025-12-31",
+  "questions": [
+    {
+      "quote": "John Germaine? That is amazing. I was just talking about him upstairs with Elaine.",
+      "characters": [
+        "Peterman",
+        "Diane",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a second, I know what's happening. The no sex thing is having a reverse effect on you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whoa! Walking around naked? Ahh... that is not a good look for a man.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Patrice",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Have you seen his act? He's got a twelve-minute bit about Ovaltine. He's a punk, a patsy, a hack.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. I am happy, and I'll tell ya why -- because the two of you were making me and every one of your friends sick! Right, Elaine?",
+      "characters": [
+        "Lippman",
+        "Sally",
+        "Sharon",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, they get very hot in the polyester. You know, it's not a natural fibre. I think they would prefer cotton.",
+      "characters": [
+        "Bob",
+        "Pitt",
+        "Tina",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It won't for a while. At least not until after the cast comes off.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't want to have anything to do with you or your perverted friends.  Ooohh, get away from me! You're horrible.",
+      "characters": [
+        "Landis",
+        "George",
+        "Jerry",
+        "Marla"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Jerry, get menus so when we sit down we can order right away.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Ray",
+        "Margaret"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You leave me no choice! You're the media now as far as I'm concerned!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

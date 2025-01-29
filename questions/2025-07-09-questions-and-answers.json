@@ -1,0 +1,106 @@
+{
+  "gameNumber": 188,
+  "date": "2025-07-09",
+  "questions": [
+    {
+      "quote": "Calm down Brett, okay. You could have a concussion. Calm down.  'Desperado, mmm-mm-mmm. You better...'",
+      "characters": [
+        "Gina",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I don't want anything to go wrong. If this woman votes to impeach me, I'll be a laughing stock.",
+      "characters": [
+        "Morty",
+        "Todd",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "ha ha well I know something about getting to first base. And I know you'll never be there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just stopped by to thank you. That risk management stuff you wrote for me? It's killer!",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "Stan"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Ahh. I can't go to the movies like this. Do you mind if we go back to my apartment, so I can change?",
+      "characters": [
+        "Christie",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Christie"
+    },
+    {
+      "quote": "So you're having sex and then all of a sudden, you just blurt out \"I'm giving you a raise.\"",
+      "characters": [
+        "Captain",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And you can tell the players that I reimburse the trainer for the cigarettes and the dive checks.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Yeah, I don't read much myself,  well you know besides the paper. Yeah a lot of people read to relax, not me. You know what I do?",
+      "characters": [
+        "George",
+        "Driver",
+        "Kimbrough",
+        "Jerry"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "What keeps the water in there? I mean, why doesn't it disappear?",
+      "characters": [
+        "Newman",
+        "Lippman",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I know. I can tell. It's one of my powers. Why, did you ever fake?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

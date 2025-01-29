@@ -1,0 +1,106 @@
+{
+  "gameNumber": 418,
+  "date": "2026-02-24",
+  "questions": [
+    {
+      "quote": "Boy, he didn't know what he was up against.  So, when do you move into the apartment?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the one. A big Hollywood so-and-so optioned it for a movie.",
+      "characters": [
+        "Gina",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I have a uh...mental alarm. I set my head for... quarter to seven and...  ...I get up!",
+      "characters": [
+        "Daphne",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, I gotta ask you: I was a little concerned that perhaps I was responsible in some way for your, uh... metamorphosis.",
+      "characters": [
+        "Elaine",
+        "Gary",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Timed out perfectly. Drop off the car, pick up the rental car shuttle, we walk right on the plane...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Detective",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So I told Bobby and Lisa that we'd try the new Chinese Spanish",
+      "characters": [
+        "Jerry",
+        "Patty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "Hey Bania, the dinners off. The ticket's no good. The numbers are all smudged out.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[To Rep] I dunno what happened, we were just trying to take him to the dentist.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A - Ha! Nice try, my friend, but you gotta get up pretty early in the morning..",
+      "characters": [
+        "Lanette",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I thought it was stupid. Unless you guys are liking it again.",
+      "characters": [
+        "Jerry",
+        "Jimmy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

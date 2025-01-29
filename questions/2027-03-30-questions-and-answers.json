@@ -1,0 +1,106 @@
+{
+  "gameNumber": 817,
+  "date": "2027-03-30",
+  "questions": [
+    {
+      "quote": "Right. Kramer and I saw it last night. Spock dies, they wrap him up in a towel, and they shoot him out the bowel of the ship in that big sunglasses case.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why do I get pesto? Why do I think I'll like it? I keep trying to like it, like I have to like it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I'll tell you this, you can forget about me going to that bachelor auction.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OK, I don't wanna go over there and do it, and then come back here and find out there was some little loophole, like I didn't put mustard on it or something...",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what? It sounds like the friend of Elaine's that was hitting on me in the book store.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, come on! You've dated women with nosejobs, what's the difference?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what's the problem? Now come on George. I told the big man you were moving on this. Now, don't let him down!",
+      "characters": [
+        "Ray",
+        "George",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "What kind of a sick, demented person wants another person's glasses?",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You think that dentists are so different from me and you? They came to this country just like everybody else, in search of a dream.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now that's a complaint. ...Hello Sally, yeah this is Jerry,I just wanted to leave you a message that I caught your little piece on TV and..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

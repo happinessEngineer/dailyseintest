@@ -1,0 +1,106 @@
+{
+  "gameNumber": 865,
+  "date": "2027-05-17",
+  "questions": [
+    {
+      "quote": "I don't know, I don't know, what should we do? We called an ambulance, does anyone know first aid?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "By the way, you never said anything to George about Jerry and me, did ya?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "It's pretty hot under these lights huh Seinfeld. Pretty....... Hot .",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Cold? How are you going to do that? You're not one of those guys.",
+      "characters": [
+        "Maestro",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, sometimes we do actually have to get up early, but a man will *always* trade sleep for sex.",
+      "characters": [
+        "Elaine",
+        "Bob",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You've got your degree. They don't care. They just want to see something.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Peterman"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, he's nuts. You wanta bump off a couple of cats.  I know, I know. It's down again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, after you scarfed up my mutton I had the irresistible urge to make pork chops for you. I said hello to Franco for you.",
+      "characters": [
+        "Seth",
+        "Holly",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "Well, this is sort of embarrassing, but it's changed my life. The way you analyzed the game? The way you identify the major players? Well it left me breathless. You're a brilliant, brilliant man.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Milos",
+        "Eva"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "No, he left the store early, made a special trip to the distributor and got it.",
+      "characters": [
+        "Jerry",
+        "Lamar",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

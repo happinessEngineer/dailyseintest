@@ -1,0 +1,106 @@
+{
+  "gameNumber": 332,
+  "date": "2025-11-30",
+  "questions": [
+    {
+      "quote": "There putting in a lost and found because of me. There's a time limit but still.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I will. Besides, she's got a boyfriend, Jerry, you know him. Dan. Remember, we went to that party at his house?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what else? Was he nervous? Did he use a lot of slang? Did he use the word 'man'?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He musta got my number off the computer. We ended up talking for, like, two hours.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Specific, Ah, lets see. I've walked in and out of so many buildings they all .. blend in together, I uh, ..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm terribly sorry Mr Kramer but we can't get your car now, the keys seems to have been misplaced.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Owner",
+        "Attendant"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Hey, you know, there's this secretary at work that always had a crush on me.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Salsa, seltzer. Hey, excuse me, you got any salsa? No, not selzer, salsa.  What's the matter?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, how do you like the way I talked you into comin' down here?",
+      "characters": [
+        "George",
+        "Michael",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me get this gum out of my hair and then I'll be ready for bed.",
+      "characters": [
+        "Kramer",
+        "Janet",
+        "Jerry",
+        "Voice"
+      ],
+      "correctAnswer": "Janet"
+    }
+  ]
+}

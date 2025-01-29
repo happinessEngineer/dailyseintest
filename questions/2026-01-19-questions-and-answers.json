@@ -1,0 +1,106 @@
+{
+  "gameNumber": 382,
+  "date": "2026-01-19",
+  "questions": [
+    {
+      "quote": "Well I'll tell you what I think. I think she saw you with that piece off and was devastated. You blew it boy. You really blew it. And you had to ruin it for him. Didn't you?",
+      "characters": [
+        "Cindy",
+        "George",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look Mister Costanza, it's too late now anyway. I already made a deal with another writing team.",
+      "characters": [
+        "Russell",
+        "Voice",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Nah, the only one I could ask is Elaine, and I can't ask her.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Heather",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, excuse me, uh, um, Jason. I don't want to get into a big thing here, but... I'm not sure if, technically, what you just said was actually an apology.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now I know what I am supposed to do. It's so simple. Tell the truth That's all. Just tell the truth",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is he wretchedly poor? Does he wear one of those barrels with the straps?",
+      "characters": [
+        "George",
+        "Steve",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because if there's any doubt at all I...I feel we should cultivate it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rabbi",
+        "Karen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'I will expect all funds in form of cashier checks no later than the 18th'.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh.. right. Cause if we're dating, what everyone saw was just a beautiful moment between two lovers.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why wouldn't they like us?  Again with the pepper? What do you gotta use all the pepper for?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

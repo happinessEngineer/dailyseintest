@@ -1,0 +1,106 @@
+{
+  "gameNumber": 357,
+  "date": "2025-12-25",
+  "questions": [
+    {
+      "quote": "Oh, come on! Hey, Newman didn't even give her that! No, that's not even a woman's coat. It's a man's!",
+      "characters": [
+        "Kramer",
+        "David",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The Rogue's Wallet. That's where he kept his card, his dirty little secret. Short, devious, balding. his name was Costanza. He killed my mother.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it's probably just easier to say \"water cooler show\" than \"coffee machine show.\"",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, I hope you're watching the clothes, because I can't take my eyes off the passion.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Chiles",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, one cannot help[ but wonder what brings you into a crummy little coffee shop like this.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Anna"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No I haven't spoken to her all day-uh, yeah right, um, as a matter of fact, um, she was here, and she uh, left a note, but I wasn't here, but I have the note, uh, right here.",
+      "characters": [
+        "George",
+        "Ron",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Please. They don't do anything. Look, do I have to break up with her in person? Can't I do it over the phone? I-I have no stomach for these things.",
+      "characters": [
+        "Elaine",
+        "Farkus",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, a friend of mine thought she got Legonare's disease in the hot tub.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "What a sorry exhibition that was. Alright, let me get the money back.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Geez, these are delicious. Where did you learn to make eggs like this?",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

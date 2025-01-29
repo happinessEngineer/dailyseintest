@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1081,
+  "date": "2027-12-19",
+  "questions": [
+    {
+      "quote": "They don't consider it stolen, if you wilfully give the guy the keys.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So. I figure since she likes one hairless animal why not another.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, I have to honest; I could go either way with you...but what the hell, we need someone, huh.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "No, no. I was looking at my chart and it said I was difficult. Why would they write that?",
+      "characters": [
+        "Katie",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aww, right. Three hundred, plus fifty for the repair. Three fifty, that's it!",
+      "characters": [
+        "Frank",
+        "Gary",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, her brother just had a book of political cartoons published.",
+      "characters": [
+        "Kate",
+        "Susan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know I'm on the phone with the police! Some guy just gave me a wise answer. Ask that woman.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right. And, and to cover my nervousness I started eating an apple, because I think if they hear you chewing on the other end of the phone, it makes you sound casual.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listening to you. I listen to this for fifteen minutes and I'm on top of the world. Your misery is my pleasure.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe this! What was wrong with it? What didn't you like about it?",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

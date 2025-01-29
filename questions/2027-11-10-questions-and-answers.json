@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1042,
+  "date": "2027-11-10",
+  "questions": [
+    {
+      "quote": "The Duty Free Shop? Duty Free is the biggest sucker deal in retail. Do you know how much duty is?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait, George saw the movie? I saw him yesterday, he didn't mention it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I brought you some cigarettes. You buy yourself something nice.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I-I don't get these birds! They're breaking the deal. It-it's like the pigeons decided to ignore me!",
+      "characters": [
+        "Jerry",
+        "Steven",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. I'll get pea pods and you can't have any of my pea pods.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You had an affair with Ghandhi? MRS. O: He used to dip his bald head in oil and rub it all over my body. Here, look... [shows Elaine a picture of the two together]",
+      "characters": [
+        "Elaine",
+        "Seth",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right we got the wine. Aren't we lucky? We got wine. Whoopee Whoa! Imagine if we didn't bring the wine. We'd be shunned by society. Outcasts! WHERE'S YOUR WINE? GET OUT!",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I kinda like this opera crowd, I feel tough... Anybody else got a problem?",
+      "characters": [
+        "Gary",
+        "Manny",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "God I hate these mixtures. Why don't they just put pretzels on the table. Even peanuts would be good, but I don't know how eats these cheesy things .",
+      "characters": [
+        "Elaine",
+        "Harold",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I was just at my stepmom's house, and I saw that you were on her speed-dial.",
+      "characters": [
+        "Valerie",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Valerie"
+    }
+  ]
+}

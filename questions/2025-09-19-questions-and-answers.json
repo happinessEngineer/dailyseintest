@@ -1,0 +1,106 @@
+{
+  "gameNumber": 260,
+  "date": "2025-09-19",
+  "questions": [
+    {
+      "quote": "The type that doesn't return phone calls. I knew we shouldn't have done this, it was a bad idea in the first place, I told you!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sally, I can't believe you're already doing a One-woman show?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, thank you.  Wow, I've never seen this before..  Oh, they're letters.  Here.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Sophie"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "It's not brain surgery. You open the door for people who live here. And, if they don't live here, don't let them in.  Here.  Wear that.",
+      "characters": [
+        "Doorman",
+        "George",
+        "Kramer",
+        "Willie"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Wait. Elaine will settle this. What's the\"M\"stand for in Richard M. Nixon?",
+      "characters": [
+        "Kramer",
+        "Nikki",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Nikki"
+    },
+    {
+      "quote": "Well, let's make it the plan! Let's just… go for it! Like Thelma and Louise.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "But you have a gift. Jerry, this is not your little comedy act. We're talkin' feature films.",
+      "characters": [
+        "Betsy",
+        "Jerry",
+        "Wendy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen to this, \"If a player cleans his ball during the play of a hole accept on the putting green he shall incur a penalty of one stroke. \" That's a rule, Jerry.",
+      "characters": [
+        "Leslie",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, his name, um, I don't  - I don't even know, all right you want to know his name? I'll - I'll tell you his name. His name is . . . Kramer.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, guess what? Remember that woman you saw me with the other day? You know, she used to be an Olympic gymnast?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

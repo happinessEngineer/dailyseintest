@@ -1,0 +1,106 @@
+{
+  "gameNumber": 373,
+  "date": "2026-01-10",
+  "questions": [
+    {
+      "quote": "She's having Carol, Gail and Lisa over. You know they all have kids now?",
+      "characters": [
+        "Jerry",
+        "Ava",
+        "Elaine",
+        "Joe"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know it looks bleak. I've been there. Ten years ago waking up in bed next to a woman like this would've sent me running for the Phisohex.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well, there's not really much to tell, you know, he's just a guy, Really.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't need the card. High-end hoagie outfit like that, it's all computerized!  They're cloning sheep now.",
+      "characters": [
+        "Brett",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah well, it's about time one of us drew a line in the sand.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Man",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I, I have to say, I've never admitted this to anyone, but um, I kind of like airline food.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ohh! Oh, the city shuts down Fifth avenue. They never let anyone through. We're never getting home.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Man",
+        "Guy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I didn't mean anything by it. I don't even know L. Ron Hubbard! I didn't know you were...",
+      "characters": [
+        "Wilhelm",
+        "Ricky",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Caring about how everyone at work isn't as smart as you. It's brutal.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well, you didn't hear it from me, but needless to say, if you go in there - stick with the consumee.",
+      "characters": [
+        "Kramer",
+        "Gina",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

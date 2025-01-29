@@ -1,0 +1,106 @@
+{
+  "gameNumber": 960,
+  "date": "2027-08-20",
+  "questions": [
+    {
+      "quote": "They had more than some monies. Many, many monies. And they planned to give a sizable portion of their estate to you and Susan after the wedding.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Vandelay",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "So let me get this straight. She saw the floss, you panicked and you told her you liked her.",
+      "characters": [
+        "George",
+        "Susan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And when is Brother Costanza planning on telling Mother Costanza?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, George. I'm gonna tell you. But I just wanna make sure, before---",
+      "characters": [
+        "Rudy",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are we supposed to do? What do you do on a situation like this? Should we call a lawyer, should we call the police?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it was just Kramer...apparently I killed Miss Rhode Island's doves with a bucket of water last night.",
+      "characters": [
+        "Simon",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, we're heading down to protest this big neo-nazi rally. The head of the Aryan Union is speaking, he's in from Chicago. You should come.",
+      "characters": [
+        "Dan",
+        "Joel",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "He never even called Ed Roydlick. They were looking for someone!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "We have no need to speak. We communicate with deep soulful looks.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And what if I don't make the plane? You'll have already left. Then what will I do?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kelly",
+        "Ed"
+      ],
+      "correctAnswer": "Ed"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 851,
+  "date": "2027-05-03",
+  "questions": [
+    {
+      "quote": "I was supposed to pick up Newman at the zoo twelve hours ago.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hoh, here he is. This is the man I wanted you to see. Izzy Mandelbaum. He's eighty years old, but strong as an ox.  Watch this.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ah, just a couple of gals out on the town, shopping and gabbing.",
+      "characters": [
+        "Kramer",
+        "Russell",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right. Yeah. [fearing the answer] Could I have a small popcorn?",
+      "characters": [
+        "Jerry",
+        "Driver",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But first, we're talking with, Jerry.  Okay, Jerry, uh, you uh, you drugged a woman in order to play with her toy, collection. How do you feel about that?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, you're not gonna get caught. Look, let me get him. Man, it's the nineties, it's Hammer time! Come on, just let me get him.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Pretty impressive--\"Serious boyfriend '92 to '95.\" Owns her own car.. \"Favorite president: James Polk!\"",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, come on! What am I gonna do? She's going to eat me alive.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Shelly",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay. you sit here. Now I need the baby. Bring me the baby. I need the baby!",
+      "characters": [
+        "Mohel",
+        "Puddy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "It's like watchin' a couple of hyenas goin' through the garbage.",
+      "characters": [
+        "Sid",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Sid"
+    }
+  ]
+}

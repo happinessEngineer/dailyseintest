@@ -1,0 +1,106 @@
+{
+  "gameNumber": 195,
+  "date": "2025-07-16",
+  "questions": [
+    {
+      "quote": "Yes, George. I'm kind of wondering myself. What is it what you want?",
+      "characters": [
+        "Jerry",
+        "David",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The question is, did you allow a space for the husband to come in with his 'God bless you'? Because as the husband, he has the right to first refusal.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Especially that big kid up in the front.  How old is he?  Hello?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We had an incredible phone conversation. We talked for like twenty minutes. I threw away my notes in the middle of the call. You know, I thought she had a great voice timbre. Is it timbre or tamber?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know George, it struck me today me that a Communistpipeline into the vast reservoir of Cuban baseball talent could be thegreatest thing ever to happen to this organization.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Beth",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "This is a big thing for him. Outgoing president of the condo association.",
+      "characters": [
+        "Jerry",
+        "Karen",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You know, you see Don Matingly signed this envelope then he sent it to room 318, where it was received and signed for by manager Buck Showalter.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, sure. I mean, after all, you were almost my, uh... OK, I gotta go.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Karen",
+        "Manny"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I see many dogs on my mail route. I'll bet there's not one type of mutt or mongrel I haven't run across.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Only twenty-five minutes a day, and you can attach it to any doorknob.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

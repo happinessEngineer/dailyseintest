@@ -1,0 +1,106 @@
+{
+  "gameNumber": 438,
+  "date": "2026-03-16",
+  "questions": [
+    {
+      "quote": "I love shrimp!  I'm a shrimp eater. You put shrimp infront of me,  and I will eat it until my stomach pops!  Oh..",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Frank",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sorry. I mean, I know what it's like to be in love. Ties you up in knots. And Jerry is a very sexy man.",
+      "characters": [
+        "Dana",
+        "George",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "My friend Kramer and I were discussing that same thing the other day. He was with Brant-Leland for a while.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry...Jerry listen I got too much stuff this afternoon, I can't come over, forget it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Tawni"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh I gotta start taking these \"stupid\" warnings more seriously.",
+      "characters": [
+        "Greg",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! You couldn't wait to get back to your little... \"conversation\".",
+      "characters": [
+        "Elaine",
+        "Rebecca",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Our policy is, we're comfortable with our bodies. You know, if someone wants to help themselves to an eyefull, well, we say, 'Enjoy the show.'",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey!! I found out from Paula; She likes George. I'll bet he'll be relieved.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Arrrrrrgh!! .. It's George.. Oh! Sports wholesaler. yeah. yeah. .. thanks for calling back. No , no , no still got the shoes, still got the shoes. Lots of them. This is.. beautiful athletic gear.\"",
+      "characters": [
+        "Tv",
+        "George",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, man. You gotta shoot this movie for me. Brody, he's a reasonable man, but he's insane!",
+      "characters": [
+        "Marty",
+        "Jerry",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

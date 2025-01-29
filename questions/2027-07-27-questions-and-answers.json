@@ -1,0 +1,106 @@
+{
+  "gameNumber": 936,
+  "date": "2027-07-27",
+  "questions": [
+    {
+      "quote": "Well Jerry's gonna be the best man and Kramer's gonna be the usher so what am I gonna be?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You ma, know I've been thinking. I want you to quit that matron job.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, look at the high score--\"G.L.C.\" George Louis Costanza. That's not you, is it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, I feel a cold coming on. Could you get me a cold pill from the medicine cabinet?",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Jerry",
+        "Pitt"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "I don't believe you. If you can put your pants on, you can move those cars.",
+      "characters": [
+        "Sid",
+        "George",
+        "Rita",
+        "Peterman"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Nothing. Please. I'll tell you the truth - the whole thing sounds pretty stupid to me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Oh, right! Hey, it was great seeing you again. I love your outfit.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There are plenty of things you can do, there's chess and uh uh mah jong,",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Hoyt",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, don't they make a counter offer? How can they just cancel the whole deal like that? What kind of a maniac is this guy? I mean he just, he says no, and that's it?",
+      "characters": [
+        "Steinbrenner",
+        "Ben",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was unbelievable. You're right the jokes kept bouncing off her like superman.",
+      "characters": [
+        "Newman",
+        "George",
+        "Mel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

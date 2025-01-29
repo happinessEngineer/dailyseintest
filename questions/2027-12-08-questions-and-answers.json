@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1070,
+  "date": "2027-12-08",
+  "questions": [
+    {
+      "quote": "Don't you see how wrong that is?! Where's your Christmas spirit? And eye for an eye!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The whole city is talking about this monster Joel Rifkin, and I am dating a Joel Rifkin.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well it must be comforting to know you'll be going straight to hell at no more than three miles an hour.",
+      "characters": [
+        "Lena",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh come on? No come on. She took off her hat and there she was  hello. It was like I was looking at myself in the mirror.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You keep a perfect crease by not sitting in them before the performance.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "You know, you have to know how to do that. You can't have people shoving their arms into a six-hundred degree oven!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Vivian",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, as quickly as he came here, he's gone. The poor little guy! Easy.  Easy, big Stein, get it together.  Ok, Wilhelm.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "All right, we're taking a car service. So we'll swing by and pick you up. How about six? . Six is good. . You got a problem with six? . What? What?",
+      "characters": [
+        "Manager",
+        "George",
+        "Waitress",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, alright, so you don't like the face painting, I just won't paint it anymore.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Jerry! I'm *sure* I've seen men on the street early in the morning.",
+      "characters": [
+        "Lamar",
+        "David",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 708,
+  "date": "2026-12-11",
+  "questions": [
+    {
+      "quote": "Wait a minute I need those keys. I wont be able to get into my apartment.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Bruce"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me...huh... I think I made a big mistake. I'd like my deposit back please.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Coffee's coffee in the morning. It's not coffee at twelve o'clock at night.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, it's very impolite to tell secrets. Are you talking about me?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I heard what happened to the junior high. They can't bump you like that. That is so unprofessional.",
+      "characters": [
+        "Ben",
+        "Karen",
+        "Elaine",
+        "Katie"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Yeah, Tommy, this is Connie. You gotta help me. Some guy dropped dead on top of me.  I can't call the cops, 'cos Joey might find out.  I can't. I'm stuck. You gotta help me.",
+      "characters": [
+        "Frank",
+        "Connie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Connie"
+    },
+    {
+      "quote": "My Botticelli shoes. You've been talking about my Botticelli shoes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Sophie",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "June 14th, 1987. Mets Phillies. You made a big error. Cost the Mets the game. Then you're coming up the parking lot ramp.",
+      "characters": [
+        "Frank",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, no. It's right here in the city. It's the same as 212. They just multiplied it by 3, and then they added one to the middle number. It's the same.",
+      "characters": [
+        "Elaine",
+        "Kurt",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All you have to do is wear the fur so Silvio thinks it's yours.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

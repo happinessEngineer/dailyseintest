@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1036,
+  "date": "2027-11-04",
+  "questions": [
+    {
+      "quote": "Ok, thanks. Come on in for a second.  This is my brother, Ricky. He's home from college for the weekend.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Are you kidding? That's very significant! If he was interested in me, he'd want my germs! He'd just crave my germs!",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey. Hey, this is for you.  It's from.. uh, Susan's roommate, Sally.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Ned"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see Elaine, Billy was a simple country boy. You might say a cockeyed optimist, who got himself mixed up in the high stakes game of world diplomacy and international intrigue.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I have to dribble, if I give it to you, you just shoot. You're a chucker.",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about Saturday nights? Do you have to ask her out, or is a date implied?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, you wouldn't believe what it's like down there. Taxicab drivers are insane. You know, everybody is in a hurry.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It is the forced socializing. I mean, just because we work in the same office, why do we have to act like we're friends?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I get it. Why waste time making small talk with the doorman? I should just shut up and do my job, opening the door for you.",
+      "characters": [
+        "Doorman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "In the dark room? Uh no, no thank you. Not right now. I'm a day person!... Are you all right?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Man",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

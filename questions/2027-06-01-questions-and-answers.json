@@ -1,0 +1,106 @@
+{
+  "gameNumber": 880,
+  "date": "2027-06-01",
+  "questions": [
+    {
+      "quote": "Yeah, so now I can peek to see if anyone is waiting to jack me with a sock full of pennies.",
+      "characters": [
+        "Jerry",
+        "Father",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I bent over backwards for that woman! Is it that thing I said about her sister?",
+      "characters": [
+        "George",
+        "Sandi",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, George, your parents can't blow through their savings in this community. It's low-rent. Now, we feel that Florida is really the place where they should be.",
+      "characters": [
+        "George",
+        "Salesman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really? Make sure he signs this. Oh, look George, if there's a problem with Morgan you can tell me.",
+      "characters": [
+        "Newman",
+        "Wilhelm",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "...Over the balcony, bounced off some respirator thing *into* the patient!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you'll make quite an impression on him when you tell him how you burned his cabin down.",
+      "characters": [
+        "Guy",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Patty won't call me back. I don't know if I can live without her.",
+      "characters": [
+        "Cindy",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh-huh. And afterwards we went backstage and Olympia Dukakis autographed my playbill.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Kramer",
+        "Tawni"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "I don't really know why I'm here. Kramer talked me into coming up here. But, obviously, I could never really do anything.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No games? What is the point of dating without games? How do you know if you're winning or losing?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

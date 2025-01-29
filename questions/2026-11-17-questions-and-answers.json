@@ -1,0 +1,106 @@
+{
+  "gameNumber": 684,
+  "date": "2026-11-17",
+  "questions": [
+    {
+      "quote": "Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!",
+      "characters": [
+        "Kimbrough",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "What you need is a translator to go in the shop with you and tell you what they're saying.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't be ridiculous. Now, if you'll excuse me, I have to go to fill my freezer with my own blood.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Rebecca",
+        "Waitress"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh ah, again with the Edward Scissorhand. How can you have hand like a scissor, huh? Show me one person who's got hand like a scissor.",
+      "characters": [
+        "Enzo",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Anyway, I think everything else is okay. Unless of course she's faking.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He just went in. You know, I think he was wearing my Hounds-Tooth jacket.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where is this guy?!  I hate this!  I shoulda brought something to read..  \"Cancer in labratory animals\".. huh.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I bought a bunch of bunion stories from Newman - but they all stink!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know. You get to a certain point, you wanna know about your roots.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about the breathing, the panting, the moaning, the screaming?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Clare",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

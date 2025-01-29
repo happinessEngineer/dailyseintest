@@ -1,0 +1,106 @@
+{
+  "gameNumber": 196,
+  "date": "2025-07-17",
+  "questions": [
+    {
+      "quote": "I-I'm already here. I'm here. I'm here. Uh, you know what? If you want a computer, call me. I-I gotta go.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Bob"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "like yesterday, I go to the bank to make a deposit, an' the teller gives me this look, like--",
+      "characters": [
+        "Kramer",
+        "Gail",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you here that? I can't believe this he's eating his sandwich.",
+      "characters": [
+        "Celia",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't Frank me! I know what you did. How dare you stop short with my wife!",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Frank",
+        "Stu"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "That is the sound of you buying a whole can. And the same goes for this, okay...",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on, Jerry, this is a security issue!  Boy, you wouldn't last a DAY in the Army.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can tell. You know how you're always bragging how you can spot a lesbian?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This stuff on top is my friends. Could I get it done in a separate machine?",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Cynthia",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's seventy-five bucks?! What, am I seeing Sinatra in there?! Am I being entertained? I don't understand this. I'm only paying half.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Will you look at this? More catalogs! 'Omaha Steaks', 'Mac Warehouse', 'Newsweek'?! I can't stop all these companies, so, I'm gonna attack this problem at the choke point.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 367,
+  "date": "2026-01-04",
+  "questions": [
+    {
+      "quote": "No!  Hey! Hey! I see you! That is my Twix!  Oh, ha, ha! Ho, ho!",
+      "characters": [
+        "Michael",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohhhh, what are you doing? Kramer, it's a tape! I taped the game, it's one o'clock in the morning! I avoided human contact all night to watch this.",
+      "characters": [
+        "Newman",
+        "Clerk",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. I like the ball! This is my One Chance to make a Great Entrance! My whole life! I have never made a great entrance!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, I heard that Lassie #3 is buried around here. I'm gonna go check it out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So these people can go back home and tell their friends they saw a real New York mugging. It'll give them a thrill.",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, yes. Well this certainly looks like a lot of words. In record time. I'm very impressed ... with both of you.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Come on.. Come on. Yes!  There's one!  I wish I don't drop dead!!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where are they already? I don't see them anywhere... I got my bags, I'm ready to go.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay next bachelor is number, um 124 on your program. He's uh, he's a high school graduate.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I gotta tell Jerry we're here. I gotta go to the bathroom.",
+      "characters": [
+        "Waitress",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

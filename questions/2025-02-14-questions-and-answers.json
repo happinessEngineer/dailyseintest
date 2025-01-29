@@ -1,0 +1,106 @@
+{
+  "gameNumber": 43,
+  "date": "2025-02-14",
+  "questions": [
+    {
+      "quote": "Well, it was that woman across the street.  You know, you better be careful, buddy. She's gonna get you next.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was outrageous. And she's the heir to the O'Henry candy bar fortune.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "…See, Steinbrenner is like the first guy in, at the crack of dawn.  He sees my car, he figures I'm the first guy in…",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, because I love the foot. I'm a big fan of the foot.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let's just try, an' have a nice time for once, an' we'll talk about this when we get home..",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Gino"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got to pay this Todd Gack guy $300 bucks just so he has some excuse to see Elaine again without asking her out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't think you will. As a matter of fact I'll save you the trouble. I'll do it myself.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He LOST IT! We almost came to blows. We were face to face like a manager and an umpire like this . . kara a pukka ba ya ka ba . . .",
+      "characters": [
+        "Elaine",
+        "Darren",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I insist. I was the one who encouraged you to fire her - the whole thing was all my-",
+      "characters": [
+        "Jerry",
+        "Pam",
+        "James",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, are you, nuts? You're gonna spend more on the ticket than you're gonna get back from Grossbard.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Daphne",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 120,
+  "date": "2025-05-02",
+  "questions": [
+    {
+      "quote": "You buy a jar of Folger's Crystals, you put it in the cupboard, you forget about it. Then later on when you need it, it's there. It lasts forever. It's freeze-dried. Freeze-dried Crystals.",
+      "characters": [
+        "Bookman",
+        "George",
+        "Jerry",
+        "Wyck"
+      ],
+      "correctAnswer": "Bookman"
+    },
+    {
+      "quote": "Here is latest draft. I see you next week. Same time, same day.  On time please.",
+      "characters": [
+        "Testikov",
+        "George",
+        "Ramon",
+        "Jerry"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "Actually, I'm gonna need someone to look after him tomorrow evening.",
+      "characters": [
+        "Marla",
+        "Jerry",
+        "Bania",
+        "Vivian"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": ". Hi this is Bob from the Andover Shop. I'm trying to reach Craig Stewart. He left this number.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Oh! euh.. Yeah We just can't go to the supermarket to get some candy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah! Yeah!..Staten Island . What about my clothes ,how do I get the rest of the clothes?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Sara"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aw, c'mon Kramer, this is ridiculous. I'm not gonna put these on.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, yeah, I did, but she's a tough nut. How d'ya like the tuxedo. It's a rental but I've had it for fifteen years. All right, eh.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Babu",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, I'm under fire here.  I'm under heavy fire here, boy.  Jeez! That was a five-iron!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Poppie",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Which audition, the music video, the horror movie, the exercise tape or the infomercial?",
+      "characters": [
+        "Jerry",
+        "Receptionist",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Receptionist"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 4,
+  "date": "2025-01-06",
+  "questions": [
+    {
+      "quote": "What are you looking at?  Oh, that! We had to leave that outside, last night, because the water was making the room too cold.",
+      "characters": [
+        "Jerry",
+        "Ping",
+        "Regis",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah but what if I am? I'm the last... male Kramer! We're facing extinction!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well all you gotta do is tell Kramer to give me my money back, and you'll get your ticket.",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "George",
+        "Rabbi"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "You don't understand. I went on a successful pocket diet, and I want to keep that weight off.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, man... \"If the engine begins to overheat, turn off air conditioner\". Never, I can't do that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I really don't wear the kind of shoes that have to be cobbled.",
+      "characters": [
+        "Sally",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to say, those people talking behind us really ruined that movie for me.",
+      "characters": [
+        "Fred",
+        "Bob",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh no it is not! No child of mine is ever going to be named Seven!",
+      "characters": [
+        "Gail",
+        "George",
+        "Susan",
+        "Ade"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "You should try our mousse.  It'll change your life expectancy.",
+      "characters": [
+        "Jerry",
+        "Naomi",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "Oh, this is my friend, Jerry Seinfeld. I just bumped into him around the corner. Isn't that a coincidence? The funny thing is, I see him all the time.",
+      "characters": [
+        "Susan",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

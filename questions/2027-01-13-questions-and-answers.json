@@ -1,0 +1,106 @@
+{
+  "gameNumber": 741,
+  "date": "2027-01-13",
+  "questions": [
+    {
+      "quote": "Yeah, her boss told me that she can't hear very well out of her left ear. What, you didn't know that?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lloyd",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It just seems so cliched, and obvious. It's not interesting writing.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, I think that statement alone reflects your burgeoning intelligence.  Hey, what about this one?",
+      "characters": [
+        "Newman",
+        "Daphne",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you're fired because you don't move your arms when you tap dance, you're like a gorilla out there I've gotta go...",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, yeah. Well, he--uh--visits the guy across the hall from me like every ten minutes.",
+      "characters": [
+        "Kramer",
+        "Helena",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, nothing. His part of the story is done.  So I'm waiting for the subway, It's not coming, so I decided to hoof it through the tunnel.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's really not accurate. Nobody drinks from a water cooler any more - they use bottles.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All he has to do now is count his blessings, say a prayer, and he's done. Do you believe this?",
+      "characters": [
+        "Jerry",
+        "Hoyt",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Health cookies. I hate those little dustboard fructose things.",
+      "characters": [
+        "Elaine",
+        "Morgan",
+        "Donald",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We have to do it. It's part of our lifestyle. It's like, uh.. shaving.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tim",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 637,
+  "date": "2026-10-01",
+  "questions": [
+    {
+      "quote": "He met with Elaine, and I asked him what happened, and he yada yada'd me. I mean, could he be having an affair?",
+      "characters": [
+        "George",
+        "Beth",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "You know, I don't know the exact pronunciation but I believe its Manage A Trois.",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, are you aware that adult diapers are a six hundred million dollar a year industry?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, let me tell you something. I'm taking this kid to the top. To the top, Jerry! We're going for the crown, and you can't stop her!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, you know you have a hole in your sneaker there. What is that canvas?",
+      "characters": [
+        "Receptionist",
+        "Elaine",
+        "Jodi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What if he tells John? Then John's gonna think that I think that we're hot and heavy. I don't want John thinking that I'm hot and heavy if he's not hot and heavy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Stop it! It's nothing. It's a stupid holiday my father invented. It doesn't exist!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, nothin' much. I went over to jerry's, uh, talked to Jerry.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't mean to be funny there. Why don't you check the TV guide. I think uh, Holocaust is on.",
+      "characters": [
+        "Morty",
+        "Gail",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ade, I have to tell you, I, I have never met anybody so ... efficient.",
+      "characters": [
+        "Jerry",
+        "Vivian",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

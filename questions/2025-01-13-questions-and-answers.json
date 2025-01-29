@@ -1,0 +1,106 @@
+{
+  "gameNumber": 11,
+  "date": "2025-01-13",
+  "questions": [
+    {
+      "quote": "So, Simon is definitely going back now. He's meeting me here to return my keys.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Pop",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, last night she told me that she liked you. Not you, the disturbed you, so I had to tell her the truth.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no no no -- We bought the wine here before, but now, you know we're bl-blocked in by some car double parked and we're just waiting for the guy to pull out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah yeah, don't you know they used pastrami in that movie 9? weeks? Remember the pastrami scene?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know what you're getting all riled up about. There are probably a million Costanzas-",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I did invite you. Your invitation must've gotten ... lost in the mail.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "A.A. It's one of the Twelve Steps. Step number Nine is you have to apologize to anyone you've ever wronged.",
+      "characters": [
+        "Elaine",
+        "Nina",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I just want you to know I'm there for you. Course now I'm here for you, but when i'm not here for you, i'm there for you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is he doing? Is he getting coffee? I think he's getting coffee.!",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No Jerry! I - I need that chicken, I gotta have that chicken. Now you leave those roasters alone. Kenny never hurt anybody.",
+      "characters": [
+        "Vivian",
+        "Estelle",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

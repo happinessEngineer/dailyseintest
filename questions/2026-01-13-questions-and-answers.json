@@ -1,0 +1,106 @@
+{
+  "gameNumber": 376,
+  "date": "2026-01-13",
+  "questions": [
+    {
+      "quote": "Lady, I'm not his wife, I'm his welfare caseworker. Is he home?",
+      "characters": [
+        "Woman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Alright, uh, take it down to the end of the block. Make a controlled turn, and bring her back. Let's see what you've got! Ok? Ready, and go!",
+      "characters": [
+        "Wyck",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "All right, but we're not buyin' it at Bloomingdale's. I will buy it, you pay me back later. I'll sniff out a deal. I have a sixth sense.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, um, did you see a piece of paper on the nightstand here earlier today crumpled up like a napkin?",
+      "characters": [
+        "George",
+        "Ellen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Unfortunately, I am also disgusted. This is incoherent drivel! This is a total redo. And I'm assuming I need it right away.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "If I was a woman I'd be down at the dock waiting for the fleet to come in.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. All right. Let's not get into panic mode! Let's not make a big deal outta this thing or we're never gonna get through this night.",
+      "characters": [
+        "Estelle",
+        "Wilhelm",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your Honor. I most strenuously and vigorously object to this witness. She was not present at the time of the incident. Her testimony is irrelevant, irrational, and inconsequential.",
+      "characters": [
+        "Jerry",
+        "Chiles",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "Hey, Elaine, have you noticed your boyfriend has developed an annoying little habit?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I don't think I've ever seen a man driving a Saab convertible. Still haven't.",
+      "characters": [
+        "George",
+        "Lamar",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Lamar"
+    }
+  ]
+}

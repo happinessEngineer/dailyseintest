@@ -1,0 +1,106 @@
+{
+  "gameNumber": 293,
+  "date": "2025-10-22",
+  "questions": [
+    {
+      "quote": "That's all there is to it. By Christmas day I will be Brother Costanza.",
+      "characters": [
+        "George",
+        "Bookman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was able to finagle two more tickets to \"My Fair Lady\" and I thought why not ask Morty and Helen.",
+      "characters": [
+        "George",
+        "Farkus",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "No, I got into a thing with the son, and now he's laid up too.",
+      "characters": [
+        "Joe",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Man, I don't understand people. I mean, why would George want to deprive you of pleasure? Is it just me?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, we could do that...why not, why not.  I'm just, I'm really glad you're here.",
+      "characters": [
+        "Bania",
+        "George",
+        "Cynthia",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Show the doll - show the picture of George's mother.. it's pretty funny.  I'm gonna call them.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should just do it like a Band-Aid. One motion! Right off!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I got 'em down to fifty bucks. I just have to do all the jackhammering myself.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Milos"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're not getting no Drake's Coffee Cake for fifty cents. Yae, Hey, I'm all set. I got the ticket. I'm going to the Cayman Islands this Friday.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I, I think that's my button.  You know, I've been looking all over for it. Did, did you find it here?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

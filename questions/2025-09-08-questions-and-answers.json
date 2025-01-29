@@ -1,0 +1,106 @@
+{
+  "gameNumber": 249,
+  "date": "2025-09-08",
+  "questions": [
+    {
+      "quote": "C'mon, you lost your wallet, I figured I'd get you another one.",
+      "characters": [
+        "Jerry",
+        "Doris",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't win. You can't beat me. That's why I'm here and you're there. Because I'm a winner. I'll always be a winner and you'll always be a loser.",
+      "characters": [
+        "Jerry",
+        "Levitan",
+        "Aaron",
+        "Elaine"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "Yeah, sure, he's a celebrity. Oh, yeah, they wear a lot of furs. They're desperate, insecure people.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, you know, like when someone opens something up and they go, \"Oh. Tube socks.\"  What are you gonna do about it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jack",
+        "Aaron"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When are they gonna learn that any news about China is an instant page-turner?  What's that?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Meryl",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See, that stinks. You can't eat that. You should take that back.",
+      "characters": [
+        "George",
+        "Susan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey!... HEY!! Georgie. You know what I just realized; the wedding is like a month away.ha..haa..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's a tank of oil. Darren and I are finally going to test out my bladder system.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I don't really know that much about uh.. I don't have any.. I don't.. I don't think I know much about that.",
+      "characters": [
+        "Lloyd",
+        "Morty",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Huh, well, I don't think I want to date a mentor whose protégé is a hack.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Abby",
+        "Elaine"
+      ],
+      "correctAnswer": "Abby"
+    }
+  ]
+}

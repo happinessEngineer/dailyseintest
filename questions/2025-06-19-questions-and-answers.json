@@ -1,0 +1,106 @@
+{
+  "gameNumber": 168,
+  "date": "2025-06-19",
+  "questions": [
+    {
+      "quote": "Tell that to my father. Anyway, guess what? Beth Lookner called me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Aaron",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's been some robberies in the building. I-I can't let you in.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Betsy",
+        "Ellen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I had a jacket with a crest on it. You came into the audience, you threw it away. Agrabah.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm sorry, these are taken. ... They're in the lobby buying popcorn. ... What are you doing? These are taken, these are taken!",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nobody hit anything off. She just gave me the box.  What the hell are you doing?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Can you relax, it's a cup of coffee. Claire is a professional waitress.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My boss told me to find someone. I'm in charge of it. All you have to do is meet him. Come on. Come on, come on, here hold my drink.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I always thought there was something funny about this letter! She copied it right out of Chapter 2! She a thief, a bunko-artist!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Marty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you kidding me? [Elaine walks past the window glancing in] This is the best tool we have today of measuring a persons' intelligence.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, will you stop it. Just because a hospital studying DNA research doesn't mean they're creating a race of mutant pig-men!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

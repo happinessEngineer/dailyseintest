@@ -1,0 +1,106 @@
+{
+  "gameNumber": 156,
+  "date": "2025-06-07",
+  "questions": [
+    {
+      "quote": "I was wearing that sweater in the coffee shop when Barry came in.",
+      "characters": [
+        "George",
+        "Bania",
+        "Jerry",
+        "Joe"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really? You should be ashamed of yourself. I want you out of here!  How ya' doing?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kate",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "look come on, let me use it, 5 minutes, I'll pay you back huh?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, you're a nice guy, it's just that... we don't have anything in common.",
+      "characters": [
+        "Doctor",
+        "Bruce",
+        "Lippman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. And now they want me to bottle it up. It makes me so mad!",
+      "characters": [
+        "Frank",
+        "George",
+        "Newman",
+        "Rick"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No-one's ever been impeached before. I couldn't live here. We'd have to move to Boca.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh, please don't tell me you love me again, Jerry, I can't handle it.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Elaine",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Thank you very much, that's great- >click< Oh! Hold on a sec, I got a call on the other line. >click click< Hello?",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "Elaine",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait, as a matter of fact, wasn't there some guy in your building that you said you liked? He lived up on the fifth floor or something.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Stan",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright listen to me, I got a great idea. Now, you're a heavy sleeper, right? Why don't we just switch apartments?",
+      "characters": [
+        "Kramer",
+        "John",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

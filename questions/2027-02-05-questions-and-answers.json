@@ -1,0 +1,106 @@
+{
+  "gameNumber": 764,
+  "date": "2027-02-05",
+  "questions": [
+    {
+      "quote": "No, I fake limp on my right. This is a real limp because I sprained my ankle.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That?s what I?ll do, I?ll just call him and tell him, I?ll tell him. That?s all I?ll do. He's a human being, I?ll talk to him. He'll understand. Right?",
+      "characters": [
+        "Gail",
+        "Mickey",
+        "Rudy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So Adam, I just talked to your father, and, apology accepted.",
+      "characters": [
+        "Morty",
+        "Fred",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, get out of here...hey officer, he's fooling around back here.",
+      "characters": [
+        "Salesman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, hello. Here you are as promised. You see, I'm a man of my word.",
+      "characters": [
+        "Simon",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Simon"
+    },
+    {
+      "quote": "Yeah. Hey, wait a second, you know, good news for you too. Susan's best friend, Hallie? Broke up with her boyfriend.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Am I?  Do you think I would have bought this dress if I looked like this at Barney's?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Milos"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, here I guess, an' uh, uh I went out and picked up a paper.",
+      "characters": [
+        "Jerry",
+        "Raymond",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's what you did...I can't believe I got another session with Izzy Mandelbaum, he's probably makes me box a kangaroo.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My father was a lobsterman. He got up every morning at four and came home every night stinking of brine! He sent me through law school with the lobsters he caught!",
+      "characters": [
+        "Michael",
+        "Jane",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
+    }
+  ]
+}

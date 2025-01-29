@@ -1,0 +1,106 @@
+{
+  "gameNumber": 501,
+  "date": "2026-05-18",
+  "questions": [
+    {
+      "quote": "Yes. Live, dammit. Live! Every precious moment as if this was the last year of your life. Because in many ways...it is.  Excuse me.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I actually have a friend in the Immigration Department who owes me a big favor. You're very lucky.",
+      "characters": [
+        "Cheryl",
+        "Sheila",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Cheryl"
+    },
+    {
+      "quote": "Wow! That was great! That show was so funny. It was really funny. I'm not just saying that cause I know you. Honestly.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Woman",
+        "Nina"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "5000, even better. Okay, Chrissie. Give me a schtickle of flouride.",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "It'll be twenty minutes. I told ya, Puddy's getting me an insider deal.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Julie",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So we got an attractive woman, wearing a bra, no top, walkin' around in broad daylight.  She's flouting society's conventions!",
+      "characters": [
+        "Keith",
+        "Jerry",
+        "Conrad",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Yes of course go ahead. My guess is you're going to like this very much.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kruger",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right lets take a look to see what we got  Wait a second.. I think I see something here George. Lets go to the videotape.",
+      "characters": [
+        "Attendant",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, Elaine. I don't think we should see each other anymore.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Helen",
+        "Ben"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Yes. I spotted him getting his mail. And at first, I was just going to walk on by, but then I thought, \"No no no. No. Do not be afraid of this man.\"",
+      "characters": [
+        "Deena",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 328,
+  "date": "2025-11-26",
+  "questions": [
+    {
+      "quote": "I can't take it anymore! I'm going to work! ARe you happy now?!",
+      "characters": [
+        "Jerry",
+        "Janet",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. That's one for the ages. But I think they're gonna put Poppie away for a long long time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Chiles",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, I'm just uh, redecorating my office in a south-western motif and this'd be perfect. Give you five hundred dollars for it?",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Attention Steinbrenner and front-office morons! Your triumphs mean nothing. You all stink. You can sit on it, and rotate! This is George Costanza. I fear no reprisal. Extension five-one-seven-oh.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Levitan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What happens if the husband dies after the wife, who brings in the clothing in then?",
+      "characters": [
+        "Sid",
+        "George",
+        "Jimmy",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, this is beautiful. You, and Puddy, and this new guy, in a big pot of love stew.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Vivian",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. Well, I'll tell you, a nice greeting card can really lift a person's spirits.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, well isn't that just easy for you to say. What the hell do you think I'm going to do with myself?",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Kramer",
+        "Babs"
+      ],
+      "correctAnswer": "Babs"
+    },
+    {
+      "quote": "I don't know, I don't understand it. Cheryl was supposed to take care",
+      "characters": [
+        "Elaine",
+        "Bob",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, yeah, you know how frustrating that can be when you keep putting quarters and quarters in to machine and then  nothing comes out...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

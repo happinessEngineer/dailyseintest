@@ -1,0 +1,106 @@
+{
+  "gameNumber": 243,
+  "date": "2025-09-02",
+  "questions": [
+    {
+      "quote": "Yeah, when the season starts. Right now, I sit around pretending that I'm busy.",
+      "characters": [
+        "Mike",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, it kind a motivates me to work on the road. So uh, make yourself at home.  So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Na, you're way way way off.. Well, yeah that's the right number but this is an apartment",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, Bye!  Hello? You are not going to believe the date I just had.",
+      "characters": [
+        "Stan",
+        "Keith",
+        "Heather",
+        "Elaine"
+      ],
+      "correctAnswer": "Heather"
+    },
+    {
+      "quote": "You just said, 'nice to meet you', but actually we've met before.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you lying little snot. And he's a cheater. Aren't ya' you little twerp?",
+      "characters": [
+        "George",
+        "Debby",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who goes around feeling people's material? What can be gained by feeling a person's material? It's insanity!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, sleepy here is quite a weasel, maybe he can bat for you.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you got any extra furniture down there? I need some more stuff to fill that extra bedroom with the walk-in closet.",
+      "characters": [
+        "Rick",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it?s very flattering. How did you get these tickets, I heard they're impossible to get.",
+      "characters": [
+        "Frank",
+        "Regis",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

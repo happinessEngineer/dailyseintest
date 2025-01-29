@@ -1,0 +1,106 @@
+{
+  "gameNumber": 964,
+  "date": "2027-08-24",
+  "questions": [
+    {
+      "quote": "Okay, next item. Susan's doll collection. Estimated value: $2.6 million. What do you say we go through this doll by doll?",
+      "characters": [
+        "Wendy",
+        "Elaine",
+        "Wyck",
+        "Poppie"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "And then in the fifth inning, why did you take off on the pop fly?",
+      "characters": [
+        "Newman",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know all those stores canceled out on her? She's finished.  We're  finished.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey. Nice twirl you got there. You know who invented that, don't you?",
+      "characters": [
+        "Elaine",
+        "Tony",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, look at this. Wide lanes. This is so luxurious. Woo, yeah.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You wanna buy it back? Why, you go drugs hidden in the trunk?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "If I get it for you, will you take me to that club an' show me a good time?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes I'd like to speak with Dr. Siegel... it's about Roy Kordic's condition...",
+      "characters": [
+        "Jerry",
+        "Allison",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm sure they'll be able to fix it. You can't stop modern science. Can't stop it, you can't stop it. Can't stop science. Can't be stopped, no way, no how, science just marches--",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm working at the Andover shop actually....You should come by. I'll get you a great discount.",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Craig"
+    }
+  ]
+}

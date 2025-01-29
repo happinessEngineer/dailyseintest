@@ -1,0 +1,106 @@
+{
+  "gameNumber": 244,
+  "date": "2025-09-03",
+  "questions": [
+    {
+      "quote": "Ah - see the sense of humor? C'mere, I'm so nuts about you... I tell ya, it was fun being single, but when you meet a woman like this, you don't walk to get married - you run!",
+      "characters": [
+        "George",
+        "Carol",
+        "Ade",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, George, I just want you to hear me say to Anna that you're a good and decent person.",
+      "characters": [
+        "Cheryl",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Is that so? Or could it be that you're just a *little* bit worried that you may have missed the boat?",
+      "characters": [
+        "Jerry",
+        "Matthew",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I was going to watch it with my daughter. She likes Audrey Hepburn very much.",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Prediction. I never see you or him again for the rest of my life.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I, uh, I'm not sure how you pronounce it or anything, but I, uh, I believe it's Ménage à Trois?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Seth",
+        "Jane"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I see, well, that's open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was destroyed. But out of that, a new holiday was born. \"A Festivus for the rest of us!\"",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No. A $29,000 piece of cake. Peterman got it at The Duke Of Windsor auction. It was the most romantic thing I've ever eaten.",
+      "characters": [
+        "George",
+        "Keith",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why does everything have to be 'us'? Is there no 'me' left? Why can't there be some things just for me? Is that so selfish?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

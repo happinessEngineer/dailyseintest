@@ -1,0 +1,106 @@
+{
+  "gameNumber": 301,
+  "date": "2025-10-30",
+  "questions": [
+    {
+      "quote": "Oh yeah, people really seem to be enjoying themselves. You know, they come in once, it's like they're addicted.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You always have to know everything that's going on, don't you?",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Jerry",
+        "Helena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't mind someone with a phony personality, but I gotta draw the line somewhere.",
+      "characters": [
+        "Alec",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I just want to you know I'm retracting our dinner invitation.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Dan"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh, yeah. Right. Like anybody's ever gonna do this! How did you get me to go along with that? A show about nothing!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Puddy's just gonna give you the car, huh?  You'll see. First they stick you with the undercoating, rust-proofing, dealer prep. Suddenly, you're on your back like a turtle.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Porn quotes... I'm so lucky to have a friend like you, George. Ever tell you how much I love you?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Naomi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know this whole place is going vrrrrrrrrrrrrt, downhill. I could have come in here last week with a bad plum but I let it go.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You gotta look at this. I pulled it in perfectly equidistant from the car in front of me and the car behind me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "John"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, so you cry... and when you see the dancing, you cry again.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

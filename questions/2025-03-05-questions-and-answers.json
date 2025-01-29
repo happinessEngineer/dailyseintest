@@ -1,0 +1,106 @@
+{
+  "gameNumber": 62,
+  "date": "2025-03-05",
+  "questions": [
+    {
+      "quote": "It's funny!  and it wouldn't kill you to not be so funny either.",
+      "characters": [
+        "Mohel",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just dropped in for a visit. You, uh, you never called me back.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your background is impressive George, but how does it apply to what we do here, at Kruger Industrial Smoothing?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Puddy",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You see this is the thing. . . .  I just feel . . . mumble, cry, mumble, . . . I'm scared. You and I together,",
+      "characters": [
+        "Elaine",
+        "Hanke",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, you've got to get back down to the dealer. Puddy is screwin' me on this car, which is yellow now!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's a lot of just fancy-shmancy stuff. You know what it's like? It's like a big budget movie with a story that goes *nowhere*.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So she starts vaccuming, back and forth, back and forth, her hips swivelling, her breasts, uh...",
+      "characters": [
+        "George",
+        "Gary",
+        "Kramer",
+        "Man"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Meanwhile Mr. Pitt's got this match with Ethyl Kennedy this afternoon.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let's go, people, let's go! It's Prognosis Negative time, wa ha ha ha!!!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Interference! You can't count that! Come on, are you crazy?! The coin cannot touch anything, it affects it.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Jerry",
+        "Kelly"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1026,
+  "date": "2027-10-25",
+  "questions": [
+    {
+      "quote": "It's just a Latin phrase George, it does not mean anything. Now, what is this test?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Joel",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, looks like you're getting a little spare tire there, tiger.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Would it kill him to check up on us? No - drops off the meals and that's it. I realize we're prisoners, but we're still entitled to catsup.",
+      "characters": [
+        "Peterman",
+        "Estelle",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's false advertising, see? And the thing is, I think she likes people thinkin' she's Chinese. She suggests Chinese food. She always introduces herself as \"Donna Chang\"...",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, we got your...got your strawberries, your chocolate sauce, your pastrami on rye with mustard, your honey...",
+      "characters": [
+        "Newman",
+        "George",
+        "Receptionist",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, if you got a loser. But Little Jerry was born to cockfight!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The *bank*? This is *found* money. I want to *parlay* it. I wanna make a big score!",
+      "characters": [
+        "Barry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe you're really going out with a woman named Lois.",
+      "characters": [
+        "Doctor",
+        "Ellen",
+        "George",
+        "Kelly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. No. No. No. No. I don't really have a phone. In fact, I - I really don't have an apartment. I kinda sleep around.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kelly",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. We've been coming here everyday. This is so fucking good.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

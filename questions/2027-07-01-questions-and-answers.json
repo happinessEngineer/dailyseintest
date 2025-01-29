@@ -1,0 +1,106 @@
+{
+  "gameNumber": 910,
+  "date": "2027-07-01",
+  "questions": [
+    {
+      "quote": "Oh... Boy this garage is going to cost a fortune. You know how long we were here?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So you heard that I was in a car accident, and then decided to stop off for some Jujyfruit?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jake"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "You know, those mail bags, they get mighty heavy. I uh, I Nautilus, of course.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, I don't sit on park benches. They're very bad for the back.",
+      "characters": [
+        "Hal",
+        "George",
+        "Testikov",
+        "Emily"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "I mean, it's not fair. I've been going there for 7 years. She's been there 3 weeks.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? I don't think so. I'm going to need it from time to time.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "I got something against yours. How about a couple of deep knee bends, maybe a squat thrust?",
+      "characters": [
+        "Tv",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, I want to thank you for the invite up state. I'm sorry I can't make it.",
+      "characters": [
+        "Elaine",
+        "Roy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no, no. I don't think you get me. I want out, permanently.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, her belly button is like a mouth.  I'm bored. Talk to me.",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

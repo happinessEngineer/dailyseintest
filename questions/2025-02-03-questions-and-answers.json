@@ -1,0 +1,106 @@
+{
+  "gameNumber": 32,
+  "date": "2025-02-03",
+  "questions": [
+    {
+      "quote": "ho ho ho ho. You know I only got two weeks left of unemployment. I got to prove I've been looking for a job to get an extension",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh? So, I took your suggestion and I gave my boss Marion's poems. The ones that affected Kramer so much.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well maybe in hardball with all the signals and everything but I'm just lobbing it in. We don't have any conferences. He doesn't come out to the mound and encourage me.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I didn't know you meant *hold* it, I thought you meant hold it.",
+      "characters": [
+        "Kramer",
+        "Rick",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Thanks for that four a.m. wakeup call last night.  Where the hell is that jacket?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Expecting Newman? That's funny because I just happened upon him down at the Kenny Roger's Roasters.",
+      "characters": [
+        "Elaine",
+        "Betsy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? Well, you hardly know the guy…. What a nerve. You see wasn't I right about this guy? Didn't I tell you? Now, you're not going to do it are you?",
+      "characters": [
+        "Conrad",
+        "Jerry",
+        "Brett",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got another card from Kristin. Not quite as chipper as the first one.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Stuart's a lot better!  Little Stuart Rifkin likes to go shopping with his mother.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It must be the fabric. It's rubbing between you thighs when you walk. That's what's making that swooshy sound.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

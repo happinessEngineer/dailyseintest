@@ -1,0 +1,106 @@
+{
+  "gameNumber": 661,
+  "date": "2026-10-25",
+  "questions": [
+    {
+      "quote": "Well?  I was just - I'm curious, that's all. We, uh. We'd like you to, do everything possible.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Guy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not only that they found it. It was simonized and the front end was aligned.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, well, yes Kramer. So, a coffee table book about coffee tables. Where did you come up with this idea?",
+      "characters": [
+        "Regis",
+        "Newman",
+        "Ray",
+        "Izzy"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "If you go now, I know what's gonna happen. We'll find the car, Jerry will show up, and then we'll never find you.",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's.. .. you! It's really you! Oh, I'm such a huge fan of yours. Would you mind signing this poster for me?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Glenn",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sorry about that lock on the liquor cabinet. The combination musta just flown outta my head. It's a mental block.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You see, this is what I do with women. I start out too strong, now I have to become real, that's when it all falls apart. What good is real? They don't want real, they want funny.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. You know what?  I'm gonna grab these from you later. You'll take care of 'em, okay? Okay. See you tomorrow.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Rava"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I just want to let you know; Lyle and I are completely over. I'd rather be with you.",
+      "characters": [
+        "Lanette",
+        "George",
+        "Kramer",
+        "Marcy"
+      ],
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "Now Jerry please, do not do this to your father.  Over my dead body Jerry.  I'll tell you right now, you're not going to do it.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

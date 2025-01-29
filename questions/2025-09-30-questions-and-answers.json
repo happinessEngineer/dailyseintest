@@ -1,0 +1,106 @@
+{
+  "gameNumber": 271,
+  "date": "2025-09-30",
+  "questions": [
+    {
+      "quote": "Well... what do we have here? Perhaps Miss Benes could explain why a Jerry Seinfeld signed for this package  at the exact same time the couch was stolen.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Doorman"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Cause I tell you, frankly, I would like to walk in hear one day and find you sitting down.  That would give me a lot of pleasure. Call me crazy.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, watch were you're going. You almost knocked my head off!",
+      "characters": [
+        "Ed",
+        "George",
+        "Doorman",
+        "Kramer"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "Oh Elaine, we're doing some really very interesting things right now. We've got some very exciting pilots for next season. We have one with a bright young comedian, Jerry Seinfeld.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Do you think she gets to take any of those little bars of soap home?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, nobody's calling off any weddings. Alright, it's time to go. Come on.. Up.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I punched him and they took him to the hospital and then they canceled the rest of the week.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't be so sure. Look at George - he's on his ninth date with Betsy, he still hasn't gotten anywhere with her.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're through Soup Nazi. Pack it up. No more soup for you. Next!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Alton",
+        "Babu"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright. I've never been to Mars but I imagine it's quite lovely.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Wyck"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

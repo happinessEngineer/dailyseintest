@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1027,
+  "date": "2027-10-26",
+  "questions": [
+    {
+      "quote": "Oh, stop it. You know that friend of yours, Tim the dentist? I got an invitation to his Thanksgiving Eve party.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Nina"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it seems that due to the vagaries of the production parameters of this fragmenting of the audience to the cable television, carnivals, water parks...",
+      "characters": [
+        "Abby",
+        "Elaine",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do I do? Well actually, I'm a writer. In fact, I'm writing a comedy pilot for NBC right now.",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The guy who pitched him the show with the stories about nothing.  Jerry Seinfeld. Jerry Seinfeld's friend.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Craig"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'd much rather get hit by an 80 pound air conditioner than a two ton cab.",
+      "characters": [
+        "Rabbi",
+        "Helen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Anyway there are these three big boxes, you can't miss them. I want you to ship them here to New York for me.",
+      "characters": [
+        "Susan",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Because that's the way I weas raised. You know when I was growing up I had to be in bed every night by nine o'clock. And if I wasn't, well I don't have to tell you what happened.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you're the big look expert. I wanna see how smart you are.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine. I think I've been working you a little too hard, lately.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "All right Bubble Boy. Let's just play... Who invaded Spain in the 8th century?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Gladys"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

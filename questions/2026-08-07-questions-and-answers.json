@@ -1,0 +1,106 @@
+{
+  "gameNumber": 582,
+  "date": "2026-08-07",
+  "questions": [
+    {
+      "quote": "She and Jerry were a big thing, like Abe Lincoln and Mary Todd.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's got a few more miles on it, but the previous owner was John Voight.",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Oh! no right away, chop, chop........Oh! a new cartoon.....\"I wish I was taller  I'd like to see that complaint get rectified.",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "There's no house! It's a lie! There's no solarium. There's no Prickly Pete. There's no other solarium.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No see, he's not smart. People think he's smart, but he's not.",
+      "characters": [
+        "Jerry",
+        "Mickey",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I-I'm having a lot of trouble, um, hearing you back here. So...",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Here, check out this view.  If you lean out this window, you can see the river.",
+      "characters": [
+        "Bonnie",
+        "George",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "Oh, well that's where the rally is. The Paramount, right next door.",
+      "characters": [
+        "Elaine",
+        "Keith",
+        "Dan",
+        "Wyck"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "Mrs. Landis, there's something wrong with this copying machine, it's all coming out slanted. Now, I don't know if this is your department or not.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Pitt"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "\"Well this afternoon I shared a cab with this...a hum..DEENSFREI:.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

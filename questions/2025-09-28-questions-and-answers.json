@@ -1,0 +1,106 @@
+{
+  "gameNumber": 269,
+  "date": "2025-09-28",
+  "questions": [
+    {
+      "quote": "You don't understand. I got this all timed out. I got another spot across town at 9:50, I'm not gonna be able to make it!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Greg"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! What're you watching?  Only You? That's another Marisa Tomei movie, and you've seen that one too.  What, d'you have a thing for her?",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Look George, I'm friends with both of you. But I can't betray her confidence by telling you anything.",
+      "characters": [
+        "Todd",
+        "Estelle",
+        "Elaine",
+        "Noreen"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "They also have an atomic wedgie. Now the goal there is to actually get the waistband on top of the head. Very rare.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Marla",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just came from Leapin' Larry's. Making fun of crippled people, is that what you've sunk to?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Ruby",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh oh I don't think we think we can make it tonight,  we have plans.",
+      "characters": [
+        "Helen",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "George, it's time for us to grow up - and be men. Not little boys.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How would you like a 'Hare Krishna' fist on your throat, you little punk?",
+      "characters": [
+        "Elaine",
+        "Pitt",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I put a bet down for ya on tonight's game. Yeah, if the Knicks beat the Pacers by more than thirty-five? It pays ten to one. Oo-oo! That's some sweet action!",
+      "characters": [
+        "Jerry",
+        "Ray",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if you were blind, what do you think the worst part of it would be?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 842,
+  "date": "2027-04-24",
+  "questions": [
+    {
+      "quote": "No, I got to warn him that I told Joe Devola about his party.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Joel",
+        "Carl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's in the bottom draw' of are dressa'. Hurry up! … He's such an idiot.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I'm sorry. I can't live knowing Ted Danson makes that much more than me. Who is he?",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, coming down here to say that you didn't say hi is more of a gesture than if you did say hi.",
+      "characters": [
+        "Jake",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Come on, lets not stand here too long, we might run in to her.",
+      "characters": [
+        "George",
+        "Gary",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She made a big breakfast every Sunday. I don't know what she put in those eggs.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's this? Can't I leave this place for a second?  Can I help you?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, there was a lot more I could've told her, believe me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but Jerry, what happens if the show's a hit? You could be out there for years! You might never come back.",
+      "characters": [
+        "George",
+        "Ethan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen. Heads up, Elaine. I'm gonna have to stop by later and pick up a fax.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

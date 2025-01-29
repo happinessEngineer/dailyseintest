@@ -1,0 +1,106 @@
+{
+  "gameNumber": 782,
+  "date": "2027-02-23",
+  "questions": [
+    {
+      "quote": "Alright, you know what this is gonna do? He's gonna be upset because you didn't call him and we're not gonna get those tickets for Friday night.",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's a tough decision. I have to wear these every day. I'm deciding on a new face.",
+      "characters": [
+        "George",
+        "Kate",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ate? What? What the hell are you talking about? Now you listen to me, you get out of that apartment this instant. If you screw this up for me I swear....",
+      "characters": [
+        "George",
+        "Kramer",
+        "Rachel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, oh, you see this socket it's probably connected to her apartment. So what we'll do, we'll take this paper clip and bend it so it'll short out the entire circuit. Here you go...",
+      "characters": [
+        "Naomi",
+        "Babu",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What did we ever do to them?  I want to know what we did them!",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Oh, well uh, okay I'm there with, uh, Woody, you know, I'm at this bar and, uh, I'm sit-- you know it's Woody Allen, did I mention that?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Never! You hate him because he's doing more with your name than you ever will! Yah-yah!",
+      "characters": [
+        "Heather",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I did a number on him, it was a thing of beauty, you really had to have been there to appreciate it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't need the air conditioner. So, you have your speech all ready?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "George, I've read this report. It's very troubling, very troubling indeed. It's a sick mind at work here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    }
+  ]
+}

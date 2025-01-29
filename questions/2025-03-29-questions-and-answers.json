@@ -1,0 +1,106 @@
+{
+  "gameNumber": 86,
+  "date": "2025-03-29",
+  "questions": [
+    {
+      "quote": "Well, I tasted it at the one downtown. It's got a remarkable texture. You'd never know it was non-fat.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Hey, you know, I gotta go get these tomatoes. You wanna go for a ride?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Twelve dollars? I knew we should have gone to the bakery. I guarantee you they're not getting no twelve dollar cake.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! Jerry!  Cable boy, cable boy.. What have you done to my little cable boy?..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Exactly! Because neither one of us can't handle a woman all by ourselves.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh come on, George, please put it in a garage. I don't want to spend an hour looking for a space.",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I don't, never have, anything I read was already open.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Carrie"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, small world. So little people can have not little people children?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Daphne",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Silvio, look at Jerry here, prancing around in his coat with his purse. Yup, he's a dandy. He's a real fancy boy.",
+      "characters": [
+        "Buckles",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah well Jerome, I, happen to be flying him in on my frequent flyer miles.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 13,
+  "date": "2025-01-15",
+  "questions": [
+    {
+      "quote": "It's a story about love , deception ,greed , lust and.... unbridled enthusiasm .",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I remember you donated to some volcano thing on our first date.",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, do you believe I got Happy New Yeared today? It's February.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mrs. Wilkie, from the tobacco company called me. We had a little pow-wow.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Har-harwood, Jerry. He was the assistant wardrobe man on Spartacus. Some fascinating insights into the production.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just wanted to tell you that I really enjoyed Fair Game. I thought it was just brilliant.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I don't want. So, just tell me what I owe you for your trouble..",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know what they say. Lucky in love, Unlucky with fruit.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well, I really think I'm falling for you... [opens the playbill and flips five pages till he finds and reads autograph] .....Joseph Puglia...",
+      "characters": [
+        "George",
+        "Woman",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I once told a woman that I really enjoy spending time with my family.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

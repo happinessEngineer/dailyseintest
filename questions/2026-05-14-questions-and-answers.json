@@ -1,0 +1,106 @@
+{
+  "gameNumber": 497,
+  "date": "2026-05-14",
+  "questions": [
+    {
+      "quote": "So, Puddy, this is a pretty good move for you, huh? No more \"grease monkey\".",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Pardon me, I went to see your friend Dwayne... there was no discount.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Buckles"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, it's not you. It's your stomach, he's taking with this funny, booming, jovial voice.  Hello-o-o-o.",
+      "characters": [
+        "Kramer",
+        "Lois",
+        "Buckles",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well! I am happy to say that the little guy is back in place at the end of the line.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That old one? Didn't I once miss a flight to Cleveland because of that alarm clock?",
+      "characters": [
+        "Morty",
+        "Brody",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're supposed to just take a peek after a poke. You were like you just put a quarter into one of those big metal things on top of the Empire State Building.",
+      "characters": [
+        "Sandi",
+        "Elaine",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, uh, act..actually, I haven't seen it. So, I couldn't tell you whether I liked it, or whether it really sucked.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's cold out, and I didn't bring my own. Jerry! God forbid I should borrow one from Holly. It might have belonged to grandma Memma. Thanks for mutton.",
+      "characters": [
+        "Elaine",
+        "Phil",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, correct me if I'm wrong, but isn't it a violation of club policy to not wipe down a machine after using it?",
+      "characters": [
+        "Jerry",
+        "Pam",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My house? You gotta be on the lease to press to buzzer. Yeah?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

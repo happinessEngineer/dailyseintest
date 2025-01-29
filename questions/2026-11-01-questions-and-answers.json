@@ -1,0 +1,106 @@
+{
+  "gameNumber": 668,
+  "date": "2026-11-01",
+  "questions": [
+    {
+      "quote": "Alright, what happened, Frank? What is it that you can't get over?",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Right, we'll John Mollika is organizing some kind of intervention for him. We're having it here.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, Puddy, I decided I'm gonna go with another 900 convertible.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, my friend Bob Saccamano made a fortune off of those. See he came up with the idea for the rubber band. Before that, people would just hit the ball, and it would fly away.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He is a fine dresser and I'm sure I don't have to tell you he's quite popular with the ladies.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Landlord",
+        "George"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "You mean it's...  No this. No that. No this or that. Oh, boy. Hmmm. What do you want?",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Woman",
+        "Sheila"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I did. My boyfriend said I got gonorrhea from riding the tractor in my bathing suit.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "George",
+        "Sophie"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "That's my cabana shirt, you stole my shirt you son of a bitch!  George you let your friends go up in my attic and steal my clothes?  Gimme that back",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'd like to have a kid. Of course, you have to have a date first... Remember my friend, Adam, from Detroit?",
+      "characters": [
+        "George",
+        "Tim",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello Joe, listen this is Jerry Seinfeld, I really think there?s been a huge colossal misunderstanding,",
+      "characters": [
+        "Jerry",
+        "All",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

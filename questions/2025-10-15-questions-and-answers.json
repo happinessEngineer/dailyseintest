@@ -1,0 +1,106 @@
+{
+  "gameNumber": 286,
+  "date": "2025-10-15",
+  "questions": [
+    {
+      "quote": "…and they put me in this thing, that feels like a coffin, for forty-five minutes. Have you ever been in one of those things? You could go berserk in there!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Corinne",
+        "Kramer"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "Hey! Hey, everyone. This way. I think we can get out through here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But we do owe him a debt of gratitude because by not fixing the crack in the sidewalk, he put Mrs Ziven out of commission for a few weeks.",
+      "characters": [
+        "Jack",
+        "Kramer",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "You know, Jason, I, uh, I couldn't help notice, I... I didn't get my apology.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He was a wrestler. He would grab hold of someone's stomach and just squeeze it until they gave.",
+      "characters": [
+        "Kramer",
+        "Enzo",
+        "Earl",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's not... and the guy just took off.  Don't say anything to anybody.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no, Sir. Festivus is all too real. And.. I could prove it - if I had to.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Harold",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We didn't bet on if you wanted to. We bet on if it would be done.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your friend is been accused of being a serial killer. I think that qualifies.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't. I met them. They're devout. You know, in the cab on the way over here, I actually thought about converting.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

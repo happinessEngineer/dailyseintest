@@ -1,0 +1,106 @@
+{
+  "gameNumber": 635,
+  "date": "2026-09-29",
+  "questions": [
+    {
+      "quote": "[whispering] Elaine? [loud whisper] Elaine! [louder whisper] Elaine!",
+      "characters": [
+        "Puddy",
+        "George",
+        "Roy",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know what this is. You saw that show on PBS last night, Coronary Country.  I saw it in the TV Guide. I called him and told him to make sure and not watch it.",
+      "characters": [
+        "Jerry",
+        "Carrie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what this means, don't you? We lost the Supersaver. Those tickets are non-refundable.",
+      "characters": [
+        "Elaine",
+        "Announcer",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Let me ask you something, George. You having any personal problems at home? Girl trouble, love trouble of any kind?",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I suppose if it was on the protégé's way to the mentor, they might.",
+      "characters": [
+        "Frank",
+        "George",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, that's not gonna work, it's not gonna work. Let me just think for a second here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, are you kidding? I should you loaning you money!  But I'm not.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "But you just passed it. I'm sitting right there next to that guy...",
+      "characters": [
+        "Landis",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah I guess. What can I do? I gotta take her with me. Todd introduced us, I'm obligated.",
+      "characters": [
+        "George",
+        "Carol",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh great, oh, this is great.  How could you let him take the car?",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

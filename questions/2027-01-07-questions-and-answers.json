@@ -1,0 +1,106 @@
+{
+  "gameNumber": 735,
+  "date": "2027-01-07",
+  "questions": [
+    {
+      "quote": "Elaine, do you know what you've done? You've give hope to every woman who's ever said \"Too bad he's gay\".",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I want to trade you screen legend Anthony Quinn's undershirt. He took this off to do sit-ups in the park and I nabbed it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yea they're taking one, the travel agent is trying to set something else up for them.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Gotta get some of that stuffed crust pizza. cheese crust pizza.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, great, great.  What's that smell? Smoke?  Hey everybody, I think I smell some smoke back here... FIRE! FIRE! Get out of the way!",
+      "characters": [
+        "Kramer",
+        "Donna",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "UH, ha ha, ... It's just SO frustrating. It's a brand new jacket.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Gladys",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess I have to bring his car back up to the stadium, if it can make it.",
+      "characters": [
+        "Babs",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Then I see my clothes floating out there. The tied took them out, not the kids.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wow, he really does a number on you.  \"Seinfeld froze like a deer in the headlights in the face of incessant heckling.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know if you waited a few more months it won't be a baby anymore then you wouldn't have to see it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Stan"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

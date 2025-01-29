@@ -1,0 +1,106 @@
+{
+  "gameNumber": 562,
+  "date": "2026-07-18",
+  "questions": [
+    {
+      "quote": "You told Testikov,  that Tolstoy wanted to name his book \"War-- What Is IT Good For?\"?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Audrey",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, he came by here at 3 o'clock in the morning to pick up the tape. I was scared out of my mind!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jane",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hum, he's such a great guy. You should meet him. You know he's the one who got that hit …",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "Kimbrough",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"He..he... When they pull that needle out I let the expletives fly.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Bernie is dead, you moron!  Just because he's wearing sunglasses he looks alive?!  Ugh, how long is this weekend, anyway?  Ugh!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Will you get this horse outta here. He's killing me. I can't get any oxygen.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How did you stay on that beam like that?  I mean, it's only this wide!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ma, I told you, just dip the bread in the batter, and put in right in the pan... Okay, bye.  My mother. She forgot how to make French toast. You know how mothers are.",
+      "characters": [
+        "Donna",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I read an article in Bon Appetit magazine.  I'll see you later.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Tawni"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "... she sent me an invitation was that so I'd send her a gift.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

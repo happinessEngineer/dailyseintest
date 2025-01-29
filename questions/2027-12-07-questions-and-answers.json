@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1069,
+  "date": "2027-12-07",
+  "questions": [
+    {
+      "quote": "So George. Remember when I told you Nikki gets whatever she wants. We are at the movies last night. It's sold out. Nikki goes and talks to the manager. Right in.",
+      "characters": [
+        "Jerry",
+        "Darryl",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you have a policy!  The delicate genius has a policy! George heads for the door.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't go by the audience that night. It was late. They were terrible.",
+      "characters": [
+        "Harold",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Like what? I'm bald? What is it specifically? Is, is there an odor I'm not aware of?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, didn't those people just come in? I believe we were ahead of them.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He said he didn't care. Oh, God I love that place. Hey, have you seen other dermatologist?",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Assistant to the travelling secretary.  I'm uh, working on the project.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's the perfect cover! All that time on the road? Look Jerry, he's too normal to be a comedian. These comedians, they're sick, neurotic people.",
+      "characters": [
+        "Doorman",
+        "Elaine",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Thanks for the card. I loved it. Gosh it made me feel good. You know, word has it that you were the brains behind the whole thing.",
+      "characters": [
+        "Noreen",
+        "Newman",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "She calls you today and she doesn't make a plan for tomorrow? What is that? It's Saturday night!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

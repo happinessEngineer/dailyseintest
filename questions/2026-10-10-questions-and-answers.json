@@ -1,0 +1,106 @@
+{
+  "gameNumber": 646,
+  "date": "2026-10-10",
+  "questions": [
+    {
+      "quote": "So Kramer what am I supposed to do? If I don't have that fur hat by four o'clock they're gonna take me down like Nixon.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "'Cause it's signals, Jerry, it's signals!  Don't you- all right. Did she even ask you, what you were doin' tomorrow night, if you were busy?",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Peterman's book is big business. People want to know the stories behind the stories.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's my medical opinion, that you're making a big mistake. And it's going in my chart.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I cannot find my Jerry Lewis cufflinks. Without 'em, I have no in!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh come on Jerry, you're wrong. People they want to watch freaks. This is a \"can't miss.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Lloyd"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why did you force that mint on me? I told ya I didn't want the mint!",
+      "characters": [
+        "Susan",
+        "Bania",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because before you know it he'll be having lunch with him. You know how these interoffice politics work.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Last time I had lunch with you here. You were going *on* and *on* and *on* about how you wanted to meet somebody who didn't speak English.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Earl"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what we could do? He eats at that restaurant, Pfeiffer's? We could have Gail call us, tell us the next time he's there, go there and talk to him.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Raymond"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}
