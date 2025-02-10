@@ -1,0 +1,106 @@
+{
+  "gameNumber": 506,
+  "date": "2026-06-12",
+  "questions": [
+    {
+      "quote": "Yeah. I'm-I'm telling you he's really sweet and he's really funny and he's just ugh, got a good heart. And besides, I y'know, I think he really likes you.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I cannot believe Ross told you that! And in my defense, it was a Wendy's!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Carol"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! Umm, well, only okay because I just got back from, from the hospital.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Dr. Drake Ramoray",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well uh, look Ross I uh, I think Carol's great and I'm sure you're a very attractive man, but I....",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well there really wasn't much time to get used to it, you know what I mean?",
+      "characters": [
+        "Joey",
+        "Jade",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Jade"
+    },
+    {
+      "quote": "yes, yeah I said something stupid about her never having had a serious relationship, but you should know she is so much fun, a wonderful person please don't blow her off.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joshua Burgin",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dude, this isn't funny! What am I gonna do?! I go to bed last night, everything's cool! I wake up this morning, the stripper's gone and the ring is gone!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, how can you be a tour guide, don't you have to be a dinosaur expert or something?",
+      "characters": [
+        "Doug",
+        "Charlie Wheeler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know I-I thought it was gonna be weird, I mean I almost called and canceled, but it really isn't.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Timothy Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Timothy Burke"
+    },
+    {
+      "quote": "Well, maybe since the age of 9, Frannie's made some new friends.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1127,
+  "date": "2028-02-23",
+  "questions": [
+    {
+      "quote": "I found a note on my door, \"Come to Monica's quick, bring champagne and a Three Musketeers bar.\"",
+      "characters": [
+        "Stephen Waltham",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Perhaps because you gave her an engagement ring? Y'know Ross doctors are supposed to be smart.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, she had to have just taken that test because I took out the trash last night.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Kim"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What's to know? Buy sell, high low, bears bulls... Yes Manhattan...yeah telephone number of the stock...selling store.",
+      "characters": [
+        "Jill Green",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes! Yes!! And every time you look at it, I want you to remember that you are a good person. Okay, you've had the chance to cheat, and with me, but you didn't. And that's what this ring stands for.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I know because you have all the good words. What do I get? I get \"it's,\" \"and\" oh I'm sorry, I have \"A.\" Forget it.",
+      "characters": [
+        "Carol",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Excuse me. Um, these are from the two gentlemen at the end of the bar.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Waiter",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "And we just sit here. I mean if I die the only way people would even know I was here, would be by the ass print on this chair! Look, we have to do something. Okay? Something huge!",
+      "characters": [
+        "Chandler",
+        "Mr. Treeger",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

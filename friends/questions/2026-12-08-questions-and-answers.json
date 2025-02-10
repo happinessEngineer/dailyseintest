@@ -1,0 +1,106 @@
+{
+  "gameNumber": 685,
+  "date": "2026-12-08",
+  "questions": [
+    {
+      "quote": "Hey! That was a practical purchase! I needed that car for transportation! Okay? I-I have a child!",
+      "characters": [
+        "Joey",
+        "Dana Keystone",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I've been thinking ever since you said we were having triplets, the best thing for me to do is to drop out of college and get a job.",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Well, I've got to get out of this bed, I'm going crazy here. Crazy!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Are you okay? I'm so sorry, he wouldn't leave. He kept asking me about chicken.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Will Colbert",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, um, I was over there, then you said, \"Excuse me, hello Miss,\" so now Im here.",
+      "characters": [
+        "The Waiter",
+        "Monica",
+        "Joey",
+        "Ursula"
+      ],
+      "correctAnswer": "Ursula"
+    },
+    {
+      "quote": "Yeah, I figure they'll love it at the new house, you know? It has that big backyard. And then, when they get old, they can go to that special farm that Chandler took the other chick and duck to.",
+      "characters": [
+        "Joey",
+        "Carol",
+        "Richard Burke",
+        "Dr. Miller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "God. Do think it really doesn't hurt? 'Cause how can they do that?",
+      "characters": [
+        "Monica",
+        "Gavin Mitchell",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, just give it back to me when your done. See you guys.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait, y'know what, I-I came to you because I thought you'd understand! Oh no!! Y'know, I would storm out of here right now if-if I had some money, or a place to go...",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    }
+  ]
+}

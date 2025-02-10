@@ -1,0 +1,106 @@
+{
+  "gameNumber": 338,
+  "date": "2025-12-26",
+  "questions": [
+    {
+      "quote": "Yeah, about 300 guys I went to high school with. Yeah, thanks.",
+      "characters": [
+        "Chandler",
+        "Mr. Ratstatter",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I know. But y'know what? It would make me feel better if Lewis apologized to me.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Nurse",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Noo! Oh no! No! God no! He should not get back together with her. I know that! You know that! Even Ross knows that! But that still doesn't give us the right to erase his message!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! Y'know, the fantasy! Meet someone from a strange land, fall in madly love, and spend the rest of your lives together.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well I-I-I, that kind of thing requires some serious thought. First, I'll divide my perspective canidates into catergories....",
+      "characters": [
+        "Joey",
+        "Judy Geller",
+        "Dr. Drake Ramoray",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I suppose it wouldn't be the end of the world... Oh, thank you!",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "No-no! No way! Joey Tribbiani does not take charity...anymore.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I was actually-I-I came over here to-to borrow this lamp. To umm, look at my books, y'know, see them a little better.",
+      "characters": [
+        "Monica",
+        "Charlie Wheeler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh come on! Hello! Hi! My name is Chandler, here's my friend Ross right here, and we were wondering you know if you're up for it. We only need six more people for a human pyramid...Swoop!! Swoop!!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1608,
+  "date": "2029-06-18",
+  "questions": [
+    {
+      "quote": "Oh, I don't know. Well maybe it's just the idea of Barry for the rest of my life. I don't know I think I feel like I need to have one last fling, y'know, just to sorta get it out of my system.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. . . I'm sorry. We weren't really looking for anything to happen with you guys. I, I have a boyfriend.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Waiter",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Monica has a secret closet and she won't let me see what's in it.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Listen, if you want to borrow money, its kind of a bad time. I'm buying dinner for 128 people tomorrow night.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel, one of your customers seems to have left his billfold. A Joshua Bergen.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "Okay, come on Rach it's present time! Y'know you're the glue that's holding this whole party together. It's kinda falling apart here.",
+      "characters": [
+        "Judy Geller",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, he's just a nice guy. You really think this Mark doesn't want anything in exchange for helping him?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thank you. So did you ah, did you tell Mark Something about me?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Pheebs come on! I mean, consider the source! Of course her ex-husband's gonna say that stuff. Now, if you'll excuse me...",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, you're an only child, right? You don't have any of this.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

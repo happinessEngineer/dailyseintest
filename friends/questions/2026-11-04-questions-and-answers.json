@@ -1,0 +1,106 @@
+{
+  "gameNumber": 651,
+  "date": "2026-11-04",
+  "questions": [
+    {
+      "quote": "I think you would have to clean a whole lot of apartments to go all the way to India.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, sorry I'm late. Congratulations, Mon. I'm not sorry I'm late. How incredible was my afternoon with Jade?",
+      "characters": [
+        "Ross",
+        "Gunther",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay you have to realize, I was exhausted, I was emotional, I would have said yes to anybody. Like that time you and I got married! I'm not helping.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Listen ah, Joe, I-I need to, I need to talk to you about something.",
+      "characters": [
+        "Rachel",
+        "Kate Miller",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh really? Well how would you like it if I had sex with you and I taped it? Oh forget it! Oh there he is now, the father of my child, the porn king of the west village.",
+      "characters": [
+        "Rachel",
+        "Dr. Long",
+        "Joey",
+        "Joanna"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So I ah, talked to Lauren, kinda told her how things were with us. Did you ah, did you talk to Marshall?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh God! He's gonna come by and borrow some candles for his big date!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah-but come on-Listen, I'm sorry I don't want to make you uncomfortable, but I told Phoebe that it happened and she doesn't believe me.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. Maybe Michael Jordon will dive for the ball and break my jaw with his knee.",
+      "characters": [
+        "Monica",
+        "Tag Jones",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, her first day on a new spiritual plane and she's gonna come to the coffeehouse!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

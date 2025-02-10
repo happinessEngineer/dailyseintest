@@ -1,0 +1,106 @@
+{
+  "gameNumber": 116,
+  "date": "2025-05-18",
+  "questions": [
+    {
+      "quote": "Okay look, look, let me ask you a question, when they were doing it on stage, was it like really hot?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Question. If I don't care about my watch, can I use it as a weapon?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, I would ring the bell to distract him and then I would knock the gun out of his hand with a Chinese throwing star.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "He's downstairs getting the rest of the stuff out of the cab.",
+      "characters": [
+        "Phoebe",
+        "The Dry Cleaner",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's right. I'm no longer a bride. I'll never be a bride again. Now, I'm just someone's wife!",
+      "characters": [
+        "Monica",
+        "Gene",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Only because my parents wanted me to be, I wanted to be a sherrif.",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Well that stinks. I was looking forward to us wearing our celebrity tuxes together.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, it's because I trust you, you're one of my best friends, and you walked in on me when I was looking at ring brochures.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Fine! Take their advice. No one ever listens to me. When the package is this pretty, no one cares what's inside.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Dr. Miller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, you know that one was coming, but that doesn't mean you have unagi.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

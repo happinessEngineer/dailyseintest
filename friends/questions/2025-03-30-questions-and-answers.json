@@ -1,0 +1,106 @@
+{
+  "gameNumber": 67,
+  "date": "2025-03-30",
+  "questions": [
+    {
+      "quote": "Yeah. Your teeth? Yes, I saw them from outside. You guys are never going to believe this. But, Phoebe made out with Ralph Lauren.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Agency Guy",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, wait, let me get you another glass. That's been sitting out.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, yeah, kinda. Um, but that's okay, see we have an understanding, um, see we each have this list of five famous people, so I'm allowed to sleep with you. No, no, no, it's flattery.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I mean I'm probably 98% happy, maybe 2% jealous. And I mean what's 2%? That's nothing.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Jill Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, ooh, everything looks delicious. What should I ha-ave? What should I have?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Susie Moss",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What, he's not still following her. Do you think he is still following her?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Monica and Rachel's apartment. Err yeh, aayah, yeh, just one second... ..ah, Rachel, it's your dad.",
+      "characters": [
+        "Dr. Mitchell",
+        "Jamie",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Dr. Mitchell"
+    },
+    {
+      "quote": "It's I just know they're gonna be a couple of windbags wearing tweed jackets with suede elbow patches.",
+      "characters": [
+        "Cecilia",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And y'know what, I'm gonna, I'm gonna go to bed now, but ah, on my way to work tomorrow morning, I'm gonna stop by around 8:30.",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh I do! Oh, y'know what? No. Wait a second. I know it's in here somewhere.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

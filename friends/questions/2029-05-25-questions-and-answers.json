@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1584,
+  "date": "2029-05-25",
+  "questions": [
+    {
+      "quote": "Yes, but there's two in martini, soo everybody back to my office.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, it's not so bad. Monica's gonna make potpourri! I think I'm gonna go wander out in the rain for a while.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, all right, I'll go sleep with my girlfriend. But I'm just doing it for you guys.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No-no, I know that, but I just have to make enough money for the second part of my plan.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ummmm.... well, actually I'm already done, but I...I kinda got plans.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Waiter",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Excuse me, I'm sorry, you haven't said anything for about two and a half minutes, are you at all interested?",
+      "characters": [
+        "The Salesman",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "The Salesman"
+    },
+    {
+      "quote": "Well all right then, I guess I shouldn't get to excited about the fact that I just kissed her!",
+      "characters": [
+        "Joey",
+        "Nora Tyler Bing",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ross, could we please, please, please listen to anything else?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Waiter"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "One of the virus victims called in sick, so Cathy recommended me and boom, I'm dying on the gurney. Oh Ross, Marcel just finished his last scene if you want to go down there and say goodbye.",
+      "characters": [
+        "Joey",
+        "Cecilia",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, our plan is working. Rachel is having a miserable time, and Ross is just stood up somewhere at a restaurant all alone.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

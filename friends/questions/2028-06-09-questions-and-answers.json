@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1234,
+  "date": "2028-06-09",
+  "questions": [
+    {
+      "quote": "Yes! Yes! Yes, I do! I do know! Frank and Alice are gonna want to keep all of their children!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, you guys, I don't mean to make things worse, but umm, I don't want to live with Rachel anymore.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh thanks. Champagne, strawberries...Oh my God! I can't believe Chandler ordered porn on our wedding night!",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, this is ironic. Of your last two boyfriends, Richard didn't want to have kids, and from the looks of it, now Pete can't.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I know. You're right. What's it gonna take for you to forgive me?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes!! I love you! I can't even remember what we were fighting about!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, it's embarrassing. People were looking at us like we were crazy.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, it's worth finding out. I mean, if you really like her.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What, that we had a baby? Come on let's give him a little credit, although, he did eat a piece of plastic fruit earlier.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know when \"That's fine\" sounds true when someone yells it and spits!",
+      "characters": [
+        "Nora Tyler Bing",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1018,
+  "date": "2027-11-06",
+  "questions": [
+    {
+      "quote": "Well, you have been in our lives for nearly two months now and we don't really know you. I mean, who is Julie? I mean, what do you like, what don't you like? We wanna hear everything.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, you picked the Gimmie card! You get all of Ross's points!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And no, oh please, oh please let me finish. Oh I guess that was it.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, well. Just ask her how long she's gonna live. Women live longer than men.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. You don't have any of these cute little obsessive things.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wha? No no! Ah! All gone! So good! Maybe Chandler has some left.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well can we see it?! Oh maybe we shouldn't. I mean if she just died this morning out of respect.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because, honey, I mean this in the sweetest way possible, nobody is gonna wanna watch that.",
+      "characters": [
+        "Kathy",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Excuse me. Hi, I'm a professor here. Do you know the Paleontology section, fifth floor, stack 437?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "But um, here's an idea, have you ever worn women's underwear?",
+      "characters": [
+        "Susie Moss",
+        "Rachel",
+        "Wayne",
+        "Monica"
+      ],
+      "correctAnswer": "Susie Moss"
+    }
+  ]
+}

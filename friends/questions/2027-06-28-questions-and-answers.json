@@ -1,0 +1,106 @@
+{
+  "gameNumber": 887,
+  "date": "2027-06-28",
+  "questions": [
+    {
+      "quote": "They all came from the list you handed out to us two weeks ago.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, hey. I love children, I have children. I just don't want to be 70 when our kids go off to college, and our lives can finally start.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "What are you talking about? If you get married in Vegas you're married everywhere.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Katie"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Weird? What? What's weird? The only thing weird would be if someone didn't like Mexican food, because I'm making fajitas!!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And then, you try to make the best of a bad situation, so you float the idea of a threesome?",
+      "characters": [
+        "Jill Green",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You guys haven't actually met before, but, boy! You're both polite! Go to have a seat Zack, and I'll get you a beer.",
+      "characters": [
+        "Angela Delveccio",
+        "Alice Knight",
+        "Malcom",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes, I want to change. And why-why don't you go down and get us a table?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know, isn't he great? It's so nice to finally be in a fun relationship, y'know? There's nothing boring about him, and ah, I bet he's never set foot in a museum.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry I won't be able to make it to your imaginary wedding, but I'm really busy that day. Yeah, I already have a unicorn baptism and a leprechaun bar mitzvah.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Goodnight sweetheart! I love you. And remember, you're daddy's little girl... Phoebe's totally ruined that for me...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

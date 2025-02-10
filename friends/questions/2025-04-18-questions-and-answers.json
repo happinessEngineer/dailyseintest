@@ -1,0 +1,106 @@
+{
+  "gameNumber": 86,
+  "date": "2025-04-18",
+  "questions": [
+    {
+      "quote": "Me too. Oh, I'm just sorry I'm not gonna be around to watch you two attempt to handle this! Alright, I can't say goodbye to you guys again. I love you all so much.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Mischa",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I knew something had to be wrong, because my fingernails did not grow at all yesterday.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well we gotta do something, ok? Nannies like her don't grow on trees.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Are you asking me out? 'Cause it would be kinda weird since you just broke up with my sister.",
+      "characters": [
+        "Gary",
+        "Phoebe",
+        "Paul Stevens",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What's wrong with sun-dried tomatoes? On a barbecue chicken pizza? No?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, uhm, back in my mugging days, you know, I, uhm, I worked St. Marc's Comics.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey, what's going on. What didn't you tell us you work here?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I wish there was an easier way for us to have a child but I don't think there is one.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Danny",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What did the doctor say? Any news on when the baby will come?",
+      "characters": [
+        "Kim",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Do you umm, you really think the best reason to get married is because you're sorry?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1401,
+  "date": "2028-11-23",
+  "questions": [
+    {
+      "quote": "Come on, I don't really want to be doing this right now. I am carrying a very heavy couch.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Alice Knight",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You've spoiled everything! It's like a nightmare! My friends and family are out there! How can I face them?! How can you do this to me?!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "When a guy breaks up with his girlfriend, what is an appropriate amount of time to wait before you make a move?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! I made it seem like I was just calling to chat. Pretty sure, they both think I'm interested in them.",
+      "characters": [
+        "Janine Lecroix",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, you were right before, it was just a stupid fight about a room.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You've done all you can Dr. Wesley. You have got to let her go.",
+      "characters": [
+        "Nurse",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "Sometimes men love women, sometimes men love men, and then there are bisexuals, though some just say they're kidding themselves. la la-la-la la-la-la-la-la-la-la...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right. All right Phoebe I will let you have him, but you owe me; you owe me big!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Doug",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sorry? Finally chewed my leg out of that bear trap. Hey, congratulations to you guys though!",
+      "characters": [
+        "Doug",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Rachel, what are you doing? Its freezing out here. Would you come back inside?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

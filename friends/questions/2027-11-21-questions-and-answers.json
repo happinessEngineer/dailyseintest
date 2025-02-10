@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1033,
+  "date": "2027-11-21",
+  "questions": [
+    {
+      "quote": "Tonight?! Isn't an engagement ring supposed to have a diamond? Oh, there it is!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Because, I feel like I wouldn't just be going out with him. I would be going out with all of you. Oh, and there would just be all this pressure, and I don't wanna...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well no wait a minute that's not true! No, what did, that was really sweet. And it kinda works out for the best.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Billy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, gentlemen! Please! Aren't we a little old for this? I mean, we're scientists, right? We're academics. And most importantly I... you-you will have to catch us first. . GO, GO, GO!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, well, y'know maybe you just need to try a little harder!",
+      "characters": [
+        "Ross",
+        "Erica",
+        "Phoebe",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ooh hey, Emma, daddy has some presents for you okay? Okay? I want you to wait right here. Come here sweetie.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry! But hey, it's over now, right? Because you can tell them that you know they know and I can go back to knowing absolutely nothing!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Judy Geller",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's so amazing I met you the same day that Eric broke up with me, because it's like you lose a boyfriend,you get a boyfriend.",
+      "characters": [
+        "Michelle",
+        "Ross",
+        "Phoebe Abbott",
+        "Monica"
+      ],
+      "correctAnswer": "Michelle"
+    },
+    {
+      "quote": "Hello? Oh, it's our nanny! Hi! Oh... God! I hope you feel better! Ok, bye! That's Molly, she's sick. Can you watch Emma today?",
+      "characters": [
+        "Rachel",
+        "Doug",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Monica's crying. She's very upset about this whole Clunkers thing.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

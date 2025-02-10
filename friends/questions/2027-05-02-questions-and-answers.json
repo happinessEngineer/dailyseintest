@@ -1,0 +1,106 @@
+{
+  "gameNumber": 830,
+  "date": "2027-05-02",
+  "questions": [
+    {
+      "quote": "No-no, they just had a big blowout over what to do with my room.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't believe that! Now the only thing left of my grandmother's legacy is this crumb. I wish you a long and happy marriage.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'd like to go up the ladder of chance to the golden mud hut please.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But you said you forgave me. It was just a couple of cigarettes-no big deal.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hello? Oh yes, one minute please. It's for you. It's the fire inspector.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, I'll tell ya what, the next time you ask me a question like that I'll lie.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Chandler look, I don't want to be one of those wives who says, \"You can't go to the game. You have to spend time with me.\" So, if you could just realize it on your own . . .",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Amy Green",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know! Why don't you get drunk! That worked for a lot of girls in my high school.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "If she is where you are then uh...then my feeling weird about it shouldn't stand in the way.",
+      "characters": [
+        "Ross",
+        "Issac",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah? Well look Ross, you don't have to. Okay? It's not your fault I suck. I mean what kind of an actor can't even say, \"Hmm, noodle soup.\"",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

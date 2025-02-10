@@ -1,0 +1,106 @@
+{
+  "gameNumber": 103,
+  "date": "2025-05-05",
+  "questions": [
+    {
+      "quote": "Hi, good morning lover. I gotta say after last night, I'm a little weak in the knees.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Emily Waltham",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You wanna finish this right now? All right, we get a deck of cards, high card wins. What do you say?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, everyone's gotta kiss someone. You can't kiss Ross you got the history.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well uh, y'know what? Even if she doesn't know anything, I do! I have a son. And his mother and I didn't live together, and whenever he was with me I took care of him all the time, by myself.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, you are, Monica. Remember when I lived with you? You were like, a little, y'know, Ree! Ree! Ree! Ree!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi! Sorry- sorry we're late, we, uh, kinda just, y'know, lost track of time.",
+      "characters": [
+        "Rachel",
+        "Joshua Burgin",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Are you trying to tell me that we're moving to Oklahoma, or that you're gay? All right, not that this matters, but did they at least offer you a huge raise?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Cop"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know when I locked myself in the bathroom at my wedding, it was because I was trying to pop the window out of the frame.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know, I rarely connect with someone this much on the first date.",
+      "characters": [
+        "Phoebe",
+        "Hillary",
+        "Jack Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Hillary"
+    },
+    {
+      "quote": "Hey, oh, you know that guy who's been following me? I talked to him today.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

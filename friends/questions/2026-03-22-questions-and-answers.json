@@ -1,0 +1,106 @@
+{
+  "gameNumber": 424,
+  "date": "2026-03-22",
+  "questions": [
+    {
+      "quote": "Wow, well uh, uh, actually, Julie's downstairs getting a cab, I just need the cat toy, did Monica say. . . What? Why, why are you looking at me like that?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, Rachel's party is in a couple of hours and there's a lot to do. Now, Ross, you got Geller blood, you're in charge of these yahoos!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "If you listen very carefully, I think its Celebration by Cool and the Gang.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! Actually Joey and I are going to the movies tonight, wanna come?",
+      "characters": [
+        "Phoebe",
+        "Charlie Wheeler",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Wait, wait, wait, wait, that's-that's what you're worried about? If that's the problem, we've got no problem.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Ya, you know, Rachel ... she'll do whatever you want. Y'know, you can just walk all over her.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, you know what the best part of it is? I get to do my \"plan-laugh.\"",
+      "characters": [
+        "Phoebe",
+        "Jack Geller",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, my breasts are going to get bigger weather you like it or not! And you know what? It's not just my breasts. My ass is going to get bigger too.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, y'know-Fine! You guys have your stupid little club, but I would just like to say is what you did to me is way worse than what I did to you! You gave me a tiney-wienie!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know I can't believe I even thought about getting back together again! We are so over!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

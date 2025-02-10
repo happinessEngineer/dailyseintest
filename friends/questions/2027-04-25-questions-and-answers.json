@@ -1,0 +1,106 @@
+{
+  "gameNumber": 823,
+  "date": "2027-04-25",
+  "questions": [
+    {
+      "quote": "I thought you were my best friend, this is my sister! My best friend and my sister! I-I cannot believe this!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well why didn't you stop her?! Why didn't you just tell her it was a plan?!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Of course it is. Yeah, come on in. Ooh-ooh, go by the window you can pretend to be surfing.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I do. Of course, I learned at my aunt's dog grooming shop, but hey, what do you say?",
+      "characters": [
+        "Kathy",
+        "Chandler",
+        "Leonard Green",
+        "Ross"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "Alright, before I tell you, uh, why don't you tell me how many women you've been with.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "May I have the rings? Emily, place this ring on Ross's finger as a symbol of your bond everlasting. Ross, place this ring in Emily's hand as a symbol of the love that encircles you forever.",
+      "characters": [
+        "Rachel",
+        "Minister",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Minister"
+    },
+    {
+      "quote": "Well it happened about six weeks ago, and uh I had just got home from work and Ross was already there 'cause I guess he had been hanging out with Joey.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Huh? So whaddya think? Casa de Joey. Huh? I decorated it myself.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Eh, either way I'll pass. I still can't eat those. What's so funny?!",
+      "characters": [
+        "Ross",
+        "Malcom",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, you're right. Still somebody must have seen it... I mean, I went to that school for 4 years, I didn't have an impact on anyone?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

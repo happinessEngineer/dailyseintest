@@ -1,0 +1,106 @@
+{
+  "gameNumber": 613,
+  "date": "2026-09-27",
+  "questions": [
+    {
+      "quote": "Okay. Understanding a little more why you're single. Ohh! Y'know, I have a friend you would like, she's really pretty. And then we could double date!",
+      "characters": [
+        "Joey",
+        "Kathy",
+        "Phoebe Abbott",
+        "Chandler"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "Well, not that its any of your business, but, no, we havent, okay?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The woman that got married a bunch of times and killed herself when you were 13?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, hey Ben, what if the Holiday Armadillo told you all about the Festival of Lights?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Listen. Sudden change of plans. My maternity leave just ended. They told me that if I didn't come back today, they were gonna fire me.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Dana Keystone"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes. Uh, can't you wait until tomorrow? All right. Unbelievable!!",
+      "characters": [
+        "Phoebe",
+        "Charlie Wheeler",
+        "Joanna",
+        "Joey"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Okay, fine! But you know what? If I was in 36D, we would not be having this problem.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Chandler, do you think we talk about our relationship enough?",
+      "characters": [
+        "Leonard Green",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, but if it only happened that one time, how come we found your underwear in our apartment the other day?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Erica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "On no! No! It's not good-bye, I'm not leaving until you get on that plane.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Janice"
+    }
+  ]
+}

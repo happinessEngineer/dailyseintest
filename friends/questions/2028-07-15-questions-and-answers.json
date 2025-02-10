@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1270,
+  "date": "2028-07-15",
+  "questions": [
+    {
+      "quote": "What kind of person is allergic to lobster? I guess the kind of person that works at a library.",
+      "characters": [
+        "Leonard Green",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Rachel, you are packed though right, I mean please tell me that you're packed.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This is great. Rachel's gonna keep kissing guys until she finds the one she wants and I'm gonna die alone.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I got this number from this guy at work and I hired a stripper to come dance for you. Am I going in the wife hall of fame or what?!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, but also Hanukkah! See, you're part Jewish, and-and Hanukkah is a Jewish holiday.",
+      "characters": [
+        "Wayne",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey Chandler! Y'know that girl you went to college with who-who became a movie director?",
+      "characters": [
+        "Joey",
+        "Gunther",
+        "Erica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You just don't look old enough to have a twenty-year-old daughter.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "David",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ah, I fooled around with Joey's sister. Well, that's not the worst part.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hello Greg? Hi, this is Monica from the plane? Listen, the number that you gave me 853-5... That is their old number! Jenny's been giving it out since they moved!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Maybe he, uhh... drives his car on the other side of the road, if ya know what I mean.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

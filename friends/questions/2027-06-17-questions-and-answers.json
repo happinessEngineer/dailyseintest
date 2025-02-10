@@ -1,0 +1,106 @@
+{
+  "gameNumber": 876,
+  "date": "2027-06-17",
+  "questions": [
+    {
+      "quote": "I can't wait to be with you! I'll just tell Rachel I'm gonna be doing laundry for a couple of hours.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, you know, maybe I ate too much. I keep getting these stomach aches. They come and go like every few minutes.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Erica"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Absolutely! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Dana Keystone",
+        "Ross"
+      ],
+      "correctAnswer": "Dana Keystone"
+    },
+    {
+      "quote": "Wow, talk about your bad luck, I mean, the first time you try panties and someone walks off with your clothes.",
+      "characters": [
+        "Mike Hannigan",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God. That was so amazing! When did you Hold on! I almost forgot loser! When did you stop sucking?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, that, that was, I mean, as opposed to uh, the uh, ok. Is this over yet Rach?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "My doctoral dissertation is in the library at school, I went to see it, and there were students makin' babies right in the middle of the Paleontology section!",
+      "characters": [
+        "Barry Farber",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Stretchy pants! Why, those are the greatest things in the world! If I were you I would wear them every day, every day!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Agency Guy",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I don't think that. Before today I never thought of you two having sex at all. It was a simpler time.",
+      "characters": [
+        "Phoebe",
+        "Jack Geller",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Rachel, didn't have anything that I liked, so, but she had this Christmas ribbon, and I thought, 'All right, fine I'll be political.'",
+      "characters": [
+        "Monica",
+        "Doctor",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

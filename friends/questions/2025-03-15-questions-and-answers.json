@@ -1,0 +1,106 @@
+{
+  "gameNumber": 52,
+  "date": "2025-03-15",
+  "questions": [
+    {
+      "quote": "Well, how could it not be breezy, no, 'cause, you're, you're in such a breezy place.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Doctor"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Umm, the street. Come on, let's go to the street. Ooh, listen, don't go onto the balcony until after I get back.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Leonard Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "If we wanna get on camera, I think we have to get up on one of those platforms. They've been taping those people up there all day.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thank you Joey. You know what? I'm not even sure I can have caffeine.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "David"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ewww! Ugly Naked Guy is using his new hammock. It's like a Play-Doo Fat Factory.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Why would you need to say hi to them, you've been feeding them for four days?",
+      "characters": [
+        "Doug",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Can you please not do that feet first? You know where his injury is! Severed toe, you just said it!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It meant nothing! Okay? After all this time, how can you not trust me?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Just, 'cause, I don't want her to go through what I went through with Carl- oh!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey Ross. This probably isn't the best time to bring it up, but you have to throw a party for Monica.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Judy Geller",
+        "Guru Saj"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

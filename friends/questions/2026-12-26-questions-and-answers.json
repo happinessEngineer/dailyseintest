@@ -1,0 +1,106 @@
+{
+  "gameNumber": 703,
+  "date": "2026-12-26",
+  "questions": [
+    {
+      "quote": "All right, I'm gonna show you something a lot of guys don't know. Rach, give me that pad, please? All right. Now...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hello. This is Phoebe Buffay. I was wondering, please, if-if it's not too much trouble, please, umm, might I speak to Miss Emily Waltham, please?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I...I told him that if he ever hurt you I would hunt him down and kick his ass! What?! What?! What is the matter with everybody?! I am serious! I would kick his ass!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's gonna be weird to watch some actor pretending to be Ben's dad.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But no, because a doctor won't be able to help him, it's just gonna y'know naturally pass through his system in like seven years.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This-this Fonzie person you keep referring too, is that uh, is that another doctor?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Eric"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow! Big day huh? People moving in, people getting annulled...",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Gavin Mitchell",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You guys are gonna love meee! Okay, check it out, Thursday night, five tickets, Calvin Klein lingerie show, and you guys are coming with me. Okay, I said that out loud right?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hello? Um, yeah, uh, Okay ah, hold on a second, lemme lemme just check and see if see if she's here.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, it was loong. I didn't even realise how late it was, until I noticed the 5 o'clock shadow on her head. Anyway, she didn't want to stay. I called a cab; she just left.",
+      "characters": [
+        "Ross",
+        "Man",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

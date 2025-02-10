@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1357,
+  "date": "2028-10-10",
+  "questions": [
+    {
+      "quote": "Probably, yeah... I mean, maybe we should... hold off until we talk to Ross.",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, you're not gonna tell the whole story about how your parents got divorced again are you?",
+      "characters": [
+        "Interviewer",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Phoebe, come sit. Tell us a little bit about yourself... So where are you from?",
+      "characters": [
+        "Bitsy Hannigan",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Bitsy Hannigan"
+    },
+    {
+      "quote": "I know! You see it is stuff like this which is why you're burning in hell!!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Frank Buffay Jr.",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I, I don't know what to say. I mean, you know, you're married to someone for six years and you think you know him and then one day says, 'Oh, I'm not gay.'",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Receptionist",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, it was okay. I went to a movie with my cousin and then out for dinner. We went to this place that had... Ooh... Hoo... ooh... Anyway, they had these really amazing cheeseburgers.",
+      "characters": [
+        "Chandler",
+        "Barry Farber",
+        "Erica",
+        "Joey"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Yeah-No-but-but-but-but! We're just gonna go home and take a shower. Now, that's not scary right?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no-no, no. I'm going to talk. I believe that the sun has set on our day in the sun.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Joey, I can't stand the thought of having this baby with you mad at me. I want him to have his uncle. Is my baby gonna have his Uncle Joey?",
+      "characters": [
+        "Erica Ford",
+        "Joey",
+        "Dina",
+        "Monica"
+      ],
+      "correctAnswer": "Dina"
+    },
+    {
+      "quote": "Barry was the guy that I was almost married and Mindy was my best friend.",
+      "characters": [
+        "Parker",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

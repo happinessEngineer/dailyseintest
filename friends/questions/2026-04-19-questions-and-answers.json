@@ -1,0 +1,106 @@
+{
+  "gameNumber": 452,
+  "date": "2026-04-19",
+  "questions": [
+    {
+      "quote": "Well, I haven't seen him since that night that he told me how he y'know... I don't know, I think he's avoiding me. Why is that bagel on the floor?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! Hey alright! Hey, glad you could make it Thanks for coming.",
+      "characters": [
+        "Mischa",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait a minute, wait. You're telling me this actress person is the only woman you ever wanted who didn't want you back?!",
+      "characters": [
+        "Rachel",
+        "Richard Burke",
+        "Mindy Hunter",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Cecilia",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, fine, fine, but if you're my next victim, don't come back as a poltergeist and like suck me into the TV set.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What?! He was with her when he wrote this poem. Look, 'My vessel so empty with nothing inside. Now that I've touched you, you seem emptier still.' He thinks Monica is empty, she is the empty vase!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok Ross, just so you know, calling it a poopie diaper doesn't make this process any cuter.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "C'mon Monica, do it. Hey, you guys, um, Monica has some news.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Phoebe, come on can we finish this later? Cause I wanna go running before it gets dark. Oh! Why don't you come with me?!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, you guys call him Cute Coffeehouse Guy, we call him Hums While He Pees.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

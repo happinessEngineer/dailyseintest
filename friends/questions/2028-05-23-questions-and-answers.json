@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1217,
+  "date": "2028-05-23",
+  "questions": [
+    {
+      "quote": "Okay, this is the den. All right, check this out. Lights! Whoa! All right. Less lights! Bad lights! Lights go away! Oh, see you just need to find the right command.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You mean the-Okay by siadic, you mean the towel covered portion.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Monica, look... I don't think you and I have any secrets anymore... Not ready to joke about it yet, okay, I see you later.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, it's my fault?! You didn't have to massage him! You could've sent him away! You could've not rolled Tonka trucks up and down his back!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey, Joey. Hey, some girl just walked up to me and said, 'I want you Dennis,' and stuck her tounge down my throat. I love this party.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay fine! I keep betting Phoebe that you're gonna have the baby and I don't want to lose again!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "If that is your father calling to tell this story then the marriage is off!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Gavin Mitchell",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well you wouldn't, but we own the paper, we can print whatever we want.",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why?! I mean if this guy was me and it was me who had learned that it was me who was the best you'd ever had, I'd be going like this.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joanna"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's great, but isn't it gonna bother that people still think you're a porn star?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

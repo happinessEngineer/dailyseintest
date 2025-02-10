@@ -1,0 +1,106 @@
+{
+  "gameNumber": 967,
+  "date": "2027-09-16",
+  "questions": [
+    {
+      "quote": "Wait a minute, one box! Come on, I'm trying to send a little girl to Spacecamp, I'm putting you down for five boxes. Chandler, what about you?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Apparently you were umm, a little mean to him in high school.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thank you for coming everybody. There're cookies in the back.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Eric",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, actually, yesterday I was smoking again. Today, I'm, I'm smoking still.",
+      "characters": [
+        "Eric",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, 'cause then they'd be like my mom used to make them, you know, before she died.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Dr. Franzblau"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, please, Ross it was so obvious! It was like you were marking your territory. I mean you might have well have just come in and peed all around my desk!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ross, I have been a divorce attorney for 23 years and never had I so much business from one client. Why don't you tell me what happened.",
+      "characters": [
+        "Russell",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Umm ma'am, do you have a minute? I kind of have some bad news. I don't think I can move to Tulsa.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, like a moth to a flame, I'm telling ya. Okay all right, so now you go.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Relax Ross, we'll be ready. It only takes us two minutes to get dressed.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

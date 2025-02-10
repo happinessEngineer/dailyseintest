@@ -1,0 +1,106 @@
+{
+  "gameNumber": 411,
+  "date": "2026-03-09",
+  "questions": [
+    {
+      "quote": "Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.",
+      "characters": [
+        "Ross",
+        "Parker",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You're right, I'm sorry. Thank you. Okay, that's what I'm gonna do.",
+      "characters": [
+        "Peter Becker",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Exactly. So you didn't, didn't mention anything to Issac right?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!",
+      "characters": [
+        "Joey",
+        "Ginger",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Respectfully, professor R. Geller. , closes the laptop and joins Charlie on the sofa) Hey!",
+      "characters": [
+        "Mindy Hunter",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler? Forty-five minutes? Well, something is not right. I just can't believe he would do this to Monica!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Please, don't take away my cool thing. Please?! Pretty please?!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I haven't... I haven't even thought about the results yet... I just assumed that everything was gonna be ok.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what Ross? You're not going anywhere. You're gonna sit right here. I'm gonna make you a cup of tea and we're gonna talk this thing whole out. All right? Hey, Dave!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I haven't had that feeling since I first started going out with Chandler. Wow, I'm never gonna have that feeling again am I?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

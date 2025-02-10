@@ -1,0 +1,106 @@
+{
+  "gameNumber": 979,
+  "date": "2027-09-28",
+  "questions": [
+    {
+      "quote": "It's no big deal. Hey, y'know, you do what you gotta do. Right?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'll be there, and who knows, if things go well, maybe this time I'll get to see your underwear.",
+      "characters": [
+        "Susie Moss",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "Oh, you have to call the police! That's what I did to the kids in my building!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Erin",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on, you-you can't tell me you actually believe that-that there's a woman inside that cat!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow, Mike Hannigan...You sure know how to make a girl say \"Hell yeah!\"",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, it's not okay, because I gave a very memorable performance as the nurse. And now suddenly I'm the waitress? That's gonna confuse my fans.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Fake Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh!... Oh and Emma, look at your stuffed animals lined up so neatly!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, obvious beauty's the worst. You know, when it's right there in your face. Me, I like to have to work to find someone attractive. Makes me feel like I earned it.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wherever I go. Come on you and me, we'll-we'll start a new group, we're the best ones.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, he thought he broke your chair so he switched the chairs!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1186,
+  "date": "2028-04-22",
+  "questions": [
+    {
+      "quote": "Hi. Well, look, I was just gonna leave a message, isn't tonight your, your big anniversary dinner?",
+      "characters": [
+        "Mark Robinson",
+        "Phoebe",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Mark Robinson"
+    },
+    {
+      "quote": "What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, at least the perfume is not mine, be thankful for that!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?",
+      "characters": [
+        "Chandler",
+        "Mr. Treeger",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I told you, we're adding new operators all the time. Could we concentrate on my training?",
+      "characters": [
+        "Joey",
+        "Peter Becker",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Phoebe hang on a second Ross wants to say something. What? You slept with someone else?!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Well, you kind of just did. That guy is going to call you tonight. Ross is going to pick up the phone and that's a pretty clear message.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ohh, no. Ugh. Oh, leaving London, my whole family lives there.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Wow! Listen, we had a good run. What was it? Four? Five months? I mean, that's more than most people have in a lifetime! So, good-bye, take care, bye-bye then!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Mischa",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, why would it be weird? Hey, Joey, can I get some coffee?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

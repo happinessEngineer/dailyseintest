@@ -1,0 +1,106 @@
+{
+  "gameNumber": 517,
+  "date": "2026-06-23",
+  "questions": [
+    {
+      "quote": "How she drove you crazy, picking on every little detail, like your hair... for example.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well Joey, uhm look, I know that she's difficult, but I think it's really good that she's here.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oohh, 23. Which is what we play to at this casino! You win 10 dollars!",
+      "characters": [
+        "Phoebe",
+        "David",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We were playing Gin? Y'know if we were a couple, we could play this game naked.",
+      "characters": [
+        "Rachel",
+        "Dr. Drake Ramoray",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Huh. Well, then you'd better keep it away from Ross's hair. So this is pretty rare. How did you get that?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Janice",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I mean maybe you didn't hear about a serious relationship called me and Joshua?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Stephanie Schiffer",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh anyway, I just wanted to say how wonderful I think you are.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, now push! That's it push! Just concentrate on pushing! Yeah, here we go!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Dr. Harad",
+        "Monica"
+      ],
+      "correctAnswer": "Dr. Harad"
+    },
+    {
+      "quote": "People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Teacher",
+        "Phoebe"
+      ],
+      "correctAnswer": "Teacher"
+    },
+    {
+      "quote": "Oh, look! There's Monica and Chandler! Hey! Hey, you guys! Hey! Ohh!! Ohh! Ahh-ahhh!!",
+      "characters": [
+        "Roy",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

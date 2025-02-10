@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1415,
+  "date": "2028-12-07",
+  "questions": [
+    {
+      "quote": "Monica, all this food looks wonderful, you should think about doing this for a living.",
+      "characters": [
+        "Rachel",
+        "Jack Geller",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Alright, it's true. I behaved horribly. But it's only because I still love you. And I would do anything to have you back in my life.",
+      "characters": [
+        "Phoebe",
+        "Benjamin Hobart",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "No, but it's good, you know, I'm gonna take some time off and do some charity work.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Mr. Zelner",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm telling you, she gives the worst massages ever!! Okay, it was like she was torturing me for information. And I wanted to give it up I just-I didn't know what it was!",
+      "characters": [
+        "Monica",
+        "Charity Guy",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! All right-Look, I know sometimes it'll be hard, okay? But, it'll also be really...really great. Please Rachel! I-I-I really want you to stay.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, first of all, that's stupid and second of all, I'm not allowed to talk to Ralph.",
+      "characters": [
+        "Rachel",
+        "Janine Lecroix",
+        "Phoebe",
+        "Duncan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! I'm getting a little tired of this okay? We said we're sorry. It's Thanksgiving for Pete's sakes! A day of forgiveness!",
+      "characters": [
+        "Alice Knight",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Alright, alright, alright. It's been fourteen and a half minutes and you still have not said one word. Oh God, do something. Just make contact, smile!",
+      "characters": [
+        "Charity Guy",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "And finally, our biggest item of the night, the 22-foot gentleman's day sailer sailboat. The winning bid was a whooping $20,000!",
+      "characters": [
+        "The Director",
+        "Phoebe",
+        "Rachel",
+        "Mr. Thompson"
+      ],
+      "correctAnswer": "Mr. Thompson"
+    },
+    {
+      "quote": "Okay, now this one is rare, this one is medium well! Now go-go-go! Hey Phoebe!",
+      "characters": [
+        "Alice Knight",
+        "Ross",
+        "Sandy",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

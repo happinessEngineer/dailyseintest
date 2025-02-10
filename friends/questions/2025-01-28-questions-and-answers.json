@@ -1,0 +1,106 @@
+{
+  "gameNumber": 6,
+  "date": "2025-01-28",
+  "questions": [
+    {
+      "quote": "No, I know, I know, and I'm sure your little boy is not going to grow up to be one.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, it is. It's really tough. Y'know sometimes I think-Wow!! Nice move!",
+      "characters": [
+        "Joey",
+        "Tom",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, uh, he's not here right now, uh, I'm Chandler, can I take a message, or, or a fishtank?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes. Yeah and thanks for all the wedding night advice. That didn't make me uncomfortable at all! Alright, so I'll see everybody tonight?",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "The Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Really? But tomorrow night is the only night I get off from the restaurant. If you go to the game, we won't have a night together for another week.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, and you know, it really is a testament to how he was raised. Especially to you. Because he's very respectful of women.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, we don't really have to decide anything right now, do we?",
+      "characters": [
+        "Ross",
+        "Elizabeth Stevens",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well they were chair-shaped cows. They never would have survived in the wild.",
+      "characters": [
+        "Phoebe Abbott",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yep! I'd like to thank you guys for coming down here to complain about the rain and ruin my career!",
+      "characters": [
+        "Interviewer",
+        "Kate Miller",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So Ross, how was your date the other night? Did you tell her about the magical ride that starts with the flush of every toilet?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

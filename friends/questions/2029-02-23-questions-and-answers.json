@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1493,
+  "date": "2029-02-23",
+  "questions": [
+    {
+      "quote": "Willya relax? Look around. No pagan altars, no piles of bones in the corners, they're fine. Go like this.",
+      "characters": [
+        "Phoebe",
+        "Dr. Mitchell",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Dr. Mitchell"
+    },
+    {
+      "quote": "OK.... um, a weird thing happened to me on the train this morning...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Excuse us! Alright here's a question: Who was so worried about her restaurant being fancy that she made a big deal about her friend playing her music and feels really bad about it now?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rob",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And, and, and they wear those little water wings, you know. And they're, they're running around on the deck. Then Hoyt wraps this big towel around all three of them.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Because... We may not be who she thinks we are but no-one will ever love that baby more than us.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You can't keep a rat in your appartment! They're extremely unsanitary, and they transmit leptospirosis and hantavirus.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Yeah, Chandler why don't you take a walk? This doesn't concern you.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, she never misses these conferences! No, I just saw Dr. Kenneth Schwartz!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "See that's where I think that you're wrong. We've been playing these babies man for man; we should really be playing a zone defense.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, you manheads aren't any better. You lied about going to the game. You knew it would make you late, and you still went anyway.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

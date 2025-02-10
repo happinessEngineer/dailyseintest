@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1592,
+  "date": "2029-06-02",
+  "questions": [
+    {
+      "quote": "Yeah, what're you saying, you just sort of put away feelings or whatever the hell it was you felt for me?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You guys do that? Chandler won't even have sex in our bathroom!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, I read some great applications, but then I thought \"who better then a minister to raise a child!\"",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Erica"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Really? So, you're gonna stick with this 'it's all for her' thing?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Interviewer"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know, you-you also could've used uh, lamps and then followed the light.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You don't know how long we're gonna be in here! We may have to repopulate the Earth.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Estelle Leonard",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, y'know what? I'm-I'm gonna meet you upstairs in a minute.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Woha! Wait... What are we doing? What we have is too important to mess it up over some girl. I mean, we can get laid anytime we want.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, I feel really bad about how I freaked you out before, so I called the father and asked him to meet you here so you can tell him. Go!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

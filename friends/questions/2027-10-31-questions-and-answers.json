@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1012,
+  "date": "2027-10-31",
+  "questions": [
+    {
+      "quote": "Umm, I think there was a restaurant... I know there was wine. . .",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Dehydrated Japanese noodles under fluorescent lights... does it get better than this?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ooooh, that's fine. We'll see who has the last laugh there, monkey boy.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Lennart",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So don't do it, it's fine. You don't have to do it just because Susan does it.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Nooo! It's not okay! I can't believe you would want to after what he did to me!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, I uh, I shouldn'ta come. I-I'd better get going, I don't wanna miss the last train.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Ronni Rapalono",
+        "Chandler"
+      ],
+      "correctAnswer": "Ronni Rapalono"
+    },
+    {
+      "quote": "Set another place for Thanksgiving. My entire family thinks I have VD.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh uh-uh pal! Don't call me mommy! It's bad enough you call your own mother that.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "A little uh, good deed for PBS and a little TV exposure, now that's the kind of math Joey likes to do!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah with Chandler not getting paid, we could really use 300 million dollars.",
+      "characters": [
+        "Monica",
+        "Amy Green",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

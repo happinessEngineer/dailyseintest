@@ -1,0 +1,106 @@
+{
+  "gameNumber": 347,
+  "date": "2026-01-04",
+  "questions": [
+    {
+      "quote": "Y'know you could totally sell this. It'd be perfect for like umm, a kitty litter campaign.",
+      "characters": [
+        "Leslie",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Leslie"
+    },
+    {
+      "quote": "Yeah, but you kinda knew that something was going on, didn't you?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I understand, but I have to put my foot down. Okay? The answer is no.",
+      "characters": [
+        "Dr. Franzblau",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You are incredible. Unless, I...I'm not gonna smoke again. And if I do, I promise, I will hide it so much better from you.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No!! wait, wait, wait!! Oh please, hold it up so I can listen.",
+      "characters": [
+        "Phoebe",
+        "Bitsy Hannigan",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Right, not just that. Umm, even though we love each other as much as we do, none the less...",
+      "characters": [
+        "Alice Knight",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Alice Knight"
+    },
+    {
+      "quote": "No-no, it's okay. But are we sure we don't want the waterbed?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, I thought of the joke two months ago at lunch with Steve.",
+      "characters": [
+        "Rachel",
+        "The Director",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Thank God, because I don't wanna do this either. You know, I was just doing because I thought that was what you wanted to do. You know, I'm the husband, I'm supposed to... bring the sperm.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, you see, the-the thing is, we-we only got, we kinda have one shot to make it right.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    }
+  ]
+}

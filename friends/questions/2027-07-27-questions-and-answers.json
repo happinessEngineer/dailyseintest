@@ -1,0 +1,106 @@
+{
+  "gameNumber": 916,
+  "date": "2027-07-27",
+  "questions": [
+    {
+      "quote": "Oh, you're not gonna believe what happened to me today! Ralph Lauren called, and gave me my job back!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No. No, see when I first meet somebody it's uh it's mostly panic, anxiety, and a great deal of sweating.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Joey, come on! It doesn't matter, you know, it's not like anything's gonna happen.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Jill Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, there's Chandler. You knew, that stupid friend of Ross'. Said I'm fat. You know I've already lost 4 pounds!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh...Joey, you bummed him out! This was the happiest dog in the world, and he spends half a day with you, and look at him!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And when I told her that I was gonna be moving in with Chandler, she was really supportive. You were so great. You made it so easy. And now you have to leave. And I have to live with a boy!!",
+      "characters": [
+        "Woman",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Now sweetie, I know you don't like my office parties, but you can wear your new boots. See? Every cloud has a...supple leather lining.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I guess you can get back to deciding on what to get me for a present!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Whatever I decide to do, I'm gonna be starting a career from scratch. It's gonna be a while before I make a living at it. Maybe now is not the right time to be starting a family.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, no, no, I don't have one. I just need to talk to my friend.",
+      "characters": [
+        "Interviewer",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

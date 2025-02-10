@@ -1,0 +1,106 @@
+{
+  "gameNumber": 284,
+  "date": "2025-11-02",
+  "questions": [
+    {
+      "quote": "Y'know when girls sleep with guys with weird things on their body, they tell their friends about it.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah no, I mean it was at a flea market, so it was y'know, it was like a dollar.",
+      "characters": [
+        "Waiter",
+        "Rachel",
+        "Joey",
+        "Kim"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Another cheesecake came! They delivered it to the wrong address again!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, we would still be living here if hadn't gotten the question wrong!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, so I'm gonna be the only one standing there alone when the ball drops?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It wouldn't have mattered anyway, Phoebe, you and I are, are gonna live together, we're roommates; that's the deal.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, I don't think I want the lipstick that much. But umm... Oh, would you do me a favor? And umm, would you, would you give Lilly that, please?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Cecilia",
+        "Frank Buffay Sr."
+      ],
+      "correctAnswer": "Frank Buffay Sr."
+    },
+    {
+      "quote": "Hey, finished my recommendation. Here. And I think you'll be very, very happy. It's the longest I ever spent on a computer without looking at porn.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I like that. But no-no, how does that explain why Rachel found my underwear at your place?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's, that's, that's a big candy bar. I had the most amazing time with you.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1402,
+  "date": "2028-11-24",
+  "questions": [
+    {
+      "quote": "Chandler, nobody likes breaking up with someone. You just gotta do it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well maybe he'll get to go soon, like on a class trip or something.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, which one of us is gonna be having sex in there, me or you?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I uh, hope you don't mind, I kinda uh, jazzed it up a little. Check this out. We will, we will, call you back!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I never sucked, I actually didn't want you to know how good I was!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What? Of course I did! You uh, you sat next to Sleepy Sleeperson.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, there's a kiss that he won't forget for a couple of hours, y'know.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh no! Wait! Wait! Okay, y'know what, you were right, you were right. We really weren't great at being guys, but you know why? Because we're girls.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. No, y'know you don't, you don't wear enough of this. What?",
+      "characters": [
+        "Gunther",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right. We're gonna go. It's not for another six hours. We're gonna go then.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

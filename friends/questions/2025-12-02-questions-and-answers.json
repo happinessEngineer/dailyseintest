@@ -1,0 +1,106 @@
+{
+  "gameNumber": 314,
+  "date": "2025-12-02",
+  "questions": [
+    {
+      "quote": "Well, we have to do something. We can't have her living next door. Oh, that does it too.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Because a promise between friends means never having to give a reason.",
+      "characters": [
+        "Doctor",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wow! I have never had such a healthy break-up! She was such a grown-up about it! She didn't seem too immature for me! Did I just make a huge mistake?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, you guys. This was an amazing night. Thank you so much. I love you. Good night.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait, we still have time to talk and they're-they're not even in the car yet! Oh look, there they go, okay.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, come on... Alright, you guys. We're so sorry we're late. Please let us in, so we can have dinner together.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I'm sorry Joe. I didn't think the doctor was gonna buy that it just *fell* out of the socket.",
+      "characters": [
+        "Joey",
+        "Ursula Buffay",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Sure you did! You came in, you got all awkward, and you ran into the bedroom. You were shouting, \"Joey! Joey!\" Bye Rach.",
+      "characters": [
+        "Ross",
+        "Paul Stevens",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "Hey, have you guys eaten, because uh, Richard and I just finished and we've got leftovers... Chicken and potatoes... What am I wearing?...Actually, nothing but rubber gloves.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, our names really are Monica and Chandler. We're from New York.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

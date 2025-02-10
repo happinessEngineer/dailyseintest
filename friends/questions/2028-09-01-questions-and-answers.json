@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1318,
+  "date": "2028-09-01",
+  "questions": [
+    {
+      "quote": "Oh God, Ross. Ross is going to pick up the phone. Oh, I have to get my number back. Oh my God. He's gone.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, or you know, you could just wish that I didn't have them now.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Grasp one of the linen strips by its 'easy grab tab' and pull it off in one quick pain free motion.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Eric"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.",
+      "characters": [
+        "Erica",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "\"Hi, it's Monica. I'm just checking in 'cause I got this message from you and I didn't know if it was old or new or what. So, I'm just checkin'. So let me know, or don't, whatever. I'm breezy.\"",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, that does make sense. Ok, now, would... would you two like that?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Seriously, you like it? This guy was sellin' them on 8th avenue and I looked at 'em and I though, you know what I don't have?",
+      "characters": [
+        "Joey",
+        "Hillary",
+        "Richard Burke",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, remember that thing I told you that happened yesterday? Well it didn't happen.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Man in the black dress... Hi! I'm Rachel! I'm a friend of Monica and Chandler's!",
+      "characters": [
+        "Gunther",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, the director thinks you're really right for the part and wants to meet you tomorrow.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "The Casting Director",
+        "Stephanie Schiffer"
+      ],
+      "correctAnswer": "The Casting Director"
+    }
+  ]
+}

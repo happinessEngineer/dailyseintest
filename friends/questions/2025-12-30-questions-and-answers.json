@@ -1,0 +1,106 @@
+{
+  "gameNumber": 342,
+  "date": "2025-12-30",
+  "questions": [
+    {
+      "quote": "Alright, wait a second, why would Ross tell everyone in your class that you are as... \"gay as the day is long\"?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, so let me just get this straight. So we're uh, strictly talking about the middle?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well then how come you're still at a job that you hate, I mean why don't you quit and get 'the fear'?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Cecilia",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh umm, how about your mom dying, or having to live on the streets when you were 14?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Carol",
+        "Eric"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'll find Bob, I'll get him. Bob? Bob! Robert! Oh wait, I think I hear him. Oh - Oh my god! Bob had babies! Bob's a mom!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ahh, the bat. Ambassador of darkness, flitting out of his cave like a winged messenger, sightless spectre of the macabe.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Janitor"
+      ],
+      "correctAnswer": "Janitor"
+    },
+    {
+      "quote": "Hey Mon, you might wanna make some more lasagna too, because something might've happened to a huge chunk of it.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Am I psyched? The lead in my own TV series? I've dreamed about this for years! Why have I not been preparing?!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Actually studies have shown that the movement and colours help their cerebral development... The whimsical characters are just for us.",
+      "characters": [
+        "Sandy",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Sandy"
+    },
+    {
+      "quote": "You know, they're not actually supposed to have... I'll work on the lumps. Joey, you're going home, right?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Erica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1410,
+  "date": "2028-12-02",
+  "questions": [
+    {
+      "quote": "Alright, I'll tell you what. I'll come get you in 5 minutes with some sort of um, kabob emergency.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You're right. She probably will support me. Hey, unless we move in with you, dad?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "No! Ross, no! It is not fine! Eh-eh-according to my plan I should already be with the guy I wanna marry!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look at this clown! Just because he's got a bigger boat he thinks he can take up the whole river. Get out of the way jackass! Who names their boat Coast Guard anyway?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Earl",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's not what this is about okay? I-I am a sports car enthusiast. I have always been into cars.",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thanks! I've been working out. Hey listen, is it obvious that I'm wearing six sweaters?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, no, that's not where I was going. Er, if you get in the... way, of us becoming a thing, then I would be, well, very sad.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I gotta do what I gotta do, you gotta do what you gotta do, you just do it.",
+      "characters": [
+        "Rachel",
+        "Susie Moss",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's not what I had in mind! See, people like Ross don't generally wear these types of pants. You see, they're very tight. Maybe there's something in that area.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know who doesn't even like dirty movies? My new boyfriend Joshua.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1036,
+  "date": "2027-11-24",
+  "questions": [
+    {
+      "quote": "I don't know what I'm going to do. That date starts in like an hour.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Lauren",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I mean I was nothing before you. Call the other girls and ask. Which wouldn't take long. But when I'm with you, and we're together, OH...MY...GOD.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Chandler, what are you doing? There is a trash can right there.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Felicity and I, we're watching My Giant, and I was thinking, \"I'm never gonna be as good an actor as that giant.\" Do you think I'm just wasting my life with this acting thing?",
+      "characters": [
+        "Joey",
+        "Kathy",
+        "Monica",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't know, I don't know. Urrrgh! Look, maybe we should take a break.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I just tell her, I have to get it over with. I told Ross and Phoebe and she's the only one left!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes! I love you! I've never loved anybody as much as I love you.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh well, hey, Joey's loveable too! But the thing about Joey is, if you need him, he'll be there.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, well, actually we were just talking about me not going to Ross's wedding.",
+      "characters": [
+        "Rachel",
+        "Dr. Long",
+        "Cliff",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, I did not break this! Okay? That has been broken for a while.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

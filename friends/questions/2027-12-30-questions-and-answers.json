@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1072,
+  "date": "2027-12-30",
+  "questions": [
+    {
+      "quote": "So long! Don't let the best door in the world hit you in the ass on your way out!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, great. Although I did sit down where there wasn't a chair.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, 'cause that's why you won't get Isabella Rosselini, geography.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I don't see that we have a choice. But, when we're back home, we don't do it.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't care how long ago it was! You told people that I was half and half! Y'know what? I just want to point out I never did anything to hurt you in high school.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hi. Okay, you're too late okay? Because she's already with our guy.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry Pheebs, I just, y'know, I just wanted to do a good deed. Like-like you did with the babies.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh yeah? Well, I'm rubber, you're glue, whatever can't do it. Listen, uh- gimme back my puck.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Charity Guy",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, yeah. I'd marry him just for his David Hasselhoff impression alone. You know I'm gonna be doing that at parties, right?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I thought you guys had just been on like four dates, I didn't realise that had become anything, yet.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Larry"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

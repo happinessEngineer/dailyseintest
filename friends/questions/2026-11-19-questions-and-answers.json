@@ -1,0 +1,106 @@
+{
+  "gameNumber": 666,
+  "date": "2026-11-19",
+  "questions": [
+    {
+      "quote": "Oh, well, we can go see the Chronos Quartet at the Avery Fisher Hall.",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Paul Stevens",
+        "Ross"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Oh wait! I almost forgot. We have to ask everybody this. Other than Days of Our Lives, what's your favorite soap opera?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "The Interviewer"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "So I'm thinking, basically we pick it up and then we flip it.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ross! Come quickly! There's a deer just outside eating fruit from the orchard!",
+      "characters": [
+        "Emily Waltham",
+        "David",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Well, her thought is, and I agree, fresh new furniture, why not a fresh new apartment? Her cousin has this great place to sublet, it's got a view of the river on one side and Columbia on the other.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dude! Hernia operations cost like, a lot probably. Besides it's getting darker and more painful, that means it's healing.",
+      "characters": [
+        "Joey",
+        "Gunther",
+        "Nora Tyler Bing",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow! Five-month maternity leave, you're back for four days, kiss a co-worker, call in sick, they are lucky to have you!!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Jack Geller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I love you too. Please don't... Don't turn into... you know... French bitch!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Erica, please. Just consider us. Ask them to see our file. Our last name's Bing. My wife's a chef and I'm in advertising.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Laugh it up, but the joke's on you. Because we don't need to get divorced, okay? We we're just gonna get an annulment.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

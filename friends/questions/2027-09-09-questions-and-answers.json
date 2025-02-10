@@ -1,0 +1,106 @@
+{
+  "gameNumber": 960,
+  "date": "2027-09-09",
+  "questions": [
+    {
+      "quote": "You can wear them with shorts on a street corner and earn the money to pay for them.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, it's so easy for you I mean, you're not married, you get to have sex with who ever you want!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's me. It's Phoebe. Listen there's something in here I want to eat, what-what smells so good?",
+      "characters": [
+        "Phoebe",
+        "Michael",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler, you don't have a sister so you can't understand how much this bums me out.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "In a moment, please, I'm in the middle of a task. And you have a customer.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Stephen Waltham",
+        "David"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "I er... I hope you don't mind. I used some of my home-made lotion on Emma. It's a mixture of calendula and honey cream. It'll dry that rash right up. Plus... It keeps the hands young...",
+      "characters": [
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Monica",
+        "Sandy"
+      ],
+      "correctAnswer": "Sandy"
+    },
+    {
+      "quote": "Wait a minute; you don't think it was intentional? I mean, that's just stupid.",
+      "characters": [
+        "Monica",
+        "Mona",
+        "The Director",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Excuse me, I-I couldn't help overhearing, you're marrying Chandler Bing?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Look, if she's talking to it, I just think that I should get some belly time too. Not that I believe any of this.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Shh. In a minute, I'm gonna create a diversion. When I do, walk quickly to the door and don't look back.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

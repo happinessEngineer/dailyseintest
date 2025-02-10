@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1343,
+  "date": "2028-09-26",
+  "questions": [
+    {
+      "quote": "Hey Rach, listen I was thinkin' uh, I'm gonna have an extra room over at my place...",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Charity Guy",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, okay, we'll just get everyone to act like they like it. That-that way noone makes fun of her and we still get to go to Sweet Potatoe Pie!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, here's a good one for ya. Who do think would win in a fight between Ross and Chandler.",
+      "characters": [
+        "Mona",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Whoa-whoa! No-no-no-no-no, nothing is going up! Okay? Up, up is not an option-what's a urethra? Are you crazy?!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But we haven't seen each other since then. Well I land in China, guess who's in charge of the dig.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The only way that I said six would be if the seven's, let meet at seven, not at six.",
+      "characters": [
+        "Tommy",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Erica Ford"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.",
+      "characters": [
+        "Joey",
+        "Dina",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look you don't understand, Gandolf is amazing. Y'know you're never know what's gonna end up happening, you go out for a couple of beers and end up on a fishing boat to Nova Scotia!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

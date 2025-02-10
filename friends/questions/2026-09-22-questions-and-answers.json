@@ -1,0 +1,106 @@
+{
+  "gameNumber": 608,
+  "date": "2026-09-22",
+  "questions": [
+    {
+      "quote": "Okay, umm, question 2) Umm, did that marriage end A. Happily, B. Medium, or C. In the total abandonment of her and her two children?",
+      "characters": [
+        "Sandra Green",
+        "Nurse",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I thought you were excellent! In fact for a minute there I was like, \"Ooh, where'd Ross go?\"",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, would you guys grow up? That is the most natural beautiful thing in the world.",
+      "characters": [
+        "Ross",
+        "Erica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Listen also we're uh, we're watching the game here Saturday night, if people want to come over.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, we can talk about something else. What do you want to talk about? Vivisection? The Vasdeferens? The Vietnam War?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Bobby Rush",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! Y'know, sometimes you can do everything right, everyone can wear everything they're supposed to wear, and one of those little guys just gets through!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh...Who was so stupid and stubborn that she lashed out against her friend's cooking which she actually thinks is pretty great!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh, thank you Phoebe. Umm, well, what struck me most when reading Jane Eyre was uh, how the book was so ahead of its time.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ehh, I don't, I don't think so. She's already talked about y'know, dating other guys.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wait, but there's no money! Well this is terrible! You guys are gonna have to get married in like a, rec. center!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

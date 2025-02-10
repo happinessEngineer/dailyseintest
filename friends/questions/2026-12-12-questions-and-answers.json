@@ -1,0 +1,106 @@
+{
+  "gameNumber": 689,
+  "date": "2026-12-12",
+  "questions": [
+    {
+      "quote": "Go Monana! Well, you ladies are not the only ones living the dream. I get to go pour coffee for people I don't know. Don't wait up.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Man, this is bad! And I've had my share of bad reviews. I still remember my first good one though. \"Everything else in this production of Our Town was simply terrible. Joey Tribbiani was abysmal.\"",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "...is because they were friends first. Y'know? So I asked myself, \"Who are my friends?\" You and Phoebe, and I saw you first. So...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, you just-you put a quarter in and y'know pull-pull some handles and win like a candy bar or something.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Cecilia"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So, I'll get candles and my mom's lace tablecloth, and since it's Rachel's birthday, I mean, we want it to be special, I thought I'd poach a salmon.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know, kinda think of it, the capital of Peru IS \"vtox\". Oh god! Oh!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Director",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "I have just resigned my post. Would you care to accompany me to the Rainbow Room? I have diplomatic coupons.",
+      "characters": [
+        "Phoebe",
+        "Mischa",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Mischa"
+    },
+    {
+      "quote": "I know! Hey, you haven't been practising the routine, have you?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God! Oh my God that's awful! What did you think of the house?",
+      "characters": [
+        "Charity Guy",
+        "Dr. Drake Ramoray",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",
+      "characters": [
+        "Ross",
+        "Janine Lecroix",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

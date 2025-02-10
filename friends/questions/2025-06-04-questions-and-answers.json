@@ -1,0 +1,106 @@
+{
+  "gameNumber": 133,
+  "date": "2025-06-04",
+  "questions": [
+    {
+      "quote": "Ok, Caravaggio uses chiaroscuro here to highlight the anguish of the central figure. Touch it, it's really bumpy! .",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "God, they thought they can mess with us! They're trying to mess with us?! They don't know that we know they know we know! Joey, you can't say anything!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, I gotta go find Rachel but umm, if you guys see her could you please try to give her some really bad news so that mine doesn't seem so bad?",
+      "characters": [
+        "Michael",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's right, I wanna do it with you! I've been trying to fight it, but you just said all the right things.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And you know why? Because you told the truth, and nobody ever tells kids the truth.You were incredible.",
+      "characters": [
+        "Rob",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rob"
+    },
+    {
+      "quote": "Oh my God! Look what... you made it into a bunny. How did you do that?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know, I could maybe go out for a couple of beers, but there's this thing about bumblebees on The Discovery Channel that I was planning to watch.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What about the second minister we meet with? I kinda liked him.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know. I mean, she obviously has some kind of unfinished business. Sit up!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

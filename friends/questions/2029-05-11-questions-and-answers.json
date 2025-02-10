@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1570,
+  "date": "2029-05-11",
+  "questions": [
+    {
+      "quote": "You know what, I think it's cute, you trying to be more like Richard.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- Hey, that's not for you, bitch!",
+      "characters": [
+        "Phoebe",
+        "Mike Hannigan",
+        "Tag Jones",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait-wait-wait-wait! Come on! Come on, let's trade! The timing's perfect, I just clogged the toilet!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! Oh listen, I was just clearing some space for your stuff.",
+      "characters": [
+        "Ross",
+        "Jill Green",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on man there's gotta be something that gets you choked up! Like uh, uh oh, what if you saw a three-legged puppy?",
+      "characters": [
+        "Ross",
+        "The Interviewer",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Bec-Did you not hear me?! She's an assistant professor in the Linguistics department, okay? They're wild! Why do you want to come anyway?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Just now, after acting class. At first I thought she was doing some kind of scene, that's why I let people watch.",
+      "characters": [
+        "Mr. Thompson",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, no, because, you know, he's been in Minsk for 8 years and if he gets too much direct sunlight, he'll die.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Carol"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but I-I-I-I can do that for you, I'm gonna do that for you.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Precious"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but at what cost? Six more months, three meals a day, I'm gonna eat like, y'know millions of cows.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

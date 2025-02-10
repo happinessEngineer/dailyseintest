@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1368,
+  "date": "2028-10-21",
+  "questions": [
+    {
+      "quote": "He didn't die. I saw his daughter last week. Said he was fine. Her on the other hand, botched Botox.",
+      "characters": [
+        "Rachel",
+        "Tag Jones",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "How come all I can think about is putting that ice in my mouth and licking you all over?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Susie Moss",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "And you... Ross, I believe, if you check Rachel's bag you will find a half-eaten box of cookies in there.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know I think he will be surprised, 'till he realizes he's a monkey, and uh, you know, isn't capable of that emotion.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Forget it. I-I-Y'know what? I'll just have the conversation. I'll just say I like things the way they are, and hope for the best. What do you think Rach?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "There is a man behind your curtain. I have a mace in my purse.",
+      "characters": [
+        "Susie Moss",
+        "Rachel",
+        "Molly",
+        "Chandler"
+      ],
+      "correctAnswer": "Molly"
+    },
+    {
+      "quote": "No, it's not just 'cause I'm jealous. I mean I'm not, I'm not, I'm not jealous, okay? It's... Look, the guy, he screamed, he actually screamed at this couple sitting in our seats.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Judge",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! There's nothing to explain. I heard you. Phoebe likes Joey.",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Yeah but, Mischa is so interested in you, that Sergei and I haven't been able to say two words to each other.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "well.. its just. its just in that case, then um. Emma would go to my parents.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

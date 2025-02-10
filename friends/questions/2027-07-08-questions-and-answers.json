@@ -1,0 +1,106 @@
+{
+  "gameNumber": 897,
+  "date": "2027-07-08",
+  "questions": [
+    {
+      "quote": "I have like five times, but the guy is so charming, that I go up there to yell and then I end up apologizing to him.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, everyone, this is Chandler! My roommate and lead singer of our band!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe Abbott",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, like you could find something as sophisticated as this.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Thanks guys! I really appreciate this, y'know, but you don't have to rub my butt.",
+      "characters": [
+        "Emily Waltham",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The only superpower you have is a slightly heightened sense of smell.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I can't. I would, I really would, but my son is here; I can't leave him. Isn't-you don't think there's any way?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, okay... when Barry was engaged to you, he and I...kind of... had a little thing on the side.",
+      "characters": [
+        "Mindy Hunter",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Mindy Hunter"
+    },
+    {
+      "quote": "Wow! Look at that, Chip Matthews called. I wonder what he wants?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait a minute... when you guys walked into the Met, did you go to the right?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know what? I don't trust you with this cake anymore! And I got it first, and I'm takin' it back!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Tag Jones",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 964,
+  "date": "2027-09-13",
+  "questions": [
+    {
+      "quote": "What do you mean? Nothing happened! I had to get out of there.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Bob (Chandler's coworker)"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Why don't you go up there and ask him to 'step lightly, please?'",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Doug",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So y'know Ross it's funny 'cause, you look familiar to me too. Have you ever been married?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! I've been working so hard this semester. I really need to go crazy y'know, blow off some steam.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "I'm very interested to find out who's been doing her taxes these last four years.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Hey you know what, this kid needs me, okay? She needs to have a cool fun aunt!",
+      "characters": [
+        "Jill Green",
+        "Monica",
+        "Ross",
+        "Amy Green"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Hey Rach! Ah........ Perfection. Wouldn't change a thing. Not a thing.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, umm, Walker was looking for this big bus load of kids.... All right, I get your point.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Ticket Agent",
+        "David"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh no, it's gonna be named after some snack or baked good isn't it?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, Monica made me send her to my mother's. Apparently babies and weddings don't mix.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

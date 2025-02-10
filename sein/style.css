@@ -1,0 +1,9 @@
+.logo {
+    text-transform: uppercase;
+    background: rgb(247, 201, 52);
+    border: 5px solid rgb(201, 9, 33);
+    border-radius: 50%;
+    padding: 10px;
+    rotate: -7deg;    
+    font-family: 'Afacad Flux', sans-serif;
+}

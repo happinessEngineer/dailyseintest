@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1409,
+  "date": "2028-12-01",
+  "questions": [
+    {
+      "quote": "So, how'd the lasagne go over? Really?! Good. So you owe me three pretty things. Yeah, I've been thinking a lot about you too. I know. It's hard this whole platonic thing. It's a word!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Tag Jones",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You're the most incredible woman I've ever met. How can I lose you? Now, I don't actually have a ring...",
+      "characters": [
+        "Mr. Douglas",
+        "Monica",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And I couldn't find this little plastic thing that goes on top of the blender...and I thought...well... how important can that be, right...? Turns out very!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Michelle",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God. He just gave you the coldest look I have ever seen. It's like he hates you. Then it is true.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Mike Hannigan",
+        "Kim"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "What the... Yes you're too late! Where was all this three years ago?!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Gunther",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I love you guys too, but Mike got off work early. Wait. Wait, I'm not t-not that kind of girl that just ditches her friends to be with her boyfriend. You know what? I am. Bye guys! Judy! Bye.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ohh, I've always wanted to go to this culinary fair that they have in Jersey!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, I cannot do this right now, okay, I've got a deadline, would you just go home, I'll talk to you later.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Eight dollars and 27 cents. But not really, 'cause I put in the first two, just to, you know, get the ball rolling, and to make myself feel better.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Receptionist",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What? I'm kidding. You know I'd never let him touch the Porsche.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "David",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

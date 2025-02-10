@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1010,
+  "date": "2027-10-29",
+  "questions": [
+    {
+      "quote": "Joey, what are you doing? You promised Phoebe you wouldn't eat meat until she has the babies!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Cut it out Ross! I hate to have to save your life and kick your ass in the same day!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You can't just call Godfather. Don't you think her brother should be Godfather?",
+      "characters": [
+        "Rachel",
+        "Mona",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I know what you meant!! You notice that ever since we got this chick, we've been fighting a lot more than we used too?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, can I just stop you right there for a second? When people do this I don't really know what that means. You were saying?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "David"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay so, we'll just come up with some kind of signal if it's going well you can take off.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait! No, that's ridiculous. Come on, he lives three blocks away!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Monica, it's 6:30 in the morning. We're not working out, it's over.",
+      "characters": [
+        "Chandler",
+        "Laura",
+        "Monica",
+        "Cassie Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So what's really neat. If you sear the stems of the flowers first in a frying pan, your arrangement will look fresh much longer.",
+      "characters": [
+        "Paul Stevens",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Rachel and I are bringing Emma to Ralph Lauren today to introduce her to everyone. Doesn't she look cute?",
+      "characters": [
+        "Ross",
+        "Janice",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

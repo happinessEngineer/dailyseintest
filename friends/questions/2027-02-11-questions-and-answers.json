@@ -1,0 +1,106 @@
+{
+  "gameNumber": 750,
+  "date": "2027-02-11",
+  "questions": [
+    {
+      "quote": "Rach, you're in a great place in your life. Come on, you've got a great job! Good friends...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Eddie Menuek",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, it doesn't, does it? But you wanted lumps, Ross? Well, here you go, buddy, ya got one.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I mean it's okay, I mean, they're-they're my friends. In fact, I-I-I was married to one of them.",
+      "characters": [
+        "Erica Ford",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! I mean, I don't know. I was just , I was looking, I was looking in his eyes and I was just thinking: Oh my God! It's David. David's here. He's just, he's so irresistible.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Roger",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side.",
+      "characters": [
+        "Rachel",
+        "Richard Burke",
+        "Mr. Ratstatter",
+        "Ross"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "I've no idea, could be. Listen, I'm sorry I had to work tonight.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know, I don't think mom and dad would mind. Remember when you were 9 and Richard was 30, how dad used to say, 'God I hope they get together.'",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Nononononono. Think who you're dealing with here. I mean, I'm not like you. I-I can't even stand in front of a tap class.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "The Teacher",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, we used to drive each other crazy playing the shadow game.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, she only suspects something okay? She doesn't know for sure, so just throw her off the track.",
+      "characters": [
+        "Phoebe",
+        "Receptionist",
+        "Chandler",
+        "Carol"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

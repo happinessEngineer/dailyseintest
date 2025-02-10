@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1552,
+  "date": "2029-04-23",
+  "questions": [
+    {
+      "quote": "Ohh, here you are. Y'know, I'm-I'm glad you decided to hear me out.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Mark Robinson",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Listen that's a pretty girly hour we just spent, we should add some manly make up for it.",
+      "characters": [
+        "The Teacher",
+        "David",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I don't know man. I haven't talked to her in like ten years.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So Chandler, you're parents must've been thrilled when you told them you were engaged.",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "No, it's not that. I got fired today. And I didn't get the other job.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Monica, Monica, look at this lamp. Is this tacky or what? We have to have this.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Why don't they just jump out of an airplane?! Huh?! That-that's a fun date! Or burn each other with matches?! That's fun too! Whew!!",
+      "characters": [
+        "Phoebe",
+        "Janine Lecroix",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, he has a gig. I kinda like being married to a rock star, you know. My husband has a gig.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, so that's this is gonna work now? You're just gonna order me around all the time?",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Alright, alright, now-now who should I say tricked me into doing it?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

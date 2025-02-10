@@ -1,0 +1,106 @@
+{
+  "gameNumber": 724,
+  "date": "2027-01-16",
+  "questions": [
+    {
+      "quote": "No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",
+      "characters": [
+        "Roy",
+        "Phoebe",
+        "Rachel",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Oh yeah, that's just a little something for my huge gay fan base.",
+      "characters": [
+        "Amy Green",
+        "Chandler",
+        "Joey",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. All right, y'know what, she's gonna think that I'm handing you a credit card, but what I'm really gonna do is hand you a library card.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I know... I still have my old key! We can just unlock the door.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Little?! You freaked out big time! Okay? And I fixed it! We have switched places! I am the relationship and king and you are the crazy, irrational screw up! And now we're back.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh you know, pretty much the usual, uh, sun shining, birds chirping.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.",
+      "characters": [
+        "Tag Jones",
+        "Rachel",
+        "Sandra Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I would make them Belgian, but the waffles are hard to get into that flask.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Sandra Green",
+        "Bobby Rush"
+      ],
+      "correctAnswer": "Bobby Rush"
+    },
+    {
+      "quote": "You know what? I don't want to be with them either, but it's Thanksgiving and we should not want to be together, together.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "She was acting, she was pretending like she hasn't heard from him on years, but I found this picture on her fridge, and look ! Isn't this what he would look like now?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1308,
+  "date": "2028-08-22",
+  "questions": [
+    {
+      "quote": "I know it's kind of weird, but I mean, she was a big part of my life there, you know, and now I just feel kind of alone.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Minister",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, that doesn't help me, because we went to the same high school.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Precious",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, it was just me and her at the back of the train, and I sat near the door, so she'd have to pass by me if she wanted to switch cars. She was totally at my mercy.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I know! I mean it's like me and your dad, that's a totally separate thing.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. It's just like anything else, you just have to get used to it.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Ginger"
+      ],
+      "correctAnswer": "Ginger"
+    },
+    {
+      "quote": "I'm just trying to help you out! Okay? I wanna make sure that you're okay.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Grandmother",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wha-, n-, no. I mean it's just a bunch of pretty people runnin' around on the beach, ya know.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Eddie Menuek",
+        "Monica"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "But really, it does seem like this money could be put to better use?",
+      "characters": [
+        "Leonard Green",
+        "Joanna",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, come on, you're way out of my league. Everybody in here knows it. Bet that guy over there's probably saying, \"ooh, why she out with him? He must be rich!\" Well, I'm not!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Steve",
+        "Phoebe"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "You bet I did, Ben, put it there! Well, it would have worked this time, if his hands weren't so damn small! Ho, ho, ho!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "David"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

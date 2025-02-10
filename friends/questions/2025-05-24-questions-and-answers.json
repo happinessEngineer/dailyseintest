@@ -1,0 +1,106 @@
+{
+  "gameNumber": 122,
+  "date": "2025-05-24",
+  "questions": [
+    {
+      "quote": "I'm told there are two sides to this story, but all I've heard is that Ben's a bit of a poo-poo head.",
+      "characters": [
+        "Trudie Styler",
+        "Jack Geller",
+        "Phoebe",
+        "Customer"
+      ],
+      "correctAnswer": "Trudie Styler"
+    },
+    {
+      "quote": "But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay here we are Paul, Elizabeth. So I hope you guys were finding something to talk about.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Listen to you two. It's so sad. Looks like I'm gonna be going to the goddess meetings alone.",
+      "characters": [
+        "Phoebe",
+        "Doug",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Maybe it's not as bad as I think. Y'know, maybe they didn't take it the way I meant it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Luisa Gianetti",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Let's see. Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, by the way, tomorrow we're auditioning for a Broadway show.",
+      "characters": [
+        "Fake Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Fake Monica"
+    },
+    {
+      "quote": "Oh God, come on you guys, is this really necessary? I mean, I can stop charging anytime I want.",
+      "characters": [
+        "Mischa",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, not even close. Forget Vail, forget seeing my family, forget shoop, shoop, shoop.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because, I'm finally getting him excited about Hanukkah, and, and you're-you're wrecking it.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

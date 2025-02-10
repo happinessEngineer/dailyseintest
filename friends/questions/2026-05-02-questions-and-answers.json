@@ -1,0 +1,106 @@
+{
+  "gameNumber": 465,
+  "date": "2026-05-02",
+  "questions": [
+    {
+      "quote": "Well, that is usually what I would do. But I just never thought you'd be on the receiving end of it. How could you do this?!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes. It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Will Colbert",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, uhm, excuse me, I'm here to see my father. My name is Rachel Green.",
+      "characters": [
+        "Amy Green",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, it's just... look, you know, when I first moved to the city I was a lot like her! I was spoiled, self-centered and you guys really took care of me.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, there were a couple of calls last night, but ah, I don't think any of them are gonna work out.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh right, right. So, are you . . . ah . . . you excited about your, your first night away from Emma?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Emma? Emma? Look at me! Well, I think I'll go downstairs for a while.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It feels like we're cheating on our house. And if we're gonna cheat, shouldn't it be with like a hot, younger house, that does stuff that our house won't do?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "She actually makes me miss that pill-popping ex-wife of his. Oh, hello dear...",
+      "characters": [
+        "Monica",
+        "Erica",
+        "Chandler",
+        "Bitsy Hannigan"
+      ],
+      "correctAnswer": "Bitsy Hannigan"
+    },
+    {
+      "quote": "Ooh, I was gonna say bologna, but that's much better. How about a little of that smoked turkey?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

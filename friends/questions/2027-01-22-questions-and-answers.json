@@ -1,0 +1,106 @@
+{
+  "gameNumber": 730,
+  "date": "2027-01-22",
+  "questions": [
+    {
+      "quote": "Yeah, yeah, yeah! I want you... I need you... I must have you Janice Litman Goralnik Neihosenstein.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know, like the thing when you put the phone in your pants? Tag! I'm serious! This isn't funny! Those contracts absolutely had to go out today!",
+      "characters": [
+        "Rachel",
+        "Bobby Rush",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh hi! Hello! Uh, have you come to ask me some more paleontology related questions? Uhm... your grandmother's nickname, perhaps? Aunt Margaret's pants size?",
+      "characters": [
+        "Phoebe",
+        "Richard Burke",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! No! Shoo! Kitty! No! No-no-no! Shoo! Come on, you! Come on. Crazy. Oh my God.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey, this is Mary Ellen Jenkins. So, Mike, how do you and Joey know each other anyway?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, but you should know he eats five times a day and shoves pennies up his nose.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Eric",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on! Surprise her! Show up at her doorstep! Don't let her go without a fight!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, you're... you're different funny... I mean, you're... you're more sarcastic a-a-and... well, he does... bits... and impressions... and... and limericks...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No. No! You're doing great! Don't you give up! That's why we didn't tell you and we're not gonna drag you down with us.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Kim"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "All right, how about I go over there and I will walk into Chandler's bedroom and I will see that thing that I think that I know is actually the thing that I think that I know!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "David"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

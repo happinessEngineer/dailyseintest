@@ -1,0 +1,106 @@
+{
+  "gameNumber": 117,
+  "date": "2025-05-19",
+  "questions": [
+    {
+      "quote": "She was blonde? Just a sec.! Okay, okay. This one's name is Sandy. She's got a degree in early childhood education, uhm... she worked for her last family for three years.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Fine. The reason that I was leaning a little bit more toward Rachel than you is just that you're ... just ... kinda high maintenance-Okay let's go to lunch!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, ooh, alright. Name, address... Okay, in case of emergency, call?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Nah ah! Nah ah! No no no! No ad-libbing and dude, you can't touch the paintings.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Fake Monica",
+        "David"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh Maria. You can't say no to her, she's like this lycra spandex covered gym...treat.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, it's just that uhm... it feels so good... Ikea... Yeah, say hey, you'll know this, what's the capital of Sweden?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You are really good at that. So uh, I had fun tonight, you throw one hell of a party.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "The Stripper"
+      ],
+      "correctAnswer": "The Stripper"
+    },
+    {
+      "quote": "So is there like a story or do they just stard doing it right. . . oh, never mind.",
+      "characters": [
+        "Rachel",
+        "Julie",
+        "Phoebe",
+        "David"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "Okay, I'm gonna go too. I'm gonna go to the airport. I figure if I hang around there long enough, someone's bound to leave one of those planes unattended.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well maybe I'm ready now. I mean, it's a little scary, but maybe it's right.",
+      "characters": [
+        "Chandler",
+        "Jill Green",
+        "Gene",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

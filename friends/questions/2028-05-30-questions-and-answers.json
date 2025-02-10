@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1224,
+  "date": "2028-05-30",
+  "questions": [
+    {
+      "quote": "This year was supposed to be great! But, it's only the second day and I'm a loser with stupid leather pants that don't even fit!",
+      "characters": [
+        "Ross",
+        "Ursula Buffay",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What a minute, I know that hat! I was taken aboard that hat! They did experiments on me! I can't have children!!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Sandy"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! I just spoke to your dad, and you know what? He seems to think we'll be able to find a new place for the wedding.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "On a cliff, in Barbados, at sunset, and Stevie Wonder sang Isn't She Lovely as I walked down the aisle.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's our phone number. Now look, I know I kinda sprung this whole me moving out on thing, so why don't I just-why don't I just cover you for a while?",
+      "characters": [
+        "Helena",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh please, I saw the way you were checking out his mouldings. You want it.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh God! Y'know what I wish? I wish you were six years older. Well actually, if I'm wishin' for stuff, I actually wish I was six years younger.",
+      "characters": [
+        "Leslie",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, my mom used to put her head in the oven. Well, actually, she only did it the one time. But it was pretty weird.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, it was quite large. I-I-I-I-I had to throw most of it away.",
+      "characters": [
+        "Rachel",
+        "Dr. Ledbetter",
+        "Chandler",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Dr. Ledbetter"
+    },
+    {
+      "quote": "Well uh, his answering machine was very understanding. Ugh. I feel blue.",
+      "characters": [
+        "Phoebe",
+        "Roger",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

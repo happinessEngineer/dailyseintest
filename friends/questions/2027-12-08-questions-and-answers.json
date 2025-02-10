@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1050,
+  "date": "2027-12-08",
+  "questions": [
+    {
+      "quote": "I mean, there's no way I can make myself taller now, y'know? And who knows what science will come up with in the future, but Chandler, what if I die an unsuccessful, regular sized man?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I guess the last time we really hung out was when our parents rented that beach house together.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Cassie Geller"
+      ],
+      "correctAnswer": "Cassie Geller"
+    },
+    {
+      "quote": "Wow! I don't know if I could ever do that. I always figured the first time I had a baby was with somebody I love and that baby would be a...keeper.",
+      "characters": [
+        "Monica",
+        "Kathy",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Am I doing here? Why? Surprised to see me? Ross brought me. How do you like that?!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I can't believe they are not here! I slave and I slave for what? They've ruined cranberry day!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why don't you hire him as an actor? You could have him dress up and put on little skits. Whatever you want.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Richard Burke",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God! You're right! Go! Go tell Chandler! Hurry before it's too late! Wait no! Does this also mean putting out doesn't get you love?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I actually know someone in advertising. I grew up with this guy who is a vice president at a big agency. Maybe I can get him to meet you? Give me the phone.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ronni Rapalono"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No! You're clogging up the chute that I spent a half-hour unclogging!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Mr. Treeger",
+        "Rachel"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "What?! Are you crazy?! I'm not getting married! I'm not even engaged.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

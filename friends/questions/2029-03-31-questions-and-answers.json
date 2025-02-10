@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1529,
+  "date": "2029-03-31",
+  "questions": [
+    {
+      "quote": "Hey, come on! I had this friend from college and I made the stupid mistake of telling Joey that one time...she and I y'know...kissed a little bit.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah y'know what? Maybe-maybe you didn't mess up your audition because you suck, maybe you messed up because you care more about uh, your godson.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, And We Should Warn You, Before You Watch It don't watch it.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know, I like the way you have efficiently folded this tab under. See in a tape emergency you could shave valuable seconds off your time.",
+      "characters": [
+        "Richard Burke",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Phoebe, relax none of that stuff ever happens! They just put it on there for legal reasons!",
+      "characters": [
+        "David",
+        "Ross",
+        "Mr. Ratstatter",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know. I know. But, can we please try it again? Huh? I mean, you were so close Phoebe!",
+      "characters": [
+        "Dr. Mitchell",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, um, because mainly, um, they don't like you. I'm sorry.",
+      "characters": [
+        "Monica",
+        "Fake Monica",
+        "Chandler",
+        "Cecilia"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, Chandler, when you see Frankie, tell him Joey Tribbiani says hello. He'll know what it means.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh God. You know what? Who you think you are? Who are you to decide what messages I should or should not get?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Big Bully"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I...I don't care about fashion! I'm pregnant! And I know you are too, so you gotta help me!",
+      "characters": [
+        "Rachel",
+        "Dina",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Dina"
+    }
+  ]
+}

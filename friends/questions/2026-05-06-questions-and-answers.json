@@ -1,0 +1,106 @@
+{
+  "gameNumber": 469,
+  "date": "2026-05-06",
+  "questions": [
+    {
+      "quote": "Ok, the first person's most embarassing memory is, 'Monica, your party sucks.' Very funny.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Nooo. No, no, ah, are you sure it wasn't something that sounded like Ginger, like ah, Gingeer?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You apologize to the tree right now or I am calling for backup. Backup! Backup!!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Nora Tyler Bing",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross! What are you... I'm sorry sir. I just, I think he just really likes you.",
+      "characters": [
+        "Rachel",
+        "Kathy",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "How about you less important people, let's open your presents!",
+      "characters": [
+        "Judy Geller",
+        "Doug",
+        "Mr. Treeger",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's right, there you go! Crushes happen all the time! I know I've had them for all you guys. Well, except for Ross and Chandler. And I'm sure you've had them for us.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So weird to see all these people again... Oh my God, look, there's Geoffrey Cleric.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, come on! I think he's ready to get rid of, what did you call it? The cheap knock-offs and dinosaur junk.",
+      "characters": [
+        "Phoebe",
+        "Gary",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know everything!! Oh wait, double or nothing. I bet you the baby is over seven pounds. I bet you it has hair. I bet you it's a girl.",
+      "characters": [
+        "Charlie Wheeler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ugh. Now if a cow should die of natural causes, I can have one of those right?",
+      "characters": [
+        "Susie Moss",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

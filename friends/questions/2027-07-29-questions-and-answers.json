@@ -1,0 +1,106 @@
+{
+  "gameNumber": 918,
+  "date": "2027-07-29",
+  "questions": [
+    {
+      "quote": "Oh, you're such a gentleman. Come on! We're going to my place!",
+      "characters": [
+        "Chandler",
+        "Joshua Burgin",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, it's not what I want either. I mean I-I can't force myself to fall in love with her again now.",
+      "characters": [
+        "Gunther",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I-I know you can do that too. I'm just, I'm just saying if you need somebody to talk to... Hi!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "See, that's why I could never be an actor. Because I can't say gig.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, yeah, right, OK... inlcuding the waffles last week, you now owe me... 17 jillion dollars.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, maybe he's, maybe he's this really cool pharmacist guy.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Erica Ford",
+        "Jason"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You're sister? You're sister's asleep on the couch? Ohhh! I saw her with you on the subway and now she's asleep on the couch!",
+      "characters": [
+        "Estelle Leonard",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I guess you wouldn't believe me if I said I was Kurt Douglas, huh?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Woman",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, here's somebody interesting, Joey. What do you know about Van Gogh?",
+      "characters": [
+        "The Salesman",
+        "Alice Knight",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "The Salesman"
+    },
+    {
+      "quote": "I know. You know, we're just gonna have to figure out a plan tonight. Can you please just take care of her for today?",
+      "characters": [
+        "Rachel",
+        "Guy",
+        "Joey",
+        "Woman"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 490,
+  "date": "2026-05-27",
+  "questions": [
+    {
+      "quote": "Y'know what? I can't believe this! Do you know what you did? My girlfriend is out there thinking things over! You made my girlfriend think!!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Are you sure? Because I can stay out as late as you want. I told you how I'm on sabbatical from work, right?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey Rach, what time do you get off? We're all gonna do something tonight.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Stephen Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I'm not sure yet, but umm of the top of my head I'm thinking double sided tape and some sort of luncheon meat.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I like this girl, okay, I seriously like this girl, you now how sometimes I tend get a little defended and quipy...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "The Casting Director"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.",
+      "characters": [
+        "Jack Geller",
+        "Jill Green",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know, I mean, you can't tell your parents you were fired because they'd be disappointed.",
+      "characters": [
+        "Dana Keystone",
+        "Chandler",
+        "Dr. Franzblau",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, honey, I forgot. I promised Treeger that we'd leave our keys.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Didn't it drive you crazy to have a switch and not know what it did?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know, he won't even talk to me. How am I going to apologize to him if he won't even talk to me?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Waiter",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

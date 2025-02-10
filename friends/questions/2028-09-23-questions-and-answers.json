@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1340,
+  "date": "2028-09-23",
+  "questions": [
+    {
+      "quote": "No man, that's huge! Now, I know I can stand to be around her, which means I get to hang out with you, which is kinda the whole point, anyway.",
+      "characters": [
+        "Sandy",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look, that has nothing to do with this, ok? She's my ex-wife. If she were marrying a guy, none of you'd expect me to be there.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! But because he thought I was to faaaaa.... And every time I think about it, it makes me feel as bad as I did in fifth grade! Y'know, I-I really think that you should apologize to Julie.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Whoa-whoa, there's two living rooms? God, growing up here, this place must've been a real babe magnet.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow! Are you here to make another donation the same day? I don't think that that's ever happened before.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Charity Guy"
+      ],
+      "correctAnswer": "Charity Guy"
+    },
+    {
+      "quote": "Good! 'Cause I've got a product report to read, it's like eight pages, I hope I don't fall asleep.",
+      "characters": [
+        "Michael",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's funny, this conversation's how I got the bullet hole in my head.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! Let's do that!! That-that sounds good. We should sit down and talk, just me, my lover Carol, and the Stings. Umm, how-how will I get in touch with them?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "If you said, \"Big lima bean, bubbling up.\" Would she understand the difference?",
+      "characters": [
+        "Monica",
+        "Grandmother",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, she just woke up! She's hungry. Why don't we give this another try?",
+      "characters": [
+        "Nurse",
+        "Joey",
+        "Dr. Drake Ramoray",
+        "Phoebe"
+      ],
+      "correctAnswer": "Nurse"
+    }
+  ]
+}

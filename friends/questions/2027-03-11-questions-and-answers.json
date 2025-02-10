@@ -1,0 +1,106 @@
+{
+  "gameNumber": 778,
+  "date": "2027-03-11",
+  "questions": [
+    {
+      "quote": "Yeah, and I don't wanna brag but a lot of the ideas were mine! Hell, you weren't there? All the ideas were mine!!!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "W-w-I just-it's that-I have-y'know I have-I have an appointment. And it's very important.",
+      "characters": [
+        "Joey",
+        "Will Colbert",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, let me see what I can do. There are some first class seats available.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ticket Agent"
+      ],
+      "correctAnswer": "Ticket Agent"
+    },
+    {
+      "quote": "Come on, this isn't funny. She thinks it's my fault that you haven't called her. You have to call her!",
+      "characters": [
+        "Ross",
+        "Fake Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, I get it. So, I get nothing! Nothing here is mine! Everything here is yours! I'll get up in the morning put on your clothes, and head off to work!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, you know what? This isn't funny anymore. There's something about me on that piece of paper and I want to see it.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, you ripped the paper out of the court reporter's machine!!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Thanks so much, Pheebs! We are going to have so much fun, yes we are! Oh! Not that kind of fun.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OH! Alright, you know what? That's it! I want my share of the tickets !",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Nice moustache by the way. When puberty hits that thing's really gonna kick in.",
+      "characters": [
+        "Monica",
+        "Richard Burke",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Richard Burke"
+    }
+  ]
+}

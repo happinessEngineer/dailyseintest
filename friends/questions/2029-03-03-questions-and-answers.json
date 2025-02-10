@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1501,
+  "date": "2029-03-03",
+  "questions": [
+    {
+      "quote": "It was pretty simple actually, I came up with a couple of cost-cutting solutions, wrote out a list and Monica told me to go to hell.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Don"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh yeah, okay. I'm uptight. Yeah, that's why I don't want to watch a middle aged guy dance around in what I can only assume is a child halloween costume!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Mike Hannigan",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So what's new with you, uh, knocked up any more of my daughters lately?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Leonard Green",
+        "Chandler"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "I just wanna say good-bye to you guys and to see if you guys will place a little bet for me, huh? Twenty bucks on black 15.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Kathy's with her parents, I have nothing to do, so tomorrow we are partying with Gandolf dude!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. I really hate to give her up. Oh, I know!! Oh, you should take her!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, it seems pretty simple. Your first line is \"My name is Claude\", so, just repeat after me. \"Je m'appelle Claude\".",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey, I'm really sorry that I lied to you. I was just trying to make things...",
+      "characters": [
+        "Cecilia",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no, Emma has one Hugsy, the new Hugsy, huh? The other Hugsy, I don't know, I guess I'll just take it back.",
+      "characters": [
+        "Joey",
+        "Waiter",
+        "Richard Burke",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Did I? Let's refresh. I believe what I said was that I could see your scalp.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

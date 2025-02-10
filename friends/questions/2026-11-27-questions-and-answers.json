@@ -1,0 +1,106 @@
+{
+  "gameNumber": 674,
+  "date": "2026-11-27",
+  "questions": [
+    {
+      "quote": "Oh great! That means I'm stuck with, \"So, we were watching you in there and you were sittin' right here! Whoa!\"",
+      "characters": [
+        "Roy",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross!! Are you crazy?! I am still your wife!! What, were you just never gonna tell me?!! What the hell is wrong with you?!!!! Ugh, I could just kill you!!!!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, too soon, too schmoon. Face it honey, I am not letting you get away this time.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Janice",
+        "Chandler"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Oh, why does this bother me so much? I mean I don't wanna be one of those people who tells their boyfriend they wanna spend 24 hours a day with them.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Minister",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know what? I have been trying to apologize to him all week! If he's not gonna let me do it on the phone, I'm gonna go down there and do it in person.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, listen, how cold is it going to be there? Do I need a coat or will all these sweater vests be enough?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Sarah Tuttle",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Are ah, having dinner with my Dad tomorrow night, I hope that's okay.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All I got was a lousy key chain! And by that time I was living in a box. I didn't have keys!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Susan Bunch",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey Chan, is that Joey guy gonna come by and pick up his moose hat or should I just toss it out?",
+      "characters": [
+        "Eddie Menuek",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "I don't know, maybe I can't. I mean, maybe there's something wrong with me.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

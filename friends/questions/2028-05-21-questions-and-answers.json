@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1215,
+  "date": "2028-05-21",
+  "questions": [
+    {
+      "quote": "Hi Emma! It's the year 2020. Are you still enjoying your nap?",
+      "characters": [
+        "Tag Jones",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Damn it woman, pull yourself together! Have some pride, for the love of God.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Gunther",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! Of course we can still hang out with them. Just y'know, not two nights in a row. Okay?",
+      "characters": [
+        "Janine Lecroix",
+        "Joey",
+        "Benjamin Hobart",
+        "Roy"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "Because she's not eleven! And it's not the seventh night of Hanukkah!",
+      "characters": [
+        "Chandler",
+        "Estelle Leonard",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, now you know that the ATM will only lets you take out 300 at a time, I'll take a check for the other hundred.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "The Dry Cleaner",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I don't care! That-that turkey has to feed 20 people at my parent's house and they're not gonna eat it off your head!",
+      "characters": [
+        "Rachel",
+        "Janice",
+        "Monica",
+        "Malcom"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No-no, no! We have to move the table into my room, yeah! 'Cause of all the boxes. Come on!",
+      "characters": [
+        "Joey",
+        "Mr. Zelner",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right. So you're telling me that there is nothing going on between you and Chandler.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sweetie, it's be gonna okay, all right. It's a wedding, generally people focus on the bride.",
+      "characters": [
+        "Ross",
+        "Peter Becker",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, face it, my father is not going to pay for the build-in barbecue and believe me you can kiss you gazebo goodbye. Now I might be able to get you the new lawn.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Director",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

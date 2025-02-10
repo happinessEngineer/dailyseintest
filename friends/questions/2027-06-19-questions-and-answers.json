@@ -1,0 +1,106 @@
+{
+  "gameNumber": 878,
+  "date": "2027-06-19",
+  "questions": [
+    {
+      "quote": "Okay, uh Pheebs, quick. Look! This is for the babies to look at someday, so is-is there anything you want to say? Y'know before it all starts?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well if you like, we can include your names in our newsletter.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Richard Burke",
+        "Charity Guy"
+      ],
+      "correctAnswer": "Charity Guy"
+    },
+    {
+      "quote": "That is so cruel! Why? Why would a parent name their child Bethel?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know, y'know I'm lookin' and I don't think anyone's home here. I say we just break the window, crawl through, and-and y'know explain later.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Chandler",
+        "The Director"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hello, this is Monica... Yeah??? Oh... Okay, yes, we'll be right, we'll be right down. Thank you.",
+      "characters": [
+        "Chandler",
+        "Woman",
+        "Carol",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, you guys... this is really, really important to me. And it means a lot if you could try to get on board.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No I don't have a ring! You go get her Chandler. And can I give you a piece of advice? If you do get her, don't let her go. Trust me.",
+      "characters": [
+        "#ALL#",
+        "Richard Burke",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "I'm sorry Ray-ray. I mean if I thought it happened I would say it. Maybe I passed out and you did stuff to me while I was sleeping.",
+      "characters": [
+        "Melissa Warburton",
+        "Monica",
+        "Phoebe Abbott",
+        "Rachel"
+      ],
+      "correctAnswer": "Melissa Warburton"
+    },
+    {
+      "quote": "Umm, Rachel and I were just discussing it and she had some very interesting insights.",
+      "characters": [
+        "Mike Hannigan",
+        "The Doctor",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know. I mean, I guess having sex in front of a baby isn't so...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

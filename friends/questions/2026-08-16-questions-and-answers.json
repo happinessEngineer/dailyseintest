@@ -1,0 +1,106 @@
+{
+  "gameNumber": 571,
+  "date": "2026-08-16",
+  "questions": [
+    {
+      "quote": "Oh, yeah, well I already did that! They said they're gonna look into it right after they solved all the murders.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, you called me that before so I-I took the liberty of fashioning a star out of aluminum foil. Now, no pressure, you like my cookies, you give me the star.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "As my lawfully wedded wife, in sickness and in health, till death parts us.",
+      "characters": [
+        "Minister",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Minister"
+    },
+    {
+      "quote": "Ok well, thanks, you won't regret it. I'll see you tomorrow .",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Erica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ethan"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "We're now in the ceremony, Monica is about to say, \"I do\" when her drunk uncle starts yelling. What do you do? Go!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Huh, I don't know what to pick. Am I more thankful for my divorce or my eviction? Hmm.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "At least I know she's not going out with me to get into R rated movies.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I just got off the Internet! Man, there is a lot of porn out there!",
+      "characters": [
+        "Gavin Mitchell",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh Joey, Joey! But still, I mean, it seems like you guys are having a great time together.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

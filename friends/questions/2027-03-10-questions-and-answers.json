@@ -1,0 +1,106 @@
+{
+  "gameNumber": 777,
+  "date": "2027-03-10",
+  "questions": [
+    {
+      "quote": "That is so weird, because every time I go to the dentist, I look down the hygienist's blouse.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, oh, OK, so everyone, pretend like I'm telling you a story, OK. And, and it's really funny. So everyone just laugh, now.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "If the place you are referring too is being in love, then she is in the same place as me because I am not in that place!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Good, good. Listen, heh, I dunno what Shelley told you about me, but, uh... I'm not.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I should know that. Let's see, just one moment please. Umm, here we are, a Wicked Wango card determines whether you go higher or lower.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I know, I know. And when they moved back in together, I figured y'know, that's where things were headed.",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hmm-Hmm-Hmm. Me, neither. I've had a really good time too, you know.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, so, he had a really funny hat-I don't want to talk about it.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Anyway, she burned all of my clothes. I got away with two things. This suit and what turned out to be a skirt.",
+      "characters": [
+        "Joshua Burgin",
+        "Joey",
+        "Monica",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Oh-ho-ho-ho-no! No! No switching! No sharing, and don't come crying to me! Ha-ha-ha! I may just sit here and have my cake all day! Just sit here in the hallway and eat my...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

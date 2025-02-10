@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1043,
+  "date": "2027-12-01",
+  "questions": [
+    {
+      "quote": "Don't do this to me, again. You'd know I'd stay here in a minute, but I'd really miss so much work, they'll fire me.",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Okay! I was thinking if it's a girl, how about Sandrine? It's French.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You-you're gonna get married?! I mean... We're gonna be brothers-in-law!",
+      "characters": [
+        "Chandler",
+        "Sandy",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "My specimen is in the room and I just want to thank whoever knocked on the door while I was in there. Really helped speed the process along! Janice! You're not... gone?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "The Cooking Teacher"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, you need something to make this day special? Hello! You-you-you have the most special thing of all! You are marrying the woman you love.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Carol",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I'm sorry. Of course I mean that. Interesting idea, umm, talk about it, but no.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm telling you! Oh, okay! This is the part of the musical where there'd be a really good convincing song. \"Bam-bam, don't take no for an answer. Bam-bam, don't let love fly away. Bam-bam-bam-bam...\"",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Bitsy Hannigan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, uh, hey Rach. I uh, I was just coming over here to uh... Oh wait, I don't have to lie to you, you don't live here anymore. Uh, I'm eating their food. What are you doing?",
+      "characters": [
+        "Joey",
+        "Doug",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my-Come here! Come here! It's okay. Everything's gonna be okay.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You mean that Portuguese couple? Yeah, like you wouldn't have done it.",
+      "characters": [
+        "Chandler",
+        "Lydia",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

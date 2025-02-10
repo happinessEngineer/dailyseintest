@@ -1,0 +1,106 @@
+{
+  "gameNumber": 912,
+  "date": "2027-07-23",
+  "questions": [
+    {
+      "quote": "It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Chandler",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Oh yeah. If you ah, move your hamper, you see what color the tile used to be. Yeah.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I'm sorry, am I getting in the way of all the room switching fun?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, we have a lot of options here, a number of prototypes for you to try on.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh-huh. Now you can turn around or you can go in there and rip the Band-Aid off. What to you want to do?",
+      "characters": [
+        "Phoebe",
+        "Leonard Green",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "But umm, you're right. I think that a person should know where they come from. Wh-which is why I ah, ahh, okay. I'm your mother.",
+      "characters": [
+        "Joey",
+        "Phoebe Abbott",
+        "David",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "You guys, I'm doing the best I can, anyone else is welcome to try.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's quite all right, but I feel obligated to tell you that this meeting is being videotaped.",
+      "characters": [
+        "Mr. Zelner",
+        "Rachel",
+        "Woman",
+        "Monica"
+      ],
+      "correctAnswer": "Mr. Zelner"
+    },
+    {
+      "quote": "Yeah, just some 9-year-old Filipino kids who worked their fingers bloody for 12 cents an hour. That didn't happen, I made that up!",
+      "characters": [
+        "Rachel",
+        "Luisa Gianetti",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, yeah, no it's OK 'cause, I mean, I know he's there, so, that's enough for now.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

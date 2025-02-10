@@ -1,0 +1,106 @@
+{
+  "gameNumber": 520,
+  "date": "2026-06-26",
+  "questions": [
+    {
+      "quote": "All right they got water, orange juice, and what looks like cider.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, you didn't expect her to live there with a baby did you?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Seven years. I mean we've been together seven years, she's the only woman who's ever loved me, and the only woman I've-I've ever....",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah! Well uh-uh, t-take it downstairs, y'know give it a test ride.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! Ooh, we could teach them to sing, and we can be like the Von Trapp family! Only without the Nazis. Although that sounds kinda dull.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh y'know what, girls don't like it when I start talking about science.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hum, so, I started to say you something earlier, hum... There was another reason I realized it was time to end it with Joey. I kind of realized I... was starting to have feelings... for someone else.",
+      "characters": [
+        "Charlie Wheeler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "...I may have only been in therapy for three weeks now dear but...",
+      "characters": [
+        "Janice",
+        "Sandra Green",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "I'm not funny either. So, if you were thinking, \"well, he's not that good-looking, but maybe we'll have some laughs\"... That ain't gonna happen.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Teacher",
+        "Steve"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "And my second grade teacher was Ms. Thomas, and my first grade teacher was Mrs. Cobb.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Julie"
+      ],
+      "correctAnswer": "Julie"
+    }
+  ]
+}

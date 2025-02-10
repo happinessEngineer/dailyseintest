@@ -1,0 +1,106 @@
+{
+  "gameNumber": 374,
+  "date": "2026-01-31",
+  "questions": [
+    {
+      "quote": "All right, put your 20 bucks down. First one to find the tasty treat wins. Okay?",
+      "characters": [
+        "Chandler",
+        "Phoebe Abbott",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I guess I just never really cried. Y'know? I'm not a crying kind of guy.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, welcome to the Winner Circle. Joey and Gene, you guys ready?",
+      "characters": [
+        "Donny Osmond",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Donny Osmond"
+    },
+    {
+      "quote": "Hello. Hello. How do you do? How do you do? Very nice to meet you. Darling it's the Gellers. Darling, it's the Gellers. She's very self-absorbed, you know. I should never have married her.",
+      "characters": [
+        "Chandler",
+        "Stephen Waltham",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "Acting! Chandler, this is my job! I'm-I'm playing a part in a play! How can you not trust me?!",
+      "characters": [
+        "Kathy",
+        "Mike Hannigan",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "So how come Richard's selling the place? Went bankrupt? Medical malpractice? Choked on his own moustache?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Joanna",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "...and I was wondering if... you know, maybe one of you guys...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "I'm taking my time, alright? I'm laying the groundwork. Yeah. I mean, every day I get just a little bit closer to...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, it's not that easy. She said she wanted to marry me. I don't want to hurt her.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Huh, what's fish hooking... Thanks man, that would have been really hard to describe. What is that taste?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Sarah"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

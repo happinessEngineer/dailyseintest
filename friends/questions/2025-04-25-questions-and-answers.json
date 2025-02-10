@@ -1,0 +1,106 @@
+{
+  "gameNumber": 93,
+  "date": "2025-04-25",
+  "questions": [
+    {
+      "quote": "When I take a shower, she leaves me little notes on the mirror.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well the doctor says it takes a couple days, but my body's always been a little faster than Western medicine.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, just, okay, look I'm going. Um, come on. Op, op, behind the pillar, which way am I gonna go?",
+      "characters": [
+        "Cecilia",
+        "Leonard Green",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no, not a party. Just a surprise gathering of some people Rachel knows. Um, this is Phoebe and Chandler and Joey.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Cecilia"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh..Go..Oh..and I told my boss that someone made out with Ralph Lauren. If she finds out that I lied to her, she is going to hate me even more. Phoebe!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "The Director",
+        "David"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh sure-And hey, don't get me wrong, I am so happy for you guys. I just...I miss...hanging out...just-just us, y'know?",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, let's see... Oh, the cranberry sauce, it is easy to make and no-one really cares about it.",
+      "characters": [
+        "Ross",
+        "Parker",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't want to be single, okay? I just... I just- I just wanna be married again!",
+      "characters": [
+        "Ross",
+        "Director",
+        "Dr. Franzblau",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, just a little in high school, but then I really got into it in college. I mean that's-that's when I really found my sound.",
+      "characters": [
+        "Ross",
+        "Mr. Zelner",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know what? It seems like all of the sudden; so much has happened.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

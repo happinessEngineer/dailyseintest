@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1160,
+  "date": "2028-03-27",
+  "questions": [
+    {
+      "quote": "Well, I guess we've established who's staying here with Monica...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, well you'd be better if you just loosened your hips a little.",
+      "characters": [
+        "Rachel",
+        "Janine Lecroix",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "All right, it's cool you can stay here. My parents won't mind.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. But a part of me also can't wait 'til it's over. Chandler and I have this pact not to have sex again until the wedding.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Wayne",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well why not?! She'll-she'll love it! It's the real thing! I got it at Pottery Barn.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, anyway, it was a good thing Phoebe knew the knew him, because I was about to do some serious damage!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Excellent! Stick it in the ice bucket, the phone is off the hook, and in the interest of powering through ...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't have anything like that, but let me go see if Rachel does.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I like waking up with you too. Oh! It's such a beautiful morning. Oh, I can stay here all day.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now, come on, come on, Steve. There must be something that you like about yourself.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

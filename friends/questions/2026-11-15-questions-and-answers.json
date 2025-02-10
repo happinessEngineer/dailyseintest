@@ -1,0 +1,106 @@
+{
+  "gameNumber": 662,
+  "date": "2026-11-15",
+  "questions": [
+    {
+      "quote": "This may surprise you, but re-hiring fired employees, is not my main job.",
+      "characters": [
+        "Mr. Zelner",
+        "Steve",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Mr. Zelner"
+    },
+    {
+      "quote": "Oh, I'm so glad you called. I feel like it's always me calling you. So, what's up? Is everything okay with Phoebe?",
+      "characters": [
+        "Fake Monica",
+        "Tim",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I know! Now look, there's only one problem though. There's only room for one, so I guess one of you will have to stay at Joey's.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ah, it's not so much you, you were fat, you had your own problems. But you? What a bitch!",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Luisa Gianetti",
+        "Rachel"
+      ],
+      "correctAnswer": "Luisa Gianetti"
+    },
+    {
+      "quote": "No. So what. So what if we get beaten up, maybe that's just something every man has to go through once in his life. Ya know, like a, like a right of passage or somethin'.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I wish there was a job where I could wear this all the time. Maybe someday, there will be.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, it's a tattoo! That's weird, Phoebe doesn't... Wait that's Ursula! That's not Phoebe that is Ursula!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Tell my son that I love him. Excellent! Well, okay, I gotta have some more fun!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no-no, I'm serious. You don't smell it? Something's on fire.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

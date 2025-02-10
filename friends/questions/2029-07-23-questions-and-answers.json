@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1643,
+  "date": "2029-07-23",
+  "questions": [
+    {
+      "quote": "Joey, what are you doing? You promised Phoebe you wouldn't eat meat until she has the babies!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I, I don't know, um, do you think you're cute? OK, we're kinda gettin' off the track here. Um, I was supposed to come here and tell you my friend thinks you're cute. So what should I tell her?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Roy"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay Ben, why don't you come open some more presents, and Santa, the Armadillo, and I have a little talk in the kitchen? There's a sentence, I never thought I'd say.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Listen, Joey, I know what he did was wrong but don't you think you could at least hear the guy out?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I just thought we could go out to dinner, and then maybe bring her back to my place and I'd introduce her to my monkey.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Where'd you get too? We lost you after you opened up all the presents.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Maybe I could give thanks by taking my Playstation over to my new apartment.",
+      "characters": [
+        "Chandler",
+        "Amy Green",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, Rach. How was it with your friends? Okay! How would you like some Tiki Death Punch?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

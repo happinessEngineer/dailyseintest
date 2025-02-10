@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1049,
+  "date": "2027-12-07",
+  "questions": [
+    {
+      "quote": "Since we've been going out, I think I've mentioned his name twice!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, that's Frank Jr. Jr. pulling the tampons out of the lady's purse. And that's Chandler climbing on Chandler, and that's Leslie throwing bagels at him.",
+      "characters": [
+        "Joey",
+        "Dina",
+        "Monica",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Oh, you're definately not. I haven't cried like that in years.",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, well um, you know, these movies are offensive and uh, degrading to women and females. And uh, and the lighting's always unflattering. And, Monica help me out here.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Teacher",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey Rach, come on! We're gonna be late for the eye doctor appointment!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I noticed you were enjoying that Ravioli with a beautiful set of teeth. Did you have braces as a child?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hold on a second, alright? Just think about what you went through the last time you quit.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey. So um, I was thinking that maybe we should start dividing up our stuff.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, well, I guess I have forgotten about Joey and clearly you've forgotten about Chandler!",
+      "characters": [
+        "Dr. Franzblau",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "One Mississipi, two Mississipi, Three Mis... WAIT! WAIT! I'm not-I've not finished counting!!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Mike Hannigan",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 293,
+  "date": "2025-11-11",
+  "questions": [
+    {
+      "quote": "I couldn't help it! When a fist comes at your face, you duck! Look!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I'm sorry, no. He did ask me one. Uhm... How do you spell Mboscodictiosaur?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Duncan",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, at least you have a wife! I-I keep getting divorces and knockin' people up! And I'm dressed as doody.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, you're so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Lauren"
+      ],
+      "correctAnswer": "Lauren"
+    },
+    {
+      "quote": "Oh, that's what she meant! You know, if they're gonna shorten it, they should call it the MUSE! You know, short for museum, and avoid all the confusion!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh yes. Yes. Yeah-no. She did. She left you umm, this lipstick.",
+      "characters": [
+        "Joey",
+        "Dr. Ledbetter",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uhh, well, right now I'm in between things. You know how it is. One day you're processing, the next day you're not so much... processing any more.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. Listen uh, I'd prefer it if you didn't call me Joey. Since I don't know anyone here, I thought it'd be cool to try out a cool work nickname.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Doug",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "He's gonna go up to the counter with Citizen Kane, Vertigo, and Clockwork Orgy. This is nice.",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Richard Burke"
+    }
+  ]
+}

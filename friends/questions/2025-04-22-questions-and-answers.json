@@ -1,0 +1,106 @@
+{
+  "gameNumber": 90,
+  "date": "2025-04-22",
+  "questions": [
+    {
+      "quote": "Ok! Can't believe I'm risking this again, but you're on! All right Joe, you remember the rules! Heads I win, tails you lose.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Larry",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, y'know what? I'll take it myself, thank you! All right Rach, let's go!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, who's gonna eat all our food, and tie up our phone lines, and - is that my bra? What the hell you doin' with my bra?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, ahh, go to the window. I'm wanna run down to the truck and show you something.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Mona",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Did you talk about the night of five times? Do you tell people about the night of five times?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "...which brings us back, of course, to Greely's theory of dominance. Okay, that-that's all for today. Oh, uh does anyone know where the Freeman building is?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross is coming over. I think now would be a really good time to talk to him.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "She is not Rachem. What the hell's a Rachem? Is that some stupid paleontology word that I wouldn't know because I'm just a waitress.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Do you want to go to the bathroom, or do you wanna play poker?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Grandmother",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, Carol, I need you to keep pushing. I need Excuse me, could I have this?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Dr. Franzblau"
+      ],
+      "correctAnswer": "Dr. Franzblau"
+    }
+  ]
+}

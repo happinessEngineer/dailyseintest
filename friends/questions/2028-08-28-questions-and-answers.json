@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1314,
+  "date": "2028-08-28",
+  "questions": [
+    {
+      "quote": "So? Sure! But it-it wouldn't be anything romantic. And I'm-I'm dating Mona-Damnit Mona! I was supposed to meet her like an hour ago! What is wrong with me?!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh good. Good, because I'm sure this interview is gonna last a couple of weeks.",
+      "characters": [
+        "Chandler",
+        "Estelle Leonard",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! No! No! No it's not! No it's not! Come on! Phoebe, ours is totally different! I mean we don't have the... We don't have the...that lamp! And-and that screen is y'know, on the other side.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Agency Guy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, wow! I'm so sorry, ok? I promise, we'll do better next time!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Sure, yeah. I don't have time to say thank you because I really gotta go.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Jack Geller",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Coming through! Oh! Coming through! Oh! Hello! Hi! No! Right! Coming through!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, it was pretty traumatic. I was outside St. Marc's Comics... you know, I-I-I was just there minding my own business, you know, seeing what kinda trouble spiderman got into that week-",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And hey! Just so you know, it's not that common! It doesn't happen to every guy! And it is a big deal!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, I may not have treated your friends well in the past, but I have grown up a lot, really. Honest, Rach?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! No-no-no-no, you can't take him away from me! I got a great partner to pick up girls with! Finally!!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Leonard Green",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

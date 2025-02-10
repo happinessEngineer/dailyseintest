@@ -1,0 +1,106 @@
+{
+  "gameNumber": 961,
+  "date": "2027-09-10",
+  "questions": [
+    {
+      "quote": "I just said that so you wouldn't let Ben do it! Look Ross, if anyone should step aside it should be Ben!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well then we'd be in a lot of trouble, you don't know where any countries are. Okay. Uh, say would you umm... Would you mind checking again to see if any umm, private rooms may have opened up?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, no, you're right, I know, you're right, I'm not, I'm not gonna do it. All right, thanks guys.",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know what that's like?! Up until I was 25 I thought the only response to, \"I love you,\" was, \"Oh crap!\"",
+      "characters": [
+        "Monica",
+        "Jack Geller",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Did-did you come up here to work on that term paper or something?",
+      "characters": [
+        "Joey",
+        "Eric",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Tell him that you haven't seen your wife in a long time. Tell him that having a long-distance relationship is really difficult. Tell him that what little time we have is precious.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What, he gave you his home number? As in like, to, to his home?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I know! Evil! And... and... and... I like Mike so much, you know. It's just going really well. Oh my God!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, she likes that. Yeah. Faking sleep doesn't work either, I can't tell you how many mornings I woke up with her...",
+      "characters": [
+        "Paul Stevens",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So, what? Monica, we have the winning ticket! My psychic said I was gonna win, remember?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Teacher",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

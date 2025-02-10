@@ -1,0 +1,106 @@
+{
+  "gameNumber": 529,
+  "date": "2026-07-05",
+  "questions": [
+    {
+      "quote": "Okay, Phoebe, this Dr. Oberman. He has no strong feelings about Fonzie or any of the Happy Days gang.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, wouldn't be cool if our duck and chick had a little baby? We could call it Chuck.",
+      "characters": [
+        "Joey",
+        "Mark Robinson",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, I understand why Superman is here, but why is there a porcupine at the Easter Bunny's funeral?",
+      "characters": [
+        "Richard Burke",
+        "Phoebe",
+        "Joey",
+        "Mona"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah. But y'know we were thinking about you, y'know we ordered the Joey Special.",
+      "characters": [
+        "Russell",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, you are so much the smitten kitten. You should ask him out.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh, de-clawing cats. Hey, tell ya what. Let me walk you home. We'll stop by every news stand and burn every copy of their Times and the Post.",
+      "characters": [
+        "Mark Robinson",
+        "Joey",
+        "David",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, what did you think, that-that elves came in and fixed it?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",
+      "characters": [
+        "Janine Lecroix",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She's right, it's Jill. Jill Goodacre. Oh my God. I am trapped in an ATM vestibule with Jill Goodacre! Is it a vestibule? Maybe it's an atrium. Oh, yeah, that is the part to focus on, you idiot!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 985,
+  "date": "2027-10-04",
+  "questions": [
+    {
+      "quote": "I don't know. I could talk to her boss. Yeah! I met him at that Christmas party. We really hit it off.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference...",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Chandler",
+        "Eric",
+        "Jill Green"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You're welcome, Ben. Merry Christmas, ooh, and Happy Hanukkah!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, and how about this? There is an anthropologist at school who totally came on to me during the inter-departmentalPotluck dinner.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. I realized it about a half-hour ago but I didn't want to say anything 'cause I didn't want to jinx it.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, yeah... we could all sleep together and then one of us could get amnesia.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What can I do? Look, I don't want to do anything to screw it up with Ursula.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God! How many of these things did you have? These are pure vodka.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What do you got down there, Vic? What do you got under that tarp?",
+      "characters": [
+        "Lauren",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Lauren"
+    },
+    {
+      "quote": "Oh what?! Is she gonna cancel on me again?! How can she do this? Doesn't she know it's our anniversary?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

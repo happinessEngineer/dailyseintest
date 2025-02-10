@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1648,
+  "date": "2029-07-28",
+  "questions": [
+    {
+      "quote": "OK, we done with the chit-chat? Are we ready to play some serious poker?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Alright, I can't, I can't wait that long. You have to do something-knock that door down!",
+      "characters": [
+        "Chandler",
+        "Joanna",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, the end table is wrong, The couch looks bizarre and don't even get me started on the refrigerator magnets.",
+      "characters": [
+        "Monica",
+        "Doug",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, okay, okay. Y'know what, this was just really expensive. And I'll take- this was a gift.",
+      "characters": [
+        "David",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Stop talking, stop talking now. Let me just get this straight. You're actually stealing my hat?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Director",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Right, I mean, come on, I'm sure that if you had a funeral or a memorial service, tons of people would come.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wh-What are you talking about? It wasn't a girl. It was this huge dude.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Groomsman, groomsman, why are you just standing there, where is your bridesmaid? We've got a broken arrow. Bridesmaid down! Oh, that's me.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look at you! What-You're-you're this big executive! You are much more capable than you give yourself credit for. I-I have no doubt you're gonna be an incredible mother.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh. Um-hmm. But y'know, she choose to find me. I mean, I have to respect her decision. Right?",
+      "characters": [
+        "Chloe",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

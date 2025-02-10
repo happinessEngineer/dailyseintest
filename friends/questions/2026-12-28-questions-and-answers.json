@@ -1,0 +1,106 @@
+{
+  "gameNumber": 705,
+  "date": "2026-12-28",
+  "questions": [
+    {
+      "quote": "And remember whatever comes up first. Okay? And hurry, because ...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape.",
+      "characters": [
+        "Charlie Wheeler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Good morning, Tiger! I'm making you a nice big breakfast so you can keep up your strength for tonight. You're gonna get me good and pregnant.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know. And she's so sweet. I just wanna feed her grapes and brush her hair.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! It's my first birthday with a boyfriend, and he has to work. Uch, I get mad at him, but I think it's a little to soon to show my true colors.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, you guys, with this joke. I gotta say, I know I cracked up, but I'm not even sure I got it.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Gunther",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Did he give you that whole \"You're-not-up-to-this\" thing again?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh before I forget, are you coming to Mike's piano bar tonight?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I tried to call you from the coffee shop, and there was no answer.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I see. I thought you just really, really liked your new couch.",
+      "characters": [
+        "Ross",
+        "Cecilia",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

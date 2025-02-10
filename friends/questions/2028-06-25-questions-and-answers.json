@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1250,
+  "date": "2028-06-25",
+  "questions": [
+    {
+      "quote": "Most people don't like their jobs, I love my job! I have not been working for three hours and I'm already going crazy. I miss Joan.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Amy Green"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I'm sorry if my friends aren't as sophisticated as yours.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Can you believe this. In, like, two hours I'm gonna have a dad. Eeeshk.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I was going to stick it in the ATM, but now I think I'll show the sexy teller that I am a published writer.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Receptionist",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no. He said \"When are you gonna grow up and start being a mom?\"",
+      "characters": [
+        "Joey",
+        "Ross",
+        "David",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's sweet, honey, but save something for the adoption Lady.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Doctor"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Emmm. Now, instead of the vegetables, is there anyway I can substitute the three-pound lobster?",
+      "characters": [
+        "Rachel",
+        "The Casting Director",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! We were not on a-Okay. That's fine! Fine. Y'know what Ben? One day when you are a lot older I am going to tell you that entire story over a pitcher of real margaritas, okay?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "La-la-la-la-la-la-la-la-la-la! Okay, okay, yeah, I would have been devastated but, I would still want to be with you. Because it's, I mean it's you.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So how are things going with you two? Is she becoming your special someone?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

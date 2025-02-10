@@ -1,0 +1,106 @@
+{
+  "gameNumber": 789,
+  "date": "2027-03-22",
+  "questions": [
+    {
+      "quote": "All right, all right, well you just blew your chances at dating Bob!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "He's right, enough, already. What is the big deal about today? So you slept with her for the first time, so what? You slept with her for seven years after that.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Noooo! Ok, maybe if we just break it down. Ok, let's try at one syllable at a time. Ok? So repeat after me. \"je\".",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Guys? I've got something important to tell ya. Guys? Guys?! I'm gonna ask Monica to marry me.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoa, whoa, but then the back of the couch won't line up with he back of the carpet.",
+      "characters": [
+        "Phoebe",
+        "Erica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, what am I going to tell Monica? She wants to wear them tonight!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "...and these come in the shapes of your favourite Christmas characters, Santa, Rudolph, and Baby Jesus.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And hats off to Phoebe. Quite a competitor. And might I say your breasts are still showing.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right then, we'll have a definite answer for you on Monday, but I think I can say with some confidence, you'll fit in well here.",
+      "characters": [
+        "Cecilia",
+        "Rachel",
+        "The Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "The Interviewer"
+    }
+  ]
+}

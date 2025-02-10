@@ -1,0 +1,106 @@
+{
+  "gameNumber": 434,
+  "date": "2026-04-01",
+  "questions": [
+    {
+      "quote": "I can't believe you don't want to know. I mean, I couldn't not know, I mean, if, if the doctor knows, and Carol knows, and Susan knows....",
+      "characters": [
+        "Chandler",
+        "Roy",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Danny? You know Rachel? She's nice. She's not bad to look at, right?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Man, don't be surprised if her hands and her feet get bigger too!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right. Hey Rach, while you're in there, throw something on Alicia Mae.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "David",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. No! It's just y'know first, I wanna take off all my clothes and have you rub lotion on me.",
+      "characters": [
+        "Phoebe",
+        "Janine Lecroix",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's incredible, I mean one minute she's inside you and then 47 hours later here she is.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We are four short of a bush-o . God I feel so alive, I love being in the country!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "F.Y.I.. I've decided to pay a professional musician to play in here on Sunday afternoons. Her name is Stephanie... something. She's supposed to be very good.",
+      "characters": [
+        "Terry",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Terry"
+    },
+    {
+      "quote": "Aunt Syl, I did this as a favor, I am not a caterer. What do you want me to do with a dozen lasagnas? Nice talk, Aunt Syl. You kiss Uncle Freddie with that mouth?",
+      "characters": [
+        "Joey",
+        "Frank Buffay Jr.",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I kinda wanted to sell the cookies. The girl who sells the most wins a trip to Spacecamp, and gets to sit in a real space shuttle.",
+      "characters": [
+        "Sarah Tuttle",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Sarah Tuttle"
+    }
+  ]
+}

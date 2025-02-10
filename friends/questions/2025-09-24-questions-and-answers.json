@@ -1,0 +1,106 @@
+{
+  "gameNumber": 245,
+  "date": "2025-09-24",
+  "questions": [
+    {
+      "quote": "Gavin, I just wanted to say thank you again for watching Emma yesterday during the presentation. I really owe you an appology.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, well, that shouldnt be so hard, now that youre dating. \"Sweetheart, youre fired, but how bout a quickie before I go to work?\"",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "At the uh, supermarket, in the uh, ethnic food section. I helped him pick out a chorizo.",
+      "characters": [
+        "Rachel",
+        "Eddie Menuek",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "Oh good, uh you're here. Uh Pheebs? Listen uh sit down. I-I got something I want to say.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I want you to like her! But if that's too damned difficult for you, then the least you can do is pretend.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Secret? Married people aren't supposed to have secrets between one another. We have too much love and respect for one another.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But, they're across the hall! I mean that's two doors away, it would take them a long time to peck their way back over here.",
+      "characters": [
+        "Rachel",
+        "Joshua Burgin",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "For what it's worth I did appreciate you standing up for me. It felt really nice. It kinda made me like you even more.",
+      "characters": [
+        "Elizabeth Stevens",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "Well, Kathy gets half-naked and simulates sex with a real good lookin' guy.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Cecilia",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, she's not going to find them lying in the grass like that.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1233,
+  "date": "2028-06-08",
+  "questions": [
+    {
+      "quote": "Listen, in the middle of everything if I scream the word, \"Yippee!\" just ignore me.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Erica Ford",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, okay see I thought, I thought you meant how much was it when it was new, y'know like back then.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Amy Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Pheebs, if I had never met him this never would have happened!",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Gunther, Gunther, please, I've worked here for two and a half years, I know the empty trays go over there.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uhh, let's just stay clear of 'I'm the guy that's doing you daughter' and you should be ok.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, well you should! I mean, nude pictures of Anna Kournikova? I mean, she's never even won a major tournament!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, people missed you in there. And in fact, there was actually a request for \"Smelly Cat\".",
+      "characters": [
+        "Rachel",
+        "Susan Bunch",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And the advances in collating in the past five years, I mean we just got in an X-5000, y'know. The X-5000 makes the X-50 look like a T-71.",
+      "characters": [
+        "Chloe",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chloe"
+    },
+    {
+      "quote": "Julie! Julie, isn't that great? I mean, isn't that just kick- you-in-the-crotch, spit-on-your-neck fantastic?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Over the line?! You-you're-you're so far past the line, that you-you can't even see the line! The line is a dot to you!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Helena",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

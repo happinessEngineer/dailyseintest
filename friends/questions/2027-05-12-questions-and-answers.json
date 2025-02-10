@@ -1,0 +1,106 @@
+{
+  "gameNumber": 840,
+  "date": "2027-05-12",
+  "questions": [
+    {
+      "quote": "Why would I want another apartment, huh? I've already got an apartment that I love.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Mona"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I was just coming over here to apologize for my behavior! I'd really like it if we could be friends.",
+      "characters": [
+        "Monica",
+        "Janine Lecroix",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "Oh my God. Can you imagine if there was?! I mean, what would happen exactly.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know what I mean. I mean like the sweetest guy. Joey, you're just so, you're so, so...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Kate Miller"
+    },
+    {
+      "quote": "Um, absolutely. Uh, how 'bout tomorrow afternoon? Do you know uh, Central Perk in the Village, say, five-ish?",
+      "characters": [
+        "Chandler",
+        "Julie",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I got one. Which one of us do you think will be the last to get married?",
+      "characters": [
+        "Leonard Green",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, what if the person who adopts the other one is horrible?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know, I know. I'm just so tired of-of missing him. I'm tired of wondering why hasn't he called. Why hasn't he called!",
+      "characters": [
+        "David",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, last night after you guys broke up... so sorry to hear about that, by the way... Well, Charlie and I were talking, and..., well...",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Doug"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I mean, the giant is like five years younger than me, y'know, you think I'll ever get there?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "The Salesman",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

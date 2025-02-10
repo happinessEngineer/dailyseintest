@@ -1,0 +1,106 @@
+{
+  "gameNumber": 225,
+  "date": "2025-09-04",
+  "questions": [
+    {
+      "quote": "Ah, it's been so long, so long. I can't believe you're still doing this!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, that's Parent's Day, first grade. That's me with the janitor Martin.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't think it would have sold a million copies but it would have made a nice gift for you.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh no this is devastating! My faith is shaken. I'm so glad I have the new chair to get my through this difficult time in my life.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I see. Well, I wish you both a lifetime of happiness. So you're bald?",
+      "characters": [
+        "Ross",
+        "Helena",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "She's going in. Wait! He's going in! He's going in!! The door's closed! I, I can't see anything but the door closed!!",
+      "characters": [
+        "Phoebe",
+        "Amanda Buffamonteezi",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you, wait no, my Mother didn't want us to be together, but the worst thing she ever did was tie me to the porch.",
+      "characters": [
+        "Woman",
+        "Phoebe",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "No! No! It's-it's uh a real thing! Anyone can get ordained on the Internet and perform like weddings and stuff!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh yes! Just had me a little nubbin-ectomy. Yep! Two nipples, no waiting.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Mr. Zelner",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, great, because I gotta get out of here, the smell of beets is killing me!",
+      "characters": [
+        "Erica Ford",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

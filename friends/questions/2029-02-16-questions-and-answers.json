@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1486,
+  "date": "2029-02-16",
+  "questions": [
+    {
+      "quote": "Okay. And it's not just chicks y'know? It's all kinds of other animals!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel, say that I'm friends with her, we spend some time together. Is that so terrible?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thank you. The readers at Soap Opera Digest will be happy to hear that.",
+      "characters": [
+        "Chandler",
+        "The Interviewer",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "I didn't wanna leave him alone. Alright? We- we had our first fight this morning. I think it has to do with my working late. I said some things that I didn't mean, and he- he threw some faeces...",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know why Joey had to kiss her! I mean, of all the girls at the party, GOD!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rach, you're killin' us here, will ya serve the dessert already? Those drunken dancers are waiting!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Cecilia",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ooh, sorry little Mr. Chic-A-Dee, sorry you went doody in my hand! Well, I guess we're not going out anymore. Whaa!!!",
+      "characters": [
+        "Tommy",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Tommy"
+    },
+    {
+      "quote": "Honey, you are not an oat. I, I mean I don't know, I, I guess I'm just not an oat guy. I've only slept with women I've been in love with.",
+      "characters": [
+        "Chandler",
+        "Cop",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Ok ok ok ok. Monica, we'll bring him, but only if he takes the Jaguar.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Jade",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, now just remember everything I taught you and you'll be fine. Okay? Here we go. Ready...Set...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

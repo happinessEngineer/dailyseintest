@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1341,
+  "date": "2028-09-24",
+  "questions": [
+    {
+      "quote": "Oh, she doesn't come down here any more. You can find her up on ten.",
+      "characters": [
+        "Joey",
+        "Kim",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "Yes, but the batteries... Chandler: Thank you, thank you very much!",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Monica, why? Why would I ever want to take away from your night?",
+      "characters": [
+        "Chandler",
+        "Teacher",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes. Uh, yes, I did. That was my friend, Eddie Moskowitz. Yeah, he likes it. Reaffirms his faith.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait a minute, wait a minute, you don't like the guy Rachel's dating? Well, that's odd.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Erica Ford"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wh-wh-why, wh-why, why, why was there kissing!? There should be no kissing!!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, okay, I made a touchdown. It was my first touchdown. So?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Danny",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! No! Phoebe, come on! I don't want to switch! Please come on! I can throw wet paper towels here!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, but I wanted you to want to live with me, but okay, if you're having so much fun over here...",
+      "characters": [
+        "Susan Bunch",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, you know I got a question for ya. Just a little thing, no pressure.",
+      "characters": [
+        "Mr. Ratstatter",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

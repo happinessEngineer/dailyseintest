@@ -1,0 +1,106 @@
+{
+  "gameNumber": 49,
+  "date": "2025-03-12",
+  "questions": [
+    {
+      "quote": "I just, I just have this really strong feeling that this cat is my Mother.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's impossible to find a good doctor. I mean, how do you know the good ones from the ones who are gonna push their penis against your knee?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No it's just tiring having to figure out the age at which all my grandparents died. I'll see you tomorrow.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Duncan",
+        "Zack"
+      ],
+      "correctAnswer": "Zack"
+    },
+    {
+      "quote": "Hey, this isn't like swimming after you eat, pick up the phone!!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Janice",
+        "Mona"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know. I guess there's just always been this distance y'know-I mean we both try to pretend it's not there, but it is.",
+      "characters": [
+        "David",
+        "Monica",
+        "Jason",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The blizzard. I just saw on the news, it's like the worst snow storm in 20 years! They already closed all the bridges and tunnels.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. Whew, it's hot with all of this stuff on. I ah, I better not do any, I don't know, lunges.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "The Cooking Teacher"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Maybe uh, Vunda could give me her number and I can ask her to dinner sometime.",
+      "characters": [
+        "Larry",
+        "Mischa",
+        "Dr. Long",
+        "Monica"
+      ],
+      "correctAnswer": "Larry"
+    },
+    {
+      "quote": "Sorry. But I kind of have this feeling that we may have made a baby last night.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rob",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. All right uh, Alex now when Joey says his line, \"Take good care of your Momma son,\" that's your cue to cry. Got it? All right, let's do this.",
+      "characters": [
+        "The Director",
+        "Chandler",
+        "Monica",
+        "Dr. Long"
+      ],
+      "correctAnswer": "The Director"
+    }
+  ]
+}

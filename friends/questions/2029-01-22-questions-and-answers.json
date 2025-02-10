@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1461,
+  "date": "2029-01-22",
+  "questions": [
+    {
+      "quote": "Hey, I can be smooth. Listen, we're a little bit in a hurry, so, if you can get us a table a little quicker, I'd appreciate it.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I didn't know then. And how come you never said anything to me.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But what kind of a sick bastard wants to do it in front of a deer?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Barry Farber",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So, it's pretty late, you're probably uh, not still planning on. . .",
+      "characters": [
+        "Rachel",
+        "Kate Miller",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ross said my name up there, I mean, come on, I just can't pretend that didn't happen can I?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "We've been trying to get pregnant, uh pretty much ever since we got engaged, we thought we'd get a jump on things, y'know no one's getting any younger.",
+      "characters": [
+        "Alice Knight",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Alice Knight"
+    },
+    {
+      "quote": "Uh, well I can tell you why. It's, it's because of me. But, y'know what, I only did it because I love you. Okay?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, I guess. I-I... I mean, do-do you think we're ever gonna have that?",
+      "characters": [
+        "Rachel",
+        "Tim",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh Gunther! You brought candy! Thank you so much for picking this up! You are so sweet.",
+      "characters": [
+        "Charlie Wheeler",
+        "Mona",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OK, alright, last minute lesson, last minute lesson. Joey... three... eight. Eight... three. Alright babe, deal the cards.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

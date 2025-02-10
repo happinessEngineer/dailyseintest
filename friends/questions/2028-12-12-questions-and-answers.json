@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1420,
+  "date": "2028-12-12",
+  "questions": [
+    {
+      "quote": "Yeah. I guess she hasn't seen everything yet. I'll be right back, she has to go to the bathroom again. Oh, such a pretty face.",
+      "characters": [
+        "Richard Burke",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on Rach, come on. Let's see what's it like to be on a winning team for a change.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh man, they think they are so slick messing with us! But see they don't know that we know that they know! So...",
+      "characters": [
+        "Joey",
+        "Sandy",
+        "Erica",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, fine, fine, fine, fine, fine, We've got to do something about our little situation here Joey. So, this is my idea you and me spending some quality time together.",
+      "characters": [
+        "Janice",
+        "Judy Geller",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Well, this guy came by to look at the unit and-and he said he didn't think big enough to fit a grown man!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Dr. Miller",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "This is like figure skating team all over again. I mean synchronized swimming. I mean- I mean the balance beam. Help me!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! I see what happened. It's because I was trying to repel you. Right? Believe me, you'd feel a lot different if I turned it on.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh so-so you weren't trying to entice me just now with your-your nakedness?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Teacher",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Right, but, it is just me and the baby, so I'm thinkin' they can take us. And so I uh, hah-hah, I just heave it down field.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Man! He just keeps lobbing them up and I just keep knocking them right out of the park!",
+      "characters": [
+        "Gary",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

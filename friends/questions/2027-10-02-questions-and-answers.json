@@ -1,0 +1,106 @@
+{
+  "gameNumber": 983,
+  "date": "2027-10-02",
+  "questions": [
+    {
+      "quote": "Ok, ok, you know what? I think you're very funny. Kudos on that hat joke. But, come on guy just, just give him back the hat.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Director"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All I'm saying is, it's one thing being prepared for an attack against like each other; whole another story being prepared for an attack, I don't know, like a surprise!!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Gavin Mitchell",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Or clowns. Oh, oh wait. That one's definitely Ben. Remember, he had that cute little mole by his mouth.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?",
+      "characters": [
+        "Woman",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I know, yeah I know we're great but Rach no... this... this can't happen!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Sex! This is the last day I'm ovulating, and when we don't do it now, we'll have to wait till next month.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Nurse",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, I'm trying to have a private conversation! Is that okay?!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Billy",
+        "Monica"
+      ],
+      "correctAnswer": "Billy"
+    },
+    {
+      "quote": "Yes! And I know what looks sexy on guys. Please, just wear what I suggest, and she's gonna go nuts for you.",
+      "characters": [
+        "Sandra Green",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know what would be real weird? Is if you weren't there. Just say you'll think about it, okay?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, I know. It's a real mustard-tastrophe. Can you help me?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

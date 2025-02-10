@@ -1,0 +1,106 @@
+{
+  "gameNumber": 443,
+  "date": "2026-04-10",
+  "questions": [
+    {
+      "quote": "A monologue? I don't have.. I got it. Aah! so... I'm gonna take off!",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, yeah, of-of course I'm okay! What? I'm just being supportive. Supportive of you and this whole trip, and-and what-what is uh, what's this?",
+      "characters": [
+        "Ross",
+        "The Cooking Teacher",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, let's see... uhm, okay, the turkey is in the oven, the stuffing is ready...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I will wake you up in a way that's proved very popular in the past.",
+      "characters": [
+        "Charlie Wheeler",
+        "Rachel",
+        "Dr. Ledbetter",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You got it! Ok. But not on the wine that you made, ok, because I just don't want to go back to the Emergency Room.",
+      "characters": [
+        "Rachel",
+        "Richard Burke",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Should we tell Rachel there's an empty private room right next door to hers?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Eric",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wh.. what? No wait, you don't get to leave! I've got a massage client waiting outside my door any minute!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, you just wanna forget about raquetball and hang out here?",
+      "characters": [
+        "Chandler",
+        "Eddie Menuek",
+        "Joanna",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh... Oh, honey here. Take it all. Monica! We need more candy?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Receptionist"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

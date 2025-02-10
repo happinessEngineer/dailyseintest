@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1112,
+  "date": "2028-02-08",
+  "questions": [
+    {
+      "quote": "I made her. Steel drums don't really say \"elegant wedding\". Nor does Marjorie's overwhelming scent.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Right. Are you looking for Jack's parents to discuss the problems he's having with Ben? Yeah. Because I really do think the parents should sit down and have a conversation.",
+      "characters": [
+        "The Teacher",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "The Teacher"
+    },
+    {
+      "quote": "If you never smoke again I'll give you seven thousand dollars!",
+      "characters": [
+        "Joey",
+        "Fake Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, but, but I wanna be with you in spite of all those things.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What are you doing? Get back over on your side of the... Hello!! Hi, I'm Joey, we haven't met.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Alright, we don't know that it's him. I mean, it could be the football guy.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Brenda",
+        "David"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm afraid the situation is much worse than we expected. Your sister is suffering from a..subcranial hematoma. Perhaps we can discuss this over coffee.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Susie Moss",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",
+      "characters": [
+        "Rachel",
+        "Judy Geller",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Are you kidding? Okay, I'll give you a hint; I'll give you a hint.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know, of all my friends, no-one knows the crap I go through with my mom more than you.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

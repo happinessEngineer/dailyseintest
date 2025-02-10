@@ -1,0 +1,106 @@
+{
+  "gameNumber": 99,
+  "date": "2025-05-01",
+  "questions": [
+    {
+      "quote": "Yeah, I know. Well... this is probably a stupid question, seeing that you look like that, but do you have some place that you need to be right now?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Alright, I hope you realize you're not getting these underpants back.",
+      "characters": [
+        "Chandler",
+        "Ursula Buffay",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey. Look, I know you've been really depressed lately, so I brought someone over to cheer you up. Right outside this door is a real, live, furry playmate.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know, Chappy's too small to handle all this snow. Someone's gonna have to walk him down the aisle.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Mike Hannigan",
+        "Phoebe"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Dr. Drake Remoray. Days of Our Lives. Voted most datable neurosurgeon by Teen Beat.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh, if you have any questions, here's some information on Braxton-Hicks. Oh and by the way, you did the right thing by bringing her in. You're gonna make a wonderful father.",
+      "characters": [
+        "Mona",
+        "Chandler",
+        "Monica",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Dr. Long"
+    },
+    {
+      "quote": "Great! We're hangin' in the kitchen! Let's stay in the kitchen!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "David",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You're just saying that because you're my biggest fan. Joey listen, take good care of that guy, okay? He's a fan. Bye!",
+      "characters": [
+        "Phoebe",
+        "Megan Bailey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Of course, of course not. I just have to uh, go over to the place where I-I made it and pick-pick it up.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, now, is there anything I can do to... you know, butter him up? Anything he really likes?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 401,
+  "date": "2026-02-27",
+  "questions": [
+    {
+      "quote": "I-I am serious, I mean, we're, we're all over each other all the time.",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh! Get over it soldier, we've gotta do this! Ok. Aha! You like that huh?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Mona",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay but what about y'know my pinchable butt and my bulging biceps-She knows!",
+      "characters": [
+        "Duncan",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God, she's not gonna like the chicken that night either is she?!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah! You gotta tell a girl before you tape her. Such a rookie mistake.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, is this one of those things where you throw it in a bag with some graveyard dirt and hang it from a north-facing tree?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey you guys... You're never gonna believe it. This headhunter called me. I have a meeting tomorrow with Gucci. Gucci wants me.",
+      "characters": [
+        "Estelle Leonard",
+        "Rachel",
+        "Nora Tyler Bing",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is probably the wrong thing to be worrying about, but... you're getting ham on my only tie.",
+      "characters": [
+        "Mr. Treeger",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What? Are you out of your mind? Lets throw some jello on them.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Janice",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

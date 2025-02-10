@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1025,
+  "date": "2027-11-13",
+  "questions": [
+    {
+      "quote": "If we keep talking this way, aren't we gonna freak her out soon?",
+      "characters": [
+        "Monica",
+        "Bitsy Hannigan",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. No, it's just 'cause, uh, I kinda wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman... who also liked her, so...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah? Well, you don't know about Hugsy, my bedtime penguin pal.",
+      "characters": [
+        "Mr. Treeger",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, well I'll bring them by tomorrow morning. Okay, and uh, by the way, they're not actually puppies, they're Frank and Alice's triplets. Okay, see ya!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi. Uh, you... you don't know me, I'm Monica Geller... Ross's sister.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's ok, because they have to get it out of their system, okay , but you're going to realize, this is the only place, you wanna be.",
+      "characters": [
+        "Joey",
+        "Earl",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no, it is forbidden! No-no, Mrs. Potter fires people for fooling around with clients. And it's against my oath as a masseuse.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, while you \"mmm\" on it for awhile, I'm gonna go find a place for my new lamp.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's just that, I, I'm gonna miss Joseph. I liked him. His wife, she was hot.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So I was with Joshua for an hour today, and he has not asked me out. It's just so frustrating!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1524,
+  "date": "2029-03-26",
+  "questions": [
+    {
+      "quote": "I'm gonna stop you right there, Glenda. Okay? Does it look like this is my first time, huh? Now I want 4 two's... and I want them all on my back.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's it? That's all you wrote? You're the worst writer in the whole world.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wait a minute! No! I'm the nice one! I'm the one who danced with the kids all night! How...How small are your feet?!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Sandy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's okay if he bumps his head, kids bump their heads all the time, y'know, it was your first time babysitting, I figured you did the best you could.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no I just ah, didn't do them. Instead, I ah, hung out with a couple of friends and had a couple of beers so I certainly don't deserve any praise, verbal or otherwise.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I think you need to come out of your shell just a little.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, hey, you're my baby, and I can't wait to meet you. When you come out I'll buy you a bagel, and then we'll go to the zoo.",
+      "characters": [
+        "Larry",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I mean, I'm not married married, ya know, he's just a friend and he's gay and he's just from Canada and he just needed a green card.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I can develop a condition in which I talk and talk and no one hears a word.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You wouldn't! Okay look, Rachel I know you really want to do this, but I-I've never been maid of honor to anyone before! And I know you've done it at least twice!",
+      "characters": [
+        "Phoebe",
+        "Sophie",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

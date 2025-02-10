@@ -1,0 +1,106 @@
+{
+  "gameNumber": 430,
+  "date": "2026-03-28",
+  "questions": [
+    {
+      "quote": "Really? That's so sweet. I mean, I'm officially offended but, sweet.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'll help you. Yeah, I'll make up a schedule and make sure you stick to it. And plus, it'll give me something to do.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Listen, this is totally getting out of hand! Okay? She wants me to put lotion on her!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Your joke? Well, I think 'the Hef' would disagree, which is why he sent me a check for one hundred ah-dollars.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'd just like to say that I'm totally behind this experiment. In fact, I'd very much like to butter your head.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. Look Joey, it's enough all right?! You keep making these stupid jokes and this sleazy innuendoes and it's-I'm not-it's just not funny anymore!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, all right. But y'know I gotta say, I don't, I don't think six years counts as an era.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Brenda",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Actually, I'm not buying. I'm selling. Let me ask you one question. Do your friends ever have a conversation and you just nod along even though you're not really sure what they're talking about?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "The Salesman"
+      ],
+      "correctAnswer": "The Salesman"
+    },
+    {
+      "quote": "Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which I think is-is mirrored in the wildness of Heathcliff's character.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I have a date with this diplomat I met while I was giving free massages outside the UN and, I don't know where his country is.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

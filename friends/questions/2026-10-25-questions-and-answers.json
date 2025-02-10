@@ -1,0 +1,106 @@
+{
+  "gameNumber": 641,
+  "date": "2026-10-25",
+  "questions": [
+    {
+      "quote": "Thank you. This is my friend Phoebe. She's gonna be helping me tonight.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no maybe 'cause it's harder to raise them, and the added expense, and...",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Dr. Biely, your proposal includes some field work. Where might that take place?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "Well, he's coming from Jersey, he said he would get here as fast as he could!",
+      "characters": [
+        "Mr. Zelner",
+        "Rachel",
+        "Chandler",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I just made these two things uhm... cheeks. And then I split this to make ears.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on! Come on, it'll be fun! It'll make me feel so much better.",
+      "characters": [
+        "Monica",
+        "Wayne",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's ok. Uh, anyway, well he and I both really liked you a lot, uhm, but we didn't want anything to jeopardize our friendship, so we kinda made a pact, that neither of us could ask you out!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, a pipe was my weapon of choice and, uhm, pre-teen comic book nerds were my meat.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Why? It's fun, it's different, no-one else has a name like it.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Because it's a special hat. See he bought it 'cause he was feeling really down one day so he got the hat to cheer himself up, ya know. Now Chandler...",
+      "characters": [
+        "Helena",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

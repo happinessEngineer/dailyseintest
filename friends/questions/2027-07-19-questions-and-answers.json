@@ -1,0 +1,106 @@
+{
+  "gameNumber": 908,
+  "date": "2027-07-19",
+  "questions": [
+    {
+      "quote": "I can't do Chris's makeup. She refuses to acknowledge that she has a moustasche.",
+      "characters": [
+        "Monica",
+        "Susie Moss",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "Uh-huh. Okay. You know what, Joey, I don't think he's ever gonna be okay with this.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Steve",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Not as much fun as last time. Apparently you only get porn if you're giving a sperm sample.",
+      "characters": [
+        "Chandler",
+        "Sandra Green",
+        "Phoebe",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What-what are you doing?! Are you-Okay that's not funny! Just stop horsing around!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sometimes I think maybe she could. But it doesn't matter, because I can't do anything about it.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "The Director"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Shhhhhhhhh!!! I'm sorry, I thought maybe I'd make some warm milk and it would help me sleep.",
+      "characters": [
+        "Chandler",
+        "Paul Stevens",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why would you even want to come Ross? You're a horrible skier.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Honey, you made the bed again. I told you, you don't have to do that. This isn't camp.",
+      "characters": [
+        "Janine Lecroix",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know what, don't tell us. We'll just wait until Chandler gets home, because it'll be more fun that way.",
+      "characters": [
+        "Amy Green",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait! Wait! Listen! Listen to this! Y'know what I wanted to be when I was that age?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Paul Stevens",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Paul Stevens"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1287,
+  "date": "2028-08-01",
+  "questions": [
+    {
+      "quote": "No, look, uh. You are upset about your father and you're feeling vulnerable and I just don't feel it would be right, I'd feel like I'd be, you know, taking advantage of you.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Mindy Hunter",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, good to see you too. Did you come down here to tell me that?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I got tanked myself last night. Pretty dicey drive home, Tapanzi Bridge never looked smaller. That's okay, you're still my number one guy! Bing!",
+      "characters": [
+        "Doug",
+        "Mike Hannigan",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Well, since the fire was kinda my fault I guess you should get to stay here.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Would you put that back on?! Monica's gonna be here any minute!",
+      "characters": [
+        "Gunther",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh it's not big, not at all, you know, kinda the same lines as, say, oh I don't know, having a third nipple.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So it's really a question of who could you have possibly done.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "He's got this thing. And I keep telling him to go to my chiropractor...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. It's a sonogram they took of the baby last week. I thought you might want to see it.",
+      "characters": [
+        "Erica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Thanks. God this is so stupid! How could I be upset over something I never had? It's negative?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

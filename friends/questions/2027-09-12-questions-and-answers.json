@@ -1,0 +1,106 @@
+{
+  "gameNumber": 963,
+  "date": "2027-09-12",
+  "questions": [
+    {
+      "quote": "Yeah, you got like 14 hours until she has to be at the airport, and you're sitting here in the hallway with a 28-year-old cheerleader with a fat lip.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! Wait! I think I can figure out the recipe from this cookie! I do stuff like this at work all the time.",
+      "characters": [
+        "Katie",
+        "Monica",
+        "Receptionist",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Listen, I know, I may be way out of bounds here, but is there any chance you will take me back?",
+      "characters": [
+        "Benjamin Hobart",
+        "Rachel",
+        "Ross",
+        "David"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "Yes, I'm afraid it is. You deserve much better than me Erica. You deserve to be with the real Drake, he's the one you fell in love with. Go to Salem, find him, he's the guy for you.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't know. I guess the other people just don't care enough.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, Rachel! Wait! Hey, I hope you don't take this the wrong way, but, but, um... what are you doing?",
+      "characters": [
+        "Mona",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "Well, come on, Steve; let's not rule out nervous laughter. Hey, now wait a minute. Phoebe told me that - that you owned your own restaurant. That's impressive.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Nuh-uh! They're maternity pants. They even came with a list of baby names. See, these names are good, and these names are bad. Ohh.",
+      "characters": [
+        "Peter Becker",
+        "Monica",
+        "Phoebe",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.",
+      "characters": [
+        "Jill Goodacre",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Jill Goodacre"
+    },
+    {
+      "quote": "Hi, um, I'm account number 7143457. And, uh, I don't know if you got any of that, but I would really like a copy of the tape.",
+      "characters": [
+        "Chandler",
+        "Richard Burke",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

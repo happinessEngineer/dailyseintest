@@ -1,0 +1,106 @@
+{
+  "gameNumber": 70,
+  "date": "2025-04-02",
+  "questions": [
+    {
+      "quote": "No! Think about it, it's a taxi that people take when they need to relax, it's...",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.",
+      "characters": [
+        "Janice",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "OK, got the music, got the dinner. Oh and check it out, I made Marcel's favorite dish, banannacake.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey guys. Listen uh, you wanna get some dinner with me and Kathy tonight?",
+      "characters": [
+        "Joey",
+        "Joanna",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "'Cause if you do that means you'd be cancelling it for me, and we're just friends.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Dr. Long",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hand me those tomatoes, I'm gonna show you what it should taste like! Come on, hand me them.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, if you guys don't mind, I'd like to take a moment, just me and him.",
+      "characters": [
+        "Chandler",
+        "Joanna",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, all right, I'll just uh, make sure that uh, Joey gets her something really great.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Do you remember that jacket that you love so much, that you thought was too expensive?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well that's not an, even a real fish. No, that's a goldfish cracker.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

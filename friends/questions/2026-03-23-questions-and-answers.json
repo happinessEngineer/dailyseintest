@@ -1,0 +1,106 @@
+{
+  "gameNumber": 425,
+  "date": "2026-03-23",
+  "questions": [
+    {
+      "quote": "Come on! What are you doing?! I'm in character! Would you talk to her!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, I'm, I'm probably still ovulating. Do you want to give it another try?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I didn't even have a chance to act as though I'm okay with it!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "She's right! If I were a guy and... Did I just say if I were a guy..?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross? I... I grew up on your block! We had Thanksgiving together last year... I had a baby with your sister!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Joey, please don't do that. I think it's best that we just forget about it.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ross, went to get a cab so we can all... No, wh-what are you doing! No, Monica, no!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, will you grab me a cruller? Sit down! Will you go to the hospital?!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! It's not like it spits out a Clark bar after every game.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, as part of the audition. See, I'm up for this part of this guy, who the main guy kisses.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Katie",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

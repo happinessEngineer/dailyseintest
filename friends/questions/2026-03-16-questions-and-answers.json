@@ -1,0 +1,106 @@
+{
+  "gameNumber": 418,
+  "date": "2026-03-16",
+  "questions": [
+    {
+      "quote": "I, uh, wanted to see if your offer to spend Thanksgiving with you is still good.",
+      "characters": [
+        "Nora Tyler Bing",
+        "Chandler",
+        "Phoebe",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Look, we're just friends now! Okay? Why would I do anything stupid?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Miss Green, your father's doctor is on the phone if you'd like to speak to him.",
+      "characters": [
+        "Nurse",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "My-my ring? My-my wedding ring? The-the stripper stole my wedding ring?! H-how?! How could this all happen?!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! And hey, thanks for coming with me. And thanks again for helping me take a shower.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm sorry. But ah, hey, oh, somebody's off the phone, how 'bout a glass of wine by the fire, I could get it going again.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Russell",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ticket Agent",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ohh! Ohh! In college, Chandler got drunk and slept with the lady who cleaned our dorm!",
+      "characters": [
+        "Phoebe",
+        "The Salesman",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, Ross! It's... It's fun, yeah! No, I-I play Doctor Drake Ramoray.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Shelley",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I just wanted to come by and y'know, wish you good luck on your date.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

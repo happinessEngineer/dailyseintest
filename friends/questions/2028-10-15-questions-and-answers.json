@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1362,
+  "date": "2028-10-15",
+  "questions": [
+    {
+      "quote": "Y'know what? I think I can take care of myself, I'll talk to you later. Good-bye. Whoa! Uh, that was your sister actually. She-she thinks that you're just using me.",
+      "characters": [
+        "Roy",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow, this is serious. Ive never known you to pay money for any kind of capade.",
+      "characters": [
+        "Chandler",
+        "Woman",
+        "Mr. Treeger",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, no, no. That's impossible. It doesn't leave for another 20 minutes.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Fake Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well if you can't talk dirty to me, how're you going to talk dirty to her? Now tell me you want to caress my butt!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh yeah! But you know what? If you need Hugsy, don't worry. Emma will totally understand. I won't... but whatever .",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright Mr. Geller! Right this way! So, how dark do you wanna be? We have one, two or three.",
+      "characters": [
+        "Joey",
+        "Assistant",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Assistant"
+    },
+    {
+      "quote": "You think you could make a mess and the big man in coveralls will come in here and clean it up, huh? Well, why don't think of someone else for a change?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Mr. Treeger",
+        "Rachel"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Oh hey you. Thanks for coming out of me. I know. Oh. Yeah. Oh, she's looking at me. Hi! I know you.",
+      "characters": [
+        "Will Colbert",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh that's so sweet! Look Chandler I don't care if you can't cry, I love you.",
+      "characters": [
+        "Phoebe Abbott",
+        "Helena",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "OK Julie, so now let's start with your childhood, what was that like?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

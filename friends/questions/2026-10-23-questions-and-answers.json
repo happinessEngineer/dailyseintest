@@ -1,0 +1,106 @@
+{
+  "gameNumber": 639,
+  "date": "2026-10-23",
+  "questions": [
+    {
+      "quote": "Yes! Yeah, it's like they're always saying \"let's go here, let's go there\". Like we can afford to go here and there.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ugh, I knew giving you that book was gonna come back and bite me in the ass!",
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh is it?! Uhh, hello? Yes hi, is Rachel there? Yes she is, just one moment please. It's for me!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh. Y'know, that night meant a lot to me too, and it wasn't because I was in a bad place or anything, it just meant a lot to me 'cause, you're really hot! Is that okay?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, it's just a good bone bruise. And, right here is the puncture wound from your ring.",
+      "characters": [
+        "Doctor",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "\"Look, this is ridiculous! I'm not paying for that room! Ok?\" \"Oh, thank you very much!\" Yeah, I'm going to Vermont...",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Parker",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, that's not it. It's just that when we were asking him all those questions before, I just... I just realized I don't care if he's the most perfect guy in the world... he's not you.",
+      "characters": [
+        "Kim",
+        "The Casting Director",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's right, still no baby! Come on people! Please make some room!",
+      "characters": [
+        "Chandler",
+        "Nora Tyler Bing",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rachel's coming up the path. Doesn't she look pretty. Jack...",
+      "characters": [
+        "Judy Geller",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Look, you can't do this Mon. All right, if you do this, I'm, I'm gonna, I'm, I'm gonna.....",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

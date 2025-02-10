@@ -1,0 +1,106 @@
+{
+  "gameNumber": 58,
+  "date": "2025-03-21",
+  "questions": [
+    {
+      "quote": "Well can you at least stay to the end of the play? I mean, I'll go to the airport with ya, I-I wanna say good bye.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow! That Mike thing was interesting! I don't know what's gonna happen with Phoebe and David.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ross, um, don't forget to get a shot of Emma's cake. It's in a box in the fridge.",
+      "characters": [
+        "Ronni Rapalono",
+        "Ross",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.",
+      "characters": [
+        "Monica",
+        "Janice",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's better, now just bend your arms a little more. There you go. Okay, look straight ahead. Now this time I want you to really put your ass into it.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, if you must know I have written 14 books. And as I am the only one who has read them, I can tell you that they all have been very well received.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh no, you-you don't understand. Ugh, this is so silly. Umm, this is all because of a sandwich.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, let's be practical, if Ross isn't willing to do it, he's not the only guy in the world you can have sex with. You can borrow Chandler-Chandler is good!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Kathy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah! I mean you're-you're beautiful and smart and sophisticated-a lot of this isn't based on tonight.",
+      "characters": [
+        "Phoebe",
+        "Joshua Burgin",
+        "Monica",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Because Phoebe and Gary are in that-can't-keep-their-hands-off-each-other-doing-it-in-the-park phase!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

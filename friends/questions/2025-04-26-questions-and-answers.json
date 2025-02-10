@@ -1,0 +1,106 @@
+{
+  "gameNumber": 94,
+  "date": "2025-04-26",
+  "questions": [
+    {
+      "quote": "No, no, I mean, no, c'mon you guys, I mean, c'mon look it's only eleven thirty. Let's just talk, we never just hang out and talk anymore.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! Forget it! I am not gonna ask Frank to give you one of his kids!!",
+      "characters": [
+        "Gavin Mitchell",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, but he wants to talk to you before anything really happens with her. And as his friend, I mean, don't you think he deserves the same from you?",
+      "characters": [
+        "Sandra Green",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I think that this is what you wanna do, I think it's great!",
+      "characters": [
+        "Wayne",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi, sorry. I almost didn't hear you, because y'know I'm just so in love with my new husband. We're on our honeymoon.",
+      "characters": [
+        "Receptionist",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well I don't know, but how-how great would that be huh? You living in my building. I could help take care of the baby. I can come over whenever I want. With your permission.",
+      "characters": [
+        "Dr. Long",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well I do, but uh, Eddie makes them this way and, well they're pretty darn good.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Excuse me, excuse me! Yeah, noisy boys! Is it something that you would like to share with the entire group?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi. We're buying the house next door, and we were wondering if we could just take a look around.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Me? What are you talking about? Nobody could steal me from you. I mean, just because I'm friends with her doesn't make me any less friends with you. I mean, you're my...We're, we're...Oh, I love you.",
+      "characters": [
+        "Ross",
+        "Sandra Green",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

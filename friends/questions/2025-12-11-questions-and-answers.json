@@ -1,0 +1,106 @@
+{
+  "gameNumber": 323,
+  "date": "2025-12-11",
+  "questions": [
+    {
+      "quote": "Oh Monica. Wow, this guy's an astronaut. That would've been cool, for like a day. .",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So would I. You wouldn't think that Annie Liebawitz would forget to put film in the camera.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Kim"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, I figured you'd understand. I mean, I-I've known him a lot longer.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, yeah. I've got tons of stuff I could do. I'm gonna hit the beach, go swimming...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, uh, how about, how about-y'know what? We could play a new game. A new game, it's fun.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh yeah-yeah-yeah, y'know I did it and I felt a hell of a lot better and if you whip it just right you might hit a seagull in the head.",
+      "characters": [
+        "Doug",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Because your all gonna make up fake specials and make me cook them like you did the other night?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, actually I meant my fingers. Look at 'em, look at how happy they are.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Guy"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This was just a drunken mistake and I need to get it annulled.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You mean in case someone is trying to steal your bamboo sleeping mat or your kettle of fish?",
+      "characters": [
+        "Phoebe",
+        "Cecilia",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

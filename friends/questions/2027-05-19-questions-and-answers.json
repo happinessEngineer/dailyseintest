@@ -1,0 +1,106 @@
+{
+  "gameNumber": 847,
+  "date": "2027-05-19",
+  "questions": [
+    {
+      "quote": "No! You don't want to wreck it, you don't want to go to fast!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Carol",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, it's very faint, but I can still sense him in the building. Go into the light, Mr. Heckles!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Man, if you tried something like that on my birthday, you'd be starin' at the business end of a hissy fit.",
+      "characters": [
+        "Tag Jones",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, forget the specials for a minute. Umm, all right here's the thing, for the last two weeks I have umm, tried really hard to create a positive atmosphere...",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's not that hard to learn. And as for people realizing you have no idea what you're doing, hey, you're an actor. Act like a processor, people will think you're a processor.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what? Strike that. My name uh, actually is-is Joe. Uh, Joe umm, Hill.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Sr.",
+        "Phoebe Abbott",
+        "Brenda"
+      ],
+      "correctAnswer": "Frank Buffay Sr."
+    },
+    {
+      "quote": "Phoebe, y'know why don't we just go upstairs and have some birthday cake?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Richard Burke",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "See? Why, Gavin, why? Right when I'm about to change my opinion of you, you go and you ... and you do that ...",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Maybe Joey doesn't have to give you the money, TV stars have assistants right?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, well, I had a 24-inch waist. You lose things. Now come on, get outta my way.",
+      "characters": [
+        "Woman",
+        "Rachel",
+        "Erica",
+        "Ross"
+      ],
+      "correctAnswer": "Woman"
+    }
+  ]
+}

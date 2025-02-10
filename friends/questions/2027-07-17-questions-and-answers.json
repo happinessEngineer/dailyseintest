@@ -1,0 +1,106 @@
+{
+  "gameNumber": 906,
+  "date": "2027-07-17",
+  "questions": [
+    {
+      "quote": "I'm telling-If you put that in her apartment you'll never hear the end of it.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Director",
+        "Guy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, Carol never threw me out of a room before you came along.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Get the ball, ready? Get the ball, get the ball! Well, you're cute, but you're not too smart!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Mona"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I'm sorry, were you speaking to me or sleeping with someone else?",
+      "characters": [
+        "Rachel",
+        "Roger",
+        "Kim",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, if you're one of Ross's best friends, why aren't you here?",
+      "characters": [
+        "Andrea Waltham",
+        "Gunther",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Andrea Waltham"
+    },
+    {
+      "quote": "No, Ross, we do not hate Emily. We-we just, we just think that you're having to sacrifice a whole lot to make her happy.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "OK, I don't want to freak you out or anything, but I think I just saw a rat in your cupboard.",
+      "characters": [
+        "Emily Waltham",
+        "Rachel",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Monica and I are celebrating our ten-month anniversary, we've got reservations at Ja George.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I may have to, I hate to do it, but I'm the star! Y'know? There's a limit to how many sandwiches I can eat off the floor. Excuse me. Joey Tribbiani.",
+      "characters": [
+        "Richard Burke",
+        "Dr. Drake Ramoray",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I need to talk to you, it's pretty urgent. It's about Monica and Chandler.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

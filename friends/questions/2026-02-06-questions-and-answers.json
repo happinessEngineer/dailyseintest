@@ -1,0 +1,106 @@
+{
+  "gameNumber": 380,
+  "date": "2026-02-06",
+  "questions": [
+    {
+      "quote": "Ok, he's goin' to get my coat. He's goin' to get my coat. Oh my god, you guys. I can't believe this. This is unbelievable. What's that?",
+      "characters": [
+        "The Interviewer",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey! Come on! I don't wanna make any mistakes, alright? This is the only dessert and if I screw it up everybody's gonna be like \"Oh, remember that Thanksgiving when Rachel screwed up the trifle?\"",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, Joey, I-I-I'll g-get you your job back if you help me out.",
+      "characters": [
+        "Wayne",
+        "Monica",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Wayne"
+    },
+    {
+      "quote": "Whoa! My God! So what, you all just joined together to hate me?! Who else was in this club?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay. Y'know what? I'd have to say I really don't care for your tone. And this is not the only hospital in this city and we have no problem to-Whoa! Oh gosh! Whoa!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What? Yeah! Sure! Uh, look at the uh, the reason...-Is it hot in here?",
+      "characters": [
+        "Joey",
+        "Susan Bunch",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Chandler, this is not addressed to you. This is addressed to Mrs. Braverman downstairs. Thief.",
+      "characters": [
+        "Janine Lecroix",
+        "Janice",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait-wait, so, you get to be my best man twice and I never get to be yours at all?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well who is this guy?! Huh? Who is he? 'Cause I will track him down and kick his ass!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Shh! Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey! Hey, uh, did you just feel that?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

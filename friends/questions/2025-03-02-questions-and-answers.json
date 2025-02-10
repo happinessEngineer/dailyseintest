@@ -1,0 +1,106 @@
+{
+  "gameNumber": 39,
+  "date": "2025-03-02",
+  "questions": [
+    {
+      "quote": "Really! All right? Let's forget about this going home stuff and celebrate our anniversary. Okay, this is empty.",
+      "characters": [
+        "Woman",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, yeah. Now you guys dance over there, you guys over there, and I want you two right around here, and everyone else spread out.",
+      "characters": [
+        "Monica",
+        "Donny Osmond",
+        "Director",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Director"
+    },
+    {
+      "quote": "I'll take that bet my friend. And you know what, paying me the 50 bucks could be the \"new thing you do that day!\" And it starts right now!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Janice",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What are the chances? 1 billion Chinese people and they send Mike!?",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, if I have to. Monica, I don't wanna lose you, so if I have to do it all over again, then I will.",
+      "characters": [
+        "Richard Burke",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "I mean I have not been picked on this much since kindergarten and they had to bring in someone from junior high to do the see-saw with me.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What...? That's not you! Life is good again! Ride 'em cowgirl!",
+      "characters": [
+        "Jack Geller",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! I mean come on! This is a huge deal! Fine I want-I need more details, who-who initiated the first kiss?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Big Bully"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No. No, no, I'm not ready! How can I be ready? \"Hey, Rach! You ready to jump out the airplane without your parachute?\" Come on, I can't do this!",
+      "characters": [
+        "Judy Geller",
+        "Rachel",
+        "Joey",
+        "Erica Ford"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know where Joey would be. He would be down in the foxhole protecting all of us.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

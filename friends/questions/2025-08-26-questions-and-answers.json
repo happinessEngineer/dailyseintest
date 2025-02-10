@@ -1,0 +1,106 @@
+{
+  "gameNumber": 216,
+  "date": "2025-08-26",
+  "questions": [
+    {
+      "quote": "You see, if we'd gone around them like I said, we-She would've given us those tickets. Damnit!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Typical Christmas-y stuff, you know? Our holidays are pretty traditional...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, if I were, would-would I have shooting pains up and down my left arm?",
+      "characters": [
+        "Ross",
+        "Stephen Waltham",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey and look he brought flowers. Thanks Ross, but I'm really more of a candy guy.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Dr. Long",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But, I mean, you have met... humans before, right? Look, why don't you go talk to my mom?",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Tag Jones",
+        "Monica"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Well, if you don't have anything to copy, why are you going down there?",
+      "characters": [
+        "Dr. Ledbetter",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yep, we're gonna meet the lady who could be carrying our baby.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well y'know, I've been walking the same way since high school. Y'know, y'know how some guys they walk into a room and everybody takes notice. I think I need a 'take notice' walk.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This is so exciting! It's so glamorous! People taking our picture. How do I look?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

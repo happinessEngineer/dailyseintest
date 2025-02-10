@@ -1,0 +1,106 @@
+{
+  "gameNumber": 670,
+  "date": "2026-11-23",
+  "questions": [
+    {
+      "quote": "Oh hey, don't thank me, thank yourself. You're the one who faced her fears and ultimately overcame them.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Peter Becker",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Did she call? You-you told her I was sick right? Always tell her I am sick!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "How do you know? I mean we thought Carol was straight before I married her!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "OK, but uh, I hope you realize this means we're gonna miss hearing about the specials.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I got it for your wedding and I ordered it weeks ago, and it finally got here!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You guys are always hanging out in my apartment! Come on, I'll only use my left hand, huh? Come on, wussies! All right, ok, I gotta go. I'm going, and I'm gone.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Amy Green",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, he's keys are in the drawer. Y'know what? I also need some cash.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look Amy, it got a little of control..Um.. and I'm sorry. You're my sister and uh.. if it really means that much to you..",
+      "characters": [
+        "Interviewer",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You actually broke her watch? Wow! The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Welcome to the Chestnut Inn Mr. Bing, so where are you joining from?",
+      "characters": [
+        "Jack Geller",
+        "Receptionist",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Receptionist"
+    }
+  ]
+}

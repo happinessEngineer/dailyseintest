@@ -1,0 +1,106 @@
+{
+  "gameNumber": 550,
+  "date": "2026-07-26",
+  "questions": [
+    {
+      "quote": "Well, I know that would make Joey happy, so, I would like that too.",
+      "characters": [
+        "Peter Becker",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, if you're going to do the ears, you might as well take a pass at the nosal area.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Phoebe, your face is fine! Come on, none of this stuff is going to happen to you! Stop being such a baby!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh well, y'know what? I don't think if I feel comfortable stealing on my very first day...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, it's a website, it's the, uh, the Guggenheim museum. See, she likes art, and I like funny words.",
+      "characters": [
+        "Chandler",
+        "Eric",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "The data we are receiving from MRI scans and DNA testing of these fossils are - are staggering.",
+      "characters": [
+        "The Interviewer",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I can't believe you thought I was cheating. You own me an apology.",
+      "characters": [
+        "Mr. Douglas",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What? Oh, well then y'know what? I think Monica would be very interested to know that you called her cheesecake dry and mealy.",
+      "characters": [
+        "Rachel",
+        "Charlie Wheeler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, I get to teach one of his advanced classes! Why didn't I get head of the department?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Cecilia",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, nothing, it's just, it's close to Ron. Does he.. Does little Ross like dinosaurs by any chance?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Mindy Hunter"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 290,
+  "date": "2025-11-08",
+  "questions": [
+    {
+      "quote": "Oh, you mean like that guy thing where you act mean and distant until you get us to break up with you.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What? So you guys don't mind going out with someone else who's going out with someone else?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. Okay. Would, would it help if I went over and apologized?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "Then I blame you! Yeah! That's right! You threw me off with all your slapping!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. Hi!",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, Chandler!! All right, this is it! You never see Joanna again!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But still, it's a big change. The end of an era, you might say!",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, it's like, last night, I couldn't do the thing that usually makes me great. So I had to do all this other stuff. And the response I got... man, oh man, it was like a ticker tape parade!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey everybody! Uh, I'd like you to meet Janine. She's-she's gonna be my new roommate!",
+      "characters": [
+        "Joey",
+        "Judy Geller",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Come on, there are plenty of other women out thereok? Just - just forget about her, ok? Just, she's off limits.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

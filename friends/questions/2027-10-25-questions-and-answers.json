@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1006,
+  "date": "2027-10-25",
+  "questions": [
+    {
+      "quote": "Oh, I hate that. I once had a thing of half and half, stole my car.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Man"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No I'm not. No! If anything I'm making you look better! They'll see you talking to me and that's--I'm a hit!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know what? I don't care. I like it like this, and I'm gonna keep it. You're just jealous because your hair can't do this... OUCH!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh sure, come here! Sure you can! Uh, look come here look, it's-it's-it's, it's right there .",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Have you kissed her yet? It's awesome! I could do it forever! Y'know what? She-she kisses better than my mom cooks!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "How are you Ms. Hot Shot chef with the big fancy restaurant with the best chicken ever!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Okay Bob listen uhh, I'm the reason you didn't get the job up here.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Actually there is. Chandler usually helps me with this, but he's really into the game so I don't want to bother him. Could you help me fold these napkins?",
+      "characters": [
+        "Janitor",
+        "Bitsy Hannigan",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey Ross, listen, you want anything to drink, 'cause I'm heading up there.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Gunther",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay. Okay. Y'know what? If you want to, we can do it one more time. I mean I'd-I'd be okay with that. In fact, I have some time right now.",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Ross",
+        "Chandler",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

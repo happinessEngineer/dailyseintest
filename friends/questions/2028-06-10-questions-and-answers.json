@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1235,
+  "date": "2028-06-10",
+  "questions": [
+    {
+      "quote": "No, not really. You're pressing the baby into my bladder and now I have to pee. Sorry.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, well obviously you know Barbara and I split up, otherwise you wouldn't have done the head tilt.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Okay. Here's a question you never have to ask. My dad just called and wanted to know if he could borrow one of your pearl necklaces.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Home sweet home, huh? Nice to, uh, get back to reality. Plus we know how the New Year's gonna go off. I guess there's no reason for all that Y2K panic, y'know? Anyway, g'night!",
+      "characters": [
+        "Doug",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well it you don't know that, then I don't want to do this with you.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! Who was up from 2 o'clock this morning until 5 o'clock this morning trying to get her back to sleep?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I thought I was going home to go to bed, but I'm sensing there's something less fun for me to do here.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Nina Bookbinder",
+        "The Director"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Why don't you go see Frankie? My family's been goin' to him forever. He did my first suit when I was 15. No wait, 16. No, 'scuse me, 15. All right, when was 1990?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, well, sorry, Joe. You said let's just be friends, so guess what?",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Elizabeth Stevens",
+        "Angela Delveccio"
+      ],
+      "correctAnswer": "Angela Delveccio"
+    },
+    {
+      "quote": "Yeah, it happened to me once. I was just flipping through the channels and bam! It was like finding money.",
+      "characters": [
+        "Phoebe",
+        "Mr. Treeger",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    }
+  ]
+}

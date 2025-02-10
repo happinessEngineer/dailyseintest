@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1225,
+  "date": "2028-05-31",
+  "questions": [
+    {
+      "quote": "We were on a break!!! Okay!! We were, we were..., yeah. Where are you? I'll find you.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay! \"Hello Ross, this is Dr. McNeeley from the Fake Accent University, we'd like you to come on board with us full time!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And if you think about it, I mean the reason he memorized all that stuff is because he thought it was important to you. You know, that's the kind of guy Joey is.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Still, you- you say Minnie, you hear Mouse. Um, how about, um.. how about Julia?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, I didn't kiss her, he did! See what happens when you break the code?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, so we just thought we'd stop by and let you know there's still no pressure.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Mr. Zelner",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You're right, I have no excuses! I was totally over the line.",
+      "characters": [
+        "Phoebe",
+        "Sophie",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This is so wild. Ya know, I gotta admit, I was kinda surprised that you agreed to go on a blind date.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. Now you're gonna want to have sex with me when you hear it, but you have to remember it is just the story.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

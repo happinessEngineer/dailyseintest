@@ -1,0 +1,106 @@
+{
+  "gameNumber": 274,
+  "date": "2025-10-23",
+  "questions": [
+    {
+      "quote": "Maybe now you can actually do it. You know? You can finally get over her.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ross, you're being ridiculous! Okay? You are cute and smart and sweet and that is much more important than three stupid divorces!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Sandra Green",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This is about you and Richard. He's clearly not over you. He keeps a tape so he can... look at it whenever he wants.",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, excuse me. Evolution is not for you to buy, Phoebe. Evolution is scientific fact, like, like, like the air we breathe, like gravity.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Awww, I'll miss you too Pheebs. And I will be holding you, right here.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Tim",
+        "Joey"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Hey, it's a lot harder than it looks! Okay? She-she-she's hurting me.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Erica",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So great! He showed me where the restaurant's going to be. It's this, it's this cute little place on 10th Street. Not too big, not too small. Just right.",
+      "characters": [
+        "Monica",
+        "Frank Buffay Sr.",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "but you, your so much better off you just go from guy to guy having fun and never worrying that it terns into anything serious.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! That's the creep that you're with at the Statue of Liberty.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "...in Reservations at 8:00 by Neil Simon. Thank-thank you Neil. Thank you for the words.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Paul Stevens",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 622,
+  "date": "2026-10-06",
+  "questions": [
+    {
+      "quote": "Yes, they are expected presently. Yeah, yeah um, their arrival is in the offing.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but that was different. Y'know? I mean, we were, we were going out then, now I think it's weird.",
+      "characters": [
+        "Rachel",
+        "Trudie Styler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Me too! Yeah. And comfortable. Do uh, do you like leather seats?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay! Now I assume the Saucer card came up when you played last.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right Emily, as much as I love you, I'm sorry, I can't move to London without Ben.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Dr. Harad"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, but you can't use that again for a whole year. I'm in.",
+      "characters": [
+        "Phoebe",
+        "Emily Waltham",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, sure it does! In high school, you weren't jealous at all even though all your girlfriends were cheating on you!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, maybe the mailman liked the cookies, we just didn't give him enough.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Sophie",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Because! She's my cousin. I mean, we grew up together! We're family y'know? Well that's important to me.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah Melissa, I don't want to be known as the uh, office bitch, but I will call your supervisor.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

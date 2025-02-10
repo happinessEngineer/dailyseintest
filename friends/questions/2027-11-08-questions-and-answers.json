@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1020,
+  "date": "2027-11-08",
+  "questions": [
+    {
+      "quote": "Because... look, no one wants this to happen more than me, ok? I have gone over this moment in my head a hundred times and not once did I ever say no! I couldn't do it to Ross!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I am sorry I am late. You'll understand when you'll see Joey.",
+      "characters": [
+        "Chandler",
+        "Fake Monica",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh wow, I hope you don't take this the wrong way but, I know we had plans to meet up tonight and, ugh, I'm just kinda worried about what it might do to our friendship.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, okay, I'm sorry, it will never happen... Uh-oh! Wait a minute! Wait-wait, now there are a hundred of you and I'm the king.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Estelle Leonard",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah yes, but he's very protective of me so you'd better watch yourself.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right look, if you're not gonna stay for me, then at least stay for them! Okay, they have had a very difficult year! What with the robbery and all!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry, I was just thinking you're day could still pick up.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey guys! You found the presents? Chandler, you let them find the presents? Great! Do you know how long it took me to find you that water purifier?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thanks. Great so we can all go together! I gotta run. Catch you later!",
+      "characters": [
+        "Janine Lecroix",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "Ross, we can solve this. I just heard your speech. We can recreate it! We've got all night!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Charlie Wheeler",
+        "Ross"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    }
+  ]
+}

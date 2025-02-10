@@ -1,0 +1,106 @@
+{
+  "gameNumber": 756,
+  "date": "2027-02-17",
+  "questions": [
+    {
+      "quote": "Oh come on, it was so obvious! There was no chemistry between you two!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Paul Stevens",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, my turn. My turn. Oh! You're so cute! Oh, I could squeeze your little head! I won't.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, she probably wasn't familiar with the process having spent most of her life sitting for oil paintings!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! Sorry, I guess I was thrown off by the mention of my name!",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Hey you're right. Yeah, it's kinda been like us again a little bit.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know like... uh okay... uh... 'Could that report be any later?'",
+      "characters": [
+        "Phoebe",
+        "Guru Saj",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God! We love that show! I mean Ross and I have been watching it since I can remember!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Teacher"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I was thinking, that you gave the guys such great haircuts, I thought, maybe you'd like to do mine?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No! Okay! Okay! Okay, look, can I, can I just-just talk to you for a second?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Amy Green",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Could you please tell me what this is in reference to? Yes, hold on. Um, they say there's been some unusual activity on your account.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

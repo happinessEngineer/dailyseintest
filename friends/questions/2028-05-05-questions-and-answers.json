@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1199,
+  "date": "2028-05-05",
+  "questions": [
+    {
+      "quote": "Are we talking about one of those big boats that carry cars that go like five miles an hour?",
+      "characters": [
+        "Ross",
+        "Kim",
+        "Helena",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's a tradition, like the parade. If the parade decided it was gay, moved out, and abandoned its entire family.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, The Velveteen Rabbit! Oh my God, when the boy's love makes the rabbit real!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Charity Guy",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Right and then everybody finds out and they're like: \"Oh, I knew all along\"",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "But I need it. Otherwords I'm gonna have to take that horrible diner job. You know, with the dancing and the costumes. I don't wanna have to wear flame retardant boobs.",
+      "characters": [
+        "Chandler",
+        "Eddie Menuek",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Do you guys have to go to the new house right away, or do you have some time?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, I have to go downstairs and come back up as if I'm coming home from the regatta gala. Okay? So just go distract him. But don't be sexy.",
+      "characters": [
+        "Jack Geller",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Of course I am. I reject anyone who's crazy enough to actually go out with me, and then I bitch about the fact that there aren't any great women out there.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, okay, yes, it is. How about I'll, uh, catch up with you in the Ice Age.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Umm, candles, champagne, yeah anniversaries are great. 'Cause you know love lasts forever, y'know. Nothing like it in this lifetime, money in the bank, so Rachel and I broke up.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Helena"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

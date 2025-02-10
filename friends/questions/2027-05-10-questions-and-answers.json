@@ -1,0 +1,106 @@
+{
+  "gameNumber": 838,
+  "date": "2027-05-10",
+  "questions": [
+    {
+      "quote": "No. I think you misunderstood what I was saying. What I meant was...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Danny",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You do have a choice!! Ross, why are you listening to her?! Are you, are you crazy?!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Come on that's not fair! I mean you haven't even heard me play!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. I am sorry he's not here too, but I got to say, I am really enjoying Nacho Chair.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No it's just that I got this new pager and I have it on vibrate. See ya!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joanna"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Did you hear that? I only get one extra ticket to my premiere. So some how I have to pick between you three and Ross.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, um, uh, we three feel like, that uh, sometimes you guys don't get that uh, we don't have as much money as you.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey Rach, the adoption agency needs letters of recommendation and we were wondering if you would write one for us.",
+      "characters": [
+        "Joey",
+        "Bobby Rush",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Chandler, if that dog's been here that long, and you haven't had a reaction, maybe you're not allergic to this dog?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Does that mean the same thing in England as it does in America?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

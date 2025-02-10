@@ -1,0 +1,106 @@
+{
+  "gameNumber": 399,
+  "date": "2026-02-25",
+  "questions": [
+    {
+      "quote": "I know you're just moving uptown but I'm really gonna miss you.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Michael"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I'm sorry, but you guys are wrong. I just don't want to be divorced three times.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. All right, I'm gonna go tell Dan that it's not gonna happen. Don't do the dance.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Actually, no. No, it felt right. You know, it felt like uhm... I can't believe we haven't been doing this the whole time.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Good job, little buddy. That was some really good French. But I think we're gonna go with someone else for the part.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Director"
+      ],
+      "correctAnswer": "Director"
+    },
+    {
+      "quote": "Every week, the TV Guide comes to Chandler and Joey's apartment. What name appears on the address label?",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Of course, I didn't get to enjoy any of that, because Joanna's such a big, dull dud!",
+      "characters": [
+        "Rachel",
+        "Mona",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, after 15 years of mom and dad keeping it as a shrine to you, it's time the velvet ropes came down.",
+      "characters": [
+        "Judy Geller",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, you said that we except the Discover Card, which we do not!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Allesandro"
+      ],
+      "correctAnswer": "Allesandro"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 85,
+  "date": "2025-04-17",
+  "questions": [
+    {
+      "quote": "C'mon, seriously, you guys, you're not going to make me watch this alone!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Jack Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I was giving you an appology and you were totally checking her out!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And I'm blah? Listen, the only thing more boring than watching modern dance is having to listen to you talk about it, \"Oh Chandler, I just lost myself in the moment.\"",
+      "characters": [
+        "Jack Geller",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm guessing your new girlfriend wouldn't urinate on my coffee table.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "In the future, when a girl asks for some ill-advised sympathy sex... just do it.",
+      "characters": [
+        "Nina Bookbinder",
+        "Carol",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh honey, this is his office too. I told you we're Joanna's two assistants.",
+      "characters": [
+        "Rachel",
+        "Carol",
+        "Ross",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And I have your name and the fact that you're a drifter, so the ball's pretty much in your court.",
+      "characters": [
+        "Phoebe",
+        "Phoebe Abbott",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, whaddya say boys, should I call him? Well, ya know what they say. Ask your slippers a question... you're going crazy.",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No-no-no! I am the king of bad Thanksgivings. You can't just swoop in here with your bad marriage and take that away from me.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay fine! Fine! We'll just have to think of some other way to put the whole 'Who came onto who,' thing to rest! Come on now, think!!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

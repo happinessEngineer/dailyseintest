@@ -1,0 +1,106 @@
+{
+  "gameNumber": 841,
+  "date": "2027-05-13",
+  "questions": [
+    {
+      "quote": "All right, so you're telling me that I have to tell racist jokes now?!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Jan-ice. 'Cause I, just, I feel bad for Ross, you know, we-we always go together, we're like the three hocke-teers.",
+      "characters": [
+        "Gavin Mitchell",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, well Monica, suppose one of your \"special\" tickets win? How are you gonna feel when you win the lottery and you lose all your friends?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm hoping that when Bob doesn't show up, she will seek comfort in the open arms of the wry stranger at the next table.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "They're not even paying ya! This doesn't even sound like a real movie!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I-I-there was this guy at the bank that I thought was cute umm, but I don't anymore.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Actually, that will be long. You know, I really need to organize my thoughts.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Director"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And people say you don't pay attention. No, this is a much better job. It's vice-president of a company that does data reconfiguration and statistical factoring for other companies.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm going to find out if he really thinks supermodels are too skinny. Hey, Pheebs!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Cassie Geller"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, what do you think is a better excuse for why I'm not drinking on this date tonight. \"Umm, I'm a recovering alcoholic. I'm a Mormon,\" or \"I got so hammered last night I'm still a little drunk?\"",
+      "characters": [
+        "Chandler",
+        "Sandra Green",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

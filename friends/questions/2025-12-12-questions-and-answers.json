@@ -1,0 +1,106 @@
+{
+  "gameNumber": 324,
+  "date": "2025-12-12",
+  "questions": [
+    {
+      "quote": "Okay, it's just weird! Okay? I don't want to be standing their saying my vows and then having the mental image of you and Monica! I-I-I need...I don't know what I need. I need a walk.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Mona",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Thata girl! Huh? We should get out of here; there's a new class comin' in.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, it is so strange seeing Ross here this time of day, 'cause usually he's got the children's hospital.",
+      "characters": [
+        "Elizabeth Stevens",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, do you think he was waiting 'til after you left, so he could cry?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And Rachel shouldn't have any problem with that. The only problem might be getting a little too friendly, if you know what I mean.",
+      "characters": [
+        "Ross",
+        "Joanna",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Sure! Oh, and Joey's got the mashed potatoes if you want to exchange them.",
+      "characters": [
+        "The Interviewer",
+        "Ross",
+        "Monica",
+        "Nurse"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no Phoebe no, I was...no. You know what, I was, I was actually just checking to, see, if I could run. And I can!",
+      "characters": [
+        "Joey",
+        "Benjamin Hobart",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now, there is a dress laid out on your bed. Okay, you're doing great. You're doing great. You're doing fine.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "David",
+        "Carol"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, it's like that old saying, have some sex, eat some cake.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Pff, easy for you to say, he's a father killer. He probably loves him mommy. He's probably got a tattoo that says \"mom\" on his shovel-wielding arm!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

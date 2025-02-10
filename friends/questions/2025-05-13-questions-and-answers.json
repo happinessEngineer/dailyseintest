@@ -1,0 +1,106 @@
+{
+  "gameNumber": 111,
+  "date": "2025-05-13",
+  "questions": [
+    {
+      "quote": "Y'see, this is where you'd use that 'hello' word we talked about.",
+      "characters": [
+        "Monica",
+        "Guy",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Why Scott doesn't want to sleep with me. It's 'cause I'm not sexy enough.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "God, I just, I hate her! I hate her!! With her, 'Oh, I'm so talented.' and 'Oh, I'm so pretty,' and 'Ooh, I smell so good.'",
+      "characters": [
+        "The Interviewer",
+        "Mike Hannigan",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, he's not used to women being so forward with him; but uh, I good check with him-He says it's okay. Great! Thanks! Bye-bye!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Don't do that to yourself. Any one of us could have tripped over that little girls jump-rope.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Big Bully"
+      ],
+      "correctAnswer": "Big Bully"
+    },
+    {
+      "quote": "I, I didn't say any... I sw... I did not say anything, I swear. He stopped by.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry, as I was saying the store number is wrong, and I'm sorry but that's... Oh my God!!",
+      "characters": [
+        "Rachel",
+        "Dina",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry, it's just one of my last nights together before she leaves for camp-to be a counselor!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, but we-we have to be at the Four Seasons for drinks in 15 minutes and then y'know, then The Plaza for dinner.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay! So yeah, maybe we can get together umm... Can you hold for one second please? What?!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

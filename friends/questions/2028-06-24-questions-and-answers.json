@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1249,
+  "date": "2028-06-24",
+  "questions": [
+    {
+      "quote": "Y'know I think its great you wanted to meet here. Y'know when most people hear the magazine is paying for it they want to go to a big fancy restaurant.",
+      "characters": [
+        "The Interviewer",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "I fall down an elevator shaft? What the hell does this mean, I fall down an elevator shaft?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, well that one has ducks on his t-shirt, and this one has clowns. And Ben was definitely wearing ducks.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ohhhhh yeah, that's, that's funny. Why ah, why isn't he goofing around in his own office?",
+      "characters": [
+        "Lauren",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey Rach, now that you're working at Ralph Lauren, can you bring me back some of those polo shirts?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Director",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on Ross! You said you wanted to talk about it, let's talk about it!! How was she?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! Well, well really it's three. Please. You're so good at it. I love you.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Fine! All right, I'll do it. But hey! You guys have to be at the next table so you can stop me if I y'know, start to say something stupid.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, he told me he was going out with the guys, I just didn't know that you were the guys.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ow, I'm just going over the script now! You wanna read lines with me?",
+      "characters": [
+        "Minister",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

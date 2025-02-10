@@ -1,0 +1,106 @@
+{
+  "gameNumber": 436,
+  "date": "2026-04-03",
+  "questions": [
+    {
+      "quote": "Good, but wait. Okay, all right, here we go. Now I want you to relax. Take a deep breath. Clear your mind. Which do you like better peanut butter or egg whites?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know? So I was thinking that we could get one of those signs and hang it over our bed. Because, that's you and I together! Merge!",
+      "characters": [
+        "Chandler",
+        "Estelle Leonard",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel, there you are! Come on, let's serve that dessert already!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Here she comes. Hold on, I'm gonna make your life much easier.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Whoa-whoa, don't we need to do some kinda preparation first? Like ahh, get really drunk?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well I don't think it's very nice of you to park here, y'know you're blocking the entrance.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, great! All right, bye! Pain in the ass!! That's off, right?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I uh, I gotta tell you man, I mean, that's uh, it's kinda out of the blue, I mean don't you think?",
+      "characters": [
+        "Eddie Menuek",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "Well, y'know, you're-you're gonna meet somebody! You're a great catch! Y'know when I was telling all those guys about you, I didn't have to lie once.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But between you and Phoebe, I'd have to give the edge to Phoebe.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Frank Buffay Jr.",
+        "Jason"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

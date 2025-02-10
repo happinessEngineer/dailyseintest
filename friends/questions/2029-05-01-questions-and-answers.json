@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1560,
+  "date": "2029-05-01",
+  "questions": [
+    {
+      "quote": "Well, I've been better. But, I'm all right. So you like her huh?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, don't mix those up, you could really ruin that lollipop.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, Chandler, look. You and Monica are meant to have children. I am sure it's gonna be just fine.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "ooohh... hey! Wanna stick around and I'll whip you up some dinner?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Ryan"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, if Ross and Rachel ask, I've been here the whole time. THE WHOLE TIME!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "oh no yeah, no Phoebe is great, but umm I'm an idiot look right before you guys went out I accidentally got her all upset.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Excellent! Excellent! And uh, finally, are you into any weird stuff y'know, sexually?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Come on, you're going to Bloomingdale's with Julie? That's like cheating on Rachel in her house of worship.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on! Serious-ser-ser-seriously, what did she mean by that? Especially you!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, if it really doesn't mean anything, because you know that I'm just not ready...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Earl"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

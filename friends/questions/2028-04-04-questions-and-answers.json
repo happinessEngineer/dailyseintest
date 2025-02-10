@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1168,
+  "date": "2028-04-04",
+  "questions": [
+    {
+      "quote": "You tell me! Maybe, it's because I was just fooling with my ex! Oh no-no-no-no, no-no-no-no, that was you!!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right. We figured you might respond this way, so we have a backup offer.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, you don't have to talk to it. You can sing to it if you want.",
+      "characters": [
+        "Phoebe",
+        "Carol",
+        "Woman",
+        "Joey"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Well, if you see him, will you please tell him that I'm looking for him and that this I am not gonna throw up!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, professor Clerk we're kind of in the middle of a conversation, here.",
+      "characters": [
+        "The Doctor",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, y'know what? Forget it, all of you forget it! You've ruined it! Go home! You've ruined it! You've ruined it!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross, I think you misunderstood what I was saying. I just wanted to tell you that I'm going to Florida for a couple weeks.",
+      "characters": [
+        "Elizabeth Stevens",
+        "Chandler",
+        "Joey",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "Look, I-I'm never gonna let you up so you may as well just go away.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, I didn't think there was a relationship to jeopardise. I thought we were broken up.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And how none of it matters when the people really love each other. And how people will believe anything you tell them as long as it's a compliment.",
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

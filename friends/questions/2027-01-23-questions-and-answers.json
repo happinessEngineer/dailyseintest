@@ -1,0 +1,106 @@
+{
+  "gameNumber": 731,
+  "date": "2027-01-23",
+  "questions": [
+    {
+      "quote": "Well, I'll tell you Rachel Karen Green, I had plans with Joey tonight and he left me this note.",
+      "characters": [
+        "Phoebe",
+        "Mr. Ratstatter",
+        "Monica",
+        "Dr. Miller"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This is the happiest dog in the world. I borrowed him from my friend Wendy. Now, you can only keep him until he cheers you up. And he will cheer you up!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'll try, but I'm not sure what good it would do, y'know? Because I'm a lot less afraid of commitment than I used to be.",
+      "characters": [
+        "Leonard Green",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I can't. No-no, listen, I, I know how much this means to you and I also know that this is about more than just jewelry, it's about you and me and the fact that we're best buds.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I was kinda hoping we could do this without him. Oh no-no-no, leave the gloves on.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Who's Richard Burke? Doc, Doctor Burke? You have a date with Doctor Burke? Why, why, why should that bother me? I, I love that man, he's like a uh, brother to dad.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. I've been thinking about it too, and I, I think we're ready.",
+      "characters": [
+        "David",
+        "Richard Burke",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey Pheebs, you know I'm i'm really glad you came to talk to me the other day and I hope I was a little helpful.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Judy Geller",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, well keep in mind that by the time you're done, they'll probably be serving dinner.",
+      "characters": [
+        "Doug",
+        "Rachel",
+        "Ross",
+        "Agency Guy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Umm, you-you and your sister seem to have umm, a very special bond, and...",
+      "characters": [
+        "Bitsy Hannigan",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

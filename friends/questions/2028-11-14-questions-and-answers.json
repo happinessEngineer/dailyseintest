@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1392,
+  "date": "2028-11-14",
+  "questions": [
+    {
+      "quote": "Monica, I'm sorry I didn't come by last night. I was out with Gary; he let me ride around with him in his cop car. We saw and prevented crimes.",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Because I'm normal! That was the one legacy my grandmother left me, and I know you wanted it as an engagement present.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Is it like for dinosaur emergencies. 'Help, come quick, they're still extinct.'",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Judy Geller",
+        "Janice"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohhh! No! This is my friend Rachel, we went to High School together.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, you know what? Don't worry, Pheebs! It usually takes me three takes too! Alright, eight.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, okay, I tell you what. You roll another hard eight; and we get married here tonight.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know that thing that Ross was gonna do at our wedding?! He was hanging out with me yesterday and he turned to me and said, \"You're half Scottish right?\"",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh no, I'm good, I don't wanna get that turkey smell all over my hands.",
+      "characters": [
+        "Jack Geller",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "How weird is that? Y'know? You're moving in with me and have the one thing I don't have. It's like uh, in a way you-you complete me kitchen.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Absolutely! Y'know, you get this rush of feelings, but then it goes away.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

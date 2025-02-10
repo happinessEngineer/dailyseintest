@@ -1,0 +1,106 @@
+{
+  "gameNumber": 768,
+  "date": "2027-03-01",
+  "questions": [
+    {
+      "quote": "God, that was, that was amazing, that was incredible. You guys, you guys kicked butt.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know how-how the nurse said that-that Nana had passed? Well, she's not, quite..",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh well, what do you know, there goes my identical twin sister. Just walkin' along looking like me. What, is this just like a freakish coincidence, or did you know she takes this train?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I cannot believe that I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "OK so I'm out four thousand dollars and nobody's boobs are getting any bigger?",
+      "characters": [
+        "Jill Green",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Stop it! Stop it, before someone gets really hurt! Here David, you should just go.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ugh. Excuse me, could you give this to that guy over there? Go ahead. Thank you. Sorry. Okay, Las Vegas.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I wouldn't call her a star, but she's really good. You should check out Inspecther Gadget.",
+      "characters": [
+        "Gunther",
+        "Monica",
+        "The Director",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "More back talk. And yes, I may be borrowing a few lines from my recent unsuccessful audition for \"Family Honor 2: Thissa Time Itsa Personal.\"",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow, so you guys are, you're never gonna be in the same room together? How is that even gonna work?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

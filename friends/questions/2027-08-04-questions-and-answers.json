@@ -1,0 +1,106 @@
+{
+  "gameNumber": 924,
+  "date": "2027-08-04",
+  "questions": [
+    {
+      "quote": "Ugh, Ross! That was not a near death experience! That was barely an experience!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Chandler, if it really hurts that bad you should just tell her.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I Got Tired Of Naming States. So I Decided To List The Types Of Celery, And I Have One regular celery.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wa-wa-wa-wait! Congratulations! You did it! You did it! You can relax now. Yeah.",
+      "characters": [
+        "Lennart",
+        "Erica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Lennart"
+    },
+    {
+      "quote": "Hey Ross, listen, you know that right now, your baby's only this big? This is your baby. Hi Daddy!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, well they are a huge responsibility, especially at this age. They require constant care. They-they need just the right food, and lot's and lot's of love.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi! I'm so sorry to barge in on your Valentine's, but I had to get away from all the yelling. Mona is dumping Ross.",
+      "characters": [
+        "Don",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All better! Back to work! Except this clown from research told me I was fired. He should do his research, huh?",
+      "characters": [
+        "Phoebe",
+        "Eddie Menuek",
+        "Emily Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, Nancy Thompson from Phoebe's old massage place is getting fired.",
+      "characters": [
+        "Sandra Green",
+        "Joey",
+        "Monica",
+        "Erica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, Ross sure is a great guy, y'know I've always felt that how a young man turns out is a reflection on his father.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

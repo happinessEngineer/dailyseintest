@@ -1,0 +1,106 @@
+{
+  "gameNumber": 646,
+  "date": "2026-10-30",
+  "questions": [
+    {
+      "quote": "Oh that was yours? Uh, yeah, we used it when the duck was throwing up caterpillars.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What one? You wanted him to invite you to the party and he did it!",
+      "characters": [
+        "Peter Becker",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! I'm an actor too! I'm not sure. I think they're taking the ferry out to some Italian place on Staten Island.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So Monica let me ask you a question. Y'know, since we broke up do you ever, think about me?",
+      "characters": [
+        "Monica",
+        "Gunther",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh-hmm. I'm just thinking about Phoebe; poor knocked up Phoebe.",
+      "characters": [
+        "Janice",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": ": I saw what you were doing in Tulsa. angry sharks turn you on!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Right, um, but, on Hanukkah, Hanukkah is a celebration of a miracle. See, years and years ago there were these people called the Maccabees.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "After applying the Waxine and linen strips to leg number one,",
+      "characters": [
+        "Peter Becker",
+        "Phoebe",
+        "Ross",
+        "The Salesman"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes, yes I actually saw him leave. I mean that guy is standing in the window holding a human head. He is STANDING IN THE WINDOW HOLDING A HUMAN HEAD!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

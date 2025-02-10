@@ -1,0 +1,106 @@
+{
+  "gameNumber": 587,
+  "date": "2026-09-01",
+  "questions": [
+    {
+      "quote": "It's okay. You know, I totally understand, alright? You guys, make way more sense than her and I ever did, you know. And... I want you to be happy.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Amy Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What? Uhh, Phoebe, honey, honey, I know you're quirky and I get a big kick out of it, we all do actually, but if you destroy a coat like this that is like a crime against nature! Not nature, fashion!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Right, will you excuse us for one moment? What are you doing?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well maybe you can date him then that would save me the trouble of killing him. Are you okay?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "Y'know what, this is obviously some kind of twisted joke she's trying to play on him.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey, I gotta tell ya, I've been thinking all day about that scene you did, I mean, you were amazing!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right listen umm, I just bought something I'm not sure she's gonna like it, and it's gonna seem a little crazy, but this is something that I wanted since I was a little girl.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry, you know, maybe I wasn't being clear. Uh, this is our cart.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, you know, there's no one way really, it's just, you know, whatever it takes so that you can finally say to him, \"I'm over you.\"",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Janice",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "No, see, I'm trying this new screening thing. You know, I figure if I'm always answering the phone, people'll think I don't have a life. My god, Rodrigo never gets pinned.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

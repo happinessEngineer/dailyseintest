@@ -1,0 +1,106 @@
+{
+  "gameNumber": 993,
+  "date": "2027-10-12",
+  "questions": [
+    {
+      "quote": "Yes it is perfectly good, and it is not one of the places the duck got sick!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Why would she use them with Richard and not me? I can be kinky! I once did a naked dance for her... with scarves!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. So um, I-I heard about this ah, Mark guy that ah, Rachel met today.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, but come on, we're off to a great start aren't we? I knew I'd get you here fast, but this has got to be some kind of a record!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thank you. Okay, go! Go! Go! Now, if after dinner you still really need to bust someone, I know a hot dog vendor who picks his nose.",
+      "characters": [
+        "Phoebe",
+        "Richard Burke",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ohh, I just don't think I have enough left on my credit card.",
+      "characters": [
+        "Jason",
+        "Ginger",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Chandler... In all my life... I never thought I would be so lucky. As to...fall in love with my best...my best... There's a reason why girls don't do this!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Then you're not gonna like what's coming. I'm sorry, I'm sorry, I'm sorry. Thank you, thank you.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I thought it was ok when you slept with your old assistant Tag.",
+      "characters": [
+        "Richard Burke",
+        "Gavin Mitchell",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Ooh, we'll say that we were mugged! You can't get mad at someone who's been mugged!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

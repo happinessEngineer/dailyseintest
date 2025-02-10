@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1328,
+  "date": "2028-09-11",
+  "questions": [
+    {
+      "quote": "Cliff, do you really believe that a character from a TV show was here in your room?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh! Thanks, I'm crazy about our place. Hey! speaking of crazy... do you have a history of mental illness in the family?",
+      "characters": [
+        "Joey",
+        "Mona",
+        "Ursula Buffay",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, we had a lot of liquor left over from the Christmas party.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and \"See you around!\" Let's go, Phoebe.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Why... I... I don't know. Uhm... errrr... maybe... maybe because of my father?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "David"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, we have all this paperwork that needs to be filed by the end of the year. If I don't get it done, I'll be fired.",
+      "characters": [
+        "Chandler",
+        "Roger",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You went shopping?! What, and then you just came in here and paraded it right under Jill's nose when you know she's trying to quit. Wow, you guys are terrible!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Amanda Buffamonteezi",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't speak for Emily, but Susan is in a loving, committed relationship.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Umm, okay, I think I'm-I'm just gonna-just gonna say it. Just gonna say it. Uhh, I'm still in love with you Ross.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "She was just crawling around and she found him, so I just let her sleep with him. That's all right? Isn't it?",
+      "characters": [
+        "Rachel",
+        "Emily Waltham",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

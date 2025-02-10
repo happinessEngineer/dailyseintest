@@ -1,0 +1,106 @@
+{
+  "gameNumber": 892,
+  "date": "2027-07-03",
+  "questions": [
+    {
+      "quote": "Wow! I can't believe they didn't put it in the part where you said you didn't watch soap operas.",
+      "characters": [
+        "Rachel",
+        "Leonard Green",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Bye Marcel. See ya on the big screen. You keep people drinkin' that beer, OK. I miss you buddy.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Gary"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's okay. I suppose it could happen to anyone, not anyone I know, but... By the way I can still see it.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I can't believe this! This sucks! When I had insurance I could get hit by a bus or catch on fire, y'know? And it wouldn't matter. Now I gotta be careful?!",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Can you believe this? We were waiting for a hot guy and then an even hotter one shows up!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know! I know! And he totally freaked out and I can't find him anywhere!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Tag Jones",
+        "Erica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow! You look... ... stop-eating hot! Which is like the highest level of hotness!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Andrea Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay Rach, that muffin and espresso, $4.50. Ross, double latte, $2.75. Chandler, coffee and a scone, $4.25. And Pheebs, herbal tea, $1.25. So, all together that's $12.75.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Charlie Wheeler",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'll tell you what, for the rest of our lives, I'll be careful until told otherwise. hey wait a minute this isn't the china we picked out..",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wish I could switch with someone. I really don't wanna sit with Allen Iverson over there.",
+      "characters": [
+        "Rachel",
+        "Dana Keystone",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

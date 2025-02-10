@@ -1,0 +1,106 @@
+{
+  "gameNumber": 619,
+  "date": "2026-10-03",
+  "questions": [
+    {
+      "quote": "I can tell from your expressions that that's the good news you were hoping for... Well, I'm gonna go continue to... spread the joy.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Get in here! Hey, and you can not smoke in here! Merry Christmas.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Carol, we've been through this before, ok? We have a good time. We laugh, we play. It's like we're father and son.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh-huh! Uh-huh! And-and-and I'll always remember that summer because that's when I realized that we are related.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Amy Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uhh, well I've got an audition down the street and I spilled sauce all over the front of my shirt. You got an extra one?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Why?! To celebrate your relationship! To solidify your commitment! To declare your love for one another to the world!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What are you doing?!! Why are you defending him?! Just get me another doctor! One who is not crazy and who is not Fonzie!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my gosh! Oh wow! Oh, I know what this is! Wait a minute. That can't be right. Is that a beer bong for a baby?",
+      "characters": [
+        "Dr. Ledbetter",
+        "Charlie Wheeler",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, sure! Come in! Well, what-what happened to your girlfriend?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

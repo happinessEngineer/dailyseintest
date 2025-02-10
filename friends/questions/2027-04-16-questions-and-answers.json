@@ -1,0 +1,106 @@
+{
+  "gameNumber": 814,
+  "date": "2027-04-16",
+  "questions": [
+    {
+      "quote": "Well, she's out of town so, there's gotta be something in her house that tells me where my Father is.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, good, that's good, but you don't look like you were mugged!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler, your being here is the best Christmas present I could have ever imagined.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look around, you guys. This was your first home. And it was a happy place, filled with love and laughter. But more important, because of rent control, it was a friggin' steal!",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, I can fix this! Okay Monica, Rachel thinks all you can talk about is the wedding.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Peter Becker",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, well he totally screwed up the punch line. Y'know, it's supposed to be arrghh-eh og-errigh.",
+      "characters": [
+        "Chandler",
+        "Tommy",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay! The movers will be here in 11 hours. Rachel has not packed. Now, everybody has to help! Chandler, we're gonna start with...",
+      "characters": [
+        "Phoebe",
+        "Guy",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, no! I don't think so! You know, according to standard table tennis rules if at any time a player uses his non racket bearing hand to touch the playing surface he or she forfeits the point.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Yeah, you could dance real good with her, she's the same size as me.",
+      "characters": [
+        "Mr. Treeger",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Oh honey, come on, have a sense of humour, you've never been able to laugh at yourself.",
+      "characters": [
+        "Rachel",
+        "Judy Geller",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Judy Geller"
+    }
+  ]
+}

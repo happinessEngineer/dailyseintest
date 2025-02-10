@@ -1,0 +1,106 @@
+{
+  "gameNumber": 879,
+  "date": "2027-06-20",
+  "questions": [
+    {
+      "quote": "Okay umm, well, first Chandler and Monica will get married and be filthy rich by the way. Yeah. But it won't work out.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I mean why, of all people would you want to go out with Chip?!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, Erica went into labor last night. Monica and Chandler are at the hospital right now!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, yes, it's kind've an unusual house. It has umm, three beautiful bedrooms and ah, no baths. But y'know, the ocean is right there.",
+      "characters": [
+        "Phoebe Abbott",
+        "Estelle Leonard",
+        "Ross",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "Y'know what you should do, just toss 'em in the shedder and claim you never got 'em.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Just one? I drive you all the way down here, and I don't get to see how it works out?",
+      "characters": [
+        "Phoebe",
+        "Judy Geller",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "OK, well, you wouldn't let me finish and I was jus- Ow. That hurt",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, now, how come you guys have never played poker with us?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That is a tricky one. Well, Joey I really wanna thank you. You've, well you made a very difficult time for me a little less painful.",
+      "characters": [
+        "Ross",
+        "Cecilia",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Cecilia"
+    },
+    {
+      "quote": "Nope. I mean, I know Susan does every year, but I think I wanna take this year to teach him all about Hanukkah.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

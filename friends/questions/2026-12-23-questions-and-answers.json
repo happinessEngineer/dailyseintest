@@ -1,0 +1,106 @@
+{
+  "gameNumber": 700,
+  "date": "2026-12-23",
+  "questions": [
+    {
+      "quote": "Well, what-what would you do? Rach, if you were me, what-what would you do?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Sophie"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know what, I can't do this. I don't know which one of you guys to pick.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Whew. Although y'know, this is part of a salt and pepper set. I mean... I guess y'know it may just count as a half a present. What do you think?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that.",
+      "characters": [
+        "Monica",
+        "Joanna",
+        "Jill Green",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "You're kidding! And he plays rugby?! That's so funny. Ohh! I see how you did that. All right.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You guys promised you'd be more careful! I mean, come on! The good Joey name is being dragged through the mud here!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, it's not that, I just don't want to be stuck here all night with your fat sister.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, that's not good. But you know, I can move some stuff around, and I'll be there. You and Alice just take the whole day together.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What? Oh y'know what? Can we please keep the chicken and the turkey and everything on the other side of the table? The smell is just yuck!",
+      "characters": [
+        "Cop",
+        "Phoebe",
+        "Rachel",
+        "Parker"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ah well, it's nubbin. Nothing! Umm. Y'know what, I'll see you later. Okay.",
+      "characters": [
+        "Joey",
+        "Ginger",
+        "Janine Lecroix",
+        "Rachel"
+      ],
+      "correctAnswer": "Ginger"
+    }
+  ]
+}

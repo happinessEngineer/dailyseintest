@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1391,
+  "date": "2028-11-13",
+  "questions": [
+    {
+      "quote": "Uh, Joey is gonna be right back. Right back! Meanwhile, let's-let's-let's talk about you. So, you're old and small.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Fine, but if we end up not doing this Maxim thing because of this party...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Billy"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, by the way. Would it be okay if I gave the toast to mom and dad this year?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Three months? Okay... This is probably none of my business, but uhm, how long do you think you're gonna keep seeing her?",
+      "characters": [
+        "Phoebe",
+        "Peter Becker",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, the essence of the character is rooted in her confidence. So, when Jessica enters a room for instance, she owns everything and every person in that room. You try.",
+      "characters": [
+        "Ross",
+        "Cecilia",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Cecilia"
+    },
+    {
+      "quote": "Did you see the look that girl just gave me? Huh? She must've seen me cruising in the bad boy.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Eddie Menuek",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, that's my job. Alright, look up. . . look down, now open your eyes, now look down. That's right, look into the light. Now look at me. . . OK. Your eyes look good. Those are good eyes.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "But, I need your germs! I want my cold back! I miss my sexy voice.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ahh, sorry, nothing you can do about it. It's one of my ah, rights as the ex-boyfriend. Oop, oh yeah!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Emily Waltham",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Because if I go home, we're gonna become the Bings! I can't be the Bings!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

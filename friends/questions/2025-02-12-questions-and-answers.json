@@ -1,0 +1,106 @@
+{
+  "gameNumber": 21,
+  "date": "2025-02-12",
+  "questions": [
+    {
+      "quote": "Ross, you know what? She may need one..We're just going to have to make our peace with that! Monica and Chandler's apartment.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my God! I was so afraid I wasn't gonna remember any of my high-school French, but I understood every word you just said!",
+      "characters": [
+        "Rachel",
+        "Joey Tribbiani Sr.",
+        "Monica",
+        "Robert Bobby"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Platting goats are platting. Platting down the street. Platting goats are platting, leaving little treats. Does it even work without my sexy voice?",
+      "characters": [
+        "Rachel",
+        "Benjamin Hobart",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, Ross, you had to, I mean, he was humping everything in sight. I mean, I have a Malibu Barbi that will no longer be wearing white to her wedding.",
+      "characters": [
+        "Helena",
+        "Rachel",
+        "Chandler",
+        "Amy Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, that's like the most ugliest dress I've ever seen. Wh-why do you to return it?",
+      "characters": [
+        "Joanna",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "\"Good-bye Phoebe and Ursula. I'll miss you. P.S. Your Mom lives in Montauk.\" You just wrote this!",
+      "characters": [
+        "Guy",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well you're fingerprints were all over my badge so I just ran it through the computer and this was listed as your last known address so I just checked it out.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Gary",
+        "Janice"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Hmmm. Oh, no, no, I just thinking about something funny I heard today. Umm, Mark, Mark saying 'I'll see you Saturday.'",
+      "characters": [
+        "Jack Geller",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, you, you can't fit in that thing. That's not deep enough.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Guy",
+        "Monica"
+      ],
+      "correctAnswer": "Guy"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 551,
+  "date": "2026-07-27",
+  "questions": [
+    {
+      "quote": "Oh, sure, yeah. This is the one of you father in a meadow, and, uh, helping a little boy fly a kite, and here he is at a graduation. . . another graduation. . . another graduation.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Grandmother",
+        "Chandler"
+      ],
+      "correctAnswer": "Grandmother"
+    },
+    {
+      "quote": "Uh, no! No! That's...art! If it bothers you I can put my art out.",
+      "characters": [
+        "Richard Burke",
+        "Joey",
+        "Earl",
+        "Ross"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Ah yeah-wait a second now! Look we're gonna have to set a spending limit on the date. I don't have the money to take her to a fancy place like that.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, fine! But I had too! I had to do it for my career!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is what my mom was talking about. Whiners are wieners. Look, you want your friends to be happy, right?",
+      "characters": [
+        "Ross",
+        "Mackenzie",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Mackenzie"
+    },
+    {
+      "quote": "Look, I'm sure it would be great, but I-I think one of us has to be thinking clearly, so, I'm gonna go!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Whoa! Whoa! Whoa! What about you, having those babies for your brother? Talk about selfish!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can do that! \"Hello, I'm your professor. When I'm not busy thinking of important things or... professing. I like to use...\" Oh, what's the product?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Earl",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, that makes sense. Ugh. But-Screw you I'm going first!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, no no, that's the beauty part, it goes with everything. You put this on, you're good to go. Ohhh man, you are so wearin' that bracelet.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

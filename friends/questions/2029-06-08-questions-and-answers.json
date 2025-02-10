@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1598,
+  "date": "2029-06-08",
+  "questions": [
+    {
+      "quote": "Yeah! Yeah sure, just long as it's handled tastefully and that barn is not too cold.",
+      "characters": [
+        "Joey",
+        "Phoebe Abbott",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Do you think things would have been better if you'd just told her the truth?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You were worried about me? You didn't know how I was going to react?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Frank Buffay Jr.",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Alright alright, we still have three hours till escrow closes on our house. We can still get out.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "There was one! She's it! All the rest look like they should live under a bridge!",
+      "characters": [
+        "Ross",
+        "Paul the Wine Guy",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Would you get that please? People have been calling to congratulate me all day.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Nooo! Never! I mean, we're living in the moment. God, it is so nice for once to not have to get all hung up on 'Where is this going?'",
+      "characters": [
+        "Joey",
+        "Susie Moss",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't think this town is big enough for both of us to relax in. Draw!!",
+      "characters": [
+        "Monica",
+        "Sandy",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! Yeah Monica! You listen to me, okay? And I'm not just saying this because I'm your friend, I'm sayin' it 'cause it's the truth. You're food is abysmal!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

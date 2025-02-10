@@ -1,0 +1,106 @@
+{
+  "gameNumber": 729,
+  "date": "2027-01-21",
+  "questions": [
+    {
+      "quote": "Hey! Hold on a minute, hold on a second. Do you think these pearls are nice?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Leonard Green",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know if it's any consolation, he really did sound like he was having more fun with you.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Rachel one brunch is not gonna solve anything. You gotta face it, okay we're never gonna get along.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Issac",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, we're still together. Yeah we went out for two summers, and then I broke up with her.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, is this the day of good news or what? I got us a job! The wedding reception.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, and you know whose knowledge of her ex-boyfriend is shocking? Monica!",
+      "characters": [
+        "Leonard Green",
+        "Dr. Drake Ramoray",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": ": It wasn't just that she was fat, the woman smelled like garbage! Everyone! It wasn't just that she was fat the woman smelled like garbaaaaaage! Classy, uh?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Receptionist"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know, I just didn't want to wear my glasses on my first date.",
+      "characters": [
+        "Joshua Burgin",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uhhh, yeah. Yeah. But uh, I don't think it's the kind you're gonna like.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'd love it too. Shoot, I gotta go. So, I'll talk to you later.",
+      "characters": [
+        "Woman",
+        "Ross",
+        "Jack Geller",
+        "Julie"
+      ],
+      "correctAnswer": "Julie"
+    }
+  ]
+}

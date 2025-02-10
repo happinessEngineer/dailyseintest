@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1023,
+  "date": "2027-11-11",
+  "questions": [
+    {
+      "quote": "Hey Joey, we're ready for ya! Joey, this is Alex he's going to be playing your son.",
+      "characters": [
+        "The Director",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "The Director"
+    },
+    {
+      "quote": "your welcome again, I'm gonna make some coffee can I get you anything?",
+      "characters": [
+        "Phoebe",
+        "Hayley",
+        "Monica",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Hayley"
+    },
+    {
+      "quote": "Listen er..I need to ask you a favor but you can't tell Monica anything about it.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I mean, we know it's a bit hasty but, uh, it just feels so right, so...",
+      "characters": [
+        "Emily Waltham",
+        "Monica",
+        "Chandler",
+        "Susie Moss"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "I don't know why I was so nervous about this. And I don't know why Frank and Alice are always complaining. This is so easy.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, well you see how it works is, the part with Dick Clark in Times Square is actually live, but they tape some of the party stuff ahead of time. Yeah, not a lot of people know that.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes! I do! All the time! I love them! Oh my God! I did it! It's me! It's me! I burned down the house! I burned down the house!",
+      "characters": [
+        "Mr. Treeger",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, seriously. These hands. These miracle, magical, life-giving hands. Oh, just to be near them, touch them, maybe even lick one?",
+      "characters": [
+        "Erica Ford",
+        "Ross",
+        "Chip Matthews",
+        "Joey"
+      ],
+      "correctAnswer": "Erica Ford"
+    },
+    {
+      "quote": "Well, it's just with uhm, work and the stress of adoption, we just don't feel like we have the energy. Plus, we don't think it's fair that every year the burden falls on us.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, we have time off and a lot of people are going on trips...",
+      "characters": [
+        "Elizabeth Stevens",
+        "Joey",
+        "The Director",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    }
+  ]
+}

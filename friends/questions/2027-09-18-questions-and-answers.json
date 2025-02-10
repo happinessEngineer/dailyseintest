@@ -1,0 +1,106 @@
+{
+  "gameNumber": 969,
+  "date": "2027-09-18",
+  "questions": [
+    {
+      "quote": "You know that girl I told you about who lives up in Poughkeepsie?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm Ross Geller. Wha, I'm, God in your add you said you were pretty but wow.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, it's not like, like Phil Spiderman. He's a spider, man. Y'know like ah, like Goldman is a last name, but there's no Gold Man.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This sounds like a hernia. You have to-you-you-Go to the doctor!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's, I mean, it's nothing, I'm fine. It's my friends. They-they have a liking problem with you. In that, um, they don't.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Is that Joey? Is that Joey? Let me talk to him! I wanna talk to him!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm really glad you guys are okay but, I just keep thinking what would happen if-if you two actually had hooked up.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, I-I can't-I mean y'know I was trying to be really y'know okay and upbeat about it, I just-I feel so dwarfed by your musical gift. I...",
+      "characters": [
+        "Trudie Styler",
+        "Ross",
+        "Benjamin Hobart",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What is he doing? What, Emily, thinks Ross's furniture has got Rachel coodies?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The thing is, I think some of the parents, they were kinda hopin' that you'd play more songs about like, barnyard animals.",
+      "characters": [
+        "Rob",
+        "Monica",
+        "Joey",
+        "The Director"
+      ],
+      "correctAnswer": "Rob"
+    }
+  ]
+}

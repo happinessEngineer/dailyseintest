@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1377,
+  "date": "2028-10-30",
+  "questions": [
+    {
+      "quote": "Whoa, whoa. Wait a minute. Wait a minute. If you just got back from Tulsa, how did your suitcase beat you here?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joshua Burgin",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Don't touch the phone! I'll get it, I'll get it, I'll get it!!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Chandler, relax it's not a contest. Certainly not a close one.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm gonna go tell Joey that that you're back. I was really worried about you.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But not the husband, because evidently she can do this alone.",
+      "characters": [
+        "Cop",
+        "Monica",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know honey, umm, as uh, as flattered as I am that uh, you saw me first, uhh, I just, I-I don't think we should be cranking anything up.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well that is because you have never been on a date with me before.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now listen, not that you guys could stop me or anything cause you know you'd be dead. I was thinking about changing her name. I'm just not really a big fan of Emily.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Amy Green"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "\"Dear Rach, you're a great person. Sorry about your tiney-wienie.\"",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

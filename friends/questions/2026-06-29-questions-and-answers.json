@@ -1,0 +1,106 @@
+{
+  "gameNumber": 523,
+  "date": "2026-06-29",
+  "questions": [
+    {
+      "quote": "Alright, I'll tell you what, you call the couch and then, and then we'll call the couch, and we'll see who it comes to.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Are you telling me that you bought the chair that is making all other lounge systems obsolete? The chair that Sit magazine called the Chair of the Year?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, because if I was at my old job we'd say 300 million? No thank you!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, first of all, Paulo and I are not back together. It was just a stupid thing I did, and if I could go back in time and do it again, well, I wouldn't. Um, second of all , what?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Pheebs, you can't do that. The casting director doesn't talk to friends, she only talks to agents.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I know what I felt that night when we kissed under the bridge.",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Monica",
+        "David",
+        "Phoebe"
+      ],
+      "correctAnswer": "Dr. Drake Ramoray"
+    },
+    {
+      "quote": "Nothing! It's over! Dammit! This is regularly scheduled programming!",
+      "characters": [
+        "Phoebe",
+        "Mike Hannigan",
+        "Woman",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Honey! Do you know that none of that stuff came from me?! I mean I never said I wanted to have babies and get married right now!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No no no, I mean, hey, why shouldn't I be happy for you? What would it say about me if I couldn't revel in your joy? I'm revelling baby, believe me!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Dr. Franzblau"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh, listen um, as long as we're telling stuff, uh, I have another one for you. I'm a little younger than I said.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ethan"
+      ],
+      "correctAnswer": "Ethan"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 903,
+  "date": "2027-07-14",
+  "questions": [
+    {
+      "quote": "Sweetie, you gotta relax. Everything's gonna be great, okay? Come on. Come on.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Interviewer"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, no matter what happens with Ross and Emily, we still get cake right?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "The Director"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You guys got anything to eat? I just went down to Johnos for some chicken and it was closed!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Sandy"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So I did tell you. Okay, y'know, that really isn't the thing. Umm, the thing is that, right now I'm just in a place in my life where I need to focus on me. Y'know what I mean?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joanna",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Can I come a little bit closer, valuable things are getting squished...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I had to bring them! We killed their mother, they're our responsibility now. You know, they require constant care. You should know that, Rachel, you're a mother.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God, it's gonna WORK! We're gonna make it work! I'm gonna be a mummy and you're gonna be a daddy! All right, I'll see you suckers. I'm gonna get me... A BABY!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "He was roommates with John Rosoff. He went out with Andrea Tamburino. She dumped him for Michael Skloff.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Dr. Drake Ramoray",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well it's not, honey I'm sorry, I guess I'm just nervous. I mean, it's you, ya know, it's us. I mean, we're crossing that line, sort of a big thing.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, that's why you got these tickets to that play, to get rid of us??",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

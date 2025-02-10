@@ -1,0 +1,106 @@
+{
+  "gameNumber": 43,
+  "date": "2025-03-06",
+  "questions": [
+    {
+      "quote": "There's my boy! Here's my boy! And here's his Barbi What's ah, what's my boy doing with a Barbi?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Margha",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know. It's-it's just...lately, I've been feeling... Okay, here's what it is... You know what? I feel a lot better, thanks!",
+      "characters": [
+        "Phoebe",
+        "Charity Guy",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You're right! I mean you're right! It wasn't just the Weebles, but it was the Weeble Play Palace, and and the Weebles' Cruise Ship. Oh, which had this little lifeboat for the Weebles to wobble in.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I was thinking that it'd probably be okay because Ross hasn't gone out with Rachel in five years!",
+      "characters": [
+        "Dina",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh well, the little girl who lives here made me feel a lot better about the whole thing.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay. And don't worry, I'm not just gonna take you out for donuts.",
+      "characters": [
+        "Gary",
+        "Phoebe",
+        "Jason",
+        "Ross"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "All right, there are no questions in the happy place. Okay, just, the warm breeze, and the moonlight flowing through the trees....",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": ": Here why don't you sit down, get yourself comfortable because I. have a little surprise for you.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Jack Geller",
+        "Jason"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know, I've been looking at those doors, they look pretty sound proof, don't you think?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah! And you have so many more choices than you do with men's underwear!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

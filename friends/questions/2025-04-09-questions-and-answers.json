@@ -1,0 +1,106 @@
+{
+  "gameNumber": 77,
+  "date": "2025-04-09",
+  "questions": [
+    {
+      "quote": "Well y'know every time that they say that like they're doing laundry we'll just give them a bunch of laundry to do.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Whoa-whoa-whoa-whoa, I-I-Hey! I did not go out with your wife! Okay? I went out with her!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know what? I've just had it with high school boys! They are just silly. Silly, stupid boys! I'm going to start dating men!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know, I know, and I was gonna get it but then he came in with this needle and uh, di-, did you know they do this with needles?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Kim"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well then, uh, I uhh, guess that's me. Anyone else need to go on the elevator? Dr. Horton, Dr. Wong?",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Dr. Drake Ramoray"
+    },
+    {
+      "quote": "Uhuh... Yeah...!, you know. And given my life long search for irony, you can imagine how happy I am.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Julie",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh yeah, it's great! See you take a tennis ball, a bowl, and some lighter fluid-Op! Op!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What if I had had the guts to quit my job? I'd probably be writing for the New Yorker, getting paid to be funny. But my job's fun too! I mean tomorrow, I-I don't have to wear a tie.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Eric"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, honey, my test is down the hall, are you sure you're going to be ok?",
+      "characters": [
+        "Rachel",
+        "Paul Stevens",
+        "Melissa Warburton",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It'll be nice to get this off finally, won't it? Yes it will. Or we can leave it on for now, that's fine.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

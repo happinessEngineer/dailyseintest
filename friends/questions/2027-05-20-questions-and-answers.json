@@ -1,0 +1,106 @@
+{
+  "gameNumber": 848,
+  "date": "2027-05-20",
+  "questions": [
+    {
+      "quote": "You guys, I ordered some chocolate pies from that bakery on Bleecker. Could you pick them up for me?",
+      "characters": [
+        "Charlie Wheeler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's like the pervert motto! Yeah! Yeah! They have you raise your right hand, put your left hand down your pants, and repeat that!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Good for you! And hey, I thought your paper on punctuated equilibrium in the Devonian era was top notch!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What?! You can't shed a tear for your dead wife!! Now, I left you a note from the beyond!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But what about all the \"finding-his-flaws\" stuff we've been doing?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm full, and yet I know if I stop eating this, I'll regret it.",
+      "characters": [
+        "Chandler",
+        "Danny",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I want you to meet someone really special. Phoebe, this is Erica. And this is the baby!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, you go do it! I'll come back to that set! I'll meet more actors! I'll meet 'em all!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Thanks, that would be great. Hey, honey, wouldn't that be great?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Amanda Buffamonteezi"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know, she seemed to think it was such a crazy idea! Um, plus, she, uh, she got me taffy!",
+      "characters": [
+        "Ross",
+        "Emily Waltham",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

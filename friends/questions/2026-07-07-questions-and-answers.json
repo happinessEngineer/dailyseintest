@@ -1,0 +1,106 @@
+{
+  "gameNumber": 531,
+  "date": "2026-07-07",
+  "questions": [
+    {
+      "quote": "But you're not just a soap actor. You are a soap actor with freakishly tiny feet.",
+      "characters": [
+        "Larry",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oooh... you're sweet, I knew uncle Joey would step up. Look Emma, look who's baaack!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Huh, could you imagine. I go away for a few days, and come back, and my boyfriend is living with some woman he got pregnant!",
+      "characters": [
+        "Mona",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "Until then, General Grant, why don't you set up camp right there.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross, you have to understand that your nice thing makes us feel this big.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ugh, okay, I have an enormous crush on you. But because you're a client, I can't ask you out, even though you give me y'know, the feeling.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, it's almost if Air Barbados doesn't care about your social life.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.",
+      "characters": [
+        "Joey",
+        "Barry Farber",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Barry Farber"
+    },
+    {
+      "quote": "Yes, okay, oh, by the way, I just gotta say, I think it's really nice of you that even after you've moved, you still keep storing that stuff for Joey!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

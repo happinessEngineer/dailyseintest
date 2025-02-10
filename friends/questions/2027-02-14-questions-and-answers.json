@@ -1,0 +1,106 @@
+{
+  "gameNumber": 753,
+  "date": "2027-02-14",
+  "questions": [
+    {
+      "quote": "This is just so exciting. You know, I never worked. I went straight from my father's house to the sorority house to my husband's house. I am just so proud of you.",
+      "characters": [
+        "Sandra Green",
+        "Joey",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "So you're playing a little Playstation, huh? That's whack! Playstation is whack! 'Sup with the whack Playstation, 'sup?! Huh? Come on, am I 19 or what?!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Relax okay, I-I-I can get this open. Anybody have a coat hanger?",
+      "characters": [
+        "Ross",
+        "Joshua Burgin",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know, I don't mind a... male nanny, but I do draw the line at a male wetnurse.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's okay Mike, I have forgiven you. And now we're friends again everything's great! Mary Ellen Wait, is your mom okay?",
+      "characters": [
+        "Joey",
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Know what-If somebody doesn't tell me what's going on right now...",
+      "characters": [
+        "Leonard Green",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, I don't need any toner because I'm going to kill myself.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Earl"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "I don't know... I can make my pecs dance... I can pick up a dollar bill with my butt cheeks... I can go to that special place inside me where I feel no shame.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Roy",
+        "Bob (Chandler's coworker)"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Well then we'll-we'll see you the day after tomorrow. Mom?! Dad?! What-what...what you guys doing here?!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, but, hey look, don't go through her stuff. She gets really mad.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1315,
+  "date": "2028-08-29",
+  "questions": [
+    {
+      "quote": "Because you've worked really hard, and it's your job, and you're a little crazy.",
+      "characters": [
+        "Chandler",
+        "Gavin Mitchell",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Ohh, they're having a great time with their Aunt Phoebe! Aunt Rachel hasn't been helpful at all. So, do you miss me?",
+      "characters": [
+        "Monica",
+        "David",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Noo!! No! You thought, you actually thought I wanted to have sex with you?!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's kind of embarrassing, y'know. I mean, I was an actor and now I'm a waiter. It's supposed to go in the other direction.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait a minute, did you just make up all that stuff just to get out of being my agent.",
+      "characters": [
+        "Mona",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, this isn't so bad. I like the flower smell! Which is okay, because I've got my boat.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Helena"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "If you don't believe me, let's go talk to him, okay? I'm telling you, he didn't ask me one paleontological question.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I'm serious. It's fun, it's different and no-one else has a name like that!",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Yeah, someplace nice. How much do you think I can get for my kidney?",
+      "characters": [
+        "Chip Matthews",
+        "Phoebe",
+        "Joey",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No they don't!!! Well they should put it in huge black letters!!!!",
+      "characters": [
+        "Dr. Franzblau",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

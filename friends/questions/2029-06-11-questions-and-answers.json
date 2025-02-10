@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1601,
+  "date": "2029-06-11",
+  "questions": [
+    {
+      "quote": "Ah, Gunther, I can't pay for this right now because I'm not working, so I've had to cut down on some luxuries like uh, payin' for stuff.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Cheryl",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uhm, thank you, but we're really trying not to get our hopes up.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! What's the matter? Are you scared? You're afraid I'm a better singer? You're afraid I'm gonna beat you at singing?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Julie! Julie, isn't that great? I mean, isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, ok. I'm sure that doctor's office can't be worst than on a class trip to the Hershey's factory!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Question. Why do we always have to have parties where you poach things?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Roy",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The reason we didn't tell anyone was because we didn't want to make a big deal out of it.",
+      "characters": [
+        "Monica",
+        "Sandra Green",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So. I mean, who here does not have the time to get to know Julie?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know what? There's some nice guys at my office, do you want me to set you up?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

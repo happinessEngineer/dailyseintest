@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1360,
+  "date": "2028-10-13",
+  "questions": [
+    {
+      "quote": "Yeah, hey I-I have clothes, I even pick them out. I mean for, for all you know I could be a fashion..... monger.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, I'm gonna call her later! Honest! Oh come on, Chandler used to do it! He'd even make the girl pancakes! Plus, he'd make extras and leave 'em for me.",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Erica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh God! Orange juice just came out of my nose, but it was totally worth it. Oh my God, I completely forgot about your sound.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh Will umm, I just want to say that I'm real sorry for whatever I-I did to you in high school...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right. Now some of you are gonna get cut, and some of you aren't. But I promise none of you are gonna feel a thing.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, come on you guys, you said you were gonna try! All right look, I came over here to invite you guys to a movie with me and Janine.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ah, y'see, perfect might be a problem. Had you said 'co-dependent', or 'self-destructive'...",
+      "characters": [
+        "Phoebe",
+        "Woman",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I did the first time! Oh. Oh.. And you know what. You want to know why I'm not giving Emily to you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And your lap does not count! Okay? Come on help me move this.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Jason"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, fine. Um, you were not the only one there. Joey was there too.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Sandra Green",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

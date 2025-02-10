@@ -1,0 +1,106 @@
+{
+  "gameNumber": 340,
+  "date": "2025-12-28",
+  "questions": [
+    {
+      "quote": "Oh, I'm sorry. But I really like this guy. And I think he really happens to like me.",
+      "characters": [
+        "Phoebe",
+        "Steve",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What's the big deal, y'know? It's not like it's a real marriage.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "The Salesman",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Heckles played clarinet in band, and I played clarinet. And he was in the scale modeler's club, and I was, well, there was no club, but I sure thought they were cool.",
+      "characters": [
+        "Mr. Zelner",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I mean it's not all bad. I'm learning to appreciate the uh, smaller things in life. Like the sound of a bird and the color of the sky.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Still, that really sucks, man. Especially on Valentine's Day.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Chandler, easy, easy. Go to your happy place. La la la la la la la.",
+      "characters": [
+        "Phoebe",
+        "Steve",
+        "Gary",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, be home, be home, be home, be home, be home, be home. Be home. Be home, be home, be home. Oh, you're not home.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry, I'm sorry. You know what, the way you did it was just fine.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I'm starting to make good money on the show and I'm thinking... I should probably do something with it.",
+      "characters": [
+        "Joey",
+        "Janine Lecroix",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, you guys in the living room all know what you want to do. You know, you have goals. You have dreams. I don't have a dream.",
+      "characters": [
+        "Ross",
+        "Will Colbert",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

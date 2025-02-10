@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1167,
+  "date": "2028-04-03",
+  "questions": [
+    {
+      "quote": "Okay, the next contraction should be in about twenty seconds.",
+      "characters": [
+        "Phoebe",
+        "Dr. Long",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Dr. Long"
+    },
+    {
+      "quote": "Hey you guys I'm gonna take off. I just wanted to let you guys know, say goodbye.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh that's interesting? Because I checked and only one keycard was used to access the copy machine yesterday during lunch and that keycard belonged to you, Rachel.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Mike Hannigan",
+        "Kim"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "I don't wanna stand in the way of true love or anything, but I think a cantaloupe might hurt less.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I just wanted to tell you something before you heard it from someone else and I hope this isn't too weird, but uh, I had uh, a thing with Janice. What you're-you're not mad?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It would really help when I'm kissing you if you didn't shout out my sister's name.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh... Oh! You were not meant to see me before the wedding. It's bad luck.",
+      "characters": [
+        "Monica",
+        "Sandy",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Okay, but wouldn't it be easier if you had to tell me something that you could tell me.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Mr. Douglas"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Kinda... you know, sneaking around, having to hide from you guys...",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! That must be why I got fired last week! Does this Orson Wells guy direct Burger King commercials?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

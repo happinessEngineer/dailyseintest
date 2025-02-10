@@ -1,0 +1,106 @@
+{
+  "gameNumber": 240,
+  "date": "2025-09-19",
+  "questions": [
+    {
+      "quote": "Oh, yeah, I'm sorry. They used to live here; sometimes they migrate back over.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And I feel like I've conquered the business world, and I feel like I've conquered the intellectual world, and now I-I have the most beautiful woman in the world.",
+      "characters": [
+        "Peter Becker",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Joey, I'm not worried about her! I'm worried about my baby! Whoever she dates my baby dates! Now-now where is this actor taking them?",
+      "characters": [
+        "Jim",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, what are they gonna say you didn't love me anymore. Come on.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Barry Farber"
+    },
+    {
+      "quote": "Yeah, I mean when you were late last night, Kathy and I got to talking, and one thing to another and...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, yeah, easy for you to say, you don't have to walk around sporting some reject from the Mr. T collection.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Would you slap me? Would you slap me right here in the face?!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Waiter",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh this, well I'm glad you asked. Now, don't you hate it when you have to cut a tin can with an ordinary steak knife? Ahh! Now, I know what you're thinking...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know what I keep wondering? Why you two are still sitting here.",
+      "characters": [
+        "Monica",
+        "Big Bully",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Big Bully"
+    },
+    {
+      "quote": "Hi, who's this? Hi, Joanne. Is Rachel working? It's Monica. Yes, I know I did a horrible thing. Joanne, it's not as simple as all that, ok? No, I don't care what Steve thinks. Hi, Steve.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

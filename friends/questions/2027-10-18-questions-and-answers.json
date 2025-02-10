@@ -1,0 +1,106 @@
+{
+  "gameNumber": 999,
+  "date": "2027-10-18",
+  "questions": [
+    {
+      "quote": "It was no big deal. We-we...said that the rumor was...that umm...you had both...male and female reproductive parts.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.",
+      "characters": [
+        "Helena",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh really, really great! Yeah! A-actually she's right down the street, umm, do-do you know what? You should stop bye and say hi.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Kim",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah but the Swing Kings? Y'know they suck so much that people actually die at their concerts-They just stop living.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Helena",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person.",
+      "characters": [
+        "Chandler",
+        "Susan Bunch",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "Oh yeah, well there's the possibility that I won't make rent.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, yeah, I think it looks pretty good. I was a little worried I was uncovering a birthmark right aboutthere, but it turned out to be a little piece of chocolate.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, don't look at me! My hair's straight! Straight! Straight! Straight!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, oh, Mark, I'm doing this for the wrong reasons, y'know? I'm just doing it to get back at Ross. I'm sorry, it's not very fair to you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right then, when I'm done with this place, it's gonna be ten times better than that place!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

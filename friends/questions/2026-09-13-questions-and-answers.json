@@ -1,0 +1,106 @@
+{
+  "gameNumber": 599,
+  "date": "2026-09-13",
+  "questions": [
+    {
+      "quote": "Alright alright. You're a monkey. You're loose in the city. Where do you go?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Rachel is one of my closest friends. Although, being the only one who knows anything about this does makes me feel special. Okay!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joanna",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, um, actually, I-I took her to the planetarium. That's-that's where we had our first date. Um, she walked in and I had the room filled with lilies, her favorite flower...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Umm, I'd love too! Ooh, I love macaroni and cheese. I love-I love the way this box feels against my cheek.",
+      "characters": [
+        "Monica",
+        "Dr. Franzblau",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "...And so then I realised. All this stuff I had been doing. proposing to Joshua, lying to Ross about why I couldn't come to the wedding. Was all just a way of...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well I'm sorry, I think about stuff. Ya know, I mean, you're at work, you're assembling bones, your mind wanders.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I've gotten into the habit of calling Rachel \"Mommy\" when we're around Emma. Which I now realize we are not ...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "David, can you help me?! I'm trying to explain to Chandler how a plane stays in the air.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah-oh! Hey listen umm, Emily found this wedding dress in London...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

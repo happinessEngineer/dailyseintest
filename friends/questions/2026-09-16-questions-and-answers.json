@@ -1,0 +1,106 @@
+{
+  "gameNumber": 602,
+  "date": "2026-09-16",
+  "questions": [
+    {
+      "quote": "Hello? Oh, Hi, Ju Hi, Jew! Uh huh? Uh huh? Ok. Um, sure, that'd be great. See ya then. Bye.",
+      "characters": [
+        "Monica",
+        "Megan Bailey",
+        "Rachel",
+        "Sandy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Eh, they're both good. I generally just go with, Monica's drunk again.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, that's a lot better than Ross trying to kiss me in High School, and saying that he did it because he needed chapstick.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Little Bully"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Maybe nobody won the jackpot, but there was this guy in here earlier, and he found the ticket on the street, right outside, and won $10,000 .",
+      "characters": [
+        "Chandler",
+        "Gunther",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Naa, you're just sayin' that 'cause you're in love with Yasmine Blepe.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Eddie Menuek",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, this is a typical lightning-bearer thing. Right there, it's like, um, 'Hello, who wants one of my fallic shaped man cakes?'",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey what do you say, we move this onto the likes of the couch?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait a minute, you guys. Oh, I wanna ask you something. I-I I may get to speak at this paleontology convention and if I do, I'd love for you guys to come and hear me.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "When the Louis Vuitton people found out that Ralph Lauren wanted me back, the offered me more money! Isn't that great?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Cecilia",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

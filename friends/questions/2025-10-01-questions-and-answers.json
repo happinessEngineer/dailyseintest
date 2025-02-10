@@ -1,0 +1,106 @@
+{
+  "gameNumber": 252,
+  "date": "2025-10-01",
+  "questions": [
+    {
+      "quote": "Maaaassapequa, Sounds Like A Magical Place. Tell Me About Massapequa, Is It Steep In Native American History?",
+      "characters": [
+        "Rachel",
+        "Parker",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Parker"
+    },
+    {
+      "quote": "No, I just heard when people live together, they split the cost of stamps. Don't they?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wow! Umm, y'know, I-I would really love to, but I-I shouldn't.",
+      "characters": [
+        "The Director",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know what? The doctor will be in soon, why don't we not speak until then.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! No, no. I see where this is going. Don't make me go back there.",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "A real man wouldn't just run to the hospital! No! What would, what would Krog do?",
+      "characters": [
+        "Agency Guy",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no, no, I'm telling ya. Imagine yourself living in a supermarket and you will understand okay? So the question is, what do we do?",
+      "characters": [
+        "Monica",
+        "Benjamin Hobart",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh-huh. Uh-huh. Umm, could-could I get a copy of that? 'Cause Carol threw it out, she lost ours. She's such a scatterbrain, but man what a hot piece of ass.",
+      "characters": [
+        "Phoebe",
+        "Judy Geller",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ewww! And \"Oh no!\" It's-they just want me to be the surrogate. It's her-it's her egg and her sperm, and I'm-I'm just the oven, it's totally their bun.",
+      "characters": [
+        "David",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, y'know, we-we're safe right? I mean nothing bad can go down!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

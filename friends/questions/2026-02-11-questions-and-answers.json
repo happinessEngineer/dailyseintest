@@ -1,0 +1,106 @@
+{
+  "gameNumber": 385,
+  "date": "2026-02-11",
+  "questions": [
+    {
+      "quote": "Y'know, if they knew what they were doing they probably didn't give you real names either.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's like my favorite fairy tale come true! The princess, the stable boy and the lesbian!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Allesandro"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. Why don't you try the hummus?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, trying to turn me on by making a mess? Know your audience! Besides, tomorrow we're doing those fertility tests and until then you need to keep your tadpoles in the tank.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Because what's going on with Rachel has nothing to do with how I feel about you.",
+      "characters": [
+        "Joey",
+        "Nurse",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Why hasn't he called Rachel? Why? Why? I don't understand. Why? He said he'll call. Why? Why? Chandler I'm telling you she has flipped out, she's gone crazy!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Vince",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "She's only a couple of months pregnant. She liked our application but who knows if she's gonna like us.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I just want to watch a little television. What is the big deal? Geez, relax mom.",
+      "characters": [
+        "Frank Buffay Sr.",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm Dr. Miller. Monica told me you were a little nervous, but don't worry everything's gonna be just fine.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "The Doctor"
+      ],
+      "correctAnswer": "The Doctor"
+    }
+  ]
+}

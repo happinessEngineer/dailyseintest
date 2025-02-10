@@ -1,0 +1,106 @@
+{
+  "gameNumber": 801,
+  "date": "2027-04-03",
+  "questions": [
+    {
+      "quote": "Of course! Only an idiot would wear this stuff if you didn't have the car! Right?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What are you talking about? She just invited him to the biggest party of the millennium!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, I am against innocent trees being cut down in their prime, and their, their corpses grotesquely dressed in like tinsel and twinkly lights. Hey, how do you sleep at night?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I just have to call my agent and tell her I can't do the part.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, I've got some ugly friends, and they're all available too.",
+      "characters": [
+        "Kathy",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "No, no, no, she's nice but, y'know, it just it made me realize that I'm just not, I'm just not ready to be dating, y'know?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joshua Burgin",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "No, yeah, we never find them! She's always best at us that wily minx.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Listen! You have to help me pick a dress 'cause I'm meeting Mike's parents tonight!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I am drinking lots of cups of coffee because I'm exhausted! Because Joey started snoring!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God, I can't believe this is a real $20,000 check, oh this is just so exciting.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 508,
+  "date": "2026-06-14",
+  "questions": [
+    {
+      "quote": "No! You gotta get me out of here Phoebe! These bargain shoppers are crazy!",
+      "characters": [
+        "Woman",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, um, first he told me he liked how I looked. And, ah, then we had a little . . . um . . . eye-contact.",
+      "characters": [
+        "Roger",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know if I've told you this, but he's kinda tried to get in contact with me a lot over the last few years",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes! Carol and Susan's caterer had a mountain bike accident this weekend, and she's in a full body cast.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know what? Fine, I don't care. Don't believe me, I know I'm right-do you guys want to go downstairs and get a drink?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I've come here to apologize. I think I may have let my feelings for Charlie interfere with the interview process.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Doug",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah I know, and I bet you thought it would be weird. But it's not!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Linda Clickclocken. So what uh, what-what table are you at? Oh, uh me too.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Kim"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm really gonna miss this apartment. Y'know, Ben-Ben took his first steps right over there.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

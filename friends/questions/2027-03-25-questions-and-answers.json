@@ -1,0 +1,106 @@
+{
+  "gameNumber": 792,
+  "date": "2027-03-25",
+  "questions": [
+    {
+      "quote": "We were at the game, and this guy proposed to his girlfriend on the big screen thing...",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's all right. I mean hard is it to get a couple drinks right, huh?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So uh, so did anything happen? Because rumor has it you guys shut the drapes!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, of course not! I also, you know, prepared a reading . \"Sex and the single mother. Finding your G-spot.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay umm, bad stuff. Well, I'm-I'm 12 years older than she is.",
+      "characters": [
+        "Kathy",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You're right, I'm sorry. \"Once I was a wooden boy, a little wooden boy...\"",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, you both are equally capable. Its just.. you're strongest when.. when you're together.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh okay, it's P as in Phoebe, H as in hoebe, O as in oebe, E as in ebe, B as in bee-bee and E as in 'Ello there mate!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Interviewer"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I hope you're hungry, we're starting with oysters. And y'know what they say about oysters, don't you?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey, this is sick, it's disgusting, it's, it'snot really true, is it?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Will Colbert",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 55,
+  "date": "2025-03-18",
+  "questions": [
+    {
+      "quote": "You know, I'm just not uhm... that comfortable with a guy who's as sensitive as you.",
+      "characters": [
+        "The Cooking Teacher",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Pheebs, I don't know what to say. I guess the flea market was just better last time.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Mona"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, if you had kept listening, you-you would have heard me call him Mr. Big......ot.",
+      "characters": [
+        "Minister",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Honey, I'm sorry, but he's right. I love you, but you're crazy.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Why? Why can't the world stop turning, just for a moment? Just for us?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, it turns out that Erica didn't pay much attention in Sex Ed class, because the thing she did with that prison guy... it'd be pretty hard to make a baby that way.",
+      "characters": [
+        "Chandler",
+        "Erica",
+        "Monica",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Yeah, just so weird seeing him like that, you know? I mean he is a doctor, you don't expect doctors to get sick!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Doctor",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I just want you to know that what you witnessed in there, that wasn't for fun.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We figured we could be late because you guys were gonna be on time.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Your kid is seven?! He's really small. Please! Please get the tickets!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

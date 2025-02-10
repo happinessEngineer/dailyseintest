@@ -1,0 +1,106 @@
+{
+  "gameNumber": 975,
+  "date": "2027-09-24",
+  "questions": [
+    {
+      "quote": "Ohh... Oh, that's okay I hate when people come back to complement the chef. Like I have nothing better to do! So what's up?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Cecilia"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm agreeing with you. Did you, listen, did you happen to tell Phoebe yet?",
+      "characters": [
+        "Gunther",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh well, they're killing off one of the characters on the show, and when she dies her brain is being transplanted into my body.",
+      "characters": [
+        "Chandler",
+        "Richard Burke",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, we're just four people with neck problems. You talk like this.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "She's really going to love this, you know? The bottom line is I want her to have it, even if I don't get to be the one who gives it to her.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well y'know, they only give you three letters, so after A-S-S it is a bit of a challenge.",
+      "characters": [
+        "Joey",
+        "Joanna",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well umm, I was thinking that maybe we could come up with a system where we trade of being maid of honor for each other. Like hypothetically, if Phoebe were mine...",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No! Forget her, man! You don't need her, you don't need that!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Gunther",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, it would be you! You! Monica! And you'd get all the votes!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, honey! What's the matter? Fine, I was just trying to be nice! Whoa!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

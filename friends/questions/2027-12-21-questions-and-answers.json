@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1063,
+  "date": "2027-12-21",
+  "questions": [
+    {
+      "quote": "Oh... Ohh... I'd love to but I really have to grade these papers.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Whoa-whoa-whoa-whoa! I'm sorry, semi-private? We , we asked for a private room.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "1...2! Y'know what? You're young; you probably don't have glaucoma.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Dr. Miller",
+        "Chandler"
+      ],
+      "correctAnswer": "Dr. Miller"
+    },
+    {
+      "quote": "Oh yeah, no-no-no. I'm fine. I'm okay, but umm, my Grandma sorta died.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, you know where you are better than I do. I was just curious.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Noo!! It's driving me crazy. I mean every other way he's like the perfect guy, he has everything. Plus! He actually has everything.",
+      "characters": [
+        "Monica",
+        "Waiter",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, this is, this is unbelievable. I mean, first you sleep with my ex-girlfriend then you insult my inteligenct by lying about it and then you kill my fish, my Buddy?",
+      "characters": [
+        "Eddie Menuek",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "Wait! Wait! Wait! Y'know what? Just stay. Please? It uh... It would really mean a lot to me if you stayed.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm gonna leave some cards here. Please think of us for you next event.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I didn't see anything! I actually changed my mind about the name.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

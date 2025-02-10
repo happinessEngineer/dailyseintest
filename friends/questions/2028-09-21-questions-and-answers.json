@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1338,
+  "date": "2028-09-21",
+  "questions": [
+    {
+      "quote": "Yes, yes. I still want my daughters picture, but on a bunny cake. Yellow cake, chocolate frosting with nuts!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "David"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, but after this I want to see you outside. If the rain stops.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Oh my God, can you believe we are surrounded by all this? I can barely control myself.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And so bad. I don't even know what you're talking about because I didn't ask you to do anything!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's right. Mr. Ford is a very good customer, he brings us a lot of clothes; you bring us nothing!",
+      "characters": [
+        "Monica",
+        "The Dry Cleaner",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "The Dry Cleaner"
+    },
+    {
+      "quote": "Well, I'm really sick of your smoking, so I brought something that is going to help you quit.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Tim",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Nice going, imp. OK, it's OK. All I need to do is reach over and put it in my mouth.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's almost 8 o'clock, it's almost past his bedtime. Where-where is he?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, well, if you must know... I had a traumatic... swing incident... when I was little.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ugh, you will not believe what that sleaze-ball from Ralph Lauren did too me!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joanna",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

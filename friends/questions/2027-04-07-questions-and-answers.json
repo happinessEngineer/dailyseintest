@@ -1,0 +1,106 @@
+{
+  "gameNumber": 805,
+  "date": "2027-04-07",
+  "questions": [
+    {
+      "quote": "Look, I'm sorry! But there's nothing I can do, I think I'm in love with her!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You could say: \"Hey Kenny, how come you're not Britney Spears?\"",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, man, I'm not going to be able to handle this. Now I know how my students feel at the end of each year. And why they act out by giving me such bad evaluations.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well they said I should bring someone. Do you wanna be my dance partner?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "No thanks, I have a good one too. I just, I, I can't see him.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know, I knew a girl in high school who did that. She was very popular.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well speaking of chiming in, remember the time you burned down my apartment?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Great!! It was very, very nice to meet you sir--Ow! Hey! What are you doing?! Are you crazy!",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sure, you guys don't have this problem, you're made of wood. Hey!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Janice",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Question. You're not dating anybody, are you, because I met somebody who would be perfect for you.",
+      "characters": [
+        "Cecilia",
+        "Mike Hannigan",
+        "Joey",
+        "Shelley"
+      ],
+      "correctAnswer": "Shelley"
+    }
+  ]
+}

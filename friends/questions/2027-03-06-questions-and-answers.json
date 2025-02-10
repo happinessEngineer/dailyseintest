@@ -1,0 +1,106 @@
+{
+  "gameNumber": 773,
+  "date": "2027-03-06",
+  "questions": [
+    {
+      "quote": "Oh hey, Monica, I heard you saw Donald Trump at your convention.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Monica, Monica, you could come in straddling him, they still wouldn't believe it. We're here.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I relied on a carefully regimented program of denial and, and wetting the bed.",
+      "characters": [
+        "Phoebe",
+        "Sophie",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know! Joey hasn't had this much trouble getting out words since we saw him in Macbeth!",
+      "characters": [
+        "Phoebe",
+        "David",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! Chandler, listen.",
+      "characters": [
+        "Rachel",
+        "Paul Stevens",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I think the things that you said about me are really unfair, and I would like for you to give my bouillabaisse another chance.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Gavin Mitchell",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You want a piece of me, sir? Is that what your saying? You want a piece of me?",
+      "characters": [
+        "Rachel",
+        "The Waiter",
+        "Joey",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "Ohh forget it. Too hell with tradition, we're happy to do it.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Jack Geller",
+        "Joey",
+        "Jill Goodacre"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Please don't be a space ship. Please don't be a space ship. Oh thank God! How could you be beeping?! I just disconnected you! I took out your battery! How can...",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

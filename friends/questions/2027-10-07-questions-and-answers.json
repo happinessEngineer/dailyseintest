@@ -1,0 +1,106 @@
+{
+  "gameNumber": 988,
+  "date": "2027-10-07",
+  "questions": [
+    {
+      "quote": "Ok, well, alright, who thinks the food is fine, the music was fine, but your evening was ruined by this incessant poll taking? .",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know how much I love that T-shirt! You never even where that T-shirt!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, you don't have to, and you can't because I live here too.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, oh, Princess Leia and the gold bikini, every guy our age loved that.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, look at these! Hey, Ben. Just do it. Oh my God, oh, ok, was that too much pressure for him?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well not when they find out you slept with Jason Hurley an hour after he broke up with Monica.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, well, if she always behaves like this, why don't you say something?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm not gonna gooo, so I think that will accomplish the not going.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "See, I told you I needed someone! Oh, you know, by the way, as a \"thank you\", I would really love to take you out.",
+      "characters": [
+        "Charlie Wheeler",
+        "Director",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Okay. But wait, we can't. My Cousin Cassie is in the guest room, we're supposed to have lunch.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Tim",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

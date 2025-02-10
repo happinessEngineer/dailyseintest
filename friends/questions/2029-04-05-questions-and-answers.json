@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1534,
+  "date": "2029-04-05",
+  "questions": [
+    {
+      "quote": "This is so typical. I'm always the last one to know everything.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ooooooooooh, I slept with you! And you obviously remember me Hey! I still got it. so were good. I'll let myself out.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, why I told him it's haunted. Two can play at this game.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh...baby-proofing... Why is this such a big deal now? Y'know, when I was a kid it was like.. \"Whoops! Joey fell down the stairs!\" or er.. \"Whoops! Joey electrocuted himself again!\" Huh!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right Rach, for what it's worth, I think that you're doing great. I mean y'know let's face it, no one handles this well.",
+      "characters": [
+        "Rachel",
+        "Janice",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh but not that way. I mean...I mean I'm not in love with her. I love her like a, like a friend.",
+      "characters": [
+        "Bob (Chandler's coworker)",
+        "Ross",
+        "Rachel",
+        "David"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, but the coffee table doesn't match the...blahebdmsdlkhdyslkd;btyds...Rooosss!!!!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh I just got another rejection letter. They said my writing was funny, just not \"Archie Comic funny.\"",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Thank you. I'd like to start with a song that I wrote for the first man I ever loved. Zachary.",
+      "characters": [
+        "Phoebe",
+        "Sophie",
+        "Ross",
+        "Stephanie Schiffer"
+      ],
+      "correctAnswer": "Stephanie Schiffer"
+    },
+    {
+      "quote": "Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!",
+      "characters": [
+        "Rachel",
+        "Guy",
+        "Julie",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 50,
+  "date": "2025-03-13",
+  "questions": [
+    {
+      "quote": "I think, if it was a little colder in here I could see your nipples through that sweater.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Andrea Waltham",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Remember when sometimes he'd borrow your hat, and, and when you got it back there'd be little monkey raisins in it.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Director",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "If I took this promotion, it'd be like admitting that this is what I actually do.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I dunno, well he got over the \"We were on a break\" thing really quickly.",
+      "characters": [
+        "Duncan",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I am so over Janine. I mean, yeah, at first I thought she was hot, but now she's like OLD NEWS!",
+      "characters": [
+        "Gary",
+        "David",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know, you are so amazing, is there anything you, you don't know?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Mindy Hunter",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, we can go together! Just don't wait too long though, okay? 'Cause I'm outta here sometime before Friday.",
+      "characters": [
+        "Phoebe",
+        "Phoebe Abbott",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's so sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees...",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I have all of the good words. OK, fine, fine, we can switch.",
+      "characters": [
+        "Eddie Menuek",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

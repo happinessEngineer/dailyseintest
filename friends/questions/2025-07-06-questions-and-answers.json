@@ -1,0 +1,106 @@
+{
+  "gameNumber": 165,
+  "date": "2025-07-06",
+  "questions": [
+    {
+      "quote": "I'm sorry, it must be the pressure of entertaining. I think everyone would feel better if we had some flan.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The babies are asleep, I'm sure you'll be okay on your own for a while!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, that woman's got an ass like Carol's! What? Thought we were trying to find stuff.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Hayley",
+        "Allesandro"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Would you guys want to come down tomorrow and watch me tape the show?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well umm, another thing our readers always want to know is how our soap stars stay in such great shape. Do you have some kind of fitness regime?",
+      "characters": [
+        "The Interviewer",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "Well, I used your boxes to divert water away from the Porsche.",
+      "characters": [
+        "Chandler",
+        "Jack Geller",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "That doesn't matter! We're talking about the foundation of our friendship.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She's fine. She doesn't know you're gone. And she doesn't have to know, okay? Now come on, we're going home.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, not with my combination of ice cubes, aloe Vera and my gentle self-loathing touch.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Carol",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Do you remember the Ludwins? The big one had a thing for you, didn't she?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

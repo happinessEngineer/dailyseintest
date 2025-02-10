@@ -1,0 +1,106 @@
+{
+  "gameNumber": 100,
+  "date": "2025-05-02",
+  "questions": [
+    {
+      "quote": "Okay. You opened all the presents without me?! I thought we were supposed to do that together!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.",
+      "characters": [
+        "Joey",
+        "Joey Tribbiani Sr.",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, well next time you take a shower, think about the last thing I wash and the first thing you wash.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah in fact, I'm gonna go call her right now. And I'll make sure to tell her my friend Chandler says...",
+      "characters": [
+        "Ursula Buffay",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Good. Although y'know, he-he's a private guy. Y'know, I wish I could get him to open up a little bit, share some feelings.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Interviewer"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And she's just so sexy and funny and has the cutest little...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I think his begging days are over now that he's going out with Nancy Branson.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my god. We're trying to get pregnant so he's probably starting to freak out about the fact that my body is going to change.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, hold on! Hold on. Hold on. This is Ross, okay? He's our friend. He obviously went crazy. He obviously lost his mind.",
+      "characters": [
+        "Estelle Leonard",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But it's just so unfair that our date has to get cut short just 'cause some guy shot at a store clerk.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

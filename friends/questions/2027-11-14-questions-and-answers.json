@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1026,
+  "date": "2027-11-14",
+  "questions": [
+    {
+      "quote": "What are you talking about? You get sixty responses just for coming out of the closet! I didn't get one response! And I'm dead!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So she was just pretending to have a good time last night? She was lying to our faces?!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This where they put it? What, there no table available in the kitchen! Hello, baby.",
+      "characters": [
+        "Leonard Green",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "So, except for the fermentation process, beer and ale are basically the same thing. Fascinating isn't it.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "No, no, no, I don't make chocolate pies. When I was younger I-I enter in this pie-eating contest. I ate so many that just the thought of them made me sick.",
+      "characters": [
+        "Chandler",
+        "Dr. Mitchell",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Come on Rach, when a guy says he's going to call, it doesn't mean he's going to call. Hasn't it ever happened to you?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah but they're right. I mean, I'm not a strong father figure and I never will be.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Now, nooo! I'm just excited about the restaurant, that's all.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Peter Becker",
+        "Phoebe"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "The reactor's gonna blow in three seconds, we're never gonna make it!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait. Rachel, no, he's married. Married! If you don't realise that, I can't help you.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 468,
+  "date": "2026-05-05",
+  "questions": [
+    {
+      "quote": "Joey, I am scared to death about this. But I really think I can do it, I'm just gonna need some help. And Bobby's gonna be here the whole time.",
+      "characters": [
+        "Janice",
+        "Dina",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Dina"
+    },
+    {
+      "quote": "Yeah. Look if-if she's gonna end up with somebody else, the truth is she couldn't find a better guy. So...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, I can't be playing games, Ross is gonna be home soon. And I have to write five whole pages if I'm gonna stick to his schedule.",
+      "characters": [
+        "Joey",
+        "Grandmother",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh, I think she's still asleep. Hey, hey, how did it go with you guys last night? She seemed pretty pissed at you.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Nina Bookbinder",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I don't know if that's such a good idea. They clearly don't want to be with us.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, I was pretty close. Uhh, so bad news. Umm, I can't buy the boat, I don't have any money.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Mackenzie"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, ah, but Pheebs don't you think he's a little young to get married?",
+      "characters": [
+        "Joey",
+        "Gavin Mitchell",
+        "Monica",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Please... Chandler is the love of my life... ... oooh leather pants! Have Mercy! Ross: So, eh... it's probably gonna be hard for you to leave Boston, huh?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Good-good, okay, sprinkle some of that on your legs, it'll absorb some of the moisture and then you can get your pants back up.",
+      "characters": [
+        "Joey",
+        "Carol",
+        "Paul the Wine Guy",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ugly Naked Guy's taking his turkey out of the oven. Oh my god. He's not alone. Ugly Naked Guy's having Thanksgiving dinner with Ugly Naked Gal.",
+      "characters": [
+        "Phoebe",
+        "Leonard Green",
+        "Ross",
+        "Sandy"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

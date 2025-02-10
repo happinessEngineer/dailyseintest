@@ -1,0 +1,106 @@
+{
+  "gameNumber": 198,
+  "date": "2025-08-08",
+  "questions": [
+    {
+      "quote": "Wow! This reminds me of the time when I was umm, living on the street and this guy offered to buy me food if I slept with him.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Carol"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, you know how most kids get their allowance from mowing the lawn or taking out the garbage, well I earned mineby plucking the eyebrows of my father and his \"business\" partners.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, she was a cruel, cranky, old bitch! And I'm sorry she died. Did Dad say I get the dollhouse?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Say uh, Bing, did you hear about the new law firm we got working for us?",
+      "characters": [
+        "Doug",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "That's it, just hey. Like at the end of a dance, HEY! Hey. He-hey.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Just so you know, Dr. Long can't be here today, she was called to the hospital, so Dr. Schiff will be seeing you.",
+      "characters": [
+        "Mona",
+        "Monica",
+        "Nurse",
+        "Joey"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "Alright thanks, oh Ross could you stop by the coffee house and get me a muffin?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey Joey I have to cancel racketball for tonight, that was Marcel's trainer. He's gonna let me have him for a couple of hours.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.",
+      "characters": [
+        "Monica",
+        "Brenda",
+        "Richard Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Saving, saving, saving me from the pleasant conversation with the interesting man, saving me?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1048,
+  "date": "2027-12-06",
+  "questions": [
+    {
+      "quote": "Well, it's not like I went to Spain. I went to the bathroom, you knew I was coming back.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, hello! mmwa! I brought all the books, and Monica sends her love, along with this lasagna.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, Chandler can make boxes, Ross can wrap, and Joey can lift things. Now Phoebe, go tell the guys they have to help out!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Don't interrupt me when I'm talkin' to God! Now where were we? Oh right, okay. Do you Dina, take this man...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Um, um. It's huge. Yeah, that's the moment, when-when, you know she stopped being a princess, and became, like, a woman, you know.",
+      "characters": [
+        "Dr. Mitchell",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.",
+      "characters": [
+        "Carol",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I'm sorry. I'm 28 years old, I've never lived alone, and I'm finally at a place where I've got enough money that I don't need a roommate anymore.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "'Cause he has a strong suspicion that you dropped the ball on the Lender project.",
+      "characters": [
+        "Minister",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey, is what she just said umm-Oh my God. You were actually gonna...",
+      "characters": [
+        "Kate Miller",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on you guys! What are doing?! I thought we were the patch sisters!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Melissa Warburton",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

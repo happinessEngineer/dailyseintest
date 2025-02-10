@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1572,
+  "date": "2029-05-13",
+  "questions": [
+    {
+      "quote": "Oh, yeah. He's got that great baby smell. Get a whiff of his head.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I love him. He's so pretty I wanna cry! I don't know what to do. Tell me what to do.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, I'd walk back to London for another frosty one of those bad boys.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know what, I'm sure your wish is gonna come true, but, you guys - just in case, maybe a genie will come out if we rub this lamp! Ah!! That thing gets hot!!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, c'mon, I mean, there's you, then there's Charlie, and it's like... What the hell is my problem? OH!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Mike Hannigan",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Because, I know what I like and what I don't like! It's not the same thing!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ross good, I'm uh glad you're here. I wanna talk to you about something.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "With the web, the spider she dies, she does. She has babies and dies. It's like ya know, hey welcome home from the hospital, thud.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "But... he gets it back, pass to the middle, lines it up and... BAM! Yes! Could that shot BE any prettier?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "No, you can't go. No-no-no, I can't hold this table on my own. If they ask me to move, I cave.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

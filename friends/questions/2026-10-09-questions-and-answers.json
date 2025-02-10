@@ -1,0 +1,106 @@
+{
+  "gameNumber": 625,
+  "date": "2026-10-09",
+  "questions": [
+    {
+      "quote": "Alright, that's it. I've had enough of this, alright. Gunther, these guys are trying to take our seat.",
+      "characters": [
+        "Mr. Ratstatter",
+        "Chandler",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We'll take a brief time out while Messier stops to look at some women's shoes.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Janine Lecroix",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know, I can't believe you. Linda is so great! Why won't you go out with her again?",
+      "characters": [
+        "Chandler",
+        "Jade",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Monica just called from the cab. She said they should be here any minute. And apparently, there's some big surprise.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I cannot believe he's using our divorce to sell mattresses.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "So uh, Rach? Does it, does it feel weird around here now? Y'know since I've been away at college.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. Listen about that, the whole uh, who came on to who thing really doesn't matter. I mean, I think it would've happened either way. I mean if you hadn't initiated it I-I-I know I would've.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Bobby Rush",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ugh. Just a sec, give me a minute to wake up for this-Ah-ha-ha!! You lost the ring! You're the worst best man ever!",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Right! So when Rigby got his samples back from the laboratory he made a startling discovery! What he believed to be igneous, was in fact sedimentary. Imagine his consternation when- Oh bloody hell.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, and oh I'm gonna need a bunch of extra keys. Apparently I give them away for no reason at all.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

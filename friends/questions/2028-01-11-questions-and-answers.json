@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1084,
+  "date": "2028-01-11",
+  "questions": [
+    {
+      "quote": "Monica, uh Dad called this morning and ah, Aunt Silvia passed away.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You're gonna be carrying their baby and give them a Sony Play Station?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know, but we're having dinner tomorrow night, so I figured, she's gonna tell me then. Y'know maybe she just wanted to give him time to, buy me presents, I don't know! So, you're all bored?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But I didn't get to shape my belly like a bowl full of jelly.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't think that your monologue from Star Wars is gonna help me right now, Joe!",
+      "characters": [
+        "Ross",
+        "Woman",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! You got off easy! When my friend Silvie's husband said someone else's name in bed, she cursed him and turned his thingy green.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Helena"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, so... 1800 minus twelve is... one thousand, seven hundred and...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, you're not! Last week you thought Ross was trying to kill you!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

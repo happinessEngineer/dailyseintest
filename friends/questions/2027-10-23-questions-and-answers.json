@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1004,
+  "date": "2027-10-23",
+  "questions": [
+    {
+      "quote": "Okay, so wait, all right, so how does that make things better?",
+      "characters": [
+        "Sandy",
+        "Ross",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Oh, he's sober alright. Just turns out that Fun Bobby was fun for a reason.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Kim",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I have to go to the bathroom too, but I don't want him complimenting my thing.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, well I guess I'll just have to do what I do on dates.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm just saying that only a man completely secure with his masculinity could walk around in women's underwear! I don't think you could ever do that.",
+      "characters": [
+        "Rachel",
+        "Danny",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. No, not at all, not at all. I actually was gonna bring someone myself, so...",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, it's really not that bad. I mean, I-I for one, feel perfectly safe.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Here's your schedule for the day. Your first client is in room No. 1.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Receptionist",
+        "Monica"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Why are you shopping here? You don't live in this neighborhood. Were you here waiting for me?",
+      "characters": [
+        "Janice",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "All right, I should get going, big day a work. Y'know I'm in a coma? Today, they do this test on me and it turns out I'm not brain dead.",
+      "characters": [
+        "Tag Jones",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

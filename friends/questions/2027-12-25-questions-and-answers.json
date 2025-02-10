@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1067,
+  "date": "2027-12-25",
+  "questions": [
+    {
+      "quote": "The doctor says it's completely normal with all the hormones. Plus, you-you're sleep deprived.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, y'know what? We really are late! Let's go! Let's go! Let's go!!",
+      "characters": [
+        "Janice",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You have to give 'em something, you know. Okay, now that was Gerston, Santos, and who's the guy with the moustache?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Gavin Mitchell",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, I just whipped us up some Easy Bake treats, they should be ready in about three days.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Doug"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, and she's pregnant with my baby. I always forget that part. Helloo!",
+      "characters": [
+        "Danny",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Everybody at my school heard it! You were the hermaphrodite cheerleader from Long Island?!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Susie Moss",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I'll be right back. And, uh, I know it's really not my place, but please don't name your child Phoebo.",
+      "characters": [
+        "Monica",
+        "Dr. Long",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Dr. Long"
+    },
+    {
+      "quote": "All right, all right, all right. I mean I'll have to check with him first, but I'll think he'll be cool with it.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Jill Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And the chicken pooped in her lap. Oh, I'm so sorry. I just gave away the ending, didn't I? Oh! It's just, I just heard this story in the cab, and it is all I can think about.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Guys, come on! Let's go! The puck drops in 20 minutes! Come on, Joe!",
+      "characters": [
+        "Julio (poet)",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

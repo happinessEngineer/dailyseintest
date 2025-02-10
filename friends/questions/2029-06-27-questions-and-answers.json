@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1617,
+  "date": "2029-06-27",
+  "questions": [
+    {
+      "quote": "Hey! So what's the big news you had us rush all the way over here for?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I should be involved in that, so why don't you get me up to speed?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right I'll talk in code. Remember when the kid sees those two blanks in the hallway?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey, what are you doing with the bag? You're audition is not until tomorrow.",
+      "characters": [
+        "Mr. Zelner",
+        "Rachel",
+        "Phoebe",
+        "Kim"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I mean it's never taken me a week to get over a relationship.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, sometimes we use the same extras for different parts. It's okay.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, but I will leave a sweater that smells like me right next to you!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Melissa Warburton"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Good, good. Yeah coz the more I thought about it, the more I realised I don't think marriage is neccessarily the right path for you.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "My mom's gonna be here any minute. I can't do this, I can't give him up. Yes-no, I can. I don't want to. But I can. No.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, that was the blind date that I told you about, she called and switched it to today.",
+      "characters": [
+        "Richard Burke",
+        "Ross",
+        "The Dry Cleaner",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 826,
+  "date": "2027-04-28",
+  "questions": [
+    {
+      "quote": "Wow! It's huge! It's so much bigger than the cubicle. Oh, this is a cube.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. No. Not it. Not it. Not it. Don't crowd me! This is it! This is the dress! Oh my God, it's perfect! I'm sorry, this one's taken! Whoa!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, well, I...It's kind of weird talking to you about this, but...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't! If he realizes that I'm the one that put him to sleep, I won't get the job!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Mr. Treeger",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know, how about the idiot who thought he could drive from Albany to Canada on a half a tank of gas!",
+      "characters": [
+        "Monica",
+        "Interviewer",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know, all these years, I thought you were on my side. But maybe what you were doing was sucking up to Mom and Dad so they'd keep liking you better!",
+      "characters": [
+        "Phoebe",
+        "Will Colbert",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And we don't want any recognition. This is completely anonymous.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No-no-no, it's just a bit sudden. No, it's great. Okay? I'm totally on board. I love you too, all righty. Bye.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Carol",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh well, hello. This is your lucky day Mr. Bowmont, the uh gentleman day sailer as just become available again and I believe that you made a bid of $18,000.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "If... if you want to drink, it's OK with me, I've got to get used to it.",
+      "characters": [
+        "Bobby Rush",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Bobby Rush"
+    }
+  ]
+}

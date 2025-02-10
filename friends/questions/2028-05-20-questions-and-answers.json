@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1214,
+  "date": "2028-05-20",
+  "questions": [
+    {
+      "quote": "Just tell Joey that you watched the tape and you liked it, but your bosses didn't. Then that way, you're the good guy and they're the bad guys.",
+      "characters": [
+        "Chandler",
+        "Carol",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Fine all right, but I'd bet you'd be singing another tune if we were fighting over a ratchet.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh you know what? When I was a little girl I had a little pink pony named Cotton. Oh I loved her so much, I took her everywhere, I would braid her tail...",
+      "characters": [
+        "Amy Green",
+        "Joey",
+        "Roger",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Exactly! All right, everybody, listen up. The coffeehouse is going to be closed for about an hour.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Right. So, what you have to do is, you have to accidentally run into her on purpose. And then act aloof.",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What? There was ice there that night with Carol? Plastic seats? Four thousand angry Pittsburgh fans?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!",
+      "characters": [
+        "Joey",
+        "Charity Guy",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi! Hi, I'm uh Ross. I'm here to ruin this magical day for you.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What do you mean? Yesterday you said I was too pretty to pay for stuff!",
+      "characters": [
+        "Director",
+        "Chandler",
+        "Woman",
+        "Monica"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Dr. Drake Ramoray",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

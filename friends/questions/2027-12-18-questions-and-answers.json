@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1060,
+  "date": "2027-12-18",
+  "questions": [
+    {
+      "quote": "Joey, a woman just stuck her tounge down my throat, I'm not even listening to you.",
+      "characters": [
+        "Jack Geller",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh. Oh, so you really wanted to learn. Yeah, y'know, Pheebs I just wanted to have fun. Ohh, you know who you should go with?",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Chandler! Come on, I'm gonna show how to roll up your underwear and stuff it in your shoes. It's a real space saver.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Roy",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "All right I've been feeling incredibly guilty about this, because I wanna be a good friend, and damnit I am a good friend. So just, just shut up and close your eyes.",
+      "characters": [
+        "Ross",
+        "Janice",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh-uh-uh, right now? Because I've kinda got an el fresco situation going on over here.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know what I think? I think somebody's got a little crush on Casey. How 'bout I fix you two up? What do you think?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, right, he almost danced me right down that...garbage chute.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Thank god you finally said that, I saw you make a note on your pad three hours ago. Man, I really bug you, don't I?",
+      "characters": [
+        "Gavin Mitchell",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, no-no-no don't you worry about me falling asleep. I still have your letter!!!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

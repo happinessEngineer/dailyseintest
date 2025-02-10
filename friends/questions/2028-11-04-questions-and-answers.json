@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1382,
+  "date": "2028-11-04",
+  "questions": [
+    {
+      "quote": "Wait! Wait! Hi! Listen, Ross can I just talk to you for just a second?",
+      "characters": [
+        "Ross",
+        "Roy",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ahh, I don't believe you. I think you don't want them to see you begging me.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Carol",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's the woman from the hospital admissions office. She says there's a problem with the form. Oh, god, oh god...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, maybe it won't work out. Maybe Ross won't like her personality.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Phoebe, just the idea of pitting one baby against another, I mean, you know, and judging who's cuter just for a trophy...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Dan just moved in downstairs. Yeah, he just got back from like this four-month trek in the Andes. Nice fella.",
+      "characters": [
+        "Joey",
+        "Malcom",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm sorry. See that's the good thing about my job. All the dinosaurs on my table are already dead.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "But you have it right there in that file? You could tell us whether it's a boy or a girl? Dayton or Sandrine? Phoebe or Phoebo?",
+      "characters": [
+        "Joey",
+        "Gavin Mitchell",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, I have to do something. I mean, I have, I have to stop it!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I hope you don't think I'm crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?",
+      "characters": [
+        "Phoebe",
+        "Guy",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Guy"
+    }
+  ]
+}

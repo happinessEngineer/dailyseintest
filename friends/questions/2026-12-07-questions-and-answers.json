@@ -1,0 +1,106 @@
+{
+  "gameNumber": 684,
+  "date": "2026-12-07",
+  "questions": [
+    {
+      "quote": "And I'm fine never having heard it... Rach, can I... can I see you for a sec?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, can we change the topic? Because it's really doing nothing for me.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay Phoebe, I guess you're next although I really don't see the point.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Fine, you're right. Let's ah, let's take a break, let's cool off, okay, let's get some frozen yoghurt, or something..",
+      "characters": [
+        "Doctor",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm fine-d. I'm fine-d! Y'know, it's a really hard word to say.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm here. How's my little boy? Want Daddy to change your diaper? So, did you have fun with Uncle Joey and Uncle Chandler today?",
+      "characters": [
+        "Julie",
+        "Monica",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Listen Joey, we definitely want to see you for the callback on Saturday.",
+      "characters": [
+        "Chandler",
+        "Director",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Director"
+    },
+    {
+      "quote": "Hey! It's me. Mon-i-ca! Can I just tell you how proud I am of you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know what? She'd-she'd love this. Uh, it's an exact replica of Apollo 8. I made it in the sixth grade.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look what do I do? I wanna get past this, I don't wanna be afraid of the commitment thing. I wanna go through the tunnel, to the other side!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

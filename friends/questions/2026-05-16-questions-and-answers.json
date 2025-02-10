@@ -1,0 +1,106 @@
+{
+  "gameNumber": 479,
+  "date": "2026-05-16",
+  "questions": [
+    {
+      "quote": "Oh, God, no problem. So you're gonna go with the uh, waiting thing?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So what?! Y'know what? The way I see it--Ow! Son of a bitch!!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, that's it! Come-you-no! You are in big trouble young man!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, Phoebe, honey, you gotta be kidding. I mean, you know you cannot keep one of these babies!",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Ross",
+        "Erica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.",
+      "characters": [
+        "Bobby Rush",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can hear traffic and birds! I can hear the voices in my head again! I'm kidding.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler, I want you to run a post pattern to the left, okay. And sweetie..",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And a crusty old man said I'll do what I can and the rest of the rats played moroccas. That's it, thanks, good night.",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?",
+      "characters": [
+        "Monica",
+        "Interviewer",
+        "Rachel",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "A-ha! And... what is bluffing? Is it not another word for... lying?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

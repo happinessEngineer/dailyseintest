@@ -1,0 +1,106 @@
+{
+  "gameNumber": 938,
+  "date": "2027-08-18",
+  "questions": [
+    {
+      "quote": "Well, yeah! Fun is good, but y'know I also wanted to learn. Y'know, people are always talking about what they learned in high school and I never went to high school.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I want to stay too but I've gone as bad as much use out of these boxers as I can..",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Oh, you two must have been so cute running around on a barge.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, okay. Hey, wait. Do you know what kind of birth control she was using?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, four minutes ago you had a half hour, we have to be out the door at twenty to eight.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dude, if you think Fireball's relaxing, you've obviously have never played.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ugh, I can not believe this! I mean, who is she to judge us? We could not have been nicer to her!",
+      "characters": [
+        "Alice Knight",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But you would have so much fun and you have a really nice voice.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Janice",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, you don't want to be stuck with us for the next five weeks.",
+      "characters": [
+        "Monica",
+        "Receptionist",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Mr. Thompson"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

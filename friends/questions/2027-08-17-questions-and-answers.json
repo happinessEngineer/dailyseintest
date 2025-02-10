@@ -1,0 +1,106 @@
+{
+  "gameNumber": 937,
+  "date": "2027-08-17",
+  "questions": [
+    {
+      "quote": "Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Thanks. Oh! So for tomorrow, do you want to rent a car and drive down together or what?",
+      "characters": [
+        "Rachel",
+        "Emily Waltham",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Say something! Say anything! Ask her out! She's not your cousin!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey! Oh, I'm so glad you're home, I thought tonight we could finally organize these photos!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Whoa, whoa, whoa, ho, ho, ho, you did not win the game, the touchdown didn't count, because of the spectacularly illegal, oh and by the way savage nose breaking.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Why should Ben step aside? It was his audition in the first place! You-you just tagged along! You're like the uh, tag-a-long dad.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Kim",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh Ross, sometimes grown-ups have commitments they just can't get out of!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It was so stupid, I said some stuff in an interview that I shouldn't have said. But believe me, that's not gonna happen today.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Because it's all tainted with your betrayal. From now on this apartment is empty for me! And I'm not happy about you either. Oh, and just so you know, I made that bread for you.",
+      "characters": [
+        "Joey",
+        "David",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But come on! I mean living together will be great! I mean you guys have so much fun and you love Mike.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

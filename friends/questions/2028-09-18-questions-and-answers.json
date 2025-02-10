@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1335,
+  "date": "2028-09-18",
+  "questions": [
+    {
+      "quote": "Okay, well I think that they're in my purse. Why don't you go get dressed and I'll look for them.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, y'know the ah, the girlfriend I told you about last night? Well it turns out she ah, she wants to get back together with me. Oh, I found it!!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I-I can't believe Jill's gone. I can't help it, I opened a gate.",
+      "characters": [
+        "Chandler",
+        "Kathy",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, see the thing is I want to get out of here before Joey gets all worked up and starts calling everybody bitch.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I don't know what's in the boxes down here, but I do know there are six or seven Easy Bake Ovens in the attic.",
+      "characters": [
+        "Ross",
+        "Charity Guy",
+        "Phoebe",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "The reason we didn't tell anyone was because we didn't want to make a big deal out of it.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "...we went back the house and we got really silly and we...we made out.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's goin' great. Right on schedule. Got my little happy helpers.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know what? I take back what I said before. You keep playing at the restaurant, because with your music driving people inside, my bar sales are going up like crazy.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No! No-no! He is totally incompetent. I called the chef who recommended him to me. He said, \"Ha-ha! Gotcha!\"",
+      "characters": [
+        "Sandra Green",
+        "Monica",
+        "Joey Tribbiani Sr.",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1142,
+  "date": "2028-03-09",
+  "questions": [
+    {
+      "quote": "Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo.",
+      "characters": [
+        "Andrea Waltham",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah I know-I'm good-I got it! Now wait a minute, I've got one more thing I have to say to you...oh right! Shut up!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, we could do that without y'know risking our lives at all!",
+      "characters": [
+        "Joey",
+        "Eddie Menuek",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh wow. Why don't we just take me and put me with a Manhattan in my hand, talking to the cute bartender. These pins aren't for playing are they?",
+      "characters": [
+        "Parker",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's the same month as Halloween. So, um, what kinda things do you like to do at home?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's not Richard! Okay? It's this new guy and he's really good.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. 'Cause this is where I wanna be, okay? No more messing around. I don't wanna mess this up again.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Sandy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm not sure yet. Why didn't you just tell me about all this?",
+      "characters": [
+        "Mona",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "Yeah but y'know what they say Mon, \"There's no such thing as bad press.\"",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Steve",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Eleven days before Halloween.. all the good costumes are gone?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

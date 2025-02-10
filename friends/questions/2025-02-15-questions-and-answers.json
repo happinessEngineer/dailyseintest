@@ -1,0 +1,106 @@
+{
+  "gameNumber": 24,
+  "date": "2025-02-15",
+  "questions": [
+    {
+      "quote": "Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, you're way sounds a lot better than mine. Yeah. Yeah! It's not that I'm a bad actor...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, but its not who I am. Everything they said was exaclty why I was worried about having a kid. And its true. And look everybody knows it.",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "He's not supposed to ask my girlfriend to marry him! I'm supposed to do that!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, poor little Tooty is scared to death. We should find his owner.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God, that place has the creamiest frosting! I use to hitchhike there when I was a kid.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh oh no just stopped to throw up a little bit. Oh come on, what am I gonna do, its been hours and it won't stop crying.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I bet if I talk to Carol and Susan I can convince them to move to London with Ben.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Mom, we've been through this. No, I'm not calling him. I don't care if it is his kid, the guy's a jerk. No, I'm not alone. Joey's here. What do you mean, Joey who? Joey who?",
+      "characters": [
+        "Lydia",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Lydia"
+    },
+    {
+      "quote": "So what if he wants to sleep with her? I mean, she's single and he's cute.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

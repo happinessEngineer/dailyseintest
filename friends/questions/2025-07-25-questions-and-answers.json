@@ -1,0 +1,106 @@
+{
+  "gameNumber": 184,
+  "date": "2025-07-25",
+  "questions": [
+    {
+      "quote": "No! Okay, you mean, you're not gonna talk to her, you're not gonna tell her how you feel?",
+      "characters": [
+        "Phoebe",
+        "Judy Geller",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We've been getting reports of some very angry behavior on your part.",
+      "characters": [
+        "Monica",
+        "Dr. Ledbetter",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Dr. Ledbetter"
+    },
+    {
+      "quote": "No he's, he's alright, just uh, he spends most of his time in his room.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh, I'm gonna have to get over it. God, see I didn't know that's I had to do, I just have to get over it.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, honey, it is pretty competitive. I mean I've got an actual rocket scientist here.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Rach, I think I'm gonna wait out here, because my throat is feeling a little scratchy, I don't want to infect him.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey listen, why don't you come downstairs with me? There's some really nice girls down there.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Melissa Warburton",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, come on, there's a rest stop right up there! Come on, I really have to goooooooooo.",
+      "characters": [
+        "Joanna",
+        "Ticket Agent",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I dunno. Y'know to me he'll always be \"Jack Geller, walks in while you're changing.\"",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What about me? I just found out that Denise is leaving town for a while, I don't have a roommate.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 9,
+  "date": "2025-01-31",
+  "questions": [
+    {
+      "quote": "Well you, her, I mean, she's very...y'know. And you're like...y'know.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "The Salesman"
+      ],
+      "correctAnswer": "The Salesman"
+    },
+    {
+      "quote": "I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh come on Ross, we've done it before we'll do it again, it'll be a nice way to bookend the pregnancy.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay. Okay. It's-since you've never done it before you can be Monica's made of honor.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ah, let me see! Damn, that's a lot of guys! Are you a little slutty?",
+      "characters": [
+        "Guru Saj",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, I guess you and I should talk about Jack and Ben right now.",
+      "characters": [
+        "Trudie Styler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Trudie Styler"
+    },
+    {
+      "quote": "Sophie, get in here! You see! Now you're making Sophie uncomfortable!",
+      "characters": [
+        "Joanna",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody.",
+      "characters": [
+        "The Teacher",
+        "Leonard Green",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She's in hiding. She's utterly humiliated. She doesn't want to see you ever again.",
+      "characters": [
+        "Rachel",
+        "Stephen Waltham",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "Oh, yeah. Joey doesn't share food. I mean, just last week we were having breakfast and he had a couple of grapes on his plate and ...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Mr. Treeger",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

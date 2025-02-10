@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1096,
+  "date": "2028-01-23",
+  "questions": [
+    {
+      "quote": "You're gonna like him so much. So umm, when do you want to meet him?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Janine Lecroix",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, what are you doing? You gotta save room, you've got almost an entire turkey to eat.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, we won't wanna raise kids in the city so we'll probably move to uh, Scarsdale.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh well-Hey-hey! Maybe, maybe uh, maybe this is a good thing. Y'know? It'll-it'll give you a chance to shake things up, play different characters. You're so talented.",
+      "characters": [
+        "Gunther",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But what?! You figured you'd get what you wanted and then dump her like you dumped Rachel!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Leonard Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Uh-huh, let's go. Oh, wait I have gum. Okay. Good, very good, firm but tender. I'd recommend you to a friend.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Nora Tyler Bing",
+        "Mindy Hunter"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well don't you see how gross that is? I mean that's like you using my toothbrush. You used my toothbrush?",
+      "characters": [
+        "Rachel",
+        "Receptionist",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "There was nothing wrong with her! All right? She was perfectly lovely!",
+      "characters": [
+        "Rachel",
+        "David",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "See after the scene, Mr. Beatty comes up to me and says 'good actor, bad kisser'. Can you believe that, me not a good kisser, that's like, like Mother Theresa, not a good mother.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But I'm gonna be there... for the rest of my life. I mean, I can't break up with him. I'm the one who made him quit drinking. He's dull because of me.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Trudie Styler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

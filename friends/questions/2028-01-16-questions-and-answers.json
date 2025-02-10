@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1089,
+  "date": "2028-01-16",
+  "questions": [
+    {
+      "quote": "I know. I always thought if you and I got married, it would be the one that stuck. And it wouldn't be a secret, and we wouldn't have our wedding dinner at Pizza Hut.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's actually why. Look, I'm starting a whole new career now, and I'm not saying that I don't want to have a baby, I'm just saying maybe we could wait a little while.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Sandy",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "How could you mess this up? It's so easy? You go into the booth, you count to five and you turn around!!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Dr. Harad"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh yeah, I got soap and sponges and rags and Carnuba wax and polishing compound.",
+      "characters": [
+        "The Salesman",
+        "Ross",
+        "Ethan",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey, now that you're okay with the house, do you wanna go see your room?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You're so funny! He's really funny! I wouldn't wanna be there when when the laughter stops.",
+      "characters": [
+        "Roger",
+        "Lennart",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Roger"
+    },
+    {
+      "quote": "Ohh! I have! I have! I started making these little sock bunnies! Oh for crying out loud!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay. All right. Good luck explaining all the calls to China.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh Joey, look, we know you're having a hard time with this, but we really, we love it here.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Benjamin Hobart",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So, I uh... I called the doctor and now we both know the sex of the baby.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

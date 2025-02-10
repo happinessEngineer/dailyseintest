@@ -1,0 +1,106 @@
+{
+  "gameNumber": 580,
+  "date": "2026-08-25",
+  "questions": [
+    {
+      "quote": "I hate Pottery Barn too. They kicked me out of there just because I sat on a bed!",
+      "characters": [
+        "Nurse",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, well, we'll see about that. Can I use your phone? I just wanna call everyone I know.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Putting on the sneakers... thought I'd get into a younger mindset, you know, to see if it sparked anything.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Lydia"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Let's try it again, and this time let's watch everybody watch Joey. Show 'em how it's done. Count it off.",
+      "characters": [
+        "Chandler",
+        "Director",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Director"
+    },
+    {
+      "quote": "And they were serving franks which is his first name minus the s at the end. And there was a rotisserie with spinning chicken.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "AH HAH! I DID IT! HA HA! Alright... Better take all I can carry. Who knows when i'll be able to get in here again!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Tag Jones",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, no, no, we're not having a big reception, we took the money we were gonna spend on a wedding and we donate them to the children charity.",
+      "characters": [
+        "Joey",
+        "Alice Knight",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ooh, I'll go in on that with you! I couldn't think of anything.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Everything is gonna be fine. Just follow my lead, okay? All you have to do is pretend to be Mike.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Cut! Alex, remember you're supposed to cry. Can you cry for us this time?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "The Director"
+      ],
+      "correctAnswer": "The Director"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 698,
+  "date": "2026-12-21",
+  "questions": [
+    {
+      "quote": "Oh hey, you should be excited about him. There's nothing wrong with him he's a good guy.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Charlie Wheeler",
+        "Doctor"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Really! What is with that guy? I mean you'd forgive me if I fogged you.",
+      "characters": [
+        "Larry",
+        "Ross",
+        "Rachel",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Whoa! Whoa!! Tackled by a girl! Bet ya don't see that everyday, do ya?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, uh, why don't you ask him yourself. Joey, this is my new roommate Eddie.",
+      "characters": [
+        "Chandler",
+        "Woman",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I gotta say, I never knew I could enjoy the non-sex part of the date so much.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Katie"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, my ex-wife didn't work, unless you call turning into her mother work. Fine. Tomorrow night then.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Doug"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "All right, you're probably not gonna want to hear this but ah, if it was me, and this is just me, I would ah, I would bow out.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's so Janine, you-you-you know what, do you know we're doing right now? You and I, we're interfacing.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, okay, now, we just have to make sure she doesn't find out some other way. Did you think about the trail?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Shelley",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

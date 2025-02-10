@@ -1,0 +1,106 @@
+{
+  "gameNumber": 409,
+  "date": "2026-03-07",
+  "questions": [
+    {
+      "quote": "Ok, I just, I just really need to be with myself right now. I'm sorry.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That is correct! Yes, you're supposed to take all of that stuff and put it in a little box in your mind and then lock it up tight.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh-huh! Why do you think it takes me so long to answer the door?",
+      "characters": [
+        "Monica",
+        "Earl",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on, please?! I'm boredddd! You let me do it once before.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Aww, the only reason you want to go out with me because my blond wig, and the big boobs, and the fact that I serve you food.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Dr. Long",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, I'm just gonna go over the basic points just one more time, are you ready?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, Vince is great, y'know `cause, he's like a guy, guy. Y'know? He's so burly, he's sooo very burly.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I didn't have to, because I was wearing my 'I heart Ross' sandwich board and ringing my bell.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right look, am I serious, okay? Tomorrow at 3:30 I am going down to the courthouse.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Phoebe? Mike's ex-girlfriend Phoebe, the love of his life? That Phoebe?",
+      "characters": [
+        "Precious",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Precious"
+    }
+  ]
+}

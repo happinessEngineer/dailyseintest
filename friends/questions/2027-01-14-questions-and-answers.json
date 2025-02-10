@@ -1,0 +1,106 @@
+{
+  "gameNumber": 722,
+  "date": "2027-01-14",
+  "questions": [
+    {
+      "quote": "Oh? Oh! Okay! Okay! Let's hear their plan! Now, what's the future look like for Dina and Bobby?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right. Op, here it is! Right underneath the can of-of bug bomb. I wonder if the best place to put something that cooks food is underneath the can of poison?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know you did! I bought the same one! And if she sees your table she's gonna know that I lied to her. I told her ours was an original.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I can't believe you! You've been so good, for three years!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sorry, I wa- I was just saying to my friend that I thought you were the most beautiful woman that I'd ever seen in my- in my life. And then he said that- you said you thought",
+      "characters": [
+        "David",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "You know, you're a really great listener. Most guys I go out with, they just talk and talk.",
+      "characters": [
+        "Joshua Burgin",
+        "Joey",
+        "Rachel",
+        "Hillary"
+      ],
+      "correctAnswer": "Hillary"
+    },
+    {
+      "quote": "Well, then it looks like somebody is gonna have to give back somebody his cushions.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Kim"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh yeah! Batch 17 was good. I did not like batch 16. I'm okay.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joanna"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And; people thinking it's huge has led Monica to believe that we are stealing her thunder. Which we are not!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I-I used to be just like you. And then one day I saw a movie that changed my life. Did you ever see Dead Poets' Society?",
+      "characters": [
+        "Fake Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Fake Monica"
+    }
+  ]
+}

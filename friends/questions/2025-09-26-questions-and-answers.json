@@ -1,0 +1,106 @@
+{
+  "gameNumber": 247,
+  "date": "2025-09-26",
+  "questions": [
+    {
+      "quote": "Uh, I gotta apologize for Kara's coffee. Y'know, I feel sorry for it if it ever got in a fight, it's not strong enough to defend itself. Did you hear what I said Bing?",
+      "characters": [
+        "Phoebe",
+        "Doug",
+        "Larry",
+        "Monica"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Well, I finally took your advice and asked him what was going on.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well yeah, in that it's not being used and I... have it to spare.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Sorry to bother you again, but could you pass my pamphlets back? Thank you.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Hey! Mine was by accident! All right, the boiler explodes and destroys the hotel, and kills the dad.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Mum, please!I know you love your new lips, but I can barely understand you! Would you, please, just let me say goodnight to my daughter? TV: \"And number 29! Here we go! The Powerball is 7\"",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Nora Tyler Bing"
+    },
+    {
+      "quote": "Oh well, all right...um, no offense, but you were kind of rude.",
+      "characters": [
+        "Rachel",
+        "Larry",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! Umm well, some people say that Oysters are an aphrodisiac.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's okay, this is more important than fruit on my ceiling! You broke up?!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

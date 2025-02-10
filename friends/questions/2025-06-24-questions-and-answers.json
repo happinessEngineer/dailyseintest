@@ -1,0 +1,106 @@
+{
+  "gameNumber": 153,
+  "date": "2025-06-24",
+  "questions": [
+    {
+      "quote": "You did so. I swear, I swear How long has she been in the bathroom?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Are you sure, because we may have something at Louis Vuitton.",
+      "characters": [
+        "Joey",
+        "Mark Robinson",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Mark Robinson"
+    },
+    {
+      "quote": "Well, you should've told me that before, I'm not a mind reader. Hey, we're out of beer. I'm going to Monica's.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Our adoption social worker is coming by today so we are cleaning the apartment.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "On the date, I will be able to talk to her directly? See ya Friday.",
+      "characters": [
+        "Bobby Rush",
+        "Danny",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Danny"
+    },
+    {
+      "quote": "Ah, well, maybe thats, ah, because youre getting a big raise.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Mr. Morse I need to talk to you about your mid-term exam, I'm afraid I-I had to fail you.",
+      "characters": [
+        "Joey",
+        "Jack Geller",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Phoebe, you were right. I should've never gone to London, and from now on you make all of my decisions for me.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "...and after you've delivered the drinks, you take the empty tray....",
+      "characters": [
+        "Gunther",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "I just wanted to let you know I've changed my mind: I'm gonna do it, I'm gonna kiss Joey.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

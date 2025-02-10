@@ -1,0 +1,106 @@
+{
+  "gameNumber": 576,
+  "date": "2026-08-21",
+  "questions": [
+    {
+      "quote": "I think this is it. I don't know, maybe we should keep looking.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know what Rach, maybe you should just, y'know stay here at the coffee house.",
+      "characters": [
+        "Tag Jones",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right. Have you said, \"I love you?\" You could say, I love you.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's ridiculous Rachel, we were all babies once. Oh, you mean today.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ooh, Pheebs, what are you gonna say? Are you gonna tell him who you are?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh you missed it. She was laughing. Oh it was amazing. It was amazing. It was the most beautiful, beautiful sound that...",
+      "characters": [
+        "Leonard Green",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hello? What are you talking about? The audition's not 'til 5:00! Well, nobody told me! Who'd you talk to? Nevermind!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Jean-Claude Van Damme. I didn't know he was in this movie, he is so hot.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Both logic and math are taking a serious hit today. Phoebe : Hey, check this out! It's totally you!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah. There is a plan! Why don't I just start taking my smart pills now?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

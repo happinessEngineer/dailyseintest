@@ -1,0 +1,106 @@
+{
+  "gameNumber": 20,
+  "date": "2025-02-11",
+  "questions": [
+    {
+      "quote": "Spanish midgets. Spanish midgets wrestling. Julie. Ok, yes, I see how you got there.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I mean Ross all that does is remind us that you are interested in fossils.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Right now, right here. Don't ya think we're in kind of a public plaaaa They do have the shrimp.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Exactly, it'll be illegal for him to drink at his own bachelor party.",
+      "characters": [
+        "Peter Becker",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I have to tell you this story. Okay, I was coming over here and this driver...",
+      "characters": [
+        "Lauren",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Soon he'll be able to call you, that lady he knew who got fired.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Carol",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, that was Leslie calling again to see if we can get back together. That's the twentieth time today! And good luck Leslie!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh! Good! Because I was having a totally paranoid moment when I thought you called in sick to avoid me.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "I know I am! ...And when it's summer, and it's hot, why can't you wear a tank top?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Benjamin Hobart",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I always thought that too. Tell me, what does your father do?",
+      "characters": [
+        "Joey",
+        "Jack Geller",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Jack Geller"
+    }
+  ]
+}

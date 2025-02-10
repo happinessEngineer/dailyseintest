@@ -1,0 +1,106 @@
+{
+  "gameNumber": 875,
+  "date": "2027-06-16",
+  "questions": [
+    {
+      "quote": "Okay, I'm sorry! I'm sorry! I-I-I was um, I was taking a nap.",
+      "characters": [
+        "Chandler",
+        "Interviewer",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "...And then we throw your body in the water... Gee, that does sound fun.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Come on, get into bed! I want to prove to you that I'm not sick! I wanna make you feel, as good as I feel.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, sure, why not? In fact, if you know anyone that would be good for me...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! Did you check your entire desk! Did you check all the drawers!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So it looks like you've got some great experience here. Let's see ahh, reason for leaving last job?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Interviewer"
+      ],
+      "correctAnswer": "Interviewer"
+    },
+    {
+      "quote": "He knew we were trying to get rid of him. He knew! You think we could get a bathtub in our kitchen?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Sweety, I gotta tell ya... it sounds a little bit like you like the apartment more than you like...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh yeah? Have you ever dated anyone who has been divorced three times?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh! Oh-oh, the band's ready! Well, I-I-we gotta do what the band says-I don't care about the stupid band!!",
+      "characters": [
+        "Carol",
+        "Rachel",
+        "The Salesman",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

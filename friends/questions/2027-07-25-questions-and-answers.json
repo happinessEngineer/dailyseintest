@@ -1,0 +1,106 @@
+{
+  "gameNumber": 914,
+  "date": "2027-07-25",
+  "questions": [
+    {
+      "quote": "Well y'know, we have 7 people and like 10 pizzas, what do you think?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Kim"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah y-you, how hard is it to say something? Rachel came over to borrow something.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Megan Bailey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, Chandler, it's my joke. But, hey, if it makes you feel any better they don't print the name, so it doesn't really matter who gets credit, right?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Sandra Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah! Actually, that's one of the reasons why we're not a couple.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Ross",
+        "Michelle"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I've been trying for two days. When I called the restaurant, they said she was too busy to talk. I can't believe she's blowin' me off.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, there's gonna be strippers there. He didn't say anything about no strippers.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. This game is grotesque. Twenty armless guys joined at the waist by a steel bar, forced to play soccer forever. Ahh, hello, human-rights violation.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Kathy"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, wow, so you're gonna be one of those \"healthy, healthy, healthy guys\"?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "He couldn't even tell me! He said it was just some sort of skin... abnormality. And the worst thing is he-he-he said, he said, without being able to identify it, he was reluctant to remove it.",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, just a crush! That's all this is! It's a crush! I'm Joey; I don't get deep feelings.",
+      "characters": [
+        "Joey",
+        "Tag Jones",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 671,
+  "date": "2026-11-24",
+  "questions": [
+    {
+      "quote": "Okay ah, please don't freak out. Umm, but ah, there's a blue fingernail in one of the quiche cups, and there's no way to know which one.",
+      "characters": [
+        "Monica",
+        "Eric",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, but I did make a pyramid out of the bath products. This is amazing, thank you, thank you so much. That's a pretty necklace.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I think it's great that you're going on a date, you know? I mean, it sounds healthy. I mean, you have needs. Embrace your womanhood!",
+      "characters": [
+        "Sandra Green",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's a haven. A third-floor paradise. A modern-day Eden in the midst...",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Monica",
+        "Parker",
+        "Ross"
+      ],
+      "correctAnswer": "Parker"
+    },
+    {
+      "quote": "It's just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Earl"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "No, none at all. You need to be happy with whoever is in your home... Although if you don't mind telling me, what was your problem? Maybe it's something I can work on in the future.",
+      "characters": [
+        "Sandy",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Sandy"
+    },
+    {
+      "quote": "...so then the farmer says, \"That's not a cow and you're not milking it.\"",
+      "characters": [
+        "Monica",
+        "The Stripper",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow, he's cute, Pheebs! But I thought you just started dating that Kindergarten teacher.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You've done a wonderful job with this party Chandler. Everything looks so lovely.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "So, you gotta play the odds, pick somebody who's gonna be in the country like all the time.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

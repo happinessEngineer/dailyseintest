@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1248,
+  "date": "2028-06-23",
+  "questions": [
+    {
+      "quote": "Look Rachel, I know what you're going through. I'm totally freaked about turning 25.",
+      "characters": [
+        "Ross",
+        "Judy Geller",
+        "Joey",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "I'm sorry honey, but we're gonna take you shopping. It's gonna be fine.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Now, she thinks that I made out with him and I did it to get her job.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey guys, I just uh, wanted to invite you to the party tomorrow night.",
+      "characters": [
+        "Danny",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Danny"
+    },
+    {
+      "quote": "Hey, hey... I can convince people to do anything, you know. I bet I can even get Mike to do that \"thing\". What is it?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Because I know that you think the lottery is \"boohaki\" but we're all here and gonna watch the numbers and have fun. And you're my brother, and I want you to be a part of this.",
+      "characters": [
+        "Monica",
+        "Malcom",
+        "Carol",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So. Ross, I've bugged him about this a million times, he's not gonna change.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh no, no, right I shouldn't have said married. Uh, please don't go freaky on me. I didn't mean it. Well, I didn't say it; I take it back!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Emily Waltham",
+        "Sandy"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "oh, too late, too late! It's sent... oops sorry and so is the picture of you and the police man...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

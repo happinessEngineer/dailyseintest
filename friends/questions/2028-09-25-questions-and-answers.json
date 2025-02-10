@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1342,
+  "date": "2028-09-25",
+  "questions": [
+    {
+      "quote": "Ross, I am telling you that she is using you to get back at me!",
+      "characters": [
+        "Cop",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, that's great. I'm stalking the wrong woman. I am such a dingus!",
+      "characters": [
+        "Guy",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Look, he's a really great guy and I know that you really want this to work out, but I just don't see this having a future.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Erin",
+        "Joey"
+      ],
+      "correctAnswer": "Erin"
+    },
+    {
+      "quote": "Okay, um, I... All right Phoebe look, I just wanted to say that I'm sorry. OK? I handled the situation horribly and I should not have lied to you.",
+      "characters": [
+        "Joey",
+        "Emily Waltham",
+        "Tim",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Or you can sit with him on the front porch and make sure no one steals the trash cans. He does that every week too.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know! He hasn't called me since that one time when we went out. I see him in the hallway, we flirt, I'm all ha-ha-ha-ha, and nothing.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Erica Ford",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh it's OK. You were worth the wait, and I don't just mean tonight.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Gunther"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look we've got to find her. Phoebe just called!! Rachel's coming to tell Ross she loves him!!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ronni Rapalono"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know, ah, I've been thinking about this and I gotta tell ya, it's not my fault. It's a natural instinct.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well it's...It's not that crazy okay? Making them smaller, that would be crazy.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

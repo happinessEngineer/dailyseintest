@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1257,
+  "date": "2028-07-02",
+  "questions": [
+    {
+      "quote": "'kay, look: Can we just drop this? I'm not gonna smoke again.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, I know it must be hard that your wife is a lesbian, but it's wrong. You're married.",
+      "characters": [
+        "Brenda",
+        "Ross",
+        "Joey",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Brenda"
+    },
+    {
+      "quote": "Oh God. We didn't get into Scranton. That was like our safety zoo. They take like dogs and cows. See? I don't know who this is harder on, me or him.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Excuse me? Could you help me with something? The patient I'm looking for has a broken leg and is in a wheelchair. And umm, he's like early to mid-thirties, very attractive.",
+      "characters": [
+        "Emily Waltham",
+        "Janice",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "...is something I'm very interested in! Oh please, do not tell Ross. He still believes that what's in the inside is important...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, y'know what, y'know what? This playing hard to get thing is not working. Umm, hand-hand me those cherries. Okay. Okay. Hi!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Mr. Treeger",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes you do. You think of it as your apartment, and I'm just somebody who rents a room.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't believe this. I can't believe this is happening. I have to give the keynote speech tomorrow! Ok? I have to stand up in front of all these people. What am I gonna say?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no, I'm sorry, you look a lot different from the last time I-I saw you.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No Chandler no! No unscheduled stops. You can go when we stop for gas.",
+      "characters": [
+        "Roy",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

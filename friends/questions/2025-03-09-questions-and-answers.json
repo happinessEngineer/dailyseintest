@@ -1,0 +1,106 @@
+{
+  "gameNumber": 46,
+  "date": "2025-03-09",
+  "questions": [
+    {
+      "quote": "What kind of job is that for a man? A nanny? I-It's like if a woman wanted to be...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Didn't you listen to the story? I mean, this is twisted! How could you get involved with a woman like this?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Erica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Listen, drama critics they're nothing but, but people who couldn't make it as actors. You know what you should do?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I always wanted to play piano professionally, and I figured if I don't do this now, I never will.",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "It's ok, it's ok. I made my decision. What I really want is a great big wedding.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes, well, I expect this from her. Okay? She's always been a Freudian nightmare.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey-yeah. Hey Gunther, can I have a scone please? Wanna hear some good news? Someone I know is getting married! Yeah! And weddings are happy occasions! Oh, by-the-by it's my ex-wife Emily!",
+      "characters": [
+        "Ross",
+        "Malcom",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "With that moustache doesn't Chandler remind you of Aunt Sylvia?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh well, You know, I think it's kinda really important that I go somewhere where there's sun, so I'm sort of... Hey!",
+      "characters": [
+        "Eddie Menuek",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey Tribbiani! I'm surprised your big head could fit through our small halls! I gotta go Joey.",
+      "characters": [
+        "Terry",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Terry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1345,
+  "date": "2028-09-28",
+  "questions": [
+    {
+      "quote": "Oh-oh, okay, okay! If you don't mind I'm gonna the rest of my stuff, and relax, in my favourite shirt. You have a pleasant evening.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, Rachel wants to take swing dance lessons. Which I think is a really stupid idea! It's dangerous, she's never gonna get what she wants, and who knows who she might end up hurting.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Nothing! Oh God, we're just so excited that you want to get this apartment!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I just got off the phone with my lover, James Brolin...",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's right Wesley! I just stopped by to say that, you're not a real doctor! And that woman's brain, is fine!",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Dr. Drake Ramoray"
+    },
+    {
+      "quote": "Oh. Oh! Oh my God! Okay, I know this, give me-give me a second!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "30 seconds on the clock. 5 questions wins the game. The lightning round begins...now! What is Joey's favorite food?",
+      "characters": [
+        "Monica",
+        "Jack Geller",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, y'know, a little of this, a little of that. Got myself a date tomorrow night.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "The guy was hammered, okay? There's no way, you look like Ross's mother.",
+      "characters": [
+        "Rachel",
+        "Receptionist",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross, I am trying to help her become a better person. This is a huge breakthrough for her! She just offered to do something for another human being!!",
+      "characters": [
+        "Michael",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

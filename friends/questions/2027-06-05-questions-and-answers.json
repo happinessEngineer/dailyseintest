@@ -1,0 +1,106 @@
+{
+  "gameNumber": 864,
+  "date": "2027-06-05",
+  "questions": [
+    {
+      "quote": "Well uh, she didn't want to hang out with you guys two nights in a row. I'm so sorry.",
+      "characters": [
+        "Kate Miller",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, those first two windows, that's the lobby. And y'know the other one over there, that's the stairway. You've been counting wrong.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know in a weird way, you have too much power. Look, you're gonna have to help me out here, 'cause I only have three.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I-I don't-I don't think that I'm gonna wear the boots tonight.",
+      "characters": [
+        "Chandler",
+        "Dr. Drake Ramoray",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I mean if-if you're thinking it's a woman's bag, it's not. It's a man's bag!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Steve Cera"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, I hear you! Are you capable of talking about any thing else?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, we'll start with the building. You guys take the first and second floor, Phoebe and I'll take third and fourth.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, he makes t-shirts for a living, and he thought it would be appropriate to give me this.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Frank Buffay Sr."
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OK, I'll just sit here and... uh... chat with your, uh.... friend-type....people.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Russ"
+      ],
+      "correctAnswer": "Russ"
+    }
+  ]
+}

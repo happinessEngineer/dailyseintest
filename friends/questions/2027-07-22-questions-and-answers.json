@@ -1,0 +1,106 @@
+{
+  "gameNumber": 911,
+  "date": "2027-07-22",
+  "questions": [
+    {
+      "quote": "oh, well, Ross probably has it, you can get it from him later.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, I can't live with Joey once the baby comes. I don't want my child's first words to be, \"How you doin'?\"",
+      "characters": [
+        "Trudie Styler",
+        "Peter Becker",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I ah... Oh! I'll squeeze you fresh orange juice every morning!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Is the window open? Because if there's a window open, a bird could fly in there.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I-I think I'm gonna stick with the V, I wanna see how this bad boy turns out.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Someone was in the lady's room, I couldn't wait. I left the lid up for ya though.",
+      "characters": [
+        "Nina Bookbinder",
+        "Woman",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Uh-huh. I know. It was just, it was just the perfect way to say goodbye.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, look I need your help, I don't know what to get her for Valentine's Day.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Earl",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on Joey, I just bought you a new chair! The most expensive one in the store! Hey, y'know what I was thinking? We could name her Francette.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, pick a card, any card. All right, now memorize it. Show to everybody. Got it?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1095,
+  "date": "2028-01-22",
+  "questions": [
+    {
+      "quote": "Ok..You know the old classics you know,You look nice? They're still ok.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh no, it isn't! No! I think Barry is seeing someone in the city.",
+      "characters": [
+        "Mindy Hunter",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Mindy Hunter"
+    },
+    {
+      "quote": "Oh, don't worry about it I mean you probably were tired, you had a lot of champagne, it happens to everybody.",
+      "characters": [
+        "Monica",
+        "Charlie Wheeler",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We're just celebrating that Joey got his health insurance back.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, we're not just messing around! I love her. Okay, I'm in love with her.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, we ended up spending the day together and had such a great time!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Mona"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, I'll go down there. But, I'm not gonna serve the lasagna. I'm gonna serve something I make.",
+      "characters": [
+        "Monica",
+        "Janice",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. But then I changed my mind. I'm funny like that. So I told Lizzie, now I'm telling you, I don't want you seeing my daughter anymore.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Paul Stevens",
+        "Rachel"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "Hey! What are you guys doing here? I thought you'd be out partying with Gandel-worf.",
+      "characters": [
+        "Ticket Agent",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": ": what's the big deal, you forgot, she forgot, maybe you were having an off night.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "David"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

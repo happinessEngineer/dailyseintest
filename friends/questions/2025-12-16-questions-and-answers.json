@@ -1,0 +1,106 @@
+{
+  "gameNumber": 328,
+  "date": "2025-12-16",
+  "questions": [
+    {
+      "quote": "Yeah, that was a disappointment... Oh, hey!D'you want to come down to the set and tell me if I'm doing ok?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't hear a word you're saying, my ears are ringing so bad.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, great! Bye. So guess who's coming to Thanksgiving dinner?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok actually Mon, Matthew was just giving me his phone number.",
+      "characters": [
+        "Monica",
+        "Donny Osmond",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes! All right, y'know what? Why don't we start with a practice run? Okay?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Jason"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Janice's birthday is coming up, I want to get her something speacial. Come in here with me.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "She's just upset because she, uh, she buttered a spider into her toast this morning.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, they're like my best friends. Are you saying we can't hang out with them? 'Cause that would kinda be a problem.",
+      "characters": [
+        "Mindy Hunter",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

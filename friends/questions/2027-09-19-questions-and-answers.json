@@ -1,0 +1,106 @@
+{
+  "gameNumber": 970,
+  "date": "2027-09-19",
+  "questions": [
+    {
+      "quote": "Ooh, that accident must have been terrible. You look positively ghastly.",
+      "characters": [
+        "Monica",
+        "Susan Bunch",
+        "Ross",
+        "Amanda Buffamonteezi"
+      ],
+      "correctAnswer": "Amanda Buffamonteezi"
+    },
+    {
+      "quote": "Just get in there and make a face to face apology, you know? Look them in the eye. I know I can get them to forgive us.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No it isn't! No, it's not. Because you can also explain it with the truth!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Policeman"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right! There is something. I kinda had a dream, but I don't want to talk about it.",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, remember that little problem I was having during my fourth month of pregnancy?",
+      "characters": [
+        "Phoebe",
+        "Dina",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, hey you guys! This is Charlie! Charlie, this is Phoebe and my sister, Monica.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, he told me. He prefers to leave certain things to the imagination.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's 'cause sometimes I just do it through my wall to freak you out.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I would, but this is a nice place and my T-shirt has a picture of Calvin doing Hobbs.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes, all right? All of her hot dancer friends are gonna be there and they're gonna be, be drinkin' and dancin, and we really wanna go!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Richard Burke",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

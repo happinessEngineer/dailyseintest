@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1066,
+  "date": "2027-12-24",
+  "questions": [
+    {
+      "quote": "Okay. Years ago, when I was backpacking across Western Europe...",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, pretty incredible according to the message she left you on my machine. Hey, Chandler, why is this woman leaving a message for you on my machine?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross! Ross! Ross, listen! Who are you kissing at midnight, huh? Rachel or Phoebe?",
+      "characters": [
+        "Joey",
+        "Jill Green",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, so what you're saying is you're not completely fulfilled by Rick, Ethan and myself?",
+      "characters": [
+        "Allesandro",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, that's not bad at all. I mean, you had me thinkin it was like a fleet.",
+      "characters": [
+        "Ross",
+        "Emily Waltham",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.",
+      "characters": [
+        "Peter Becker",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I think he's a little out there, but he does have some interesting ideas...",
+      "characters": [
+        "Charlie Wheeler",
+        "Angela Delveccio",
+        "Mike Hannigan",
+        "Gunther"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Ohh, it's Joshua invited me to this fancy club opening tonight. But, I already told Mr. Waltham that I would take his niece to this dumb old opera. So... What are you gonna do?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh really. Okay. let me ask you something. Yesterday at the coffee house, I went to the bathroom and when I came back, my muffin was gone-who took it?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Janice",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey. Oh, I have a question. If-if-if one of you had to pick one of the other two guys to go out with, who would you pick?",
+      "characters": [
+        "Mike Hannigan",
+        "Janine Lecroix",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

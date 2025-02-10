@@ -1,0 +1,106 @@
+{
+  "gameNumber": 816,
+  "date": "2027-04-18",
+  "questions": [
+    {
+      "quote": "No! No! I-I can do it one more time! See? Look! Hmm, noodle soup. Damnit!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ohh, OK, OK, OK, well, basically, lately, I've uh, I've uh, sort of had feelings for you.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh uh... well, her Internet Company went under and she lost an ear in a boating accident...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow, really? One time he just looked at my bra and it popped open.",
+      "characters": [
+        "Joey",
+        "Receptionist",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait a minute, you're only giving free stuff away to the pretty girls?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry. I'm sorry. You're right, you are a tough guy. You're the toughest palaeontologist I know.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Actually, that can't happen. Yeah because you all have such different looks, we're putting you with Raymond and Kyle with Ben. So it'll be either you two or you two.",
+      "characters": [
+        "The Casting Director",
+        "Rachel",
+        "Phoebe",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "The Casting Director"
+    },
+    {
+      "quote": "Yeah, but you're back's a zero. You're gonna wanna even that out.",
+      "characters": [
+        "Assistant",
+        "Rachel",
+        "Joey",
+        "The Dry Cleaner"
+      ],
+      "correctAnswer": "Assistant"
+    },
+    {
+      "quote": "Yeah, um, okay see, you were, you were on the list but my friend, Chandler brought up the very good point that you are international, so I bumped you for Wynona Rider, local.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, look, we did not know that you wanted a stripper so we went to the phonebook and we got the first name we could find!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

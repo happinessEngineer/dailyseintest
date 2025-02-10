@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1114,
+  "date": "2028-02-10",
+  "questions": [
+    {
+      "quote": "Yeah okay... yeah, your mom... okay... She looks nice, I can talk to her.",
+      "characters": [
+        "Emily Waltham",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, could you do me a favour? Could you just grab me a bottle of water?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry, uh... I just wish I could make her forget about Mike already, you know... Why did Phoebe and Mike break up?",
+      "characters": [
+        "David",
+        "Ross",
+        "Director",
+        "Joey"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Oh my God! I didn't feel a thing ! Hey, are you still looking for a job because you can tweeze circles aroundthat sadistic bitch at the saloon.",
+      "characters": [
+        "Frank Buffay Sr.",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, y'know how I always wanted to go out with Chip Matthews in high school?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh-huh. Uh-huh. Uh, by the by, did it uh, did it ever occur to you that, I don't know, maybe they might be having a little too much fun?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah! Yeah, no, we're gonna connect, y'know bond, and everything.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.",
+      "characters": [
+        "Ross",
+        "Barry Farber",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Barry Farber"
+    },
+    {
+      "quote": "No, no, with him. I'm on this field, and they, they hike me the baby... and I, I know I've gotta do something 'cause the Tampa Bay defence is comin' right at me.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh! Lucky me! Oh my God! That is good news, Ross! I think that's the best news I've heard since Le Poo died!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Mona",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 901,
+  "date": "2027-07-12",
+  "questions": [
+    {
+      "quote": "Well-But-Now, if-if you can achieve positronic distillation of sub-atomic particles y'know before he does, then he can come back.",
+      "characters": [
+        "Jill Green",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's a baby! A beautiful little baby! And some other stuff I'm gonna pretend I don't see.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry. I'm sorry. I-I should probably leave you girls alone.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God! Did you hear that? She hired me because she thinks I'm good.",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, come on, he doesnt know this stuff. If he knew how you felt.",
+      "characters": [
+        "Chandler",
+        "Janine Lecroix",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, it was a fight. . . based on serious stuff, remember. About how I never lived alone or anything. I just think it would be good for me, ya know, help me to grow or. . . whatever.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Not even if Carol's breast had a picture of a missing child on it.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry Monica but I knew if I told you, you'd get really, like, judgemental and you would not approve.",
+      "characters": [
+        "Erica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I just-I can't believe that you think that you and Chandler know me and Rachel better than we know you.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, you have nothing but talk about her for the last 48 hours! If you were in a school yard you'd be pulling her pigtails and pushing her down now!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

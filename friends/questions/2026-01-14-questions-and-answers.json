@@ -1,0 +1,106 @@
+{
+  "gameNumber": 357,
+  "date": "2026-01-14",
+  "questions": [
+    {
+      "quote": "Come in. Thanks for comin' back, umm, okay there have been a lot of people interested in the room, but I have narrowed it down and you are one of the finalists!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, I uh.. just thought I'd throw this out here. I'm no math whiz, but I do believe there are three girls and three guys right here.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well it's just my entire family was run out of Scotland by...Vikings. Anyway, lots of bad memories.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right then. Rachel Green! Let's play Bamboozled! How do you test the temperature of the baby's bath water?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! No! I'm talking you up to people. Just give it a little time, all right? Relax, get something to eat! Okay?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Alright, the truth is, I soiled myself during some turbulences.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Janine Lecroix",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, I talked to the guy with the shovel and I found out what happened.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Do you want me to cry? Is that what you want? Do you wanna see me cry?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "The Teacher",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "\"Hey Ross, it's you!\" Oh yeah, no that's-that's an old message, nobody needs to hear that.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hi! Oh, yeah, no, I know. You're a chef. I know, and I thought of you first, but um, Chandler's the one who needs a job right now, so....",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Mr. Treeger",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

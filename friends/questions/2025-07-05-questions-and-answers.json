@@ -1,0 +1,106 @@
+{
+  "gameNumber": 164,
+  "date": "2025-07-05",
+  "questions": [
+    {
+      "quote": "Oh, it is so unfair. It's like that time they promoted Sandra over me at work.",
+      "characters": [
+        "Rachel",
+        "Nora Tyler Bing",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I-It's just so insulting! Big spring for a new blank tape, Doctor!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well yeah, but she doesn't know that. I mean, the last time she saw you-you would've turned one of those little wedding chairs into kindling.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. Thats better. Now I want you to both apologize to each other and mean it.",
+      "characters": [
+        "Joanna",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! Uh, I d'know! The point is, if you were gonna set me up with someone, I'd like to think you'd set me up with someone like him.",
+      "characters": [
+        "Chandler",
+        "Dr. Ledbetter",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, maybe she didn't hear! Ok I'm gonna go into that dressing room, you stay in here and I'll talk and see if you can hear me.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Noo! No! It wasn't like that I... Remember how I told you how Lily, Frank, and I we were, we were close. Well, we were, we were very close.",
+      "characters": [
+        "Joey",
+        "Erica Ford",
+        "Phoebe",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "Well, I tried! But when I got to my lawyer's office all I could hear was, \"Three divorces. Three divorces!\" Look, I just don't want my tombstone to read, Ross Gellar, Three Divorces.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Timothy Burke",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hell, I'm drunk right now! What? I can't have a mimosa with breakfast?! I'm on vacation!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Whoa, whoa, whoa. What, you don't, uh, you don't believe in evolution?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1065,
+  "date": "2027-12-23",
+  "questions": [
+    {
+      "quote": "Hey and everbody is so nice. I just had a good talk with that lady with the red hair, Jeannie.",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Excuse me, I'm sorry, I'm gonna have to call you back, I've got a Schemp in my office. What are you doing?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Mrs. Tedlock. You're looking lovely today. And may I say, that is a very flattering sleeve length on you.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It really was. Oh, c'mere, sweetheart. Y'know, I think it might be time for you to start using night cream.",
+      "characters": [
+        "Judy Geller",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "I cannot believe you guys! He was really nice and he left because of you!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no no no, you don't have to tell me anything. You don't have to explain yourself to me. Ooh, who am I to question the great Dr. Drake Remore?",
+      "characters": [
+        "Mr. Treeger",
+        "Erica Ford",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Erica Ford"
+    },
+    {
+      "quote": "Hey. Okay, so umm, since that video camera thing didn't work out uh, I thought that I would give you just a little preview.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, it's not like that. I, I work for a medical researcher.",
+      "characters": [
+        "Janice",
+        "Kathy",
+        "Mike Hannigan",
+        "Doug"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "Oh, so, forget about the birds, but big red insects suggest fine dining!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I-I-I don't know if this falls under this category, but uh, Ross is right back there.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

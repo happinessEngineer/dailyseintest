@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1344,
+  "date": "2028-09-27",
+  "questions": [
+    {
+      "quote": "Oh no. I mean it. After what just happened, I'm never leaving her again.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well y'know, some people make deals with a friend, like if neither of them are married by the time they're 40, they marry each other.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know. I don't know... I thought about it all the way there, and I thought about it all the way back... and, uh, oh, you guys, y'know, it's Ross. Y'know what I mean? I mean, it's Ross.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You did! Oh.... I always figured you just thought I was Monica's geeky older brother.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, something to cover the smell ... Oven cleaner! Unscented!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh... I don't know, I really don't think you're right for the part.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Tag Jones",
+        "Janice"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Let's just say if I can't find the right CD case I just put it in the nearest one.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, Chandler, you got a minute? I-I really need to talk to you.",
+      "characters": [
+        "Phoebe",
+        "Janine Lecroix",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! How come my plate's less fancy then everyone else's? Do you not trust me with a fancy plate?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "We share a wall! So either he's great in bed, or she just likes to agree with him a lot.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

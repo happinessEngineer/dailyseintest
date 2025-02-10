@@ -1,0 +1,106 @@
+{
+  "gameNumber": 83,
+  "date": "2025-04-15",
+  "questions": [
+    {
+      "quote": "What do you mean? I can do anything, I'm a chameleon! Huh? I'm old! I'm tired! Hey, I'm hot I'm cold!! Huh?? Come on! What can't I do?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Did you see me? I was pretty good, huh? That is one fun game!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! Well, I really liked that Lamaze class I took! Y'know and this time I thought I'd go for something, y'know a little more intellectual, with a less painful final exam.",
+      "characters": [
+        "Phoebe",
+        "Charlie Wheeler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh Rachel don't, don't you dare, don't, don't. Tell him I cook.",
+      "characters": [
+        "Monica",
+        "Erica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Whoa! This looks like an all day job, I'll have to cancel my yoga class. Hey Ross!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Mr. Treeger",
+        "Joey"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Eh, her-her uncle already had planned on doing it. And y'know, we-we said our good-byes this morning, so...",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "listen to this... I went out with this girl last night and half way through our date I realized I already slept with her.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Excuse me, sir, would it help if I weren't wearing underpants?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Janice",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Why not, just because his great-grandmother was obese, our kids are gonna get that from you anyway!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow! Well, uh... Hey! I'm really happy for you guys! Congratulations! See you later.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

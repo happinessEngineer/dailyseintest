@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1568,
+  "date": "2029-05-09",
+  "questions": [
+    {
+      "quote": "No! Hey no! This is wrong you guys! Phoebe's our friend! Well, I'm not gonna watch it!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Jill Green",
+        "Michael"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, this is terrible. Oh, they've made so many changes I can't even feel my grandmother's presence anymore-Ooh! New sconces!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, wait a minute, wait a minute, wait a minute. Maybe it's not so bad. How did you leave it?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know, I'm sorry, please forgive me. I don't know what to say.",
+      "characters": [
+        "Phoebe",
+        "Gunther",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, it's good thing you got out when you did, before she blew up like that Vesuvius.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, just you know, for argument's sake, you know, hypothetically. Which one would you be willing to give up?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh! It's okay, you calm down after a while and then people can see how really sweet and wonderful you really are.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh no-no-no, we're just two people who happen to run into each other here at the coffee house.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Cecilia",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "If you would've let me finish, it goes on to say that he's probably not gay.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "The strange part was, he was really nice, umm and he looks great, but I didn't feel anything at all!",
+      "characters": [
+        "Rachel",
+        "Tag Jones",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

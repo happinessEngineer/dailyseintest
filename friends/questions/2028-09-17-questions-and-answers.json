@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1334,
+  "date": "2028-09-17",
+  "questions": [
+    {
+      "quote": "No-no-no, I'm saying we-we buy more of this at the gift shop, throw our tuxes back on, and take a few pictures. All we have to do is make sure not to get anybody else's faces.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I can't believe this, just like 2 weeks ago I was watching Sudden Death, now I'm on a date with Jean-Claude Van Damme. Can you beat up that guy? Can you beat up that guy?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Absolutely! I could be a vegetarian. There's no meat in beer, right?",
+      "characters": [
+        "Carol",
+        "Receptionist",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, she's gonna look all washed out next to the other contestants!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sure! Monica, I can't get over how great you look! You look stunning!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Will Colbert",
+        "Joey"
+      ],
+      "correctAnswer": "Will Colbert"
+    },
+    {
+      "quote": "Look he doesn't have any brothers or sisters, somebody's gonna have to teach him this stuff! And I haven't taught him anything that a normal 6-year-old doesn't know anyway!",
+      "characters": [
+        "Joey",
+        "Zack",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...",
+      "characters": [
+        "Ross",
+        "Precious",
+        "Tag Jones",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's actually kinda interesting to find out what people are doing... remember Andrea Rich?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Michael",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah but maybe that's a good thing. Y'know I'm doing all these different sorts of things, and maybe I should try dating a geek too!",
+      "characters": [
+        "Ross",
+        "Jill Green",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Jill Green"
+    },
+    {
+      "quote": "Hi, it's Phoebe. Listen someone's gonna have to take my 9:00 with Mr. Rehack, 'cause it's like 9:15 now, and I'm not there.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

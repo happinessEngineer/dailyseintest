@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1121,
+  "date": "2028-02-17",
+  "questions": [
+    {
+      "quote": "Oh No, It's Terrific, It'S- It'S- Y'Know, You Deserve This, After All Your Years Of Struggling, You'Ve Finally Been Able To Crack Your Way Into Show Business.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh yeah. I actually liked you guys. But it doesn't matter, because what you did was wrong.",
+      "characters": [
+        "Chandler",
+        "Erica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Umm, when were you gonna tell me that you're going out with Chip Matthews?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, look, we were just saying, this whole thing is really stupid.",
+      "characters": [
+        "Judy Geller",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Are you kidding?! Another week with that sip, I'll kill myself!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Mike Hannigan",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Before you say anything, have we got a story for you! Guess who we bumped into at dinner!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, it's for when Carol goes into labor. She can get me wherever I am. I mean, all she has to do is to dial 55-JIMBO.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "yeah but she should remember sleeping with me I am very memorable, you guys know.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Richard Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Thanks for lunch, Chandler. Y'know, you didn't have to walk me all the way back up here.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is easy...Can't do this! Oh! Wow! Seriously I can't do this.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

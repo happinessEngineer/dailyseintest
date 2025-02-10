@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1264,
+  "date": "2028-07-09",
+  "questions": [
+    {
+      "quote": "Hold on a second, just put a little club soda on it and it should umm, be.....",
+      "characters": [
+        "Chandler",
+        "Mr. Treeger",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh... so sad... Still, it can't be easy for you to leave Harvard? Especially after working alongside a Nobel Prize winner like Albert Wintermeyer?",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Great. Then you'll be able to spend more quality time with your real friends, the spoons.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, Chan, can you help me out here? I promise I'll pay you back.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Umm, can you do me a favor? I was talkin' to my sister and she knows you work at Ralph Lauren...",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Shh. He did it. He told her off, and not just about the kiss, about everything.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! Why isn't it Spiderman? Y'know like Goldman, Silverman...",
+      "characters": [
+        "Paul Stevens",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Of course you do! I saved him! You're mad at me! It all adds up! You want Ross out of the picture.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Melissa Warburton",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?",
+      "characters": [
+        "Dr. Franzblau",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Dr. Franzblau"
+    },
+    {
+      "quote": "Hello? Uh-huh. Uh-huh. Okay. I guess we can bet one more time.",
+      "characters": [
+        "Monica",
+        "Richard Burke",
+        "Emily Waltham",
+        "Mr. Douglas"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

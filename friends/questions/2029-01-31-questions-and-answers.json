@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1470,
+  "date": "2029-01-31",
+  "questions": [
+    {
+      "quote": "Please, it's because otherwise I really don't know what I might do.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "And hey! Just so you know, it's not that common! It doesn't happen to every guy! And it is a big deal!!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I may play the fool at times, but I'm a little more than a pretty blond girl with an ass that won't quit. I believe this belongs to the father of your baby.",
+      "characters": [
+        "Phoebe",
+        "Peter Becker",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey! It's Estelle! I just talked to the casting people; they loved you!",
+      "characters": [
+        "Estelle Leonard",
+        "Phoebe",
+        "Nora Tyler Bing",
+        "Ross"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "Y'know, I-I gotta tell ya, those eye drops are a miracle. My eye is a 100% better.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look at this, it's from the cellars of Ernest and Tova Borgnine, so how could we resist?",
+      "characters": [
+        "Emily Waltham",
+        "Dr. Mitchell",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Dr. Mitchell"
+    },
+    {
+      "quote": "Gone! I mean its amazing Pheebs. I feel so free and so graceful. Hey! Look out for the horse! Sorry!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. I feel so bad. Is there anything I can do to make it up to you?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Charity Guy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, do you love her? And you don't have to be too emphatic about this.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well I-I talked to and uh, she's definitely going to have this baby. Y'know, she said she was gonna raise it on her own.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

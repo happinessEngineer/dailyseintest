@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1295,
+  "date": "2028-08-09",
+  "questions": [
+    {
+      "quote": "Pleased to meet you. So you're coming to Rachel's party tonight?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well good, okay. I-I, kind of think y'know if we...if You're wearing the ring.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Mr. Ratstatter",
+        "Mr. Thompson"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I just wanna say that I'm sorry I referred to the vein as a seperate person...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "My wife had a workout friend she went to the gym with everyday for a year. She didn't get any fitter.",
+      "characters": [
+        "Chandler",
+        "Dr. Harad",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, okay Ross. Listen, this pen is kinda getting boring, so can you pick me up some porn?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh... You didn't propose to me, Chandler didn't propose to me, but Joey did.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "The Stripper"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OH! And the year before that, when you set up that nighttime tour of that button factory?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ew, was Chandler naked? Sort of like a, like a ring toss kind of situation?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Lauren",
+        "Kim"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Actually I rent the whole place and, I just got what you meant. Thank you.",
+      "characters": [
+        "Joey",
+        "Mike Hannigan",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's a good idea! I bet they have one of those wind machines! Y'know...",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

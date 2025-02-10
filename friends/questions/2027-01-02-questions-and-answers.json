@@ -1,0 +1,106 @@
+{
+  "gameNumber": 710,
+  "date": "2027-01-02",
+  "questions": [
+    {
+      "quote": "I knew all I had to do was let the material speak for itself. Everyone's all, \"Ross you have to be funny and sexy.\" Well, I proved them wrong! And now, I'm gonna pass the news onto Joey and Chandler.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Kim"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry I find it hard to believe that a group of people who spends as much time together as you guys do has never bumped uglies.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Dina",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Oh, oh thanks. Alright well, now that I'm up I'm going to go to the bathroom.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Here, kitty-kitty. Here kitty-kitty. Where did you go, little kitty-kitty-kitty? Here kitty-kitty-kitty-kitty...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "'Cause Rachel told me uh, you were dying to have a threesome with me and uh, Drew Barrymore. By the way, Drew has some groundrules and...",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Chandler",
+        "Jean-Claude Van Damme"
+      ],
+      "correctAnswer": "Jean-Claude Van Damme"
+    },
+    {
+      "quote": "Huh. Oh, boy! Uhh, I-I don't wear suits to work, and I bought six of them from you.",
+      "characters": [
+        "Phoebe",
+        "Joshua Burgin",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Oh, 's'funny, really? Um, I don't remember you making any sperm.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, I just thought of the perfect guy for Rachel to take to her thing.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "God, you're amazing... I didn't even have to ask you to call me that.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, who should we call first, your folks, or Deb and Rona?",
+      "characters": [
+        "Susan Bunch",
+        "Chandler",
+        "Rachel",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Susan Bunch"
+    }
+  ]
+}

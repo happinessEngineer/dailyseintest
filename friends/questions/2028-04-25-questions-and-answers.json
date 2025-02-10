@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1189,
+  "date": "2028-04-25",
+  "questions": [
+    {
+      "quote": "Well, I don't think there is anything to do. I mean I think you're really sweet, but I'm just not interested in you like that.",
+      "characters": [
+        "Rachel",
+        "Janine Lecroix",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "So Joey umm, you look familiar. Are uh, are you on TV or something?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know, nothing makes God happier than when two people, any two people, come together in love. Friends, family, we're gathered here today to join Carol and Susan in holy matrimony.",
+      "characters": [
+        "Monica",
+        "Minister",
+        "Barry Farber",
+        "Rachel"
+      ],
+      "correctAnswer": "Minister"
+    },
+    {
+      "quote": "Yeah, y'know I feel like I can really talk to you 'cause y'know you're my sister, y'know.",
+      "characters": [
+        "The Salesman",
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Hey, you only heard Monica's side of that. That little fatso was a terror.",
+      "characters": [
+        "Minister",
+        "Woman",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right buddy, time to roll over. No-no! No, no-n-n-n-no!! You are going to a clinic! You're going to a clinic, and a pyjama store!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, did she sound happy about it? 'Cause my friend Ethel's baby was born with a teeny, tiny beard.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I'm sorry. Please apologise to Sandy and the Snufflebumps for me.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Item J437-A, color: winterberry. Hi umm, listen come here, come in. I'm so-so sorry about yesterday. I-I'm really sorry. It's just that I...",
+      "characters": [
+        "David",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

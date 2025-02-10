@@ -1,0 +1,106 @@
+{
+  "gameNumber": 640,
+  "date": "2026-10-24",
+  "questions": [
+    {
+      "quote": "We close escrow tomorrow, so seeing another house can only confuse us, and we're easily confused. We're not very bright.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh.Okay, then it gets worse, 'cause then I told him that I would see him tomorrow night.",
+      "characters": [
+        "Monica",
+        "Eric",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And then Jean-Claude took me to that place Crossroads and that's where we hung out with Drew Barrymore.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Bonnie",
+        "Ross"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "What do you care? You're an actor. This is your day job. This isn't supposed to mean anything to you.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Of course I have! What do you think, I'm some 30 year old virgin?",
+      "characters": [
+        "Mona",
+        "Interviewer",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh yeah, I don't care how much she tells you she wants it, I don't care if begs, she pleads, she tells you she, she's gonna have sex with, with another man. That just means it's working.",
+      "characters": [
+        "Ross",
+        "Kathy",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But-but you know you cannot get involved with your assistant.",
+      "characters": [
+        "Cecilia",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok mom, you know what, fine, I'll make an appointment ok, but you know what, right now, I gotta go, I gotta go do a thing.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, I don't know why you're so embarrassed, they were very nice boobies.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joshua Burgin",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

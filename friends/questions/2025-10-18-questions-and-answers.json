@@ -1,0 +1,106 @@
+{
+  "gameNumber": 269,
+  "date": "2025-10-18",
+  "questions": [
+    {
+      "quote": "I just checked my messages, and he said that when he gets back from Atlanta, we need to talk.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And you got a 'hate' from that?! Your taking a big leap there...",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I know I haven't worked in an office before, and I really don't have a lot of experience, but uh...",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Hey uh, Rach, funny story. I ah, bumped into Joanna on the street yesterday.",
+      "characters": [
+        "Chandler",
+        "Joanna",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay the sleeping thing. Very tricky business, but there is something you can do.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You want me to just call him up and tell him that you're seeing him instead? That's what you want?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Aurora"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my God!! Ohh, that is it! I'm leaving! You are just a horrible person!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, for your information, Paolo is gonna be in Rome this New Year, so I'll be just as pathetic as the rest of you.",
+      "characters": [
+        "Rachel",
+        "Dr. Franzblau",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, y'know what, let's just cut to the chase here. Okay? Heidi, which of my boys do you like?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Cecilia",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "In fact, I'll bet you 50 bucks that you can't go the whole year without making fun of us. Eh, y'know what, better yet? A week.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

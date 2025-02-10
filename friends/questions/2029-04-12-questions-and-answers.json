@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1541,
+  "date": "2029-04-12",
+  "questions": [
+    {
+      "quote": "Well, fine. Fine! If-if I'm the only person with any appreciation of the sanctity of the written word, I'll go up there and defend it myself! And don't you follow me!",
+      "characters": [
+        "Ross",
+        "The Stripper",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah-yeah, and if I get it by day I'll Dr. Drake Remoray, but by night I'll be Joey Trrrribbiani!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, it's a key. To be honest, I think I'd prefer the five dollars.",
+      "characters": [
+        "Mona",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no, no. The next time it's gonna be a Hawaii at sunset. But maybe the time after that!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Nope. Man look at this! Ross, I can't believe you said you'd play rugby. I mean look how brutal this is!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I'm not going in first. I bet that vein on Monica's forehead is popping like crazy.",
+      "characters": [
+        "Chandler",
+        "Receptionist",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, okay. Well, I'll just leave the door open and go sit on the couch.",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Forget it! Okay, I'm not giving up my bachelor pad for some basketball seats!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God! Wow! That was fantastic, I almost leaned in. I really almost did!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That is so sad. Your missing out on so much, Ross. I mean, the bonding and the sharing, you know. And-and knowing that someone else is going through the same thing you are.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

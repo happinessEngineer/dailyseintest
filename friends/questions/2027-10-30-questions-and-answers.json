@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1011,
+  "date": "2027-10-30",
+  "questions": [
+    {
+      "quote": "I uh, I've been to his apartment and he wasn't there, and uh. I need to talk to him, so do you have any idea where he is?",
+      "characters": [
+        "Brenda",
+        "Emily Waltham",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "It's very weird! I don't want some guy down there telling me, I'm y'know, dilatedamundo!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. Uh-oh the laundry's done, uh-oh, uh-oh.",
+      "characters": [
+        "Phoebe",
+        "Richard Burke",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Why, I must have been in missile training the day they taught that.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know what's really good here, the lobster. What do you say shall I just order three.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Leonard Green",
+        "Chandler"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Hi Rachel. Ohh, I've been meaning to ask you. Have you seen the new Ralph Lauren sheets? Ohh, what am I thinking. Of course you have.",
+      "characters": [
+        "Kim",
+        "Gary",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "Uh, yeah, I just got my pick-up sticks back from the shop. Bring your nerves of steel.",
+      "characters": [
+        "Gavin Mitchell",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, why don't you tell me what you're supposed to be! Huh? Because I sure as hell can't figure it out! I talk to you and nothin'. You look at me, and it's nothin'. Nothing.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Cassie Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, god, I can't believe one of us actually has one of these.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Doug",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You may be okay about getting hurt, but I am not okay with being the one who hurts you. That's why I can't take this job.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

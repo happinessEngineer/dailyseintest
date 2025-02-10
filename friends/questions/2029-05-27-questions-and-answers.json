@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1586,
+  "date": "2029-05-27",
+  "questions": [
+    {
+      "quote": "Umhmm, umhmm, about the time you told me about New Year's Eve. Where is everybody else?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "The Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What?! You mean they're not coming to a social event where there's no men and there's no booze?! That's shocking! I don't care, as long as my mom's here.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This one time I had my knee up on the sink and your mother, she was.",
+      "characters": [
+        "Monica",
+        "Jack Geller",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Oh, well thank you for taking your tongue out of my sister's mouth long enough to tell me that.",
+      "characters": [
+        "Janice",
+        "Amy Green",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, we set up a court in your room. Uh, you didn't really like that grey lamp, did you?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh umm, there's also a book here by a woman named Wendy Bagina. What is that?",
+      "characters": [
+        "Ross",
+        "Julie",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know! But maybe if we keep that drawer shut, it'll die.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Benjamin Hobart",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my God! This is a six-hour pill! That's it! I'm out of the woods! Ohh! What a relief!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Unfortunatly the only thing we have available is our deluxe suite, the rate is six hundred dollars.",
+      "characters": [
+        "Monica",
+        "Receptionist",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Okay, a little announcement, a little announcement. I've decided that my best man is, my best friend Gunther!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

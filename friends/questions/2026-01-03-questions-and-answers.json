@@ -1,0 +1,106 @@
+{
+  "gameNumber": 346,
+  "date": "2026-01-03",
+  "questions": [
+    {
+      "quote": "Oh my God. What is th... it's like a guy never lived in here. Look, you've got to be careful. This girl thing is dangerous. It's spreading already.",
+      "characters": [
+        "Tag Jones",
+        "Chandler",
+        "Eddie Menuek",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, the realtor said another couple made an offer. Maybe the Janice's won't get it! Maybe the other couple will.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",
+      "characters": [
+        "Ross",
+        "Carol",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Okay, okay, okay, look, just don't freak out, but I kinda lost it. I know it's in the apartment, but I definitely lost it.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Jack Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "If we are not doing it together, we're not doing it at all! So, say goodbye to your tickets! .",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wow! And I'm a vegetarian! All right, all right, well I'm sorry, we'll put some ice on it.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rob",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": ": Is this not the good part? Do you want me to fast forward to something a little toothier.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Sandra Green",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, hi! I would check your hand but... I'm sure you don't want to get my chicken disease!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "The Cooking Teacher",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, everybody, let's give a uh nice warm Central Perk welcome to--",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Jill Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, hi, I was just beeped. No, Andr is not here. Third time today. Yes, I'm sure... No, sir. I don't perform those kind of services.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

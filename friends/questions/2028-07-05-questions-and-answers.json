@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1260,
+  "date": "2028-07-05",
+  "questions": [
+    {
+      "quote": "Remember that guy from cooking school I told you about that put cilantro with everything?",
+      "characters": [
+        "Erica",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Mike Hannigan",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, honey, maybe you can talk to somebody who's had a baby. Like your mom?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joshua Burgin",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh God, I can't believe you're making such a big deal about this. It was one kiss, one guy, one time!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "The Doctor"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah? Wow! Y'know, that this thing has speakers in the headrest!",
+      "characters": [
+        "Paul Stevens",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I am telling you, up until I was, like nine, I thought that gunpoint was an actual place where crimes happen.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Ethan"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "Yeah, yeah, and the Indians taught the Pilgrims what it meant to be hot in the new world!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Gary"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, Ross does. What... You're - you're ruining the plan! Joey, you've - you've fixed him up with his perfect woman!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I did my best to convince him that I'm not some crazy girl who is dying to get married-I'm just going through a hard time.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I met him when I was playing guitar in Washington Square Park. Ryan threw in salt water taffy 'cause he didn't have any change.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

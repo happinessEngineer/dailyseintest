@@ -1,0 +1,106 @@
+{
+  "gameNumber": 80,
+  "date": "2025-04-12",
+  "questions": [
+    {
+      "quote": "Well, the brown one brings out your eyes, but your butt looks great in the blue one.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Pheebs, if she could come back as a couch, we'd really appreciate it.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hi! Hey, listen, can we ask you a question? When you and Monica first hooked up, was it weird going from friends to... more than that?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh well, all right, I got thank you, I got uh, this y'know \"I want a job sweater.\"",
+      "characters": [
+        "Phoebe",
+        "Emily Waltham",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Girls say it to me all the time! And believe me, if she's anything like me, she's just gonna be relieved.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, no, I keep trying, y'know? I can get out, \"Joey, I have too...\" but then I lose my nerve and I always finish with, \"...go to the bathroom.\" He may think I'm sick.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's like if you woke up one day and found out your dad was leading this double life. He's like actually some spy, working for the C.I.A. That'd be cool.... This blows!",
+      "characters": [
+        "Janice",
+        "Larry",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Pantyhose! Y'know? They way they start at your toe and go all the way up to here... I should go take these off shouldn't I?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right. If you care enough to make up that load of crap, okay.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Their not breaking up. Chandler and Janice. Their not breaking up. He didn't blink or anything.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Wendy"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

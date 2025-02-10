@@ -1,0 +1,106 @@
+{
+  "gameNumber": 509,
+  "date": "2026-06-15",
+  "questions": [
+    {
+      "quote": "Oh, I uh, I mean, I... dude, I spent the whole conference with Charlie.",
+      "characters": [
+        "Ross",
+        "Elizabeth Stevens",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, it's, it's, it's cute. Why, why, why does he have it, again?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And on my way over here, I stepped in gum. ...What is up with the universe?!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Phoebe! Come on I'm serious! I just got to talk to him about all this.",
+      "characters": [
+        "Joanna",
+        "Wendy",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. Good, all right, let's get back in the car, 'cause it's freezing, and my chest is unsupported.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, hey, look. Look Ross, Ben drew a picture of you! Huh? You're-you're a cowboy!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look Rach, we have to move. I mean if they had lost, we would've made them get rid of the birds. Right?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I think we do. Why don't we go inside? Look uh, I know why you're here.",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Actually, I think this apartment sullies the good name of crap",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Parker",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

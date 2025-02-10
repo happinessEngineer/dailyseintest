@@ -1,0 +1,106 @@
+{
+  "gameNumber": 650,
+  "date": "2026-11-03",
+  "questions": [
+    {
+      "quote": "Yeah! I opened up to her about all the terrible stuff that's been happening to me. I mean I talked for hours. It is amazing to have someone give you such-such focused attention.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "How was the honeymoon? Phoebe; Oh, incredible! Oh! Champagne, candle-lit dinners, moonlight walks on the beach, it was sooo ro-man-tic!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Mmmmmm! Everything smells so delicious! You know, I can't remember a time I smelt such a delicious combination of of, OK, smells.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You guys, this is Shelley, she's interviewing me for Soap Opera Digest, and Shelley, this are my friends...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, of course it smells really bad. You have your head inside a turkey's ass!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Because patience is the road to understanding which ... is the key... to a happy heart.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, what do you think of Mike and Chandler being in a car accident?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I started building one. But then I decided to take it to the next step.",
+      "characters": [
+        "Jill Green",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay umm, Ross? I'm-I'm really warm, so I'm going to be taking off my sweater. Now, I'm just letting you know that this is not an invitation to the physical act of love.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Buh-bye. I just got us reservations at Michelle's and tickets to the Musicman to celebrate our first holiday season as a betroughed couple.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Mike Hannigan",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

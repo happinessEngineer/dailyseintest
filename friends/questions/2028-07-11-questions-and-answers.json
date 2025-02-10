@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1266,
+  "date": "2028-07-11",
+  "questions": [
+    {
+      "quote": "Oh no... Have you thought about it how complicated this could get? What about Ross?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And that big bloke with the beard, he has got a trick hip. Yeah. And uh, and David over there, I heard he doesn't wear a cup.",
+      "characters": [
+        "Emily Waltham",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Okay, look, Ross, I realise that my Father is difficult, but that's why you have got to be the bigger man here.",
+      "characters": [
+        "Rachel",
+        "Russell",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know. Except that, for one last time... Good game, good game, good game, good game, good game, good game, good game.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We know how expensive weddings can be, besides this may be the only wedding we get to throw .",
+      "characters": [
+        "Ross",
+        "Elizabeth Stevens",
+        "Judy Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Really?! Joe? What would you do if you were in Ross's situation?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Kim",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I need a few more things to make the margaritas. Uhh, I need some salt, some margarita mix, and tequila.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know I had a big meal on Monday, y'know. So that's just gonna get me straight through the week.",
+      "characters": [
+        "Phoebe",
+        "Mindy Hunter",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, for the first time in my life I'm in a real relationship. Okay, I'm not gonna screw that up by y'know, telling the truth.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Kathy"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

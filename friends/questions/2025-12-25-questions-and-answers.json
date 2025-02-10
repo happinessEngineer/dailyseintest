@@ -1,0 +1,106 @@
+{
+  "gameNumber": 337,
+  "date": "2025-12-25",
+  "questions": [
+    {
+      "quote": "Well, Rachel moving to another country? Not being able to see her every day. How can I be okay with this?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I play squash...! Anyway, uhm... I uhm... I always get the feeling he thought I was too sensitive.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, have you figured out a way to tell him you're moving out?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, my mouth says the words, my brain is thinking monster trucks!",
+      "characters": [
+        "Russ",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I never thought I'd say this, but I'm gonna go use Ugly Naked Guy's bathroom.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ooh. Oh. It looks like, like a tiny little person drowning in your cereal.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's also the smaller piece. Okay, there you go. Enjoy your half my friend, but that is it. No sharing. No switching, and don't come crying to me if you eat your piece to fast. Oh!!!!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Everything on your application looks really good-Ohh! Just one last question umm, are you and your friends gonna be over here all the time like partying and hanging out?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OK, you've got to promise that you'll never, ever tell Ross that I told you.",
+      "characters": [
+        "Joanna",
+        "Joey",
+        "Monica",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But Jo's got a crush on Laurie. Oh. You mean it's like a girl-girl thing? 'Cause that is the one thing missing from The Shining.",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

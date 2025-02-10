@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1594,
+  "date": "2029-06-04",
+  "questions": [
+    {
+      "quote": "I can't believe it! She's asleep! I got her to go to sleep! I have actual magical powers!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, I guess we don't have a choice. Help us! Please help us! We're stuck up on the roof and we can't get down!!!",
+      "characters": [
+        "Ross",
+        "Joanna",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, it's like a cow's opinion. It just doesn't matter. It's moo.",
+      "characters": [
+        "Phoebe",
+        "Paul Stevens",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Would you? Or, is it just to sad and desperate, and y'know something that Sophie would do?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Joanna"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Hey, y'know what? I'm not waiting! I'm gonna push this baby out! I'm doing it! I mean it's what? Three centimeters? That's gotta be like this!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ursula Buffay",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What are they doing out here? The coast's all the way over there.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I bought them off Ebay! They used to belong to the late Shania Twain.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Molly"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Gary",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know what we should do? We should all get dressed up and go to have champagne at The Plaza.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Woman",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know, I've never had to use the other one. I'm just saying y'know, if we're having sex, he's not gonna be talking.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 69,
+  "date": "2025-04-01",
+  "questions": [
+    {
+      "quote": "That's not even kinda close! Dr. Li, how many graduate students you'd be needing?",
+      "characters": [
+        "Benjamin Hobart",
+        "Phoebe",
+        "Joey",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "Oh, yeah, I don't know what they were doing, but at one point sea turtles actually came up to the house.",
+      "characters": [
+        "Susan Bunch",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right! Let's go! Let's go Team Monica! All right, we can work out the name later.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "When it comes down to it, you would risk your life for Ross before you would for me. That's the bottom line.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ugh, is she pregnant yet? She doesn't need to be; she'll still have the baby before I do. Oh Ross, another contraction!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rachel if you, if you want to go out with him, you can. Sound like a big jerk to me but if that's what you want to do...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Bonnie",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Janice, I have something I need to tell you, and I want you to let me get through it, because it's, it's, it's not gonna be easy.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Julie",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "...I am jealous of her?! I mean who does she think she is?! Princess Caroline?!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I don't know, it's-it's kinda in a place that's not... It's not visually accessible to me, and I was hoping maybe you guys could-could help me out.",
+      "characters": [
+        "Ross",
+        "Amy Green",
+        "Assistant",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thank you! 2nd Customer: It was. The duck in particular was superb.",
+      "characters": [
+        "Monica",
+        "Dr. Ledbetter",
+        "Judy Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

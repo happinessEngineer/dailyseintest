@@ -1,0 +1,106 @@
+{
+  "gameNumber": 41,
+  "date": "2025-03-04",
+  "questions": [
+    {
+      "quote": "Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! Joey, oh you're so sweet. You're so-so sweet, honey. But I'm not, I'm not looking for a husband.",
+      "characters": [
+        "Monica",
+        "Gary",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, car magazines, cereal boxes, but it's like enough!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I think we'd better start again. Ross, repeat after me. I, Ross...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Minister"
+      ],
+      "correctAnswer": "Minister"
+    },
+    {
+      "quote": "I love babies, with their little baby shoes, and their little baby toes, and their little baby hands...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh. And Rachel has been really incredible in getting my morning bagel for me. It's amazing how she gets it right almost every time!",
+      "characters": [
+        "Joanna",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "No! No you should! A lot of major actors do nude scenes! I mean the chance to star in a movie? Come on!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, you said that you had customers lined up in the street, so I am here to entertain!",
+      "characters": [
+        "Sandra Green",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross! Ross! If you're going to the airport, could you pick me up another one of those Toblerone bars?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow, this is a tough one. I think I'm gonna have to go with the dog.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "David",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

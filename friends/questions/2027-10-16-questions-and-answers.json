@@ -1,0 +1,106 @@
+{
+  "gameNumber": 997,
+  "date": "2027-10-16",
+  "questions": [
+    {
+      "quote": "Okay, you hard worker! I'll remember to put that in your evaluation.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I-I, I think that's the first time I ever missed a meal! Yeah, my pants are a little loose!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Carol"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I'd like to think there was something for everyone. Look, I know you're casting for this new show...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. What do you, what do you want me to be, like some stupid, big, like, purple dinosaur?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on...I just need it for some rent and..and some other bills.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Just a touch. Mon, I don't understand. I mean, you've been dating this guy since like, what... his midterms? I mean, why all the sudden are you so... Oh.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm fine, I'm fine, it's just, it's just weird what's happening with her and Ross. You know, yesterday he asked me to fix him up with somebody.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah honey, I'm standing right there! Why didn't you just tell him about the mole I haven't got checked yet.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know I can't believe I even thought about getting back together again! We are so over!!",
+      "characters": [
+        "Rachel",
+        "Janice",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And then Chandler was, was really sweet and he consoled me. And well we drank too much...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

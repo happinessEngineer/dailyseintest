@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1438,
+  "date": "2028-12-30",
+  "questions": [
+    {
+      "quote": "Yeah, and oh she's really nice too. She taught me all about how to work the cameras, and smell-the-fart acting.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, actually it's been great. She's 20 so she's not looking for anything too serious, which is perfect for me right now.",
+      "characters": [
+        "Chandler",
+        "Dr. Drake Ramoray",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ooh! Yeah. So yeah, so you know exactly what I'm talking about.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, thanks. I grow it myself. Y'know who also has great hair is Joey!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, you are crazy! I'm sorry, but she sounded generally upset! I mean, listen!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, hi Chandler. It's Phoebe. Uhm... I know that Monica is working today so... ...I was wondering if you want to come to the movies with me and Rachel.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Really Phoebs? Because, you know, you'd have to be an actual waitress. This can't be like your 'I can be a bear cub' thing.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, so, umm, anyway umm, I've been, I've been looking for my Father, and umm, have you heard from him, or seen him?",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I really need some help, okay? Why? Why did I have to speak in a British accent?! What do I do?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

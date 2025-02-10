@@ -1,0 +1,106 @@
+{
+  "gameNumber": 416,
+  "date": "2026-03-14",
+  "questions": [
+    {
+      "quote": "Thanks? But I have plans; Elizabeth and I are going out of town.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross's apartment is nice! How come we don't hang out here more often?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You brought a picnic, oh, what a boyfriend. That's it, on Monday I start wearing make-up.",
+      "characters": [
+        "Monica",
+        "Sophie",
+        "Sandra Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "No, I said today! See, for a superhero, not so much with the listening.",
+      "characters": [
+        "Rachel",
+        "Jill Green",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "He's not right for the part. So if I suggest him, my bosses are gonna think I'm an idiot! And that's something they should learn on their own!",
+      "characters": [
+        "Chandler",
+        "Bobby Rush",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well Ross was hangin' out over at our place, Rachel comes over to borrow some moisturiser from Chandler....",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Really, it doesn't mean anything. I mean, you know, Monica refers to Chandler as Richard all the time!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, she spent the last six months getting over him, and now she's celebrating that by going on a date with him.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why don't you just marry her? Oh no, wait a minute you can't, I'm sorry I forgot, she's not a lesbian.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Expect it in 4-6 weeks. Umm, hey, umm, Joey's gonna be at the telethon for the rest of the day, we have the whole place to ourselves.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

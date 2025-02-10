@@ -1,0 +1,106 @@
+{
+  "gameNumber": 793,
+  "date": "2027-03-26",
+  "questions": [
+    {
+      "quote": "Wait, if that's his favourite area, why is he being so mean to it?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Steve"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ohhh, hey! All right, listen, I-I have that TV thing in like two hours, and I need your help, okay? What do you think? This blue suit, or this brown one?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well okay, I'll swing by later. Do you live in this building?",
+      "characters": [
+        "Gary",
+        "Joey",
+        "Ross",
+        "Susie Moss"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Ok well, well I'm really, I'm sorry about that Joey, but do you think that maybe on some level, you don't want to take off my bra?",
+      "characters": [
+        "Joey",
+        "Joanna",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Dear losers, do you really think I'd hide presents under the couch? P.S. Chandler, I knew they'd break you.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's no surprise that your winning, 'cause you got to pick first, so you got the better team.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hi sweetie, look before I forget, did I leave my diaphram at your place? Hi mom.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, I am, but only because for the last hour and a half I've been playing the movie Diner in my head.",
+      "characters": [
+        "Michael",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "She's not pregnant. It's Rachel. Rachel's the one who's pregnant.",
+      "characters": [
+        "Monica",
+        "Lennart",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1553,
+  "date": "2029-04-24",
+  "questions": [
+    {
+      "quote": "Ooh! But the band and the photographer are coming all the way in from New Jersey!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Interviewer"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Let's see. Oh my God! Oh... But no! No! You can't-you can't hire him, because that-it's not professional. Umm, this is for me yes? Thanks.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Susan Bunch",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I can do whatever I want! I made her! Come on little girl, hi!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, no kidding, this just proves no good can come from having sex with Ross!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, you heard it, you repeated it, so that must mean you wrote it.",
+      "characters": [
+        "Chandler",
+        "Sandra Green",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "And so what if I like to go home, throw on some Kenny G, and take a bath!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, a little problem. The key broke in the lock and I can't get in!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hi! Gavin! Please to meet you. It was my idea to stand there.",
+      "characters": [
+        "Rachel",
+        "Gavin Mitchell",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Oh, a couple of nurses asked them out. Maybe they're with them.",
+      "characters": [
+        "Eric",
+        "Janice",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, when you put your feet up in my bed, you tugged on my catheter.",
+      "characters": [
+        "Gunther",
+        "Joey",
+        "Phoebe",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Leonard Green"
+    }
+  ]
+}

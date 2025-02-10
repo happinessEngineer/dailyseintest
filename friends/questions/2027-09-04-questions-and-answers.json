@@ -1,0 +1,106 @@
+{
+  "gameNumber": 955,
+  "date": "2027-09-04",
+  "questions": [
+    {
+      "quote": "Ok, ok, here is to my sister, the newly-appointed head lunch chef--",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh he's nice. He's nice! Y'know, you always stick up for the people we fog!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Big Bully"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Just for a coupla days. I got a job midtown. I figure I'm better off staying with the kid than hauling my ass back and forth on the ferry. I don't know this one.",
+      "characters": [
+        "Chandler",
+        "Joey Tribbiani Sr.",
+        "Ross",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Joey Tribbiani Sr."
+    },
+    {
+      "quote": "Umm, why don't you give me something that would be a good reason and-and then I'll tell you if it's true.",
+      "characters": [
+        "David",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's what it says here. Flight 421, leaves at 8:40, Newark airport.",
+      "characters": [
+        "Susan Bunch",
+        "Richard Burke",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey don't worry about that! I mean, Ross needs you! And Rachel and I will stay and help anyway we can.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Julie"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Don't worry about it, I just didn't realize you were married.",
+      "characters": [
+        "Paul Stevens",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "For one thing, the guy on the tape said I was doing a good job!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Erica Ford"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh great! Y'know I would've been perfect for this part, but whatever! Y'know, thanks for making a bad decision and ruining your movie! Good day!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Right. Dja bu bu Claude. Uh, c'est la pu les la lu blah bloo.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

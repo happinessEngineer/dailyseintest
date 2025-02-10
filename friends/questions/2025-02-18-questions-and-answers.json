@@ -1,0 +1,106 @@
+{
+  "gameNumber": 27,
+  "date": "2025-02-18",
+  "questions": [
+    {
+      "quote": "...I just don't know if the world is ready for you and your bag.",
+      "characters": [
+        "Carol",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now OK, I haven't seen it yet so, if you don't like it, well, so what, none of you ever made a video. OK.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That was good, that was really good. But I-I think your hands maybe a little off, they should be maybe right like...",
+      "characters": [
+        "Tag Jones",
+        "Rachel",
+        "Dina",
+        "Cecilia"
+      ],
+      "correctAnswer": "Cecilia"
+    },
+    {
+      "quote": "Oh come on. It's cold, it's dark, he doesn't know the Village. And now I have a broken foot. I have no monkey, and a broken foot! Thank you very much.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh y'know what's sadder than this? Bambi. I cried for three days with that movie. No wait two! Because on the third day my mother killed herself so I was partly crying for that.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And that's just the herbivores. I'm not even gonna discuss the carnivores, their heads are already too big. Which is ironic considering their stunted cerebral development.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What? What are you just gonna walk up to her at the gate? Have you never chased anyone through the airport before?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I am going to, uh... get a beverage. It was nice, nice... uh... meeting you.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God, this is great! This is so great! . Did you hear that?",
+      "characters": [
+        "Joey",
+        "Fake Monica",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm just saying that y'know, someday Ross is gonna meet somebody and...he's gonna have his own life. Right?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

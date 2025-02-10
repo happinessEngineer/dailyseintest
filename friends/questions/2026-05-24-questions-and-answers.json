@@ -1,0 +1,106 @@
+{
+  "gameNumber": 487,
+  "date": "2026-05-24",
+  "questions": [
+    {
+      "quote": "Uh, I don't know. Ya see, it's just, see I was a regular on a soap opera y'know? And to go from that to this, I just... Plus, I'd have to wait on all my friends.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "If you like looking at butts so much why don't you just go look at a mirror?",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, come on, miss, isn't there any way that you can just let me off...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, then y'know what? Help me! I need help! I can't do this!",
+      "characters": [
+        "Joey",
+        "Cop",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, we took a little stroll in the park and no one was around, so...",
+      "characters": [
+        "Phoebe",
+        "Gary",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Well. Sounds like you're writing yourself a little play there Rach. Wow! Let me know how that one turns out.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Richard Burke",
+        "Dina"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, you've been here for two months now and your boss is required to hand in a performance evaluation. But y'know, there is one thing that I have yet to evaluate.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "FINE, ok, if you love this house so much, then you should just live here, okay? I just hope you get used to that weird humming sound. Hmmmmmmmmmmmmmm...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Give her a break, it's hard being on your own for the first time.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Huh, Rach I got to say it's gonna take a lot of money for me to go out on a date with a dude.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 791,
+  "date": "2027-03-24",
+  "questions": [
+    {
+      "quote": "Oops, sorry. Listen, we-we have to have a party tonight! Actually, we have to have one in five minutes, so everybody cancel your plans.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know, Rachel, when you ran out of your wedding, I was there for you. I put a roof over your head, and if that means nothing to you... twenty dollars an hour.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You are! Hey, here's twenty bucks. -- Why don't you go buy yourself something pretty while I'm at work tomorrow?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm right! Right? There was like no chemistry between them. Before they had heat, and now there's no heat! Now you know what this means, Joey told us what this means!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What? Wait a minute. What are you saying, that I'm a pushover? I'm not a pushover.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Eric",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh Joey, I'm sorry I just couldn't tell her all those things you wanted me to tell her. And y'know we got to talking and I...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, I can't believe that Monica and Chandler are getting married. I remember talking about this day with Rachel while we were showering together, naked.",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! No, of course not. No. That's why I brought it up. They didn't have any sodas?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Right!\"Oh my God, is this the men's room? Oh, I feel so foolish, have you always known you wanted to be an actor?\"",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Grandmother"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Angela? Joey Tribiani. Listen, what are ya doing tonight. I know your seeing that guy I was thinking maybe you could bring him.....Hello? Hello?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

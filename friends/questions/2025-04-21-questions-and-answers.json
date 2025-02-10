@@ -1,0 +1,106 @@
+{
+  "gameNumber": 89,
+  "date": "2025-04-21",
+  "questions": [
+    {
+      "quote": "It's Ba-go-ta, but close enough. Now, you can either pass your turn to Ross or pick a Wicked Wango card.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Helena",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait, what was that? That sounded like someone being nice to you.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay-dokay, you've each won a game and I've lost what's felt like a year of my life. So everybody goes home a winner.",
+      "characters": [
+        "Malcom",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh wait-hold it! But then I started thinking and I stopped the kissing.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You should see the treatment I get when I'm with that car! People are friendly; they-they wanna talk, and not just about the car! One guy gave me advice about my equity investments.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm having... I'm having a baby. I'm having a... Where's the phone? The phone?",
+      "characters": [
+        "Eric",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh, I'm just, I'm just looking out your window. At-at the view. What are you guys doing?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry! Hey-hey Joe, why don't you uh, lift up your shirt? Take a look at this kiddo. We have a crying child! Roll the damn cameras!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, okay, so we're in the car. Right? And bang! A shot was fired. And Joey with no regard for his own safety throws himself on me!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

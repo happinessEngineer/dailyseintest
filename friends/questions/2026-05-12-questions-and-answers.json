@@ -1,0 +1,106 @@
+{
+  "gameNumber": 475,
+  "date": "2026-05-12",
+  "questions": [
+    {
+      "quote": "Hm-hmm, I told you! I can't believe that I've only got two hours before I call in sick for work.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, some idiot customer put a suggestion in the suggestion box.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, no, no. Nina... ..she is whooo wewee-woo whoo whoo! In fact, if you asked her right now, she would have no recollection of being fired at all, none at all.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, the last six weeks. I wanted this to be a moment you will never forget.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, it's your Thanksgiving too, y'know, instead of watching football, you could help.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry, it just-I don't know it doesn't really look like it can do anything.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well that depends ... have you been a baaad gi .. no I can't.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Tag Jones",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sure. Sure. Look I don't, I don't know if your plans are finalized yet, but umm, hey I-I know another great way to blow off steam.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yu-huh. That's when my mother would shut off the TV and say 'The end'.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wow, Ralph Lauren is really going out of there way to show they're not in the baby buying business.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

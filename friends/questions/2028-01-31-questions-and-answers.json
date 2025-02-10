@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1104,
+  "date": "2028-01-31",
+  "questions": [
+    {
+      "quote": "Oh, I know and he's soo sweet! Listen, he said he was going to call, so put him straight through.",
+      "characters": [
+        "Joanna",
+        "Monica",
+        "Ross",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Uhh, that was Joey. He's running a little late, he says he's sorry.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, hey, museum geeks, party's over. Okay. Wave bye-bye to the nice lady. There you go. Back to your parent's basement. All right. Come on boys, come on out! Here you go. All right.",
+      "characters": [
+        "Gunther",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Honey, come on! You live far away! You're not related. You lift right out.",
+      "characters": [
+        "Rachel",
+        "Elizabeth Stevens",
+        "Gary",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't think I have to hear the rest. Advertising makes perfect sense. Sorry you had to waste all this time, though.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What must it be like not to be crippled by fear and self-loathing.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh she's precious. Do you ever worry she's going to get your real nose?",
+      "characters": [
+        "Chandler",
+        "The Woman",
+        "Ross",
+        "Amy Green"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Ross, tonight was about the two of you getting along. Oh, would you just see my chiropractor, already.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait! Wait! I wanna see this. After I divorce him, half of that kingdom is gonna be mine.",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Oh no, I am a fabulous mom! I bought my son his first condoms.",
+      "characters": [
+        "David",
+        "Joey",
+        "Rachel",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Nora Tyler Bing"
+    }
+  ]
+}

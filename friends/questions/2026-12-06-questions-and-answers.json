@@ -1,0 +1,106 @@
+{
+  "gameNumber": 683,
+  "date": "2026-12-06",
+  "questions": [
+    {
+      "quote": "Oh! Here it is! Ooh, Joey! Why did you sign it, \"Son of a bitch?\"",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Steve",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Are you two talking about the same baby? Hey! Have you started off thinking of names yet?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, man, she loved it! She's over there showing Monica and Rachel right now.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, what, you think I'm just gonna sleep with her and never call her again and things are gonna get uncomfortable? Yeah, sounds about right.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Mona",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, there's a nuclear holocaust, I'm the last man on Earth. Would you go out with me?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well let's just hope it works. Y'know nine out of ten marriages end in divorce?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, you're gonna be fine. You're one of the most caring, most responsible men in North America. You're gonna make a great dad.",
+      "characters": [
+        "Cliff",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You bet that I'd screw up?! So all that stuff about hiring me because I was good was...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "If it makes anybody feel better, then we can just forget the thing, and we'll just do the gift.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

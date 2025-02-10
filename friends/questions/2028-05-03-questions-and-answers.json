@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1197,
+  "date": "2028-05-03",
+  "questions": [
+    {
+      "quote": "I have been looking for them all week and she is wearing them!",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?",
+      "characters": [
+        "Chandler",
+        "Joshua Burgin",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, you know what - my first impression of you was absolutely right. You are arrogant, you are pompous ... Morgan! Morgan! Tag's last name was Morgan! Huh!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Whatever, it's the perfect end to the perfect weekend anyways.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Earl",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, as soon as something opens up we'll move right in. Unless it doesn't have a pool, I need a pool.",
+      "characters": [
+        "Judy Geller",
+        "Jack Geller",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "How... exactly are you pursuing that? Y'know other than sending out resumes like what, two years ago?",
+      "characters": [
+        "Parker",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Where's Chandler? I wanna wish him good luck on his first day. ... and I smelled bacon.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, maybe I'll bring it out and have Monica stick her finger in it. That oughta sweeten it up, huh?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Doug"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Guys! Guys! I just saw two people having sex in a car right outside.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait for me! Wait for me! Wait for me! Oh cool, this is my first huddle.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

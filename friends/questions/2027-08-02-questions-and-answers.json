@@ -1,0 +1,106 @@
+{
+  "gameNumber": 922,
+  "date": "2027-08-02",
+  "questions": [
+    {
+      "quote": ": Toby... Oh, for God's sake, I don't know what she's talking about! There's no Rachel! Don't give me that deep freeze.",
+      "characters": [
+        "Man",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "I didn't have to tell you that!! I'm stupider than Jane Rogers!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh no, Rach, no no, you know you're never supposed to wake a sleeping baby.",
+      "characters": [
+        "Phoebe",
+        "The Casting Director",
+        "Woman",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Anyway, I picked up this outfit that I want to wear and the, and the boots don't really go with it.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey Mon, do you have another pillow? Y'know, something a little snugglyer?",
+      "characters": [
+        "Phoebe",
+        "Waiter",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh Joey, we've heard the specials three times! Okay? There's prime rib, mahi mahi, and a very special lobster ravioli.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Joey's Hand Twin",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes! I win again! Ha-ha! That's like 500 bucks you owe me! Whoo-ho-hoo! $500 that is a loooot of electricity! Whoo-ho-ho! I gotta buy some food.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, all right, all right, let's play one more time, ok? And remember, if I win you do not move to Paris.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Vince",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "If you need an easy way to remember it, just think of a bag of crap.",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Oh yeah, c'mon, I'm movin' on. He can press her up against that window as much as he wants. For all I care, he can throw her through the damn thing.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Alice Knight",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

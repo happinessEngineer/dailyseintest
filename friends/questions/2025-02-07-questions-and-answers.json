@@ -1,0 +1,106 @@
+{
+  "gameNumber": 16,
+  "date": "2025-02-07",
+  "questions": [
+    {
+      "quote": "Noo-no-no, no, those are nicknames. I'm the chick and Chandler is the duck.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ronni Rapalono"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ahhhhhhhhhhhh.... That-that-that's really just to show where the baby would go. Y'know why don't I hold on to him so that there's no confusion?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ticket Agent",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, well, we felt really bad about that so we decided we should all take a little trip together!",
+      "characters": [
+        "Phoebe Abbott",
+        "Interviewer",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I guess when you don't have so many distractions, it's easier for you to focus. Huh?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, no no no no. I see what you're doing here, alright, listen, this is my job buddy. Okay, I've had it for five years, and I know how it works, so why don't you just catch me up!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay but if you don't find him and bring him back, I am gonna hunt you down and kick your ass!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, ok. I see what you're doing, that's fine. This is all there is, just tea, uh, ok. Hmmmm... raunchy!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh, what you said, about us being in a place where we could finally be happy for each other.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Lennart"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh Phoebe, listen. Well, I think we gotta go. This place is really freaking me out. I've been watching this guy over there, I don't think he came with a kid!",
+      "characters": [
+        "Peter Becker",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "When I was you! Y'know what, it's all Joey's fault, 'cause he left his nose open!",
+      "characters": [
+        "Monica",
+        "Waiter",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

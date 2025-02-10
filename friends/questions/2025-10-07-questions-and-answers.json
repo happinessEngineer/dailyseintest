@@ -1,0 +1,106 @@
+{
+  "gameNumber": 258,
+  "date": "2025-10-07",
+  "questions": [
+    {
+      "quote": "Ugh, that was so embarrassing! I can't believe you let me go on and on like that!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ooh, Atlantic City! Oh, that's a great plan! Who's plan was that?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's your, that's your dad's bedroom. That's your dad's bedroom!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know Ross why don't you put that on your answering machine!",
+      "characters": [
+        "Monica",
+        "Director",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, well, it's complicated. I don't actually have a boyfriend. But um. . .",
+      "characters": [
+        "Joanna",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's, that's pretty. Whoa! Whoa! Whoa! What are you doing there Gert?",
+      "characters": [
+        "Carol",
+        "Charlie Wheeler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So she stole your pants and then she came back and wore them in front of you?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You're right. You're right, he's just embracing life. We could all stand to be a little more like Parker. You know what? I am like him! I'm a sunny, positive person.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Customer",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, given that we forgot to invite her it would be an awfully big coincidence if she was.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No. No. Nothing happened. I shut the drapes to uh, show her slides of my favorite fossils.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

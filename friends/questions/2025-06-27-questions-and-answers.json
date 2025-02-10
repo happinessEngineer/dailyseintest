@@ -1,0 +1,106 @@
+{
+  "gameNumber": 156,
+  "date": "2025-06-27",
+  "questions": [
+    {
+      "quote": "New York City has no power, and the milk is getting sour. But to me it is not scary, 'cause I stay away from dairy.... la la la, la la, la la...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Doug"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Actually, y'know it's kinda cold, so how about I keep my boxers on, and give you all a peek at the good stuff?",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "..well, why don't you tell them? After all it, is your ankle.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh... Oh, I'm sorry! I'm not... I was just-I was just reading to Emma.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "The first date we've had in months, and they were both such disasters.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, that's OK, come on in. Um, I'm sorry, is Monica Geller coming? I was told she was.",
+      "characters": [
+        "Richard Burke",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "She's in hiding. She's utterly humiliated. She doesn't want to see you ever again.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Stephen Waltham",
+        "Ross"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "Hi, you're Chandler Bing, right? I'm Tom Gordon, I was in your class.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Tom"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "I just think it's weird, you know? Heckles and me, Heckles, and me, me and Heckles...Would you knock it off?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joanna",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Honey, thanks for trying to figure out a way, but if you're going to Tulsa, I wanna go with you.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

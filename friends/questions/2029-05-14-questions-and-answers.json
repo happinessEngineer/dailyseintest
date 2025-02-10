@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1573,
+  "date": "2029-05-14",
+  "questions": [
+    {
+      "quote": "You know, it's so surprising that you and Joey have known each other for so long and I've never heard about you.",
+      "characters": [
+        "Janine Lecroix",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I was just here looking for, um, my um, my part of an old sandwich. Oh, here it is! Oh.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What are you, what are you talking about? How did this happen?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hello, Mark? Hi, it's Rachel Green. Oh no, don't you apologize. Yeah, I'll hold. He left my number at work, but he was helping his niece with her report on the pioneers.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "HEY! I never have an off night ok although sometimes when I'm a little bloated I don't feel very sexy BUT EVEN THEN I'M BETTER THEN MOST!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Megan Bailey",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Boy, it was so hard not to laugh, I tell ya. Hey, hey, the place looks great!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's ridiculous! I'm not a \"Star,\" just a regular famous actor.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh good, when he comes back for his keys, I'll be sure to give him your shoe.",
+      "characters": [
+        "Chandler",
+        "David",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Quite an interesting turn of events, suddenly it's my book to the rescue, huh? Ooh, very interesting. Yeah, well this certainly clears things up.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, y'know what, come on, do we really have to watch this while we eat?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

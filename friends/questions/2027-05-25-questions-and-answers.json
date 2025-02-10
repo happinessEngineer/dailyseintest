@@ -1,0 +1,106 @@
+{
+  "gameNumber": 853,
+  "date": "2027-05-25",
+  "questions": [
+    {
+      "quote": "Hey! Oh Joey, honey listen, thank you for talking to my yesterday about that thing with my boss. That really meant a lot.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Dana Keystone",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Arg... Alright, I'll take care of it. Monica and Chandler come through the front door.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "God, you are so lucky. I mean, I mean. . . you know what I mean.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, it was the only thing to do there that didn't have a line.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Rach, come on! They are announcing the numbers! My God, I can already feel myself changing. TV: \"Here we are, the official Powerball numbers! We have 53\"",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It was a mistake. Please don't take this to mean anything, because it doesn't.",
+      "characters": [
+        "Monica",
+        "The Casting Director",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, have you guys made anything that maybe I can take credit for?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Will you hurry up? Did you not hear me before when I told you that all of Janine's friends are dancers?! And that they're going to be drinking alot!?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh God, we just clicked! Y'know how people just click? Like he came by to pick me up, and I opened the door, and it was just like, click! Did he tell you?",
+      "characters": [
+        "Rachel",
+        "Gunther",
+        "Chandler",
+        "Joanna"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Well, I was thinking maybe a um, a romantic dinner with um, candles and wine and then uh, maybe going back to my place for um, dessert.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

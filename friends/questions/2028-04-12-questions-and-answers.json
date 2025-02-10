@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1176,
+  "date": "2028-04-12",
+  "questions": [
+    {
+      "quote": "Yeah, this is Tag. Tag, this is Phoebe. Phoebe, can I see you for a second?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OH...MY...GAWD! I am so sorry sweetie, are you okay? You didn't tell her we were getting married, did you?",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, there was. It was-there the corner of the library where-where all these dusty books that nobody ever read-Yes, there was.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Dr. Long",
+        "Luisa Gianetti"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No-ho-ho! Yeah. I mean, no-no-no-no-no, don't you worry, I'm sure with your qualifications you won't need to sleep with some guy to get that job. Although, I might need some convincing.",
+      "characters": [
+        "Leonard Green",
+        "Chandler",
+        "Joanna",
+        "Monica"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Well, that-that-that's it? You're gonna, you're gonna put it on your self or anything?",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ooh, that decides it then. I was on the fence. But knowing that you two would be our neighbors? Ah! now we have to get it! Ellen, we're going to talk numbers.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Listen umm, I've been thinking, it's not fair for me to ask you to spend all of your money on our wedding. I mean, you work, you work really hard for that.",
+      "characters": [
+        "Monica",
+        "Doug",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Actually, what I think you said was, \"don't touch that, and get the hell out of my kitchen.\"",
+      "characters": [
+        "Rachel",
+        "#ALL#",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I know what I wanted to ask you. You were on the show years ago and then they killed you off. What happened there?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "The Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "Oh my God! This is so exciting! Well, get back in there! I'll guard the door!",
+      "characters": [
+        "Chandler",
+        "Jack Geller",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Jack Geller"
+    }
+  ]
+}

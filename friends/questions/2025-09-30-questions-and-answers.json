@@ -1,0 +1,106 @@
+{
+  "gameNumber": 251,
+  "date": "2025-09-30",
+  "questions": [
+    {
+      "quote": "Oh, I'm no actor, I'm a professor of palaeontology. Joey: It's a science.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Mark Robinson",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, stay out of this, Chandler! This is between me... and ME!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Why? Is he? He is! Isn't he? He's dating that slut in marketing!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know. I know, and when he proposed to me, everyone said \"Don't do it, he's just gonna do to you what he did to Rachel,\" and now I feel so stupid.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Mindy Hunter",
+        "Chandler"
+      ],
+      "correctAnswer": "Mindy Hunter"
+    },
+    {
+      "quote": "Yeah but uh... Okay, okay look you guys know that Rachel and I slept together, but there's something else. Rachel's pregnant.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh-oh-oh-oh, how I do it is, I look a woman up and down and say, \"Hey, how you doin'?\"",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I have kissed over four women. Do you wanna get under the covers?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Sandra Green",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, she clamed she had to go out of town suddenly. She's avoiding me, she doesn't want to tell me where my Father is. She knows, and she won't tell me.",
+      "characters": [
+        "Phoebe",
+        "Receptionist",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's very, very nice. Well, come here. I'm very happy were gonna have all the sex.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm telling ya! It's gonna happen. Next year it's gonna be you, me and the little Hemingway Bing. What, he's my favourite author!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

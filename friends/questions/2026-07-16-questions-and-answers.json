@@ -1,0 +1,106 @@
+{
+  "gameNumber": 540,
+  "date": "2026-07-16",
+  "questions": [
+    {
+      "quote": "What?! Look, we're trying to rebuild a relationship here, right. How am I supposed to do that here, without being totally honest with each other?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, I gotta tell you, I love your mom's books! I love her books! I cannot get on a plane without one! I mean, this is so cool!",
+      "characters": [
+        "Wendy",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Unless... Maybe it's too crazy about this... Alright so... you know, there is no future... but that doesn't mean we still can't have fun. You know what? Forget what I said.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Emily Waltham",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And, I want you to remember that I gave you twenty seven dollars. No strings attached. Now, if you can't remember that, I think we should write it down-let's write it down!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What does that mean? Does he sell it, drink it, or just complain a lot?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, what're you guys doin' here, aren't you supposed to be Christmas shopping?",
+      "characters": [
+        "Phoebe",
+        "Kate Miller",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, hey, the band's ready outside for your first dance with Emily, so...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Um-mmm, and I won't have to go there anymore because I gave them my correct address.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on Chandler, come on! It'll give us great practice for when--people with babies come to visit.",
+      "characters": [
+        "Sandra Green",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, but would you like a thousand dollars and a football phone?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Roy",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

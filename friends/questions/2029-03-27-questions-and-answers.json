@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1525,
+  "date": "2029-03-27",
+  "questions": [
+    {
+      "quote": "Oh, have either one of you guys ever been to the Rainbow Room? Is it real expensive?",
+      "characters": [
+        "Monica",
+        "Interviewer",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I... thought it was a timely start to thinking about other people. Besides, this gift still says I love you guys.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So, tell me. Was it like you and Chandler, and then you and me, or you and me and Chandler?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's fine, actually I'm on the hiring committee, so there'll be at least one friendly face.",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Monica",
+        "Joanna"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "I don't know, it's just, you know...monkeys, Darwin, you know, it's a, it's a nice story, I just think it's a little too easy.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know, I've done nothing but crappy plays for six years. And I finally get my shot, and I blow it!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, .. uh... uh... pass. Pass. Pass. Okay, the little thing that hangs down at the back of your throat.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I think we're ready for our first course. OK, um, these are rot-shrimp ravioli, and celantro pondou sauce... ... with just a touch of mints... and... ... ginger.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Just...think about it. If you don't, I'll talk more about humping.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joanna",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Ohh! Oh, the Chelsea Reporter, ohh, this used to keep me so warm.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1317,
+  "date": "2028-08-31",
+  "questions": [
+    {
+      "quote": "Oh! Maybe it's because I'm on television. I'm an actor on Days of Our Lives.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Thats not how you see me, is it? Phoebe while cutting a sweet potatoe in the air: No you're all about the fun.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Doug",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know what to say, Benji. This is all so.... romantic.",
+      "characters": [
+        "Charlie Wheeler",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": ": Dear Ms. Green, thank you for your inquiry, however... oh...",
+      "characters": [
+        "David",
+        "Phoebe",
+        "Receptionist",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "She wants me to take responsibility for everything that went wrong in our relationship. I mean she goes on for five pages about, about how I was unfaithful to her! WE WERE ON A BREAK!!!!!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well is it fair that all you did was put on a cape and I gotta give you free stuff?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well for your information he happens to be one of the brightest, most sophisticated, sexiest men I've ever been with.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay first of all, the impression, uncanny. And second, that was not flirting, that was just casual conversation between two people. That is all.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I've met the perfect woman. OK, we're sitting on her couch, we're fooling around, and then suddenly she turns to me and says, 'Do you ever want to do it in an elevator?'",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Now let's not ruin this day. You worked so hard. Let's move past this and try to have a nice meal all together, huh?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

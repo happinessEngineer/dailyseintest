@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1286,
+  "date": "2028-07-31",
+  "questions": [
+    {
+      "quote": "Yeah. Whew, it's hot with all of this stuff on. I ah, I better not do any, I don't know, lunges.",
+      "characters": [
+        "Monica",
+        "Carol",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Are you joking? Check out is not 'til noon and he has a good eleven minutes left.",
+      "characters": [
+        "Gary",
+        "Julio (poet)",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, oh. Of course. God, I'm so stupid. You guys are a couple now. I mean, you probably just want to be alone.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well umm, if you have sometime y'know and maybe you might want to visit someone else...",
+      "characters": [
+        "Joey",
+        "Gary",
+        "Monica",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "And I gotta pay rent! Look, how-how about this? You don't fire me, instead I stay here, I gain their trust, and they'll start listening to all the nice things I've been saying about you.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, I should, I should probably be getting back to my thing now. See ya.",
+      "characters": [
+        "Earl",
+        "Mr. Treeger",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Oh I'm afraid that plane has already pulled away from the gate.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Leonard Green",
+        "Ticket Agent"
+      ],
+      "correctAnswer": "Ticket Agent"
+    },
+    {
+      "quote": "You all right Chandler? Is there something funny about that name?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Did you just hung up on me? All right, look, I need you at the rehearsal dinner tonight at 1800 hours.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Richard Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That-that would be incredible. Thank you so much. I-I still can't believe someone ate it!! I mean, look, I left a note and everything.",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

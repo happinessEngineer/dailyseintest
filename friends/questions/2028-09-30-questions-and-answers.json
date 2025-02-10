@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1347,
+  "date": "2028-09-30",
+  "questions": [
+    {
+      "quote": "Alright, Janice, that's it! Janice... Janice... Hey, Janice, when I invited you to this party I didn't necessarily think that it meant that we-",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh. Oh my God. How can this be happening? What are we going to do?",
+      "characters": [
+        "Ross",
+        "Emily Waltham",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "You're not gonna die an old maid, maybe an old spinster cook.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe Abbott",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh, no. Oh okay, so you're a cop which means you can park anywhere, 'cause I know that 'cause I'm a cop too. So, all right, keep up the good work. 10-4.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Please? Please?! We just don't want to deal with telling everyone, okay? Just promise you won't tell.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, that's it. You know what? Just get out of my way and stop moping.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Plus hotels are fun! My room has this little fridge full of free snacks!",
+      "characters": [
+        "Ross",
+        "Erica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Whoa-whoa-whoa, Phoebe you gotta take her! Y'know I-I-I said some really bad stuff about her, but y'know Rachel has some good qualities that make her a good roommate.",
+      "characters": [
+        "Steve",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Mona"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, you know, I would, but that might get in the way of my lying around time.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

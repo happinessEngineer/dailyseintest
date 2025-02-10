@@ -1,0 +1,106 @@
+{
+  "gameNumber": 32,
+  "date": "2025-02-23",
+  "questions": [
+    {
+      "quote": "Yeah, I've just been fiddling around in here making delicious treats for everyone.",
+      "characters": [
+        "Monica",
+        "Sarah Tuttle",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So, what do you want to do tonight? There's a Ukrainian film at the Angelica that's supposed to be very powerful. Interested?",
+      "characters": [
+        "Ross",
+        "Eric",
+        "Dr. Franzblau",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I'm so glad you guys like it. Yay! All right I gotta go to work.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Mona",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "The most popular Phoebe in tennis is called the overhand Phoebe. And if you win, you must slap your opponent on the Phoebe and say, \"Hi, Phoebe!\"",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! I want an award I did win! But nobody's giving me any of those! Plus-Hey Rach, if-if I put it up there right? When people come over they'll see it and they'll think I won it.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "God, this adoption stuff is so overwhelming. There's inter-country adoption, dependency adoption.. There are so many ways to go, and this is like the biggest decision of our lives.",
+      "characters": [
+        "Monica",
+        "Eddie Menuek",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, yeah, well y'know Chandler printed it up on his computer.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Trudie Styler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Fine! If you want me to wear the boots, I'll wear the boots. In fact, I'll go into my room right now and y'know try the outfit on.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, y'know forget hypnosis. The way to quit smoking is you have to dance naked in a field of heather, and then bath in the sweat of six healthy young men.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1473,
+  "date": "2029-02-03",
+  "questions": [
+    {
+      "quote": "Roll playing... You could be the warden; she could be the prisoner. You could be the pirate; she could be the wench!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, well no, but I mean, she only goes out with really, really smart guys.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, Monica. I just have to know one thing. Did you go with her to Bloomingdale's? Oh! Ok, ok, ok, I just really, uh, I just really need to not be with you right now.",
+      "characters": [
+        "Rachel",
+        "Richard Burke",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, we'll just, uh, see when you get here. Bye. Huh, that was my mom, she's stuck in terrible traffic.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Are you gonna be embarrassed going up there having nothing prepared?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, it's just... It's up to you. It's your name. You've got to live with it.",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Hey! I got a kid starting college. I've to get surgery on my knee, you just lost me ten grand!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Gene",
+        "Monica"
+      ],
+      "correctAnswer": "Gene"
+    },
+    {
+      "quote": "Thanks so much for taking me to all those places. I had a great time.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Erica"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "That's right, he almost could. Which is exactly how I got stuck there.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I mean, come on Ross, no one will even notice. I mean they're probably not even listening!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

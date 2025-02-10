@@ -1,0 +1,106 @@
+{
+  "gameNumber": 372,
+  "date": "2026-01-29",
+  "questions": [
+    {
+      "quote": "Chandler? What're you still doin' here, I though you guys took off.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Kim",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey look, just look at it this way, the sooner Phoebe breaks Chandler the sooner this is all over and out in the open.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't think charging new clothes too your dad qualifies as making it on your own.",
+      "characters": [
+        "Joey",
+        "David",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I know, I-I wish I had too, but y'know I-I think this is a good thing. Y'know? 'Cause we've had our first fight, and now we can move on. Y'know, I know for me- Nick's pants?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah I know, but one of them just said that she loved me so I just gave her everything.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Cliff"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ten years I've been waiting for a break like this Chandler, ten years! I mean, Days of Our Lives. That's actually on television.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh! Oh-oh, the band's ready! Well, I-I-we gotta do what the band says-I don't care about the stupid band!!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Mr. Thompson",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's okay, I mean it was just two-week thing anyway, I just didn't want it to end this way, y'know?",
+      "characters": [
+        "Ross",
+        "Larry",
+        "Lennart",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, we've been flirting back and forth, but I was hoping that tonight it would turn into something a little more than that.",
+      "characters": [
+        "Melissa Warburton",
+        "Benjamin Hobart",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Melissa Warburton"
+    },
+    {
+      "quote": "Well, I heard Emma stirring, so I came to make sure she could reach Hugsy.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Mike Hannigan",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 679,
+  "date": "2026-12-02",
+  "questions": [
+    {
+      "quote": "Hey, I'll be alright. I mean it's not like I'm starting from sqare one. I was Dr. Drake Remoray on Days of Our Lives. Heh? I mean that's gotta have some kind of cache.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ah I had a little thing with Joey, if you think this is bad you should see him.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Carol",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, she corned me! She asked if the wedding was in town! I mean, what was I supposed to do?!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh I really don't know what to tell you Rach, I really don't. I mean, maybe Joey can help you out with your, with your big work problem.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I just-I thought you guys were doing it, I didn't know you were in love!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh! You are gonna love it! and I'm so glad, we're finally doing this.",
+      "characters": [
+        "Joanna",
+        "Ross",
+        "David",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, and someday when you're ready, you'll make it past the hedges.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Don't worry, there wasn't any sex in it or anything. I haven't dreamt about her like that since I found out about you two--ish.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Now, I wanna a suitcase filled with 100,000 dollars. Choo! Choo! Choo! Filled with $100,000 in small bills, and if I don't get it... Choo!! And if I don't get it, I'm gonna shoot this duck!",
+      "characters": [
+        "Tag Jones",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well that's all right, you can come up to the front and dance with me.",
+      "characters": [
+        "Wendy",
+        "Teacher",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Teacher"
+    }
+  ]
+}

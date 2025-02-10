@@ -1,0 +1,106 @@
+{
+  "gameNumber": 977,
+  "date": "2027-09-26",
+  "questions": [
+    {
+      "quote": "Yeah. Y'know umm, uh, umm, about that, umm, Ross I really appreciate your offer to let me move in and everything, but don't you think it's gonna be weird?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Noo!! The point is that is was you that was there that night! It is you that I am marrying! It is you that I feel in love with!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "OK, you guys, ya know, I think we've seen enough, let's turn it off.",
+      "characters": [
+        "Monica",
+        "Eric",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "...and even though none of the other kids believed me, I swear to God, that duck pushed me!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Hey, I'm sorry, I should have given you guys my black book when I got married! Although it wasn't so much a book as a... napkin. With Janice's phone number on it.",
+      "characters": [
+        "Chandler",
+        "Bitsy Hannigan",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, turns out our kids go to the same school. Small world huh?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "David",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, y'know what, we've been talking about London too much haven't we?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I can't believe I ever let him touch me with those fingers.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, these clowns are trying to take us for a ride and I'm not gonna let 'em! And we're not a couple of suckers!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Find some! Please! Anything that doesn't say I-I died tragically in France.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 489,
+  "date": "2026-05-26",
+  "questions": [
+    {
+      "quote": "Oh... sit down, sit down. Oh, honey, you know, I once also almost married somebody that I didn't love. Do you remember Barry?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, you got your free food! You ruined everyone's fun! Don't you think it's time you went home?!",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Steve Cera",
+        "Rachel"
+      ],
+      "correctAnswer": "Steve Cera"
+    },
+    {
+      "quote": "Does it have to do with-with Chandler and that sock that he keeps by his bed?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Nah, Nah, it's okay. I feel like I need to be in guy place. You know, do kind of like a man thing.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ursula",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Joey, just ignore the boats all right? We're not finished with the lesson yet.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, there's nothing to make up, she's gonna know that I have a key to her office, I've got to get you locked up back the way you were!",
+      "characters": [
+        "Rachel",
+        "Gary",
+        "Janitor",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I thought they could...I'll try to get back as soon as I can. I'm sorry.",
+      "characters": [
+        "Susan Bunch",
+        "Ross",
+        "Mischa",
+        "Phoebe"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "No! No! I can't! You gotta get me out of it! I've got plans! Important plans!",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "He's says, 'Walking with you makes this strange city, feel like home.'",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Mischa",
+        "Monica"
+      ],
+      "correctAnswer": "Mischa"
+    },
+    {
+      "quote": "I'm making cookies for Erica. And oh, by the way, we have to leave for the airport soon, her plane comes in about an hour.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

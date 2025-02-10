@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1350,
+  "date": "2028-10-03",
+  "questions": [
+    {
+      "quote": "What? Fine? Because I am! Aren't you? Aren't you? Aren't you? You see? Who else is fine?",
+      "characters": [
+        "Nurse Sizemore",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, dime! You guys should probably keep talking; this could take a while. Oh no, wait! Look it! Whoa! Oh my God, this is a police badge!",
+      "characters": [
+        "Joey",
+        "Stephen Waltham",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry, he's a little bit wound up, we had to stop at every maple candy stand on the way here.",
+      "characters": [
+        "Charlie Wheeler",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh wow! Okay man, I'm sorry. I did not mean to make you feel bad.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! Ooh, you should come with me! Oh yeah, then I'd have someone to sit with!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Is that why he's acting so weird...? He's jealous...? Oh my God, that is crazy. It's not like I'm attracted to Geoffrey...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You weren't there! Okay, maybe this is something that I-I'm supposed to seize! Y'know?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look I don't know this baby. I don't know if she's a famous artist or not. You know, and I don't want to be a jerk but you're changing too much around here.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And anyhow, I'm sorry I was so harsh before, but you have to understand that I still look at Lizzie like she's a twelve-year-old girl.",
+      "characters": [
+        "Chandler",
+        "Paul the Wine Guy",
+        "Paul Stevens",
+        "Ross"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "I gotta tell you, I can't believe I'm doing this with you. Although I did just get out of a nine-year relationship, so I guess I should be open and taking some risks.",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    }
+  ]
+}

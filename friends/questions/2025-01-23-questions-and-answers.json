@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1,
+  "date": "2025-01-23",
+  "questions": [
+    {
+      "quote": "So you're gonna be in the car, I will be upstairs, and that's where everybody's gonna be!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "There's an open call for Cats. I'm thinking we go down there, sing Memories and make complete fools of ourselves. Whaddya say?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Fake Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Fake Monica"
+    },
+    {
+      "quote": "Oh. Huh. You know, it is weird that Phoebe would set me up on a date that was awful on the same night that Joey set you up on a date that didn't even show.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on Chappy, do your business. MAKE! MA-AKE! I did not sign on for this.",
+      "characters": [
+        "The Doctor",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What? Hey wait a minute! Phoebe, how do you even know who the father is?",
+      "characters": [
+        "Woman",
+        "Julie",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well when I talk to her I almost feel like she understands what I'm saying.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh no, no, no. I learned never to borrow money from friends. No, that's why Richard Dreyfuss and I don't speak anymore.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I've got to go pick up Ben, we've got a play date this afternoon.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Caitlin",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! Forget it! Okay-I mean thanks, but I'm done taking money from you. All right, I can take of myself. Now, what's next? Come on.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, you do that, and I go check my dad for signs of internal bleeding.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    }
+  ]
+}

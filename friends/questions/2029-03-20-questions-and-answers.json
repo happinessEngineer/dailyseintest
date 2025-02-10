@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1518,
+  "date": "2029-03-20",
+  "questions": [
+    {
+      "quote": "Why do you even care if I was looking at her? Are you jealous?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Oh my God, I'm sorry, I'm being so rude. Rachel, would like a soda or something? Because Chandler would run right out and get it.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh, am I curious? I mean, I am as curious as... as... George!!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, should we just, should we just get married? Y'know? I mean should we just do it? All the signs are telling us to do it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Minister",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't believe this. Not even my geology lab partner? And I carried that guy!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh, I mean, we were really drunk. I'm just glad we didn't do anything stupid.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know what? I think we can just leave it at that. It's kinda like a symbolic gesture...",
+      "characters": [
+        "Ross",
+        "Kathy",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, well, I still got a week left to go in the program, and according to the rules, if I want to get the money I'm not allowed to conduct any... ersonal experiments, if you know what I mean.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The trail from the woman you did it with to the woman you hope never finds out who did it! You always have to think about the trail!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It is nothing like the Hobbit. It's like reading about every relationship I've ever had, except for Richard.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

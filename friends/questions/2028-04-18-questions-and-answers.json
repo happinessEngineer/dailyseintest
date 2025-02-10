@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1182,
+  "date": "2028-04-18",
+  "questions": [
+    {
+      "quote": "Okay. All right. Honey listen. When I tell you what I'm about to tell you, I need you to remember that we are all here for you and that we love you.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hello. Oh good. Ross could you put up some of these flyers for me? OH!! Demon!! Demon!!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well how much time before she absolutely has to start getting ready?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Ryan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She has a better chance of sprouting wings and flying up your nose than you do of not making fun of us.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I did and it hurt. That's when I wrote the song: \"Betrayal In The Common Room\".",
+      "characters": [
+        "Sandra Green",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Plus, what are you planning on doing with the baby while you're trotting out to the garbage ten times a day?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Yeah, we wanted to throw you a big surprise and a great shower, and now you don't have either.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So, so far is this trip to Vegas better or worse than the trip to London?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey. So I uh, I didn't get that apartment. Some problem with my application.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joshua Burgin",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

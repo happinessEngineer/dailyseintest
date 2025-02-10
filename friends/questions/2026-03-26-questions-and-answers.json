@@ -1,0 +1,106 @@
+{
+  "gameNumber": 428,
+  "date": "2026-03-26",
+  "questions": [
+    {
+      "quote": "No, no-no, it's okay, calm down. Mark and I talked, and I realised how much I love your stupid brother, and, yeah, we got our problems, but I really want to make it work.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And then she told me that she and Joey had broken up, and that part of the reason was that she had feelings for me.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And if it were true, how dare you come to me ask me for tips about a character that I've been playing for 20 years-I'll give you a tip!",
+      "characters": [
+        "Cecilia",
+        "Jack Geller",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Cecilia"
+    },
+    {
+      "quote": "Yeah. And speaking of volcanoes, man are they a violent igneous rock formation.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The flirting! Aren't you supposed to be going out with, I don't know hmm, let's say my sister?!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Interviewer",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow, everything looks so good! I think I'm gonna have the chicken.",
+      "characters": [
+        "Alice Knight",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, we kissed. I-I-I didn't initiate the kiss, but-but I also didn't stop it, and I've been feeling guilty.",
+      "characters": [
+        "Phoebe",
+        "Cecilia",
+        "Chandler",
+        "Gunther"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "No. Joey, she knows! We were at Ugly Naked Guy's apartment and we saw them doing it through the window. Actually, we saw them doing it up against the window.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, do you realise that at one time or another we all lived in this apartment?",
+      "characters": [
+        "Phoebe Abbott",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, ten bucks says that we can name every item in that bag.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 485,
+  "date": "2026-05-22",
+  "questions": [
+    {
+      "quote": "When you go lunching with hunky moustache men and don't tell me about it!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow, what a cool job. 'You have two new messages.' 'Please, pass the pie.'",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, you couldn't have looked everywhere or else you would've found her!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Carol",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know what to say. I'm sorry that we make more money than you. But we're not gonna feel guilty about it. We work really hard for it.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Exactly. Oh, I love that I can be totally neurotic around you now. Tell me the truth. Don't you like it better now that everything on your desk is perpendicular?",
+      "characters": [
+        "Bitsy Hannigan",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Who loses fifty seven coin tosses in a row? Head she wins, tails I lose. Wait a minute...",
+      "characters": [
+        "Ross",
+        "Emily Waltham",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Way to go guys. Y'know, you-you were really good at the stuff too.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dom da-da dom! Here ye! Here ye! Delivery from the Mattress King. You Miss Geller?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Janine Lecroix",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Yeah, seriously coz this is really heavy. I mean not for me because i'm only pretending to hold this, but for these guys.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no, no I don't want to know, don't want to know. Ok, you know, I should probably, I should probably just go.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "The Casting Director",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

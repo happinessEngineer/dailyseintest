@@ -1,0 +1,106 @@
+{
+  "gameNumber": 867,
+  "date": "2027-06-08",
+  "questions": [
+    {
+      "quote": "Ya know if you want to, I can just hold them down and you could .",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I...Reorganized The Fridge. See, Bottom Shelf: Meats And Dairy. And Top Shelf expired products.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Russell",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, the old lady died. And how do I know? Her dying wish was for one last kiss. But I don't care, because you got the apartment. Yes!",
+      "characters": [
+        "Janitor",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No Chandler, you don't understand! Okay! Okay! Okay! Fine! Now you know. Okay? I'm y'know...I'm sick.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Me either. Umm, all right, first thing I need you to do is go downstairs and find a women named Hilda and tell her to go home.",
+      "characters": [
+        "Tag Jones",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What? Dr. Wilson's an artist! He removed my mole cluster. Wanna see?",
+      "characters": [
+        "Rachel",
+        "Danny",
+        "Joey",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Take it easy--if you want, there's cookies on the counter, or, or--sangria! I can make sangria!",
+      "characters": [
+        "Chandler",
+        "Phoebe Abbott",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "Bijan for men? Bijan for men? Bijan for... Hey, Annabelle, Uh, listen, I was wondering if maybe after work you and I could go maybe grab a cup of coffee.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What about, what about when I said y'know about the apartment pants, how dumb was I?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I dunno, it's weird. I mean, I know she's gone, but I just don't feel, uh...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Benjamin Hobart",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

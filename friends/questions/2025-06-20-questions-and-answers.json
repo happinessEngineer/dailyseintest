@@ -1,0 +1,106 @@
+{
+  "gameNumber": 149,
+  "date": "2025-06-20",
+  "questions": [
+    {
+      "quote": "Her name is Precious? Is she a purebreed or did you pick her up at the pound?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes that's right. But still, I-, look at your purse, look at your sweater, look at yourselves.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Thank you. Wait wait wait wait, you see me again. Hang on, the guy's butt's blockin' me. There I am, there I am, there I am, there I am, there I am. . .",
+      "characters": [
+        "Joey",
+        "Judy Geller",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Is everybody else seeing a troll doll nailed to a two by four?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So, you know... I have a little time. If you... if you want to...",
+      "characters": [
+        "Charlie Wheeler",
+        "Ross",
+        "Frank Buffay Sr.",
+        "Rachel"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Well, y'know what, no, you do not make my decisions because y'know what, you're fired.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No. If I can't have your clams, you can't have my dessert. This is a two way street.",
+      "characters": [
+        "Ross",
+        "Dr. Miller",
+        "Sarah",
+        "Rachel"
+      ],
+      "correctAnswer": "Sarah"
+    },
+    {
+      "quote": "I can't believe they gave you a ticket. You're such a good driver.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh hey whoa-whoa, don't worry. Okay. When my sisters were pregnant they got every weird feeling in the book, it was always nothing.",
+      "characters": [
+        "Cecilia",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! You don't have to do anything! Just don't tell them that we know!",
+      "characters": [
+        "Dina",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

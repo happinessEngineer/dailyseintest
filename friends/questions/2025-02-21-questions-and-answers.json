@@ -1,0 +1,106 @@
+{
+  "gameNumber": 30,
+  "date": "2025-02-21",
+  "questions": [
+    {
+      "quote": "I'm outta here. Here's my credit card. Dinner's on me. I'm sorry, Chandler.",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I heard that weddings are like a 40 billion dollar a year industry.",
+      "characters": [
+        "Chandler",
+        "Susie Moss",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Joey, what's it like on a movie set, huh? Do you have a dressing room? Do you have a chair with your name on it?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Gavin Mitchell",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know! I know! It turns out that one of the casting ladies has actually seen me in a play, so I steered clear of her...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Phoebe! Come on! Let's go! Come on! Why aren't you dressed yet?!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, right about now the turkey should be crispy on the outside, juicy on the inside. Why are we standing here?",
+      "characters": [
+        "Receptionist",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Cups and ice? Ooh, I get to be in charge of cups and ice? All right. Fine, okay, I will be in charge of cups and ice!",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Stephen Waltham",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know...God. I haven't seen my savings take a hit like this since I was a kid and they came up with double-stuffed Oreos. What happened to all our money?",
+      "characters": [
+        "Joey",
+        "Peter Becker",
+        "Monica",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I loved this place! To tell you the truth, I wish I didn't have to move.",
+      "characters": [
+        "Ross",
+        "Judy Geller",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. I'm gonna get the ring! I'm gonna get the ring! I'm gonna go find her and I'm just going to propose!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Stephen Waltham",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

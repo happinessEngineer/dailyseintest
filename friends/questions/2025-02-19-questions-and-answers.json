@@ -1,0 +1,106 @@
+{
+  "gameNumber": 28,
+  "date": "2025-02-19",
+  "questions": [
+    {
+      "quote": "What?! What is with everybody? It's Thanksgiving, not...Truth-Day!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh... Well, uhm, there was actually a rather lively discussion about the Pleistocene.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, there is no pressure on you. Okay? I mean you can as involved as you want.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, you really shouldn't. By the way, how was that year-long dig in Cairo?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No-no! That's okay, we'll just start over. Okay? Hi! I'm Phoebe.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, if I can just do what Emily wants and get her to New York, I'm sure everything will be fine.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no-no-no-no, it's-it's uh, you just uh, uh reminded me that uh, I need to do my stretches too.",
+      "characters": [
+        "Ross",
+        "Kim",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Rachel, come here. Okay, I was just starting to take my Thanksgiving nap, and I had another dream about Jack.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler, you gotta stop staring at the door. It's like a watched pot, you know if you keep looking at it then the door is to, never gonna boil. I think what you have to do is try not to...",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "OK. Ooh, OK, you gotta give me a second, I wanna get this just right. Dude, 11 o'clock, totally hot babe checkin' you out. That was really good, I think I'm ready for my penis now.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

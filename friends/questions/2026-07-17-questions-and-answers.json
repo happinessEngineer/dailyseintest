@@ -1,0 +1,106 @@
+{
+  "gameNumber": 541,
+  "date": "2026-07-17",
+  "questions": [
+    {
+      "quote": "Ugh! Get out! Get out! Go! Come on! No! Not in there! He's in there!",
+      "characters": [
+        "Rachel",
+        "Jack Geller",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, a box full of your desk stuff doesn't exactly say big promotion.",
+      "characters": [
+        "Chandler",
+        "Mark Robinson",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Mark Robinson"
+    },
+    {
+      "quote": "I want to become the Ultimate Fighting Champion! It's the most intense physical competition in the world, it's banned in 49 states!",
+      "characters": [
+        "Peter Becker",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Oh my God. Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, it's probably a residual check, hey can you open it for me, I'm kinda....",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Judy Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?",
+      "characters": [
+        "Chandler",
+        "Bitsy Hannigan",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, you know what they say, elephants never forget. Seriously, good luck marrying me.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This is where I keep the pizza. And-Hey! Where did the napkin go?!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Anyway erm, are you going to get a handyman to install this stuff?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh yeah, the Evander Holyfield phase. Oh man you were so hard up you practically came on to me.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

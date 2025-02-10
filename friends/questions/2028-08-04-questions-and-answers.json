@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1290,
+  "date": "2028-08-04",
+  "questions": [
+    {
+      "quote": "Look at it! Ohhh! Wallpaper's a little faded, that's okay. Carpet's a little loose. Hardwood floors!!",
+      "characters": [
+        "Ross",
+        "Interviewer",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay before we start the celebration, Monica has to go put on her party dress.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what, that's fine, maybe you haven't grown up, but I have.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh-hmm, yeah-yeah do you like it? Do-do you looove it? I just want you to know that I'm changing your grade back.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I think I will be all right! You wanna volley a bit for a serve?",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Leonard Green",
+        "Monica"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "And tell them what? The naked guy we stare at all the time isn't moving.",
+      "characters": [
+        "Ross",
+        "Ryan",
+        "Emily Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow! We are pretty good at this! Hey! We totally forgot about lunch!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, you know, put chips in it, we'll make like a chip chick.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "Well, I didn't realize until I got home. I wasn't gonna walk all the way back down here with one shoe! Y'know what? I'm gonna go find that guy's car and leave a note on the windshield.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I'm going to give him something else besides joy, just...",
+      "characters": [
+        "Helena",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

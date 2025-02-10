@@ -1,0 +1,106 @@
+{
+  "gameNumber": 982,
+  "date": "2027-10-01",
+  "questions": [
+    {
+      "quote": "Okay, I've got to go pick up Ben but I-I will figure something out. Hey, didn't he used to have a cat?",
+      "characters": [
+        "Ross",
+        "Judy Geller",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's great! I'm sorry. It's just... such an emotional thing when you're welcomed into a new family...",
+      "characters": [
+        "Monica",
+        "Sandy",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Sandy"
+    },
+    {
+      "quote": "I know but they're just so beautiful! Oh, my God, I just pulled one out.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well you-you did start that rumor about Ross making out with Mrs. Altman, our 50-year-old librarian.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What are you talking about? It was a big deal. I mean, come on you can't tell me last night didn't mean something to you. I-I was there, you're not that good an actress.",
+      "characters": [
+        "Russell",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Um, yeah, so uh, uhh, listen, I'm sorry I didn't tell you this before but umm, I, I'm no longer at my job, I, I had to leave it.",
+      "characters": [
+        "Monica",
+        "Sandra Green",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, the ah, trees that don't fulfil their Christmas destiny are thrown in the chipper.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yep! I sure know how to pick 'em, huh? Y'know I gave up a part on a soap for this!",
+      "characters": [
+        "Erica",
+        "Rachel",
+        "Kate Miller",
+        "Chandler"
+      ],
+      "correctAnswer": "Kate Miller"
+    },
+    {
+      "quote": "Oh yeah it's fine. I guess the more muscles you have the more they can spasim out of control.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Umm, well I would have to say that it's a, it's tragic love story.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

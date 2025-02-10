@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1356,
+  "date": "2028-10-09",
+  "questions": [
+    {
+      "quote": "Chandler, what are you doing? That thing can put someone's eye out!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What do you mean? Rach, don't I seem like a professor you'd buy some kind of e-crap from?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Julio (poet)",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's okay, I mean she had a really incredible life. And it's not like I'm never gonna see her again, y'know she's gonna visit.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No no no, doggie please. Oh, I do so wanna love all animals, please no.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ugh, easy for you to say, you already know what your kids names are going to be.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh. Oooh! Ooh! Ooh! Ooh! My butt cheek is waking up! Oooh! Ooh!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hate him? I... No, I don't hate him. It's just it's Rachel, y'know?",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Sr.",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "If we hadn't lost the game they never would've invented us to dinner tomorrow night.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God, it's all so elegant! When's the dirty stuff starting?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It is so amazing to meet you. I'm such a big fan of your work.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1103,
+  "date": "2028-01-30",
+  "questions": [
+    {
+      "quote": "Oh look, did, did you just see that? Did you see? He just waved, he just waved, he's never waved before, you've never waved before. Yes he has. Very good.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. Hey, remember the time I jammed that pencil into your hand?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you're gonna have to leave sometime, because you both have jobs, and as soon as you do, we're switching it back! There's nothing you can do to stop us! Right, Joe?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "David",
+        "Lennart"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So he's calling from Rome. I could do that. Just gotta go to Rome.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, this is not about the MONEY, ok? It's about... it's about corporate greed destroying our hearts and leaving us... the hollow shells.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You just, you look so different! Terrific! That dress! That body!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, you so would! Oh, you should get that anyway. Like for clubbing.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "If you get a second, find out where she got that cheeseburger.",
+      "characters": [
+        "Leonard Green",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Which I bought for ya. Taught ya how to use it. You thought it was a copier. Look, if there was anything I could do, I would do it. Okay? But everybody's allowed one mistake, right?",
+      "characters": [
+        "Aurora",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Don't say anything. I don't wanna speak, I don't wanna think. I just want you to take me and kiss me and make love to me right here, right now.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

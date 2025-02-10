@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1490,
+  "date": "2029-02-20",
+  "questions": [
+    {
+      "quote": "Hey Monica it's Joey. Listen uh, Phoebe and I smell gas comin' from your apartment.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh yeah? Joshua, give me a call sometime, guys like you never go out of style-what did you throw away?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, and if doesn't work, then we'll be just one of those couples that never have sex.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So what, like people are gonna come in and think, \"Uh-oh, I'm outside again?\" Of course!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Mike Hannigan",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "When we found out that we're gonna get this baby, Chandler and I started talking and we decided that we didn't want to raise a kid in the city.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. Anyway, he told me about your apartment. And, um, I couldn't sleep, thinking about it. So, uh, would it be okay if I cleaned it?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "The Velveteen Rabbit. I kinda have the feeling you had something to do with it.",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Kathy",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "No, God, no! No! No no, I'm an actor. You'd probably recognize me from a little show called \"The Days of Our Lives\".",
+      "characters": [
+        "Man",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I have no idea, I went to the bathroom. So sweetie, you were starting to tell me what is uh, what is new with you.",
+      "characters": [
+        "David",
+        "Leonard Green",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Leonard Green"
+    }
+  ]
+}

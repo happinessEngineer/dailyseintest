@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1218,
+  "date": "2028-05-24",
+  "questions": [
+    {
+      "quote": "Oh my God, it's that Victoria's Secret model. Something... something Goodacre.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's right, sex is off the table. I am never having sex with you again. Dr. Green, are you feeling better?",
+      "characters": [
+        "Chandler",
+        "Will Colbert",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, you see, the tag shouldn't be at the top left corner, it should be at the bottom right corner.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Minister"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!",
+      "characters": [
+        "Allesandro",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ah! Okay, well then you don't judge me. I'm gonna suck on the cellophane from the brownie I had before.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "David",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh yeah-yeah. And I got the duck totally trained. Watch this. Stare at the wall. Hardly move. Be white.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh wow. What, do you think maybe he's gonna tell you that he's gay?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Judy Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well we-we don't know for sure. But in my head it-it sounded something like this. Of course, this is just conjecture. Okay, that's uh, that's all for today. Uh Mr. Morse, can I see you for a moment?",
+      "characters": [
+        "Phoebe Abbott",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, you don't want this. I want to have your grandmother's cookie recipe.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm just saying that sometimes we like to do stuff that costs a little more.",
+      "characters": [
+        "The Stripper",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

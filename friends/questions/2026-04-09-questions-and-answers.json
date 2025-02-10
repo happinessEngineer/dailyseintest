@@ -1,0 +1,106 @@
+{
+  "gameNumber": 442,
+  "date": "2026-04-09",
+  "questions": [
+    {
+      "quote": "Mhuh, guys, that means the world to me. Huh, nkay, I'm gonna take off.",
+      "characters": [
+        "Rachel",
+        "Cassie Geller",
+        "Phoebe",
+        "Doctor"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well if you go to Disneyland, you don't spend the whole day on the Materhorn.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Don't say Richard! Well, if they're not Monica's and they're not yours, then whose are they?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ya know Phoebs, don't feel so bad for 'em. After they're done playing, I break out the little plastic women and everybody has a pretty good time.",
+      "characters": [
+        "Eddie Menuek",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah? Well, there's a lot of things Carol never did before I came along.",
+      "characters": [
+        "Ross",
+        "Luisa Gianetti",
+        "Rachel",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.",
+      "characters": [
+        "Rachel",
+        "Charlie Wheeler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Check it out man, I tore it off some mannaquin in the alley behind Macy's.",
+      "characters": [
+        "Lauren",
+        "Eddie Menuek",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "Rachel you're gonna have to push even harder, nothing's happening!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Dr. Long",
+        "Phoebe"
+      ],
+      "correctAnswer": "Dr. Long"
+    },
+    {
+      "quote": "Well, I'll stay, but only because I wanna hear about Hanukkah. Ben, will you sit here with Santa and learn about Hanukkah?",
+      "characters": [
+        "Peter Becker",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, can I get a 3-piece, some cole slaw, some beans, and a Coke--Diet Coke.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 850,
+  "date": "2027-05-22",
+  "questions": [
+    {
+      "quote": "Ah that's great. No actually that's... That's great! That's really great! Y'know, I gotta tell ya writing, I mean writing, gets me uh, gets me kinda hot.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes. We're here to make a rather sizeable donation to the children.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Carol"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Let me finish, okay? She started kissing me and-and I didn't stop it. I guess I-I just wasn't thinking...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I know! I know. You know what? I'm putting Ruth back on the table!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Emily Waltham",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What? You think I'm too dumb to understand that a husband needs to be with his wife? Huh? Do you think I'm like, \"Duh.\"",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Sir, can I ask you to umm, could you...hold out that ring and ask me to marry you?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Because by the time I find it on this thing , the whole place might have exploded. If that happens at another building that I manage, people are gonna start asking questions. Come on! Hurry up.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Uh, Paul's Caf. They got great food and it's really romantic.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ah yeah, but now it's Susan and me in Mexico and the hostages coming home.",
+      "characters": [
+        "Carol",
+        "Rachel",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "No, no, wait. His flight doesn't leave for another forty-five more minutes.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

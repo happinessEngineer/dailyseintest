@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1471,
+  "date": "2029-02-01",
+  "questions": [
+    {
+      "quote": "Oh, umm, I was just y'know working out and umm... Oh, that's it.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Um-hmm, that's good to know. But let's stop focusing on what you don't do, and start focusing on what you do do.",
+      "characters": [
+        "Ross",
+        "Woman",
+        "Joanna",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You can't order until your entire party has arrived. Restaurant policy.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Waiter",
+        "Rachel"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "You know, if I didn't already have a job, I think, I would have been really good in advertising.",
+      "characters": [
+        "Chandler",
+        "Trudie Styler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Toby! I'm not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Bob (Chandler's coworker)"
+      ],
+      "correctAnswer": "Bob (Chandler's coworker)"
+    },
+    {
+      "quote": "That-that-that's all right, no honey, you take your time sweetie. I'll be right out here. She's just fixing her makeup.",
+      "characters": [
+        "Ross",
+        "Dr. Long",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Alright, alright, here's the chance. Monica give him cash, Rachel give him your earrings. Something, now, anything.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh! All right! All right. Here's what we'll do, I'll get twice as drunk as Monica and then no one's will even notice her.",
+      "characters": [
+        "Phoebe",
+        "Cassie Geller",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Cool! Dad! My report cards! Hey, check this out dad, Math, A. Science, A. History, A. Gym... Oooh, my rock polisher!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know. This little, old lady lives for my career. When they dumped me off of Days of Our Lives she almost died.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

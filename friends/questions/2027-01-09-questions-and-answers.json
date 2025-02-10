@@ -1,0 +1,106 @@
+{
+  "gameNumber": 717,
+  "date": "2027-01-09",
+  "questions": [
+    {
+      "quote": "Um, well, I was going to, I-I-I really was. But um, then somewhere, just out of nowhere, I didn't.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look kibbles, bits. Oh God, alright, get the hell off my leg you yippity piece of crap. Ok, alright, we have a problem.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Take it easy. If it means that much to you, I'll uh, I'll go find something else.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Director",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, that's okay, I can't wait to see everything again! All of the memories...",
+      "characters": [
+        "Ross",
+        "Sandy",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You sure are naming a lot of ways to postpone sex, I'll tell ya...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, okay, yeah. I put your stuff in her room, and her stuff in your room.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's good. I got to admit, I thought it was something else.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So uh well the director is insisting that whoever play that part be authentically, anatomically not Jewish. Do you know what I'm saying?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "The Casting Director"
+      ],
+      "correctAnswer": "The Casting Director"
+    },
+    {
+      "quote": "Hey, can I ask you something? In this, in this picture of you and your wife, is your wife Rachel?",
+      "characters": [
+        "Monica",
+        "Janice",
+        "Joey",
+        "Dana Keystone"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm Rachel. It's so annoying when I put Emma on the phone to talk with my friends.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

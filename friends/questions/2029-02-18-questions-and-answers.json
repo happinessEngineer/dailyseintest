@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1488,
+  "date": "2029-02-18",
+  "questions": [
+    {
+      "quote": "Well, they're just gonna have to wait aren't they? I've only got two hands!!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Years and years ago there were these people called the Maccabees...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Monica, number one, I don't think Ben understands the concept of bribery, and number two, I... What?!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty.",
+      "characters": [
+        "Joanna",
+        "Phoebe",
+        "Ross",
+        "Fake Monica"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Y'know, I gotta tell ya, I just loved your look when you were bald.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I'm missing out on all this other stuff, too. So, Joey suggested Rachel move in with me.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I-I've got to go. This has been so great Ray-ray! Oh, there you are. Umm, so listen, just call me. Here's my card.",
+      "characters": [
+        "Melissa Warburton",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Melissa Warburton"
+    },
+    {
+      "quote": "I mean, uhm... you know when I was growing up he was kind of a tough guy... You know a-a-and as a kid I wasn't the athlete I am now.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, sure. Whoa-whoa, what's this? The delivery charge is almost as much as the couch!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well I told you it was Chandler who was smoking the pot but it was me. I'm sorry.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

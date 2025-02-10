@@ -1,0 +1,106 @@
+{
+  "gameNumber": 394,
+  "date": "2026-02-20",
+  "questions": [
+    {
+      "quote": "Ah, uh, I owe you a long overdue apology. I never should have broken up with you because you were overweight.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! I'm sorry! Are we having an 89-year-old? How about Dayton?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ow! Oh, that sounds nice! I am just there for jury duty. They really spruce that place up!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, hold on there, tiger. How's it going? How you holding up?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, we're, we're just goin' over here so that we can get away from the horrible flesh eating virus, for the love of God woman, listen to me. Is he lookin', is he lookin'?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Jean-Claude Van Damme",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "He doesn't have rabies, he has babies. That's what my mom said.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, you guys I just wanna say, I really, really appreciate you spending this time with me. It's been a pretty hard time right now, so I just wanna say thanks.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, look, I know that some of this stuff is out there, but I mean, come on, look at this, look at this sweater! . I mean, this is just beautiful!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Sandy",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What about all the guys that you've got the phone numbers from? Why don't you just kiss one of them?",
+      "characters": [
+        "Monica",
+        "Mr. Treeger",
+        "Joey",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I will tell the story! It was going great. I let him win. We were bonding. He even said I could call him dad.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

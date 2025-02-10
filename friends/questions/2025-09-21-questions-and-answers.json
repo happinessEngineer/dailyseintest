@@ -1,0 +1,106 @@
+{
+  "gameNumber": 242,
+  "date": "2025-09-21",
+  "questions": [
+    {
+      "quote": "Hey there little fella! Hey, uh-hey, why don't we get some shoes on ya, huh? Hey, why don't you show dad how you can put your shoes on, in your room! Yay!!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well it's only different if he wants it to be. I mean, I'm not gonna ask him for anything.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Paul Stevens",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, for once, I am going to sit down and try to watch one of these things. .",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah? Okay! Good, good, because he's coming. He's coming. Hey, what's up?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah the material feels so soft-hello Mr. Bicep! Have you been working out?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Fake Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's wrong. You know what else is wrong? Phoebe picking Rachel.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ugh, between the traffic that time of day and all the one-way streets it'll take me twice as long. Besides, I teach the class three times a week, who am I? Rockefeller?",
+      "characters": [
+        "Hillary",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, uh-uh, I'm just, I'm nervous. So, you know what, maybe if I just, if I picture them all in their underwear.",
+      "characters": [
+        "Paul the Wine Guy",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, I'll be fine. You know, maybe I'll stay here and practice the art of seduction.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Mona",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No Joey! Chandler could be your assistant! See, he could answer all of your fan mail and stuff!",
+      "characters": [
+        "Monica",
+        "Gary",
+        "Joey's Hand Twin",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

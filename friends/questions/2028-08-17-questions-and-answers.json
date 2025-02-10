@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1303,
+  "date": "2028-08-17",
+  "questions": [
+    {
+      "quote": "Okay Ben, why don't you come open some more presents, and Santa, the Armadillo and I have a little talk in the kitchen? There's a sentence I'd never thought I'd say.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, ooh, I know! We should pool all own money and buy the Knicks!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Receptionist"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Then, I might as well ... do this . Not really sure what to do now.",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, okay. Well, so tell me everything about my parents. Everything.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, you're not, You're not... you're not... again, you're not SPEAKING FRENCH!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Gavin Mitchell",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, yeah. I can't-I can't stay here all night, and if I go in there she's-she's gonna wanna... do stuff.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, like you've never gotten a little rambunctious with Ross.",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! All right, maybe you don't have to smile. Let's try something else. Let's try umm, try looking sexy.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Robert Bobby",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, no-no-no, no-no-no, it has become, it has-yeah. Oh no, those were four great dates.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I wish I could but I just found out that I have to be at work really early the next day, so I can't go, but, you know, take the extra ticket and invite whoever you want.",
+      "characters": [
+        "Chandler",
+        "Peter Becker",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 296,
+  "date": "2025-11-14",
+  "questions": [
+    {
+      "quote": "That's not true! I wanted to wear my bathrobe and eat peanut clusters all day. I wanted to start drinking in the morning. Don't say that I don't have goals!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh! Okay! Okay. \"There are three primary theories concerning sediment flow rate. Each of these theories can be further subcategorized into...\"",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Woman",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Monica, I really appreciate you checking in on me, but I'm actually feeling a lot better. Yeah, I just kinda want to be alone right now.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Cop",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay! I'll be right out. I'm slipping into something a little less comfortable, and a little more slutty.",
+      "characters": [
+        "Ursula Buffay",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "According to Chandler, what phenomenon scares the bejeezus out of him?",
+      "characters": [
+        "Stephen Waltham",
+        "Rachel",
+        "Sandra Green",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Joey, you are gonna love this guy. Gandolf is like the party wizard!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Nothing! I said, I said \"You're so great\" and then I just, I just stopped talking!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's a shame though, I mean, when we did it, it was pretty good.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, that's, no, as long as you're okay. So I'll ah, I'll see you tomorrow.",
+      "characters": [
+        "Ross",
+        "Bobby Rush",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on, that was back in high school! How could that still bother you?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

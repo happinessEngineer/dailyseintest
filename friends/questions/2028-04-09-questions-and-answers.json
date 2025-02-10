@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1173,
+  "date": "2028-04-09",
+  "questions": [
+    {
+      "quote": "Oh no, no, no, wait, wait, Isabella. Don't, don't just dismiss this so fast. I mean this is a once in a lifetime opportunity...",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Bobby Rush",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm-I'm sorry, it's just that umm... Well I-I cook at this restaurant, Alessandro's, and umm I just got a really bad review...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Panicking! And using the Internet to try to prove that I'm related to Monica. How is she?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Unless! She wants to spend the night holding my hair back for me.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. No, I won't. Do you know why I took all those lessons? See, for the first time I didn't want you to be embarrassed to be seen on the dance floor with some clumsy idiot.",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, it's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? Bijan for men?!",
+      "characters": [
+        "Joey",
+        "Mr. Treeger",
+        "Cliff",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ohh, great, I have condom in my wallet I've had since I was twelve.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Now go! 'Cause you can still catch her! And Merry Christmas from you're secret Santa!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, look. Why don't you just return the book, let Joey give her the clock pen, and you give her something worse than that. Like... a regular pen.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Apparently my sperm have low motility and you have an inhospitable environment.",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

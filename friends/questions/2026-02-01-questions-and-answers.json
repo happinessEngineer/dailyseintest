@@ -1,0 +1,106 @@
+{
+  "gameNumber": 375,
+  "date": "2026-02-01",
+  "questions": [
+    {
+      "quote": "Come on Ross! You said you wanted to talk about it, let's talk about it!! How was she?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, you know what we should all do? We should play that game where everyone says one thing that they're thankful for.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Leonard Green",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Probably. But you know, I'll tell you something. Passion is way overrated.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, you'd think I'd give up being a minister and start paying to ride the subway? Huhuh...",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Actually, Billy Tratt is gay now. So-so that one's not really our fault.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, um so, I still have to invite Dillon and Emma and Shannon Cooper.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh! Wi... in the dres... in the dressing room!? Well, that's so weird! Phoebe and I were just trying on clothes in the dressing room. God it's just such a small world!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know, but that creep that I went on that date with goes to there so I have to find a new one. I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store...",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I do! So much! I can't stop thinking about her! I can't sleep, I-",
+      "characters": [
+        "Grandmother",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look I know she's a little tough to take. She has no where else to go, and she's my sister. Alright, she's Emma's aunt. And I would like them to bond.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Jason"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

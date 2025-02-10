@@ -1,0 +1,106 @@
+{
+  "gameNumber": 3,
+  "date": "2025-01-25",
+  "questions": [
+    {
+      "quote": "Ohh... I mean two best friends falling in love, how often does that happen?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Gosh, what's the pay like? Oh, come on people... come on, now, if I don't know who makes the most, how do I know who I like the most! Hey Joey!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, last time you said it like Dracula, and it scared her! Can I get you anything? You want some more ice chips?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, there was this one kid who had a sticker on his backpack that said-",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This was such a huge mistake. I can't tell him Phoebe. I can't, I can't, I can't, I can't...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! I though the pot stickers were supposed to be vegetarian!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm in the bathroom, can you come in here? I think there's something wrong.",
+      "characters": [
+        "Phoebe Abbott",
+        "Susie Moss",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I mean tonight, in the building. Suddenly. Into our lives.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I've gotta call my friend Mary and tell her how good this is, from Monica's room.",
+      "characters": [
+        "Ross",
+        "Duncan",
+        "Chandler",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "And! Y'know what Jake says? That women's underwear is actually more comfortable. And he loves the way the silk feels against his skin.",
+      "characters": [
+        "Phoebe",
+        "Julie",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

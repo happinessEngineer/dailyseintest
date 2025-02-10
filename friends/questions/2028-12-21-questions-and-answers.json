@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1429,
+  "date": "2028-12-21",
+  "questions": [
+    {
+      "quote": "Oh, But you're finally doing something that you love! I can't ask you to give that up. Though it'd be nice if the thing that you love was y'know... finding gold.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "How can you smoke in this day of age? Do you not seen that ad with a little kid walks to grandpa, it's chilling.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I know. Y'know, just-just talking about it is getting me kinda...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, you were right, you were right. I mean, I-I-I've got to give my marriage another chance.",
+      "characters": [
+        "Chandler",
+        "Erica Ford",
+        "Monica",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "So you came to the room looking for Joey? Did you ever in-intend on telling me about this?",
+      "characters": [
+        "Billy",
+        "Kathy",
+        "Estelle Leonard",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Just go up to her and ask her out. Oh, what's the worst thing that could happen?",
+      "characters": [
+        "Ross",
+        "Guy",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, you guys won't believe what I have to do for work today.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know what, I know what will cheer you guys up! I had a little talk with the boys in New York, told 'em about all the hard work you've been doing and that a little Christmas bonus may be in order.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, let me guess some idiot on a cell phone wasn't paying attention?",
+      "characters": [
+        "Man",
+        "Monica",
+        "Minister",
+        "Janice"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Drunk enough to know that I want to do this. Not so drunk that you should feel guilty about taking advantage.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

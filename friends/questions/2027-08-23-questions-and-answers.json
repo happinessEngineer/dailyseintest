@@ -1,0 +1,106 @@
+{
+  "gameNumber": 943,
+  "date": "2027-08-23",
+  "questions": [
+    {
+      "quote": "This is Joey Tribbiani. Joey, these are the producers and, as you probably already know, this is Lennart Haze.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Sorry. But just one last thing. Y'know you came looking for family. I'm family, I'm it. Now, now I'm done.",
+      "characters": [
+        "Phoebe Abbott",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "Emily, there is nothing between Rachel and me. Okay? I love you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Roy",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sure! That's one of the great things about being engaged. I'm not nervous talking to pretty girls anymore.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You don't have to lie anymore, Ross, I know that it was a fourteen year-old girl.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, well kinda cute, like really kinda cute, or kinda cute like your friend Spackel Back Larry?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh. Oh yeah, don't get to worked up over it. I mean it-it sounds like he's a doctor, but he's not.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, Rach, the big question is, does he like you? All right? Because if he doesn't like you, this is all a moo-point.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Judy Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, and I know you guys don't know a lot about psychic readings, but that one is pretty much the worse one you can get.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh. Well, hold on camper, are you sure you've thought this thing through?",
+      "characters": [
+        "Charlie Wheeler",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

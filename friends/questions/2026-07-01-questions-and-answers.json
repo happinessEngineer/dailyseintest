@@ -1,0 +1,106 @@
+{
+  "gameNumber": 525,
+  "date": "2026-07-01",
+  "questions": [
+    {
+      "quote": "Look honey, people get fired left and right in this business. I already got you an audition for Another World.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "What's all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, what is this? Well, lets see, we kissed for ten minutes and now we're talking to our friends about it, so I guess this is sixth grade!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. Yeah. Yes, this place is beautiful. Emily's parents got married here.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Don",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm not proving anything. Okay, I'm done listening to you. If I hadn't let you talk me into going to the airport in the first place, I never would've put my fist through the wall!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Probably the only time I'll ever say this, but did you see the ass on her?",
+      "characters": [
+        "Monica",
+        "Cecilia",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh no, my dad's a doctor and he would always tell me just horror stories......about ghosts and goblins who totally supported the princess's right to smoke.",
+      "characters": [
+        "Sandra Green",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, yeah, that. All right, means that much to ya, I'll let you have her.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You see, now, I would date this girl. She's cute, she's outdoorsy, you know, and she knows how to build a fire. I mean, that's got to come in handy",
+      "characters": [
+        "Steve",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I swear I didn't know she was a hooker! I mean wh-Did you let her smoke in here?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 949,
+  "date": "2027-08-29",
+  "questions": [
+    {
+      "quote": "Hmm -you know, actually this'll work out well. Cause when you have to move back in with Joey, Joey's hot new roommate can come and live with me.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Kinda looks like that stuff you get when you get a bad infection.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm up! I'm up, I've gotten up now! Anybody ah, want anything?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "And those guys were this close to lettin' us play this time too.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What are you talking about? I love them! Yeah, I had a tarantula when I was a kid. But it-it died, because my cat ate it. And then, then my cat died. But Joey, isn't this cool?",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Rachel",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on! Come on, if we have sex again it'll double our chances of getting pregnant. Do you think that closet's still available?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, yeah, yeah... This is so weird. I mean, you never know when it's gonna be your last dance. And I didn't even get a chance to finish it.",
+      "characters": [
+        "Phoebe",
+        "Roy",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Yeah, you can fire her, but I would call security, she won't go easy.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I so wanted Ross to know first, but I'm so relieved you guys know.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, so where are we staying? Is the movie putting us up in a big hotel suite?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

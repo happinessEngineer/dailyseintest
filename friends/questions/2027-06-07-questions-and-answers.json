@@ -1,0 +1,106 @@
+{
+  "gameNumber": 866,
+  "date": "2027-06-07",
+  "questions": [
+    {
+      "quote": "What? Oh my God! She-she thinks we're engaged! Why? Why? Why would she think we're engaged?!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Alright, fine. You can keep it. As long as you don't mind that she's haunted.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Someone? I brought people. Mr. Thompson, this is Phoebe. Phoebe, this is Mr. Thompson. He's the head of my department.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I asked him if he wanted to eat, he said, \"No.\" I asked him if he wanted to sleep, he said, \"No.\" I asked him what he wanted to do, he said, \"No.\" So, he's sweeping.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Melissa Warburton",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Monica, what did you mean before when you said you didn't want to talk to anyone, especially me?",
+      "characters": [
+        "Rachel",
+        "Michael",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah well, she certainly knew what she was doing New Year's Eve 1997.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "'Hi, I have Phoebe Buffay returning a page. Okay, well, um, she's in her car I'll have to patch you through.'",
+      "characters": [
+        "Paul the Wine Guy",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well y'know I was just in the neighborhood and I passed by your building and I thought to myself, \"What's up with Carol and sweet, little Ben?\"",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Went down to the docks. Bet ya didn't know you could get it wholesale.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Elizabeth Stevens",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. Yeah, I remember trying to steal a cardboard cutout of Evander Holyfield from a Foot Locker.",
+      "characters": [
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

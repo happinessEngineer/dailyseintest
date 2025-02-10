@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1494,
+  "date": "2029-02-24",
+  "questions": [
+    {
+      "quote": "Hey! Hey, Pheebs, check it out. Yeah, for my desert, I have chosen to make a traditional English truffle!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Benjamin Hobart",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Then we have to await the data from recent MRI scans and DNA testing which call into question information gathered from years of simple carbon dating.",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, you guys have been to every play I've ever been in, have I ever had chemistry on stage?",
+      "characters": [
+        "Joey",
+        "The Director",
+        "Rachel",
+        "Mr. Douglas"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "...see I can't decide whether it would go better next to the new wicker dining chair, the Sahara desk, or the Parker console table.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, personally I think it's great you're giving yourself a break.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh hey Joey! We've been watching all day, when are you gonna be on TV?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Man! When you said it was a problem about your boss and the baby I figured it was something about maternity leave.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, look, here's the bottom line Ross, this is fixable, if we act fast, okay. So, I'll invite him to brunch tomorrow and you can make nice.",
+      "characters": [
+        "Rachel",
+        "Mona",
+        "Chandler",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, you guys, listen, this weekend we're all gonna go to Las Vegas to surprise Joey! Including me!! You wanna go?!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

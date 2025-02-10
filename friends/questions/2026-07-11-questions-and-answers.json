@@ -1,0 +1,106 @@
+{
+  "gameNumber": 535,
+  "date": "2026-07-11",
+  "questions": [
+    {
+      "quote": "Joey, we would've asked you, we just thought you wouldn't be interested.",
+      "characters": [
+        "Paul Stevens",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh, I don't think so. I mean it would be different if it was way into the future &#150;and-and-and we were getting married or something.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Emily Waltham",
+        "Jill Green"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Okay, please be good, please. Just remember how much you all like me.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well I can promise you, at least one person will be crying. I'm an actor, and any actor worth himself can cry on cue.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Jill this is not about me being jealous of you! This is about you being a brat! Wanting what you can't have!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well Monica seems to think it's because you have feelings for me.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know it-it's funny, um, Frank told me so much about you, but your not how I pictured you at all.",
+      "characters": [
+        "Joey",
+        "Alice Knight",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Alice Knight"
+    },
+    {
+      "quote": "...I think you'll find if I come to work here, I don't micro-manage. I don't shy away from delegating.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So you can't lose, it's there in the title. Wonderfullness is baked right in.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "My mother's driving me crazy, but Ross is getting married. I'm happy. I'm not going to let anything spoil that.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

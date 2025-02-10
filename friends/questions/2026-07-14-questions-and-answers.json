@@ -1,0 +1,106 @@
+{
+  "gameNumber": 538,
+  "date": "2026-07-14",
+  "questions": [
+    {
+      "quote": "...and I-I can't take it! Y'know? I'm just, always afraid one of them is gonna catch me with the other one. It's making me crazy.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God Stu! I-I can't believe you did this! Now are you absolutely sure she's a hooker?",
+      "characters": [
+        "Sandra Green",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, yes, it's just that we ah, we kinda all ready, made plans with Ross.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, still too ethnic. My agent thinks I should have a name that's more neutral.",
+      "characters": [
+        "Monica",
+        "Benjamin Hobart",
+        "The Interviewer",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't know, but I ah, I have the feeling that my being there will do it. I'll go over and I will borrow something. Juice!! I need juice!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, but if something gets broken, and then the Queen comes over..",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm great! I'm great. I've got a great job at Bloomingdale's, have wonderful friends, and eventhough I'm not seeing anyone right now, I've never felt better about myself.",
+      "characters": [
+        "Mr. Zelner",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, if you think about it, I am kind of like a Reverend. I mean, as a chef, I serve God, by feeing the hungry and poor.",
+      "characters": [
+        "Monica",
+        "Paul Stevens",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, uh, I'm really, really sorry about what happened in the cafeteria today.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dad seriously! Y'know you really should see someone about that!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

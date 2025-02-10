@@ -1,0 +1,106 @@
+{
+  "gameNumber": 426,
+  "date": "2026-03-24",
+  "questions": [
+    {
+      "quote": "Aww, man. That's the girl I was hiding from. When she finds out he's my roommate, she's gonna tell him what I did.",
+      "characters": [
+        "Susan Bunch",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Dr. Gettleman? Yeah I know, I don't think that's a good idea. In fact, I think he's dead.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know! What could she possibly be hiding in here that I can't see?!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, wait. No there's gotta be something else that you can do. I mean, what skills do you have?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Benjamin Hobart",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey. Rachel, I-I-I've been wanting to tell you something for a while now and I really, I just have to get it out.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry... I'm sorry. It's obviously way too early for us to be... having that conversation.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, which one of you lovely ladies am I going to take to dinner huh?",
+      "characters": [
+        "Joey",
+        "Tom",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "Freedom! I want my freedom! Why won't you here me?! Sophie, help me! Help me!!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Don't worry, I'm brave! I am brave! I...I am brave! No-no-no-no!! Can you tell me who is there please?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Are you kidding me?! With a cute butt like this, I'd find work.",
+      "characters": [
+        "Minister",
+        "Monica",
+        "Chandler",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    }
+  ]
+}

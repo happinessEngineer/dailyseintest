@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1200,
+  "date": "2028-05-06",
+  "questions": [
+    {
+      "quote": "Yes, and I have to say, I am not just hurt. I am insulted. When I tell somebody I did something...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Gavin Mitchell",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can see the headline now: \"Lottery winners' friend filled with regret eats own arm\".",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, hold, let me see, I don't know. So what're you gonna do. . .",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's no big deal, okay? Phoebe and I talked about it. It's just a crush! It's going to go away! Dude, you gotta rearrange your bubbles! Oh!",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I don't even know how serious he is about me. Until I do, I'm not telling them anything.",
+      "characters": [
+        "Susan Bunch",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, here he comes. What is he doing? What the hell is he doing?!",
+      "characters": [
+        "Gary",
+        "Joey",
+        "Paul Stevens",
+        "Phoebe"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Hey are you getting Monica and Chandler an engagement present?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. You're just gonna knock on his door and change his life forever. You're like Ed McMahon except without the big check, or the raw sexual magnetism.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, okay look, I know I'm being Mr. Inappropriate today, but it's just so tough, I mean see you walking around and I just wanna touch you and hold you, come on no one's around, just, just kiss me.",
+      "characters": [
+        "Rachel",
+        "Mark Robinson",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Mark Robinson"
+    }
+  ]
+}

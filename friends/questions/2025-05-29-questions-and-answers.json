@@ -1,0 +1,106 @@
+{
+  "gameNumber": 127,
+  "date": "2025-05-29",
+  "questions": [
+    {
+      "quote": "Oh, okay. Uhh, well let's see. You're about-well uh, this one is large. And this one-",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't need an actual man, just a couple of his best swimmers. And there, there are places you can go to get that stuff.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, our table is down in front, okay, my boss is gonna be there, everyone will see if we arrive after it starts.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, how about when you're not working. What do you do in your spare time?",
+      "characters": [
+        "Joey",
+        "Doug",
+        "Monica",
+        "The Interviewer"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "Okay. There may be a way that we can get the other ring back. 'Cause I heard the guy tell the jeweler where he was going to propose. So maybe we can get him to trade rings or something.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, let's uh, let's bring it back down and-and try again.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look come on, eh, just ah, just ah, put your arms around me, eh.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Mr. Treeger",
+        "Ross"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Hey buddy, do you think I can borrow your uniform this Thursday?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Erica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No-no, I heard what you said, funny. I like funny. This team is about hard work, but it's also about having fun. Good to have you aboard Bing!",
+      "characters": [
+        "Doug",
+        "Will Colbert",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

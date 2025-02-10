@@ -1,0 +1,106 @@
+{
+  "gameNumber": 483,
+  "date": "2026-05-20",
+  "questions": [
+    {
+      "quote": "If you ask me, as long as you got this job, you've got nothing pushing you to get another one. You need the fear.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'll be right there! Okay, Ross, please come on! I thought we have moved on! I thought we've gotten to a place where we could be happy for each other! I mean was that just me?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, in her defense, she's right. I am stronger. I would destroy you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Priesthood! Look Ross, I'm telling you, she has no idea what you're thinking. If you don't ask her out soon you're going to end up stuck in the zone forever.",
+      "characters": [
+        "Joey",
+        "Mindy Hunter",
+        "Chandler",
+        "Director"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I've had second thoughts about that. Do you realize how hard that would be to clean?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Love her! That's right, I...LOVE...HER!!! I love her!! I love you, Monica.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow. Y'know we're back where we were. Honey, I would love to do all that, but nothing's changed.",
+      "characters": [
+        "Richard Burke",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "I'm gonna take off now. You're gonna let me go home, aren't you?",
+      "characters": [
+        "Ross",
+        "Zack",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Zack"
+    },
+    {
+      "quote": "Yeah. Ya know, a boy and a girl. Hopefully the girl will come first so Ben here won't feel too competitive.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I'm sorry I brought it up. So, are either one of you planning on staying at home with your child...",
+      "characters": [
+        "Laura",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Laura"
+    }
+  ]
+}

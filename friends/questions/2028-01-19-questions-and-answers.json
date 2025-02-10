@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1092,
+  "date": "2028-01-19",
+  "questions": [
+    {
+      "quote": "Alright Monica, if there is something that you would like to share...",
+      "characters": [
+        "Monica",
+        "Trudie Styler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi, yeah, it's me. Oh, no no no, we're just friends. Yeah, I'm single. 25. An actor. Hello?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm gonna throw this away, but thank you so much for the gesture!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on sweetie! You've had to work late every night for the past two weeks, what is it this time?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I had too okay?! We're getting married! Married couples can't keep secrets from one another!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Honey, we're leaving tomorrow you've still got a lot of packing to do.",
+      "characters": [
+        "Monica",
+        "Tag Jones",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross, I am not gonna run away again! I just want to get a little fresh air.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God. I cannot keep having this same fight over and over again, Ross, no, you're, you're, you're making this too hard.",
+      "characters": [
+        "Rachel",
+        "Peter Becker",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Mrs. Altman? She also made out with Takaka Ci-Kek the night before he went back to Thailand.",
+      "characters": [
+        "Will Colbert",
+        "Monica",
+        "Ross",
+        "Cassie Geller"
+      ],
+      "correctAnswer": "Will Colbert"
+    }
+  ]
+}

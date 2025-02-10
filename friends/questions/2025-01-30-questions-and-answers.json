@@ -1,0 +1,106 @@
+{
+  "gameNumber": 8,
+  "date": "2025-01-30",
+  "questions": [
+    {
+      "quote": "That's good, have a seat. Um, the doctor says it's gotta be a needle. You're just gonna have to be brave, ok? Can you do that for me?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Can't have?! Excuse me, the only thing I can't have is dairy!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Jill Green",
+        "Director"
+      ],
+      "correctAnswer": "Jill Green"
+    },
+    {
+      "quote": "I'm sorry. If you wanna pretend that nothing happened, I can try.",
+      "characters": [
+        "Don",
+        "Joey",
+        "Rachel",
+        "Kathy"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "He's got something plastic lodged in his throat, we've got to go to the hospital.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "OK well here, we'll just move the coffee table closer to the couch.",
+      "characters": [
+        "Robert Bobby",
+        "Monica",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ecoutez, je vais vous dire la verite. C'est mon petit frere. Il est un peu retarde.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Don't you realise none of this would've ever happened if I didn't think at that same moment you weren't having sex with Mark?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What do you get? Emily!! Emil-Whoa!! Okay! So that's me as a cheerleader! Ta-dum!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on guys, I-I really want this guy to like me. It-it would really help me out if you guys were here to make me look good.",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She's my biggest fan. Yeah, she's the only one in the family that's believed in me.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

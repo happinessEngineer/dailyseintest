@@ -1,0 +1,106 @@
+{
+  "gameNumber": 183,
+  "date": "2025-07-24",
+  "questions": [
+    {
+      "quote": "All right, I guess I can hold out a little longer. Let's have a game.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, it's a pretty big commitment, I mean, what if one of us wants to move out?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Helena",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Anyway it-it kinda-it all boils down to this, the last time I talked to Emily...",
+      "characters": [
+        "Monica",
+        "Sandra Green",
+        "Ross",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey. What a day. I took her everywhere. The Museum of Modern Art, Rockefeller Center, Statue of Liberty.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, I'd like to know how much the room was because I'd like to pay my half.",
+      "characters": [
+        "Ross",
+        "Mr. Zelner",
+        "Janitor",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That ring? When my grandmother first came to this country, that ring and the clothes on her back were all she had with her.",
+      "characters": [
+        "Rachel",
+        "Waiter",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay do you-Okay, do you have a search warrant? Because the last time I checked this was still America!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Benjamin Hobart",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! No, that was Jack! Rachel thinks I asked her to marry me!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You look great. I'm so glad we're having this rehearsal dinner, you know, I so rarely get to practice my meals before I eat them.",
+      "characters": [
+        "Phoebe",
+        "The Interviewer",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

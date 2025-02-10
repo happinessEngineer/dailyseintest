@@ -1,0 +1,106 @@
+{
+  "gameNumber": 185,
+  "date": "2025-07-26",
+  "questions": [
+    {
+      "quote": "Ok, Janice. Janice. Hey, Janice. Look, there's no way for me to tell you this. At least there's no new way for me to tell you this. I just don't things are gonna work out.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Here's a picture of Ross. And that's me. And that's me and Ross. Oh-ho, that is a picture of our first kiss as a married couple.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Kim"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Correct again! But, you forgot to switch legs between questions, so no hopping bonus!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ask them if it would be faster if we cut the baby's face off the penis, so we can put it on the bunny. . That is a weird sentence!",
+      "characters": [
+        "Ross",
+        "Jade",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah and you better watch the flirting too, cause you know, in such close quarters, it could be trouble.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Mark Robinson"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Amy, you know what? I was thinking that maybe now it'd be a good time for us to sit down and, you know, talk about your future.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You don't? Well, that's the difference between a professional and a layman.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't believe this, hold on a second. You guys die and I don't get your baby?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Amy Green"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Listen guys, it was great seeing you again. Mon, um, easy on those cookies, okay? Remember, they're just food, they're not love.",
+      "characters": [
+        "Elizabeth Stevens",
+        "Chandler",
+        "Rachel",
+        "Roger"
+      ],
+      "correctAnswer": "Roger"
+    }
+  ]
+}

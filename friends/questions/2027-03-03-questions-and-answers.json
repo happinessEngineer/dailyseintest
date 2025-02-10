@@ -1,0 +1,106 @@
+{
+  "gameNumber": 770,
+  "date": "2027-03-03",
+  "questions": [
+    {
+      "quote": "I know, I know, but uh just, I'm telling you, once, once you get past that part, that where it-it just feels like you wanna die, he's-he's really a good person.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well it's just-it's one of those situations that I just hate. Y'know? A massage client gave me three tickets to the Helmet-Pelts exhibit at the Morgan Chase museum.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Pheebs is your grandmother maybe saying that you should live here alone?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Err...Well I...Know how much you used to make and I know how much your rent is.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Paul Stevens",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Monica and Rachel had syrup, now I can get my man to cheer up. Good morning Joey.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Janice",
+        "Phoebe"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Oh my God. Ohh, my little sister and my best friend...shaking up. Oh, that's great. That's great.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my god, that is great! That is *** for a play on broadway... and in a real theatre, not that little one underneath the dally like last time.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Amy Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't know. But, you know, we, we have a lot in common, you know. He plays piano; I played keyboards in college. He's been divorced; I have some experience in that area.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Don't you think it's better for him to think that you're cheating on me, than for him to think that I'm cheating on him? I heard it.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Frank Buffay Jr.",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Really? In the moment, I really wanted to kiss you too. In the moment.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

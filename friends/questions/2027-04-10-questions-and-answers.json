@@ -1,0 +1,106 @@
+{
+  "gameNumber": 808,
+  "date": "2027-04-10",
+  "questions": [
+    {
+      "quote": "What are you being such a weenie for? So he has a Barbi, big deal. You used to dress up like a woman.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I wanna get out of the room! Y'know, I...I really miss downstairs.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Just, I love you so much. Just...It's just sometimes it bothers me that I'm never gonna have that feeling. Y'know when you meet someone for the first time and it's new and exciting? Y'know that rush?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I'll have an espresso. Oh acutally, I'll get it. If I ask you to, you'll probably end up drinking it yourself.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Carol"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's a one-woman play called \"Why don't you like me: a bitter woman's journey through life\".",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Sandra Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But, let's play this one first. And remember whoever talks first loses!",
+      "characters": [
+        "Phoebe",
+        "Mark Robinson",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It was an accident. Not like I was across the street with a telescope and a box of donuts.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Um, then yes, it's 'cause of Phoebe! So, you know, it's either her or me.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey! Why did you tell Chandler that Monica was getting a boob job?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, um, I think we should talk about what happened on the terrace.",
+      "characters": [
+        "Rachel",
+        "Mischa",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

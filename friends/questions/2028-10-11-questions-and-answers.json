@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1358,
+  "date": "2028-10-11",
+  "questions": [
+    {
+      "quote": "You'll never believe what just happened, Ross just totally blew me off and he didn't even tell me why!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Jill Green"
+      ],
+      "correctAnswer": "Jill Green"
+    },
+    {
+      "quote": "Wait a minute, are you doing Joey's \"Audition didn't go so well. Yeah it did?\"",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Now, this is last minute so I want to apologize for the mess. Okay?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Erica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hot coffee!!! You idiot!! You were gonna spill hot coffee all over me, huh?!! What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?! Huh?!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Tommy",
+        "Monica"
+      ],
+      "correctAnswer": "Tommy"
+    },
+    {
+      "quote": "Mr. Bing? Here you are! You'll go into that room and deposit your specimen into the container.",
+      "characters": [
+        "The Interviewer",
+        "Monica",
+        "Ross",
+        "Nurse"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "No!! No way! No! And stop using my name! And shame on you! And shame on all of you! You're disgusting! Especially you with that!",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Just a minute!!! Look at you guys! Wow! You are a very scary witch.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, I know what I have to do. I've got to go Red Ross. Y'know, Red Ross!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Shut up! It was nice. I just... I don't think I'm the dirty-talking kind of guy, you know?",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

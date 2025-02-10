@@ -1,0 +1,106 @@
+{
+  "gameNumber": 680,
+  "date": "2026-12-03",
+  "questions": [
+    {
+      "quote": "Hey Rach, maybe your resolution should be to umm, gossip less.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I just- I don't think us getting back together is a good idea.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ohh! Phoebe, this is all your fault! Now he loves her, he's gonna marry her, and this is all your fault.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What is wrong with raising a kid in the city? I'm doing it, Ross is doing it, Sarah Jessica Parker is doing it!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Naaaa... He still kills me. Last night he had me laughing so hard, I swear... a little pee came out.",
+      "characters": [
+        "Eric",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's it. I'm done. I don't care when the baby comes, no more betting.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Duncan"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And then he told me he would run away with me, and he didn't.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Say your son never feels connected to you, as one. Say all of his relationships are affected by this.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Dr. Drake Ramoray",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't go to my own prom without a date, I can't, it's too late.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Not like we used to. Remember? You and me used to be inseparable. Y'know now it's like...things are different.",
+      "characters": [
+        "Director",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

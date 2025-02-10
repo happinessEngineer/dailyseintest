@@ -1,0 +1,106 @@
+{
+  "gameNumber": 899,
+  "date": "2027-07-10",
+  "questions": [
+    {
+      "quote": "What can I do, she doesn't listen to me about renter's insurance either.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, I can sense when women are depressed and vulnerable. It's one of my gifts.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I'm gonna!! That's right! Yeah, you made me feel really guilty about goin' out with that girl! Like-like-like I did something terrible to you! And now Pheebs, you're doing the same thing!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So I was right. This is what it feels like to be right. It's oddly unsettling.",
+      "characters": [
+        "Sarah Tuttle",
+        "Joey",
+        "Chandler",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel, you can go down there, you don't have to smoke. Just say you wanna get some fresh air.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well this, this is too much, I feel like I should get you another sweater.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "May I have the rings? Emily, place this ring on Ross's finger as a symbol of your bond everlasting. Ross, place this ring in Emily's hand as a symbol of the love that encircles you forever.",
+      "characters": [
+        "Chandler",
+        "Minister",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Minister"
+    },
+    {
+      "quote": "This is so unfair! The one thing I wanted to do was throw my best friend a bachelor party, but no, I wasn't allowed to. All I got was a stupid steak dinner!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Cecilia",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The first time! No seriously, imagine if Carol hadn't realized she was a lesbian.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I'm just-if the paste matches the pants, you can make yourself a pair of paste pants and she won't know the difference!",
+      "characters": [
+        "Judy Geller",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

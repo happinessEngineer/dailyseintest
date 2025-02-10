@@ -1,0 +1,106 @@
+{
+  "gameNumber": 278,
+  "date": "2025-10-27",
+  "questions": [
+    {
+      "quote": "Well, what if we just ah, called her, used a fake name, and had her come to my office?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know, it's tough. You know what the first thing I did after my mother's funeral was?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well look, I'm just trying to focus on the \"I get to see my wife,\" part, all right? And not the part that makes me do this.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "'Cause it's good money! But that doesn't change the fact that this is an evil blood sucking corporate machine!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Kathy"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, Chandler why don't you take a walk? This doesn't concern you.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Roger",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I was gonna tell him that I'm-I'm gonna have the baby and he can be as involved as he wants.",
+      "characters": [
+        "Phoebe",
+        "Richard Burke",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know it's last minute, but we decided to have a Halloween party.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, apparently they're turning it into some kinda coffee place.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "How... wha... Hey! What are you... What is this? Have you guys been listening this entire time?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Fine! I'll do it without you! I don't need you or anybody else! I'm gonna make it on my own! You'll see!! You'll all see!!",
+      "characters": [
+        "Jack Geller",
+        "Leonard Green",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

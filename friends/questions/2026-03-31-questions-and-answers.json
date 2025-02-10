@@ -1,0 +1,106 @@
+{
+  "gameNumber": 433,
+  "date": "2026-03-31",
+  "questions": [
+    {
+      "quote": "Joey, we had a deal. That-that's why you're here! I've got to fire you!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Sandy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, we-we said we'd just do it that one time but, but now I think she may wanna start things up again.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. I went down to the 'Mattress King' showroom and, and I saw Janice, kissing her ex-husband.",
+      "characters": [
+        "Joey",
+        "Joshua Burgin",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Alright. I looked all over the building and I couldn't find the kitty anywhere.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Actually, it kinda is. My wife won't return my calls. I don't know where my wife is. \"Hey Ross, where's the Mrs.?\" Don't know!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, it kinda grows on you. Actually, I wanted to finish talking to you about uh, spring vacation.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Actually, y'know that's not the Thanksgiving I was talking about.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know, I know. I shouldn't have waited 'till now to say it, but I'm.. That was stupid, okay? I'm sorry, but I'm telling you now. I love you. Do not get on this plane.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! Of course we can wait. Alright, so I guess that means good night then?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ross, it's not that big a deal! So you'll been divorced three times, you'll still have a life, you'll go on dates...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

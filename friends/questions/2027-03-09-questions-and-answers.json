@@ -1,0 +1,106 @@
+{
+  "gameNumber": 776,
+  "date": "2027-03-09",
+  "questions": [
+    {
+      "quote": "Yeah, try sticking it in the freezer for 20 minutes. I'm tellin' ya!",
+      "characters": [
+        "Rachel",
+        "Woman",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, let's start with the cons, 'cause they're more fun. All right, Rachel first.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Now that's a little spoiled. He was supposed to type \"little\", the idiot.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, but it'll be OK, they're pretty cool, my brother's straight so. . .",
+      "characters": [
+        "Don",
+        "Monica",
+        "Ross",
+        "Duncan"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "Look, I thought about it too, and I'm sorry. I think we should spend all of the money on the wedding.",
+      "characters": [
+        "Chandler",
+        "The Director",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, there was a disaster in shipping and I've got to get this order in. Honey, I'm so sorry, but it looks like I'm gonna be here all night.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But he didn't really know, you know. He wasn't planning on coming to Barbados and proposing to me...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "We ran into him on the street today and he said he might have a job for her. But I know he just wants to get into her pants.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No I mean it! I can't believe they would do this to you! And to your fans! I mean they are going to be devastated! Heart broken! They love you so much!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, y'know what I noticed Rachel? He scares easy. Is that the kind of guy you'd like to take to a ball? \"Hey Sebastian, would you like to dance?\" \"Uhh, okay-I gotta go!\"",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

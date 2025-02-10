@@ -1,0 +1,106 @@
+{
+  "gameNumber": 510,
+  "date": "2026-06-16",
+  "questions": [
+    {
+      "quote": "Wait! I think I see where you're going, but before you say anything else, can I just say one more thing?",
+      "characters": [
+        "Phoebe Abbott",
+        "Tag Jones",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "But come on, look at how cute and small this is! So I got it to give Monica so she'd know I was okay.",
+      "characters": [
+        "Janice",
+        "Steve",
+        "Woman",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's how they do pants! Ross, will you tell him? Isn't that how they measure pants?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay. Uh, Ross and Rachel. Rachel and Ross. That's been one heck of a see-saw hasn't it?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And now, y'know, I'm like... I'm like the other woman! I feel so..",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh well actually gonna use a nanny and uh, I don't even have a housekeeper.",
+      "characters": [
+        "Rachel",
+        "Mr. Thompson",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Um, I'm gonna go meet Duncan, he's skating tonight at the Garden, he's in the Capades.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No I'm not okay. The only guy I've ever been crazy about has gone to Minsk and I may never...I may never see him again.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but that just means that he was falling asleep on top of her instead of me.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no, no. We were there last night. She kept... ..bringing swordfish. are you gonna go to the, um?",
+      "characters": [
+        "Jamie",
+        "Phoebe",
+        "Dina",
+        "Ross"
+      ],
+      "correctAnswer": "Jamie"
+    }
+  ]
+}

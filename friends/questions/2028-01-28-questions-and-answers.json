@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1101,
+  "date": "2028-01-28",
+  "questions": [
+    {
+      "quote": "Well, I'll-I'll be there. I mean I have to wear a costume to all my classes that day anyway so...",
+      "characters": [
+        "Ross",
+        "Dana Keystone",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Tell you what, maybe one of these weekends you can borrow the car and I cou. . .",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Whoa! Is this porn? What did I do? I must've hit something on the remote.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Susan Bunch",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, no, no. Not Leslie. No, she's, she's the only one that knows how to burp the alphabet.",
+      "characters": [
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "There's gonna be a wedding. You're gonna be the bride. Two hundred people are going to be looking at you in a clean white dress.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, ok, sweetheart, I'll see you later. Ok, bye. What? Oh, that is so sweet. No, no, ok, you hang up. Ok, ok, one, two, three. Well you didn't hang up either.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, so Phoebe, now are you gonna call your dad and let him know that his dog is ok?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Please! I have people coming from out of town today! And, I told them all about your candy!",
+      "characters": [
+        "Monica",
+        "The Woman",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "The Woman"
+    },
+    {
+      "quote": "Pheebs, we had the most incredible night! Okay, so, we're in the car...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, yeah, yeah, sure. We live in the building by the uh sidewalk.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

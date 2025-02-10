@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1359,
+  "date": "2028-10-12",
+  "questions": [
+    {
+      "quote": "Well, this was fun. Uh, we should really do it again sometime, wha'dya say? Ok. Alright so I've got him.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "There you go. You put on a tuxedo! Now that wasn't so scary, was it?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Carol"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, I can't do this. I can't make luv to you while we're fighting this way.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, uhm... I have to work too. Yeah, I'm stuck at the office all day.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait a minute, hold the phone! You're not talking about Chuckles University?!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "see ordinarily I would talk to her, but my confidence is shaken did I sleep with her? Did I not sleep with her?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah ok, well at least I didn't let some guy into the forest of my righteous truth on the first date.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's not like we-we know each other or anything. Or that have anything in common.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ughhhh!! Forget it! This is, this is not how this is supposed to happen.",
+      "characters": [
+        "Rachel",
+        "Jack Geller",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I'm gonna pass. 'Cause I was kinda iffy when it was puppies.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Dina",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

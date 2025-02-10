@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1484,
+  "date": "2029-02-14",
+  "questions": [
+    {
+      "quote": "Yeah, Joey just pressed something on the remote and it just, came on!",
+      "characters": [
+        "Ross",
+        "Mr. Treeger",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm the Holiday Armadillo, your part-Jewish friend. You sent me here to give Ben some presents. Remember?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Melissa Warburton",
+        "Jason"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no. Nurse With Tray doesn't know Joey, she doesn't have time for friends. She gets in that operating room and she carries that tray to the doctor, because if she doesn't, people die!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh look, a standing ovation already! So early in the show. Oh turn around honey; let me see your pretty face.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Helena",
+        "Joey"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "Well that's gross, why don't you just take it outside and throw it in a dumpster?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, because it is slim pickings. I had this date last night: Yuck! But we should probably keep it down; she's still in the bedroom.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh really? Well, maybe you and I go out for drinks? You're the other one right?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, this girl won't turn around and I can't tell whether she's hot or not, what do you think?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, thank you! You have given me so much! I mean, if it wasn't for you, I would never have gotten to sing Memories on the stage at the Wintergarden Theater!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, then you gotta back away, all right? You don't need that kind've hurt. Take it from a guy who's never had a long term relationship......",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

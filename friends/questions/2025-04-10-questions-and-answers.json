@@ -1,0 +1,106 @@
+{
+  "gameNumber": 78,
+  "date": "2025-04-10",
+  "questions": [
+    {
+      "quote": "I told mom and dad last night, they seemed to take it pretty well.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh! Well, as a single woman, who is available, I think you look great!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, I got one, I got one. Uh, if he blows into one, does the other one get bigger?",
+      "characters": [
+        "Julie",
+        "Paul Stevens",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!",
+      "characters": [
+        "Phoebe Abbott",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You guys, come on, it doesn't matter why we're late. We're all here now, please let us in so we can have some of your delicious turkey.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Guy",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's a video of my friend giving birth. Could you just bring it back to your apartment?",
+      "characters": [
+        "Emily Waltham",
+        "Woman",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You have to help me! I'm supposed to be writing my vows and all I have is this!",
+      "characters": [
+        "Rachel",
+        "The Salesman",
+        "Russell",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow! H-umm! Hi! Yes, uh I'm sorry the models are actually down the hall.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's right Ross, I can see you in your new apartment! And you can see me! Same as yesterday, same as the day before.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

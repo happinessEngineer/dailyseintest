@@ -1,0 +1,106 @@
+{
+  "gameNumber": 746,
+  "date": "2027-02-07",
+  "questions": [
+    {
+      "quote": "Yuh-huh! I was the last one to know when Chandler got bitten by the peacock at the zoo. I was the last one to know when you had a crush on Joey when he was moving in. Looks like I was second to last.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! Hey, we're not leaving until we get paid! I don't know who she thinks she is! Enough is enough! Hey, widow?",
+      "characters": [
+        "Phoebe",
+        "Mr. Treeger",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, oh, ok, great. You know what, while you're at it she said another word the other day, why don't you, why don't you look up: pbbqqt....",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! You we're right, that was fun! I'm gonna go finish packing.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Erica",
+        "Rachel"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Yes. It's just that she's so much smarter than all the girls I've ever dated! Combined! I don't want her to think I'm stupid!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Melissa Warburton",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh wait! That can't be the one Rachel's talking about. She didn't even know that happened. So which one was it?",
+      "characters": [
+        "Chandler",
+        "Dr. Long",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Aw, y'know...Y'know, maybe we're-we're just approaching this all wrong. If you're Chandler and-and you wanna hide, where is the last place on Earth people would think you'd go?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Parker",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey! You guys! You're not gonna believe this! I just got off the phone with my agent...",
+      "characters": [
+        "Joey",
+        "Director",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "A TV as if it appears from nowhere! That's the dream! Man, how did you afford this stuff?",
+      "characters": [
+        "Leonard Green",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I do. I think you should go, by yourself, get some distance, clear your head, I think it'd be really good.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 606,
+  "date": "2026-09-20",
+  "questions": [
+    {
+      "quote": "Look, I appreciate it, but uh, it's a little creepy. Y'know? I'm not a bachelor anymore.",
+      "characters": [
+        "Chandler",
+        "Mark Robinson",
+        "Carol",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ah, can I just say I know we're doing this for Ross, and that's cool, but if it was up to me, this is not what we'd be doing on our first date.",
+      "characters": [
+        "The Director",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh-ha, what about someone who looks like Rachel? I will think about the therapy.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, let's do it! 5 hour flight with Charlie, have a couple of drinks, get under that blanket and do what comes naturally.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's just my first marriage was, you know such a disaster. I kind of lost faith in the whole idea.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "That's right, it's all ruined! You guys ruined everything! You ruined it!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Dr. Drake Ramoray",
+        "Gary"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Do you remember the scene with, um, Jabba the Hut? Well Jabba had as, as his prisoner, um, Princess Leia.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Will Colbert",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Eight weeks. I mean I love my mother, but my God, a long lunch with her is taxing.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right! Man, this is unbelievable! I mean, it's great, but...",
+      "characters": [
+        "Joey",
+        "Bonnie",
+        "Bobby Rush",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You have not worn that T-shirt since you were 15!! It doesn't even fit you anymore!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 668,
+  "date": "2026-11-21",
+  "questions": [
+    {
+      "quote": "You sure they haven't gone bad? You're sure they're not very, very bad?",
+      "characters": [
+        "Interviewer",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Interviewer"
+    },
+    {
+      "quote": "She never tells us anything. Ross, did you know Monica's seeing someone?",
+      "characters": [
+        "Judy Geller",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Uh-huh! Join me, won't you?! Okay, what do you say we keep one, and then just like have an option on the other one?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know! I almost called off my wedding. Oh, who's your band?!",
+      "characters": [
+        "Monica",
+        "Megan Bailey",
+        "Phoebe",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Megan Bailey"
+    },
+    {
+      "quote": "Well, we were walking down the street and we saw that van that you guys used for catering and we realised...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right look, y'know, this maybe tough but come on, this is Ross! I survived college with him!",
+      "characters": [
+        "Janice",
+        "Joshua Burgin",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I seem to have had a slight office mishap. Could you please get the key off the back of the door for me.",
+      "characters": [
+        "Rachel",
+        "Guy",
+        "Mona",
+        "Joanna"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "No, honey you're not sick! Look, I don't love you because you're organized, I love you in spite of that.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm not paying for half of that! I'm only staying here until my apartment gets fixed.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Dr. Franzblau",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Excuse me? You don't think I could get a Brian? Because I could get a Brian. Believe you me. ...I'm really not.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Aurora",
+        "Doctor"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

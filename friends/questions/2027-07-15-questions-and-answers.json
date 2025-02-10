@@ -1,0 +1,106 @@
+{
+  "gameNumber": 904,
+  "date": "2027-07-15",
+  "questions": [
+    {
+      "quote": "No-no-no-no, he's not! No! Why are you trying to ruin the game? Come on!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Steve (drug addict)"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Paul the Wine Guy",
+        "Chandler"
+      ],
+      "correctAnswer": "Paul the Wine Guy"
+    },
+    {
+      "quote": "Well, y'know what? Actually, I was about to bid on this lovely trip to Paris.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "We're supposed to uh, be spending a romantic weekend together, it-it, what is the matter with you?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "See, Gavin, you're capable of being a nice guy. Why did you give me such a hard time?",
+      "characters": [
+        "Russell",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! David, get one for us too! Oh, oh, and see if they have a heart-shaped one! And with mirrors on the ceiling!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Excuse me, anniversary. Excuse me, anniversary. . Uhm, sir, could you move your nachos... they're in my seat. It's my anniversary. Here we are! . Can't believe it's been a whole year!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know, it would totally depend on her coloring and... You got the job!!",
+      "characters": [
+        "Teacher",
+        "Phoebe",
+        "Danny",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know, we should just go, I'm not gonna find anything here! This stuff is ridiculous!",
+      "characters": [
+        "Monica",
+        "Jack Geller",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The thing is it's kinda on the Q.T. The actor who has the part doesn't know he might be fired. It's the lead in a series, Mac and C.H.E.E.S.E.",
+      "characters": [
+        "Estelle Leonard",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    }
+  ]
+}

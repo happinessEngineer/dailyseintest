@@ -1,0 +1,106 @@
+{
+  "gameNumber": 974,
+  "date": "2027-09-23",
+  "questions": [
+    {
+      "quote": "Now, I know you wanted to bond with my dad, but did you really have to bond to that part?",
+      "characters": [
+        "Sarah Tuttle",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, just wait, please. I promise we'll come up with something. Just give us a little more time.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I guess he says that because they were on a break when it happened, that she should of forgiven him by now.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So it seems like you have a lot of friends, who would you say is your best friend?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "The Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "You're right, you're right I shouldn't freak out. 'Cause this is what will happen when you and I have babies! When will that be?!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Mr. Zelner",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh it's OK. You were worth the wait, and I don't just mean tonight.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Cecilia",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know, but when I spoke to her, she said she had already passed the mucus plug.",
+      "characters": [
+        "Phoebe",
+        "Erica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah, I'm sure he's gonna give you a job. Maybe make you his SEXretary.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey! I have so much more to tell ya, I've written it all down!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "Ok, ok, that's fine. Fine. Hey, I'm sorry about that spill before. Only $98.50 to go.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

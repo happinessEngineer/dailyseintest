@@ -1,0 +1,106 @@
+{
+  "gameNumber": 880,
+  "date": "2027-06-21",
+  "questions": [
+    {
+      "quote": "See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, and so there's no one to walk me down the aisle and... well, I would just really love it if you would do it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, since the divorce, when anybody asks me how I am, it's always with a sympathetic head tilt. 'How ya doin'? You OK?'",
+      "characters": [
+        "Chandler",
+        "Richard Burke",
+        "Gary",
+        "Joey"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Oh so you know that, you guys talked about that, so you get along, so you think you're gonna go out?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Newly appointed head lunch chef who is also in charge of purchasing--",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah... Well, when... you and I broke up I started seeing someone.",
+      "characters": [
+        "Receptionist",
+        "Chandler",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Aaah... Ross, actually there's something that I really need to talk to you about.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow, Monica's letting other people help decorate her tree! Did someone get her drunk again or?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, legend has it Joey, that... she comes alive when you're asleep.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, Rach? Does this bakery by any chance also bake erotic cakes? Say for bachelorette parties?",
+      "characters": [
+        "Dr. Harad",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

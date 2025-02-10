@@ -1,0 +1,106 @@
+{
+  "gameNumber": 929,
+  "date": "2027-08-09",
+  "questions": [
+    {
+      "quote": "No, no, no, no, that was - that was just for me. Are you sure about this?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, no, no, I'm an intern, just like you guys... except for the tie, the briefcase... and the fact that I can rent a car.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This isn't how it's supposed to go, there can't be another guy.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What is going on with you? Since when are you so crazy about babies?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ah, let's see. What next? Blow a bubble. A bubble's good. It's got a... boyish charm, it's impish. Here we go.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No-no-no-no-no Ross! Please, come on we do not have any of the big stuff we need! We do not a changing table! We do not have a crib! We do not have a diaper service!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I know the other day in the coffeehouse you were caught up in the whole soccer mom thing? but is that really you? I mean can you honestly picture yourself in a Volvo?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, that's what I drive. I make four bucks an hour, I saved up for 350 years!",
+      "characters": [
+        "Gunther",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "So tell me something. What does the phrase 'no date pact' mean to you?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh please. Every moment is precious. Y'know? Besides, somebody had to ride in that other taxi with the rest of your luggage, and your friends don't really seem to care too much that you're leaving.",
+      "characters": [
+        "Rachel",
+        "Janice",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Janice"
+    }
+  ]
+}

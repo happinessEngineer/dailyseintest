@@ -1,0 +1,106 @@
+{
+  "gameNumber": 114,
+  "date": "2025-05-16",
+  "questions": [
+    {
+      "quote": "Ross is really strong! Okay, he's the strongest out of all three of you! Except for Joey.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Raindrops on roses and rabbits and kittens, bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string. These are a few...",
+      "characters": [
+        "Emily Waltham",
+        "Phoebe",
+        "Mr. Heckles",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday.",
+      "characters": [
+        "Mr. Ratstatter",
+        "Rachel",
+        "Receptionist",
+        "Guru Saj"
+      ],
+      "correctAnswer": "Mr. Ratstatter"
+    },
+    {
+      "quote": "Oh no it's not, no it's not. It's a first date. I'm sure that nothing is gonna...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Elizabeth Stevens",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Then we will sprinkle rose pedals on the bed and make love. Not just because it's romantic, but because I can!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joanna"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, no, I mean, ya know, I, I read a book and there was a girl named Emily and I thought, I thought that might be good.",
+      "characters": [
+        "Monica",
+        "David",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "He's right, man. Please. Move on. Go to China. Eat Chinese food.",
+      "characters": [
+        "Ross",
+        "Grandmother",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know what it is? It's a nice place but I gotta see I don't know if I see myself living here. Oh, oh, oh, let me see... Yeah, I could see it.",
+      "characters": [
+        "Joey",
+        "Paul Stevens",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And thank you for explaining to us what escrow means... I've already forgotten what you said, but thank you.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait a minute, you got Ross Gellar and guest?! I wasn't invited and you got \"and guest?!\"",
+      "characters": [
+        "Jack Geller",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

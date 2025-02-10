@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1241,
+  "date": "2028-06-16",
+  "questions": [
+    {
+      "quote": "Yeah. And you should hold out for something bigger. I can't tell you how much respect I have for you not going to that stupid cab driver audition.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joanna",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no, seriously-seriously, what was the especially me part about?",
+      "characters": [
+        "Chandler",
+        "Fake Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "The point is I... I don't need this right now, OK. It, it's too late, I'm with somebody else, I'm happy. This ship has sailed.",
+      "characters": [
+        "Joey",
+        "Michelle",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sure. Once, at work I-I thought carbon dating was fossilized...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, yeah... Absolutely. I mean, just because something's difficult doesn't mean that you quit.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Chandler, aren't you worried about what to get Monica for Christmas?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Erica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "wow, the parade is really good this year. Man those horses can crap.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I still can't believe they took away my key. You trust me with yours.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh-huh. Hey, here you go buddy. Sorry, no porn for you. Okay, let's go see Monica!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Man, I got this close to him and Monica kneed me in the back. What's going on?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

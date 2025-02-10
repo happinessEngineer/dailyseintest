@@ -1,0 +1,106 @@
+{
+  "gameNumber": 220,
+  "date": "2025-08-30",
+  "questions": [
+    {
+      "quote": "That's odd, 'cause this dog's been living here for the past 3 days",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Paul. Umm, I just wanted you to know that Ross really is a great guy.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You ordered a stripper for the shower?! That is totally inappropriate!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "The Director"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I believe the foundation of our friendship was unfortunate hair. All right, look, if we're really gonna do this... it's not like you never broke one of the pacts.",
+      "characters": [
+        "Lydia",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ow! Ow! Okay, okay, fine, fine! All right, you wanna win by cheating, go ahead, all right. Phoebe the touchdown does count, you win.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no. I mean, it mighta been at first, but by now I, I think I'm pretty comfortable with the whole situation.",
+      "characters": [
+        "Ross",
+        "Gavin Mitchell",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I just went for a walk, around the living room. Whatever...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know, my daughter's told me about it when they received their impromptu invitations a month ago.",
+      "characters": [
+        "Sandra Green",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Y'know I used to go out with this guy that was a really light sleeper, and whenever I started to snore, he would just roll me over...",
+      "characters": [
+        "Monica",
+        "Judy Geller",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, this should be easy. I have a very wide pelvis. You remember Chandler.",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 973,
+  "date": "2027-09-22",
+  "questions": [
+    {
+      "quote": "Yeah! Sure! Yep! Oh, y'know what? If I heard a shot right now, I'd throw my body on you.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's just not really who I am. Y'know, I've always been happier when...Why am I telling you this? You don't care about this stuff.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "No, I didn't misunderstand, okay? She was all over me! She touched my bicep for crying out loud!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Woman",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I think there may be another reason. So, awkward hug or lame cool guy handshake?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, that's why you never see pigeons at sushi bars. See, we're having fun.",
+      "characters": [
+        "Interviewer",
+        "Monica",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Hey, Joe, I gotta ask. The girl from the Xerox place buck naked , or, or a big tub of jam.",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I think it's ridiculous that you haven't had sex in three and a half months.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't know who made you the boss? All right? We invented this game!",
+      "characters": [
+        "Minister",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! Has anyone seen my shirt? It's a button down, like a, like a faded salmon?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Eric",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So what? Being funny is Chandler's thing... You know, like Ross's thing is...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1522,
+  "date": "2029-03-24",
+  "questions": [
+    {
+      "quote": "OK, ahem, hey, does anybody know a good place if you're not dating a puma?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "The Director"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No. But uh, Joey has, and I usually talk to them in the morning time.",
+      "characters": [
+        "Chandler",
+        "Little Bully",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. No, I'm Joey Tribbiani; we did a scene together yesterday. I-I'm the guy in the coma!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "'Right, well look, um, if Joey loses this audition, that is it for Estelle. I don't care! Annie you are a doll, what time can you see him?' I need a pen.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Gunther"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I made a man twice my size cry. I mean, I haven't done that since I was four and I washed my dad's Porsche with rocks.",
+      "characters": [
+        "Phoebe",
+        "Charity Guy",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's your new job, day and night, she starts crying I need you here.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, you and I have been given a gift. Okay? We have to do something with it. Like-like, hand modeling! Huh? Or-or magic! And you know NASA's gonna wanna talk to us!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Where the hell are Joey and Molly? I asked you to watch them.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "A Speedo? Uh, I don't have a Speedo. I'm gonna go pack my regular long bathing suit.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh. Well umm, okay here's a weird thing. My mother was also a supply manager.",
+      "characters": [
+        "Barry Farber",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

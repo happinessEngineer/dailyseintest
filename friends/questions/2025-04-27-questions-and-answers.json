@@ -1,0 +1,106 @@
+{
+  "gameNumber": 95,
+  "date": "2025-04-27",
+  "questions": [
+    {
+      "quote": "Oh my-This is so embarrassing. Oh my God, I'm never gonna get massaged again!",
+      "characters": [
+        "Susie Moss",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't understand. You-you give me a key to your apartment and then you change the lock.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Mona",
+        "Rachel"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "I don't-she said y'know that I'd have triplets! But she also said one of them would be black.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Mona",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Maybe. So this is the living room huh? Ooh, it's pretty dark.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "If like the four of us could all y'know, hang out together. Uh, in fact Emily's coming into town this weekend, why don't you say we all have dinner? Say, Sunday night?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I guess. It's just parents, after a certain point, you gotta let go. Even if you know better, you've gotta let them make their own mistakes.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Cassie Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Listen...I need to know that what I'm about to ask you, will never get back to Chandler.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, apparently she caught him cheating on her with someone else. Isn't that sad? God, could you imagine if I actually married him?! I mean how different would my life be?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, wait a minute. Wait a minute, I-I-I, I can't do this. Listen honey, this is, it's not Phoebe's fault. She lent me the earrings, and I lost it. I'm so sorry. Honey, I feel terrible too.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes! They called and you didn't get it! Okay, I mean you didn't get it, I'm sorry, I'm sorry.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

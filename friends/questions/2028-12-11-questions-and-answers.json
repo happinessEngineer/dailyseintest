@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1419,
+  "date": "2028-12-11",
+  "questions": [
+    {
+      "quote": "Hey, are you cool with this. I mean, I don't want to leave you high and dry.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "C'mon you guys. It's a known fact that lobsters fall in love and mate for life. You know what, you can actually see old lobster couples walkin' around their tank, ya know, holding claws like. . .",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No you don't! No, no, no, I say you have to give your divorce another chance.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Nothing. Just something I want to get Phoebe's opinion on for Valentine's Day.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know what? This is not fair to her. Let's just forget the tape!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Monica, will you stop? This is nuts. Do you know how long it's gonna be before you actually have to deal with this problem? I mean, you don't even have a boyfriend yet. Joey, she does not look fat.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Assistant",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait, what about the time I hit you in the face with the Silvian's pumpkin?",
+      "characters": [
+        "Jill Green",
+        "Monica",
+        "Alice Knight",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know. A double blind date, and we both get stood up. What are the chances?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm, uhh, making up flyers trying to get new massage clients. So, can I come to Bloomingdale's and use the copy machine.",
+      "characters": [
+        "Chandler",
+        "Erin",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wow Monica! Hey, just so you know I had my uh, older brother chat with Chandler.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

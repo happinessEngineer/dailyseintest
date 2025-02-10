@@ -1,0 +1,106 @@
+{
+  "gameNumber": 511,
+  "date": "2026-06-17",
+  "questions": [
+    {
+      "quote": "Oh yeah, Smokey Joe here got half way to the highway and collapsed.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes necessarily! I mean, I dunno what it is, maybe it's the Amish thing.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Fake Monica"
+      ],
+      "correctAnswer": "Fake Monica"
+    },
+    {
+      "quote": "I don't know how museums work in England but, here, you're not supposed to take stuff.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, I gotta go to bed. Honey, I had such a wonderful time.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Mona",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hello! Were we at the same table? It's like... cocktails in Appalachia.",
+      "characters": [
+        "Steve",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes. Yes, thanks for letting me use your phone... and for saving my life.",
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Definitely roses. Well, I just think they're a little more weddingy. But Lilies are the clear choice.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You kidding? You're the most beautiful woman in most rooms... Whoa! Whoa! Whoa! What's going on? You and I just made out! You and I are making out?",
+      "characters": [
+        "Carol",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on you guys, we want you to know we're very very sorry. Right guys?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, it's the Ultimate Fighting Combo. Yeah, I saved thirty cents, plus I get to keep the cup. Yay!!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

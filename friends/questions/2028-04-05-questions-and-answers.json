@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1169,
+  "date": "2028-04-05",
+  "questions": [
+    {
+      "quote": "Yeah, well, I only have twenty minutes until Ethan, so, y'know..",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So, eh. I made out with Adrienne and you made out with Missy. Well I guess we're even.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "The Director"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Now you think I wouldn't enjoy that, because it is so fake, but I still do.",
+      "characters": [
+        "Phoebe",
+        "Emily Waltham",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No see now, now I can't because uh, I'm feeling too self conscious.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Anyway, we'd like you to come, but we totally understand if you don't want to.",
+      "characters": [
+        "Carol",
+        "Paul Stevens",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Well, me and my dancer friends are thinking of doing Thanksgiving uptown. I thought you guys might like to come.",
+      "characters": [
+        "Janine Lecroix",
+        "Man",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "I don't know what to say... I mean, you know, obviously we have this... heat between us.",
+      "characters": [
+        "Rachel",
+        "Dr. Long",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "No, no, no just do it. Go in there and pick something out so we can go.",
+      "characters": [
+        "Chandler",
+        "Paul Stevens",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, no-no, y'know I absolutely adore Rachel it's just that, well it might be a awkward for you. But it's absolutely your decision. More tea?",
+      "characters": [
+        "Ross",
+        "Emily Waltham",
+        "Rachel",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "I couldn't tell him no. He got so sad. Maybe it'll be all right. I do really like him a lot and probably do it eventually anyway and plus, think of all the money I'll save on stamps.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

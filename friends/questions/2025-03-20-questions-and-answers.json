@@ -1,0 +1,106 @@
+{
+  "gameNumber": 57,
+  "date": "2025-03-20",
+  "questions": [
+    {
+      "quote": "Oh no, none of them are the father. The father is my brother.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Gunther",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You-you-you didn't know that. Well, I guess my work here is done!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay well that may be true. But, in-in okay, Air Force One the Russians were terrorists! And evil! And plus he kills a bunch of them! That-that-that's offensive to Russians.",
+      "characters": [
+        "Mr. Ratstatter",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Where have you been?! I tried to call you! I want to talk to you! I still feel so bad!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel umm, I was just talking to this guy and I think he'll have sex with you.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, there's my favorite client. So tell me darling, how was the audition?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "No! No! I want to talk now! Okay? I-In fact, I am going to talk to the president of the condom company!",
+      "characters": [
+        "Rachel",
+        "Kate Miller",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, that's right! He called to ask out Monica! That-that's gotta be embarrassing!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah it will! Come on, up! Up-up-up! Up! Yes! Here we go! Pivot! Pivot! Piv-ot! Piv-et!! Piv-ett!!! Piv-et!",
+      "characters": [
+        "Roy",
+        "The Interviewer",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know which one, but I do know I need a cigarette. So what do you say we take a break, we go outside, and we'll figure this out when we come back?",
+      "characters": [
+        "Richard Burke",
+        "Kim",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Kim"
+    }
+  ]
+}

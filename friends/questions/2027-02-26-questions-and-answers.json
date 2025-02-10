@@ -1,0 +1,106 @@
+{
+  "gameNumber": 765,
+  "date": "2027-02-26",
+  "questions": [
+    {
+      "quote": "Your food is fantastic! Wow, I really want to talk to you about your menu, once I get some coffees first. Um, anyone want any?",
+      "characters": [
+        "Don",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Don"
+    },
+    {
+      "quote": "Oh, that's great! I mean I'm-I'm sorry, but I'm so happy for you. And now I can work for you!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I have the best job in the entire world! The most adorable guy came over today, and I got to dress him up all day!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh yeah! You're-hey, you're right! Here's an affordable place, two bedroom, close to work, ooh, it's available in five weeks!",
+      "characters": [
+        "Monica",
+        "Interviewer",
+        "Ross",
+        "Lennart"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No. That's not what I'm saying. I just may know a few things that might help you inflict some pain.",
+      "characters": [
+        "Monica",
+        "Emily Waltham",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here-but do you think it would be okay if I asked you out? Sometime? Maybe?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross and Rachel don't know what they're talking about. I mean its not like their so responsible. Emma is a product of a bottle of Merlot and a five year old condom.",
+      "characters": [
+        "Monica",
+        "The Salesman",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hello, there. I'm Dr. Carlin. I see someone's having an allergic reaction.",
+      "characters": [
+        "Chandler",
+        "Doctor",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Really? Oh thank you! Oh... Oh, would it be completely inappropriate to give you a hug?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, okay. If that is what it takes to show you how much you mean to me, and how much I want you there. Then that's what I'll do.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

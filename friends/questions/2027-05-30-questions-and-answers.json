@@ -1,0 +1,106 @@
+{
+  "gameNumber": 858,
+  "date": "2027-05-30",
+  "questions": [
+    {
+      "quote": "Oh, okay. Excuse me sir? Could you come with me please? You have a phone call.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait, Joey! Joey! That doesn't mean that-that you're in love with me!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Fake Monica",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "O-kay... I mean, don't I deserve anything? I mean, a few tears, a cursory hug? NOT FROM YOU!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. Thank you. That's great. Thank you. Wait-wait! Where on west 10th? Because there's this really cute shoe store that has like this little...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Amy Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "He's great! I mean we have such a good time together! He's so funny, and sooo sweet, and I'm not attracted to him at all!!",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. The great thing about the jam plan was, I was taking control of my life. So I asked myself, what is the most important thing to me in the world and that's when I came up with the baby plan.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Molly"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, yeah. Could be Rachel asking if someone could baby-sit again.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Goodie! Thanks. So, how is it living with Rachel again? I mean, apart from the great food.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Do you wanna live outside?! Because it's gettin' cold! She gets tons of catalogs and umm, she'll fold down the pages of the things she thinks that I'd like.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, Phoebe, uh... you're an amazing woman, and the time we spent apart was, was unbearable. Of course the sanitation strikes in Minsk didn't help!",
+      "characters": [
+        "David",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "David"
+    }
+  ]
+}

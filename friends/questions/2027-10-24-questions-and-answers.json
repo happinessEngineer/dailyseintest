@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1005,
+  "date": "2027-10-24",
+  "questions": [
+    {
+      "quote": "Yeah, yeah. Hey, they totally match! They look great! They look great! How you doing!",
+      "characters": [
+        "The Salesman",
+        "Monica",
+        "Joey",
+        "Jill Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh, not really. But when it comes to cheese, I'm one of the people who thinks the smellier the better.",
+      "characters": [
+        "Don",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Don"
+    },
+    {
+      "quote": "Rachel!! Open up!! It's your sister!! I have to talk to you!!",
+      "characters": [
+        "Chandler",
+        "Amy Green",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "O-okay, Rach calm-calm down, okay? She-she's really upset we're just talking.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Don",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, well, you know, they're just separated so, you know, never know, we'll see.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Chandler! Patrick just uh, ended things with me. Did you or did you not tell him that I was looking for a serious relationship?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I am the guy who's taking care of our baby while you're out at bars meeting guys!",
+      "characters": [
+        "The Salesman",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "This is where I thought the barca lounger could go! You see you could see the TV and it's still walking distance to the kitchen.",
+      "characters": [
+        "Don",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey-hey, hold on, this isn't some kind of like girly dance. All right, it's like a sport, it's manly!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, can I get a 3-piece, some cole slaw, some beans, and a Coke-(Yelps in",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

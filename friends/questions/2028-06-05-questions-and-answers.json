@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1230,
+  "date": "2028-06-05",
+  "questions": [
+    {
+      "quote": "Well, basically, lately, I've uh, I've uh, sort of had feelings for you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, he's too shy, he doesn't thing he's good enough to dance with girls yet.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I mean it, this feels really good. Is it a hundred percent cotton?",
+      "characters": [
+        "Chandler",
+        "Charlie Wheeler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. He was more embarrassed about that than anyone. Okay? And for him to have the courage to walk back in here like nothing happened...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Danny"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I don't know, she's pretty tired, too, I think we've got her onboard.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "And for our two-week anniversary, he's gonna take me to his cousin's cabin for the weekend.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I did but she doesn't think anyone would be stupid enough to confuse Kenny the copy guy with Ralph Lauren.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! Seven rats! I think we should take them home, we need feed them.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler, you don't wanna miss this. This is the birth of your child! It's the miracle of life!",
+      "characters": [
+        "Mr. Treeger",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I mean, I knew they were having trouble with this whole thing, but they're my parents. They're supposed to give me away and everything.",
+      "characters": [
+        "Carol",
+        "Monica",
+        "David",
+        "Chandler"
+      ],
+      "correctAnswer": "Carol"
+    }
+  ]
+}

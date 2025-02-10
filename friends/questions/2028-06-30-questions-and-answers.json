@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1255,
+  "date": "2028-06-30",
+  "questions": [
+    {
+      "quote": "Okay, if you'll excuse me, I-I'm gonna go hang out with some people who don't know the Space Mountain story.",
+      "characters": [
+        "Chandler",
+        "Sandra Green",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Have you lost your mind? Chandler, this isn't about me! This is about you and all your weird relationship commitment crap!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Mona",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "she's a lucky, lucky lady! So, where are you going to-what the mother of crap is up with this stuff? Oh, God. Is it gum, is it food? What's the deal? Oh, it's nice! May I try a pink one?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "For I'm loved by a pretty wonderful boy! Hello! And welcome to the show. I see some of our regulars in the audience. And a couple of irregulars.",
+      "characters": [
+        "Rachel",
+        "Mr. Zelner",
+        "Ross",
+        "Helena"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "There we go.You know what, if we were in prison, you guys would be, like, my bitches.",
+      "characters": [
+        "Rachel",
+        "Stephen Waltham",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry, I was just reading the joke below it. Man, that one is funny.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, you're gonna come back with some very classy clothes... ... and some slutty lingerie, SLUTTY!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know what? I'm not gonna end up like this. I'll see you man.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Thank you so much for seeing us. Phoebe has told us such great things about you guys.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No! We're gonna do it my way. Because your way is stupid! Alright I gotta go, I have another call, Reverend. Hello?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

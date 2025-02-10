@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1098,
+  "date": "2028-01-25",
+  "questions": [
+    {
+      "quote": "Hey, y'know while we're on that, when are you gonna tell my sister that you don't live here anymore.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So you need someone who knows fashion, to tell you what looks good.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ohh, whoa God! Storage rooms give me the creeps! Monica, come on please hurry up honey! Please?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "The muscles from Brussels, wham bam Van Damme, did you see Time Cop?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Road trip! Yeah, we can rent a car! I just have to be there by Tuesday!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah-yeah, except Apollo 8 didn't actually land on the moon. But you-you-you could write that umm, your love lets me orbit the moon twice and return safely.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, eight of them. That's 56 to him. You know also, if, if it's raining, you can't let him look up too long 'cause that cone'll fill up really really fast.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I can't believe we are at a real college party! I have to pee so bad!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No! No. But ah, try the classifieds, people sell everything in there.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Laura",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "We're geniuses! Yeah, look at them, look at them, they're really bonding.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

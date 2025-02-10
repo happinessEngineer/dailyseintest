@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1183,
+  "date": "2028-04-19",
+  "questions": [
+    {
+      "quote": "All right, okay, look, what if you could keep the apartment and get the tickets?",
+      "characters": [
+        "Michael",
+        "Rachel",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. I just, I kept trying to make you a better person, but you're... you're already a pretty perfect version of what you are.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, that's right! Daddy and uncle Joey are going on a trip today. We're going to a conference in Barbados, right?",
+      "characters": [
+        "Cecilia",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know, y'know? I feel a little umm... No, y'know what? Nevermind, I'm gonna be fine.",
+      "characters": [
+        "Monica",
+        "The Interviewer",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm not gonna give you tips! Look don't you see that this-this...this all came together so that I could stop you from doing this.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "See, Rach, uh, see, I don't think that swearing off guys altogether is the answer. I really don't. I think that what you need is to develop a more sophisticated screening process.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, I...I am with child. And I didn't want to say anything because it's your day; I didn't want to steal your thunder.",
+      "characters": [
+        "Rachel",
+        "The Waiter",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know! Why don't you just explain? What do they want? Find out what they want!",
+      "characters": [
+        "Monica",
+        "Amy Green",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God, the cat's made my eyes water! Don't-don't throw it to me! My vision's been compromised!! Oh God! Okay. Okay. It's okay. Man, that was close.",
+      "characters": [
+        "Monica",
+        "Peter Becker",
+        "Janice",
+        "Dr. Ledbetter"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know I wanted to tell you yesterday, but I just, I kinda felt all floopy, and...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Phoebe Abbott",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    }
+  ]
+}

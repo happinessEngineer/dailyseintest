@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1437,
+  "date": "2028-12-29",
+  "questions": [
+    {
+      "quote": "It's a trip for two! Excuse me. Excuse me, is the person who won the Paris trip at this table?",
+      "characters": [
+        "Joey",
+        "Eddie Menuek",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Our FDA approval didn't come through. Something about laboratory rats.",
+      "characters": [
+        "Mr. Ratstatter",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Mr. Ratstatter"
+    },
+    {
+      "quote": "No, no \"How you doing?\" Man, I mean not even a cup of coffee first!",
+      "characters": [
+        "Dana Keystone",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Dana Keystone"
+    },
+    {
+      "quote": "So explain something to me here, uh, what kind of a relationship do you imagine us having if you already have a husband and a boyfriend?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Mindy Hunter",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, say you do that. You know sooner or later somebody's gonna come along that slices a better cheddar. And then where're you gonna run?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Gavin Mitchell",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what I think it is? It's the fishnet stockings. Y'know? Whenever I see a girl in fishnet stockings it reminds me of my father in fishnet stockings.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, a doctor of meat. Of course he's a real doctor. And he's handsome, and he's sweet, and know you'd like him.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Gunther",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, yeah. Y'know, now that you kicked the sign, hey! I don't miss Marcel any more!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh well, as long as it is under control, you know, you can't do anything about it, he's already dating her, and she is a nice person, that wouldn't be right.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Your just, your just clearly not familiar with our young persons vernacular. See, when we say dad, we mean buddy. We mean pal.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

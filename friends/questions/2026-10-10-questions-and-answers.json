@@ -1,0 +1,106 @@
+{
+  "gameNumber": 626,
+  "date": "2026-10-10",
+  "questions": [
+    {
+      "quote": "Okay! There's only one left, three letter word, not dog but...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Julie",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Umm, okay. But while you dial, let me show you the features of my new ringing handbag. Oh, it does work!",
+      "characters": [
+        "Chandler",
+        "Director",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Would you stop already? Get out of the bitter barn and play in the hay.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, let's see... uh... I know that she has a meeting with her lawyer and then she has to make a very big poop. Why?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "David"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You should be careful when checking your overhead bins, 'cause items may shift during...",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "All right, you're the boss. I guess I gotta do what you tell me.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, let's get some perspective people; it's not like I'm wearing a seeing-eye dog coat!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, it's okay, but if I'm Marge, my breasts are coming out my back.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I tried, but apparantly singing \"I will survive\" in a helium voice - not helping.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "The Salesman",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh actually, I sent the flowers before the actual date. So techincally, technically I didn't break any rules. Thanks for stopping by though.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

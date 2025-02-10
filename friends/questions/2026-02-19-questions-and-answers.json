@@ -1,0 +1,106 @@
+{
+  "gameNumber": 393,
+  "date": "2026-02-19",
+  "questions": [
+    {
+      "quote": "I can be a waitress. OK watch this. Um, gimme two number ones, 86 the bacon, one Adam and Eve on a raft and rick'em, la-la-la-la-la, la-la-la-la-la.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Judy Geller",
+        "Cecilia"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, it doesn't matter. Hey, y'know what, I've got two tickets to tonight's Rangers game, you wanna come with me?",
+      "characters": [
+        "Joey",
+        "Emily Waltham",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know, I just always pictured you ending up with one of those tall, smart blond guys, name like.... Hoyt.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What when Yeller saves saves the family from the wolf and everyone's happy?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Dr. Long",
+        "Rob"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Rach, it's, it's ah, it's not that we don't want to, really. Are we talking models in their underwear?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OK, OK, that is my favorite sweater, that is my third date sweater.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Erica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OK, I guess this is gonna seem kinda bittersweet now, but... Joey, that's who.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, if I had told you, then it wouldn't have been surprise, now would it?",
+      "characters": [
+        "Amy Green",
+        "Will Colbert",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Y'know what, I think we should play a game. I mean come on, it's been twelve years.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Did, did he just, did he, did he just say, he said bye. He said bye. You said, you said bye to me. You said bye to me.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Jack Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

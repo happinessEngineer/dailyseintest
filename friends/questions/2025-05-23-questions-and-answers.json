@@ -1,0 +1,106 @@
+{
+  "gameNumber": 121,
+  "date": "2025-05-23",
+  "questions": [
+    {
+      "quote": "Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of M*A*S*H and half the hostages coming home?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Stephen Waltham",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I think I feel ok about it. Actually I think I feel really good about it.",
+      "characters": [
+        "Monica",
+        "Doug",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, Joey! Oh, okay, see I didn't recognize you wearing, in those....pants.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, you get her in here. You bolt the door. I'll be in the closet.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, the place is not open 'till Tuesday. Am I not saying it right.",
+      "characters": [
+        "Mr. Treeger",
+        "Jack Geller",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "I asked myself that very question, sir. Uh, this is Monica. This is my boss, Doug. Doug this is Monica.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh well that's what I thought about my first husband, now I'm lucky if my kid gets to spend the weekend with her father and the twins and little Ms. New Boobs.",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Well, I'm here to see my old buddy Ben. What are you doing here, weird...turtle-man?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No-no-no, but I am mad! I am mad! Because this stuff is everything that is wrong with the world! And it's all sitting up in my living room and all I can think about is how I don't have that lamp!",
+      "characters": [
+        "Phoebe",
+        "Terry",
+        "Ross",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's really crazy! The hall, the dress, the food... I-I had no idea how expensive this stuff was!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

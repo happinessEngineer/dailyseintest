@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1327,
+  "date": "2028-09-10",
+  "questions": [
+    {
+      "quote": "Hey, I'm not that fond of you either, ok buddy? But I'm just trying to be nice for the kids!",
+      "characters": [
+        "Sandra Green",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well then here's the deal, you won't have to so long as never ever show your faces in this coffee house ever again.",
+      "characters": [
+        "Charlie Wheeler",
+        "Monica",
+        "Little Bully",
+        "Rachel"
+      ],
+      "correctAnswer": "Little Bully"
+    },
+    {
+      "quote": "No, I-I live with Phoebe. I mean you're alone, alone. And I just-it's just not the time for us. I'm sorry.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ah, the \"I'm sorry I rejected you\" phone call. I'm not used to getting it from guys. Hey, Steve.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "The Waiter"
+      ],
+      "correctAnswer": "The Waiter"
+    },
+    {
+      "quote": "Well I don't know remember exactly but, it's-it's pretty much about having and giving and sharing and receiving.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'guys ever heard the story about when Rosses mom went to the beauty salon?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Not a lot of closet space, but he can just hang his stuff out the window in a bag!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What's wrong? What's wrong? You're married that's what's wrong.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Woman",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Um, I straightened out your shower curtain so you won't get mildew. What? To me that's nice.",
+      "characters": [
+        "Monica",
+        "Elizabeth Stevens",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 11,
+  "date": "2025-02-02",
+  "questions": [
+    {
+      "quote": "Ross! Come on! That's all right! Fine--Okay, I have a weird thing about my eye. Can we not talk about it please?",
+      "characters": [
+        "Kim",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know! It's not like it's porn! This is a serious, legitimate movie. Y'know? And the nudity is really important to the story.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hold it! Are you talking about Dick Clark's New Year's Rocking Eve?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ah, must've been fairly obvious since it was the only thing left in your store.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know what I'm going to do? I'm going to get in my sweats, and eat this in bed!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Doug"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What, so he was a little analytical. That's what he does, y'know? C'mon, he's not that bad.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No honey, we're sorry, we didn't mean it. I love you. I love you.",
+      "characters": [
+        "Woman",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, y'know that you could just not throw the sticks up in the air.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Charlie Wheeler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because I am bored...Out of my mind. I've already been to the bank, post office, and the dry cleaners.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, we were just laughing. You know, how laughter can be infectious.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

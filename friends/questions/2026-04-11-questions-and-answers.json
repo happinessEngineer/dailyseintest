@@ -1,0 +1,106 @@
+{
+  "gameNumber": 444,
+  "date": "2026-04-11",
+  "questions": [
+    {
+      "quote": "I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, and then you take the poopie diaper and you put it in the poopie diaper pail.",
+      "characters": [
+        "Ross",
+        "The Director",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow, look at that. The car is on fire, yet somehow it's expensive paint job is protected by the Miracle Wax.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, the ring fell on the floor and I went down to pick it up and you thought I was proposing.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So based on your petition you are seeking an annulment on the grounds that Mr. Geller is mentally unstable.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Judge"
+      ],
+      "correctAnswer": "Judge"
+    },
+    {
+      "quote": "I don't know, I told her it was stupid to put off the wedding just because the hall was gone and she liked flipped out.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Larry",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! I was thinking about maybe going upstairs and taking a little nap on my couch.",
+      "characters": [
+        "Ross",
+        "Minister",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "We're just two people who find each other very attractive. Right?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Carol"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You can't have S-E-X, when you're taking care of the B-A-B-I-E!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Timothy Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I have no idea. Did you know Richard has a twinkie in the city?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    }
+  ]
+}

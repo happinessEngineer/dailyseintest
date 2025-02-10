@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1192,
+  "date": "2028-04-28",
+  "questions": [
+    {
+      "quote": "You know what? This is a bad idea. Forget it. Forget it, and listen, do me a favor, this conversation was between you and me.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Sure you do, it was a gift from me. Oh! And you have these three great kids.",
+      "characters": [
+        "Janice",
+        "Rachel",
+        "Joey",
+        "Laura"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't think of anything we're doing. Why can't I think of anything we're doing?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Erica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know, what's a koondis with you? Please, lie down! I've got a sav that oughta shrink that right up.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Guru Saj"
+      ],
+      "correctAnswer": "Guru Saj"
+    },
+    {
+      "quote": "Yeah, yeah, he talked to her, but she got on the plane anyway.",
+      "characters": [
+        "Chandler",
+        "Eric",
+        "The Stripper",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Excuse me! Can you tell me where I can find Earl? He's the supply manager around here.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, he visited a little town south of throw up. So what was Phoebe's secret?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh I know, isn't it? Ooh... what'd you do to get her to laugh?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, if that were true, I'd dating my Aunt Ruth. And the two times we went out were just plain awkward. Come on, you think she should go out with me, don't you?",
+      "characters": [
+        "Peter Becker",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Peter Becker"
+    }
+  ]
+}

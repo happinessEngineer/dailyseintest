@@ -1,0 +1,106 @@
+{
+  "gameNumber": 388,
+  "date": "2026-02-14",
+  "questions": [
+    {
+      "quote": "Two. This photographer, who seemed really dull. And this actor guy, who I'm not sure about, because when he called and I answered the phone 'Chandler Bing,' he said 'Whoa-whoa, short message.'",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, she's that work of art I made, you know, with the woman coming out of the frame.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Susan Bunch",
+        "Joey"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "Okay. I did divert her and we ended up having a great time! Okay?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I never know how long you're supposed to wait in this type of a situation before you can talk again, you know? Maybe a little longer.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hello, this is Chandler Bing. Somebody just dropped off a handwritten recommendation letter, and.. Uh-huh... Uh-huh... okay... thank you. Good-bye. .",
+      "characters": [
+        "Rachel",
+        "Janice",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! Oh! Oh my God! Ohhh, ohhh, wow, that ear and nose hair trimmer I got him was just money down the drain, huh?",
+      "characters": [
+        "Rachel",
+        "Ronni Rapalono",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It wasn't on your list, but hopefully you'll think it's really fun.",
+      "characters": [
+        "Monica",
+        "Tag Jones",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Oh. Y'know, that night meant a lot to me too, and it wasn't because I was in a bad place or anything, it just meant a lot to me 'cause, you're really hot! Is that okay?",
+      "characters": [
+        "Chandler",
+        "Richard Burke",
+        "Joey",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I brought something that I want to give you, assuming of course that you want it.",
+      "characters": [
+        "Judy Geller",
+        "Rachel",
+        "Eddie Menuek",
+        "Chandler"
+      ],
+      "correctAnswer": "Judy Geller"
+    }
+  ]
+}

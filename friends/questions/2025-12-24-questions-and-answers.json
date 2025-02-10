@@ -1,0 +1,106 @@
+{
+  "gameNumber": 336,
+  "date": "2025-12-24",
+  "questions": [
+    {
+      "quote": "She says as time goes on, he's gonna start getting agressive and violent.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's wrong. They made a mistake. They think we're somebody else.",
+      "characters": [
+        "Mona",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, hi, Mrs. Waltham. I need to speak with ether one of the best men, or Ross's sister Monica.",
+      "characters": [
+        "Joey",
+        "Frank Buffay Sr.",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now if you want to receive e-mails about my upcoming shows, then please give me money so I can buy a computer.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, she's totally good looking. I mean, if I met her in a bar, or something, I'd be buying her breakfast. You know, after having slept with her.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well anyway, the guy they wanted backed out and now they want me! I start shooting today!",
+      "characters": [
+        "Benjamin Hobart",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I-I-I don't care if I said some other girl's name you prissy, old twit!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "The Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sweetie, this conversation is starting to make me a little uncomfortable.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, but if you're willing to cook naked, then you might be willing to dance naked. And then...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Dina",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, please, Monica. You've always hated my lamp, and then, all of a sudden, it's just magically broken?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Will Colbert",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

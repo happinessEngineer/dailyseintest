@@ -1,0 +1,106 @@
+{
+  "gameNumber": 123,
+  "date": "2025-05-25",
+  "questions": [
+    {
+      "quote": "I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Lauren"
+      ],
+      "correctAnswer": "Lauren"
+    },
+    {
+      "quote": "Check this out? Huh? Yeah. That's the stuff. What do you think?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's true! This message could becoming to you from beyond the grave, Emma!",
+      "characters": [
+        "Joey",
+        "Jack Geller",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Hey now besides, if worst comes to worst, I'll be your boyfriend.",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, based on what I heard, you two certainly don't qualify for an annulment. If you two don't want to be together you'll have to file for divorce.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Judge",
+        "Phoebe"
+      ],
+      "correctAnswer": "Judge"
+    },
+    {
+      "quote": "It doesn't matter! It's my principles! We're talking about my principles!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh... ok, fine. But... ehm... I just have one question for you, ehm... When we exit should we walk, or run, or prance, or stroll...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Amy Green"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That-that is your make out buddy. Don't you recognize him? Oh wait. Ohh, Phoebe I love you. Kiss me please.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Why can't we just have what we have now? Why can't we just talk, and laugh, and make love, without feeling obligated to one another... and up until tonight I thought that's what you wanted too.",
+      "characters": [
+        "Aurora",
+        "Mackenzie",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Aurora"
+    }
+  ]
+}

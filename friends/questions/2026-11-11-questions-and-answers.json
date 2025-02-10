@@ -1,0 +1,106 @@
+{
+  "gameNumber": 658,
+  "date": "2026-11-11",
+  "questions": [
+    {
+      "quote": "Hey, honey! Okay, so did you find any apartments? Anything in Brooklyn Heights?",
+      "characters": [
+        "Gary",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Yeah I know it's really boring, but it's like a big deal. Anyway, I was thinking about renting Cujo sometime.",
+      "characters": [
+        "Rachel",
+        "Kate Miller",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, I want to change. And why-why don't you go down and get us a table?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, it's not. I mean you-you made me your best man and I totally let you down!",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Nice work everybody! So much for the y'know, \"You can drive it, but don't tell Rachel\" plan!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This is Vegas man! People will pay to see freaky stuff! Okay, how much would you pay to see this hand twice? Huh?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Do you really not know where I'm going with this? It left! It's one huge room!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rachel, you have life growing inside you. Is there anything in this world more miraculous than-Oh a picture of a dog! Whose is this?",
+      "characters": [
+        "Joey",
+        "Parker",
+        "Susie Moss",
+        "Chandler"
+      ],
+      "correctAnswer": "Parker"
+    },
+    {
+      "quote": "Well, nobody wants a ghost. But you've got one, because the house is sitting on an ancient Indian burial ground.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Gunther",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What? No! No! I am not gonna hide it from Phoebe-Ooh, although I did get some great Pottery Barn sheets!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 761,
+  "date": "2027-02-22",
+  "questions": [
+    {
+      "quote": "Hey! Look, if it didn't work it's because you didn't tell it right! Show me how you did it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay. All right. You look me in the eye and tell me, without blinking, that you're not breaking up with her. No blinking.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yep! Looks like it's gonna be a leeeeean Christmas at the Dragon house this year.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I just, I wanted to thank you for our uh, our little talk before.",
+      "characters": [
+        "Ross",
+        "Mr. Treeger",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, well Ross didn't care enough to be here, so I think he's out. You snooze you lose.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So listen, you know my friend Chris who owns the crematorium?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Woah, woah, woah australopithicus isn't supposed to be in that display. No. No. No, n, homo-habilus was erect, australopithicus was never fully erect.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Tag Jones",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, I don't! Ross, I think I'm just a more secure person than you are.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, I-I'm sorry. I'm sorry. You see Rach I'm an actor...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I mean we're gonna have to move around some furniture to make room for my chair.",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

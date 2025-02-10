@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1263,
+  "date": "2028-07-08",
+  "questions": [
+    {
+      "quote": "I think so. Se, he-he's not inviting you to his party because he likes you.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Nora Tyler Bing",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohhh! Let me see! Oh God, I can't believe this! They're an hour late and they're just staying out there, talking!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, do you believe this? Do you believe they are actually getting married?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That is exactly why I do not lend you stuff!! Okay?! I mean, first it's my jewelry! And if it's not my jewelry, it's-it's my blue sweater! And if it's not my sweater, it's my sunglasses!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Peter Becker",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "well it was awful every time I thought about what you said I started crying.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I got it. So hi, I'm uh, I'm Ross and this is my friend Chandler.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That sounds like another word to me! Are you gonna take this seriously? Okay.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh hey, thanks again for showing me your semi-precious stone collection. It was amazing!",
+      "characters": [
+        "Mona",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "Um, I'm gonna have a cup of the cucumber soup, and, um, take care.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. Nope, I uh...I th-I thought it might be kind of a cool character thing. Y'know? He's uh, he's a face toucher.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Dr. Ledbetter"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

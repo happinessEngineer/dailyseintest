@@ -1,0 +1,106 @@
+{
+  "gameNumber": 661,
+  "date": "2026-11-14",
+  "questions": [
+    {
+      "quote": "All right, all right, we'll just do our best. Okay? So let's say I'm the interviewer and I'm meeting you for the first time. Okay. \"Hi! Come on in, I'm uh, Regina Philange.\"",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "These'll go great in my new place. You know, 'till I get real ones.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I know. chandler: Now we can finally watch Green Acres the way it was meant to be seen.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Alice Knight",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know what, it doesn't matter, 'cause she picked me. Me! From now on I get the dates and you have to stay home on Saturday nights watching Ready, Set, Cook!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Gunther"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, then you do know it. So um what kind of things do you write about?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "David",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. You know you probably didn't know this, but back in high school, I had a, um, major crush on you.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Gavin Mitchell",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I am feeling nothing. Speaking of hot, watching you do that really makes me want to have sex with you.",
+      "characters": [
+        "Kim",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, you've got a little scratch on your cornea, your gonna have to wear a patch for a couple of days.",
+      "characters": [
+        "Timothy Burke",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Timothy Burke"
+    },
+    {
+      "quote": "Okay sweetie, you can do it. Just open up and put it in your mouth.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Amy Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Aww, man, he took the five of spades!! Oh, no-no-no, here it is!",
+      "characters": [
+        "Eric",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

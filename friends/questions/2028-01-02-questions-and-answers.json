@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1075,
+  "date": "2028-01-02",
+  "questions": [
+    {
+      "quote": "Hey, hang up! You get food poisoning just talkin' to that place.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uhm, well... I'm here to see if you'll give Rachel her job back.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Amy Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "This doesn't have anything to do with the fact that he is being raised by two women, does it?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "He said, \"Nice to meet you Glenda.\" Well, obviously I couldn't give him my real name?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Not as upset as he's gonna be when he finds out what I did with his sweater vests!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Woman"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "This coming from the man who couldn't split our 80 dollar phone bill in half.",
+      "characters": [
+        "Monica",
+        "Carol",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uhh, naa, no no no, I, I must be thinking of someone else, uh, maybe me. Don't you have some folding to do? Go fold dear. Fold. You fold.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, wait wait wait wait a minute wait a minute, I mean Rach, I mean if if... . If Hugsy means that much to Emma then... well she can have him.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, okay. Alright, let's give to these babies something to cry about!",
+      "characters": [
+        "Rachel",
+        "Hillary",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! Wait a minute, it's been a long time that I've been single. How come you never offered this before?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

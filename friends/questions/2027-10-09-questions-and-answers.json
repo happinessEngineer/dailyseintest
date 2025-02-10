@@ -1,0 +1,106 @@
+{
+  "gameNumber": 990,
+  "date": "2027-10-09",
+  "questions": [
+    {
+      "quote": "Hi uh, I'm Joey Tribbiani and with all do respect I'd like to donate some fluids.",
+      "characters": [
+        "Cecilia",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Not unless someone borrowed it and left it at the gynecologist.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Don't you have a little too much penis to be wearing a dress like that?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Nora Tyler Bing"
+    },
+    {
+      "quote": "Well, I'm miserable here! I might as well make some money out it!",
+      "characters": [
+        "Rachel",
+        "Ticket Agent",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. All right, I see what he's doing! He's not asking me out, because he wants me to ask him out.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yay-oh-yay! Okay, I gotta go tell Frank and Alice! Right now!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play Bad, Bad Leroy Brown!!",
+      "characters": [
+        "Elizabeth Stevens",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well the package says you have to uh, constantly keep it moving. Stir and drink, stir and drink, never let it settle.",
+      "characters": [
+        "Ross",
+        "Jill Green",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what? I'm gonna make this up to you. I promised you a stripper , and you're gonna get a stripper.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

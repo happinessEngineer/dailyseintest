@@ -1,0 +1,106 @@
+{
+  "gameNumber": 354,
+  "date": "2026-01-11",
+  "questions": [
+    {
+      "quote": "I told you it wasn't long, but there is an amazing connection between us.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. \"It's a typical New York City apartment. Two guys are hanging out.\" Ross",
+      "characters": [
+        "Phoebe",
+        "Russ",
+        "Sandra Green",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And y'know what, I just realised, in the last year I've only gone out with two guys, Richard and Julio. You gotta help me out here, you gotta set me up, you gotta get me back in the game.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "The Salesman",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. Okay. I-Okay umm...this...I-I sent my friend Joey in here to find out stuff about you. Umm y'know, if it helps you came off great. A lot better than I'm coming off right now.",
+      "characters": [
+        "Chloe",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No-no, that's not, that's not me Phoebe, that's her pal Phoebe. According to her high school yearbook, they were like B.F.F. Best Friends Forever.",
+      "characters": [
+        "Rachel",
+        "Jill Green",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey-hey, it's valid okay? And I'm not the only one who thinks so, Monica agrees with me.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. And y'know who should've shut their drapes? Is that perverted old couple two doors over.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right! Okay, it's just Phoebe. Will's still on a diet, Chandler doesn't eat Thanksgiving food, and Rachel's having her aversion to poultry.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Mark Robinson",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey-hey, you guys oh hurry up, get some, there's a whole cart outside...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's called the Bapstein-King comet, okay? Hey! Hey! Bapstein was a very well respected astronomer!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

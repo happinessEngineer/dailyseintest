@@ -1,0 +1,106 @@
+{
+  "gameNumber": 414,
+  "date": "2026-03-12",
+  "questions": [
+    {
+      "quote": "I am so much older than these other interns. I can't compete with them.",
+      "characters": [
+        "Trudie Styler",
+        "Phoebe",
+        "Amy Green",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, Richard. That's all I ever hear, Richard, Richard, Richard!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well maybe you don't talk about your feelings back then. Maybe you just say something about y'know all the things that he's taught you. Like... Or all the things you taught him.",
+      "characters": [
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Earl",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, you're welcome. And tell them we're really glad they're coming.",
+      "characters": [
+        "Ross",
+        "Kate Miller",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross! That's Mark. From Bloomingdales? You were insanely jealous of him.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, hey, at least you're getting a proper wedding. I mean, you really deserve that.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Right. Look, I know I'm a little bit older than you guys, but it's not like I'm Bob Hope.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I know, but Ihe just went on. He's right there, he's got the blue jacket on, I... can I j-just...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know what, we're gonna have sex. Let's just leave it there.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Agency Guy",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! No, no... wait! We didn't lose. The rules clearly stated that the last one to cross the finish line was the loser. Well, our dog never crossed the finish line, so technically...",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

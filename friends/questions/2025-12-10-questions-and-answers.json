@@ -1,0 +1,106 @@
+{
+  "gameNumber": 322,
+  "date": "2025-12-10",
+  "questions": [
+    {
+      "quote": "No, no, you can get one yourself. It'll be on the house! Y'know what are big sisters for?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, ever since you uh, told me that story about that bike I-I couldn't stop thinking about it. I mean, everyone should have a-a first bike, so...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, but if it's any consolation, before the bird dropped it, he seemed to enjoy it.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, so now that Ross knows can you tell us y'know how it happened? I mean, when did it happen? How many times did it happen?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, you should really read that book you wrote. Wow! You saw the hat in the kitchen and knew that she'd have to go in there hatless to get it. You can have your own health inspector detective show!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What? What? You guys, what is going on? You not like Robert? Why are you laughing?!",
+      "characters": [
+        "Chandler",
+        "Peter Becker",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh, Pheebs we kinda need you to drive us all up there in your grandmother's cab, but y'know what, I'll stay.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. Uh, uh we promised we weren't gonna tell anybody this but uh, about a month ago Rachel and I slept together.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "But the minute we start to lie to each other... And by 'we' I mean society.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "My guy is a lawyer who has volunteer work. And, he has one of these",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

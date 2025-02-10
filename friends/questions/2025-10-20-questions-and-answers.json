@@ -1,0 +1,106 @@
+{
+  "gameNumber": 271,
+  "date": "2025-10-20",
+  "questions": [
+    {
+      "quote": "Alright! Don't get too comfortable there, because I'm back in two weeks! And I want everything back to the way it was. I can't say that I care too much for the way you've rearranged my office.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "man sharks. I always knew there was something weird about that dude. But you promised to love him no matter what.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Monica, you might want to remember that you are married. Where is Chandler anyway?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "She's smart and funny, y'know? We were up all last night talking, she said the funniest thing about--what?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey-hey-hey-ho-ho, I got this one. Here you go. Y'know I gotta tell ya, sometimes I just-I don't get Chandler. Y'know, me and him do stuff all the time without you and you don't get all upset.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Amy Green",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So you understand, I'd feel a lot more comfortable if you didn't tell people what happened. Y'know, I'm a little...I'm a little embarrassed about it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Teacher"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Amy Welch? Wow! I haven't seen her since... So, Monica about ready?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Cop",
+        "Chip Matthews"
+      ],
+      "correctAnswer": "Chip Matthews"
+    },
+    {
+      "quote": "Look it's not that bad. So what, it blocks a little of your door, a little of my door.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Man, I remember the first time I saw that girl Katherine, after we broke up. She was just walking with her friend Donna, just laughing and talking. God, it killed me.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So you work at Bloomingdale's, huh? My mom calls it Bloomies.",
+      "characters": [
+        "Tom",
+        "Monica",
+        "Joanna",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Tom"
+    }
+  ]
+}

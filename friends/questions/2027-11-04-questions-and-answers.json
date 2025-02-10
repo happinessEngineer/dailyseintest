@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1016,
+  "date": "2027-11-04",
+  "questions": [
+    {
+      "quote": "Look, I know that I should've told them. I know I shouldn't care what they think. I'm sorry.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "If they can't find a home for her, they kill her! And I'm not gonna let that happen to little Yasmine!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This is where Ross and I are meeting for our date. So, what do you think?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Jill Green"
+      ],
+      "correctAnswer": "Jill Green"
+    },
+    {
+      "quote": "Look at these videos. You know, I mean, who does he think he is? Magnum Force, Dirty Harry, Cool Hand Luke... Oh my God!",
+      "characters": [
+        "Ross",
+        "Nurse",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So tell me, how do- how do you think your husband would feel about you sitting here with me?...Sliding your foot so far up my pant leg you can count the change in my pocket?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Do you believe that there is one perfect person for everyone?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "No they ran out of \"It's a girl\" but I can fix this one, See?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "When I got pregnant with the triplets, I took that test like three times just to make sure.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Or you could teach stripping. You know, share your gift, pass the torch.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, all right maybe-maybe you should just ask her to leave.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 97,
+  "date": "2025-04-29",
+  "questions": [
+    {
+      "quote": "Really, Rachel, I was thinking of you the whole time. Look, I'm sorry, all right. I never meant for you to find out!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "If you clear things up with Rachel then Ross never needs to find out, but you have to do it now before he hears about it and kicks your ass!",
+      "characters": [
+        "Ross",
+        "Benjamin Hobart",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what, 100 million people went to see a movie about what I do, I wonder how many people would go see a movie called, Jurassic Parka.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, it's not a check. They're saying your health insurance expired because, you didn't work enough last year.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes there are! There are totally good deeds that are selfless.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I think I just shipped 3,000 bras to personnel. Oh honey, I gotta go. Mark, I need you!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hi! Look! I got our pictures developed from Rockefeller Center.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Mona"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "Well it's somewhere in between. You see, in a strictly technical sense, of course, I'm not uh..., well I, I mean I haven't ever uh...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Mr. Treeger",
+        "Ethan"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "Yeah... Yeah, we can wait, we don't have to do anything tonight.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Nooooo!!! Y'know what? Now that I think about it, I constantly find myself without twenties and you always have lots!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

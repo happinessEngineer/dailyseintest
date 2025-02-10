@@ -1,0 +1,106 @@
+{
+  "gameNumber": 559,
+  "date": "2026-08-04",
+  "questions": [
+    {
+      "quote": "Yeah! It's an apothecary table. Does anyone even know what an apothecary is?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I had a dream last night where I was playing football with my kid.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah-ah-ah Mr. Smartie Pants, it's just not my character that's not brain dead. Hey, so Pheebs, we still on for tonight?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Thanks, but I gotta go to work and get my eyes scratched out by Mindy.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Trudie Styler",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! Joey please! Please don't! Please don't leave like this! Now come on, you cannot do this to a pregnant woman!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Sandy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You don't have to be awake to be my man, As long as you have brainwaves I'll be there to hold your hand. Though we just met the other day, There's something I have got to say...",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You can't say that!! You-you don't know!! I mean I thought I was gonna pass out from the pain! Anyway I-I tried, but I-I couldn't...bend that way. So...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I mean you're not gonna give me a-a ticket for driving too slow are ya?",
+      "characters": [
+        "Tag Jones",
+        "Ross",
+        "Chandler",
+        "Russell"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Cut! That was good. That was very good. You did everything I asked for.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Mona",
+        "Lennart"
+      ],
+      "correctAnswer": "Lennart"
+    },
+    {
+      "quote": "Look, you guys, you guys should go. No, I'm, you, you planned this all out, and I don't want to ruin it, so you guys should just go.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

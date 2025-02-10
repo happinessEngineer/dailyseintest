@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1055,
+  "date": "2027-12-13",
+  "questions": [
+    {
+      "quote": "Yes, but y'know what? It doesn't matter who knows what. Now, enough of us know that we can just tell them that we know! Then all the lying and the secrets would finally be over!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh hey! Hey uh, you remember the necklace I gave you last year? Can I see it?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Leonard Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I got tenure. I didn't win the lottery... Hey Rach, so uh... how did your thing go?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, so what is she, like a... like a spokesmodel, or an aerobics instructor, what?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You didn't want to share your tomatoes, tomatoes are very important to you.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I am good. Okay! Okay! Uh, I got the pillow! I got the bag! You got the keys?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You would be too if you found John and David boots on sale, fifty percent off!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Bye! Ten bucks says, I never see that woman again in my life.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Could you guys please try to keep it down, we're trying to start a Boggle tournament.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait a second, I see what you're trying to do here! You-you're trying to give me money again!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

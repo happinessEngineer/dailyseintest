@@ -1,0 +1,106 @@
+{
+  "gameNumber": 295,
+  "date": "2025-11-13",
+  "questions": [
+    {
+      "quote": "Yes, I know! And Joey knows! But Ross doesn't know so you have to stop screaming!!",
+      "characters": [
+        "Joey",
+        "Issac",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, uhm, okay, uhm, do you mind if we ask you some questions about the father?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. Rachel hooked me up with a tux! But not just any tux, Batman's tux!",
+      "characters": [
+        "Lennart",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, we're gonna paint over the sword, and replace it with a baguette.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay but look! Look at what I got! It's her address book! We have a guest list!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ahh-oy! That was the underwear I was wearing that night in London. Right Monica?",
+      "characters": [
+        "Trudie Styler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I think this is so cool because none of our friends are here and we can be a real couple. We don't have to hide.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, see when you're acting you need to think about stuff like that. My character, Joseph the processor guy, has two little girls, Ashley and Brittany. Ashley copies everything Brittany does.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. You have got it completely wrong. John Savage was deerhunter, no legs, John Voit was coming home, couldn't feel his legs.",
+      "characters": [
+        "Richard Burke",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "It came in the mail today, it's uh, 72 long-stemmed red roses, one for each day that I've known and loved Emily, cut up into mulch!",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Susie Moss",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

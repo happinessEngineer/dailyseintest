@@ -1,0 +1,106 @@
+{
+  "gameNumber": 182,
+  "date": "2025-07-23",
+  "questions": [
+    {
+      "quote": "No! No... and, for the record, I've also never given her a frosting from a can!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh-oh. I hade a pretty hectic day at work too, today I had to open a door and go ohhhh!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ross I'm so sorry. Okay. I-I will promise I will straighten this out with him tomorrow in person, or via e-mail.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So, according to your bio, you've done quite a bit of work before Days of Our Lives. Anything you're particularly proud of?",
+      "characters": [
+        "Ross",
+        "Peter Becker",
+        "Assistant",
+        "The Interviewer"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "She's upstairs. Monica! Come down! Everyone's here! Ross, Rachel, and the boy who hates Thanksgiving.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Okay, okay. Enough, enough with the lunging. No! I'm sick of this. Okay. I've had it up to here with you two! Neither you can come to the party!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, I can be pretty charming, babe, I won YOU over, didn't I?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay so you mean no as in, \"Gee Chandler, what an interesting idea. Let's discuss it before we reject it completely.\"",
+      "characters": [
+        "Janice",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm a little bit uncomfortable with the that way you express yourself.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I promise. Hey, speaking of together, how about we send out a holiday card this year?",
+      "characters": [
+        "Mr. Treeger",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

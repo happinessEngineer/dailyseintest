@@ -1,0 +1,106 @@
+{
+  "gameNumber": 545,
+  "date": "2026-07-21",
+  "questions": [
+    {
+      "quote": "I'm his sister, okay? I love him! I don't want to see him get hurt! Come on! Doesn't that give me the right to control him-help him?",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I didn't get embarrassed running next to Miss . But no, okay. No, no, I can see why running with me would be embarrassing to you. Yeah, okay. You're uptight.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sorry! Sorry, I'm late; sorry, I'm late! My duck and my chick and a fight, it-it was ugly.",
+      "characters": [
+        "Mr. Ratstatter",
+        "Ross",
+        "Carol",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! It really has been great too, you know, some of this people must have seen me play before because they were requesting a bunch of my songs! Yeah, \"You suck\" and \"shut up and go home\".",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, Ross, I feel really bad. I mean, you're going through all this stuff and I just acted like a jerk.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Paul the Wine Guy",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh God! Alright, fine. You know what Joey, forget it. When we go back to New York, I will tell him.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I don't know, they seem to have a shared interest in each other's tonsils...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look Ross, the only question you need to ask is, \"Do you see a future?\" I mean like do you see yourself marrying her? Oh my God! You did it already! You married her, didn't you?!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, okay, okay, I got one! Anyway- The valentine Tommy Rollerson left in your locker was really from me.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, y'know I-I-I think I'm gonna respect the privacy of my new secret boyfriend.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

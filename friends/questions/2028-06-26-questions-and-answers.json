@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1251,
+  "date": "2028-06-26",
+  "questions": [
+    {
+      "quote": "Alright, enough, enough, come on. Let's just all go in at the same time.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Please, c'mon, you're the smartest person I know and I really like this girl, ok, I don't wanna lose her.",
+      "characters": [
+        "Carol",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Or we could use it to call China. See how those guys are doing.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen.",
+      "characters": [
+        "Cop",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Cop"
+    },
+    {
+      "quote": "Yeah, it's a real shame you can't make it to that one-woman show tonight.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey Mon, what are you doing now? Wanna come see a movie with us?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, here's an idea. Why don't uh, I put the food in the fridge and we can eat it later?",
+      "characters": [
+        "Joshua Burgin",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Oh, well, don't tell me you want to keep more of your stuff in my uterus.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait a minute. That sounds a little familiar! Did they already do that one? 'Cause I think I read it!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay. It's okay. We're gonna be okay. Y'know what? It's okay. I'm gonna, I'm gonna, I'm gonna boil some water and just rip up some sheets!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Woman"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

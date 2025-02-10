@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1582,
+  "date": "2029-05-23",
+  "questions": [
+    {
+      "quote": "I'm gonna go into the bathroom so I can look at it in the mirror, as I eat it.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, does a good student drink seven beers during his first lesson?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sven I don't understand what you're saying! What is wrong with the flowers? Lorkins? What the hell are lorkins?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm telling you, she said she's looking for a relationship with someone exactly like me.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "People ask me why we're not together, I just don't know what to tell them.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Luisa Gianetti",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay! Okay-okay look-no I did, I just wanted this stuff and I know how you feel about Pottery Barn. Just... Come on don't be mad.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Lennart"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Irrational, huh? All right, well, I'll remember that the next time you freak out about a spider in your apartment!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What, what, so that you can dance with the woman that stole your credit card?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I just like him so much that I just feel like I've had 10 drinks today and I've only had six.",
+      "characters": [
+        "Sandra Green",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh I'm, I'm making this too hard. Okay, what do you want me to do.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1035,
+  "date": "2027-11-23",
+  "questions": [
+    {
+      "quote": "Oh my God! What if he thinks I'm the kind of girl that-that would just sleep with him?",
+      "characters": [
+        "Monica",
+        "Jade",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hi! I'm sorry, I know it's after hours but I really need candy.",
+      "characters": [
+        "Tag Jones",
+        "The Woman",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "The Woman"
+    },
+    {
+      "quote": "Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!",
+      "characters": [
+        "Jill Green",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, thanks. Yeah, I really thought we'd be able to make it work, but uh, I guess it just wasn't meant to be.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'D Better Go. Just Over Here I don't want to miss the fight.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Listen. Um, listen. Something you should... know... um, Rachel and I... we're kind of a thing.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Susan Bunch",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know what's crazy? These jars. What is it, like two bites in here?",
+      "characters": [
+        "David",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't believe you really walk alone here! I mean, you hear such stories about New York.",
+      "characters": [
+        "Rachel",
+        "Vince",
+        "Chandler",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Umm...that kiss before we left the apartment. That was some-something huh?",
+      "characters": [
+        "Jack Geller",
+        "Judy Geller",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey-hey, check it out! Check it out! Ugly Naked Guy has a naked friend!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

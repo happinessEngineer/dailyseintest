@@ -1,0 +1,106 @@
+{
+  "gameNumber": 799,
+  "date": "2027-04-01",
+  "questions": [
+    {
+      "quote": "Phoebe? I'm sorry about the whole lifting out thing. You gotta come with me!",
+      "characters": [
+        "Dr. Ledbetter",
+        "Rachel",
+        "Phoebe",
+        "Mr. Ratstatter"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Emily Waltham",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Y'know why? She's got the Christmas bonus list in there. I saw her working on it this morning.",
+      "characters": [
+        "Sophie",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "I'm just glad I brought that extra pair of socks, y'know? I used them as mittens, I didn't want to touch a thing in that last place.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I-I better get to class Are there any more of your friends I should look out for on my way, Phoebe?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's a girl! Anyway, it wou-it wouldn't matter. Okay? Because I'm a teacher and she's a student.",
+      "characters": [
+        "Ross",
+        "Judy Geller",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "\"Oh my God, I can't find a boyfriend! So I guess I'll just stumble across the hall and sleep with the first guy I find in there!\"",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, yeah, they must have jumped off the table, 'cause now they're gone!",
+      "characters": [
+        "Rachel",
+        "Joshua Burgin",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, why shouldn't I be? I have great friends! I have a wonderful job!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Richard Burke",
+        "Roger"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This isn't a good deed, you just wanted to get on TV! This is totally selfish.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

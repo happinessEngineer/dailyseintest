@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1093,
+  "date": "2028-01-20",
+  "questions": [
+    {
+      "quote": "I know what you need, you need a bodyguard. Hey Ross, what is Ben doing after preschool?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, she was shocked when I told her, but then again so were most people.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, so it's just because it was my table, I have to buy a new one?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh no, I have to go in a few hours. I have to be on the red-eye. Well listen, y'know, next time you're in Minsk umm...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Jill Green",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Isn't it? Then what about the amazing wainscotting and the crown molding and the dormer windows in the attic?",
+      "characters": [
+        "Monica",
+        "Barry Farber",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "She's totally right! When we were together, you got all freaked out about Mark and there was nothing going on.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Thanks. Yeah, I figure if I wear these in my scenes at least I won't get spit in the eyes, y'know?",
+      "characters": [
+        "Rachel",
+        "Judy Geller",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Because it would totally freak him out and tomorrow's our anniversary. I just don't want anything to spoil that.",
+      "characters": [
+        "The Doctor",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Plus I thought the baby would be in good hands with a doctor!",
+      "characters": [
+        "Chandler",
+        "Sandra Green",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, well he did not get sick somewhere in there and it was immediately found and properly cleaned up!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

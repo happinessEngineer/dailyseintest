@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1293,
+  "date": "2028-08-07",
+  "questions": [
+    {
+      "quote": "Ohh, big smoker. Big big smoker. In fact I'm gonna go ou into the hallway and fire up this bad boy.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She is gonna recognize that I did a nice thing and-and, appreciate it.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Gunther! Gunther. Gunther, please tell me you didn't say anything to Rachel about me and the girl from the Xerox place.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Ticket Agent"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Absolutely! Y'know, because touchie can mean both ass and good worker.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, can I talk to you about this groomsman thing? If you pick Ross, he'll walk you down the isle just fine. But if you choose me, you'll be getting some comedy!",
+      "characters": [
+        "Rachel",
+        "Kathy",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, can we help?! You want us to take you back to the house?!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Mr. Heckles"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ah, the heart of every healthy relationship. Honesty, respect, and sex with celebrities.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, safer. Y'know, I mean I never start reading The Shining, without making sure we've got plenty of room in the freezer, y'know.",
+      "characters": [
+        "Judy Geller",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, but let's do it now though, because Chopper 5 just lost it's feed!",
+      "characters": [
+        "Dr. Miller",
+        "Ross",
+        "Little Bully",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hi, Bubbles. Manly. Well, I just thought I would drop by and let you know how it went with Joey.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

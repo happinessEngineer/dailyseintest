@@ -1,0 +1,106 @@
+{
+  "gameNumber": 23,
+  "date": "2025-02-14",
+  "questions": [
+    {
+      "quote": "I had nothing to do with it. Okay, it was my idea, but I don't feel good about it.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Or, it could mean that-that you saw Chandler and me together and we y'know were being close and stuff and then you just want to have that with someone too.",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I-I heard about Mrs. Verhoeven passing away and I'm so sorry for your loss.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, doesn't the fact that I wore the bracelet even though I hated it say something about our friendship and how much it means to me?",
+      "characters": [
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Just showing you my run-of-the-mill-slice-it-right-off third nipple.",
+      "characters": [
+        "Brenda",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey-hey, you're startin' to sound like the butcher's wife there in-in chapter seven.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I'm ready to get the hell out of here! Oh. Are you? Are you?!! Ohh! That's so great!! Ooh, not for Bonnie. But for you, yay! Ohh.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I loved the play. You were great, and Nick ditto. Clearly you're having sex with him.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know, on the one hand you're happy for them, but on the other hand it's hard to let go.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But Ross, Ross. What do you, what do you think she's going to say?",
+      "characters": [
+        "Phoebe",
+        "Benjamin Hobart",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

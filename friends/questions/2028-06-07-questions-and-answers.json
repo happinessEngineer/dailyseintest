@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1232,
+  "date": "2028-06-07",
+  "questions": [
+    {
+      "quote": "All right. . He is a good guy. You're right, he wouldn't cheat.",
+      "characters": [
+        "Charlie Wheeler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That fan kinda looks like ours. And the birdcage and the...wait a sec! This is our exact living room!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Gunther"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, so, you-you'll get a job here! I mean, I'm always hearing about uh, them foreigners coming in here and stealing American jobs; that could be you!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh... food. No, sex. Food! Sex! Food! Se-I don't know! Good God, I don't know, I want girls on bread!",
+      "characters": [
+        "Chandler",
+        "Eddie Menuek",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What? No, that's illegal. I'm gonna have the labor department down her so fast they won't even...",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Um uh...We're-we're just having this baby together but uh, uh that's all.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uhh, my stunt double. Yeah, and y'know, he's getting a little too familiar for my tastes.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I do. You didn't love Barry. And I've never seen you this happy. I look at you and I think, oh, this is what I want.",
+      "characters": [
+        "Sandra Green",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Come on! Like I wanted him to tell you, I ran all over the place trying to make sure that didn't happen!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "OK, what's the longest you've been in the relationship before ha, have, having the sex?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

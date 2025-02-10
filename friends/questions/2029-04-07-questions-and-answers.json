@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1536,
+  "date": "2029-04-07",
+  "questions": [
+    {
+      "quote": "Oh, you kids Well, this is the best party I've been to in years.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Sandra Green",
+        "Monica"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "I am sorry! Again... I don't know, I don't know what happened, I must be nervous!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, he is. And he is so dreamy. I mean, y'know what, when he left I actually used the phrase, 'Hummina-hummina-hummina.'",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Estelle, you gotta get me some work. I-I lost my health insurance.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I can't tell you how great it was to look at the crowd and see your face! I mean... uh, did you know you were mouthing the words along with me?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Receptionist",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, it's okay. We're-we're gonna have three kids! And that's-that's a different kind of dream. Three kids and no money.",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "The Director",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "There is nothing wrong with Jake! Okay? He is all man! I'm thinking even more than you.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh no-no-no, I will do it. Honey, you have to learn to sit down and relax and let your husband take care of things once and awhile. It's locked, you have to help me. Why is it locked?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, why do you even bother? I already ruined her first birthday... And do you know how important these early experiences are Ross? Very! According to the back cover of that book that you gave me.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

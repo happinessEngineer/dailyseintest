@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1166,
+  "date": "2028-04-02",
+  "questions": [
+    {
+      "quote": "I had a great time. It was really top drawer. And Here's Something Rich thirteen bathrooms in this place... I threw up in the coat closet... Ta taaa...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I told her I'd have to think about it. I mean, how the hell am I supposed to make this kind of a decision? I'm actually asking you!",
+      "characters": [
+        "Ross",
+        "Parker",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Fun? Where was the fun? Tell me specifically, which part was the fun part? Where's my puck?",
+      "characters": [
+        "Monica",
+        "Nurse",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What're you kidding? I broke up with her. She actually thought that Sean Penn was the capital of Cambodia.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We're so stupid! Do you know what's going on in there? They're trying to take Joey!",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You making fun of me? Because I am not a sell-out. I didn't do that for the money, I believe in those phones. I almost lost a cousin because of bad wireless service.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Lennart"
+      ],
+      "correctAnswer": "Lennart"
+    },
+    {
+      "quote": "Oh no-no-no-no, being adored. I'm used to it, don't worry about it.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Cecilia"
+      ],
+      "correctAnswer": "Cecilia"
+    },
+    {
+      "quote": "But I'm a professional! And I'm really good! Look, if you're uncomfortable we can stop. Just give me a chance, okay. Please?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Good, so everybody's here. Everybody's good. So, were you gonna play something, Phoebe?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Zack"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, you were the strongest person in the program. We're offering you the position of junior copywriter.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Steve",
+        "Joey"
+      ],
+      "correctAnswer": "Steve"
+    }
+  ]
+}

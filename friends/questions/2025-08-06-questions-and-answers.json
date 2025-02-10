@@ -1,0 +1,106 @@
+{
+  "gameNumber": 196,
+  "date": "2025-08-06",
+  "questions": [
+    {
+      "quote": "No! If anyone's a sex addict here, it's Monica! Yeah. Yeah. She has been trying to get me back in the sack ever since London!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know what's more generous than that?! Fifty percent! Y'know what's even more generous than that?!!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Mr. Heckles",
+        "Russell"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ken, please! No, I can't, I can't smoke. If I smoke, my wife would kill me.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, look, whatever happens, we're here for you and we love you.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler is supposed to find out if he's getting an assistent job at his ad agency. But out of the 15 interns, they are only hiring three.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, will you, will you at least tell him how hollow and unsatisfying this, dating tons of women thing is!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Chip Matthews"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh but he did say that they found the grandmother wandering down fifth avenue.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "David the scientist guy, David that I was in love with, David who went to Russia and broke my heart David!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Richard Burke",
+        "Mr. Ratstatter"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Phoebe, honey, if you hate it so much, you should walk out there right now and quit! Be true to what you believe in! Honey, you have principles and I so admire that! I don't have any!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, umm, my Mom's friend, Phoebe, is actually my birth Mom.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Ginger"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

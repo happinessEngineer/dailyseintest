@@ -1,0 +1,106 @@
+{
+  "gameNumber": 815,
+  "date": "2027-04-17",
+  "questions": [
+    {
+      "quote": "\"Take me to the mansion in the sky-y\". I am sorry, the song is over. Did you see me out there?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Me? I'm great! I'm fine! I'm sooo good!! But, you know who's not great?! Men! You're a man right Ross?!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, maybe sometimes I find out things or I hear something and I pass that information on y'know kinda like a public service, it doesn't mean I'm a gossip. I mean, would you call Ted Kopel a gossip?",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright. \"It was summer, and it was hot. Rachel was there. A lonely gray couch. 'Oh, look,' cried Ned, and then the kingdom was his forever. The end.\"",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Amy Green",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Great, because my shoes are giving me a little problem on the dance floor, can I borrow the boots from your costume?",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Monica",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, we're just... we're sad to go so we're just saying goodbye to the hotel. I love you... Paradise Hotel, Golf resort and Spa...",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It was okay. She's still kind of depressed because she broke up with her boyfriend.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, okay, fine, you're right. Let's ah, let's take a break, let's cool off, okay, let's get some frozen yogart, or something..",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well y'know what they say, the 23rd time's the charm. Aww, look at you all handsome!",
+      "characters": [
+        "Monica",
+        "Gavin Mitchell",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ross, see! I told you, those swings are evil! Alright, that is it. That is the last time Emma is getting on one of those things for her entire life.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

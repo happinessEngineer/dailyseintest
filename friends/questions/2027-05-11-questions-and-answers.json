@@ -1,0 +1,106 @@
+{
+  "gameNumber": 839,
+  "date": "2027-05-11",
+  "questions": [
+    {
+      "quote": "Absolutely! Just fight all your natural instincts and you'll be great.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Phoebe knows and she's just trying to freak us out! That's the only explanation for it!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's why I said all those things about your flirting and your drinking...",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joanna"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Ms. Green would like to establish some ground rules before she comes out. She would appreciate it if you don't use the words old or downhill or they still look pretty damn good.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Tag Jones",
+        "Monica"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "You, move out. Take your fruit, your stupid small fruit and GET OUT!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Eddie Menuek",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well actually you're the one person I can't tell this too. And the one person I want to the most.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh yeah yeah. I process. People want the processing, I'm the one they call.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Mr. Thompson"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow, you seem to be doing so much better. That's great. So how-how are things going?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Amanda Buffamonteezi"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, was my best friend. Anyway, I don't know why you're pushing for him so hard. With him out of the way as my best friend, there's a spot open.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, what do you, you want me to stop seeing him, is that what you want?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

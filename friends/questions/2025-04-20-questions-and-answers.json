@@ -1,0 +1,106 @@
+{
+  "gameNumber": 88,
+  "date": "2025-04-20",
+  "questions": [
+    {
+      "quote": "Did you like her? And I'm just asking as a friend, because I am totally fine with this.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Morning! Hey, how's my favorite genius and my little robot buddy?!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Dina"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't believe it! I did it! I rode a bike! I never thought I'd be able to do that! Thank you Ross.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "In what John Houston film would you hear this line, \"Badges? We don't need no stinkin' badges!\"",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, it's not my business, besides it's probably a good thing. We really would have been spoiling the children, all those food, and warm clothing...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Charity Guy",
+        "Joey"
+      ],
+      "correctAnswer": "Charity Guy"
+    },
+    {
+      "quote": "Yes, Joey, I remember, she's annoying, but you know what she's-she's his girlfriend now. I mean what can we do?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! I am not a pervert! Okay? It's just... I just... Kinda...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What?! It goes ten times a day! What are we feeding this baby?! Indian food?!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I'm gonna stick with the ring. Oh, this one's nice! I like this one! Sir? Uh, kind sir? Can I see this one?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I think you're right. Oh, wow. Phoebe, I don't think I can give one of them up. I mean, you know, they drive me crazy, but they're my babies.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Richard Burke",
+        "David"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    }
+  ]
+}

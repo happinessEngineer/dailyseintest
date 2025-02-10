@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1140,
+  "date": "2028-03-07",
+  "questions": [
+    {
+      "quote": "Come here. Listen, you deserve so much better than him...you know, I mean, you, you, you should be with a guy who knows what he has when he has you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Of course I packed! Monica relax! I just wanted to ask Phoebe her opinion on what I should wear tonight.",
+      "characters": [
+        "Rachel",
+        "Amy Green",
+        "Chandler",
+        "Hillary"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh no, no, no, no... That's okay, that's okay... I mean, I'm... I am a vegetarian... except for veal... Yeah no, veal I love...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Eric"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Did you tell the doctor you did it jumping up and down on your bed?",
+      "characters": [
+        "Ross",
+        "Danny",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, I'm sorry. Do you have any extra pants? Umm, my friend seems to have had a little accident.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Cecilia"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, my New Year's resolution is to learn how to play the guitar.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "...I'm his butt double. 'Kay? I play Al Pacino's butt. Alright? He goes into the shower, and then- I'm his butt.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Although, I have enjoyed the fact that, uh your shirt's been stickin' outta your zipper ever since you came back from the bathroom.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . .",
+      "characters": [
+        "Monica",
+        "Janitor",
+        "Jack Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh Rachel? Rachel, why don't you sit here? And Will you sit way over there.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

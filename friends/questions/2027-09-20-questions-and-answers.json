@@ -1,0 +1,106 @@
+{
+  "gameNumber": 971,
+  "date": "2027-09-20",
+  "questions": [
+    {
+      "quote": "Well, I don't know. I mean it's not like we don't have anything in common. I mean I like uh, pizza.",
+      "characters": [
+        "Phoebe Abbott",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "Honey, as we get closer to the wedding, is there anything that you would like to talk about or share?",
+      "characters": [
+        "Phoebe",
+        "Joanna",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, when everyone eats that...that...Banana-Meat thing, they're all gonna' make fun of her, do you want that?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But Ross, I'm such having a great time! Your sister has just been telling me that you used to dress up like little, old ladies and hold make-believe tea parties.",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "That's good enough. Right? Okay, well umm, I'm gonna go look at my books!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I'm so good in this scene that I'm stealing focus from you. Well, rise to the challenge Tribianni 'cause I just raised the bar. Come join me up here!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Tommy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So would it, would it make you feel better if I said I was very, very sorry that I left?",
+      "characters": [
+        "Phoebe",
+        "Frank Buffay Sr.",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Sr."
+    },
+    {
+      "quote": "Okay. So what? You guys would just like get together and like just say mean things about me?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joshua Burgin",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know, we're all wondering who this Rachel is. Can you point her out to me?",
+      "characters": [
+        "Joey",
+        "Andrea Waltham",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Andrea Waltham"
+    },
+    {
+      "quote": "Well... but David, just... I just want you to know that... that... you know... telling you this... is one of the hardest things I've ever had to do.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

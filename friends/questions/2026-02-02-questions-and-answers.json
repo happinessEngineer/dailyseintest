@@ -1,0 +1,106 @@
+{
+  "gameNumber": 376,
+  "date": "2026-02-02",
+  "questions": [
+    {
+      "quote": "Oh, one other thing. Hoshi thinks that you being ringside may have affected my concentration.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Peter Becker",
+        "Monica"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Well thank you, I'll give you a tour later. It's actually three floors.",
+      "characters": [
+        "Bitsy Hannigan",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Bitsy Hannigan"
+    },
+    {
+      "quote": "She's not gonna make you wear one of those big plastic cones, is she?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know, I once dated a Miss Crankypants. Lovely girl, kinda moody.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. Okay, so I'm writing you a check for...So you fell asleep during my movie. Big deal right? How do you clear this thing?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey Rach listen, did you know that during pregnancy your fingers swell up to twice their size and never go back.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, you have to honest with her! Otherwise you may think that you're going down the same path, but you're really going down different ones.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I figured we're in another country, so it doesn't count.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So now, these are all the tuxedos that we make and if there's anything that you like, we can make you a deal. Anything at all. But these are the three that Monica pre-approved.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, hey! Hi, there you are, I've been looking for you everywhere!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Roy"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

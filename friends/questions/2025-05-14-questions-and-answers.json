@@ -1,0 +1,106 @@
+{
+  "gameNumber": 112,
+  "date": "2025-05-14",
+  "questions": [
+    {
+      "quote": "Oh, you know, the writing was good, and the director is good, and... and my co-star's good but they're not as good as me!",
+      "characters": [
+        "Phoebe",
+        "Sandra Green",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well what is it? What is it? If it's gonna help bring the baby here, like today. I mean, I think you should do it.",
+      "characters": [
+        "Phoebe",
+        "Bobby Rush",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God! She's amazing. Oh, oh I'm so glad you guys got drunk and had sex!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God! Oh my God! Thank you! That was the fire department, there was a fire at our place!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know. I mean, you saw him do a love scene, so maybe you don't have a thing for Joey, maybe you have a thing for Drake.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Melissa Warburton",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh-huh, but I'm sure you can handle this. I mean, I have won awards for my organizational skills, but, uh, I'm sure you'll do fine.",
+      "characters": [
+        "Paul Stevens",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hello, I'm Joey Tribbiani! Let's play Bamboozled! Erin, you get the first question! In hockey, who is known as The Great One?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! I know! It was. Oh... the only sad thing is I wasn't around when it happened for the first time.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, ain't that nice? The three of you trying on slutty lingerie together.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

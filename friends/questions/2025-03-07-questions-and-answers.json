@@ -1,0 +1,106 @@
+{
+  "gameNumber": 44,
+  "date": "2025-03-07",
+  "questions": [
+    {
+      "quote": "My God, I'm sorry! I'm sorry! I didn't mean to do that! I wouldn't do that!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Allesandro",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, it was senior year in college. It was after the Sigma Chi luau and Melissa and I got very drunk! And we ended up kissing! For several minutes!",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses of \"You'll never make it on your own\".",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok... I got a spider. There were two, I picked the bigger one.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You don't think that umm, \"The chef's Mahi Mahi was awful awful,\" is bad press?",
+      "characters": [
+        "Barry Farber",
+        "Monica",
+        "Chandler",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes! I will have the green salad, umm the house salad, and water's fine.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, the only who stands to get hurt is me. And I'm okay with that.",
+      "characters": [
+        "Ross",
+        "Peter Becker",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "My diary! My diary, that's brilliant. I should have told her it was my diary, she never would have made me read her my diary.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...",
+      "characters": [
+        "Phoebe",
+        "Katie",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

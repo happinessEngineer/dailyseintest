@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1273,
+  "date": "2028-07-18",
+  "questions": [
+    {
+      "quote": "She doesn't know which one of us she wants, me or this Colin guy.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, you haven't picked yet. Oh good, 'cause I had an idea. I thought it would be fun if the third groomsman was my family dog. Chappy.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "I'm now thinking I would like to change my answer to, no one.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Margha"
+      ],
+      "correctAnswer": "Margha"
+    },
+    {
+      "quote": "You, and you, you're supposed to be at my party. And Gunther! What are you doing here?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! So since we're getting off early, do you want to go and paint mugs?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Lauren",
+        "Chandler"
+      ],
+      "correctAnswer": "Lauren"
+    },
+    {
+      "quote": "Well, I was trying to prove that I was right. Y'know? And it turns out I was wrong. And now it's lodged in my throat.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Sandra Green",
+        "Michael"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I hear ya, Mugsy! But look, all these rooms are fine okay? Can you just pick one so I can watch--have a perfect, magical weekend together with you.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Who says you can't get a nice punch bowl for under six bucks? Maybe we can take it back?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I'm so glad we cleared that up. Look, I'm sorry, some things are different for men and for women.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Woman",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, hello, this is Ross Geller's personal physician, Dr. Philange.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

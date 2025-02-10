@@ -1,0 +1,106 @@
+{
+  "gameNumber": 733,
+  "date": "2027-01-25",
+  "questions": [
+    {
+      "quote": "He could be alone. This morning I heard him do push-ups, and then talk to his triceps.",
+      "characters": [
+        "Jack Geller",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, I guess. I mean... I don't know, it's just, I guess I know it's going to be over soon.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I'd love to! Here, you wait right here and I'll go get the projector and my notes!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey Maureen! Gosh! Hey uh, Chandler? This is my cousin Maureen.",
+      "characters": [
+        "Monica",
+        "Waiter",
+        "Rachel",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Which, by the way, is the real San Francisco treat. I got her machine.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You guys! You guys! You don't have to fight over her anymore. Whoever doesn't get Gladys gets Glynnis.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know this is embarrassing, but nobody cares! No one here even knows you!",
+      "characters": [
+        "Phoebe",
+        "Rob",
+        "Monica",
+        "Luisa Gianetti"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "My uncle dragged us there. But, it actually it turned out to be really interesting.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Oh, Jack look, there's that house paint commercial that cracks you up.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Judy Geller",
+        "Nina Bookbinder"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "It's not dumb. But, maybe it's okay that you're not a part of it. Y'know what I mean? I mean it's like, I-I-I like that you're not involved in that part of my life.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

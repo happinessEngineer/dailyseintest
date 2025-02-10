@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1086,
+  "date": "2028-01-13",
+  "questions": [
+    {
+      "quote": "Oh, is that funny?! Oh, you-you find that funny?! Well maybe Chandler should know some of your secrets too!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's right Joey, the chair angel came in and heeled your chair.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, yeah, right! And after I took a shower this morning I just threw my towel on the floor! Oh God, it hurts to even joke about it.",
+      "characters": [
+        "Joshua Burgin",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't get it. What happened? What about everything you said under the bridge?",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait a minute! So when Emily comes you're just, you're not gonna see Rachel anymore?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I... I do, I do not love Rachel. I'm gonna tell her right now about the whole thing so we can get this marriage annulled as fast as possible. Okay? Would I do that if I loved her?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's 2101 and I am not amused. . Ok, the bride and groom have a few words they'd like to say.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What's going on Bing? Does uh, your wife have a problem with me or something?",
+      "characters": [
+        "Charlie Wheeler",
+        "Gavin Mitchell",
+        "Joey",
+        "Doug"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Well look, if I wanted to see a fireman, I would date one. Okay?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, well, it doesn't have a name-oh, okay, Phoebeball! No, it doesn't have a name. Umm, okay, Monica, what is your favourite thing about trees?",
+      "characters": [
+        "Phoebe",
+        "Estelle Leonard",
+        "Monica",
+        "Eric"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

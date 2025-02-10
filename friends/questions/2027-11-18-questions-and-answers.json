@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1030,
+  "date": "2027-11-18",
+  "questions": [
+    {
+      "quote": "Okay, look I-I-I do something nice, okay? I'll-I'll fill her ice trays.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What?! Me?! What about you and your consummated like bunnies nonsense!",
+      "characters": [
+        "Amy Green",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, don't say that. He's probably always been dull. You just, you know, set it free.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I mean, you're the one they're gonna come to when they wanna run away from home, and the one they talk to about sex.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, but someone's really not going to get over that idea, are they?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's not true. I came with Monica and I'm leaving with Weird Al.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right. Hey, but it better make me look really, really good. Oh, and another thing, the video camera? Nice!!",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Only if you think it's better than this... snow-in-a-can!! I got it at work. Mon, you want me to decorate the window, give it a kind of Christmas lookie.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm just bummed about the way I left things with Ross. I shouldn't have lied to him about having to work. He seemed so mad at me.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh God, here we go. For the first time in my life I'm gonna say 'Hi birthfather'.",
+      "characters": [
+        "Rachel",
+        "Susie Moss",
+        "Sophie",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

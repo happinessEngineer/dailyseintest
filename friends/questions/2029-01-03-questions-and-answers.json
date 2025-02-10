@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1442,
+  "date": "2029-01-03",
+  "questions": [
+    {
+      "quote": "Well, you were right. How can they do this to us, huh? It's Thanksgiving.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, but be careful okay, because I wanna get our security deposit back.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Dr. Ledbetter",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know, that's what I kept telling myself but you just reach a point where you can't live a lie anymore.",
+      "characters": [
+        "Duncan",
+        "Rachel",
+        "Monica",
+        "#ALL#"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "Thousands of times!! That doesn't make me sound too good does it?",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah that! You know I hate practical jokes! They're mean and they're stupid and-and I don't want my son learning them!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. Okay. All right, you take care of that. And meanwhile, the party is tomorrow and we still don't have a guest list.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "They gave him a lot of medication, ok? He wouldn't even know if you were there. Look, we'll go see him first thing in the morning, ok?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I've got it! I have got it! Pictures from your childhood. This will get you going good!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I got it! How about, if we win, they have to get rid of the rooster?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

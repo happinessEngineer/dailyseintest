@@ -1,0 +1,106 @@
+{
+  "gameNumber": 387,
+  "date": "2026-02-13",
+  "questions": [
+    {
+      "quote": "Sweetie, you know I have no sense of humor when it comes to the wedding.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, y'know what? Maybe uh, you...you should come to me. I'm a not, I'm not wearing any bottoms.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "...you were 50 minutes late to the class, what did you crawl there?!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Are you angry at me because I said your handwriting is childlike?",
+      "characters": [
+        "Mona",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok well, before you do, I know we weren't supposed to get you going away presents, but I do have something for you.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Why would you start again after chewing all that quitting gum?",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?",
+      "characters": [
+        "Rachel",
+        "Kim",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah but it's too much stuff. You know like, you got the candles and the foofy schmoofer thing here and over here you got a picture of a watering can.",
+      "characters": [
+        "Chandler",
+        "Waiter",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, no point in dragging it out. Dragging out the long process of you moving out and us not living together anymore.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, now would you say that that's more than 50 yards away from Sting, his wife, or a member of his family?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

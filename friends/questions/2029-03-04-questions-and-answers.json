@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1502,
+  "date": "2029-03-04",
+  "questions": [
+    {
+      "quote": "That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I hate this apartment! I hate the color of these walls! I hate the fact that this place still smells like bird! I hate that singing guy!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "The Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh wow, eight hours? So you could probably really use one of those plug-in telephone headsets huh?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh not bad. Do you know that feeling when you're trying to blow a Saint Bernard out your ass?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah but it was because I-I had an eye exam and I don't like my new eye doctor.",
+      "characters": [
+        "Monica",
+        "Danny",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, no, no, no, I don't want to know, absolutely not. I think, you know, I think you should know until you look down there, and say, oop, there it is! Or isn't...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, it wasn't a big deal. I just went to a couple of bookstores, talked to a couple of dealers... called a couple of the author's grandchildren.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey. Whe-ell, look at you, finally got that time machine workin' huh?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Who called here? Did she sound blond? Huh? Did-did-did she have an accent? I gotta make a call! I shoulda never walked into that Sunglass Hut!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Richard Burke",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, don't get mad at us! No one forced you to raise the stakes!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Danny"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

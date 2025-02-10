@@ -1,0 +1,106 @@
+{
+  "gameNumber": 283,
+  "date": "2025-11-01",
+  "questions": [
+    {
+      "quote": "Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, that is so sweet. No, no, ok, you hang up. Ok, ok, one, two, three. Well you didn't hang up either.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah but how do I start? I mean, what's-what's the first thing that I say? Okay great! Thanks.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, pretty smart! Tissue paper! You're at the wedding, you have to cry, \"Handkerchief?\" \"No-no, I got my invitation.\"",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. Hey, here's an idea, why don't we use our wedding china today?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, why don't you send her a musical bug, op, no you already did that. All right look, you're going to have to go there yourself now, okay, make a few surprise visits.",
+      "characters": [
+        "Judy Geller",
+        "Mr. Treeger",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Aw. I'm just-I'm in a place in my life right now where I...I...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah. So uh Ross, well now-why did that first marriage breakup? Was it because the woman was straight or she was a lesbian?",
+      "characters": [
+        "Phoebe",
+        "The Casting Director",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm not giving concert tickets to someone who'd use their son like this!",
+      "characters": [
+        "Trudie Styler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Trudie Styler"
+    },
+    {
+      "quote": "I don't know. Maybe he hooked up with that hot girl he was talking to.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

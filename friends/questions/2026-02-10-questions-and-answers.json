@@ -1,0 +1,106 @@
+{
+  "gameNumber": 384,
+  "date": "2026-02-10",
+  "questions": [
+    {
+      "quote": "G-sharp? Have you been studying the real names of the chords? Have you? Oh my God!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Mona",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's good! I liked it, they didn't. Joey, for God's sake, go to work! .",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. No. Every thing's--they're fine. Great pizza. But it's uh, actually umm my friend Ross. He uh, just gets really nervous when he's flirting.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?",
+      "characters": [
+        "Joey",
+        "Russell",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. Okay. Umm, y'know, my friends are having a Halloween party tonight at my old apartment so, you could come. Maybe I could meet the guy you're marrying.",
+      "characters": [
+        "Rachel",
+        "David",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, but Horny for Monica Minister called, wanting to know if we were still together.",
+      "characters": [
+        "Joey",
+        "Amy Green",
+        "Gunther",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh wait, Chandler, come here is there anything I can do? Anything?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So whoa-whoa-whoa-whoa! What are you gonna do? You're gonna have the baby and-and raise it by yourself...without a husband?! You can't be a single mother alone! You're gonna ruin your life!",
+      "characters": [
+        "Joey",
+        "Chloe",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No no no, if I couldn't pay you back right away then I'd feel guilty and tense every time I saw you.",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm gonna miss these little guys. It was nice having birds around again.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Mr. Treeger",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

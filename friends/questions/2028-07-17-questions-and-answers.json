@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1272,
+  "date": "2028-07-17",
+  "questions": [
+    {
+      "quote": "Uh Tim? This is Phoebe. Phoebe this is Tim, my new sous chef.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh sure, \"Ross will do it!\" It's not like he has a job, or a child, or a life of his own.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Brenda",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, he better not come by here. He can't see the bride in the wedding dress.",
+      "characters": [
+        "Judy Geller",
+        "Janice",
+        "Emily Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Okay, which one of you guys is Gunther Central-Perk? Hey, Joey?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "The Stripper"
+      ],
+      "correctAnswer": "The Stripper"
+    },
+    {
+      "quote": "After what he just said, you're paying for the whole bloody lot.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Stephen Waltham",
+        "Rachel"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "Um, so listen, how many times am I gonna have to touch you on the arm before you ask me on a date.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Susie Moss"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "You know, it's funny when my parents got divorced, they sent me to this shrink, and she told me that all kids have a tendency to blame themselves. But in your case it's actually kinda true.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Carol"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You too. And Ursula?! It was really nice meeting you tonight!!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, it's just the reason that I'm asking is because I kind of eh, uh, I was unable to-I mean I really wanted too, but I couldn't.... There huh-hmm, there-there was an incident.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well-well you can give them to me! I haven't felt my feet in years!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

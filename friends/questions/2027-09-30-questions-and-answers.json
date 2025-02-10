@@ -1,0 +1,106 @@
+{
+  "gameNumber": 981,
+  "date": "2027-09-30",
+  "questions": [
+    {
+      "quote": "I'm not smart. I just wanted so much to...be impulsive once. To be romantic.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Eric"
+      ],
+      "correctAnswer": "Eric"
+    },
+    {
+      "quote": "Did she do this to her? I told you we shouldn't have left Emma with her!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It was fine, y'know? But she didn't agree with me as strongly as she agreed with Joey. She was more like, \"I see you point, I'm all right with it.\"",
+      "characters": [
+        "Joey",
+        "Paul the Wine Guy",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know I'm trying to think of the last time I opened a door and you weren't there, Phoebe are you ok?",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Well, thanks a lot for hookin' me up Rach. I want you to know that I want you to attend our wedding as my guest.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yay! Seriously, our sex life... I was thinking, maybe I don't know, we could try some-some new things. Y'know? For fun?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yes, yes, we could play some other game... like, uh, I don't know... Pictionary?",
+      "characters": [
+        "Monica",
+        "Amanda Buffamonteezi",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Listen uh, I'm really sorry, it looks like I'm gonna be stuck here for a while. I got the transmission fluid, but when I went to put it in the car, the transmission wasn't there!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh My God! You can do a duet of Ebony and Ivory all by yourself!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what? I'm gonna go out on a limb and say no divorces in '99!",
+      "characters": [
+        "Ross",
+        "Amy Green",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

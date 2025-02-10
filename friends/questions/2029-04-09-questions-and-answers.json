@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1538,
+  "date": "2029-04-09",
+  "questions": [
+    {
+      "quote": "Hey! Don't you hang up on me! I'll marry you and me right now! I have the power!",
+      "characters": [
+        "Emily Waltham",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh umm, that's because I just wanted to y'know walk in on me and Chandler while we were, y'know, doing it all night. Will you excuse me for just a second?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I was gonna make us some dinner but all I found in your dad's fridge was bacon and heavy cream. I think we solved the mystery of the heart attack.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, yeah. And uh, the best part though, when the uh, waiter spilled water down my back, I jumped up, and my boob popped out.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Monica! Can I talk to you for a second? Listen, I appreciate you getting me the costume...",
+      "characters": [
+        "Ronni Rapalono",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't believe Joey's having lunch with his stalker. What i-, what is she like.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Gotta go. I miss you too, I love you, but it's getting real late now",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Nina Bookbinder",
+        "Joey Tribbiani Sr."
+      ],
+      "correctAnswer": "Joey Tribbiani Sr."
+    },
+    {
+      "quote": "Oh, hey, man I know, doesn't matter how much we love 'em, monogamy is too cruel a rule.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Issac"
+      ],
+      "correctAnswer": "Issac"
+    },
+    {
+      "quote": "Well, you're making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, tonight, I actually went out with Chip Matthews in high school.",
+      "characters": [
+        "Charlie Wheeler",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

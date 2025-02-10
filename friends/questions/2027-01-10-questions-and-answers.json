@@ -1,0 +1,106 @@
+{
+  "gameNumber": 718,
+  "date": "2027-01-10",
+  "questions": [
+    {
+      "quote": "Thanks Ross. I really like that bird though...I'll take the dog though.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi Honey! We're all here; we just want to wish you a Merry Christmas.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, that's okay, it gave me time to finish glazing my nipples.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "I just thought it would be nice if I could have just this one night!",
+      "characters": [
+        "Chandler",
+        "Benjamin Hobart",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! You guys, I'm writing a holiday song for everyone. Do you want to hear it?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, hey, well, I-I completely understand. You were, you were stressed.",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I would've except I had a big spaghetti stain on the other side.",
+      "characters": [
+        "Phoebe",
+        "Woman",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah! Anyway, I-I still think we should try to patch things up, y'know? Like uh, maybe we could get him to get tickets to another Knicks game and invite him.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God. Wait a minute, I had them put... Oh my God! It's in the quiche! Oh My God!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know, I may be way out on a limb here, but do you, do you, have a problem with Janice?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

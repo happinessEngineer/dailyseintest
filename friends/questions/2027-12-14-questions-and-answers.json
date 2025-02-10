@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1056,
+  "date": "2027-12-14",
+  "questions": [
+    {
+      "quote": "Oh my god. Ok you guys, there's Danny. Watch. Just watch this. See?! Still pretending he's not interested. Ohh, he's coming over. Just pretend like we don't know him. We've forgotten who he is.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, Pheebs, quick, what shoes should I wear? The black or the purple?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OK, I'm gonna get some more coffee before the pinching and eye-poking begins.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, come on, I'm totally ok. I don't need you to come! I can totally handle this on my own.",
+      "characters": [
+        "Monica",
+        "Doug",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, yeah, she's really into history and foreign movies... And oh, oh, she loves puzzles. Huh? Come on, who loves puzzles?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You wanna wander in the hall? Ooh, hey Ben, what if the Holiday Armadillo told you all about the festival of lights?",
+      "characters": [
+        "Gunther",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know, I-I-I just...I don't want to get in the middle of something so complicated.",
+      "characters": [
+        "Ross",
+        "Billy",
+        "Cecilia",
+        "Mona"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "I'm telling you, she went to the airport, and she's gonna go for it with Ross!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Of course I clean it. I mean, I,I will cleeeean it. I mean, I will cleeeean it.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow! That is a good one! Wow, it looks like a, like a holiday card y'know, with the tree in the middle and the skaters and the snow.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

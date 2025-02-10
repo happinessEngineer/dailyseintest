@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1003,
+  "date": "2027-10-22",
+  "questions": [
+    {
+      "quote": "Well, that's pretty much all I'm looking for from these people.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Joanna",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, couldn't we just lose our virginities again? Ya know, because I think actually mine's growing back.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why, why, why can't you stand me being here? I don't, I, we're just, ya know, we're just havin' fun.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You're right, you're right, it is...So you gonna invite us all to the big opening?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ooh. So umm, I was talkin' to Ross and he said you were looking for a new place.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, Ross, I just wanted to apologize... ..don't tell me you actually made those gay pictures of me?",
+      "characters": [
+        "Sarah Tuttle",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoa-whoa-whoa, Knicks season opener tonight. I thought maybe you guys would come over and watch it.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You have been M.I.A for the past seven sorority newsletters, what's up with you?!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Melissa Warburton"
+      ],
+      "correctAnswer": "Melissa Warburton"
+    },
+    {
+      "quote": "Okay, I guess we can lose to junior high girls some other time.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "David"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. Joseph and his wife, Karen, are thinking of having a third kid... Ya know what? Just did.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

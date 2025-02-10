@@ -1,0 +1,106 @@
+{
+  "gameNumber": 795,
+  "date": "2027-03-28",
+  "questions": [
+    {
+      "quote": "You know what? You know what? If, things were the other way around, there's nothing you could put on a list that would ever make me not want to be with you.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Fine, she can stay at my place. By the way, what-what does Cassie even look like now.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, but there is a wire back there! I mean that switch is connected to something!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Agh, what a jerk. I kept talking about you and he kept asking me out. I mean, naturally, you know, I said no.",
+      "characters": [
+        "David",
+        "Ross",
+        "Jack Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know, the strippers, and the guys dancing, and you know, pee-pee's flying about.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Excellent! Excellent, now-now do you want another question or a Wicked Wango card?",
+      "characters": [
+        "Mr. Thompson",
+        "Mischa",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hmm, care to make it interesting? I'll bet you that she'll have it by this time tomorrow.",
+      "characters": [
+        "Monica",
+        "Amy Green",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Last night was wonderful. But I-I can't stay here just for you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Kate Miller"
+    },
+    {
+      "quote": "This is Monica! I'm Phoebe's friend. Listen, Phoebe is back with David and he's going to propose to her, and she is going to say \"yes\" but I know she really wants to be with you!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Really? Weird. Anyway, see, I planned everything really well. I planned and I planned and I planned. It just turns out, I don't think I planned enough time to actually do it.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

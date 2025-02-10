@@ -1,0 +1,106 @@
+{
+  "gameNumber": 607,
+  "date": "2026-09-21",
+  "questions": [
+    {
+      "quote": "You have nothing! You're not even going out! You're her baby sitter! You have a 12-year-old girl's job!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Elizabeth Stevens",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What?! I am an excellent secret keeper. I have kept all of our secrets.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, so I think I'm just about done here, unless you have any bad stuff hidden somewhere, like... porn or cigarettes?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey Pheebs, what-what was the deal with you and Chandler blowing us off before?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I did, but y'know what? I am really, really trying to cut back, y'know? Good luck, Rach.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's just my knitting that's all! Yes! I knit this. I'm very good.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, well, being a failed scientist doesn't pay quite as well as you might think. That's uhm... one seventieth of a karat. And the clarity is uhm... is quite poor.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Ross, but me down for another box of the mint treasures, okay. Where, where are the mint treasures?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, wait Joey! We fought the Nazis in World War II, not World War I.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh-oh! So that's the way it's gonna be huh? Yeah I can break the rules too y'know!",
+      "characters": [
+        "Joey",
+        "Erica Ford",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

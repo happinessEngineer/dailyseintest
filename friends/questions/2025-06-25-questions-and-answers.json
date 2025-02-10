@@ -1,0 +1,106 @@
+{
+  "gameNumber": 154,
+  "date": "2025-06-25",
+  "questions": [
+    {
+      "quote": "There's my scene, there's my scene. \"Mrs. Wallace, I'm Dr. Drake Ramoray, your sister's neurosurgeon. I'm afraid the situation is much worse than we expected. Your sister is suffering from a...\"",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh come on, by age seven kids have already seen orgies. Was it just me?!",
+      "characters": [
+        "Chandler",
+        "Joshua Burgin",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Joey, listen. I can't do this, it doesn't make any sense. Yesterday I was a nurse, and today I'm a waitress at a cafe?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "How can I not be upset? Okay? I finally fall in love with this fantastic woman and it turns out that she wanted you first!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Me too. Yeah, this place is great. I'm so happy for you guys. Although, you know, I hope you like fungus.",
+      "characters": [
+        "Donny Osmond",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oooh, c'mon, shut up, it's fun. Gimme a hug. Well, I think we're ready for some tequila.",
+      "characters": [
+        "Nora Tyler Bing",
+        "Phoebe",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Nora Tyler Bing"
+    },
+    {
+      "quote": "Are you kidding? I'm like the one who talked him into it. I like to think of myself as the puppet master of the group.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Mindy Hunter",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No you're fine. All right well, do you think I could take Rachel?",
+      "characters": [
+        "Monica",
+        "Estelle Leonard",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know, I don't like to brag about it, but I give the best massages!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I can't believe I still don't know what happened to the window in the attic!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

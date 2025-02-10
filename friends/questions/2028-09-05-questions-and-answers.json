@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1322,
+  "date": "2028-09-05",
+  "questions": [
+    {
+      "quote": "I'm gonna hold him a different way. Look I don't understand, if you hated it so much, why did you buy it in the first place?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right! Ross, do you think it's easy for me to see you with somebody else?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow! Look at this! He wrote a check for 50,000 dollars to Hugo Ligrens Ring Design. Oh, sorry, what do you think the good news is?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Mine haven't been so bad. Oh! Here comes one now. Oh, that was a big one!",
+      "characters": [
+        "Woman",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Well, I just tape it to the back of my toilet tank. I didn't say that! It's in a bank guarded by robots!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Phoebe, he's a friend of my parents. He's like 20 years older than me.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ross, just for my own piece of mind, you're not married to anymore of us are ya?",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Fine! But please God; tell me how to stop them from going off!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Um, that is because my doctor says that I have a very serious.... nuget.... diffency.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, sure. Well, you must be new here. Maybe we should-I'm sorry, can I ask you something?",
+      "characters": [
+        "Mike Hannigan",
+        "Amy Green",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

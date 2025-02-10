@@ -1,0 +1,106 @@
+{
+  "gameNumber": 445,
+  "date": "2026-04-12",
+  "questions": [
+    {
+      "quote": "We good? Yeah? Good? Once again, I pronounce you husband and wife. Now kiss her again.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, it was good.. until we got back to our apartment, and then we were fooling around and he started to put his hand up my leg and I kept slapping it away!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh-uh, excuse me, I do have to interrupt on Ross's behalf. I-I think the rule applies here y'know, since she has a chance to get on broad back...",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!",
+      "characters": [
+        "Benjamin Hobart",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Like when I want a job, I go to an audition and if I'm the best of the people they see, they give me the part.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Why God?!! Why?!! We had a deal!! Let the others grow old! Not me!!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm serious, let me do something, just not the turkey or the stuffing, nothing \"high profile\".",
+      "characters": [
+        "Rachel",
+        "Director",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh Ross you're so tense! You just gotta relax okay? Just need to relax all right? Just need to relax...",
+      "characters": [
+        "Rachel",
+        "Erica Ford",
+        "Ross",
+        "Steve"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "We should probably get going, you know, we got a lot of ground to cover.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know he coulda gotten me a VCR, he coulda gotten me a set of golf clubs, but no, he has to get me the woman repeller! The eyesore from the Liberace house of crap!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

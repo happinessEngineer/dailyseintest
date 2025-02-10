@@ -1,0 +1,106 @@
+{
+  "gameNumber": 470,
+  "date": "2026-05-07",
+  "questions": [
+    {
+      "quote": "Yeah, stupidly charming isn't' it? Well listen let's, you wanna get something to eat? 'Cause this place is kinda depressing.",
+      "characters": [
+        "Peter Becker",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman.",
+      "characters": [
+        "Chip Matthews",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chip Matthews"
+    },
+    {
+      "quote": "No-no, she kicked our butts. You could be on the Olympic standing-there team.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh man, they think they are so slick messing with us! But see they don't know that we know that they know! So...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I can't believe this is gonna end. I guess I'll have my stuff packed up.",
+      "characters": [
+        "Chandler",
+        "Elizabeth Stevens",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Well, um . . . I don't know. I mean, for a long time nothing. But you know, actually right before you picked me up, Ross and I had a . . . ah . . . little thing.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, but can you tell him that, because he thinks he's too pink.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Did anybody else feel they just wanted to peel the skin off their body, to have something else to do?",
+      "characters": [
+        "Gunther",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God!! You guys have such problems!! I feel so terrible for you!",
+      "characters": [
+        "Phoebe Abbott",
+        "Rachel",
+        "Jean-Claude Van Damme",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, sorry about that stuff hanging in there. It's just my thongs are too delicate for the dryer.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    }
+  ]
+}

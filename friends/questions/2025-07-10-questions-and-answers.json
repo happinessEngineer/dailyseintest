@@ -1,0 +1,106 @@
+{
+  "gameNumber": 169,
+  "date": "2025-07-10",
+  "questions": [
+    {
+      "quote": "Hey Ross? Umm, I just ran into Caitlin in the hallway and-and uh, you must be getting better at this flirting stuff than I thought.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So, your ex-boyfriend is gonna determine if your new boyfriend gets this grant? Wow, your new boyfriend is screwed!",
+      "characters": [
+        "Julio (poet)",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, let's see. There was a really big guy that I was talking to, with the really nice breasts...",
+      "characters": [
+        "Chandler",
+        "Charlie Wheeler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, there's nothing I can do for him right now, he's still in his sweat pants, that's still Phase One. Y'know? I'll be back for Phase Two, I would never miss Phase Two.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "David"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi. Umm, I think there's something that we really need to talk about.",
+      "characters": [
+        "Chandler",
+        "Wayne",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Fine! Thank you for warning me. At breakfast I'll be on full alert for room painting and sex weapons.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, for sure. Okay. Probably want the first thing to be, never open your eyes. Y'know, because you don't want to be doing something and then look up and see something you don't want to be seeing.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Andrea Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know, you and Bob, and me and my girlfriend, uh, uh, Monica.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, no, I've never been lower or wetter. I'll be fine. I'll just turn your, uh, bedroom into a game room or somethin', you know, put the foosball table in there.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

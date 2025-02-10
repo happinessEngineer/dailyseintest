@@ -1,0 +1,106 @@
+{
+  "gameNumber": 373,
+  "date": "2026-01-30",
+  "questions": [
+    {
+      "quote": "No. Y'know how we're always saying we need a place for the mail.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm telling you. I'm telling you. That's what it is. No wonder she was looking at me all funny during the wedding. She didn't say anything to you?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, you called Janice! That's how much you wanted to be with someone!",
+      "characters": [
+        "Jack Geller",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh whoa-whoa-whoa! Wait a minute, open up your hand; let me take a look. Quarter. Dime. Lint? Not interested in that. What's this? A Canadian coin? Get outta here!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm a good person. And I'm a good chef, and I don't deserve to have marinara sauce all over me! Y'know what, if you want me to quit this bad, then all you have to do is...",
+      "characters": [
+        "Phoebe",
+        "Timothy Burke",
+        "Kate Miller",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, they said would but they would only give me store credit. I mean, what am I going to do, get a thousand regular cats?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh no-no-no! Stay! Stay! Because you-you should you-you-you should stay!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Judy Geller",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You guys! You guys! You're gonna have a baby! They're gonna have a baby!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Director",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What?! No, you can't, you can't leave me here with them! We're baby-sitting!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Nono, me neither. Although, uh, y'know, back in college, Susan Sallidor did.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

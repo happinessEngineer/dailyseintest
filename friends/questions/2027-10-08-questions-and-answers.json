@@ -1,0 +1,106 @@
+{
+  "gameNumber": 989,
+  "date": "2027-10-08",
+  "questions": [
+    {
+      "quote": "Look, Charlie, I just want you to know. Ross is just having a little trouble adjusting to the thought of Joey and me. You know, he normally doesn't drink like this.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Dr. Harad"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I dont know. I like her, you know. Shes different. Theres uh, somethin about her.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "\"I thought I knew who the enemy was, but it was you all along.\"",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Guy"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But that woman can't know I work here. She's a friend of mine and I made this big stink about how awful this massage chains are.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, you guys! What do you, what do you think about making that beach trip an annual thing?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, here are the tips for this morning. Jen gets 50, 50 for me, and Joey owes eight dollars.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Gunther"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Okay honey, you can finish this later we're gonna be late. We gotta go.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! Stop staring at my wife's legs! No no! Stop staring at your sister's legs!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No..umm, could I talk to one of them? It's very very important.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I can't believe it. Did you tell your board about how kids want to hear the truth?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 760,
+  "date": "2027-02-21",
+  "questions": [
+    {
+      "quote": "I gotcha. Sorry. So, did you ever make him throw up a whole anything?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Frank Buffay Jr.",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, Joey! Hey! Ooh! Ooh! I just say someone on the-that looks just like you on the subway. And I was gonna go over and say 'hi!' but then I figured, he doesn't care if he looks like you.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, look, that's it, it's over, I want you out, I want you out of the apartment now.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You can have your own office, and a raise! Effective tomorrow.",
+      "characters": [
+        "Joanna",
+        "Rachel",
+        "Melissa Warburton",
+        "Chandler"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "I'm the Holiday Armadillo, your part-Jewish friend. You sent me here to give Ben some presents. Remember?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwearyou want it to be dirty?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Joanna",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You're going to have a baby, and you need to be prepared. Now, you're going to make yourself watch the whole thing. Just do it!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! Since tomorrow. I met this really cute guy in the park and he like y'know, jogs, and blades, and swims, and so y'know we made a deal that's he's going to teach me all sorts of jock stuff.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait-wait-wait, I just thought of another story about how nice Ross is!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No... actually, you might wanna stay away from Jane street... that's where stabby Joe works.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

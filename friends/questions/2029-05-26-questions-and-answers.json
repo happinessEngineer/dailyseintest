@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1585,
+  "date": "2029-05-26",
+  "questions": [
+    {
+      "quote": "Yeah, you're gonna go up to her and say, \"Here's your egg back, I'm returning your egg.\"",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uhhh.. y'know what? Forget about me. Let's, uh... let's give you another turn.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, you seem pretty insulted by that. What? I'm not good enough for you?",
+      "characters": [
+        "Monica",
+        "Doctor",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Was there...uh, huh, huh, huh... andybody, anybody else there.",
+      "characters": [
+        "Julie",
+        "Emily Waltham",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Let me start over. I just got a call about an audition. I think you can still make it. It's down at the Astor Theatre and you need to have a monologue prepared.",
+      "characters": [
+        "Estelle Leonard",
+        "Ross",
+        "Joey",
+        "Gunther"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, what do you say, Joey? You get the whole set of encyclopedias for twelve hundred dollars, which works out to just 50 bucks a book!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "The Salesman",
+        "Phoebe"
+      ],
+      "correctAnswer": "The Salesman"
+    },
+    {
+      "quote": "No-no, he's not back yet, but he'll be here any minute. So uh, come on in. Have a seat. Bow or stern?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Listen y'know what sir? For the last time, I don't care what the computer says, we did not take a bag of Mashuga nuts from the mini-bar and we did not watch Dr. Do-Me-A-Little!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, come on. What was with that whole Black Bart speech? : \"When I play poker, I'm not a nice guy!\"",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

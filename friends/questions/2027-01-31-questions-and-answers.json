@@ -1,0 +1,106 @@
+{
+  "gameNumber": 739,
+  "date": "2027-01-31",
+  "questions": [
+    {
+      "quote": "We can't do that that's insane. I mean 'A' he could wake up and 'B' y'know, let's go for it.",
+      "characters": [
+        "Richard Burke",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Please take your time, it's an important decision. Not like, say, I know! deciding to marry someone, this is about a muffin.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Minister",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no-no, never say that. If we can't get it out then we can cut around the stain, add a little lace, you make a stylish throw.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Alice Knight"
+    },
+    {
+      "quote": "Hey, listen, I'm sorry about this afternoon, y'know, if I would've known you guys were... I never would've...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right people listen, I've got exactly twenty-eight minutes before I have to baste again.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Emily Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know how much I love listening to your music, you know, but...",
+      "characters": [
+        "Ross",
+        "Ursula Buffay",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's okay, 'cause y'know what? You don't really need me for the business.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Please don't kick Monica and Rachel out, this wasn't there fault, it was mine.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, but just the jacket. Double-oh and seven are not gettin' in there.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay! Okay! Ooh-hey-hey-hey! Okay! Okay! Okay! I'll-I'll tell her tonight I can't see her anymore.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

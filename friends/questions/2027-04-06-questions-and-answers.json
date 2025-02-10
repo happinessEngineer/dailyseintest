@@ -1,0 +1,106 @@
+{
+  "gameNumber": 804,
+  "date": "2027-04-06",
+  "questions": [
+    {
+      "quote": "I can't believe you won't just admit it! Okay, just promise me that you won't do anything stupid.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Phoebe Abbott",
+        "Rob"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah! It's so much better than first grade when you don't know what's going on and definitely better than third grade. Y'know with all the politics and mind games.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, well, that's, that's mighty big of you, Ross. I said don't go!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, yes, it does. Okay, look, the restaurant called, they wanna know if you're gonna be showing up for work?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey let me ask you a question. What does this light switch do?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I am so stupid. Of course she was lying! She's not a teacher. There's not such a thing as the top secret elementary school for the children of spies.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Eric"
+      ],
+      "correctAnswer": "Eric"
+    },
+    {
+      "quote": "Are you lying? Is this like that time you tried to convince us that you were a doctor?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Russell"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",
+      "characters": [
+        "Rachel",
+        "Richard Burke",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ugh, well I will just have to soak up every once of Chandler Bing until that moment comes.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Yeah, well, that's fine, but the important thing is that I finished it. And uh, I think it's really good, but y'know it'd really help me is if I could hear it. So would you guys read it for me?",
+      "characters": [
+        "Jack Geller",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

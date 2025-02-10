@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1206,
+  "date": "2028-05-12",
+  "questions": [
+    {
+      "quote": "Richard! No one supposed to know about us! See I, did it again.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Maybe, maybe we did a good thing, helping Ross get back on his feet!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm serious, I really, I think I need just to have some...meaningless, sex y'know, with the next guy that I see.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, why did you make like a whole big thing out of y'know, everyone has to hang out in the big apartment?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Honey, you've been really strong about this, I know how badly you wanted that job.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh yeah, that sounds great. Oh, and listen, it's, it's gonna be....",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know what? You are my friends, I wanna be supportive, I will come with you. SHOTGUN!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, wait there's, there's more. See the contact paper is to go into your brand new drawer. See, the drawer actually goes in my dresser.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Umm, I'm talking about that which you already know but won't admit. You love her again; you re-love her!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So? Congratulations you two, I didn't even know you got married.",
+      "characters": [
+        "Janice",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Janice"
+    }
+  ]
+}

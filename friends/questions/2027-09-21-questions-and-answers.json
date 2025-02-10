@@ -1,0 +1,106 @@
+{
+  "gameNumber": 972,
+  "date": "2027-09-21",
+  "questions": [
+    {
+      "quote": "Alright, look, I have to go. I love you, and I will call you the minute I get to Paris.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, but I've got tickets to the Van Gogh exhibit! I've been waiting like a year for this.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Would you all stop yelling in our apartment! You are ruining moving day for us!",
+      "characters": [
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, no, no, oh no-no-no, it's has to be 800. 'Cause all those big companies have 800 numbers, every one. Yeah, every big Utah-based company has one.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Joanna"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I didn't! I didn't propose! Unless uh... Did I? I haven't slept in forty hours and...it does sound like something I would do.",
+      "characters": [
+        "Rachel",
+        "Leonard Green",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, but ah, there's coconut in the Hanukkah Menoreoes. I tell you what, I'll put you down for eight boxes, one for each night.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, but it wasn't much fun dropping it off at the dry cleaners in the skirt. So I need everything down to underwear, so if you're willing, I'm all yours.",
+      "characters": [
+        "Joshua Burgin",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Oh shoot, tomorrow's not so good, I'm supposed to um, fall off the Empire State building and land on a bicycle with no seat. Sorry.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I'm totally over it Chandler. Friends forever! Don't come out here!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ross, I'm telling you, she's giving up getting her eyebrows shaped to do this alright? Do you understand how important that is in our world?",
+      "characters": [
+        "Jack Geller",
+        "Carol",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

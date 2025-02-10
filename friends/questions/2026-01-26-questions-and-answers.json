@@ -1,0 +1,106 @@
+{
+  "gameNumber": 369,
+  "date": "2026-01-26",
+  "questions": [
+    {
+      "quote": "I think we have some time. Have you ever heard him talk? \"Uh, Phoebe, uh, I would be honoured, uh...\" Spit it out, David!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, that was his costume. See, he's actually an orthodontist, but he came as a regular dentist.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I played Smelly Cat for the people at my old ad agency, they went nuts.",
+      "characters": [
+        "Leslie",
+        "Phoebe",
+        "Monica",
+        "Janice"
+      ],
+      "correctAnswer": "Leslie"
+    },
+    {
+      "quote": "Well I think it's safe to say that our friendship is effectively ruined.",
+      "characters": [
+        "Receptionist",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know what, it's, it's better this way anyway. I mean I don't know what I was thinking, going down that road again with us. It's just much easier if we're just friends who have a kid.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "\"I just wanna go back to my cell. 'Cause in my cell, I can smoke.\"",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wh-no, but y'know who did stop in here looking for ya, Tennille.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok all right, no, no, no, no, I do, I do, I do, I need your help, but Chandler I don't know if I can take anymoreplucking. It hurts so bad!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh! Good thing Chandler's not here, he always wins at this game.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Sandra Green",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

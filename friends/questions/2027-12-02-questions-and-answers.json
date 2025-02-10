@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1044,
+  "date": "2027-12-02",
+  "questions": [
+    {
+      "quote": "That fake British woman is a real bitch, but she sure can dance... Hey!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I mean, the job's easy and the money's good, you know? I guess I'm going to be hanging out here anyway. I might as well get paid for it, right? I just feel kind of weird serving you guys.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay umm, I just came by to tell you that I...want to have dinner with you tonight. That's all.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh, Rachel, I've been thinking. I don't think us getting together tonight is such a good idea. I'm calling it off.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on Ross be realistic, y'know? If I did write something, what are the chances I could get those guys to star in it?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, hey. Come on man, don't look at me like that, she used to drive you nuts before too, remember?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Mr. Zelner",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, my-my new assistant has very happy that I hired my new assistant.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I've got to say; I know I divorce a lot of women, never thought I would be divorcing you.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, it's not about her. Okay? But seeing you two together just reminds me of what you did. And I don't want to live with some one who doesn't know what it is to be a friend. So, I'll see ya.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 939,
+  "date": "2027-08-19",
+  "questions": [
+    {
+      "quote": "I don't know. But I can see through your sheet. Yeah, yeah, that's her. But y'know what? Doesn't matter, I'm never gonna get to meet her anyway.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "She said, \"Thank you.\" I said, \"I love you.\" And she said, \"Thank you.\"",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh! This is so exciting! Oh God... Come and knock on my door...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, here's batch 22. Ohh, maybe these'll taste a little like your grandmother's. This has a little bit of orange peel, but no nutmeg.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "When, when were you... under me? Rach. Rachel do you, I mean, were you, uh. . . What?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Elizabeth Stevens",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know what... these aren't half-bad! You should suggest something like these to Ralph Lauren.",
+      "characters": [
+        "Charlie Wheeler",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Ethan",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "We'll do it all, and better! Look, after tonight, Gandolf will want to party with us, dude! Come on!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm gonna find a selfless good dead. I'm gonna beat you, you evil genius.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's not what you said. It's the way you said it....Oh My God, I'm a woman!!!",
+      "characters": [
+        "Bobby Rush",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

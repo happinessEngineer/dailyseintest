@@ -1,0 +1,106 @@
+{
+  "gameNumber": 822,
+  "date": "2027-04-24",
+  "questions": [
+    {
+      "quote": "So do you think that these pictures-Are, are they trying to tell a story?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, we don't really have time for this right now. Okay, we have to keep Chandler away from my bedroom.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Ticket Agent",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All my energy is going into not asking that question. I can't believe I screwed this up!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on, you gotta admit that our relationship is ah, is hitting a new level now. 'Cause you used to be like the chef, and I was the customer, and now we're like this-this couple that fights.",
+      "characters": [
+        "Peter Becker",
+        "Ross",
+        "Gunther",
+        "Rachel"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "You know what? Maybe once they start dating, and they see what's out there, they'll realise how good they are for each other.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I guess I just figured of all people you would understand this.",
+      "characters": [
+        "Sandra Green",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Oh y'know what? If you're gonna be acting like this all night, I really, I don't even want to be around you.",
+      "characters": [
+        "Monica",
+        "Dr. Drake Ramoray",
+        "Amy Green",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So, Saturday night, the big night, date night, Saturday night, Sat-ur-day night!",
+      "characters": [
+        "Nurse",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Joey, you can't keep this to yourself, if you know about this, you have to tell him.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, I know he's not perfect, but the truth is, at the end of the day, I still really wanna be Mrs. Dr. Barry Farber, D.D.S.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Mindy Hunter"
+      ],
+      "correctAnswer": "Mindy Hunter"
+    }
+  ]
+}

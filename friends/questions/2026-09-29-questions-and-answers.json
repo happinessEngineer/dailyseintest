@@ -1,0 +1,106 @@
+{
+  "gameNumber": 615,
+  "date": "2026-09-29",
+  "questions": [
+    {
+      "quote": "Yeah, ours pretty much sucked, oh, but, I did run into little Stevie Fisher. Remember him?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I am a doctor! Y'know what? I'm just gonna go and talk to Rachel myself.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And uh, you don't have a mustache which is good. I'm Chandler; I make jokes when I'm uncomfortable.",
+      "characters": [
+        "Sandy",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, ok! Fine! You can come, but don't tell anybody else. It's up on the roof at 8.",
+      "characters": [
+        "Joey",
+        "Donny Osmond",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, I will find someplace else to do the rest of my appointments. I just don't know what the big deal is!",
+      "characters": [
+        "Peter Becker",
+        "Phoebe",
+        "Elizabeth Stevens",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, show's over. Nothing to see here. Ok, let's do laundry.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you don't have to decide right now, but if you could just look at our file...",
+      "characters": [
+        "Parker",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, I'll be home right after work. Ok, by Emma-Wemma-Demma, I love you - wovyou dovyou ...",
+      "characters": [
+        "Joey",
+        "Fake Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You have! Ross, you should give yourself credit. I mean my Mom never thought this would work out. It was all, \"Once a cheater, always a cheater.\"",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Janine Lecroix"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, the score is nine to eight in favor of the guys. Ladies if you miss this the game is theirs, pick your category.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

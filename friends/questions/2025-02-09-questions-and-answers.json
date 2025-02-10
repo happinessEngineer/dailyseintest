@@ -1,0 +1,106 @@
+{
+  "gameNumber": 18,
+  "date": "2025-02-09",
+  "questions": [
+    {
+      "quote": "Hey, relax I just need more time. We're going to dinner tonight.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, look, I'm not proud of this, ok? Well, maybe I am a little.",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, the gay community is a lot more vocal than the dead community.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, we thought we would all go to a picnic , in Central Park!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, that just leaves the big Green poker machine, who owes fifteen...",
+      "characters": [
+        "Joey",
+        "Joanna",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Isn't this the most incredible fight you've ever had in your entire life?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Parker"
+      ],
+      "correctAnswer": "Parker"
+    },
+    {
+      "quote": "Sending out a holiday card, together, I mean I just don't know if we're really quite there yet.",
+      "characters": [
+        "Bitsy Hannigan",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Because it took us months to find a good nanny and I wouldn't want anything to, you know, drive her away.",
+      "characters": [
+        "Joey",
+        "Mischa",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, no problem, just remember to wake us up before you go-go.",
+      "characters": [
+        "Gavin Mitchell",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Don't worry Phoebe, you're gonna meet someone. If I can meet a great guy, so can you.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

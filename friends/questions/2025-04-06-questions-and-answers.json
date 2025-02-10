@@ -1,0 +1,106 @@
+{
+  "gameNumber": 74,
+  "date": "2025-04-06",
+  "questions": [
+    {
+      "quote": "Okay, this isn't working. I'm still awake and now I have to pee.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. It wasn't a town when I got there, but it was a town when I left. Shall we get me really drunk?",
+      "characters": [
+        "Rachel",
+        "Ursula Buffay",
+        "Susan Bunch",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Ursula Buffay"
+    },
+    {
+      "quote": "I don't know it! I want to have a kid with you because I think you're going to be an amazing dad... at the fun parts and the hard parts.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, let's see. Uh, they gave me cute doctor today and in the middle of the exam I put my pinky in his chin dimple.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Kathy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So what? I drove down, sold T-shirts, had a blast. And y'know who knows how to party? Drunk college chicks.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm not going along with some lie you made Ross, No I'm just gonna be honest with him.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Gary",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Let me think. Oh, when I was younger I used to dream that I got married to Mayor McCheese, and on our wedding night I ate his head.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Smelly cat, smell-ly cat, what are they feeding you? Everybody.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey! Look I brought a friend for dinner, this is Zack, from work!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. We are at a rest stop on Route 27. Okay. There is no Route 27. Okay, either 93 or 76?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

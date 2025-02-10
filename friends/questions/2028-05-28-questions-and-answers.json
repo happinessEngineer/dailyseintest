@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1222,
+  "date": "2028-05-28",
+  "questions": [
+    {
+      "quote": "Well, yeah, it was a really nice thing and all, but it made you feel really good right?",
+      "characters": [
+        "Joey",
+        "Angela Delveccio",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But y'know what, if you think it's gonna be okay we'll just work out a system. Y'know, it'll be like college, I'll hang a hanger on the door and put a sign, \"Come back later, I'm gettin' lucky.\"",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Benjamin Hobart",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sit down. All right? Please, just listen to me. You are terrible at this! Okay? You are the worst ultimate fighter ever! Ever!!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Tim"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Honey, we don't really have to go to this thing tonight do we?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Jade"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, we have to talk. I'm just getting out of a very serious relationship...",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! As long as it's free! Food here is ridiculously over-p... Phoebe: Who's hoping the hand raising thing is still cute enough that you won't hate me?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ugh, the worse day! Y'know, you think you're making progress at work and then your boss calls you Raquel.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Gary"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ohh! Okay! Okay, cause when-when he said, \"I can't wait to hear your first words,\" I thought, \"There's a trick.\"",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry. I just...when I look at you I see her. When I see her I get a little bit angry.",
+      "characters": [
+        "Eric",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Eric"
+    },
+    {
+      "quote": "So have you decided on a band for the wedding? Because, y'know, I'm kinda musical.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

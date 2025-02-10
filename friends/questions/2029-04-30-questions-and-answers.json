@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1559,
+  "date": "2029-04-30",
+  "questions": [
+    {
+      "quote": "Well, I wouldn't know because I got so freaked out that I hung up the phone.",
+      "characters": [
+        "Rachel",
+        "Doctor",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right look, forget it, forget it. You told her you love her, it's over.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Nooo. I had a story all worked out but then Chandler sold me out.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Take from me, as the groom all you have to do is show up and try to say the right name.",
+      "characters": [
+        "Precious",
+        "Doctor",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "See this is what I was afraid of, I didn't think I should be here either but somebody said he'd be over it by now.",
+      "characters": [
+        "Phoebe Abbott",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Of course you did Ross, you would date a gorilla if it called you Indiana Jones!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Julie",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! Uh, Monica? Chandler? Can I talk to you guys for a second?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You guys, there's a little girl in Soho looking for this cat. I mean, you know what that means?!",
+      "characters": [
+        "Joey",
+        "Ethan",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Monica look! Look-look-look! Here is that table that I ordered.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sorry I'm late, I was stuck at work. There was this big dinosaur.. thing.. anyway.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

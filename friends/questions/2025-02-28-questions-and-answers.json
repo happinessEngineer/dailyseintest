@@ -1,0 +1,106 @@
+{
+  "gameNumber": 37,
+  "date": "2025-02-28",
+  "questions": [
+    {
+      "quote": "Ok, well, not a problem. We'll just use them to stop the bleeding. Ok. Baggage claim? Ok.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Issac",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh alright, stop, STOP THE MADNESS. This is crazy. Who can even remember why this even started in the first place?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Nooo! Okay. Whoa! Okay. See I was, I was a little nervous about turning thirty. So the bus boys took me out for some drinks. I wanna puke on you later!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Gosh, you know, you're just such an amazing couple. It's... kind of intimidating.",
+      "characters": [
+        "The Director",
+        "Chandler",
+        "Ross",
+        "Erica"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Y'know I rued the day once...didn't get a whole lot else done.",
+      "characters": [
+        "David",
+        "Chandler",
+        "Phoebe",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I went back to Riffs. I think Ursula likes me. All I ordered was coffee, she brought me a tuna meltt and four plates of curly fries.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, buddy! Are you familiar with Section 11-B of the Health Code that requires all refuse material out the back exit?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Larry",
+        "Rachel"
+      ],
+      "correctAnswer": "Larry"
+    },
+    {
+      "quote": "Monica, there are no words... There are no words! This should not be this hard!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I met Phoebe today. She was really nice to me eventhough I'm such a loser. And, then when I was walking home I thought about her a lot, it was weird, but kinda cool.",
+      "characters": [
+        "Malcom",
+        "Joey",
+        "Kim",
+        "Chandler"
+      ],
+      "correctAnswer": "Malcom"
+    },
+    {
+      "quote": "Yes, but I just had one. Two. Two tiny cigarettes. Okay, five. A pack. Two pack...a...a carton. Three big fat cartons in two days. But it's over, I made a decision, I'm not gonna smoke anymore.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

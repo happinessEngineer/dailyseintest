@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1223,
+  "date": "2028-05-29",
+  "questions": [
+    {
+      "quote": "Because she's just going to shoot me down. You guys saw what happened with Gunther. That did not look like fun.",
+      "characters": [
+        "Rachel",
+        "Phoebe Abbott",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Mister Pretensous, you think there's no one finer, well but your poems are unpublished, and you work in a diner.",
+      "characters": [
+        "Man",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Lie!!! How hard is that?! The check's in the mail! Oh your baby is so cute! I can't wait to read your book Ross!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, yeah and you know what, I know she's gonna wanna run again, I just don't know how to get out of it, I mean, I live with her.",
+      "characters": [
+        "Lennart",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Honey, might I suggest watching a little more ESPN and a little less E!?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well sure, you name a kid that, what do you expect them to grow up to be?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Carol"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh well then, so I'm just going to go back to talking to my friend here. And you can go back to enjoying your little hamburger.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Doug",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, now, remember, no trading. You get the pretty one, I get the mess.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I can't. No no, listen, I, I know how much this means to you and I also know that this is about more than just jewelry, it's about you and me and the fact that we're best buds.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, in my defense, you were not supposed to tell each other.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

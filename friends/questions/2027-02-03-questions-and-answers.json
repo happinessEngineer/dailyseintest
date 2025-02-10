@@ -1,0 +1,106 @@
+{
+  "gameNumber": 742,
+  "date": "2027-02-03",
+  "questions": [
+    {
+      "quote": "Yeah it is really pricey. I mean, I freaked when I first heard the numbers.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't believe we have to say goodbye to the house we grew up in. Man, some-some stranger's gonna be living in my room.",
+      "characters": [
+        "Paul the Wine Guy",
+        "Ross",
+        "Rachel",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah I gotta say thank you, I was really nervous. Y'know I've been told I come on to strong, make to many jokes, and then it was really hard to sidestep that duty thing. Duties. Duties! Poo.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, if you wanna grab a bite before work we'd better get acrimonious. No? Am I getting close? Opening credits.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Come on, you guys are more then that! I mean, you're gonna get together right?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, you guys have been friends forever. Remember the first time that you kissed Ross? How weird that was? You couldn't stop laughing? You got through that.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, listen, I really like you. Okay? I think this can go somewhere. So what if I'm close to my family, are you gonna let that stand in the way of us?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Danny"
+      ],
+      "correctAnswer": "Danny"
+    },
+    {
+      "quote": "Oh yeah, well who serves steak when there's no place to sit, I mean how are you supposed to eat this?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Oh, my god, I am so glad you called me. I had the most supremely awful day.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Or, we can decide by whose ever name is closer to the word phone.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

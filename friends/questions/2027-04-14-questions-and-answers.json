@@ -1,0 +1,106 @@
+{
+  "gameNumber": 812,
+  "date": "2027-04-14",
+  "questions": [
+    {
+      "quote": "Oooh! I have something you can do! I have this new massage client... Steve? Anyway, he's opening up a restaurant and he's looking for a head chef.",
+      "characters": [
+        "Monica",
+        "Mona",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "When I happened to look through the window and I see you kissing a guy you know, for what? A week?",
+      "characters": [
+        "Monica",
+        "Janice",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, Newcastle disease is a secretion borne virus that only affects chickens and... other poultry.",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Well I tell ya, I should probably buy a place in the city first. And I just got what you meant again-That is-I tell ya, that is a tricky one!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Doesn't sound as crazy as paying a thousand dollars for a cat.",
+      "characters": [
+        "Joey",
+        "Sandy",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, listen to me sweetie, I know you can do this. Okay? You have a beautiful smile.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "OK, what is it about me? Do I not look fun enough? Is there something. . . repellant. . . about me?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "To talk to Rachel, isn't that why we took a ride in the death-cab?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "David"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I like the pretty little drawing of you in the wedding dress.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Check the freezer. If there's none in there, then we're probably out. Are you just getting in from work? It's late.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Director",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

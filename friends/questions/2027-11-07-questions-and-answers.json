@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1019,
+  "date": "2027-11-07",
+  "questions": [
+    {
+      "quote": "Hey, whatever it is, I am sure it has happened to me. Y'know, actually once-once I got dumped during sex.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I do-I do not have a boyfriend. There's a guy in one of my classes who-who has a crush on me.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hurry! Monica's gonna make you pack! She's got jobs for everyone! Now, it's too late for me, but save your selves!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay! Okay! Okay! You win! You win!! I can't have sex with ya!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! No! I just went to pick up Phoebe Buffay's checks; there were a lot of them.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know. Hey remember...remember the night they got engaged? How uh, you and I almost...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Mr. Treeger",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Are you kidding?! I get a Porsche and the barca lounger's gone?! This is the best day ever!",
+      "characters": [
+        "Monica",
+        "Ethan",
+        "Ross",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You guys! Do you realize that any minute now, Phoebe can be pregnant?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

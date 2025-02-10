@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1380,
+  "date": "2028-11-02",
+  "questions": [
+    {
+      "quote": "Oh, am I! I just danced with a wonderfully large woman. And three other girls made eyes at me over the buffet. Oh, I'm not saying it's something I wanna pursue, but it's nice to know I have options.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Sandra Green",
+        "Ross"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Oh, we wanted to finish the crossword before we went to bed. Hey, do you know a six-letter word for red?",
+      "characters": [
+        "Little Bully",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, don't start judging me! Huh? You're the one who's in love with her assistant! Huh? And you, you're the one having the affair with the guy who keeps the pigeons on the roof!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I know! \"Oh...I slept with Billy Joel\". All right, who hasn't?",
+      "characters": [
+        "Mr. Treeger",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Are you sure? Because I'm really dreading going to this party.",
+      "characters": [
+        "Phoebe Abbott",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, yeah, well... Yeah, no use wasting this baby, just lyin' around the house.",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, and Sheena Easton. But we probably couldn't get her anyway.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What don't you just calm down Phoebe! All right?! Why don't you just get all your facts before you run around telling everybody that you're the only hot couple!!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, I know you guys heard about the whole thing with me and Ross but y'know, I've been obsessing about it all day and I'd just love not to talk about it. All right?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, the kind of fun, you and Susan had when we were married.",
+      "characters": [
+        "Mona",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

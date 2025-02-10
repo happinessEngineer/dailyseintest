@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1253,
+  "date": "2028-06-28",
+  "questions": [
+    {
+      "quote": "Ok, while Ross is on the phone, everybody owes me 62 bucks for his birthday.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what, I want to talk to you about this so much, but we should probably do it when we could really get into it, are you free for dinner tomorrow night?",
+      "characters": [
+        "Carol",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "That cute waiter guy from your restaurant, the one that looks like a non-threatening Ray Liotta?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no, no, no, no... It's not... it's not... i'ts not as bad as it looks... really. I was just saying goodbye to an old friend.",
+      "characters": [
+        "Jill Green",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Alright, then you go to that party and you pretend to be over Mike. And afterward you come to my place and I'll get you good and drunk!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ah, it's good. It's going good. I mean, we get along great. She's, she's so...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh, yeah... This guy at work got me excited about going in on an emu farm. That'd be kinda cool huh? Pitchin' in on the weekends, helping to plant the emus...",
+      "characters": [
+        "Joey",
+        "Emily Waltham",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I had about a mugful in this lovely 'I got boned at the Museum of Natural History' mug.",
+      "characters": [
+        "Richard Burke",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Anyway, there's this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go...",
+      "characters": [
+        "Mona",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! Here we all are! Yeah, there's Ross and Joey and you and me.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

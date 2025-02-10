@@ -1,0 +1,106 @@
+{
+  "gameNumber": 10,
+  "date": "2025-02-01",
+  "questions": [
+    {
+      "quote": "Okay? But-but imagine a lot more lights, okay? And-and y'know fewer bricks, and-and-and flowers, and candles...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Judy Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "'Cause, you know, if you don't look good, we don't look good. I love that voice.",
+      "characters": [
+        "Rachel",
+        "Alice Knight",
+        "Kathy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I can't believe you guys aren't going to be able to get married today.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Lauren"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Aren't you gonna answer her, that's like the tenth bing-bong message she sent. She wants to know what's wrong?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Good, you don't want to be one of those mothers who pass on their irrational fears on their children, do you?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Hillary"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm so glad, I'm so glad you shared. And I'm glad that you're done. What do you say we umm...",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I'll probably be back to pick her up around six, but she's in the bedroom all ready to go. But she did actually fall back to sleep, so...",
+      "characters": [
+        "Rachel",
+        "Bonnie",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh-oh-oh-oh, how I do it is, I look a woman up and down and say, \"Hey, how you doin'?\"",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "oh and you know what you should bring the black see-through teddy with the attached garters.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, let's discuss Rachel's birthday. I say we throw a surprise party this weekend.",
+      "characters": [
+        "Monica",
+        "Emily Waltham",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

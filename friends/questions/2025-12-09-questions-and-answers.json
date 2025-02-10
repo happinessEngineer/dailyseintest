@@ -1,0 +1,106 @@
+{
+  "gameNumber": 321,
+  "date": "2025-12-09",
+  "questions": [
+    {
+      "quote": "So unbelievable. She was supposed to meet me half an hour ago with Emma.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Jack Geller",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'll call the university and tell them about your relationship and have you fired.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Paul Stevens",
+        "Amy Green"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "Well, oh, I'm sorry your car broke down Pheebs, but I'm a little too busy with some of my real friends right now, but please call to let me know you got home safely okay?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, Joey, you know what? You have to go for it. How often does this happen to you, huh? You owe it to yourself.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh, Geller's got one hooked! Ohh! Looks like a big one! Yeah, ohh! Ohh! It's the classic struggle between man and- Someone knocked over a lamp.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah, he looked like a real lumberjack in those pink laceys.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I didn't. I wouldn't say I had the keys unless I had the keys, and I obviously didn't have the keys.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Just a little but...it's just so scary! I don't even know what I would sing...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So. This has always been Monica's bed, what you're just noticing now, how self-involved are you?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Let-let me make sure I'm hearing this right, you're ending this with me because I'm too whiney? So you're saying, I've become so whiney that I annoy you, Janice.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

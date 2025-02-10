@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1355,
+  "date": "2028-10-08",
+  "questions": [
+    {
+      "quote": "This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Tag? Y-You're going? Uh we didn't, uh we didn't get the chance to talk. Uh, so, where did you say you're from again?",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Maybe 'cause the last one was made by Pepperidge Farm. Look Eddie, isn't there something else you're supposed to be doing right now?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know, you don't wanna mess with corn nuts. They're craaazy.",
+      "characters": [
+        "Ross",
+        "Susie Moss",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Is it okay that I want you to wear that head set in bed tonight?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, we were! But Ross was talking so loud on his phone they threw us out!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, hey, I just figure Joseph's the kinda guy that likes to mix it up. Ya know, get in there, ruffle some feathers.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, the man wreaks! Smells like he went on a three day fishing trip and then ate some liquorice.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh Amy, don't cry Amy. Um.. Ross, could I talk to you in private?",
+      "characters": [
+        "Zack",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So I hear the Ralph Lauren fooled around with someone in the copy room.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

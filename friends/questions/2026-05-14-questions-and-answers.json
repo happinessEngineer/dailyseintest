@@ -1,0 +1,106 @@
+{
+  "gameNumber": 477,
+  "date": "2026-05-14",
+  "questions": [
+    {
+      "quote": "Listen, listen. Whoever you pick is gonna walk down the aisle with you! Now, I promise I won't say a word, but if you pick Chandler he's gonna be whispering stupid jokes in your ear the whole time!",
+      "characters": [
+        "Joey",
+        "Lauren",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! It's my fault. I keep trying to propose in these stupid ways and all I wanna do is tell you that I love you and I want to spend the rest of my life with you.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Ohh Tag, umm...you're such a great guy and we have sooo much fun together but I don't-I don't...",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, I know you don't want to hear this right now but, we've seen him in his new place, alright. And he's happy, he's, he's decorated.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, and her boyfriend. But we're celebrating Thanksgiving in December 'cause he is lunar.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's her first day at this new job. Your not supposed to start with her!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no-no-no-no-no-no!! I can't get myself right out of them! You must have me confused with the Amazing Chandler!! Come on, you have to unlock me, she could be gone for hours, and I'm cold, and",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know what, you can go, I just have to fill out some forms.",
+      "characters": [
+        "Rachel",
+        "Ronni Rapalono",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! I don't think you're going to need it though. Okay, check this out. If it's a girl, Rain.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't believe you married Duncan. I mean how could you not tell me? We lived together, we told each other everything.",
+      "characters": [
+        "Mr. Douglas",
+        "Peter Becker",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 940,
+  "date": "2027-08-20",
+  "questions": [
+    {
+      "quote": "I can't believe you're gonna have sex on my engagement night!!",
+      "characters": [
+        "Monica",
+        "Joey Tribbiani Sr.",
+        "Kathy",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But wait, there's more. Hey, Chandler, what is in the envelope?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Woman",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hi. I'm uh, I'm Ross. I don't, I don't believe we've met. I'm Monica's older brother.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey Tribbiani Sr."
+      ],
+      "correctAnswer": "Joey Tribbiani Sr."
+    },
+    {
+      "quote": "Hey Ross listen Chandler got you out of going to the lesbian sandwich museum this weekend!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Paul Stevens",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey come-I can't believe-I bring you here to see the Bapstein-King comet, one of nature's most spectacular phenomenon, and all you care about are bugs stuck in tar and-and some woman!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh thanks. Although it kinda seemed like you were falling asleep there a little.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ooh, sorry. Um, and, and then you put your arms around me. And then you put your arms around me. And, um, and then you tell me that you love me and you'll never forget me.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Interviewer",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now, you do realize that she's a cartoon, and way out of your league?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, I don't see anything different other than the fact that the room got so much brighter when you came into it.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

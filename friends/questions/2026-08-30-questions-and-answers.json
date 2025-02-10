@@ -1,0 +1,106 @@
+{
+  "gameNumber": 585,
+  "date": "2026-08-30",
+  "questions": [
+    {
+      "quote": "Wow, cool poster. Or should I say groovy poster? So, ahh, where were we?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Honestly? Our apartment is a hotbed for electromagnetic activity. Now Monica and I have been immunized, but sadly you have not.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay no way, you cannot use that to get the cute guy and the last blueberry muffin.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Susan Bunch",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Phoebe, forget it, okay? Newark is - is like an hour away. There's no way we're gonna make it in time.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hello, Susan. Good shake. Good shake. So, uh, we're just waiting for...?",
+      "characters": [
+        "Rachel",
+        "Will Colbert",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well... we-we do. You can only eat Tic Tacks in even numbers.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well for the regular guy, it's bad, but Chandler, Oh dear God!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Lennart"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Umm, this is going to be fun. Watch me freak out Chandler. Honey?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And it is a love that is based on having and giving and receiv-",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, no problem. You can borrow it, by the way. Here are your keys, hon.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

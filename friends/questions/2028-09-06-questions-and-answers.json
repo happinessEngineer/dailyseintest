@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1323,
+  "date": "2028-09-06",
+  "questions": [
+    {
+      "quote": "Well, I think uhh, someone out there may have been bad mouthing you all over town.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Chandler",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "I've asked Lee from human resources to be here as a witness to our conversation.",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Ross",
+        "Phoebe",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Mr. Zelner"
+    },
+    {
+      "quote": "It took me 28 years to find one man that I wanna spend my life with, if I have to wait another 28 years then, I'll be 56 before I can have a baby, and that's just stupid.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Benjamin Hobart",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ella wanted to go out, so we went shopping and got some sushi.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Amy Green"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Look, Ross, you have what you want, you're back with Rachel. If you bring this up now you're gonna wreck the best thing that even happened to you.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "And I got custody of the kid, right? Now suppose the kid dies and-and I gotta buy a new kid.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, we just had a terrible lunch today at Reattica. What is with all the sun-dried tomatoes at that place?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Mike Hannigan",
+        "Don"
+      ],
+      "correctAnswer": "Don"
+    },
+    {
+      "quote": "Please, don't play the music. Just uh one more. LIVE FROM NEW YORK! IT'S SATURDAY NIGHT!!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It was terrible. I fought with my colleagues y'know, the entire time. Are you kidding with this?",
+      "characters": [
+        "Mr. Treeger",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes you can. You're thinking about time, you can't go back in time.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

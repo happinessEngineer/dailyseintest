@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1047,
+  "date": "2027-12-05",
+  "questions": [
+    {
+      "quote": "Uh-huh, and I got all the top ten scores, I erased Phoebe off the board! High five!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Eric",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "How about you go put on your 007 tuxedo and I'll make you a nice martini.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'd be lying if I said I haven't thought about it myself. Chandler is my best friend, it would be wrong. Good......But wrong.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I am so glad you guys got together, Chandler and I are always looking for a couple to go out with and now we have one!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, it got me to New York anyway, and then I got on a cab at the airport, and the guy said where to? and I just... gave him your address I... I... I didn't even think about it.",
+      "characters": [
+        "David",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Oh Ross no. Be careful, that is very old! Okay? Early Colonial bird merchants used to bring their birds to market in that.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So do you uh, think we can get you one of those uh, uniform things?",
+      "characters": [
+        "Ross",
+        "Gary",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, the garage flooded sweetie and it ruined everything in your boxes. I'm sorry.",
+      "characters": [
+        "Jack Geller",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "All right, I'm gonna close my eyes and point to someone, and you, whoever I point has to come up with something fun for us to do, and we have to do it.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

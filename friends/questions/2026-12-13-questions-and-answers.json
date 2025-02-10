@@ -1,0 +1,106 @@
+{
+  "gameNumber": 690,
+  "date": "2026-12-13",
+  "questions": [
+    {
+      "quote": "Yeah, you're right. Okay look, listen, let's talk about what a huge star I'm gonna be!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes, when I first met you, you were like, \"Blah, blah, blah.\" I was like, shhh!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I got it! How about, if we win, they have to get rid of the rooster?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, and then I realized I'm against that, and uh, so then we bought some, uh, boobs.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes, and I know that you'd say no if he asked you, but I'm sorry; how great would you look walking down the aisle in this Donna Carin.",
+      "characters": [
+        "Kate Miller",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OK! Last night after the party I saw Rachel kissing that jerk from her office out on your balcony.",
+      "characters": [
+        "Monica",
+        "Susie Moss",
+        "Russell",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, we cannot tell Joey about this. He's already flipping out about everything that's changing. This will push him over the edge.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, buddy. How's my favorite dog, huh? How's my favorite dog? You're subdued. Did you give him a beer?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look at me! My big concern is what's real?! Oh my God. We're really sad, aren't we?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So how's your date with your cyberchick going. Ooh, hey, what is all that .",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Russell"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

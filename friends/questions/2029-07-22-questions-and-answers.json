@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1642,
+  "date": "2029-07-22",
+  "questions": [
+    {
+      "quote": "Well uh, I went down there and told him that no one treats my friends like that and that he'd better come up here and apologize. I'll see you later.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi, it's me. I've been trying to reach you all night. I feel awful. Please, Ross, you gotta know there is nothing between me and Mark. This whole break-up thing is just stupid.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What honey, it's like fifteen blocks to the subway. Let's go.",
+      "characters": [
+        "David",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Phoebe, his music could not get any worse. There are rats in the basement that are hanging themselves.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry, really, I'm so embarrassed. Really, I'm a pretty nice guy. Just ask my parole officer...Apparently I'm not a funny guy.",
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "I'm Catwoman, who wants to borrow the dress when you're too big for it.",
+      "characters": [
+        "Mike Hannigan",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's so weird, I had such a blast with him the other night.",
+      "characters": [
+        "Rachel",
+        "Amy Green",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh, thank you for my beautiul earrings, they're perfect. I love you.",
+      "characters": [
+        "Rachel",
+        "Janine Lecroix",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! Y'know what? You're right! We meet, you flirted and then bamn nine years later you had me!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

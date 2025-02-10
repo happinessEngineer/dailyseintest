@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1300,
+  "date": "2028-08-14",
+  "questions": [
+    {
+      "quote": "Maybe it, maybe it doesn't have to be this tough. I mean, maybe you were on the right track with this whole, you know, spontaneous thing. I mean, women really like that.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Hayley"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, how about a compromise then, okay? What if it's like y'know, Chanoey?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh no sweetie, no! This is my fault, I wasn't clear! I'm really sorry. And listen, you take as much time as you need to move out okay? There's absolutely no rush.",
+      "characters": [
+        "Joey",
+        "Larry",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Jeez, at 2:30 in the morning, I didn't expect to have to fight over the remote.",
+      "characters": [
+        "Rob",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look at her go! She must love me more than I love her! What's wrong with me? Ooh, don't open that door.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "OOOOOHHHHH! Fine, I can't take it anymore! I'm putting an end to this!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Agency Guy"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know anything about music, but I think you're really, really great.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rob",
+        "Rachel"
+      ],
+      "correctAnswer": "Rob"
+    },
+    {
+      "quote": "Dad, please don't pick your teeth out here! Alright, and if you're gonna put your feet up, why don't you sit on the-",
+      "characters": [
+        "Jack Geller",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, listen, Ronni, how long would you say Chandler's been in the shower?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Listen, we-we have to have dinner. What-what are you doing tomorrow night?",
+      "characters": [
+        "David",
+        "Director",
+        "Joey",
+        "Melissa Warburton"
+      ],
+      "correctAnswer": "Melissa Warburton"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 402,
+  "date": "2026-02-28",
+  "questions": [
+    {
+      "quote": "I hate this. 'Cause I tell you, I had the most amazing two weeks planned for us, and almost everything I had in mind, we had to be a lot closer than this.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Do you have a minute? I'd like to talk to you about something I'm, I'm really uncomfortable talking about.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Doug"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, prude... Look, Monica and Chandler really love this house. You are not gonna talk them into staying here.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Phoebe, hi, we're so sorry. You're totally right. We are here one hundred per cent and we love you and we are ready to start your birthday celebration.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now, I want you to tell me what you're doing while you're doing it.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Interviewer"
+      ],
+      "correctAnswer": "Interviewer"
+    },
+    {
+      "quote": "Well, he said I wasn't urgent enough, you know, and that everything I did was horizontal and I should be more vertical. Oh, and he said that I should think less.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Let me just get this straight! So I go have a baby and they send some guy in to do my job?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's right! Made expressly for Val Kilmer and worn by him in the hit film...that Batman film he was in.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Janine Lecroix",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sur-surprise him? We're not, we're not gonna make anybody mad are we?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know and I was going to, but I thought it was better that you heard it from Rachel's father. Look I...I made a mistake, but it's only because I really, really like you. Really!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

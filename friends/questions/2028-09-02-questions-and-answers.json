@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1319,
+  "date": "2028-09-02",
+  "questions": [
+    {
+      "quote": "Well usually...yeah! Well, not just lemonade, iced tea, sometimes juice. Well, sorry, I just, I thought you liked me. I'm such a jerk.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God! I bet that's him. My digital fairy tale is about to begin. I wonder how I should be? Should I be uh Hello? Or should I be Hi! It's Rach... Would you stop doing that?!",
+      "characters": [
+        "Phoebe",
+        "Fake Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. I think you have to draw him out. And then- when you do- he's a preppy animal.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Try sixty-five million years ago, and then try sssshhhhhh.... My tenure review board met today and I hear it's looking really good.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Hillary"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Bing! Read your Computech proposal, a real homerun. Ooh. Barely got ya that time, get over here. Come on. Wham! Good one. That was a good one. Keep at it team.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Doug"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "You're right. That's very different. So let's, let's just sign the papers. All right? What?",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Rachel",
+        "Joanna"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, I'm gonna go to work. Does anybody have a problem with that?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, okay, listen, umm, Mom, I hope you know you still mean a lot to me. And you're welcome to come back anytime.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh! Well that's it! He's the last one to go. I'm locking you guys in.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Mona",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hello! Oh yeah! It's the apartment manager; Ross put us down as references. Ross is the greatest guy you'll ever meet! Yeah, he's very reliable.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 556,
+  "date": "2026-08-01",
+  "questions": [
+    {
+      "quote": "Ooh that is definitely Chandler, Joey, or Ross. Or-or Rachel!",
+      "characters": [
+        "Ross",
+        "Danny",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes, yes, and it's, and we always have to go to, you know, someplace nice, you know? God, and it's not like we can say anything about it, 'cause, like this birthday thing, it's for Ross.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And when you have a second later, I wanna show you why we don't just trap spiders under coffee mugs and leave them there.",
+      "characters": [
+        "Gunther",
+        "Helena",
+        "Rachel",
+        "Malcom"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Okay, so what are we going to do about this hand twin thing?!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Susie Moss",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Monica and Chandler are really moving in here and I have to move out and everything is changing.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look who I found standing outside of the Szechwan Dragon staring at a parking meter.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Judge"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait, wait, he came up with that himself. Tell them, Chandler.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I can make you a legend. I can make you this generation's Milton Berle.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sure that would mean a lot to him. And if heaven has a door, I'm sure he's pressing his ear up against it and listening intently.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

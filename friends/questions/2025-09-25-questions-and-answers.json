@@ -1,0 +1,106 @@
+{
+  "gameNumber": 246,
+  "date": "2025-09-25",
+  "questions": [
+    {
+      "quote": "Isn't it funny how we kept running into each other? It's as if someone really wants us to be together.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You're just so mean to each other! And I don't want to end up like that with Rachel. I still like you!",
+      "characters": [
+        "The Interviewer",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Pheebs, this guy has been obsessed with your sister, for God knows how long, okay, you don't just give up something like that.",
+      "characters": [
+        "Rachel",
+        "The Director",
+        "Monica",
+        "Joanna"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, it's just that he got this new like home theater dealie, and he wants y'know, us to check it out.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Waiter",
+        "The Stripper"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes! Didn't you ever read Sports Illustrated?! No! I didn't read yours! But come on, we can go to the game tonight!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Roy",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, I got us some reservations for Sunday night, okay? How about, Ernie's at 9 o'clock?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God, honey we are so meant to be together. We both have copies of the Annie soundtrack.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, who cares what your Mom thinks? So you pulled a Monica.",
+      "characters": [
+        "Ross",
+        "Joanna",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So tell me something, is leaving the Christmas lights up part of your plan to keep us merry all year long?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

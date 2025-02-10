@@ -1,0 +1,106 @@
+{
+  "gameNumber": 392,
+  "date": "2026-02-18",
+  "questions": [
+    {
+      "quote": "Half the taste is in the smell! You-you're sucking up all the tastiness!",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Rachel",
+        "Alice Knight",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I still cannot believe you're engaged! Just 'cause its happening so fast; not 'cause you're such a loser.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, I don't know why we hang out with married couples more often.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No real-, honey, really it's fine, just g-go with Susan. Really, I, no, I think girls night out is a great idea. Okay, okay, bye",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "R-R-Richard said he wants to marry you?! And-and Chandler's tellin' ya how much he hates marriage?!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Why...Why should I? I mean if she wants to move on, that's fine!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God. This is where you got all our stuff, Pottery Barn! Oh my God!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Erica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh but then, they went and dropped you down that elevator shaft.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Lauren"
+      ],
+      "correctAnswer": "Lauren"
+    },
+    {
+      "quote": "No! I'm sorry, we were looking for \"Baby It's You\". Baby It's You.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Benjamin Hobart",
+        "Joey"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    }
+  ]
+}

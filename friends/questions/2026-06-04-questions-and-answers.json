@@ -1,0 +1,106 @@
+{
+  "gameNumber": 498,
+  "date": "2026-06-04",
+  "questions": [
+    {
+      "quote": "Hey Monica! People came to see a fight, let's give 'em what they came for!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What is it? Is there something fundamentally unmarriable about me?",
+      "characters": [
+        "Gunther",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's not gonna work out! Then she's gonna come home all weepy and you'll be tellin' her, \"Oh that's okay. You'll find someone.\" And then, bamn! She finds you!",
+      "characters": [
+        "Chandler",
+        "Doug",
+        "Joey",
+        "Carol"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Thomas, this is gonna be hard, but I wanted it to come from me, and nobody else.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Billy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Billy"
+    },
+    {
+      "quote": "No, she was this really dorky girl in high school that used to follow Rachel around like a puppy dog.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Amy Green",
+        "Ross"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "I invested in this night-club and it's opening tonight, would you like to come?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "OK, wait, wait, wait, wait. You know what? Ross, let's - let's switch places. You get in the middle. No un-, ya know, unless this looks like we're trying to cover something up.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Roy",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! So, uhh, Amanda just-just dropped me off. Yeah, that's one of the things I love about her, she's...uh, she's old enough to drive. So uhh, I guess you're not going to mom and dad's tonight?",
+      "characters": [
+        "Chandler",
+        "Fake Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you could wait 'til I go to the dentist, maybe I'll kill him.",
+      "characters": [
+        "Phoebe",
+        "Nora Tyler Bing",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, for my next song I think I'll sing something a little more upbeat. All right? Oh, how about the PointerSisters \"I am so excited\". And make it bouncy!",
+      "characters": [
+        "Emily Waltham",
+        "Monica",
+        "Amy Green",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

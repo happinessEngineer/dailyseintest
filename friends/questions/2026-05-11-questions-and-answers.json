@@ -1,0 +1,106 @@
+{
+  "gameNumber": 474,
+  "date": "2026-05-11",
+  "questions": [
+    {
+      "quote": "Yes! Now, they're a little more than I normally spend on boots...or rent",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, I hear that you and Joshua are going out to dinner with Ross and Emily, and I think that's, I think that's really cool.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! No! No! No! No! How you doin'?! How you doin'-Damnit Carl! Go wait in the hall!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow. What can I say? This doesn't make me like you any better!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Gavin Mitchell",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "Well yeah, I do, but I decided to take a long lunch and spend some time with my friend Monica. Y'know I-I feel that we don't talk anymore. How are you? What is new with you?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Kathy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Of course he is! What, do you think I'd just use my son as-as an excuse? What kind of father do you think I am?",
+      "characters": [
+        "Ursula",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! But she gave me the box that it came in. It had a picture of the bike on the front. So I would sit on it and my step-dad would drag me around the backyard.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah. See, that money was for a big wedding, that we thought we didn't want, but it turns out we do.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Leslie"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, please welcome... The Snufflebumps... Who wants to be mr. Wigglemunch and who's gonna be the Grumpus?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Sandy"
+      ],
+      "correctAnswer": "Sandy"
+    },
+    {
+      "quote": "I'm sorry... I'm sorry, God, I am so sorry, I'm an idiot, I was weak, I couldn't help myself! Whatever I did, I only did because I love you so much!",
+      "characters": [
+        "Joey",
+        "Malcom",
+        "Barry Farber",
+        "Chandler"
+      ],
+      "correctAnswer": "Barry Farber"
+    }
+  ]
+}

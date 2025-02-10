@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1028,
+  "date": "2027-11-16",
+  "questions": [
+    {
+      "quote": "Mom and dad just sent me in here to find out if you were trying to get Ross stoned!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What Phoebe? Wait! One time he caught me smoking he said if he ever saw me doing that again he'd make me eat the entire pack.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry. What was I supposed to do stand up and shout 'Hey, Rachel, your butt is showing!'",
+      "characters": [
+        "Erica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey! Check it out! This is unbelievable! Joey has been holding his breath for almost four minutes!",
+      "characters": [
+        "Shelley",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Gooood luck! Gooood luck! We all wish you good luuuuuuuuck!!!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No-no-no, that's a video-phone. But hey guys you're not supposed to be here, so please, do not touch anything.",
+      "characters": [
+        "Joanna",
+        "Ross",
+        "Mindy Hunter",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Not the first two, but the second two- woooo! ...I love you guys. You guys are the greatest. I love my sister , I love Pheebs...",
+      "characters": [
+        "Ross",
+        "Phoebe Abbott",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know, maybe she was just really spent from our talk. It was pretty intense.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross, Ross, please listen to me. Ross, you are so much better for me than Paolo ever was. I mean you care about me, you're loving, you make me laugh.",
+      "characters": [
+        "Paul the Wine Guy",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well maybe you're going about this the wrong way. You know I mean think about it. Single white male, divorced three times,two illegitimate children. The personal ad writes itself....",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

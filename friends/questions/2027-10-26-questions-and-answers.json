@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1007,
+  "date": "2027-10-26",
+  "questions": [
+    {
+      "quote": "You're right, you're right. I should just tell her the truth.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Are you crazy?! We own those two! I mean look at 'um, he can't breath and she's popping pills.",
+      "characters": [
+        "Ross",
+        "Erica",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look at me! I'm Chandler! Could I be wearing any more clothes? Maybe if I wasn't going commando...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "There we go.You know what, if we were in prison, you guys would be, like, my bitches.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry Chandler, y'know you are such a sweet guy and I, I don't want to hurt you. Oh, I wish there was something I can do to make you feel better.",
+      "characters": [
+        "Susan Bunch",
+        "Ross",
+        "Chandler",
+        "Dana Keystone"
+      ],
+      "correctAnswer": "Dana Keystone"
+    },
+    {
+      "quote": "Well, Monica and Chandler can't go. We're going to dinner remember?!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! Oh, I just thought of the greatest wedding gift to get you.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I think it all started when you said, \"Hey Joey, why don't you be my best man.\"",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know I miss you too. I can't wait to see you. I love you. Bye.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh, they gave me a great spot. Right by Macys. Yeah, they hardly ever give such a good spot to a rookie, but I'm the only one who can sing \"Merry Christmas\" in 25 languages. I lied.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

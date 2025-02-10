@@ -1,0 +1,106 @@
+{
+  "gameNumber": 648,
+  "date": "2026-11-01",
+  "questions": [
+    {
+      "quote": "Oh, yeah, with the mug painting. Yeah. I was so listening to that. But ah, y'know what, I think I kinda need to work on my stuff tonight.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, y'know for dating, general merriment, taking back to your windmill...",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Joey, you're this guy's teacher. I mean how could you do this?",
+      "characters": [
+        "Phoebe",
+        "Susie Moss",
+        "Elizabeth Stevens",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know what you're thinking Judy, the resemblance is uncanny!",
+      "characters": [
+        "Jack Geller",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Yeah! So--ooh, I gotta ask you though. How did you know where to find me?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, okay, Mike's taking a shower, which by the way there's no law against. And then we're gonna grab some food, so if you want...",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Stopping you from marrying the wrong man and making the biggest mistake of your life.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Dr. Drake Ramoray",
+        "Susie Moss"
+      ],
+      "correctAnswer": "Dr. Drake Ramoray"
+    },
+    {
+      "quote": "Oh I see, I see, because of the third nipple thing. Ha ha ha ha. . .",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. We figured when we couldn't find you, you'd gone home to make up with Rachel. Which is probably what you shoulda done. Huh?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Dina",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You're never gonna believe it uh, Monica and Chandler are moving in again. That's great news right-I mean for them. Right?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

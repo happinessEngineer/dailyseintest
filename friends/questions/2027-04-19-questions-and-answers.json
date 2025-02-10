@@ -1,0 +1,106 @@
+{
+  "gameNumber": 817,
+  "date": "2027-04-19",
+  "questions": [
+    {
+      "quote": "I'd say, come again. No-no, wait I-I-I know this one, I know this one, uh...",
+      "characters": [
+        "Monica",
+        "Janice",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That was that girl Megan! She booked the Swing Kings on the day of our wedding and said that I couldn't have them back unless I gave her the dress!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Mr. and Mrs. Geller, you look wonderful, it is great to have you hear, let us take off your coats!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Mark Robinson"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, I thought so too but, she said the casting people had some problems with me.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What? What? He's interested in you. He-he likes your hair, he just wants to know how you got here.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No Mon that's not the point. I'm out a thousand dollars, I'm all scratched up, and I'm stuck with this stupid cat that looks like a hand!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Remember back in freshman year? Well, Billy Dreskin and I had sex on your bed.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, our system assures total anonimity. We're very proud of it.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Agency Guy",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Agency Guy"
+    },
+    {
+      "quote": "Your little men are gonna get scored on more times than your sister.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Kim",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know, I-I have to listen to both of them, they don't exactly let each other finish...",
+      "characters": [
+        "Monica",
+        "Mr. Zelner",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

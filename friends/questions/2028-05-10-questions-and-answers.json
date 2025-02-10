@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1204,
+  "date": "2028-05-10",
+  "questions": [
+    {
+      "quote": "That's not why you're going! You're going because you hope he's gonna say, \"Yeah, I love you too, Rach. Forget that British chippy.\"",
+      "characters": [
+        "Ross",
+        "Carol",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Man, it must be so cool remembering stuff like that! I don't have any past life memories.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Things that move me. The, the shadow of a tree, a child laughing, or this lip.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Julio (poet)",
+        "Ross"
+      ],
+      "correctAnswer": "Julio (poet)"
+    },
+    {
+      "quote": "Oh, I missed you kids. Well, should I put my coat in the bedroom?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Hey you guys, this is my sister Amy. This is Chandler, Joey, Phoebe and you know Mon.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, only the three of you, any more than that and she'll get suspicious.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "But your chin here. Now, you'll feel a small puff of air in each eye.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Dr. Miller",
+        "Ross"
+      ],
+      "correctAnswer": "Dr. Miller"
+    },
+    {
+      "quote": "Well, that is what happened, and I don't even see you denying this!",
+      "characters": [
+        "Rachel",
+        "Carol",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh sure, every Sunday night I'm telling myself I'm quitting but every Monday morning it's like",
+      "characters": [
+        "Kim",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "You know what, you guys? It's their first time, why don't we just forget about the money, alright?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

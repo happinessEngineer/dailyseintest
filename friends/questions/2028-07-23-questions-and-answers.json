@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1278,
+  "date": "2028-07-23",
+  "questions": [
+    {
+      "quote": "No! That's just the \"Hey Guy\" guy. He says that to everybody! He's the worst! I'd like to take him with me!",
+      "characters": [
+        "Earl",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Well, sure in a perfect world. But, no, I promised I wouldn't tell, and I swore to like all my gods.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Thanks, man. And oh, while you're at it, could you get her a card?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh-huh, me too. Ross, maybe I should've specified that I'd be needing a grown up doctor.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Dr. Franzblau",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, because we want to get to know her better and she's never been to New York so she wants to see all the tourists' spots... you know, Statue of Liberty, Empire State Building...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Dr. Harad",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, I don't know why, I'm sorry, I guess I just didn't want to lose face.",
+      "characters": [
+        "David",
+        "Ross",
+        "Julie",
+        "Phoebe"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Doctor, can I see you for just a minute please? My brother has a slight phobia about needles.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, but Monica, do you actually want to be in a relationship where you can actually use the phrase, \"That's not how your dad used to do it.\"",
+      "characters": [
+        "David",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I still say that if we had called your dad we coulda gotten better seats.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know, I'm not trying to do anything, it's just, we have such a good time when we're together, you know... I mean, aren't you just a... little curious... what that would be like?...",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

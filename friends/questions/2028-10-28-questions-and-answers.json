@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1375,
+  "date": "2028-10-28",
+  "questions": [
+    {
+      "quote": "Yeah-yeah. And the craziest thing is that I just ate a whole pizza by myself!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Thank you, Mister Drunken Gambler! Okay, you get this and uh, we get the biggest suite in the place! Wait-wait-wait-wait! We get the biggest suite in the place.",
+      "characters": [
+        "Nurse",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, no no no. Its for Ursula. I just figured, you know, size-wise.",
+      "characters": [
+        "Mr. Treeger",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow! Look At This! I Can'T Believe I Even Fit Into This Shirt! Oh, this is yours.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I Think It's Great That You Work Here. You'Re Going To Make A Lot Of Money, And Here's Your First Tip. Don't eat yellow snow. . Ah ha ha, 2:15, coffeehouse.",
+      "characters": [
+        "Danny",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! Everything's gettin' all messed up, y'know? Emily won't let Ross see Rachel, we're not gonna stop seeing Rachel, hence Ross stops seeing us!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "'Dear Dr. Remore, know that I love you and would do anything to have you.' Gosh. 'Your not-so-secretive admirer, Erica Ford.' Ooh wait, 'PS enclosed please find 14 of my eyelashes.'",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey-hey! Stanley! Hey-hey! You're leading man is here! Let's get to work.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Good-good, don't tell him. Don't tell him. Just have him call me okay?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh God, I'm so glad you guys are happy, I was so afraid you were going to be all freaked.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Man"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

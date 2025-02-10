@@ -1,0 +1,106 @@
+{
+  "gameNumber": 747,
+  "date": "2027-02-08",
+  "questions": [
+    {
+      "quote": "Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this bad boy.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, no-no-no-no-no-no, that's OK, I don't need them. I'm going for fours.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ross, you know what? Okay, let's talk about it later, there comes security.",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All guys that are awake. Then we go to sleep and then all the guys from the other end of the world wake up and behave the exact same way.",
+      "characters": [
+        "Chandler",
+        "Joshua Burgin",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "See but, Pheebs that-that is the exact opposite intent of my music. Y'know my music is-is meant to inspire, and if it bothers you this much, then I... I won't play anymore.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So, assistant to the director. That's a really exciting job, I mean, you must have a ton of cool responsibilities.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Umm, okay, yeah, sure. But wh-what's wrong with Monica and Chandler?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I-I-I'm sorry, your-your mouth was full, I didn't hear what you said. Umm, hats off to who now?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes. Once. Yeah, a little. He kinda did it to himself. It's not really a good story.",
+      "characters": [
+        "Phoebe",
+        "Emily Waltham",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And there's a peach cobbler warming in the oven so the plate's gonna be hot but that shouldn't be a problem for you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 398,
+  "date": "2026-02-24",
+  "questions": [
+    {
+      "quote": "Yeah but, you don't, you don't, you don't want to try to much too fast. Y'know? I mean, you do remember what happened to the little girl that tried to much too fast don't you?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, I didn't see it, because I was putting on my jacket, but I uh want to believe you.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sleeping with somebody new, anxiety, panic, and I'm afraid even more sweating.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "'Cause I just keeping thinking about all these things that I'm not gonna have and it's freaking me out. I don't know what to do about it.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, I can see where I'd be your best shot but, no. I'm sorry, but I think it's twisted.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I got it from Monica. She sold it to me for a very reasonable price.",
+      "characters": [
+        "Joey",
+        "Little Bully",
+        "Chandler",
+        "Mark Robinson"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ah, look on the bright side, I mean you won't have to live with this ugly chair! That was here already huh? I love you.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, err... no, she's not here yet. You know, I think I'm just gonna take off and break up with her over the phone...",
+      "characters": [
+        "Larry",
+        "Joey",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "No, but you should go to Chandler's. Because none of us knows how to cook, we'll probably just end up drinking all day.",
+      "characters": [
+        "Mona",
+        "Janine Lecroix",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "So, a lot of malfunctioning wee-wees and hoo-hoos in this room, huh?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 998,
+  "date": "2027-10-17",
+  "questions": [
+    {
+      "quote": "I know you did. I'm just gonna deal with it, I'm just gonna deal with it. I gotta get out of here.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Charlie Wheeler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, okay... good. You do that. And then when you get home, maybe there'll be a special delivery package waiting for you.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Waiter"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, it's-it's my only weird thing, I swear. And I-I-I would've told you about it, but I didn't know they would be here.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "I'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is.",
+      "characters": [
+        "Woman",
+        "Phoebe",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Just trying to get comfortable. I can't sleep in my underwear.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes, that's right. We're excited about the level of sophistication you'll be bringing to the job.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Steve"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "Yeah, nothing happen. You could cut the sexual tension in here with a knife.",
+      "characters": [
+        "Kim",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "Ok, so there's not a magazine under the couch, or a pack of cigarettes taped to the back of the toilet tank, or a filthy video in the VCR?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "If it's not, then there's two of them. And that would mean it's the end of the world!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, all she said was that I remind her too much of somebody. You have any idea who she's talking about?",
+      "characters": [
+        "Chandler",
+        "Russ",
+        "Interviewer",
+        "Joey"
+      ],
+      "correctAnswer": "Russ"
+    }
+  ]
+}

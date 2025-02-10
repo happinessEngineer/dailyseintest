@@ -1,0 +1,106 @@
+{
+  "gameNumber": 108,
+  "date": "2025-05-10",
+  "questions": [
+    {
+      "quote": "Okay, it's his first time out, so he's probably gonna wanna do some of the touristy things. I'll go to Cats, you go to the Russian Tea Room.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Julie",
+        "Megan Bailey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Naa. A while ago I got a sah out of him, which I thought, ya know, might turn into sah-condary caregiver but... Hey, would you uh, would you hold him for a sec, 'cause I, I gotta take this off.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no, don't, don't, rub it! Don't! What gets out hummus?! What gets out hummus?!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thanks! Y'know, that when you say things like that it makes me wanna rip that sweater vest right off!",
+      "characters": [
+        "Mona",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wow, all you need now is The Killing Fields and some guacamole and you've got yourself a part-ay.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "'I am Bea. I drink tea. Won't you dance around with....' Ohhh!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, well then get some sense. I mean it took you what, 10 years to get that job, who knows how long it's gonna be till you get another.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Our next item is the romantic trip to Paris. It goes to Emil Alexander high a high bid of 2,300.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Mr. Thompson"
+      ],
+      "correctAnswer": "Mr. Thompson"
+    },
+    {
+      "quote": "Well, I mean... It sounds good to me. And that way we can save up, come back in a few years and make an even bigger donation.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Oh, yeah. But you have to give it back if I get a job. Of course, by that time in the future ties will be obsolete and we'll all be wearing silver jump suits.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Megan Bailey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

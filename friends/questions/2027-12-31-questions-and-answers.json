@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1073,
+  "date": "2027-12-31",
+  "questions": [
+    {
+      "quote": "Phoebe, she doesn't know that you sneak out every night, she doesn't know that you sneak back every morning, and she doesn't know that you've been living with your Grandmother's for a week now.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She's right, you shouldn't have bought tickets just for us ...",
+      "characters": [
+        "Monica",
+        "Alice Knight",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Gandolf the wizard. Hello! Didn't you read Lord of the Rings in high school?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I guess. Look, what are we gonna do about this scene, huh?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Kate Miller",
+        "Monica"
+      ],
+      "correctAnswer": "Kate Miller"
+    },
+    {
+      "quote": "What, you never look down in the shower? Oh please. I'm not allowed to make one joke in the monkey-is-penis genre?",
+      "characters": [
+        "Joey",
+        "Susan Bunch",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me.",
+      "characters": [
+        "Paul Stevens",
+        "Mike Hannigan",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Is that why in junior high you were the only one that hung out with that Ukrainian kid?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Sandy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, well I don't think you can make that statement, unless you've been kicked in an area that God only meant to be treated nicely.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah Ross, I mean... we're excited to hear the speech but the rest of the time we're gonna wanna do, you know, \"island's stuff\".",
+      "characters": [
+        "Monica",
+        "Erica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. I have just a few questions to ask so I'm going to get out my official forms. Okay, so, question 1) You and uh, you were married to Francis' daughter Lilly, is that correct?",
+      "characters": [
+        "Phoebe",
+        "Mike Hannigan",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

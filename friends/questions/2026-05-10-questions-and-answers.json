@@ -1,0 +1,106 @@
+{
+  "gameNumber": 473,
+  "date": "2026-05-10",
+  "questions": [
+    {
+      "quote": "That's it?! You call that a fight? Come on! \"We were on a break!\" \"No we weren't!\" What happened to you two?!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "The Teacher",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God, wait did I-I just said Greens don't quit didn't I? Did I just say Greens don't quit?!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh. That's so Monica can keep track. That way if one on them is missing, she can be like, 'Where's number 27?!'",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.",
+      "characters": [
+        "David",
+        "Ross",
+        "Guy",
+        "Phoebe"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Yes. Yes it is. I burned the formula and I put your diapers on backwards. I mean, I made up a song to sing you to sleep, but that made you cry even more!",
+      "characters": [
+        "Frank Buffay Sr.",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Sr."
+    },
+    {
+      "quote": "Yes-yes, I was just trying to figure out a way to uh, demonstrate how I could get my exceptionally large feet into my even bigger mouth.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Thank you, thank you. How about I do something for you? Tomorrow, I'll bring you a hat, cover up the bald?",
+      "characters": [
+        "Ross",
+        "Ursula",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look at these authentic fake medals. I tell ya, mom's gonna be voted best dressed at the make-believe military academy.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Mike Hannigan",
+        "Melissa Warburton"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I mean, are you sure you want to go out with her? I mean that ain't a pretty picture in the morning, y'know what I mean. That wig all in disarray, and boobs flung over the night stand, y'know.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ow. Um, it's just my lens. It's just my lens. I'll be right back.",
+      "characters": [
+        "Janice",
+        "Amanda Buffamonteezi",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Janice"
+    }
+  ]
+}

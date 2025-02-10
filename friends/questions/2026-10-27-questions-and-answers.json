@@ -1,0 +1,106 @@
+{
+  "gameNumber": 643,
+  "date": "2026-10-27",
+  "questions": [
+    {
+      "quote": "Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey Joe! We've got a couple of things we've got to check out at the new house. You want to come with us?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! Tall guy! Hey, listen, I wanted to talk to you about that girl that you're dancing with.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I mean I love spending time with you, y'know I just-I hope we're moving forward. I mean, we should probably talk about that. Don't you think?",
+      "characters": [
+        "Mona",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "No. No. We're not gonna do that, y'know why? Because its not an even trade.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Roger",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So is everybody here? I got here a little early myself. Let us begin. Now, the hydrosaurids have been unearthed in two main locations. Here. Here. Now as for the hydrosaurs...",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hello? It's Joey. I'm so glad you called! Chandler told me what happened. Y'know he's really upset about it.",
+      "characters": [
+        "Stephen Waltham",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I should just go on to happier things, okay? Umm, why don't you tell about your lovely wedding?",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Ross",
+        "Charity Guy"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Umm, I think I spoke too quickly. There-there's a learning curve with this job and maybe we can try it again.",
+      "characters": [
+        "Cecilia",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So wait, Ross's stuff is fine, but I have no memories because you wanted to keep the bottom two inches of your car away from water!!!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

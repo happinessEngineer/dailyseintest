@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1483,
+  "date": "2029-02-13",
+  "questions": [
+    {
+      "quote": "Oh yeah, sure, no problem, I'll just-hold on one second. \"Hey Timmy, I've got a surprise for you!\"",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Really?! Okay well then, all right, well just have a seat there. Umm, so what's-what is-what's your name?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Amy Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, those people just left, come on! Quick! Give him the money and get their table!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right here he comes. I'm gonna do this, I'm gonna tell him, I'm gonna be strong.",
+      "characters": [
+        "Doug",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'll hold you close in my arms. I can't resist your charms. And love....",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Maybe because it's you hung your head out of the window like a dog the whole ride here.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, bye, champ. Now, I know there's gonna be a lot of babes in San Diego, but remember, there's also a lot to learn.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Gunther"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Monica, last Saturday night, what happened on Walker Texas Ranger?",
+      "characters": [
+        "Richard Burke",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Just a little gag gift somebody gave me. Put your hands together.",
+      "characters": [
+        "Ross",
+        "Joanna",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Hey-hey-hey-hey, I can help you decide who should do it! Yeah, we could have like uh, like an audition and see how you'd handle maid of honor type situations.",
+      "characters": [
+        "Gavin Mitchell",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

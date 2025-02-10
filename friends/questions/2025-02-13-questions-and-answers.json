@@ -1,0 +1,106 @@
+{
+  "gameNumber": 22,
+  "date": "2025-02-13",
+  "questions": [
+    {
+      "quote": "Whoa, whoa, whoa! Slow down, you go way too fast. Ok? Just go back to the MET, ok?",
+      "characters": [
+        "Dr. Harad",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right!!! Okay!! All right! Okay-okay, I gotta get started on my speech! Oh, wait a minute, Internet ministers can still have sex right?",
+      "characters": [
+        "Mike Hannigan",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh come on! Just pick one! Between Monica, Phoebe, Chandler, and Ross if you had to, if you had to, who would you punch?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No don't worry, this is not some rebound thing. I am totally over Eric.",
+      "characters": [
+        "Joey",
+        "Michelle",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Michelle"
+    },
+    {
+      "quote": "Well, maybe that's because you spent four years ignoring me. I mean, would it have been so hard to say 'Morning, Luisa'? Or 'Nice overalls'?",
+      "characters": [
+        "Luisa Gianetti",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Luisa Gianetti"
+    },
+    {
+      "quote": "And your horoscope says, \"On the fifth a special someone is going to give you a gift.\"",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Maybe it's the sound of Ross climbing into my brain and stealing my thoughts.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I know it... It is amazing these little things open doors... huh!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "seriously Gunther you should see someone about that cold, if it gets much worse you could DIE!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living together!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Melissa Warburton",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

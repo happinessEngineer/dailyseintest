@@ -1,0 +1,106 @@
+{
+  "gameNumber": 326,
+  "date": "2025-12-14",
+  "questions": [
+    {
+      "quote": "But I-I-I can't stay too long, I gotta get up early for a commercial audition tomorrow and I gotta look good. I'm supposed to be playing a 19-year-old. What?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Eh, 'cause I knew that if I told you, you'd make me go, and I knew you needed someone to be with you tonight. Come on. Come on.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, hey! Well... Here's to Phoebe, who's found the greatest guy in the world! To Phoebe and... I wanna say Mike? To Phoebe and Mike!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": ": Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin' crazy that night, I was so drunk!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So wh..? He's smart, he's qualified. Give me one good reason we shouldn't try him out.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Didn't you hear that speech? If you don't kiss him then I will!",
+      "characters": [
+        "Dina",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, you know what might help you deal with it? Think of it this way, you and Emily are in the past and you can't be mad about the past. So are you still mad about the Louisiana Purchase?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Man, I'm starving! What the hell was I thinking at dinner?! \"Do you want soup or salad?\" Both! Always order both!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! I am a positive person. You are like Santa Clause on Prozac, at Disneyland, getting laid!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, Net Usage Statistics, right. Gotcha, gotcha. Wont happen again. I wouldnt want to do anything to hurt your... \"wenus.\"",
+      "characters": [
+        "Nurse",
+        "Joey",
+        "Rachel",
+        "Nina Bookbinder"
+      ],
+      "correctAnswer": "Nina Bookbinder"
+    }
+  ]
+}

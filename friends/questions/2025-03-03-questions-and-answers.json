@@ -1,0 +1,106 @@
+{
+  "gameNumber": 40,
+  "date": "2025-03-03",
+  "questions": [
+    {
+      "quote": "Okay, just back off mister! Whoa. 'Cause I am ready to have a baby. I just want Joey to be the father.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ha,ha, ha, oh my life is just so amusing. Could we drop it now?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow. Umm... Huh... I'm-I'm not sure what to do with that right now.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Dr. Franzblau",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know but they don't sound like spa treatments. You have to get rid of it!",
+      "characters": [
+        "Mike Hannigan",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Ok, then I want to hear you say it, I, I want to hear you say you want me out.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "Cats, how long do they live figuring you don't... y'know, throw 'em under a bus or something?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I just can't believe you're in here. I mean, what am I gonna do without you? Who's gonna crash the embassy parties with me? Who's gonna take me to the Big Apple Circus?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know, I don't get this. A month ago, these people were my friends. You know, just because I'm in charge doesn't mean I'm a different person.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Nina Bookbinder",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hmm. Look, Ross, if you want your neighbors to like you, why don't you just pay the hundred bucks? The party's gonna cost you way more than that.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Judy Geller",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, maybe that's because you're closer to you. So you look bigger to you from where you are.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

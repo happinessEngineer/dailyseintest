@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1068,
+  "date": "2027-12-26",
+  "questions": [
+    {
+      "quote": "And I'm sure you're gonna make a big impression. Hi! I'm Rachel Green. It's nice to meet you. Come on, you probably have a broken rib!",
+      "characters": [
+        "Ross",
+        "Dr. Franzblau",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow! You realize that we've been throwing this ball, without dropping it, for like an hour?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Good God Bing I...well I can't say I'm altogether surprised, I saw the way she looked at you, and there was no love there. And the way she looked at me, pure lust.",
+      "characters": [
+        "Ross",
+        "Doug",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Okay, y'know what, you don't have to do that now. No-no-no-no!! Not him, you don't! Well the moment's over.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Girth? Why, why, why, wh-why, why, why, why would they do this?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, hon can you grab me my other box of tissues? They're right on that chair under Ross's coat.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And! We should keep all the stuff uh, we told each other secret from everybody else.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, good, 'cause umm, well maybe we could have a little workout of our own...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "One meal! That's all I'm asking for. Please? We go out, we eat, and if you don't have a good time, I give you ten grand, we call it even.",
+      "characters": [
+        "Mike Hannigan",
+        "Chandler",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Listen. Oh hey, hey, the important thing was that she meant, she meant nothing to me!",
+      "characters": [
+        "Chandler",
+        "Ronni Rapalono",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 530,
+  "date": "2026-07-06",
+  "questions": [
+    {
+      "quote": "These are my night vision goggles. This is the book I pretend to read when I'm watching her in the park. And these are Mad Lips, they're just for fun.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Malcom",
+        "Phoebe"
+      ],
+      "correctAnswer": "Malcom"
+    },
+    {
+      "quote": "OH, a soap opera roof party!! I'm going to a soap opera roof party!! Oh my God, oh my God!! And it's out of my system!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, come on. You know you want it, you know you want it too, come on. Let's just be bad, it'll feel so good.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know when I'm 90 she'll be like 80 and it won't seem like such a big difference.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, a wiseacre. . No, no, no, I understand you plan to support your wife by playing the piano? Isn't that kind of unstable?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, ultimately, I was trying y'know, I-I wanted...tell him y'know, that I'm still in love with him.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh it's umm, good! It's umm, it's good, just here watering the plants.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey? Could you get that? What are you doing here? I thought you were in your room?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, hi. You guys got any of those baby chicks? 'Cause I was watching this ah, commercial on TV and man, those guys are cute!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, well that's bad. But don't you think it might be different with someone else? Perhaps a blonde who always uses a toilet. Except for once in the ocean.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

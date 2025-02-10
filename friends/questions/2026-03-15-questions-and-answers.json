@@ -1,0 +1,106 @@
+{
+  "gameNumber": 417,
+  "date": "2026-03-15",
+  "questions": [
+    {
+      "quote": "Yeah, I mean... I think when it's your shot, y'know, you-you know it's your shot. Did it... feel like your shot..?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Leslie"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Anyway, they want me to go down to this- sonogram thing with them tomorrow.",
+      "characters": [
+        "Judge",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What? Oh yeah, yeah I think so. Why am I invited to this again?",
+      "characters": [
+        "Monica",
+        "Richard Burke",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, you guys, I can't believe this. But I'll leave now, or I'm gonna miss my plane.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right Mike, let's get this over with. Sudden death. Whoever wins this point, wins.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I-I thought a lot about what you said, and um, I realilized duh, all right maybe I was a little judgmental. Yeah, oh, but oh...",
+      "characters": [
+        "Rachel",
+        "Jill Green",
+        "Lennart",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's just that he doesn't have that much free time, ya know, and I don't know, what do I do?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "We know you took so just-just save yourself the time and confess!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Mark Robinson",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait a minute, Phoebe! We should be partners. We should be catering partners. I mean, think about it! You're not working right now, and we have such a great time together!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

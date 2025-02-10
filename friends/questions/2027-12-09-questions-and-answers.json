@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1051,
+  "date": "2027-12-09",
+  "questions": [
+    {
+      "quote": "Hey! Handcuffs! And fur line, nice! I didn't know you guys had it in ya!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Susie Moss"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "How about Tony's? If you can finish a 32-ounce steak, it's free.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Joey Tribbiani Sr.",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "This-this is crazy! I can do this! All right, uhh, I bet I can get all 50 before dinner.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, who wants to ah, throw the ball around a little, maybe get a little three on three going?",
+      "characters": [
+        "Joey",
+        "Jill Green",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, you're being wierd. Do you want sex or did you do something bad?",
+      "characters": [
+        "Jill Green",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok people, we are back in business! Oh God, we've missed you soo much! Ok, go and get your hair and make-up done, and I'll take care of everything.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You get to be the baby's father. Everyone knows who you are. Who am I? There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",
+      "characters": [
+        "Susan Bunch",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "No, Rach, come on. Rach! Rach, no, no! She's not Rachel, she is, she is not, Ra--Rachel?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Basically, we think you're a horrible human being, and bad things should happen to you.",
+      "characters": [
+        "Joey",
+        "Mindy Hunter",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Mindy Hunter"
+    },
+    {
+      "quote": "Monica, you don't even have a bed, you sleep in a ball on the floor!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

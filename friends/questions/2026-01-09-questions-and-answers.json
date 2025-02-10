@@ -1,0 +1,106 @@
+{
+  "gameNumber": 352,
+  "date": "2026-01-09",
+  "questions": [
+    {
+      "quote": "Oh no, yes I do! I do! I mean, come on go on, you were, you were saying I am happier when uh, y'know?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, good news everyone, we finally found a nanny. This is Molly . Molly, Chandler, Joey.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Janice",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh great! We're going out again Saturday. But I just found she's also seeing some other guy.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's true. Well, is anything you told me about yourself true?",
+      "characters": [
+        "Fake Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, does anybody need anything copied? I'm going down to the Xerox place.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! You assume because I was heavy that's the only way I could win something?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Little Bully"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah well, maybe you should go back! Okay? Rachel moves in, and before you know it you're right where you don't want to be! Back together!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. My Dad says if I spend as much time helping him clean apartments, as I do daydreaming about outer space, he'd be able to afford a trip to the Taj Mahal.",
+      "characters": [
+        "Sarah Tuttle",
+        "Phoebe",
+        "Ross",
+        "Roger"
+      ],
+      "correctAnswer": "Sarah Tuttle"
+    },
+    {
+      "quote": "Okay, oh, here's what you do. Just act like everything around you turns you on.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm so sorry that you had to find out this way. I'm sorry, but iit-t's true, I love him too.",
+      "characters": [
+        "Monica",
+        "Gavin Mitchell",
+        "Chandler",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

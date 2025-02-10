@@ -1,0 +1,106 @@
+{
+  "gameNumber": 884,
+  "date": "2027-06-25",
+  "questions": [
+    {
+      "quote": "Oh come on man, you can dance with my partner, she's real, uh, mellow!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I called the lady about that. I told her I was just joking. She was pretty nice about that.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, maybe. I do have my whole career in front of me. I mean, I can still win a Nobel prize. Although the last two papers I've written were widely discredited.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! If-if-if we did do this there would be a lot of pressure on me, y'know? Because you've been waiting a very long time and I wouldn't want to disappoint you.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, well he's obviously late and the rule in my class is \"if you can't come on time, then don't come at all\". An option that many of my students use. Shall we?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, but wait-what if I bought it from you, y'know? And your nice gesture would be giving it to me at a reasonable price, say $1,500?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Jack Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No Joey, look. Trust me, all the men are wearing them in the spring catalog. Look. See look, men, carrying the bag.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh God! Here we go again. Why does this keep happening to me? Is it something I'm putting out there? Is this my fault? Or am I just nuts?",
+      "characters": [
+        "Robert Bobby",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Robert Bobby"
+    },
+    {
+      "quote": "Y'know, I forgot the combination to this about a year ago? I just carry it around. Do you have any Chap Stick?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Tiger! Dragon! Iceberg!! Joseph, did you even study at all last night?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

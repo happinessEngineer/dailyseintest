@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1024,
+  "date": "2027-11-12",
+  "questions": [
+    {
+      "quote": "Yeah, that's when if you get the babies out by the end of the month, they give you 2% financing.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on, Chandler, I want this part soo much. Just one kiss, I won't tell anyone.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "The Casting Director"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "God, the first time he smiled at me... those three seconds were more exciting than three weeks in Bermuda with Barry.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know I'm having the worst time. There was a 15-minute line for the buffet, and when I finally got up to the plates, I slipped on a giant booger!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes it is. You see I've always found the men's bathroom very sexual. Haven't you?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "The Stripper"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Umm, I...I just think you don't expect someone so hot to be so sweet.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Amy Green",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know of-officer I uh...I had the weirdest dream last night...",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thankfully you don't need me at all so Okay Super aunt see you later! Rachel let's give it six to eight months .",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now, see, I don't believe any of that. I think once you're dead, you're dead! You're gone! You're worm food! ...So Chandler looks gay, huh?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look at us all dressed up for the big office party! By the way, what are we celebrating?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Richard Burke",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

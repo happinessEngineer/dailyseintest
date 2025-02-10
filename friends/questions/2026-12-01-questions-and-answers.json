@@ -1,0 +1,106 @@
+{
+  "gameNumber": 678,
+  "date": "2026-12-01",
+  "questions": [
+    {
+      "quote": "Thank you! Well, I guess now I know who I'm taking to the awards.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I feel like we're the only two people in the world. Oops. Sorry.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, she's really nice. Okay? And she mentioned that she adored the way that you arranged the sponges.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, better, actually. Y'know I-I-I think I finally figured out why we were having so much trouble lately.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Hayley"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right look, I think it's time for you to settle down. Y'know? Make a choice, pick a lane.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh that's right. There's a lot going on here and I think I ate some bad fruit earlier.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "'74?! I ordered the '75! That's a magnificent wine! The '74 is sewage! Why would you bring me sewage?! Is that a hard question? Are you an idiot? Is that why you're a waiter?",
+      "characters": [
+        "Leonard Green",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Oh, wait a minute it's not gonna be Baby Girl? I thought that was so original!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Doug"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. This is just part of a dare devil game that I play called 'wait until the last moment before I burst and die.'",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Laura"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So great. Oh, we took a nap today and my Mom fell asleep on my tummy and purred.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

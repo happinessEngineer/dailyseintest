@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1485,
+  "date": "2029-02-15",
+  "questions": [
+    {
+      "quote": "I may have borrowed this from my nephew, but let me assure you, what's underneath ... is all man.",
+      "characters": [
+        "Roy",
+        "Ross",
+        "Charlie Wheeler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Not as impressive as you. I gotta tell you, I looked at your record and you've done some pretty weird stuff.",
+      "characters": [
+        "Gary",
+        "Roger",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Dr. Franzblau",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you couldn't get them anyway. Ian doesn't plan anymore and Derrick... And Derrick is a name I shouldn't know.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well... I just talked to Sid, we are definitely putting in an offer on the house... a-a-and I'll bet we get it.",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "No, you don't have to, and you can't because I, I live here too.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Laura"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, what do you have a fear of if you suffer from this phobia, Tris...Holy cow, that's a big word. Trisc... Seriously look at this thing. Chandler, how do you say that?",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay look, there's nothing to worry about. We have plenty of time. There's a great baby furniture store on west 10th. Tomorrow, we will go there and we will get you everything that you need. Okay?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh thank god, if Phoebe's going, can we please take Emma home?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 827,
+  "date": "2027-04-29",
+  "questions": [
+    {
+      "quote": "Why, it's dinner for six. 5 steaks, and an eggplant for Phoebe.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh-hmm. Okay. Well then, could we reschedule? For say, Friday night perhaps at 8 o'clock?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Monica? You gonna be very proud of me. I just got us dates with two unbelievably cute nurses.",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Are you gonna... you're going to take Hugsy away from a little child?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "A salad? Really I, I could do something a little more complicated if you like.",
+      "characters": [
+        "Steve",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, that's what we do. Y'know, I-I mess up and then you tell me how to fix it and then I do and then y'know you think I'm all cute again.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, all right, whew! What do you say we all clear out of here and let these two lovebirds get back down to business? Hey-hey-hey, I-I-I'm just talking here, he-he's the one doing your sister.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, y'know what? I can't. I have to have dinner with that Melissa girl.",
+      "characters": [
+        "Cop",
+        "Chandler",
+        "Director",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, it's a poster for that World War I movie that I'm in, check it out.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "She's fine. She's experiencing Braxton-Hicks contractions, mild discomfort caused by contractions in the uterine wall.",
+      "characters": [
+        "Dr. Long",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Dr. Long"
+    }
+  ]
+}

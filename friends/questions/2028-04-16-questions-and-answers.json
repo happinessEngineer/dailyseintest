@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1180,
+  "date": "2028-04-16",
+  "questions": [
+    {
+      "quote": "All right fine, your guy may have a great body, but our guy is really funny.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes!! Ha-ha!! All right! Hey! How cool would it be if you could watch like a real life-sized version of this? Huh? I mean how crazy would that be?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm hoping that if she hears it enough it will be her first word.",
+      "characters": [
+        "Monica",
+        "Susan Bunch",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is great, another Thanksgiving with nothing to give thanks for.",
+      "characters": [
+        "Wayne",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Amy Green"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Freaked out? Hey no, I'm not freaked out! I'm indignant! As a consumer!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, I don't care what you guys say, something's bothering her.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's hard to tell because I'm sweating, but I use exactly what the gel bottle says, an amount about the size of a pea. How, how can that be too much?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, that's VH-1. I gotta tell you, the music these kids listen to today . . . It's like a lotta noise to me. I don't know...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Mike Hannigan",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Actually she's a paleontology doctoral candidate, specializing in the centazoic era.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "David",
+        "Mr. Ratstatter"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

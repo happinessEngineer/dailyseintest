@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1523,
+  "date": "2029-03-25",
+  "questions": [
+    {
+      "quote": "Hello...? Oh hi... Oh my God...! Really...? I can't wait to tell Chandler... Ok, goodbye.",
+      "characters": [
+        "Cliff",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know it sounds crazy, but Chandler this is the greatest sandwich in the world!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joe, I love Phoebe. She's the single most important thing in my life. I'd die before I let anything happen to her.",
+      "characters": [
+        "Mike Hannigan",
+        "Frank Buffay Jr.",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I love this street. The trees, the big front yards, the actual picket fences.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I-I'm not gonna be able to make it into work today, I don't feel very good. Yes!! Wow! Uh, for a second there I thought I was really better, but I'm not.",
+      "characters": [
+        "Wayne",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What does Rachel see in this guy? I love Rachel. I wish she was my wife.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Gunther",
+        "Chandler"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "But everybody sings. It's so much fun! Last time this adorable old man got out there, forgot all of the words, flipped outand everyone booed him off the stage. So funny.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "David",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Actually, they're things you can do. Just some home remedies, but in my experience I've found that some of them are quite effective.",
+      "characters": [
+        "Dr. Long",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Dr. Long"
+    },
+    {
+      "quote": "I can't believe this, she's our daughter! That you would treat her like some kind of showdog is inexcusable!",
+      "characters": [
+        "Estelle Leonard",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1029,
+  "date": "2027-11-17",
+  "questions": [
+    {
+      "quote": "So. I just thought the two of us should hang out for a bit. I mean, you know, we've never really talked. I guess you'd know that, being one of the two of us, though, right?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, Rachel's told me how much easier you've made all this on her. Why can't you do that for me?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Dina"
+      ],
+      "correctAnswer": "Dina"
+    },
+    {
+      "quote": "Honey, I'm not even going to pretend I was listening. Hey! Hey!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh god look at her sleeping. Oh, I love her so much! Oh, I think I'm gonna wake her up.",
+      "characters": [
+        "Rachel",
+        "Emily Waltham",
+        "Erica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I know. I hate it too. Look, maybe we should just tell them.",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Chandler",
+        "Sandy"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Somewhere there is someone with a tranquilizer gun and a huge butterfly net looking for that man.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I wish. Look, honey, you have that report to finish, and I gotta go see my lawyer.",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Ross",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Huuh, alright, Danny Arshak, ninth grade. Oh, c'mon Rach, you know the bottle was totally pointing at me.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Sometimes I wonder if I did the right thing, ya know, giving him away.",
+      "characters": [
+        "Jack Geller",
+        "Phoebe",
+        "Ross",
+        "Chip Matthews"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes. Yes! Fine! I am someone! You want me to say it? I have doubts! I'm sorry!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

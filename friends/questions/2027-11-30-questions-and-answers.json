@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1042,
+  "date": "2027-11-30",
+  "questions": [
+    {
+      "quote": "My skirt, you lifted, kids laughing. I was Susie Underpants 'till I was 18.",
+      "characters": [
+        "Rachel",
+        "Susie Moss",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "Were not doing anything. Were just sitting around talking, quietly.",
+      "characters": [
+        "Ross",
+        "Steve",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, yes, and now. Yes I did say it, and no, I didn't not say it.",
+      "characters": [
+        "Phoebe",
+        "Benjamin Hobart",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "I don't know! How about, \"Thanks for taking the message.\" Jeez!",
+      "characters": [
+        "Joey",
+        "Shelley",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Chandler!!! Chandler!!! Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "'Cause my, my grandmother's never had chicken pox. Please, please tell me you have, 'cause oh my God, I forgot how cute you are.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Don't take that tone with me. Who you think you are? Alan Lemond, the first black man to fly solo across the Atlantic?",
+      "characters": [
+        "Emily Waltham",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't want to be single, okay? I just... I just- I just wanna be married again!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I-I'm sorry it wasn't one of those movies with, like, y'know, guns and bombs and, like, buses going really fast...",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

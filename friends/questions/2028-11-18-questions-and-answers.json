@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1396,
+  "date": "2028-11-18",
+  "questions": [
+    {
+      "quote": "No, no, no, you're doing fine, really... Why don't you go talk to my dad?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Woman",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Oh, I believe I had the half-drunk cappuccino with the lipstick on the rim.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know uhh... Well, I'm Joey. Yeah, I'm disgusting, I take my underwear off in other people's homes.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh no! No no! Not at all. We're just moving in right now. See where it goes.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's right! I do! And I'm your man. And I'm going to get us through this situation even if it means you working twice as hard.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah hey, you know if you want I can take you around back and show you where he hit his head on the rain gutter.",
+      "characters": [
+        "Monica",
+        "Frank Buffay Jr.",
+        "Jack Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Hey! Wait a minute! That was different! I did those things because I was in love with you!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Whoa, whoa, so I'm guessing you didn't get the part, or... uh, Italy called and said it was hungry.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey listen, so when's-when's my audition? I mean I know it's Thursday, but what time?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi! Hi! Listen, my friend Ross is about to be divorced for the third time, but wouldn't you date him?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

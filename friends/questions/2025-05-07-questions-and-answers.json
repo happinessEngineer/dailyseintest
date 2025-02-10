@@ -1,0 +1,106 @@
+{
+  "gameNumber": 105,
+  "date": "2025-05-07",
+  "questions": [
+    {
+      "quote": "Hey, I'm going for sushi does anybody want.. Whoa-whoa, somebody missed the off ramp.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, believe me, to survive this party, you're gonna have to come up with one too.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know me sir. Oh ah, I do have a question for ya. Do you know how I get around the office computer network so I can access the really good Internet porn?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Did you, did you touch any of the guitars while you were there? Did you?!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Teacher",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Monica and I have a grandmother who died, you both went to her funeral, name that grandmother!",
+      "characters": [
+        "Ross",
+        "Nurse",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Are you kidding? Okay, look. I-I studied evolution. Remember, evolution? Monkey into man? Plus, I'm a doctor, and I had a monkey. I'm Doctor Monkey!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, my first massage today is this incredibly gorgeous guy, and every time I see him I just want to do things to him that I'm not allowed to charge for.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, I don't mind you touching my belly, but right now your hand is kind of blocking the part where the baby is gonna come out.",
+      "characters": [
+        "Erica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Yes, thank you. You see, this is how normal people are supposed to react to drums.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, look at him. Look at those strong hands. Oh what I wouldn't give to be that can of condensed milk.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

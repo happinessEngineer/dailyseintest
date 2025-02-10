@@ -1,0 +1,106 @@
+{
+  "gameNumber": 591,
+  "date": "2026-09-05",
+  "questions": [
+    {
+      "quote": "Of course I was mad! I told you I-I hate this stuff! Okay? It-it's not funny!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Are you sure? Hold on. I'm sorry you guys, that was a coffee and a....",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Steve",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Where is she, Where is she? Oh, hey, I have a question, where is she?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "A little. Yeah no, I really am worried, you know, I mean I have to make it convincing that I'm in love with Olivia.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, Valentine's Day was like two weeks ago, so I wouldn't get her a calendar!",
+      "characters": [
+        "Rachel",
+        "Amy Green",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "please don't cry because of me pheebs I don't know what I'm talking about, I've been divorced three times.",
+      "characters": [
+        "Chandler",
+        "Elizabeth Stevens",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Really?! Well, that's just lovely, isn't it? I must've missed your call, even though I didn't leave the flat all day.",
+      "characters": [
+        "Emily Waltham",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "But hey, in my defense I-I just found out condoms are like only 97% effective.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Nora Tyler Bing",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I want to, but I just want you to tell me that marriage isn't really that big a deal. You know that I won't, I won't be missing out on anything. That marriage stinks!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah well, he's not gonna get this one. Ben is way cuter than that kid. I mean look at him, look at you,",
+      "characters": [
+        "Judy Geller",
+        "Larry",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

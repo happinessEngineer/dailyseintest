@@ -1,0 +1,106 @@
+{
+  "gameNumber": 137,
+  "date": "2025-06-08",
+  "questions": [
+    {
+      "quote": "Well, someone was supposed to write \"Rach, take down the lights\" and put it on the re... frigerate... How long has that been there?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, if you wanna look good, why don't you just come down to the store? I'll help you out.",
+      "characters": [
+        "Rachel",
+        "Amy Green",
+        "Gunther",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I dunno what it is, it just doesn't quite feel like Christmas to me.",
+      "characters": [
+        "Chandler",
+        "Rob",
+        "Cecilia",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "no, no, no there's nothing wrong with you I mean you don't strike me as the type of person that wants to get married anyway.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Monica, could you excuse us for a second? I need to talk to the girl with the flowers.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh-no-no-no, you are! You do this, you give me the great advice, and hey listen, I was thinking about what you said yesterday about focusing on one woman, I'm gonna do that.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What, are you crazy? When a blind man gets his sight back, does he walk around like this?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, oh. Oh, oh. Oh this is it. Oh my god it's baby time. Baby time.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, well don't take it to the same place you took the stereo, 'cause they've had that thing for over a week.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, this was great. I'll give you a call. We should do it again sometime.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

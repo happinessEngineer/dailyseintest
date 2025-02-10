@@ -1,0 +1,106 @@
+{
+  "gameNumber": 936,
+  "date": "2027-08-16",
+  "questions": [
+    {
+      "quote": "Yeah but if we throw her a party on her birthday, then it's not a surprise.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey. Do you want this scone? It came for me but it would probably rather sleep with you!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait a minute, you can't go to Tulsa. Maybe you forgot, but we've got tickets to the Jets game next week.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, yes, yes, the best doctor in all of Salem, Dr. Drake Remore.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Erica Ford",
+        "Chandler"
+      ],
+      "correctAnswer": "Erica Ford"
+    },
+    {
+      "quote": "And you're thinking of taking it? So before you said being me with me was more important than any job, but I guess now it's old job, me, new job.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I've missed you so much! No, I'm not gonna ask you to get back together because I know we want different things, but just to be with you one more night.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Phoebe! It's 6 o'clock in the morning! Why aren't you at Gary's?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And what are you laughing at, Miss `My-keg-sucking-boyfriend-is-stealing-from-me!'",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look. Look, my mom gave me that ring because she wanted me to propose to Rachel, but all I wanted to do is if she maybe...kinda...wanted ah...start...things up again.",
+      "characters": [
+        "Wendy",
+        "Ross",
+        "Stephen Waltham",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh Ross! Are there uh, are there naked chicks on that piece of paper?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

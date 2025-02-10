@@ -1,0 +1,106 @@
+{
+  "gameNumber": 381,
+  "date": "2026-02-07",
+  "questions": [
+    {
+      "quote": "Oh! like what?! Oh I'm sorry, I don't mean to pry... it's just that this must be what regular people experience when they watch \"Access Hollywood\".",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, you don't! She's going to Paris! She is going to meet somebody. Do you know how many hot guys there are in Paris? It's... It's a city of Gunthers!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Dr. Gettleman is finishing up with a patient, he should be out shortly.",
+      "characters": [
+        "Receptionist",
+        "Chandler",
+        "Mike Hannigan",
+        "Lennart"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "I won't care, because I know you will be feeling it all in here.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Julie",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It wasn't my ring! It fell out of Ross's jacket! And when I knelt down to pick it up Rachel thought I was proposing!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "This wasn't addressed to Days of Our Lives, this is, this came to your apartment. There's no stamp on it, this woman was in our building.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Me too. Although this city is my home, so. So that's dumb what I said, don't tell him I said that. Umm, you make something up. Nice, thank you. This is me. Here.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah I know, but I figured a shot y'know? Maybe one of those stories would make me cry and then you wouldn't think I was y'know, all dead inside.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Minister"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, so, uh, Rach, uh... do you wanna save this wrapping paper, I mean, it's only a little bit torn... so are you gonna go for it with Ross or should I just throw it out?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Now Joey, you go down there and you suck up to him. I mean you suck like you've never sucked before!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

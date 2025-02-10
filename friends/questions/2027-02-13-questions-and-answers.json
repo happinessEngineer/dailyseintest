@@ -1,0 +1,106 @@
+{
+  "gameNumber": 752,
+  "date": "2027-02-13",
+  "questions": [
+    {
+      "quote": "Oh that's so cute: Ross and Mike's first date. Is that going to be awkward? I mean, what are you guys going to talk about?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ooh. I-I don't know Chan. I'm not so good with remembering lines.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Noo! No, not cuddlily, not me, just her. I'm like you, I need the room. Okay, come here. Okay, you're in bed...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "If you're cooking on the stove, does that mean that your new secret boyfriend is better in bed than Richard?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Erica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "There's this woman, that I like. A lot. Well, it's complicated. She's with this other guy. For a long time. And I could never do that to the guy, y'know? 'Ccause we're really good friends.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! What have you got to lose? Y'know you might even end up with someone really special if you pick my guy.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So anyway, I'm trying to get my boss's ex-wife to sleep with me. . .",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no-no, no, honey please, I've got, I've just have so much to deal with.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

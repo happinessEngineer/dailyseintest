@@ -1,0 +1,106 @@
+{
+  "gameNumber": 782,
+  "date": "2027-03-15",
+  "questions": [
+    {
+      "quote": "Okay uh, but before you do that. I-I, I need you to talk to me.",
+      "characters": [
+        "Ross",
+        "Leonard Green",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, otherwise, I mean that's, that's, that's just it for us hanging out together. Y'know is that what you want? Can you be civil?",
+      "characters": [
+        "Precious",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Would you let it go Ross. It was just a dream. It doesn't mean...",
+      "characters": [
+        "Chandler",
+        "Paul Stevens",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! I was just getting into position and then everything went dark.",
+      "characters": [
+        "Mark Robinson",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I am not a baby! You know what? I swear to god, just because you get so uptight every time we...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's just, my part seemed to be over pretty quickly and then, and then there was a lot of waiting around.",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "There's just so much pressure. I mean no offense, but what you guys do is very different. I don't know if you'd understand.",
+      "characters": [
+        "Joey",
+        "Kathy",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look Joe, I just, I just don't want to get your hopes up real high.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I-I-I wanna thank you all for coming. My family and my friends...",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, um, hi, hello, hi, ok, so, um, this is a song about a love triangle between three people that I made up. Um, it's called, um, \"Two of Them Kissed Last Night\".",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

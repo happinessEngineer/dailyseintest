@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1348,
+  "date": "2028-10-01",
+  "questions": [
+    {
+      "quote": "Y'know, it-it doesn't matter. The important thing is that you're here. You're my friend, and you're here. Oh!",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my. We're gonna need to take you straight to the delivery room.",
+      "characters": [
+        "Doctor",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Well, it doesn't sound like it! I mean, it's pretty easy not to kiss someone, you just don't kiss them! See look at us, right now, not kissing!",
+      "characters": [
+        "Rachel",
+        "Joshua Burgin",
+        "Ross",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You do appear right on the cusp of something. Come on man, I'm sure he'll lose interest in a week or two, but for now can you please just do this for me?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know, but I.. Look, even if she shoots me down, at least I won't spend the rest of my life wondering what would have happened. Where - where is my coat?!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, so that's what we're doing. You know, when I'm in the coffee house bopping along to one of your songs, I'm wearing ear plugs.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Judge",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, but in Drake Remoray's body. Why is this so hard for you to get? I thought you were a scientist!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Celia, don't worry! Don't scream! He's not going to hurt you! Soothing tones, Celia. Soothing tones! Marcel...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know, Richard's really nice and everything, uh, it's just that we don't know him really well, ya know, and plus he's, ya know, old -er than some people, but, uh, younger than some buildings.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! Joey, would you mind giving me and Ross a hand moving his couch?",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

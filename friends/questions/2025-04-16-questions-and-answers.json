@@ -1,0 +1,106 @@
+{
+  "gameNumber": 84,
+  "date": "2025-04-16",
+  "questions": [
+    {
+      "quote": "Oh man! This is so great! I actually feel like I'm going on a real date! Although, I have a hint of morning sickness, and I'm wearing underwear that goes up to about......there.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because it's complicated, it's complex- Hey, you kissed my mom!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "\"Oh my God, I love Ross! I hate Ross! I love Ross! I hate Ross!\"",
+      "characters": [
+        "Janine Lecroix",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Me neither. I think I need to be with someone who wants what I want.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I don't, I don't have a mother so often I forget that other people...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, you might try accidentally breaking something valuable of hers, say her-",
+      "characters": [
+        "Charity Guy",
+        "Gene",
+        "Rachel",
+        "Paul the Wine Guy"
+      ],
+      "correctAnswer": "Paul the Wine Guy"
+    },
+    {
+      "quote": "Well, what? What? What is it? That she left you? That she likes women? That she left you for another woman that likes women?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross, things aren't gonna be weird between us, right? I mean was that just the stupidest thing, me telling you that?",
+      "characters": [
+        "Rachel",
+        "#ALL#",
+        "Mr. Zelner",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, maybe it was a trick question. Um, Rachel can we do this now?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I just think there's somebody better out there for you, I mean I'm not saying me but. maybe me.",
+      "characters": [
+        "Mike Hannigan",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    }
+  ]
+}

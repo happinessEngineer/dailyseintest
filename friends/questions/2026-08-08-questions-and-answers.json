@@ -1,0 +1,106 @@
+{
+  "gameNumber": 563,
+  "date": "2026-08-08",
+  "questions": [
+    {
+      "quote": "Yeah. I actually am, yeah. Y'know life-life's gonna had you all kinds of stuff, y'know you learn your little lessons and hopefully you grow. Wanna hear a new song?",
+      "characters": [
+        "Monica",
+        "Mr. Douglas",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, the fact that I am a doctor, and my wife's a reverend, that's important to you?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Unless you wanna practice the Foxtrot again? Or-or the Tango?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't care! I am not quitting! I insist on finishing this game!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I guess I'm gonna call the beer company and try to find out where he is.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Tonight you're supposed to waitress for me, my catering thing, any of those words trigger anything for you?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Awww! You know that's probably why babies learn to talk, so they can tell grown ups to cut it out.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "No. The one in Atlantic City, Dad loves the slots. He says he's gonna double the college money my Grandma left me.",
+      "characters": [
+        "Sarah Tuttle",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Sarah Tuttle"
+    },
+    {
+      "quote": "Well, I think it went pretty well. I.. I got a callback for Thursday.",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! Wait! I was just saying that so you'd think I was a good person. Fight for me.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

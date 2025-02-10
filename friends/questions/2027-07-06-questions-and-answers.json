@@ -1,0 +1,106 @@
+{
+  "gameNumber": 895,
+  "date": "2027-07-06",
+  "questions": [
+    {
+      "quote": "My dad wanted to know if you wanted to play racquetball with us.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hello? No she can't come to the phone right now. Oh, right no problem. Okay, bye-bye.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, I invited him to dinner so you could get a chance to get to know him! I mean, if we go through a sperm bank you never meet the guy, get to check him out.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's a great idea! I was saving them for something special.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow, Ikea... what a rich culture. Uhm, you know what? I have a friend who is a masseuse.",
+      "characters": [
+        "Ticket Agent",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Monica categorizes her towels. How many categories are there?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I'm so excited, I mean, apparently I beat out hundreds of other applicants, included five guys I went to graduate school with. Not that I'm keeping score or anything... five!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So, how's the hideously inappropriate crush on Rachel coming?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Jason"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "God we were lame back then. Do you remember how into dinosaurs we were?",
+      "characters": [
+        "Will Colbert",
+        "Phoebe",
+        "Cecilia",
+        "Monica"
+      ],
+      "correctAnswer": "Will Colbert"
+    },
+    {
+      "quote": "I'm sorry, they just, they just look so good! And the saleswoman was looking at me like, \"Oh, these are way too expensive for you.\"",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Carol",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

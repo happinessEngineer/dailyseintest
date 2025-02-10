@@ -1,0 +1,106 @@
+{
+  "gameNumber": 769,
+  "date": "2027-03-02",
+  "questions": [
+    {
+      "quote": "I'm Susie Moss. Fourth grade, glasses, I used to carry around a box of animal crackers like a purse.",
+      "characters": [
+        "Joey",
+        "Susie Moss",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "Yeah, no, I'm fairly intuitive and psychic. It's a substantial gift.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Charity Guy",
+        "Minister"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, and-and it's not that we don't like the comedian, it's that-that... that's not why we bought the ticket.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, not really. I mean you've seen me naked hundreds of times.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Tag Jones",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, the one who looked at you once because you got in her way.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I think my boyfriend ever so dreamy, I wonder what our wedding's gonna be like.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah it is, mostly because I get to boss people around, which I just love to do.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You guys, I'm telling you, when she runs, she looks like a cross between Kermit The Frog and The Six Million Dollar Man.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because he thinks I slept with his ex-girlfriend and killed his fish.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, you're right. Well, we'll find something. Let's just get you out of that. Come on.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Jack Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

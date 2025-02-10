@@ -1,0 +1,106 @@
+{
+  "gameNumber": 488,
+  "date": "2026-05-25",
+  "questions": [
+    {
+      "quote": "I'm... I'm just... I'm the worst person ever. How can I not tell David that I'm seeing Mike?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey and my friend were out last night and having dinner and she reaches over and takes a few of his fries...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, ju-ju-just stay calm. Just be calm. For all he knows we're just hanging out together. Right? Just be nonchalant. That's not nonchalant!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Sandy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Why?! You two are so meant to be together, everybody thinks so.",
+      "characters": [
+        "Eric",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah Joey she's...Rachel's got this really big work problem, and it is a head scratcher. Wow! Y'know what, if we're gonna make dinner we're gonna have to leave. Yeah.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Frank Buffay Jr.",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, there is no top. That's the beauty of Smelly Cat. Um, why don't you just follow me?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Amy Green",
+        "Max"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wow! Have you ever rescued anyone from a burning building before?",
+      "characters": [
+        "The Doctor",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! I need you to set me up for a joke. Later, when Monica is around, I need you to ask me about fire trucks.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry it's just, Phoebe just always thought you were, you were charming in a, in a sexless kind of way.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, then it wouldn't be a secret. So yeah, that would be okay. Yeah. Yeah!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

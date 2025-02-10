@@ -1,0 +1,106 @@
+{
+  "gameNumber": 125,
+  "date": "2025-05-27",
+  "questions": [
+    {
+      "quote": "I can't! I spent so much money on them and I told Chandler that I'd wear them all the time, I just can't give them away!",
+      "characters": [
+        "Phoebe",
+        "The Interviewer",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No Phoebe, don't look! You don't want to see what's under there!!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, ok look, see, the thing is we're, we're not gonna fight you guys.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's beautiful! It's like the first bathroom floor there ever was. Whoa! Are you going in there for?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Erica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I hope not! I tried to offer him some money, but he wouldn't take it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes, I did. Yes, I did. Because, you're my girlfriend, and that's what girlfriends should, should get.",
+      "characters": [
+        "Chandler",
+        "Paul Stevens",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ahh, oh that's OK, I mean, he's probably got, you know, parties to go to and stuff. But, ya know, he's moved on. Hey, that, that's the way it goes right.",
+      "characters": [
+        "Ross",
+        "The Interviewer",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's right, you're gonna spend tomorrow at Aunt Rachel's, aren't you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That was in high school! It's not like it was binding forever.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well this is great! I'll give you a call! We should do it again sometime!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

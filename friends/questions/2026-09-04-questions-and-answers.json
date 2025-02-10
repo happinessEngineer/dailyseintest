@@ -1,0 +1,106 @@
+{
+  "gameNumber": 590,
+  "date": "2026-09-04",
+  "questions": [
+    {
+      "quote": "Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!",
+      "characters": [
+        "Rachel",
+        "Sandy",
+        "Chandler",
+        "Gunther"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "There's not gonna be a wedding. Ross and I are not getting married.",
+      "characters": [
+        "Charlie Wheeler",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I hear ya. But! Unfortunately, my company is transferring me overseas!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, listen, I need that broiling pan that Joey borrowed the other day.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey, is this that thing that you do when you say you're bad so I'll give you a compliment?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I might have checked to see if I was ovulating a couple times.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, well what about you? You weren't you know, so hot in college either. After everything he said, he'd go \"ba dum bum chessh\"",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You got it! And the rabbi's beard, 100% horsehair. Nice catch C.H.E.E.S.E.! It's your line C.H.E.E.S.E.! Wayne! Wayne!!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "The Director",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's okay. Actually y'know what, it's kinda cool. 'Cause it's like y'know, one life ends and another begins.",
+      "characters": [
+        "Phoebe",
+        "Ursula",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It could be less than a year. I mean, you've heard my stuff. \"Pants. Like shorts, but longer.\" It'll probably be more than a year.",
+      "characters": [
+        "Erica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

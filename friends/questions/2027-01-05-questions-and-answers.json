@@ -1,0 +1,106 @@
+{
+  "gameNumber": 713,
+  "date": "2027-01-05",
+  "questions": [
+    {
+      "quote": "Okay, everything looks good. Here it is on the screen. Here is your uterus. And right here is your baby.",
+      "characters": [
+        "Dr. Long",
+        "Monica",
+        "Rachel",
+        "Mark Robinson"
+      ],
+      "correctAnswer": "Dr. Long"
+    },
+    {
+      "quote": "Well this is great. Y'know, those cameras were the only thing that was gonna cheer Monica up today, she's really depressed.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Julie",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, that's OK. I'm sure there are tons of other beautiful paleontologists out there.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You'll be fine. Nah, you won't, but I'll be back in two minutes.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Marcel, this is for you. It's, uh, just, y'know, something to, um, do on the plane.",
+      "characters": [
+        "Chandler",
+        "Jack Geller",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, my agent hooked me up with six tickets to a great play.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Sure, yeah, no I can do that, yeah, because umm, y'know, the muscles in the siadic area can get y'know, real nice and tight. So umm, tell me Rick, how umm, how did you injure the area.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Earl"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You're damn right I'm right. I say you show this guy what you're made of. I say you stand your ground. I say you show him that you are the baddest hombre west of the lingerie.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey by the way, I'm sure Sipowicz is gonna be all right. I heard that kid from Silver Spoons is really good. And where did you find my badge?",
+      "characters": [
+        "Monica",
+        "Amy Green",
+        "Rachel",
+        "Cop"
+      ],
+      "correctAnswer": "Cop"
+    },
+    {
+      "quote": "Don't feel bad. You know they used to like you a lot. But then you got promoted, and, you know, now you're like \"Mr. Boss Man\". You know, Mr. Bing. Mr. Bing, \"Boss Man Bing\".",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

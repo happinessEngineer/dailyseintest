@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1001,
+  "date": "2027-10-20",
+  "questions": [
+    {
+      "quote": "No, yeah, we never find them! She's always best at us, that wily... minx.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know, when you start get screwed over all the time, you gotta switch to low-fat.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, then Gavin can give the presentation, okay, we have to do it now. Ralph needs to leave early today. He's going helicopter shopping.",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Richard Burke",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Mr. Zelner"
+    },
+    {
+      "quote": "Ohh, you can say. Come on, I don't want you to feel like you can't tell me things.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow! Uhh, Rachel uhh, you're a real special lady, but my divorce isn't final yet and, and, and we've been on four days, so I'm thinking \"No, but thanks.\"",
+      "characters": [
+        "Ross",
+        "Judy Geller",
+        "Joshua Burgin",
+        "Monica"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "It's for our wedding day! Right, now, is this guy gay or straight, because one of us gonna have to start flirting.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Would you relax? I know what I am doing. This is how he wears it.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Um, that's it. No. Hey! You! J. Crew guy. Yeah. Why have you been following me? I mean, all week long everywhere I look there's you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What? Were you like in the movie, or... Anyway, she takes off her bra under her shirt and pulls it out the sleeve. Very sexy, and classy.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But look Chandler, right now, no one has a lower opinion of you than I do. But I totally believe you can do this.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Don",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

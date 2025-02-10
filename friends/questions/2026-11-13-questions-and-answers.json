@@ -1,0 +1,106 @@
+{
+  "gameNumber": 660,
+  "date": "2026-11-13",
+  "questions": [
+    {
+      "quote": "Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Is it yours? Ha! You wish, Chandler Bing. You are looking at a married lady now.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "No, no, no-no-no. I smoked for years, then I quit. Right now, I can't remember why. You're not allowed to smoke in this office. Not right?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, well we'll go back in there, but will you do one thing for us? The people that care about you?",
+      "characters": [
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Now that you live next door, we can be together every day. Sid and Monica never have to know a thing.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. I realized it about a half-hour ago but I didn't want to say anything 'cause I didn't want to jinx it.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, and then I fell asleep on the subway and went all the way to Brooklyn. Brooklyn is f-far!!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Sarah Tuttle"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, they're working on this week, it's a total mess. But uh, I'm staying at my parents' house, we could go there.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joshua Burgin",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Well sure, if you say you're gonna take care of everything I have no reason to doubt you. Give me those forms! All right, now I'm gonna do this my way and I don't want to hear a peep out of you!",
+      "characters": [
+        "Benjamin Hobart",
+        "Phoebe",
+        "Rachel",
+        "Issac"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, have you been involved with someone where you haven't broken up?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

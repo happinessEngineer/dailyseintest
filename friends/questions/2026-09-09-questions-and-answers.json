@@ -1,0 +1,106 @@
+{
+  "gameNumber": 595,
+  "date": "2026-09-09",
+  "questions": [
+    {
+      "quote": "Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I had the audition but Gunther said I had to stay here and be in charge so he could go get his hair dyed. So, I went anyway, and then he fired me.",
+      "characters": [
+        "Richard Burke",
+        "The Teacher",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's always appropriate! Oh, okay. One more push! One more push!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Mike Hannigan",
+        "Guy"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "This is exactly the kind of social situation that I am not comfortable with!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You could not be more wrong. You could try... but you would not be successful.",
+      "characters": [
+        "Russ",
+        "Rachel",
+        "Phoebe",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Russ"
+    },
+    {
+      "quote": "No, you! Phoebe you freaked me out. You kept saying how huge this all is!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh yeah, well can you picture me saying \"Go to your room! You're grounded\"?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I think I know too but I've been really wrong about this stuff in the past, so...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You are so cute! No. No, it was a fight. You deal with it and move on! It's nothing to freak out about.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi, yeah, hi! I'm umm, Phoebe Buffay, and I have babies coming out of me.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 711,
+  "date": "2027-01-03",
+  "questions": [
+    {
+      "quote": "Look, no-no, hey, hey, don't worry about it! In nine years, she and I will be right there.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, Rach! Rach! Umm hey, could you do me a favor and would talk to Chandler's dad and try to keep him away from Chandler's mom?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, y'know the ah, the girlfriend I told you about last night? Well it turns out she ah, she wants to get back together with me. Oh, I found it!!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh! Oh-oh, you gotta pick Joey! I mean, name one famous person named Chandler.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, she's not okay? And I'll prove it to you. I'm gonna call her right now. Phone's done ehh.",
+      "characters": [
+        "Michelle",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, that's so great! Okay, I'm really gonna do this! I don't know how to thank you guys.",
+      "characters": [
+        "Ross",
+        "Jill Green",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Jill Green"
+    },
+    {
+      "quote": "Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase \"Yes indeedy-o.\"",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Some can sing, some can dance. I apparently can turn phallic cakes into woodland creatures.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's so funny to think if you'd just done that right after the last contest, no one would have had to move at all.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch!",
+      "characters": [
+        "Rachel",
+        "Phoebe Abbott",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

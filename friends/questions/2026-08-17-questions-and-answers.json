@@ -1,0 +1,106 @@
+{
+  "gameNumber": 572,
+  "date": "2026-08-17",
+  "questions": [
+    {
+      "quote": "And he didn't want you guys to know about it but I came over here to tell you!!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, guess what I'm doing this weekend! I'm going to this culinary fair in New Jersey.",
+      "characters": [
+        "Director",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "See Joe, we want you to tell stories but y'know, romantic stories. Nice stories.",
+      "characters": [
+        "Rachel",
+        "Kathy",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, a woman I went to college with just became the first female blacksmith down there.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Susan Bunch",
+        "Rachel"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "No, honey, they're not, but don't worry, because we are going to find them, and until we do, we are all here for you, ok?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Richard Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't care! I wanna meet this guy who's the best sex she ever had!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry. I just haven't seen her for so long! All these feelings are rushing back! I'm starting to realize how much I missed her, and I'm gonna need you to break up with her.",
+      "characters": [
+        "Rachel",
+        "Benjamin Hobart",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "No, of course, of course I've heard of them! Ross, what did you get?",
+      "characters": [
+        "Tim",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You heard him! \"No bigger!\" \"You're perfect!\" \"Just don't get any bigger!\" Oh my god he sounded just like my high school wrestling coach. You know what? I'm going to have to talk to Chandler.",
+      "characters": [
+        "Grandmother",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, professor Feesen-sen-stenlger... I'll be with you in one moment. So, I will take one box of the Thin Mints.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

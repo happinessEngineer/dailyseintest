@@ -1,0 +1,106 @@
+{
+  "gameNumber": 919,
+  "date": "2027-07-30",
+  "questions": [
+    {
+      "quote": "No-no! I'm fine. It's just... Hey, can I ask you something? Have you ever looked at someone that you've known for a while and then suddenly...suddenly see them a different way?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh. I was so looking forward to this. It was going to be such a beautiful Thanksgiving. We were going to have sushi.",
+      "characters": [
+        "Amy Green",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Well, it was really sweet, and like the most romantic thing ever.",
+      "characters": [
+        "Phoebe",
+        "Emily Waltham",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You need that, you need that too 'cause obviously, a thief could just tear this up.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Thank you Monica that was uh, interesting. Wasn't it interesting, Jack?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Well, she-she ob-obviously saw the tire tracks that were leading up to the closed garage.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No. If you thought this mess is going to bother me, you are wrong! All right, let's go Blinky! Chandler!!!!",
+      "characters": [
+        "Bitsy Hannigan",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thanks, yeah. I love this but ya know what, it makes me wanna pee.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You crossed the line. Joey, describe for Gene these things that have lines. Give me 20 seconds on the clock, please. Ready, go!",
+      "characters": [
+        "Donny Osmond",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Donny Osmond"
+    },
+    {
+      "quote": "Because you know how competitive you get and well, I say it's cute, others disagree, and I'm lying!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

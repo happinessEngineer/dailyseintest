@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1045,
+  "date": "2027-12-03",
+  "questions": [
+    {
+      "quote": "I've never walked down the aisle knowing it can't end in divorce.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Not that great. It's almost if people don't want to hear that their babies are ugly.",
+      "characters": [
+        "Monica",
+        "Fake Monica",
+        "Amy Green",
+        "Janice"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Hey! So Estelle lined up a bunch of auditions for me tomorrow and I'll have my health insurance back in no time.",
+      "characters": [
+        "Danny",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's ok. I thought of the perfect lie for you. It's easy to remember and doesn't invite a lot of questions. You weren't at the parade because you had a family emergency.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Noooo, that's what I was wearing when I donated. I'm kinda surprised there's any of my boys left.",
+      "characters": [
+        "Joey",
+        "Erica Ford",
+        "Chandler",
+        "Gary"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right well, we're just gonna have to tell Monica, that's all.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Fine, you can have the bath, but I am taking your boat. Now you're just a girl in a tub!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Chandler... In all my life... I never thought I would be so lucky. As to...fall in love with my best...my best... There's a reason why girls don't do this!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know I can't believe I even thought about getting back together again! We are so over!!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'll get it, okay. Hi, Monica and Rachel's. Yeah, just a second, can I ask who's calling. Oh, ew, it's Michelle! Ew! She, she must have that Caller Id thing. You should get that.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Sandra Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 106,
+  "date": "2025-05-08",
+  "questions": [
+    {
+      "quote": "OK, sorry to break up this party, but I've got resumes to fax before work tomorrow...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You got it. Thanks man. Thanks for doing this, I owe you one. Oh, hey! There wasn't any change from that twenty, was there?",
+      "characters": [
+        "Joey",
+        "Duncan",
+        "Chandler",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait a minute. What about that summer during college that you lived with grandma, and you tried to make it as a dancer?",
+      "characters": [
+        "Monica",
+        "Gary",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, that girl that I hate, eww, drives me crazy, eww, eww, oh!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "99...100! Ready or not, here I come! All right, let's go over the concept one more time.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, sure...just a sec, though, 'cause Paolo's on his way over.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Apparently, he told Johnny Shapiro that she's quite a girl. In fact, he told Johnny that he thinks he's falling in love with her.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dude. Well done. You know what? If I die, and Rachel dies and Monica dies then you can totally take care of Emma.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So did Monica tell you about this great band called the Swing Kings that we're trying to get to play at the wedding?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. That's good. Okay, that give you a couple hours to prepare what you're gonna say. Good. Yeah. Don't you people ever knock?!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

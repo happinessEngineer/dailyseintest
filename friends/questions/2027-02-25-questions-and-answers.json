@@ -1,0 +1,106 @@
+{
+  "gameNumber": 764,
+  "date": "2027-02-25",
+  "questions": [
+    {
+      "quote": "Oh yeah, sorry. Wait honey, so what did you do that made dad cut you off?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I mean, sure, of course. But... you already gave that to Monica, so...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know. I know. And she's not only my friend; she's my pregnant friend! She's my pregnant friend who's Ross' ex!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah but-but-but you liked me! Oh my God, I can't believe this, all this time, I liked you and you liked me!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "A bunch of stuff. And the worst one... he wants me to get rid of Gladys.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry you guys but, you know, Mike's got his brother and his friends from school so... you know, you were-you were... if it helps you, you were next in line, you just-you just missed the cut.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, um, I don't know if you noticed, but he had a lot to drink, and you know how he gets when he's drun..uh... I can't do this, I did it, it was me, I'm sorry, I kissed your mom.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay! Okay! Fine, I'll stop! No teaching, okay? We'll just watch the pretty light streaking across the sky. Okay? Who's official name is Bapstein-King.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Good. I'm just getting some coffee. So I'm alert for the wedding.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Assistant"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Jack Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

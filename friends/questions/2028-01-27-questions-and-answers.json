@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1100,
+  "date": "2028-01-27",
+  "questions": [
+    {
+      "quote": "That is so sweet. But don't you think it's a little too soon? I mean there's so much we don't know about each other.",
+      "characters": [
+        "Ross",
+        "Gary",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh God I just can not imagine what is gonna happen if Chandler doesn't show up!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No? All right, here's the truth um, Joey said what he said, because um, I'm attracted to you.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I think I judged her too quickly, and this time we were able to take the relationship to the next level.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So far, it kinda blows. I don't know, I just thought y'know that he'd feel more like a brother y'know, like you and Ross, just like close and connected and....",
+      "characters": [
+        "Ross",
+        "Monica",
+        "David",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No-no-no-no, the game's not over, we're just switching teams.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh. Okay, well I-I was kinda hoping that I would just...be alone y'know to think about my mom and her suicide.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I've just been thinking about how my baby and I are gonna be all alone.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right fine. Fine, I'll do it. I've just got to get this off the screen. Carol and Susan are still upset that you taught him pull my finger.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You spend half your life in the bathroom, why don't you ever go out the bloody window!",
+      "characters": [
+        "Stephen Waltham",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    }
+  ]
+}

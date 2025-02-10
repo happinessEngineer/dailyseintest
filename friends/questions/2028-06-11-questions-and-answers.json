@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1236,
+  "date": "2028-06-11",
+  "questions": [
+    {
+      "quote": "Okay, and then this is the coffee house. This is where I play my music.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sure, I'll just sit next to the trans-sexual from purchasing.",
+      "characters": [
+        "Chandler",
+        "Mark Robinson",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, I will help you out but you have to promise me you will not tell anyone what I am about to tell you.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Waiter",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Who's cell phone is that? It's just so annoying; everywhere you go.",
+      "characters": [
+        "Phoebe",
+        "Paul Stevens",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Alright look, if it means that much to you, a may be able to get on more with the big boobs. But the giant ass and the big clown feet?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, no. Wait, you know what, this is the outfit that makes my calves look fat. Nevermind.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Really...? See... that's the thing: you gotta keep it smart, people!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh Bing, look at those twin sisters dancing together. Let me buy you a lap dance with those girls. Huh?",
+      "characters": [
+        "Joey",
+        "Doug",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Hey Pheebs, you know what? I was thinking... since you wrote a song, maybe I could do something for Emma using my talents!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, we were shaking hands and he kinda leaned toward me... Y'know maybe he was going to open the door, but I totally miss read him and I uhhh...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

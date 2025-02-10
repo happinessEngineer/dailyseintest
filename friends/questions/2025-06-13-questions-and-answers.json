@@ -1,0 +1,106 @@
+{
+  "gameNumber": 142,
+  "date": "2025-06-13",
+  "questions": [
+    {
+      "quote": "Well...I Only Have One Thing To Do Today. I guess I could push it back.",
+      "characters": [
+        "Joey",
+        "Earl",
+        "Ross",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Well let's just say its she's lucky she has a sweet ass, 'cause she's not so good at the writing.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, maybe he had some kind of uh, new, cool style, that you're not familiar with. And uh maybe you have to get used to it.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "The meaning of the box is three fold. One , it gives me the time to think about what I did. Two , it proves how much I care about my friendship with Joey. And three , it hurts!",
+      "characters": [
+        "Gunther",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. I understand. I understand. Man, I wish I saw Phoebe first!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Grandmother"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! It's because that way the camera only sees her! Do you wanna try it?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Cecilia",
+        "Rachel"
+      ],
+      "correctAnswer": "Cecilia"
+    },
+    {
+      "quote": "She's having lunch with him. She's having lunch with him. And you should of seen the hug she gave him when she got the job. And, and, and, he's really good looking. What am I gonna do?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah that, plus his mom used to put sour cream on everything!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You can't wear that! I'm wearing the famous tux! James Bond's tux!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 543,
+  "date": "2026-07-19",
+  "questions": [
+    {
+      "quote": "Wow. My brother never even told me when he lost his virginity.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know, I'm sorry! But y'know, this ring is better! Monica never even saw the other ring.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Kate Miller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You're so pathetic! Why can't you just accept it, we're winning because I'm better than you.",
+      "characters": [
+        "Monica",
+        "Emily Waltham",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, boy. You should warn people there's no elevator! I should not have had that Mexican food for lunch.",
+      "characters": [
+        "Roy",
+        "Chandler",
+        "Alice Knight",
+        "Ross"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "How come Richard looks so much cooler with one of these than me?",
+      "characters": [
+        "Cliff",
+        "Janice",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Out of my league. I could get a Brian. If I wanted to get a Brian, I could get a Brian. Hey, Brian.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, Sid and I are trying again and we had trouble last time because apparently we...",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Yes I-I am. In fact umm hey, why don't we try it my special way? You can dance on my feet.",
+      "characters": [
+        "Ross",
+        "Timothy Burke",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look, I'm not trying to get out of anything, okay. I thought our relationship was dead!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know what, I've got to walk out of here right now, 'cause getting over you is the hardest thing that I have ever had to do. I don't think I could do it again.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

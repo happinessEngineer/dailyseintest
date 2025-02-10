@@ -1,0 +1,21 @@
+.logo {
+    background-image: url('./images/daily-friends-logo.png');
+    background-size: 312px 82.5px;
+    background-position: top center;
+    background-repeat: no-repeat;
+    color: #000;
+    padding: 10px;
+    font-family: 'Afacad Flux', sans-serif;
+    height: 99px; /* Adjust height as needed */
+    display: flex;
+    align-items: flex-end; /* Align text to the bottom */
+    justify-content: center; /* Center the text horizontally */
+}
+
+.bg-blue-500 {
+    background-color: #42a2d6 !important;
+}
+
+.site-title {
+    display: none;
+}

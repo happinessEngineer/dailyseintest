@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1227,
+  "date": "2028-06-02",
+  "questions": [
+    {
+      "quote": "No you guys, I am not getting in a car with him, you'll have to think of something else.",
+      "characters": [
+        "Gunther",
+        "Richard Burke",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, it's okay. It was just a car backfire. Hey, look at that! You tried to save your buddy. You see that? You see what he did?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Gary"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Uh actually, there-there was also that exchange student from Thailand but I-I don't think he-he knew what it was.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Or! I should rush through dinner with Joey and I can meet David at 9:00!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "The Interviewer",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ahh, is it hot? My body always stays cool, probably 'cause I have so much skin. Hey, cheese!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Hey. Ross, I know you're pissed at me, but we have to talk about this.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Eric"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "They're all in there! Even these five that I hid in my bra ...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Chandler! You don't have to ask for my permission. You can go.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Doctor"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh there is! If you want something enough and your heart is pure, wondrous things can happen!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey Chandler, you can't keep your hands off her for one second!",
+      "characters": [
+        "Jack Geller",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Jack Geller"
+    }
+  ]
+}

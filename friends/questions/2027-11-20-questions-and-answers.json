@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1032,
+  "date": "2027-11-20",
+  "questions": [
+    {
+      "quote": "Yeah, that was a tricky one. In reality, that operation takes like, over 10 hours, but they only showed it for 2 minites.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Janine Lecroix",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm sorry, I can't! I'm running a discussion group all afternoon.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Uh, y'know what? I'll tell you who it hurts! It hurts the kid who has all his clothes stolen in gym class so he has to go to the principal's office wearing nothing but a catcher's mitt!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I can't, I can't even believe her! No, y'know what, I am, I am gonna go!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?",
+      "characters": [
+        "Monica",
+        "Don",
+        "Nora Tyler Bing",
+        "Phoebe"
+      ],
+      "correctAnswer": "Nora Tyler Bing"
+    },
+    {
+      "quote": "Yeah, c'mon I mean I though, you know, I thought we're just foolin' around. Like when, uh, when we were kids.",
+      "characters": [
+        "Woman",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And he came at us with an axe, so Rachel had to use a bug bomb on him!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Phoebe Abbott",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't care! All right, y'know what I'm just upset that I'm getting nowhere with Joshua that-y'know what still, you do not meet someone and go flitting off to Vermont!",
+      "characters": [
+        "Monica",
+        "Dina",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Listen, I need to ask you something. Ok, you know how my step dad's in prison.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Mrs. Bing, I have to tell you, I've read everything you've ever written. No, I mean it! I mean, when I read Euphoria at Midnight, all I wanted to do was become a writer.",
+      "characters": [
+        "Billy",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

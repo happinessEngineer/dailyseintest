@@ -1,0 +1,106 @@
+{
+  "gameNumber": 886,
+  "date": "2027-06-27",
+  "questions": [
+    {
+      "quote": "Okay. Then he still has this huge decision to make. Now he's walking around thinking, 'Do I want to be a dad?' and then bam!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uhh, do you mind sitting there. I'm-I'm saving this for my friend Ross.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "everything's great, just watching some regular television there, what a pleasant surprise.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, I'm going to take a bath. I'm just going to get a magazine.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Janice",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "He just kept asking, and asking, and asking, and asking, and asking, and asking.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, I've got a whole bunch of uh-uh, stuff in this area, but umm, I'm getting the feeling that you don't want to deliver.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That may be the most depressing thing I've heard in my life. I should probably get these to my lawyer's office.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Jack Geller",
+        "Mr. Ratstatter"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I can't believe it's Christmas already. Ya know, I mean, one day your eatin' turkey, the next thing ya know, your lords are a-leapin' and you geese are a-layin'.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! That's where we keep the canned goods! Have you completely forgotten everything you learned at orientation?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Chandler, wait. It goes: Old job, new job, you. This is just something I have to do.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

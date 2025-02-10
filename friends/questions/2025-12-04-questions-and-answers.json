@@ -1,0 +1,106 @@
+{
+  "gameNumber": 316,
+  "date": "2025-12-04",
+  "questions": [
+    {
+      "quote": "Yes, Fran. I know what time it is, but I'm looking at the WENUS and I'm not happy!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "He used to lock himself in the basement for hours. No one was every allowed to hear, \"The Sound.\"",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, Ross, when you make out card; be sure to make it out to, EM-I-LY.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "David",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uhl..ell. By the way, in case you missed that, that sound was, \"Uhl, ell.\"",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Sure, and Joey; do not let Ross look at any of the maps or the globe in your apartment.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Kathy"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Marcel, Marcel, give Rossie the remote. Marcel. Marcel, you give Rossie the remote right now... Marce... you give Rossie the remote...",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, well, it means that I can sell cookies, but I'm not invited to sleep-overs.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey. I spent the night out. I met this cute bridesmaid. She is so...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Melissa Warburton",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I think this is probably why Damone smokes in his cell alone.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Of course the packaging does appeal to grown-ups and kids alike.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 735,
+  "date": "2027-01-27",
+  "questions": [
+    {
+      "quote": "I know, I've been looking at those doors, they look pretty sound proof, don't you think?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wasn't it a lot more exciting when we were y'know all over each other all the time?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Come on now. Monica has a good job. And it's not like you have a family to support.",
+      "characters": [
+        "Interviewer",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Interviewer"
+    },
+    {
+      "quote": "Daryl Hannah was the most beautiful woman that he'd ever seen in his life and I said yeah, I liked her in Splash, a lot, but not so much in- in Wall Street, I thought she had kind of a",
+      "characters": [
+        "David",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Gary"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, and it is my dying wish to have that ring. See, if I'm not buried with that ring then my spirit is going to wander the nether world for all eternity...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey-hey, Pheebs, check it out, we already learned a song. Ready? One, two, three, four...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay. So these signals Ross, explain this to me, 'cause maybe I need to be more careful. I mean, am I sending you these signals right now?",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh... I'm sorry. I... I-I don't mean-I didn't mean to stifle you. I... This is all just a little overwhelming.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh. Oh right! Right! Because you're still seeing him and uh, he's a good guy. I mean, I remember a time when...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

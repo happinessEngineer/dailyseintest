@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1449,
+  "date": "2029-01-10",
+  "questions": [
+    {
+      "quote": "Oh that's great! Great! Thanks! But that dress I mean it's like yuck! It's terrible! It makes me wanna just rip it right off of you!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes, I-I know that you do, but I think one of the reasons people were complaining though, was that they paid to hear the actor sing Old Man River.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, oh my God, tomorrow! That, no, it's perfect. Oh God, thank you soo much. Great! Bye! I got the interview!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. I felt a little weird about it. You're a teacher. I'm a student. But would you maybe want to go out with me sometime?",
+      "characters": [
+        "Elizabeth Stevens",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "No, it's not gonna be okay Ross, tomorrow is my last day, and I don't have a lead. Okay, y'know what, I'm just gonna, I'm just gonna call Gunther and I'm gonna tell him, I'm not quitting.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, I don't know what to tell you guys that's the doll he chose.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You're right, I have no excuses! I was totally over the line.",
+      "characters": [
+        "Ross",
+        "Susan Bunch",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's lame, I know. But I'm a goal-oriented person, very eager to learn...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.",
+      "characters": [
+        "Phoebe",
+        "Jack Geller",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What are you doing here? I thought you had to do inventory all day.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

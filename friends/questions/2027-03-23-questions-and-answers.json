@@ -1,0 +1,106 @@
+{
+  "gameNumber": 790,
+  "date": "2027-03-23",
+  "questions": [
+    {
+      "quote": "Yeah, uh, Joey said I could use your shower, since, uh, Chandler's in ours?",
+      "characters": [
+        "Ronni Rapalono",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ronni Rapalono"
+    },
+    {
+      "quote": "No-no, it'll be fun! We can come back and we can haunt these guys!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, yeah, no, I don't, I don't know. But, y'know what, maybe it's just all for the best?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh well, Chandler and Monica are over there and it's kinda hard to concentrate.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know what, just give me a second and I'll be out of your hair. I'm just gonna grab a jacket. When I get back, I want every little detail. Maybe that's him.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hello? Oh hi, Doctor Connelly. No, she's not here but, you know, I can tell her. Should I be sitting down for this? Oh. Well, so what does that mean? Ok. Ok, thank you. Thanks.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You spend half your life in the bathroom, why don't you ever go out the bloody window!",
+      "characters": [
+        "The Interviewer",
+        "Rachel",
+        "Monica",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "I don't understand! Last time you went out with her you said she was a 'big, dull dud.'",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh well, well thank you. Okay, stop. Stop looking at me like that. The last time that happened, that happened.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Eric",
+        "Ronni Rapalono"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

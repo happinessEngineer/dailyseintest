@@ -1,0 +1,106 @@
+{
+  "gameNumber": 702,
+  "date": "2026-12-25",
+  "questions": [
+    {
+      "quote": "Hey! You...can't...leave Joey! You agreed to buy that boat, all right?! That is a contract! And plus if you leave, my boss is gonna kill me!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because she exchanges every gift she ever gets, it's like impossible to get her something she likes. Come on, let's trade!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Richard Burke",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, anything goes, except ah, eye gouging and fish hooking.",
+      "characters": [
+        "Eddie Menuek",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Unless! Unless umm, okay I-I would be willing to go to the concert, umm, all the while thinking about the children of course.",
+      "characters": [
+        "The Stripper",
+        "Jade",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, that's fine! Go with your instincts, go with your instincts.",
+      "characters": [
+        "Phoebe",
+        "Assistant",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm, I'm sorry you didn't get to go to Spacecamp, and I'm hoping that maybe somehow, this may make up for it. Presenting Sarah Tuttle's Private Very Special Spacecamp!!",
+      "characters": [
+        "Gary",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "He's right, if you quit this job, you then have motivation to go after a job you really want.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Are you kidding? Look, we're not gonna be together just because we're having a baby. Okay?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Donny Osmond"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you must be new here. Why don't we get a table and I'll buy you a drink.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Jill Green",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I understand, but before you do, she really needs to hear this.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    }
+  ]
+}

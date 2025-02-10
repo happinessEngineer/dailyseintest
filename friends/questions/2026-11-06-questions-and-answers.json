@@ -1,0 +1,106 @@
+{
+  "gameNumber": 653,
+  "date": "2026-11-06",
+  "questions": [
+    {
+      "quote": "Oh, look, look, he's closing his eyes. Look, he's opening his eyes.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, that is a large piece of television equipment. And uh that is an old man! Hey old man!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's nice to see you're not still wearing that denim cap with all the little mirrors on it.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Susie Moss"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "But, Elizabeth and I are-are both adults and so I don't think there's really anything you can do about it.",
+      "characters": [
+        "Rachel",
+        "Susan Bunch",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah? Well, I don't want to talk to you Wayne! I hate you! You ruined my life! Oh, Chandler, Wayne. Wayne, Chandler.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look, I may have jumped the gun here. Um, I just got out of a relationship and I'm not really in a, in a commitment kind of place.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, Rach, can I borrow your eyelash curler, I think I lost mine.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This is so much fun, just the girls. You know what we should do? Does anybody have any marijuana?",
+      "characters": [
+        "Sandra Green",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Save the breakthroughs for therapy, okay. The clock is ticking. We have no time, and we are losing, we are losing to girls.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, I'm sure! Rachel is there something that you want to talk me about?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

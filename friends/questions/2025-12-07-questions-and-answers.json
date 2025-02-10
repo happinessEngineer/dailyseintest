@@ -1,0 +1,106 @@
+{
+  "gameNumber": 319,
+  "date": "2025-12-07",
+  "questions": [
+    {
+      "quote": "Say Ross, when you picture Phoebe living on the street, is she surrounded by the entire cast of Annie?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, you can't go there! You know how I feel about these \"big massage places\"! They're putting people like me out of business!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Why? It's just that I've waited seven years for an opportunity like this, and you can't even wait four and a half minutes for a stupid onion tartlet?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Charity Guy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow! That didn't take long. I thought you said Tulsa was, like a three hour flight.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, it's not supposed to be funny, it's supposed to be scary.",
+      "characters": [
+        "Joey",
+        "Nora Tyler Bing",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "OK, guys, guys? I have the definitive one. Mwwwooooo-hah-hah...",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I just remembered. We do have something to eat. Monica put something in our oven this morning.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, yeah, ok. Let me just grab my night vision goggles and my stun gun.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "A new grocery store. The universe said I was going to meet a nice guy and that's what they gave me? When I get up there I'm going to kick some ass.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Mike Hannigan",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, well, er, I already ate, but sure...! Guess what happened at work today...",
+      "characters": [
+        "Phoebe",
+        "Gunther",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

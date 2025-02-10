@@ -1,0 +1,106 @@
+{
+  "gameNumber": 861,
+  "date": "2027-06-02",
+  "questions": [
+    {
+      "quote": "Wow! Maybe uh, maybe you and I ought to get to know each other a little better.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uhh, yeah. I mean, actually I kinda think that we'll have, we'll have two babies.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Great! I'm across the street having sex with her right now. Your story sucks!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Mindy Hunter",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "There's something that we wanna tell you. We decided to name the girl-baby Erica.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know, you should really look in a mirror before you call yourself that.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Let me see this guy. W-H-Wow! Don't show this to Monica! And don't tell her about the W-H-Wow!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Leslie"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ah, I'm gonna be one of his helpers. It's just such a slap in the face, y'know?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Whoa!! Now look, don't be just blurtin' stuff out. I want you to really think about your answers. Okay?",
+      "characters": [
+        "Charlie Wheeler",
+        "Rachel",
+        "Sandra Green",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, y'know what? Don't look at it. Seriously, don't look at it.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Gunther",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I don't know. I mean, it's conceivable that you wanted to sabotage your marriage so that the sibling would feel less of a failure in the eyes of the parents.",
+      "characters": [
+        "Chandler",
+        "Roger",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Roger"
+    }
+  ]
+}

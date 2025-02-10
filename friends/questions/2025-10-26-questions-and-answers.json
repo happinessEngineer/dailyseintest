@@ -1,0 +1,106 @@
+{
+  "gameNumber": 277,
+  "date": "2025-10-26",
+  "questions": [
+    {
+      "quote": "Liam, do me a favour. Tell the lads to go easy on Ross, it's his first time.",
+      "characters": [
+        "Emily Waltham",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Well y'know, I'm just-I'm just worried that bosses will see them and think they pay you too much money. Or! Or your assistant will see them and-and want a raise!",
+      "characters": [
+        "Monica",
+        "Leonard Green",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, see that blind guy right there? I'm gonna bash his head in later.",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, they said I acted too much with it. I told everybody about this! Now everybody's gonna go to the theatre, expecting to see me, and...",
+      "characters": [
+        "Leonard Green",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What, slept together a year and a half ago? Yeah, I'm all set.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So look umm, while we're st-still in London, I mean, we can keep doing it right?",
+      "characters": [
+        "David",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well umm, do you wanna get something to eat? I'm kinda hungry.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, wait just one more second. Hi, it's Phoebe and Rachel's. Please leave a message, thanks!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh well, this was a really important experience for me, and I wanted to share it with you.",
+      "characters": [
+        "Chandler",
+        "David",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait a minute, I see what's happening here. You're threatened.",
+      "characters": [
+        "Joey",
+        "Ursula Buffay",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

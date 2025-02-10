@@ -1,0 +1,106 @@
+{
+  "gameNumber": 382,
+  "date": "2026-02-08",
+  "questions": [
+    {
+      "quote": "There's this thing I really want us to do. I read about it in Maxim...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well hey! What's going on? Ooh, cool boat--Oh, no. Hey, did you, did you tell them?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So did they call you to tell you your name's gonna be in this?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Jason",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well maybe if you go to school here next year we can totally hang out.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Fine. I just need to know that you're not gonna tell your sister.",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh, you are so lucky! Hey! So, where's Monica? Did you guys make up?",
+      "characters": [
+        "Phoebe",
+        "Janine Lecroix",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "There was just an explosion, okay? My hearing would be impaired.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Eric"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, so, ok, was he holding you? Or was his hand like on your back?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, Spin The Bottle works like this I spin the bottle, it lands on Gunther, so I would have to kiss Gunther.  All right. Who wants to go first?",
+      "characters": [
+        "Phoebe",
+        "Richard Burke",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, if you see him, tell him to pack his bags. We are going to Minsk.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Max"
+      ],
+      "correctAnswer": "Max"
+    }
+  ]
+}

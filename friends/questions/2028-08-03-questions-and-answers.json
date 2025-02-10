@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1289,
+  "date": "2028-08-03",
+  "questions": [
+    {
+      "quote": "Why would I care where Chandler is? You know uhh...You know sometimes I don't even like Chandler.",
+      "characters": [
+        "Peter Becker",
+        "Monica",
+        "Joey",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ya know, in all the years that we have been grandmother and granddaughter, you have never lied to me.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Richard Burke",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, you're right I, I should play in the hay. Forget about the fact that I just dropped 400 dollars to replace a bracelet that I hated to begin with. Bring on the hay.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "When I take a shower, she leaves me little notes on the mirror.",
+      "characters": [
+        "Monica",
+        "Erica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, you guys, I mean my keyboards are all the way up in-No, yeah, okay.",
+      "characters": [
+        "Chandler",
+        "Cheryl",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Maybe. But it wouldn't hurt to have a backup, you know? Uh, Rach-Rach, what were you thinking?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I am speachless... I mean the fact that you would put my happiness first like that. I mean, you're an incredible friend, you know that?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, it's going to be okay. I'm not going down there to hook up with a bunch of guys. I really like you. I like how things are going between us.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Chandler",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "You better believe he's tired, after the day we had! If you know what I mean. You know what I mean?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I dunno. Some fat guy's sleeping with the store manager. He's not even jolly, it's all political.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

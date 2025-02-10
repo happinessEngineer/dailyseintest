@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1412,
+  "date": "2028-12-04",
+  "questions": [
+    {
+      "quote": "And I will cook anything you want in here , and do anything in there!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Sabrina. I know about you two. I saw you today kissing in the doctor's lounge.",
+      "characters": [
+        "Erica Ford",
+        "Janice",
+        "Joshua Burgin",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Erica Ford"
+    },
+    {
+      "quote": "Rain? Hi. Hi, my name is Rain. I have my own kiln, and my dress is made out of wheat.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. What the hell was that? You know what? Don't answer me. I have a date with Danny.",
+      "characters": [
+        "Sandra Green",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, well, word of advice: Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh well yeah, that was the plan, but by the time I got to it there was only a couple of pieces left!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait, you're giving me your Porsche, you're kidding me right?!",
+      "characters": [
+        "Charlie Wheeler",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, so he stole a couple bucks from me! At least he bought me something with it!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Emily Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, 'scuse me. So Ross, uh, how's the wife? Off there too, uh? Uh, Chandler, quick, say something funny!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Joey Tribbiani Sr."
+      ],
+      "correctAnswer": "Joey Tribbiani Sr."
+    },
+    {
+      "quote": "I'm sorry, it's almost as if this wasn't built for a quick getaway!",
+      "characters": [
+        "Joey",
+        "Jean-Claude Van Damme",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

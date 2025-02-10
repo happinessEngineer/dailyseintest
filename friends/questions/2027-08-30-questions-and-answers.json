@@ -1,0 +1,106 @@
+{
+  "gameNumber": 950,
+  "date": "2027-08-30",
+  "questions": [
+    {
+      "quote": "Believe me, it seems like less because they hid it from us for so long.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, you have to switch with me! Monica is driving me crazy!",
+      "characters": [
+        "Melissa Warburton",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ooh! There's no way to do this without her? 'Cause I kinda all ready told her uh, it was, it was already taken care of.",
+      "characters": [
+        "Joey",
+        "Jill Green",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She said, \"He's obviously still in love with this Rachel girl.\"",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "...My mother's ashes Even her eyelashes Are resting in a little yellow jar, And sometimes when it's breezy...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, you know, maybe I ate too much. I keep getting these stomach-aches. They come and go like every few minutes.",
+      "characters": [
+        "Phoebe",
+        "Erica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "I had to get out of the apartment. Janine is like stretching all over the place. Y'know, everywhere I look she's like...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I think our lover's spat will start a little early this month.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Because she uh, she-she thinks that you are blah and that you, Monica, are too loud.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Dr. Franzblau"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, this kind of back talk is not gonna fly when we're married!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Larry",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

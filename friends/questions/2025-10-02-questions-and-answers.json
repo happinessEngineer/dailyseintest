@@ -1,0 +1,106 @@
+{
+  "gameNumber": 253,
+  "date": "2025-10-02",
+  "questions": [
+    {
+      "quote": "Now dad, you'll be in my room, Ronni uh, you can stay in Chandler's room.",
+      "characters": [
+        "Monica",
+        "The Dry Cleaner",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "If anybody asks, I'm your sister, Joan. Listen. C'mon, you guys. Ross said my name up there that obviously means that he still loves me!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Great! Umm, well what-what I was doing in Chandler's room is that umm, I was cleaning it! In fact, he pays me to clean it!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi! I'm Monica and I'm gonna be singing \"Delta Dawn\"\"Delta Dawn, what's that flower you have on? Could it be a faded rose from days gone by? ...\"",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So uh, Joey and Chanlder, I, I think it's time that you take Dr. Greene over to your place.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Aww! Chi-Chi! Oh, I loved this dog! Y'know Monica couldn't get braces because Chi-Chi needed knee surgery.",
+      "characters": [
+        "Joey",
+        "David",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no! That really is nothing, she is very sexually aggressive.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Woman",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Alright you guys, we can't turn on each other, Okay? That's just what she wants.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "There's a reset button?! Ugh, thank you! Thank you! There's a reset button! My God! Why didn't I see that! Reset button, reset button, where is there a reset button? Oh here it is! Oh! Ohh, God!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This is so exciting, I haven't seen my monkey in almost a year.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

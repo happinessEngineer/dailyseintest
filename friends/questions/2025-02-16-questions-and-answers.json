@@ -1,0 +1,106 @@
+{
+  "gameNumber": 25,
+  "date": "2025-02-16",
+  "questions": [
+    {
+      "quote": "No. But... it only has to happen once. Look, you and I both know we are perfect for each other, right? I mean... so, the only question is... are you attracted to me?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Phoebe, could you do me a favour? Could you try this on? I just wanna make sure it fits.",
+      "characters": [
+        "The Stripper",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! No, I am not getting in a car with Ross, we will just have to live here!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't believe this. I was just being a good guy. I treated you with respect and understanding.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Mike Hannigan",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross! We broke up two years ago; you've been married since then. I think it's okay that we see other people.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Woman",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry, Ross, this is my old friend Lowell from the streets. Lowell, Ross.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God Phoebe! I mean I'm just-Wait a minute. If I'm your maid of honor that means you are Monica's.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Paul the Wine Guy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, just seems as though that maybe you have intimacy issues. Y'know, that you use your humour as a way of keeping people at a distance.",
+      "characters": [
+        "Andrea Waltham",
+        "Joey",
+        "Roger",
+        "Phoebe"
+      ],
+      "correctAnswer": "Roger"
+    },
+    {
+      "quote": "Well, uh, when Joey gave it to me, he said, \"This is 'cause I know ya like Rabbits, and I know ya like cheese.\" Thanks. I love it. And I know how hard it must have been for you to find.",
+      "characters": [
+        "Kathy",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

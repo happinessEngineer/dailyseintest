@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1174,
+  "date": "2028-04-10",
+  "questions": [
+    {
+      "quote": "Hey, if anybody gets extra tickets, it should be me! This all thing was my idea!",
+      "characters": [
+        "Alice Knight",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "This isn't what I ordered! Man! Can anything go right in my life?! First my marriage falls apart and then...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah, you got the big TV. We'll be over there all the time. . . except when we are here.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I will go to the hospital tomorrow, it'll still be broken then.",
+      "characters": [
+        "Rachel",
+        "Mr. Douglas",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh Rachel look, don't say that, I think you just need a hug from Joey. Come on. Come on. She's back! Hot girl's back!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I needed to buy a hammer the other night, and I'm out walkin' around the neighborhood but apparently there are no hardware stores open past midnight in the Village.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Bobby Rush"
+      ],
+      "correctAnswer": "Bobby Rush"
+    },
+    {
+      "quote": "Well, anyway, they make these great novelty cakes, in all different shapes, and if you give them a photo, they'll copy it in icing!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Russ",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No. I'm sorry. It's just 'cause I couldn't be there. 'Cause all I ever get to do now is pregnant stuff, it just bums me out.",
+      "characters": [
+        "Mindy Hunter",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That would be impossible to resist if you weren't all drippy here.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

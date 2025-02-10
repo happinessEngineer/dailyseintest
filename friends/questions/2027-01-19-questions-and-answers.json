@@ -1,0 +1,106 @@
+{
+  "gameNumber": 727,
+  "date": "2027-01-19",
+  "questions": [
+    {
+      "quote": "Do I go horseback riding in the park? Do I take classes at the New School?",
+      "characters": [
+        "Monica",
+        "Trudie Styler",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Kind of? If you just kept this to yourself none of this would've happened.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry but we've got to get rid of all this girlie stuff in here. I, uh, I got to be a man! Okay. The living room has to remain a guy place, okay? That's just the way it has to be.",
+      "characters": [
+        "Michael",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OK, listen I've been on sets before, so let me give you a little advice, alright? It's a show, but we're just dancing, OK? It's no big deal. The important thing to remember &#150; stay cool.",
+      "characters": [
+        "Dr. Franzblau",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Stuck at school. Some parent-teacher thing. You can go. I'll get the information.",
+      "characters": [
+        "Joey",
+        "Susan Bunch",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "How long is this gonna take? 'Cause I got another critic to go yell at.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Allesandro",
+        "Monica"
+      ],
+      "correctAnswer": "Allesandro"
+    },
+    {
+      "quote": "Yeah, I love that story. Um, I got a question for you guys. Why do people keep is saying that is good to see me up and about?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Judy Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, forget it Phoebe. Okay? It's Rachel's tape and she can do whatever she wants with it. And she wants to destroy it. So, end of story.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You can see the moonlight bouncing off her head! What the hell were you thinking?!!",
+      "characters": [
+        "Rachel",
+        "Charity Guy",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Honey, I don't know how to tell you this, but um, if something were to happen to Ross or to myself um you wouldn't get the baby.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

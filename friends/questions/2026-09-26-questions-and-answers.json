@@ -1,0 +1,106 @@
+{
+  "gameNumber": 612,
+  "date": "2026-09-26",
+  "questions": [
+    {
+      "quote": "Oh, is it the swearing? I mean is it the constant swearing? Because I gotta tell ya, if it is, you can just... kiss my ass!",
+      "characters": [
+        "Doug",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Well, I'm sorry. I thought parents were coming! Y'know? Your parents are comin'! Chandler's parents are comin'! Ross's parents are comin'!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I just, I want you to know I didn't used to be like this. Before I meet your sister I was like this normal guy who sold beepers and cellular phones.",
+      "characters": [
+        "Rachel",
+        "Joanna",
+        "Chandler",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "I know, I know! But I've thought about it a lot since, and it just wouldn't be right... I'm sorry...!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi! Oh, Ross, don't forget, we have that doctor's appointment tomorrow!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But hey, listen just so you know, you might have you're work cut out for you. 'Cause when I talked to her, I kinda got the feeling that she's into some other guy. So...",
+      "characters": [
+        "Joey",
+        "Sandra Green",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't want to go into the whole thing, but umm, we have words and I kill him.",
+      "characters": [
+        "Phoebe",
+        "David",
+        "Chandler",
+        "Dana Keystone"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes, I suppose I am a dog. But Issac, see I-I happen to have a girlfriend.",
+      "characters": [
+        "Peter Becker",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "If I have to I'll, I'll do all again , I'll do the 4 o'clock feeding thing, I'll go to the P.T.A. meetings, I'll coach the soccer team.",
+      "characters": [
+        "Richard Burke",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Okay, look I'm sorry, I went in there to take a nap and I know I shouldn't have, but you got porn!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

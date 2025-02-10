@@ -1,0 +1,106 @@
+{
+  "gameNumber": 48,
+  "date": "2025-03-11",
+  "questions": [
+    {
+      "quote": "What-You're not serious. I mean she's a very nice woman, but there is no way we can take eight weeks of her. She'll drive us totally crazy.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Jack Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. Oh, I know what we can do. We could set Ross and Rachel up on horrible dates, so that they'll realise how good they are together.",
+      "characters": [
+        "Roger",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey! Take these cappuccinos to table 11 and that guy over there wants the biscotti.",
+      "characters": [
+        "Gunther",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Oh, maybe he was getting him confused with his childhood therapist.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I can't believe Mark didn't call. It's Sunday night, and he didn't call.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?",
+      "characters": [
+        "Joey",
+        "Mike Hannigan",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Personal shopping? What is that? Like where you walk around with snooty rich people and tell them what to buy?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Eric",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know, when I saw you at the store last week, it was probably the first time I ever mentally undressed an elf.",
+      "characters": [
+        "Ross",
+        "Sandy",
+        "Peter Becker",
+        "Rachel"
+      ],
+      "correctAnswer": "Sandy"
+    },
+    {
+      "quote": "I have new respect for Chandler. All right everybody! It's time to open the presents!",
+      "characters": [
+        "Woman",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, buddy-boy. Here it is. You hide my clothes, I'm wearing everything you own.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

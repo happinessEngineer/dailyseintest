@@ -1,0 +1,106 @@
+{
+  "gameNumber": 26,
+  "date": "2025-02-17",
+  "questions": [
+    {
+      "quote": "So you're a little older. Try to look at the positive: You have all this life experience.",
+      "characters": [
+        "The Doctor",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ah, cool! Taco shells! You know, these are... they're like a little corn envelope.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Sandra Green",
+        "Steve (drug addict)"
+      ],
+      "correctAnswer": "Steve (drug addict)"
+    },
+    {
+      "quote": "It's funny. When you said \"unpaid\" it sounded like you said \"unpaid.\"",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, doctor! Look, before we sign anything we really have to talk... We're not who you think we are.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right well, I'll take you someplace nice then. Look! A guy tipped me a hundred bucks today.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What? Monica, they are cute, they are doctors, cute doctors, doctors who are cute!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, you're busy, that's ok, I'll get it. Anybody else want one?",
+      "characters": [
+        "Julie",
+        "Rachel",
+        "Joey",
+        "Bonnie"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "You know you don't want me to help. You can't have it both ways!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Richard Burke",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know whether it's just 'cause we're breakin' up or... what, but you have never looked so beautiful.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, you have to understand how humiliating it was for me up on that altar in front of my entire family, all my friends.",
+      "characters": [
+        "Emily Waltham",
+        "Mike Hannigan",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Emily Waltham"
+    }
+  ]
+}

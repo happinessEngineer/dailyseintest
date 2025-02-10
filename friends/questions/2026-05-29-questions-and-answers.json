@@ -1,0 +1,106 @@
+{
+  "gameNumber": 492,
+  "date": "2026-05-29",
+  "questions": [
+    {
+      "quote": "Ten, ten.., nine, nine, nine...., eight, eight, eight... Okay, Blast off!",
+      "characters": [
+        "Joey",
+        "Mark Robinson",
+        "Ross",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, it's okay. I know what a mainsail is. I know, I know to duck when the boom comes across. I-I know port is right.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, yeah! You like 'em? I just, I went to a used clothes store and got a bunch of maternity stuff. These are sooo comfortable!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler!!! Chandler!!! Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "They uh director. Uhh, her. All right, all right, it's not a gladiator movie. I work here.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No!! Hey-hey that's not a Nutter-Butter, that's just an old Wonton!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well because I have to work on Monday, I have a big presentation.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I just thought we might be here for awhile. You know, things might get musical.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes. And another time after that. Boy I'm getting hungry! Hey Joey, have you ever been so hungry on a date that when a girl goes to the bathroom you eat some of her food?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

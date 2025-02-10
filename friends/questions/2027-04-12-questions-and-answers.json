@@ -1,0 +1,106 @@
+{
+  "gameNumber": 810,
+  "date": "2027-04-12",
+  "questions": [
+    {
+      "quote": "You know, you know, actually it's getting better. It is. It is. Let's not go. Anyone for Thcrabble?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, I'm gonna go steam my wedding dress okay? Who wants the responsibility of making sure nothing happens to it?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Are you kidding? People acting like animals to music. Come on!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Correct! Now, would you like to pick a Wicked Wango card or spin the Wheel of Mayhem?",
+      "characters": [
+        "Ronni Rapalono",
+        "Ross",
+        "Joey",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right! Thanks! You're the best! Now listen, the last day of auditions is Thursday. Okay? So I gotta get in there by Thursday. Okay? Just remember Thursday. Thursday. Can you remember Thursday?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! Smokes-A-Lot Lady blew smoke directly into my mouth. Eh-uh-are you okay?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I'm keeping so many things to myself these days, something was bound to slip out!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing. We got some trashy magazines, we got cookie dough, we got Twister...",
+      "characters": [
+        "Rachel",
+        "Peter Becker",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That was a great scene! And-and-and that slap looks so real! How do you do that?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

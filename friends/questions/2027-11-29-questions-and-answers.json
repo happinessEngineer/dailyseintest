@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1041,
+  "date": "2027-11-29",
+  "questions": [
+    {
+      "quote": "You guys, what, what do we do about Ross who drove all the way up here? What do we do? Just like send him back and we're then gonna go skiing?",
+      "characters": [
+        "Chandler",
+        "Richard Burke",
+        "Peter Becker",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Eh, forget about the future and stuff! So we only have two kids, y'know? We'll pick our favorite and that one will get to go to college.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Anyway, I schedule performers for the childrens libraries around the city and I was just thinking, have you ever thought about playing your songs for kids?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Rob",
+        "Monica"
+      ],
+      "correctAnswer": "Rob"
+    },
+    {
+      "quote": "Yeah no, I'm telling you Rachel has such a great eye for this stuff. Ross, y'know if you ever decide you need to redecorate-And I think that you should. You should, you should ask Rachel to help.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Agency Guy",
+        "Dina"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi. Um, I want to start with a song thats about that moment when you suddenly realize what life is all about. OK, here we go. OK, thank you very much.",
+      "characters": [
+        "Phoebe",
+        "Alice Knight",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "She brought them up! I didn't realize you were coming back so soon!",
+      "characters": [
+        "Ross",
+        "Dr. Long",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Do you have to be a Century 21 real-estate agent to get to wear those really cool jackets?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So it's down to these two, Nancy I know you like this one and I think I agree. Rachel, what do you think?",
+      "characters": [
+        "Ross",
+        "Cassie Geller",
+        "Joey",
+        "Kim"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "This is why I told the manager I wouldn't wait on you tonight!",
+      "characters": [
+        "Waiter",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "What if it's new? I mean, we agreed not to talk again, unless we had something really important to say. Shouldn't I call him back?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

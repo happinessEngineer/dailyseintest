@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1021,
+  "date": "2027-11-09",
+  "questions": [
+    {
+      "quote": "I don't believe it. The most romantic night of my life and I'm runner up.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Danny",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "150 pounds. Yeah, I'm gonna be in one of those Subway sandwich commercials.",
+      "characters": [
+        "Joey",
+        "Will Colbert",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Will Colbert"
+    },
+    {
+      "quote": "It's okay. I get that a lot doing what I do. But I am straight. I-I'm engaged actually.",
+      "characters": [
+        "Janice",
+        "Rachel",
+        "Phoebe",
+        "Sandy"
+      ],
+      "correctAnswer": "Sandy"
+    },
+    {
+      "quote": "Bikini, French cut, thong! And-and the fabrics! You've got cotton, silk, lace! And y'know what I've always wondered about?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Doctor you gotta do something! I think you gotta give me drugs or you gotta light a fire up in there and just smoke it out.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I love how he cares so much about stuff. If I squint I can pretend he's Alan Alda.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Good save! We're back on track, and I'm... ..chewing someone else's gum. This is not my gum. Oh my God! Oh my God! And now you're choking.",
+      "characters": [
+        "Judy Geller",
+        "Chandler",
+        "Phoebe",
+        "Doug"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Is he really coming? Because I can see right into your apartment!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Doug"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah! How would you like it if I sent you to Lee Majors' house and told you that he liked you, and you went down there and you found out that he didn't like you? How would you feel?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, okay, you're right. You're easy-going. You're just not as easy-going as Rachel. She's just more flexible and-and mellow. That's all.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Mike Hannigan",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

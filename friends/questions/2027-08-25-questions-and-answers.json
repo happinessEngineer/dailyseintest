@@ -1,0 +1,106 @@
+{
+  "gameNumber": 945,
+  "date": "2027-08-25",
+  "questions": [
+    {
+      "quote": "All right. All right! If he wants a date? He's gonna get a date. All right, I'm gonna go in.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, Chandler. Look, forget about it, okay? Look, I know things have been a little tight since Janine moved out. Oh, was she hot.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Because you are so afraid of commitment! You talk to him, make him scared like you! Make him a...man!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes! Yes! I got half a mind to contract that doctor's uterus though. Mild discomfort, what's he talking about?",
+      "characters": [
+        "Chandler",
+        "Gavin Mitchell",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Good. Oh oh! Roger's having a dinner thing and he wanted me to invite you guys.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This is such a great party! 35 years. Very impressive, do you guys have any pearls of wisdom?",
+      "characters": [
+        "Mark Robinson",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, yeah. He deserves to do the thing he loves one last time.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ahh, I just have one problem left that I do not know how to solve. Uhh, Rachel maybe you want to come upstairs and help me figure it out?",
+      "characters": [
+        "Chandler",
+        "Judy Geller",
+        "Phoebe",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "Eh, I'm just so sorry I put you through it. And, I y'know, I don't want to get back together over a machine.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And you know, we said that we would, we would live together as long as this makes sense. An maybe this, you know,Just doesn't make sense anymore.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

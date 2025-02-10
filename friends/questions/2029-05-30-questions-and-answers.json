@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1589,
+  "date": "2029-05-30",
+  "questions": [
+    {
+      "quote": "Oh you're my biggest fan? I've always wanted to meet you! Hi! Sure! Yeah!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, these aren't mine. Maybe Monica used to use them with...",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Dina"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ross, c'mon, please. Can we just get out of here, before somebody else gets hurt?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look at that woman sitting by the pool getting tan... so leathery and wrinkled, I'm so jealous!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well you know that thing you said before, I'd be lying if I said I wasn't intrigued.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, it's time for a new family to start their memories here and hopefully their check will clear before they find the crack in the foundation and the asbestos in the ceiling.",
+      "characters": [
+        "Minister",
+        "Monica",
+        "Jack Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Yeah, but, I don't do that anymore. I got kinda sick of it, and then I couldn't come up with anything good, so they fired me.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Leslie",
+        "Phoebe"
+      ],
+      "correctAnswer": "Leslie"
+    },
+    {
+      "quote": "Oh when you beeped me I was on line at the concession stand at the movie theater.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What would you give to a kid if he wanted a ticket to play with?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on! The time we were all waiting in line for Dances With Wolves and that one guy cut in line in front of us and I just lost it?! Screamed at him! Turned all red! Red Ross!!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

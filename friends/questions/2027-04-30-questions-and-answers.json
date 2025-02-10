@@ -1,0 +1,106 @@
+{
+  "gameNumber": 828,
+  "date": "2027-04-30",
+  "questions": [
+    {
+      "quote": "Anyway, that's all I know. That, and this. This is the real him.",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Joey",
+        "Grandmother"
+      ],
+      "correctAnswer": "Grandmother"
+    },
+    {
+      "quote": "I'm so glad you could come Chandler, we've got plenty of food so I hope you're hungry.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Gary",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Okay y'know what, because you said that, I'm not putting out tonight.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Mr. Ratstatter",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Great! Well Rachel, the reason why I won't let you drive the Porsche is because you're a terrible driver. There! That wasn't about the wedding.",
+      "characters": [
+        "Julie",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well I've been playing it for like eight hours, it'll loosen up. Come on, check out the scores. Oh, and also look at the initials, they're dirty words.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Stephen Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, that's what I said, but it turns out, Mike was planning on proposing to me that same way last night!",
+      "characters": [
+        "Phoebe",
+        "David",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know. But hey, I know we can decide. Okay, I'm gonna ask you questions and you answer real quick. Okay?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Are you kidding? That's what sisters are for. Frank Jr. : Look at them! Aw. I love you so much. Oh crap, don't wake up, don't wake up!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well that's different! Okay? Because he, he was actually in love with me!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! I killed him! I killed another one! And this curse is getting stronger too, to bring down something that big.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

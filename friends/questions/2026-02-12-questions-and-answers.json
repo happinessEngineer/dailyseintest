@@ -1,0 +1,106 @@
+{
+  "gameNumber": 386,
+  "date": "2026-02-12",
+  "questions": [
+    {
+      "quote": "You know, I really don't want to get involved in you guy's relationship.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Joey! The baby is kicking for the first time! Will you please come feel this?!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No Mon, you want to put them in concentric circles. I want to do this.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wha--? Whoa, hey, I don't want my birthday to be the source of any kind of negative--there's gonna be a hoopla?",
+      "characters": [
+        "Ross",
+        "Woman",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay! Okay! That's it!! Parents!! Parents!! Back away!! All right, this is our wedding day! From now on everyone gets along, and if I hear one more word. NO GRANDCHILDREN! That's right!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, but all right you're a guy, does it not freak you that you're never gonna sleep with anybody else?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Joey Tribbiani Sr.",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I figured we're in another country, so it doesn't count.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ohh, God! Look at him, he's so cute. I wanna go over there, grab him, and kiss him! How can I kiss him and not letting him know that I like him?",
+      "characters": [
+        "Minister",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, stop that! Don't kid about that! Will all the stars be there?",
+      "characters": [
+        "Sandra Green",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know you botched that operation on purpose. I can't prove it yet, but when I do, you'll be going to jail for murder. I don't care if you are my brother.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Dr. Drake Ramoray"
+    }
+  ]
+}

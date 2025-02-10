@@ -1,0 +1,106 @@
+{
+  "gameNumber": 268,
+  "date": "2025-10-17",
+  "questions": [
+    {
+      "quote": "Well, I'm watching it for some friends who went out of town. Wait. Hello, my name is Clunkers. May I please stay with you nice people?",
+      "characters": [
+        "Carol",
+        "Phoebe",
+        "Monica",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wasn't this supposed to be just a fling, huh? Shouldn't it be... flung by now?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No honey, okay, okay, you wanna know why Ross canceled the date? Because I asked him to.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, that's it! He cannot do this to Phoebe. This guy is going to get the butt kicking of a lifetime! But, is he a big guy?",
+      "characters": [
+        "Joey",
+        "Gavin Mitchell",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "\"Oh, I have to get my number back. Oh my God. He's gone.\" Dead on.",
+      "characters": [
+        "Phoebe",
+        "Janine Lecroix",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "We got out pictures back from London. Here's all of us at the Tower of London.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Don",
+        "Bobby Rush"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'll get everybody else , finally we can start celebrating my- I'm sorry, uh apparently I've opened the door to the past.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "'Cause they took our apartment, I wanted to punish them. But I'm-I'm done now. They've suffered enough.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Actually, I didn't know the magazine was paying for it. Wouldn't have mattered, I'm doing this for the fans, not for the free food.",
+      "characters": [
+        "Joanna",
+        "Ross",
+        "Joey",
+        "Gunther"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah... Amy kept kicking me in her sleep yelling 'Myron, get off!'",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

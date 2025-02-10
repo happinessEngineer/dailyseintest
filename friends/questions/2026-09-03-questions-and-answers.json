@@ -1,0 +1,106 @@
+{
+  "gameNumber": 589,
+  "date": "2026-09-03",
+  "questions": [
+    {
+      "quote": "Joey, what are you doing?! It's never gonna happen, she's seeing somebody.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, it's just some crazy guy who roams the halls here. He's great with kids though.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, no, no, no, no. You know what, he's not into that stuff anymore. He quit for me.",
+      "characters": [
+        "Phoebe",
+        "Peter Becker",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hmm, something bad to tell Rachel... Bad news for Rachel, what could that be?!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, my trainer, Ho Chi, is teaching me a combination of Gee Koon Doe and Brazilian street fighting, I've even had my own octagon training ring designed.",
+      "characters": [
+        "Peter Becker",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Phoebe?! Wait a-but-but she just, she said that Joey was her backup.",
+      "characters": [
+        "Phoebe",
+        "David",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, Joey, you know what? You have to go for it. How often does this happen to you, huh? You owe it to yourself.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, this Russell, Ross's divorce lawyer, just tell him that since I haven't heard from him, I assume he's decided to give the marriage a try.",
+      "characters": [
+        "Russell",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Okay, I'm gonna get your coat and then I'll-I'll put you in a cab.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I-I still think you're very-very nice and very pretty...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

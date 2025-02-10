@@ -1,0 +1,106 @@
+{
+  "gameNumber": 353,
+  "date": "2026-01-10",
+  "questions": [
+    {
+      "quote": "All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Roger",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You bought your sheets at a flea market? Ross come on, you gotta loosen the purse strings a little.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Parker",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, hey hey hey, ho ho ho, hello, guy who doesn't want to know, standing right here!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh! I see what happened. It's because I was trying to repel you. Right? Believe me, you'd feel a lot different if I turned it on.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Do you want some shortbread? Eh that's Scottish like you are.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Eh, Monica it, it feels so weird, y'know, Chandler's your friend... Oh! Oh my God! Aw, all right take this bed, you can make other friends.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": ": Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?",
+      "characters": [
+        "Joshua Burgin",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I majored in lightning rounds. All right, we're gonna destroy you.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, I agree. Ya know, I think fancy parties are only fun if you're fancy on the inside and I'm just not sure we are.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Or maybe he-he was writing to tell her that-that he's changed his name, y'know? Tell Monica I'm sorry.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

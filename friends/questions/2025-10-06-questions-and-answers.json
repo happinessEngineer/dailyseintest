@@ -1,0 +1,106 @@
+{
+  "gameNumber": 257,
+  "date": "2025-10-06",
+  "questions": [
+    {
+      "quote": "Nothing... It's really... It's nothing... Come here, come here...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, listen, there's still some of Chandler's medicine under the sink in the bathroom. Bye!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Sandra Green",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, uh, it's not what you think. It's um the other thing.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No. No. You-you can't help. I mean, I kinda have to do this without your help.",
+      "characters": [
+        "Gunther",
+        "Carol",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "By the way, do you know who's moving back into town? Tom and Sue's daughter Jen.",
+      "characters": [
+        "Bitsy Hannigan",
+        "Ross",
+        "Joey",
+        "Doug"
+      ],
+      "correctAnswer": "Bitsy Hannigan"
+    },
+    {
+      "quote": "No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all \"Oh, Paolo, he's so great, he makes me feel so...\" Oh, God, I'm so embarrassed!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry I had to take such drastic measures to make my point, but I-look, I just want you guys to be safe. DANGER!!!!! Ahhh, huh? Unagi.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Good. Y'know-no-no, okay, it's-it feels like everything's been about me lately, so what's happening with you?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well no, not yet. He's calling everyone on her side of the family hoping that someone will help him get in touch with her.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I am? Oh, look at that, yes I am. Enough about me, enough about me, Mr. Back from the Orient. Come on. I wanna hear everything! Everything.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "The Cooking Teacher",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1097,
+  "date": "2028-01-24",
+  "questions": [
+    {
+      "quote": "Y'know I'm-I'm really glad we decided not to sleep together before the wedding.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, did you guys check out those new hand-dryers in the bathroom?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! Great, you're home! Guess what Phoebe got me for Christmas!",
+      "characters": [
+        "Rachel",
+        "Emily Waltham",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, you could just go uh, \"greatest of ease... BAH-bah-bha-bhannn.\" Then go right into it.",
+      "characters": [
+        "Mark Robinson",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah it is, it is. We really, really have to do something about that.",
+      "characters": [
+        "Joey",
+        "Kate Miller",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I just came by to give you a kiss, I have to go pick up the baby, so. I'll see you later sweetheart, you too Chandler.",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Fake Monica",
+        "Julie"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Well, I don't know what Big Leon told ya but it's an even thousand if you want me for the whole night. What is this for?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, they said that I had to think about it first, but what is there to think about? I'm gonna be giving them the greatest gift you can possibly give.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Shelley"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right I... I gotta call my mom and ask her a left handed cooking question.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Doug",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Let's just do it right now. Okay? It won't be hard. Just say what's in your heart.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

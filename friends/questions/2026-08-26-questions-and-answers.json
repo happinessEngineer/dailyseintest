@@ -1,0 +1,106 @@
+{
+  "gameNumber": 581,
+  "date": "2026-08-26",
+  "questions": [
+    {
+      "quote": "Chandler could you at least send some women to my party? Alright that's Ross.",
+      "characters": [
+        "Leonard Green",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, so what you used to have with Rachel, is what I've got with Alice.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Hey guys, so I just called the Powerball hotline, can you believe it? Nobody won.",
+      "characters": [
+        "Rachel",
+        "Helena",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's interesting that you lost. Now, I forget, do you like to lose?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, not that you need it but good...GOD!Is that Chase Lassiter?He's straight, right?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OK. OK, alrighty, let's play some tunes. Hi everybody, I'm Phoebe",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "We're not gonna do this, all right? She's just gonna think that we're doin' it.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Emily Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Good? Didn't you hear them...I was great! Thank you so much for making me do this. That's is the best gift ever.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Maybe because you never listen to anything that I say. I talk about her all the time! DENISE!!!!!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know, birds just don't say, \"Hello, sit here, eat something.\"",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 250,
+  "date": "2025-09-29",
+  "questions": [
+    {
+      "quote": "Nothing, I mean, um, it is your first time with her and, you know if the first time doesn't go well, well then that's, that's pretty darn hard to recover from.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It looks like one of her eyebrows fell down. Now unless someone convinces her to let me bleach it, Jean-Claude Van Damme is gonna be making out with Gabe Kaplan.",
+      "characters": [
+        "Susie Moss",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Susie Moss"
+    },
+    {
+      "quote": "Gosh. I'm not gonna let that man make you eat your baby. Oh. Hey! Who is that guy? I think I know him.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Nothin', nothin', hey you're a cheapasaurus. I'm kidding, I'm kidding, thank you, I'm very greatful.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah well, maybe she should've spent a little less time decorating and a little more time in the bedroom.",
+      "characters": [
+        "Phoebe",
+        "Interviewer",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'll get it. Hello? Ross's place. Mike speaking. It's for you.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Well, it's the thought. Hey, doesn't Ross's flight get in in a couple hours? At gate 27-B?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Um, perhaps. Yes! Yes, I'm sorry, I'm sorry. I was just afraid that you were still hung up on my sister.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "How can you do this too me?! I thought I'd made my feelings about Rachel perfectly clear!",
+      "characters": [
+        "Sarah Tuttle",
+        "Emily Waltham",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Yeah. Y'know I keep thinking that something stupid is gonna come up and I'll go all...Chandler. But nothing has.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

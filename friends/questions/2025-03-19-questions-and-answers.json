@@ -1,0 +1,106 @@
+{
+  "gameNumber": 56,
+  "date": "2025-03-19",
+  "questions": [
+    {
+      "quote": "I know! It's like, if you knew, why didn't you tell me, you know? I mean, call, or leave a note: \"Hi, I just dropped by to say your wife's gay\"",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look it's not about who I would marry. And I was certain the first time I got married it would last forever. And I was totally wrong!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joshua Burgin",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "No-no, this only took five minutes. I spent the rest of the day coming up with new, Ultimate Fireball. Ha-ha!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Um, not so good. He walked me to the subway and said 'We should do this again!'",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Dina",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So I'm not supposed to share my doubts and fears with the guy I'm gonna spend the rest of my life with?",
+      "characters": [
+        "Rachel",
+        "Elizabeth Stevens",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh god what am I gonna do you guys, I can't even comfort my own baby! I'm the worst mother ever!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Can I come over tomorrow and pick up Fluffy Meowington's cat toy.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right look lady here is the deal, I came here for an annulment and I am not leaving here until I get one!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well it's only like my favorite bay! {Actually, it's not bad. It just gets a little cold in winter, but in Wisconsin winter only lasts from August to June. J }",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay! Very funny! Somebody let me out please?! Come on, I'm cold! And covered in marinara sauce! Come on! Let me out!",
+      "characters": [
+        "David",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

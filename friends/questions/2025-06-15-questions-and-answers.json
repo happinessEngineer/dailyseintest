@@ -1,0 +1,106 @@
+{
+  "gameNumber": 144,
+  "date": "2025-06-15",
+  "questions": [
+    {
+      "quote": "So, how are things going with crazy? Has she cooked your rabbit yet?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh...Phoebe? Maybe I wasn't clear before. I really love listening to your music here, but my restaurant is sort of an upscale place.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Kim"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You don't observe a dance class. You dance a dance class. Spare shoes are over there.",
+      "characters": [
+        "Teacher",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Teacher"
+    },
+    {
+      "quote": "That's your whole name, okay of course it is! Okay, well let's-let's just have a look-see here.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh y'know what, I was already trying to trade for ah, well, you.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoa-whoa-whoa! Before you start handing out wedding rings and planning bachelor parties, don't you have to decide who your best man is gonna be?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, because I was mad at you, not because I stopped loving you!",
+      "characters": [
+        "Joey",
+        "Eddie Menuek",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh no, wait a minute, wait, I've got a presentation tomorrow. I can't miss that.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it.",
+      "characters": [
+        "Julie",
+        "Charity Guy",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Um, this is gonna sound kinda goofy but uhhm, my friend over there, who cooks by the way, um, she thinks you're cute.",
+      "characters": [
+        "Sophie",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

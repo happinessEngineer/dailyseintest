@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1298,
+  "date": "2028-08-12",
+  "questions": [
+    {
+      "quote": "Well that's it. People never say `We need to talk' unless it's something bad.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Barry Farber",
+        "Stephen Waltham"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I figure that $1,500 would cover him for a few months, y'know? But I have to trick him into taking it so I won't hurt his pride.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Maybe your resolution is to not make fun of your friends, especially the ones who may soon be flying you to Europe for free on their own plane.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, but I was doing my thing and everything was going according to the plan!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sure! If you're just gonna hang out as friends, then maybe I'll join ya. You know, I'm your friend and Mike's friend .",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey where-where are the pictures that creepy pretzel vendor took of us together?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Danny",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, maybe that's Emily calling back to leave the exact same message.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, I mean it. There are so few genuinely nice guys out there.",
+      "characters": [
+        "Russ",
+        "Mona",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "I spent two years developing this machine, it's absolutely state of the art.",
+      "characters": [
+        "Wayne",
+        "Joey",
+        "Gunther",
+        "Chandler"
+      ],
+      "correctAnswer": "Wayne"
+    },
+    {
+      "quote": "Oh, ok, murder, cancer, soccer teams eating each other in the Andes.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Erica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

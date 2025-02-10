@@ -1,0 +1,106 @@
+{
+  "gameNumber": 265,
+  "date": "2025-10-14",
+  "questions": [
+    {
+      "quote": "What about Ross? What about your moment? Don't you want to talk to Ross about it?",
+      "characters": [
+        "Chandler",
+        "Jack Geller",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Whoa, Monica runs a pretty tight ship over here. What are you doing?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! All he's thinking about is how you're taking this! I mean, listen it's totally freaking him out. He's talking about moving to Vermont.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Really? Wow, well then come on, I wanna show you how to fold the toilet paper into a point.",
+      "characters": [
+        "Wendy",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Great! Okay, if you'll just excuse me. So, did you hear something you liked?",
+      "characters": [
+        "Joshua Burgin",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Mom, there are so many people in my life. Some of them are seeing people and some of them aren't. Is that crystal?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Elizabeth! Okay. Okay. I'm gonna go out this window. I'll meet you at the front door. Just tell them you're going home, okay?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! Hey, you know what? I'm sorry. I would never force you... to hire someone you were this uncomfortable with...",
+      "characters": [
+        "Ross",
+        "Gavin Mitchell",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. Ah, well we'll just see about that, okay. I will read The Shining, and you will read Little Women.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

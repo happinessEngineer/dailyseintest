@@ -1,0 +1,106 @@
+{
+  "gameNumber": 720,
+  "date": "2027-01-12",
+  "questions": [
+    {
+      "quote": "She sure does. Why does she have a pink bow taped to her head?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Sandra Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I think we should save our china for something really special. Like if the Queen of England comes over.",
+      "characters": [
+        "Rachel",
+        "Kate Miller",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And that became 'they are humid prepossessing Homo Sapiens with full sized aortic pumps...?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, we're not throwing it out! I built this thing with my own hands!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Will power? I've watch home movies of you eating ding-dongs without taking the tin foil off.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, that's up to Mr. Zelner. I'm sure he will make the right decision.",
+      "characters": [
+        "Gavin Mitchell",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Yeah, that's gonna get you into Soap Opera Digest. Well I......I would just like to say that Joey truly has enriched the days of our lives.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey Ross! It's you! I just want you to remember this feeling. You are lucky to be alive! So live everyday to the fullest. Love yourself, okay? Okay. Oh, and also get stamps. Bye!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And I mean, you know, you guys... This is a big deal. I mean, how can we have her first birthday party without her aunt and her uncle!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know, I want that too, but IS that going to make it too hard?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

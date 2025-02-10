@@ -1,0 +1,106 @@
+{
+  "gameNumber": 716,
+  "date": "2027-01-08",
+  "questions": [
+    {
+      "quote": "That's a good question. Look umm, last night we let the dice decide. Maybe we should leave it up to fate again. I love you!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm really fine, don't worry, I'm great with children. Gavin Mitchell. Pleased to meet you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Jamie",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Monica, she will kill you. She will kill you like a dog in the street.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It means that my guys won't get off their barcaloungers and you have a uterus that is prepared to kill the ones that do. It means...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "See? Ben doesn't think you're a loser, he thinks you're a cowboy! Now that's something.",
+      "characters": [
+        "Helena",
+        "Ross",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So if Monica's not around, then I'm not good enough to raise Emma?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's not that. Okay? Annulments are more complicated than I...",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm not going to be a part of this! You can't just bring some random guy at home and expect him to be our sperm donor!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Say Rachel, I was wondering if you'd like to go to a movie with me sometime. As my lover! Nnnsch, to out there. Maybe you'd just like to ah, get something to eat with me sometime? As my lover.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Gunther"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "No-no-no-no look no! I won't spit, and I won't stare at Monica's breasts! Y'know? Everyone knows I'm an ass man!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

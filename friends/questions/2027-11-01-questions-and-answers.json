@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1013,
+  "date": "2027-11-01",
+  "questions": [
+    {
+      "quote": "So listen uh, I know you and I haven't really had a chance to talk since uh, Emily and I decided to get married, and uh, I was just wondering how you were.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, Monica, wow you've been in the bathroom for like a half-hour.",
+      "characters": [
+        "Carol",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Do this for me! Come on, I catch you looking at woman's breasts all the time!",
+      "characters": [
+        "Guy",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm gonna miss this hand! Okay I know it's a lot to ask, but oh my God Chandler, this is a once in a lifetime opportunity.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And weenie number two has it. Unless, of course, nine-down, Knights in White Satin was sung by the Doody Blues.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Tomorrow night is good. Tomorrow night is good, but uh, y'know what? Why put off something till tomorrow that you can do right now? Eldad come here!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Mr. Zelner",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Phoebe and I saw Chandler with a blonde woman today outside on the street and then we followed them to a house in Westchester.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! Yeah! Yeah! You just take a big, big swing. Now, don't hold back. and Phoebe picks up a wooden baseball bat and starts to swing as Chandler and Monica enter.)",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm with you Chandler! I mean I can't have sex with a sick person either, that's disgusting! But I'm not sick! Let me prove it to you. We are two healthy people in the pribe of libe.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "The Woman",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "We didn't get to the audition. I'm gonna take her to coffee and then we'll do it then.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 656,
+  "date": "2026-11-09",
+  "questions": [
+    {
+      "quote": "How do you do. Ooh, you two girls were outstanding! Did they have representation?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Richard Burke",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "Well, thank you. So, can we play 20 Questions now? I've got a really good one! I've been thinking about it since Kansas.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, if, if this is too weird for you, we can still back out at...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, what're you... what're you... what are you doing? You're having a memorial service for yourself!?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry buddy, but I don't think I'm gonna be able to make it.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, Bob, it's Jade. Listen, I just wanted to tell you that I was really hurt when you didn't show up the other day, and just so you know, I ended up meeting a guy.",
+      "characters": [
+        "Phoebe",
+        "Jade",
+        "Chandler",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Jade"
+    },
+    {
+      "quote": "Oh, nononowaitwaitwaitnono! Uh... we may not know anything about radiators per se, but we do have a certain amount of expertise in the heating and cooling... mileu.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh man! Now she's gonna start all over! We're never gonna get to introduce the hot girls to the new world!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well what if somebody steals something? How are you gonna run after him with one leg shorter than the other?!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Well, I was Dr. Drake Remoray, Stryker's twin brother. I mean, who looks more me than me right?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

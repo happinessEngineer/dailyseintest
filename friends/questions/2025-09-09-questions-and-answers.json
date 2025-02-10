@@ -1,0 +1,106 @@
+{
+  "gameNumber": 230,
+  "date": "2025-09-09",
+  "questions": [
+    {
+      "quote": "Don't worry, we're just gonna search here for an hour, them we're gonna go over to Joey's and search, OK?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Och, god. Oh, thank god, you're okay. I'm so sorry we left you. Mom never gonna leave you again. Never ever ever again. Uch.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Carol",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ross, you're tired. You've been looking all night. And clearly you suck at this.",
+      "characters": [
+        "Leonard Green",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm not sick!! I don't get sick! Getting sick is for weaklings and for pansies!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah but Pottery Barn! Y'know what I think? It's just she-she's weird. Y'know it's because she's a twin. Twins are weird.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Remember the Russian satellite, Sputnik? Well, I'm a potato or a...spud. And these are my antennae. So Sputnik, becomes... Spud-nik. Spudnik!",
+      "characters": [
+        "Phoebe",
+        "Mike Hannigan",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's crazy! You can't do that! What are you going to tell her? Oh God. Ohh, you already agreed to this, haven't you?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Charlie Wheeler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Listen, I ah, I know it's a longshot. But, by any chance did she find that funny?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, that's because we had a bit of a falling out. Mike hit my mom with a car.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No because I chickened out the last time when I tried to meet him. So I mean coincidences? I don't think so.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

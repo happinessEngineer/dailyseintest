@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1397,
+  "date": "2028-11-19",
+  "questions": [
+    {
+      "quote": "Hey, y'know what, if you're gonna do that, if you're gonna name him Joey, you should name him Chandler. Oh, come on! Chandler's funny, sophisticated, and he's very loveable, once you get to know him.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, it's a secret. Oh goodie! Yes! We haven't done the secret thing in a long time.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, it doesn't say where it came from. Where would we return it?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What do you think Monica mean when she said she didn't want to talk, especially with me? I mean, why not especially you and me? We were both out there kissing.",
+      "characters": [
+        "Rachel",
+        "Carol",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry, it's just this Ernie Cofax thing on in a few minutes I wanted to watch.",
+      "characters": [
+        "Ross",
+        "Kathy",
+        "Joey",
+        "Katie"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "Um, y'know, before we go ah, there's something I need to say.",
+      "characters": [
+        "Mark Robinson",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Mark Robinson"
+    },
+    {
+      "quote": "\"Well, but I'm not sure I really want to do anything about it.\"",
+      "characters": [
+        "Joey",
+        "Gavin Mitchell",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So I got it in the junior miss department, big diff. Anyway check it out man, it's gonna make a hell of a conversation piece at out next cocktail party, huh pal?",
+      "characters": [
+        "Eddie Menuek",
+        "Ross",
+        "Monica",
+        "Donny Osmond"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "It used to be. Now she doesn't really have a face. Smokin' body though.",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! To take more pictures of all of us together. I mean I really think it's the best resolution because everyone will enjoy the pictures.",
+      "characters": [
+        "Ross",
+        "Emily Waltham",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1435,
+  "date": "2028-12-27",
+  "questions": [
+    {
+      "quote": "I don't know, you tell me. One minute I'm holding Ben like a football, the next thing I know, I've got two kids, I'm living in Scarsdale complaining about the taxes.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, come on, who cares what that guy thinks. What does Warren Beatty know about kissing Ooh.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Really, it would be good for you and in fact, why don't you, why don't you go ahead to the restaurant and I will wait for my mom and then I'll meet you there.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You made out with Missy Goldberg. How could you do that, after you promised me?",
+      "characters": [
+        "Erica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I wish. See, I guess another thing I probably should've told you about Ginger is that she kinda has a ah, artificial leg.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Mr. Zelner",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "For 50 bucks, you can get one book! What will it be? A? B? C?",
+      "characters": [
+        "The Salesman",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "The Salesman"
+    },
+    {
+      "quote": "All right Monica, do you want to know why I was with Ross tonight?!",
+      "characters": [
+        "Joey",
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Why, do I have a feeling that's not as happy as it sounds? No! Nooooo!!!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I hate my regular clothes now! Y'know? I look down and-and I know that this isn't gonna be the most special day of my life.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no, no! It's real! And it has been since 1998. Hey Rach! Rach! I'm up for a Soapie!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1259,
+  "date": "2028-07-04",
+  "questions": [
+    {
+      "quote": "We talked 'til like two. It was this perfect evening... more or less.",
+      "characters": [
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my God, you're right! I am too late; they're sitting on the couch and talking! Come on! Rachel?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey, you have to tell her what's going on! And what did it look like?!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Don"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ugh! I don't know Monica. It feels funny just being here. I mean if you buy a bed from Janice's ex-husband, that's like betraying Chandler.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I've... I've been blessed with a... a lot of great roles.",
+      "characters": [
+        "Lennart",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Lennart"
+    },
+    {
+      "quote": "Uh, hello dad! Monica and I just saw the house in the paper! Yes we're surprised! Who did you leave a message with?",
+      "characters": [
+        "Joey",
+        "Bitsy Hannigan",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "There you go. So she dips into her savings, that's what it's there for. She's gonna be fine, and if you need a little extra, you know where to find it.",
+      "characters": [
+        "Barry Farber",
+        "Mark Robinson",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The only way that that is going to happen, is if the other couple are the Hitlers.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, I know what's going on here, okay, Mark explained it all to me. He said this is what you guys do.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's Bob actually. Hey, you work up here, can you tell me where this Chandler Bing's office is?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Bob (Chandler's coworker)",
+        "Ross"
+      ],
+      "correctAnswer": "Bob (Chandler's coworker)"
+    }
+  ]
+}

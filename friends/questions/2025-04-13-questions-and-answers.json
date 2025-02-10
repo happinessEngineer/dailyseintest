@@ -1,0 +1,106 @@
+{
+  "gameNumber": 81,
+  "date": "2025-04-13",
+  "questions": [
+    {
+      "quote": "Awe, this is so sweet of you! But you know what? I won't be needing a veil, I actually won't be wearing a dress at all!",
+      "characters": [
+        "Phoebe",
+        "Charlie Wheeler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm hearing what you're saying, but at our prices everyone needs toner.",
+      "characters": [
+        "Rachel",
+        "Sandra Green",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Listen, uh, you told me something that was really difficult for you. And I, I-I figured if you could be honest, then I can to.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "C'mon, you get the idea, ow-ow-ow we'll make our money back in no time!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, if you don't want your mother to move in with you, just tell her.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "...No. I think some things are better left unsaid. I think it's nicer when people just get along.",
+      "characters": [
+        "Judy Geller",
+        "Joey",
+        "Joshua Burgin",
+        "Chandler"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "You have a blue tie that would go with this? Emma spit up on mine.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Amy Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right. Chandler, do you remember how I told you about our fridge?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Of course I do! And I'm gonna give it back to you as soon as they're done with it at the key shining place.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, that is so sweet. I think I'm falling in love with you all over again.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

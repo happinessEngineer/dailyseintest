@@ -1,0 +1,106 @@
+{
+  "gameNumber": 17,
+  "date": "2025-02-08",
+  "questions": [
+    {
+      "quote": "No, I know. That's a part of the whole, you know, them-not-liking-you-extravaganza.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Gunther",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now, that's a lot harder than it sounds. You always forget at least one, or in some cases... fourteen .",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, this must've brought back some really bad memories for you, Ross.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh we were, but that was just a , I mean that was just a big drunken mistake.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow. Is it, is it 'cause she's so cold in bed. Or, or is it 'cause she's like, kinda bossy, makes it feel like school?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?",
+      "characters": [
+        "Ross",
+        "Gunther",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey guys this stuff is just so way in the past. You-you've been through so much since then. And right now you've got so much more important stuff going on in your life. Can't you just let this go?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So that marriage stuff that you were saying yesterday, you don't really believe that do you?",
+      "characters": [
+        "Phoebe",
+        "Director",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh. Uh, by the way, if it makes you feel any better. I happen to like 8-year-old boys.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You wanna know how she knew him? Because Phoebe used to mug people.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

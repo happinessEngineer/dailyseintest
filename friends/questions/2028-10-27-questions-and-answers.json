@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1374,
+  "date": "2028-10-27",
+  "questions": [
+    {
+      "quote": "Okay..Okay.. Look. I'm sorry that I lied to you before. You were right. Ralph and I were an item but were not anymore.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No no no no no. You wanted me to take them down, so... ..Im takin em down. Okay? Whoa!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Katie",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, no-no, this place is totally healthy! That-this milk is mine. I bought this today, 'cause I was thirsty for milk, y'know. Okay, let's go!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You're kidding me? I mean, it's enough that you are a doctor. But on top of it, you're married to a reverend?",
+      "characters": [
+        "Rachel",
+        "Erica",
+        "Alice Knight",
+        "Ross"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Yeah, I mean, there's probably gonna be some ground work which will probably stink, you know, grown man getting people coffee is a little humiliating.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I just thought it'd make me feel good to do something nice for my friend.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "oh, oh, oh! This is so great! Oh my god! This was not at all scary. Hi everybody. Hi Betty! Betty, Hi! You found Betty! Oh my god! This is great. Everybody I love is in the same room, Where's Joey?",
+      "characters": [
+        "Waiter",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well l-look okay, it's probably just a mistake. Let me call Aunt Sheryl okay? Maybe you are invited and the invitation just got lost in the mail.",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Joey",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, and none of these stupid grocery questions, real personal questions.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Will Colbert",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sure it's a famous watering can, okay. But, come on...and what is with the really hot stick in the bathroom?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

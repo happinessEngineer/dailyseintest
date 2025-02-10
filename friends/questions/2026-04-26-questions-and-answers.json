@@ -1,0 +1,106 @@
+{
+  "gameNumber": 459,
+  "date": "2026-04-26",
+  "questions": [
+    {
+      "quote": "First of all um, I love you both so much and you're both so important to me...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Mona",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, she walked in when I was looking at the ring brochures. You can understand that, right? Guys? Guys?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uhm, actually no. No, you've... You have to get off the plane.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes, thank you so much. And again, we're so sorry. We could not feel worse about it.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard! I know! How bad is this?!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes. Yes, I was. A guy. From work. I'm seeing a guy from work! Ha!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, this is not that big of a deal! You just don't date Ross! There's a million other guys out there, you just...",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Some guy bought it. I'm sorry. I tired to stop it but they put me in jail!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Doug",
+        "Janice"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I was their first born! They thought she was barren! It's not my fault.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 412,
+  "date": "2026-03-10",
+  "questions": [
+    {
+      "quote": "Okay. Oh no-no-no, you don't touch the guitar! First you learn here, then you learn here.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Smelly cat, smelly cat, what are they feeding you? Smelly cat, smelly cat, it's not your fault.",
+      "characters": [
+        "Gary",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "'kay, see you there. Happy humping! Hey...hey! Oh, wow, somebody smoked out here? Oh my god, don't people know, you're not allowed to smoke in public spaces?",
+      "characters": [
+        "Amy Green",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Rachel, ready or not, here comes your knight in shining. . . oh no.",
+      "characters": [
+        "Guy",
+        "Ross",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We wanted to kiss at midnight, but nobody else is going to so y'know...",
+      "characters": [
+        "Kathy",
+        "Tag Jones",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rach, I promise first thing tomorrow we'll find another doctor, but I gotta get up early and I'm not feeling all that well.",
+      "characters": [
+        "Alice Knight",
+        "Ross",
+        "Joshua Burgin",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, yes Monica is thin. It's wonderful. But what we really want to hear about is Ross's new girlfriend.",
+      "characters": [
+        "Judy Geller",
+        "Ross",
+        "Monica",
+        "Joey Tribbiani Sr."
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Rachel... let's be clear on this, ok? I do not love Hugsy. I like him a normal amount...",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You don't have a valid driver's license-Okay that is it! Pull over right now!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, then, I think, I think the guy is scum. I hate him. I mean I actuallyI-I physically hate him. I always have. You are way too good to be with a guy like that.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Ticket Agent"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

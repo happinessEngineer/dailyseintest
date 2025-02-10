@@ -1,0 +1,106 @@
+{
+  "gameNumber": 835,
+  "date": "2027-05-07",
+  "questions": [
+    {
+      "quote": "Honey I can't even imagine how hard this must be for you. But, I don't want you to lose Joey over it. And right now he just needs to know that you're still his friend.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "'Pwease, Aunt Monica, pwease?' Oh, unclench. You're not even gonna be there.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Correct. In what part of her body did Monica get a pencil stuck at age 14?",
+      "characters": [
+        "Dr. Long",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look let's not make a big deal out of this! It was a one time thing. It doesn't even matter!",
+      "characters": [
+        "Doug",
+        "Rachel",
+        "Eddie Menuek",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! Listen to you talkin' about having kids. Oh my Joey. Oh, please don't get married before I do.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay If you guys have microphones in there too, I didn't mean any of that. I love you.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on Rach! No one saw me take it! There was a whole table full of 'em.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Everybody? Shh, shhh. Uhhh... Central Perk is proud to present the music of Miss Phoebe Buffay.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

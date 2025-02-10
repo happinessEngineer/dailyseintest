@@ -1,0 +1,106 @@
+{
+  "gameNumber": 784,
+  "date": "2027-03-17",
+  "questions": [
+    {
+      "quote": "He wanted to tell me he's gonna compete is some ultimate fighting competition thingy.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Russ"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Laura"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh. Wow! Huh. Boy! Well, someone's been doing their homework.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, what about that thing he did when he tipped the guy who showed us to our seats. You never even saw the money, it was like this. Hey Chandler, thanks for showing us to our seats .",
+      "characters": [
+        "Rachel",
+        "Mark Robinson",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh hey, it's, it's terriffic. I mean it's a regular space... fest.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I grew up with Monica! If you didn't eat fast you didn't eat!!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Can you believe this? We're gonna be on the platform for the Millennium moment!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chip Matthews",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I wanna quit, but then I think I should stick it out, then I think why would such a person stay in such a demeaning job, just because it's remotely related to the field they're interested in.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! No! No! No! Don't fall asleep! Okay, I am going to make you some coffee. And I probably won't spill coffee grounds all over the kitchen floor.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Leonard Green",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

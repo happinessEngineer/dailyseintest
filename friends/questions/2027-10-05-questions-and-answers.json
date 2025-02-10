@@ -1,0 +1,106 @@
+{
+  "gameNumber": 986,
+  "date": "2027-10-05",
+  "questions": [
+    {
+      "quote": "No, honey, its. thats a special plate. See its a game, whoever gets that plate wins.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And confused. Rach, sweetie, I-I um...I didn't propose to you.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! That's great! Oh wow! You're a published writer! I wish I had a present for you!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Dr. Drake Ramoray",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Aww thanks! God Will I'm so glad that you came! You look great! You must've lost like...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Frank Buffay Jr.",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi! Hi sweetheart! This is my husband Sid, I don't think you've met him. Ross, Rachel, this is Sid. I nabbed him a year ago at the dermatologist's office. Thank God for adult acne huh?",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Okay, Rachel, you wanna put the marshmellows in concentric circles.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Nurse"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Boy, I know they say you can't change your parents,... boy, if you could- -I'd want yours.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I'm-I'm not sure about Hulk, but I like the idea of a name starting with \"The.\"",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Alice Knight",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey guys! Do you wanna look at the song list for the wedding? Guys?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Amy Green"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know what this is all about... You've always been jealous of my hair.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

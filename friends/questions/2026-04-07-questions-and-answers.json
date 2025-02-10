@@ -1,0 +1,106 @@
+{
+  "gameNumber": 440,
+  "date": "2026-04-07",
+  "questions": [
+    {
+      "quote": "So why don't you just let me worry about making the trifle and you just worry about eating it, alright?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well you know, after about thirty or forty fights, you kinda catch on.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right. I will go out and I will try to find something for her, okay?",
+      "characters": [
+        "Judy Geller",
+        "Judge",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Noo!! I don't care! I'm not, I'm not gonna playing one-on-one strip poker with you for practice!",
+      "characters": [
+        "Dr. Harad",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hah, sorry about the wait, but it is mega-jammed in here! We have a couple specials tonight...",
+      "characters": [
+        "Waiter",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "Anyway, they want to take us out Saturday night! What do you say?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hi. Uh, I have been in the bathroom. Stay clear of the salmon mousse.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. What if we lived together and you understand what I'm saying?",
+      "characters": [
+        "Judy Geller",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! Welcome, it is Soap Opera week here on Pyramid, let's meet our contestants. First, Gene Lester is a database specialist, he's gonna be playing with \"Days of Our Life's\" star Joey Tribbiani!",
+      "characters": [
+        "Donny Osmond",
+        "Jack Geller",
+        "Ross",
+        "Ticket Agent"
+      ],
+      "correctAnswer": "Donny Osmond"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 803,
+  "date": "2027-04-05",
+  "questions": [
+    {
+      "quote": "No, uhm... David and I did use to go out... but years ago, and he lives in Minsk. He's only... he's only in town for a couple of days.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No-no, we talked about it. We don't want to know. All we care about is that it's happy and healthy.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh! Why didn't you tell me? I made him his own individual sweet potato stuffed pumpkin.",
+      "characters": [
+        "Charity Guy",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, no... no. I couldn't find him. I'm just gonna talk to him on the plane.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "David"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You guys haven't gotten your presents yet? Tomorrow's Christmas Eve, what're ya gonna do?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, yeah, last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing. Nothing, just, just, I'm fine.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So once they caught on to the fact that we're, y'know, short and have breasts...",
+      "characters": [
+        "Chandler",
+        "Fake Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Fake Monica"
+    },
+    {
+      "quote": "Okay, well if I was in this for the money, I'd be a millionaire by now, y'know. You just got to get out of that jingle head sweetie.",
+      "characters": [
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Doug",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I was asleep. Oh no! No-no honey! Y'know what's sexy? Layers. Layers are sexy. And blankets are sexy. And oh! Hot water bottles are sexy.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It wasn't so much a party as...a gathering of people, with food, and music, and, and the band.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

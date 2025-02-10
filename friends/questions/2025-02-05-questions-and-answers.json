@@ -1,0 +1,106 @@
+{
+  "gameNumber": 14,
+  "date": "2025-02-05",
+  "questions": [
+    {
+      "quote": "Man that was great! Huh? Can you believe how long we threw that ball around?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, say my name. Say it! And now I'm going to cover you back up, and umm we're never doing this again.",
+      "characters": [
+        "Phoebe",
+        "Little Bully",
+        "Ross",
+        "Doug"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And you've never been funnier. Joke, joke, joke, you were a hoot!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Sandy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Eh, okay, the waiters have a little pool going. We have a bet on how long it'll take before you give up and go home.",
+      "characters": [
+        "Rachel",
+        "Waiter",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "They are needy, they are jumpy, and you can't tell what they are thinking, and that scares me a little bit.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Dr. Harad",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yep. I just, I just watched her sleep for like hours, just breathing in and breathing out. And then I knew she was dreaming 'cause, 'cause her eyes keep going like this.",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Amy Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Basically he told me to get over myself and just do it, ya know. So I though about what you said and I though about what he said and, well, his way I get to have sex tonight so. . .",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right! Let's get this over with! Ugh! Ohhh! No! Look what I did! Oh, I mean, look at this mess! I mean, we're probably gonna have to clean this up! Y'know? We're gonna have to reschedule!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look at him. I'm not saying he has to spend the whole evening with me, but at least check in.",
+      "characters": [
+        "Rachel",
+        "Earl",
+        "Ross",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, just, just take the entertainment center, and then when you get home, throw the canoe away!",
+      "characters": [
+        "Chandler",
+        "Joshua Burgin",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

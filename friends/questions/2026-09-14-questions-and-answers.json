@@ -1,0 +1,106 @@
+{
+  "gameNumber": 600,
+  "date": "2026-09-14",
+  "questions": [
+    {
+      "quote": "Ok, but you know what? I gotta say, I'm really impressed that you were able to memorize all this so quickly!",
+      "characters": [
+        "Nora Tyler Bing",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Sure! As long as they don't find out you can keep whatever you want! And I want you to have it.",
+      "characters": [
+        "Rachel",
+        "Charity Guy",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, Chandler, can we please stay focused on my problem here?! Y'know?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Eddie Menuek",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, sperm donor number 03815, come on down! Okay, he's 6'2\", 170 pounds, and he describes himself as a male Geena Davis.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well my old man is doing a plumbing job down there and he heard they have an opening. So, you want me to see if I can get you an interview?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "In one year?! My God what did she eat? Her-her family! That's not the point.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Charlie Wheeler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey, you can't make someone do something they don't want to do. Believe me, there's something I've been trying to get Mike to do in bed and there's... he's just...",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh-huh! Nice try, but you don't get that chair anymore! All right? That is my chair now! You can sit on my lap! No I take that back!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Parker",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, you are. And I'm so glad that you fought your way back in, because I don't know what I would do without you.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, that's right, yes, but on Hanukkah, uh, we sing, uh Dreidel, dreidel, dreidel, I made you out of clay.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Mark Robinson"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

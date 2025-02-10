@@ -1,0 +1,106 @@
+{
+  "gameNumber": 775,
+  "date": "2027-03-08",
+  "questions": [
+    {
+      "quote": "Joey relax! My mother picked her up two hours ago. You were there!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Noo! My ex-boyfriend Richard! Y'know the tall guy, moustache?",
+      "characters": [
+        "The Director",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I'm just gonna help him, you know, get 'de-Ursula-ized', like you know, like I did for Joey after he went out with her.",
+      "characters": [
+        "Janine Lecroix",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Although... it's also about the wedding... Ugh, alright... here. No... Oh God... Oh!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, sure. Yeah, well, he was my high school boyfriend. Captain of the football team, really cute and he got a scholarship and went off to college.",
+      "characters": [
+        "Amanda Buffamonteezi",
+        "Ross",
+        "Monica",
+        "Erica"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "There you go, that's the spirit! Okay! Now, if you need money, I will lend you money, but just get moving!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh! Oh, I can't believe it! I mean I think it's great! For him. She might be able to do better.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, no umm, hi, that-that, you have to put that out, 'cause I'm pregnant.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, I think Elizabeth is a little more serious than, \"Spring break!\" All right? I mean she's taken my class!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Really! God Ross, what were you thinking? I know it's really shallow, but a part of me wants him again.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 513,
+  "date": "2026-06-19",
+  "questions": [
+    {
+      "quote": "Y'see, that's where you're wrong. Why would I marry her if I thought on any level thatthat she was a lesbian?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You have got to get over this. You're not gonna end up alone.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "The Salesman"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hah. May not wanna mention this. So, you ever wonder which is worse, you know; going through labor or getting kicked in the nuts?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. I just need to be by myself for a while, you know? I just got to figure out what I want",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right. I'll do it, I kissed him before I can do it again.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Benjamin Hobart",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know, I flew a long way t see my loving wife? Is she here by the way?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Janice",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. Yeah, and I know that. All right, well thank you so much for coming in it was nice to meet you.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What's green and says \"hey, I'm a frog\"? A talking frog! Oh, no, you can't have him, he's too funny.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Rachel",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "That would be no. Look, just because you played tonsil tennis with my mom doesn't mean you know her. Alright? Trust me, you can't talk to her.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, she told me that I'm gonna die this week, so I'm kinda bummed about that.",
+      "characters": [
+        "Chandler",
+        "Jack Geller",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

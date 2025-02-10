@@ -1,0 +1,106 @@
+{
+  "gameNumber": 564,
+  "date": "2026-08-09",
+  "questions": [
+    {
+      "quote": "There was a ring, in a box, on my nightstand, after you left, it was gone!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Umm, listen, Ross do you really think this moving in with Rachel is a good idea?",
+      "characters": [
+        "Interviewer",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God! Look at all the newspapers! It must be a good review! Is it great?!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Don't make me do this again, I don't like my voice like this.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Amy Green",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, marriage... stinks! I mean if you wanna see a man gain weight and a woman stop shaving? Get them married.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Doug"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": ": then why were you watching them and giving YOURSELF a treat.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohh, here comes my dad and stepmum. Mister and Misses Geller, this is Steven and Andrea Waltham.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Hey, you guys. Listen, I'm sorry that I was hogging the game before--Oh my God! Your friends have some unfortunate initials!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah! Hi Emma. Hey, why do you think she won't take my breast?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And then we're gonna have a little Middle Eastern cous-cous. Something we can eat, with our hands.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

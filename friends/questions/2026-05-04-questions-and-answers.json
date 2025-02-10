@@ -1,0 +1,106 @@
+{
+  "gameNumber": 467,
+  "date": "2026-05-04",
+  "questions": [
+    {
+      "quote": "Oh! Okay! You, Mister Right Place at the Right Time, call me!",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Ross",
+        "Janice",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "I'm fine! I'd fight tonight, if they'd let me. See this circle I'm marking off here? This is my zone of terror.",
+      "characters": [
+        "Peter Becker",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "How many perfectly fine women are you gonna reject over the most superficial insignificant things?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, yeah. You should come check us out. We're called \"Way! No Way!\".",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh thank you, Chandler, this is so great, she's gonna love me.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't like looking foolish. Y'know what? Maybe uh, I don't arrest you today. Maybe I came by and you weren't here.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Cop"
+      ],
+      "correctAnswer": "Cop"
+    },
+    {
+      "quote": "All right, all right, all right. Last night, I had a dream that, uh, you and I, were...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Janice",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know what? You are right. I am gonna quit. It's time I took my life back!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "The Salesman"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Actually, giving birth to three babies isn't that different from giving birth to one.",
+      "characters": [
+        "The Doctor",
+        "Chandler",
+        "Ross",
+        "Judy Geller"
+      ],
+      "correctAnswer": "The Doctor"
+    },
+    {
+      "quote": "I'm not great at the advice, can I interest you in a sarcastic comment? Some cheese?",
+      "characters": [
+        "Man",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

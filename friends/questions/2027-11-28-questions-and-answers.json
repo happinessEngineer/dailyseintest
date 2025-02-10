@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1040,
+  "date": "2027-11-28",
+  "questions": [
+    {
+      "quote": "Like I tried to tell you in the interview Ross, this grant is not based on your knowledge of pretty useless trivia.",
+      "characters": [
+        "Hayley",
+        "Benjamin Hobart",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "Y'know what, y'know what, I'm-I'm not the one that wanted that, that break, okay. You're the one that bailed on us. You're the one that, that ran when things got just a little rough!",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no! No! No-no-no-no! No, I mean come on that's-that's crazy-I mean that's crazy. So what's-what's going on with you? What is going on with you?",
+      "characters": [
+        "Eddie Menuek",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Remoray. It's Portuguese. We need that information; I'm a doctor.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't believe Ross went out with Rachel's sister! When Chandler made out with my sister I was mad at him for 10 years.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Don't worry, we're just gonna search here for an hour, and then we're gonna go over to Joey's and search, OK?",
+      "characters": [
+        "Ross",
+        "Trudie Styler",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Chandler! You are not gonna believe this! I have found my identical hand twin!",
+      "characters": [
+        "Joey",
+        "Kathy",
+        "Dr. Ledbetter",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Come on! You're good with kids. They're just crazy on Halloween. Y'know, they're all greedy and hopped up on sugar!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Will Colbert",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Nice!! Yeah! Is that part of your resolution, your new thing for today?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes, and I'm sorry. I-I know things worked out for Chandler and Monica, but that's very rare.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

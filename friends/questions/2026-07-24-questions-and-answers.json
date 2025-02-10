@@ -1,0 +1,106 @@
+{
+  "gameNumber": 548,
+  "date": "2026-07-24",
+  "questions": [
+    {
+      "quote": "But are you saying that you would move out if I didn't buy that lamp?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That was one time, Ross, and they were only like 5 milligrams.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I've been thinking about getting rid of it. I was driving it the other day and saw my reflection in a store window. Your mother's right, I do look like an ass.",
+      "characters": [
+        "Jack Geller",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Yeah. But you know what? I think you should give Joey a chance. I mean, he's a great guy, and sure he doesn't know that much about art but you know, you can always talk about that with someone else.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know what, I can handle it, handle's my middle name. Actually it's the ah, middle part of my first name.",
+      "characters": [
+        "Monica",
+        "Richard Burke",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoa!! Whoa, whoa, wait a minute. What time did your little friend leave? Oh my God. She was there? She was still there? She was in there, when I was in there?!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I need to change my name, please. See, I need to change it because I'm-I'm hiding from the law. You're fun.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God!!! Monica!! He's the stripper from your bachelorette party!!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now you'll be heading a whole division, so you'll have a lot of duties.",
+      "characters": [
+        "Joey",
+        "The Interviewer",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "The Interviewer"
+    }
+  ]
+}

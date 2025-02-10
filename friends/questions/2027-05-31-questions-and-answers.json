@@ -1,0 +1,106 @@
+{
+  "gameNumber": 859,
+  "date": "2027-05-31",
+  "questions": [
+    {
+      "quote": "Eh, he said, thank you very much, he thinks you look very pretty tonight, your hair, golden like the sun. So you're a chef?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Mischa",
+        "Chandler"
+      ],
+      "correctAnswer": "Mischa"
+    },
+    {
+      "quote": "Honey, you have nothing to prove. And if you really like this girl, I don't flirting is the right thing to...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Robert Bobby"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "They thought it was very smart of us to have a child write the recommendation letter.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Right! But, none of that compared to how kind and-and how gentle and thoughtful he is.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look umm, of all people, you do not want me to tell this story!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, it's okay, no, no, no, really, look um, I really appreciate this Pheebs, but I think I'm gonna have to go back to Estelle.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I guess you're right. Maybe, maybe I'll take her down to the incinerator. It's gonna be so said, and kinda cool. She's heeled!",
+      "characters": [
+        "Rachel",
+        "Will Colbert",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Phoebe, listen. You were with me, and we were shopping all day.",
+      "characters": [
+        "Chandler",
+        "Roy",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ross, it is 100 degrees outside. For the first time in weeks, I am somewhat comfortable.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You remember her from my birthday party two years ago. She's yeah, like, average height, medium build, bald...",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Will Colbert",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

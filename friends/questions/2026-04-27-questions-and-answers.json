@@ -1,0 +1,106 @@
+{
+  "gameNumber": 460,
+  "date": "2026-04-27",
+  "questions": [
+    {
+      "quote": "Okay-okay-okay! So, making things. That sounds like so much fun.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! You and that girl from that copy place, which yesterday you took full responsibility for!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, why don't you just tell her what happened? It's not your fault.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I hate to admit it, but you're probably right. How did you get to be so smart?",
+      "characters": [
+        "Joey",
+        "Woman",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Nuh-uh. I don't think any of our lives are ever gonna be the same ever again.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know its frightening, but, big picture. The birth part is just one day, and when its over, were all gonna be parents for the rest of our lives.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "God, that would be weird it that situation presented itself tonight, huh?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The Empty Vase is not about you. My baby, you make me so sad that you would think this.",
+      "characters": [
+        "Julio (poet)",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Julio (poet)"
+    },
+    {
+      "quote": "Okay. Listen, I'm sorry about before. Do you have anything her for $10.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Pretty big? It's huge! God, this guy doesn't have a clue! He's just walking down the street thinking, 'I had sex with Rachel Green. I rock!' then bam! He's a father and everything's different.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Jack Geller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

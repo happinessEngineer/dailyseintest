@@ -1,0 +1,106 @@
+{
+  "gameNumber": 636,
+  "date": "2026-10-20",
+  "questions": [
+    {
+      "quote": "You're thing. You're thing. Y'know? You're the guy who gets divorced.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, hey, I have an idea. Why don't we play rock-paper-scissors, and whoever loses goes in first. Ready? .",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What're you doin' here? Aren't you supposed to be out with Rachel?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, man, why did have to go and say that for? Now that you told me I can't have it makes me want her even more!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Phoebe, I think... It's just too weird, I just saw a one year old running around with pantyhose on!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's just that... I don't understand it... I mean, Phoebe likes Joey and then she comes here to buy a dress to impress another guy...?",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Interviewer",
+        "Joey"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Oh no-no, no-no, they don't want you to put your hands in the pockets until you are out of the store.",
+      "characters": [
+        "Joey",
+        "Eric",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, y'know how I'm trying to work things out with Emily. Well, there's this one thing... Okay, here goes. I made a promise that--Oh hey!",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, yeah. Phoebe and I are going to have so much fun. And thank you for watching the baby, by the way.",
+      "characters": [
+        "Joey",
+        "Parker",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I guess. There was hum... there was another reason that I thought it was time to end it with Joey. I started to realize that I was having feelings for someone else.",
+      "characters": [
+        "Charlie Wheeler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    }
+  ]
+}

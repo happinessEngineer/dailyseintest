@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1549,
+  "date": "2029-04-20",
+  "questions": [
+    {
+      "quote": "Hey! Out of all of us, who do you think is gonna get married next?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, I've gotta go. C'mon, Marcel! C'mon! We're gonna go take a bath. Yes we are, aren't we? Yes, we are.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Um. I know it says black tie optional, but, um this may be pushing it a little, um.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you gotta give him something that he can't say no too. Like uh, Knicks tickets! Invite the guy to a Knicks game, you're guaranteed he'll say yes!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Mom's here? I wanted to have lunch with her today, she told me she was out of town.",
+      "characters": [
+        "Receptionist",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, we talked and Monica made me see that I over reacted a little bit and some things in life are more important.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No I totally disagree. No I think it's fine for a guy to do something like that. Such you an actor. Not that you need to,your eyebrows are...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I Think last night was great. You know, the Karaoke thing. Tracy and I doing Ebony and Ivory.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Maybe that's because you haven't taken the time to get to know him. Let's remedy that, shall we?",
+      "characters": [
+        "Eric",
+        "Phoebe",
+        "Amanda Buffamonteezi",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What's the matter? You never saw a 50 year old stripper cry before?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Roy"
+      ],
+      "correctAnswer": "Roy"
+    }
+  ]
+}

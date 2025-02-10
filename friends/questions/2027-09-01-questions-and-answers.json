@@ -1,0 +1,106 @@
+{
+  "gameNumber": 952,
+  "date": "2027-09-01",
+  "questions": [
+    {
+      "quote": "Well, Susan, I see what appears to be a dark vent. Wait. Yes, it is in fact a dark vent.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.",
+      "characters": [
+        "Phoebe",
+        "Malcom",
+        "Eddie Menuek",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Yeah, was there a part of you that... felt like it was... really wrong?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You call eight hours alone with my label maker wasted time? Ooh, now I get to use my shredder!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right! Fine! I'm going. But when I get back it's chair sitting, and I'm the guy who's....sitting in a chair!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ya know, Roy saw Star Wars 317 times. His name was in the paper.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, now uh, in terms of the invite list, I've got you, me, and Chandler and I'm gonna invite Gunther 'cause, well, we've been talking about this pretty loud.",
+      "characters": [
+        "Joey",
+        "Mike Hannigan",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "She's a hooker! She's a hooker! She's a... Hi! Uh, we spoke on the phone.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, uh, well, I haven't seem it but if I do I'll let you know.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Here's the plan! Okay? I'm going to leave you get a look at Brenda's bra!",
+      "characters": [
+        "Phoebe",
+        "Dr. Drake Ramoray",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

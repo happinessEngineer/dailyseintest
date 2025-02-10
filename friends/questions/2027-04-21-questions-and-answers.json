@@ -1,0 +1,106 @@
+{
+  "gameNumber": 819,
+  "date": "2027-04-21",
+  "questions": [
+    {
+      "quote": "Wow! A star! I know you all hate me and-and I'm sorry, but I don't care.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, do you want this done quick, or do you want this done right?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "And, ah, you know, your fooling around with her. And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe Abbott",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh no-no-no, he's just I don't know, he's just a little bookish.",
+      "characters": [
+        "Ross",
+        "Sandy",
+        "Jill Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Jill Green"
+    },
+    {
+      "quote": "Hey. I just, I just wanted to come over to-to say that I'm sorry. Y'know? I know I acted like the biggest idiot in the world, and I can completely understand why you were so upset.",
+      "characters": [
+        "Chandler",
+        "Wayne",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You heard the woman. Peel, chop, devil! I can't believe I lost 2 minutes.",
+      "characters": [
+        "Ross",
+        "Susie Moss",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But lately all the guys I meet seem really nice at first, then they turn out to be the biggest jerks.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Mr. Treeger",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know what? I think that's enough for today. Thanks for your help!",
+      "characters": [
+        "Erin",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, y'know if you want to pick up some extra cash? Some friends of mine made good money doing telemarketing.",
+      "characters": [
+        "Ross",
+        "Nora Tyler Bing",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Give me your hands. Strings. Gimme it! Pick. Do you want to learn to play guitar?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

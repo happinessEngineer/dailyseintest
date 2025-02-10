@@ -1,0 +1,106 @@
+{
+  "gameNumber": 503,
+  "date": "2026-06-09",
+  "questions": [
+    {
+      "quote": "Look Phoebe I'm so sorry! Hey, look, if you don't like this guy I can find you a better one. Mike!! Mike!!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know you, you just stop being such a wuss and get those off and you come with us and watch naked girls dance around!!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I-I know it's not a proposal and I don't know where you are, but with everything that's been going on and with Emma and...I've been feeling.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joanna",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Honey, someday you are gonna make some man the luckiest guy in the world.",
+      "characters": [
+        "Joey",
+        "Amanda Buffamonteezi",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right!! Wait! Wait, there's no sidewalk! Yeah, I'm gonna die here.",
+      "characters": [
+        "Dr. Mitchell",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hi, I'm here to see mr Campbell... with Gucci. The reservation is probably under Gucci. It's spelled like Gukki, which could be confusing.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I did! A penis one! Look, just so I know, what was so wrong about what I said?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "The Director",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, when we first met, you know, I thought you were pompous and arrogant and obnoxious ...",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Dr. Ledbetter",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "We broke down on the Parkway, so I have to walk back and get some transmission fluid. And hey, listen could you please tell Kathy that I'll be there as soon as I can.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey, there was a little girl who lived here, but she died like 30 years ago.",
+      "characters": [
+        "Charlie Wheeler",
+        "Mike Hannigan",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 104,
+  "date": "2025-05-06",
+  "questions": [
+    {
+      "quote": "Oh god. You've totally messed with the back support of my chair. How do you fix this?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, because I was mad at you, not because I stopped loving you!",
+      "characters": [
+        "Joey",
+        "Girl",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, does anybody want to get some lunch? All those in favor say I?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, hi. I have a massage appointment under Rachel Green, and here is my gift certificate.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Dr. Ledbetter"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes!! Yes! Yes! Yes!! That's my Dad, that's Frank! Yeah! I'm sorry I'm getting all flingy.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Tim",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I mean-no, it's just 'cause, it's just 'cause you and I were like a nightmare. No, but there was some good times.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! She had the ring on, she seemed so excited, and then she took her breast out.",
+      "characters": [
+        "Monica",
+        "Stephen Waltham",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Rachel, would you stop saying that?! Hey-hey look, remember on the show when-when Caprice was dying and she gave me...",
+      "characters": [
+        "Sandra Green",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah you will! The right guy is just around the corner! Okay, are we done with that?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm just, I'm just glad I didn't miss my daughter's first words .",
+      "characters": [
+        "Janice",
+        "Ursula Buffay",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

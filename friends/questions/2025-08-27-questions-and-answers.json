@@ -1,0 +1,106 @@
+{
+  "gameNumber": 217,
+  "date": "2025-08-27",
+  "questions": [
+    {
+      "quote": "What I said was, was that I understood. Joey's the one who agreed with you!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Timothy Burke"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, when Jake did it I saw that...he was wearing women's underwear!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But well, now that we're together again, I don't ever want to be apart. So, to that end...",
+      "characters": [
+        "David",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Yes. I mean, it's what we always planned. And if you have a plan, you should stick to it. That's why they call them plans. Hello? I'm fine.",
+      "characters": [
+        "Mike Hannigan",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh-huh! I think it's time to kick you in the nuts and see which is worse!",
+      "characters": [
+        "Peter Becker",
+        "Erica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "What can I say, you missed your chance. From now on the only person who's going to enjoy these bad boys is me.",
+      "characters": [
+        "Barry Farber",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, Monica, the knob was broken so I just turned it off from underneath, I hope that's alright.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Concert. Yeah. That does put us in...quite a pickle. Because you see I'm very busy before and after the concert, and he's obviously busy during.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Dr. Drake Ramoray",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Nobody! Nobody respects the bucket! You wouldn't believe what people put in here! Look! Okay, does this look like a garbage can to you?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross has never checked out of a room a minute before he had to.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

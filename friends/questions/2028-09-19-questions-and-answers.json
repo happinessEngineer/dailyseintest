@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1336,
+  "date": "2028-09-19",
+  "questions": [
+    {
+      "quote": "Oh no Ross! This is not good, we have to talk about this Joey thing. Please sit. You have got to get over this Joey thing, okay? I never really wanted to marry Joey, okay?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, Octavio, 27&7-Oh! And there's this great little place, Alessandro's.",
+      "characters": [
+        "Don",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Don"
+    },
+    {
+      "quote": "You're kidding me. Because I'm not seeing anybody, I've just totally made that up.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "No, I know, they're from me. Look you guys this is not good. I mean we have enough trouble with guys stealing our wind without taking it from each other.",
+      "characters": [
+        "Monica",
+        "Dr. Long",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, come on! I wanna hear it! It wouldn't be Thanksgiving without Chandler bumming us out!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't get it, I mean, you just got him. How can he be an adult already?",
+      "characters": [
+        "Rachel",
+        "Shelley",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah I know. Isn't it great? One less person we have to make small talk with.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Scotch on the rocks, with a twist, on a coaster? Ha-ha, Monica! Monica!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, listen you guys. I have this friend at Bloomingdale's who's quitting tomorrow and he wants to abuse his discount. So, anyone want to come with me and take advantage of it?",
+      "characters": [
+        "Gunther",
+        "Julie",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "Wooooooo, hehehe. Hey, ahh, you don't feel like you're gonna throw up, do ya?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

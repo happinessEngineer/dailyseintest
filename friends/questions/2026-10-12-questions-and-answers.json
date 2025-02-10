@@ -1,0 +1,106 @@
+{
+  "gameNumber": 628,
+  "date": "2026-10-12",
+  "questions": [
+    {
+      "quote": "Oh, I made a little something. If I had more time to work on it, it'd be better, but..",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Mike Hannigan",
+        "Phoebe"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Monica, nothing has even happened yet, and you're already so...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Eddie Menuek",
+        "Parker"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So what are you saying; I should run him under hot water and bang his head against a table?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Paul the Wine Guy",
+        "Eric"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, now you're sad and creepy, oh. You know what, I, I'm sorry I quit, okay, I just quit.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "How come you don't live with Mommy? How come Mommy lives with that other lady? What's a lesbian?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No idea! But the guy I said it to dies in the next scene so I guess it means \"you're gonna get eaten by a bear\".",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, I'm sorry, I'm just not very good with babies. I mean I haven't been around them, I mean, you know, since I was one.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no, wait, ok, ok, look at the other side. Look at Julie's column.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Earl",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The exclamation point in the title scares me. Y'know, it's not just Freud, it's Freud!",
+      "characters": [
+        "Ross",
+        "Gary",
+        "Phoebe",
+        "Erica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Can we turn the TV off? Okay? Do we really want to spend the entire weekend like this?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

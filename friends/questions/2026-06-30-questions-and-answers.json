@@ -1,0 +1,106 @@
+{
+  "gameNumber": 524,
+  "date": "2026-06-30",
+  "questions": [
+    {
+      "quote": "Ooh, oh, I've gotta go. Whoa, oh, head rush. One more, and then I have to go. Cool!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Not so much, no. He had clearly memorized all the stuff to say, and some of it didn't even make any sense.",
+      "characters": [
+        "Phoebe",
+        "Charlie Wheeler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Hi, I'm sorry, I need to borrow your phone for just one minute.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Umm say, I-I opened this earlier but let me give you guys some privacy.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Funny, because I was just gonna go across the hall and write that on Chandler.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, no, actually she uh, asked me if I wanted to get a drink.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Made a few calls, pulled some strings, and they agreed to seat us at 11:30 if we both had the chicken and didn't get desert.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm gonna get a new band-aid. Hey, how 'bout the time I cut the legs off your Malibu Ken?",
+      "characters": [
+        "Chandler",
+        "Mindy Hunter",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay! Ooh-ahh, I'm gonna go pack. I'm gonna go pack my ass off!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "There's your movie! Later on. Monica opens her front door. Chandler is sitting in the hallway.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

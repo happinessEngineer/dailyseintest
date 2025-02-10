@@ -1,0 +1,106 @@
+{
+  "gameNumber": 909,
+  "date": "2027-07-20",
+  "questions": [
+    {
+      "quote": "Wow, it sounds even cooler when somebody else says it. I was awesome, ok? She was biting her lip to stop from screaming.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What does a guy have to do to be taken seriously around here?!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey Joey, I just wanted to let you know that I found a selfless good deed. I just went down to the park and I let a bee sting me.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Since when do take naps in that position. Oh God Monica, tell me you were waiting for a guy! Please tell me you were waiting for a guy!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, does it involve something to do with Pete's computer company?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It just seems so futile, you know ? All these women, and nothing. I feel like Superman without my powers, you know? I have the cape, and yet I cannot fly.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, Ross, try to hear me. Ok, I, hey, I'm not gonna lie to you. Ok, it was good with Paolo.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, to get a table! Places like are always shakin' you down. Everybody wants to be paid off.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, while I was in the chair! That's why I take such good care of my teeth now, y'know, it's not about oral hygiene, I floss to save lives!",
+      "characters": [
+        "Phoebe",
+        "Doug",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know, thanks for trying to cheer me up, but I'm not gonna date some random guy from your work.",
+      "characters": [
+        "Joey",
+        "Jill Green",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Jill Green"
+    }
+  ]
+}

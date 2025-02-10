@@ -1,0 +1,106 @@
+{
+  "gameNumber": 536,
+  "date": "2026-07-12",
+  "questions": [
+    {
+      "quote": "It's about cutting my people a little slack, ya know, for morale. Look, if you wanna see some rough numbers, I can get them to you by Wednesday.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I thought we weren't gonna have bachelor/bachelorette parties! Y'know, we agreed that it was a silly tradition.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I'd be forced to file a report. I'd have to consult with the legal department, and your future at the company would be in jeopardy.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Mr. Zelner"
+      ],
+      "correctAnswer": "Mr. Zelner"
+    },
+    {
+      "quote": "Okay, it just seems pretty wild and you're so-y'know so...vanilla.",
+      "characters": [
+        "Eric",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh oh oh, wait! You only got whipped cream in there! Ya gotta take a bite with all the layers!",
+      "characters": [
+        "Rachel",
+        "Nora Tyler Bing",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't believe that you yelled at my boss! I'm-I'm gonna lose my job! What am I going to do?!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wha!? What!? Come on! I found the hardware store all by myself!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, this is probably none of my business, but weren't you guys supposed to not be seen in public together?",
+      "characters": [
+        "Charity Guy",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "...so we finally get to the top of the mountain and airhead here forgets the camera!",
+      "characters": [
+        "Danny",
+        "Ross",
+        "Phoebe",
+        "Chip Matthews"
+      ],
+      "correctAnswer": "Danny"
+    },
+    {
+      "quote": "Well, an-anyway, I just-that night meant a lot to me, I guess I'm just trying to say thanks.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joanna",
+        "Trudie Styler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

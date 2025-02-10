@@ -1,0 +1,106 @@
+{
+  "gameNumber": 236,
+  "date": "2025-09-15",
+  "questions": [
+    {
+      "quote": "Joey, you're gonna have to stop rushing me, you know what? You don't get any dessert.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't believe it! What is it? Is it the rubbing or the smell?",
+      "characters": [
+        "Jill Green",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You're supposed to double the tax. Not double the tax of Romania. I mean, what's-what's the deal? Are you, are you trying to buy me? Is this the way you get girls to go out with you?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! Wow, it is true what they say, pregnant bellies look like a drum.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, I do think it's better this way. Yeah, we're being smart. Yes, I'm sure.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait a minute, you stayed home all day and played Ms. Pac-Man while I went off to work like some kind of chump?!",
+      "characters": [
+        "Chandler",
+        "Charlie Wheeler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No! No-no they're not. They're still very angry! But y'know Chandler is also half-Swedish. You know what the Swedish people are famous for? Sitting down and being quiet.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's just I can't because my manager said I... \"Happy birthday to you, happy birthday to you. Happy birthday dear Annie...",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! What do you guys think about this. \"Ross: The Divorce-Force\".",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Cliff",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

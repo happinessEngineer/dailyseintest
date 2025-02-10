@@ -1,0 +1,106 @@
+{
+  "gameNumber": 802,
+  "date": "2027-04-04",
+  "questions": [
+    {
+      "quote": "C'mon, you guys, it wasn't that bad. It was better than that thing I did with the trolls, at least you got to see my head.",
+      "characters": [
+        "Nurse",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey. When you guys were kids and you played Happy Days, who were you? I was always Richie.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, I just realized we kinda let some stuff up in the air...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, Chandler wrote something about me on his computer and he won't let me see.",
+      "characters": [
+        "Gunther",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And what--What are you typing that for? Did you hear what she said? We don't get the annulment. Don't type that! What?! Stop typing! Hey! Stop typing! Stop typing! Stop typing!!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler Muriel Bing. Boy, your parents never gave you a chance did they?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah-yeah, did-didn't you use to have a pair? They were really round, burgundy, and they made you look kind of umm...",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, but taking care of a drunk, naked woman seems like a job for Joey.",
+      "characters": [
+        "Mr. Treeger",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, they painted over the word 'Sapien' for one thing, then they rearranged the figures, let's just leave it at that.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, is there any chance you were looking into a bright, shiny thing called a mirror?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

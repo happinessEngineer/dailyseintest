@@ -1,0 +1,106 @@
+{
+  "gameNumber": 82,
+  "date": "2025-04-14",
+  "questions": [
+    {
+      "quote": "Oh, I know. Hey, y'know what we never did? Oh no, not that. We uh, we never had bonus night!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look I'm very glad that you saved Ross from the car backfire, but y'know, it could've been a bullet and you y'know, you didn't try to save me!",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Not just a key, I gave her the only key! I am now a homeless person in a very serious relationship.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Kathy",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know, I mean, y'know, this is the city y'know, I just, I mean, I don't know.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "That's right! Oh, yeah... Well, I've totally forgotten about im! AH! That's-That's... a blast from the past!",
+      "characters": [
+        "Ross",
+        "Erica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God, everything is such a mess. Why is this happening to me?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Cecilia"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, lots of people! Look, are you coming to memorial service or not?",
+      "characters": [
+        "Joey",
+        "Teacher",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hello! Can I get you anything? Huh? Lens cleaner? Your battery okay? Rachel!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Rach. OK, forget, forget the lobsters OK. We're, let's talk, what about us?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh, and I see you're having a little party too. Is she here, huh, huh?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Erica Ford"
+      ],
+      "correctAnswer": "Erica Ford"
+    }
+  ]
+}

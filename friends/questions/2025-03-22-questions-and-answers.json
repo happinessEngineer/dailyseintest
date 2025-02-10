@@ -1,0 +1,106 @@
+{
+  "gameNumber": 59,
+  "date": "2025-03-22",
+  "questions": [
+    {
+      "quote": "Wrong! Now you're single. It's actually secret option number three, you meet her at the gate. That way she knows you love her.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God this doesn't count! Okay? The interview was over, that was the real Chandler Bing in there, this is just some crazy guy out in the hall! Call security! There's a crazy guy out in the hall!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "-hard quality. And uh, while Daryl Hannah is beautiful in a conventional way, you are luminous with a kind of a delicate grace. Then, uh, that-that-that's when you started yelling.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "I mean, You wouldn't want any part of me to get any bigger would you? Don't answer that.",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross! Your honor, rest assured relationship ended like two years ago! And could you strike \"Consummated like bunnies\" from the record?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Andrea Waltham",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah? I know! I know! Uh huh? Listen why don't we just um, sit and relax? You know just be with each other. Quietly!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What's a matter with me? You've got a black light. It's 1999!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Sarah Tuttle"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know what the Celtics problem is? They let the players run the team.",
+      "characters": [
+        "Joey",
+        "Phoebe Abbott",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ohh, this is soo amazing! I can't believe my brother's getting married! And in London! It's so romantic!",
+      "characters": [
+        "Phoebe",
+        "Sandy",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's great. All right, I gotta get to work, I got a big dinosaur bone to inspect.",
+      "characters": [
+        "Tag Jones",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

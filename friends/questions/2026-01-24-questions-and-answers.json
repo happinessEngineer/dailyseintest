@@ -1,0 +1,106 @@
+{
+  "gameNumber": 367,
+  "date": "2026-01-24",
+  "questions": [
+    {
+      "quote": "How's that pig-in-the-blanket workin' out for you? I wrapped those bad boys.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Maybe it was just the kind of story where you have to be there.",
+      "characters": [
+        "Amy Green",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, I don't have any brothers so I don't know, but uh, did you guys wrestle?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Cecilia"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "About twenty, a couple people from work who had something else to do.",
+      "characters": [
+        "Joshua Burgin",
+        "Phoebe",
+        "Ross",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Nice camoflauge man, for a minute there I almost didn't see ya.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Customer",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, see this isn't about the movie theatre, this is about you stealing my wind.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So we talked about the whole presentation yesterday at lunch and he wondered if one person would be enough to get a take on the trip and I said, \"Yeah, absolutely!\"",
+      "characters": [
+        "Kim",
+        "Chandler",
+        "Jill Green",
+        "Ross"
+      ],
+      "correctAnswer": "Kim"
+    },
+    {
+      "quote": "It went great! And I didn't need any jokes or naked chicks either!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Underwear, a toothbrush, and Van Halen CD. I can use all these things!!",
+      "characters": [
+        "Joey",
+        "Nina Bookbinder",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, she and I said from the beginning that we weren't gonna do anything unless you were okay with it. And clearly..",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

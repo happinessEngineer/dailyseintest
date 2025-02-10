@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1433,
+  "date": "2028-12-25",
+  "questions": [
+    {
+      "quote": "Wow! I don't remember him. Honey, are you sure you're not talking about your imaginary boyfriend.",
+      "characters": [
+        "Monica",
+        "Cecilia",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You just said... Of course you're my best friend. Would you please tell Rachel though?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Steve"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This is unbelievable. Its been like a half an hour. If this was a cartoon, youd be looking like a ham right about now.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Judy Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Sophie, would you please climb out of my butt. Why hasn't he called, Rachel? Why?",
+      "characters": [
+        "Ursula Buffay",
+        "Monica",
+        "Ross",
+        "Joanna"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "We were two miles from the house. Scared and alone. We didn't think we could make it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We just uh, we just met at the newsstand. We both grabbed for the last Field & Stream. What? I read that.",
+      "characters": [
+        "Rachel",
+        "Benjamin Hobart",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ooh! Honey, it can't be that hard, I mean, you've been in love before?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Hayley"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ahh, come on! Y'know what-y'know what, I think I'm just gonna go home and call Kathy.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I'm sorry. Oh, this is so stupid! I mean, I gave Barry up, right? I should be happy for them! I am, I'm happy for them.",
+      "characters": [
+        "Joey",
+        "Carol",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on Pheebs, it's not that bad! Y'know most people would be excited if they didn't have to work for a couple of weeks.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1563,
+  "date": "2029-05-04",
+  "questions": [
+    {
+      "quote": "Yeah, but she also invited you and Ross. Yeah, honey, I'm sorry, but I don't think that was a romantic thing.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Excuse me, is there a woman waiting at the bar? Someone average height, dark hair, perhaps doing a puzzle?",
+      "characters": [
+        "Phoebe",
+        "Tommy",
+        "The Director",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm just gonna go in my office and pick up some stuff . Who the hell are you!?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's just you and Rachel, just the two of you? This is a date. You're going on a date.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, when I read about you two, I was pretty sure I wanted you, but I just thought we should meet face to face. . I've made my decision. I choose them.",
+      "characters": [
+        "Phoebe",
+        "Erica",
+        "Ross",
+        "Malcom"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "That's crazy! . I am sorry. I just can't imagine giving up my one wedding day like that!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What? What? What?! You guys knew? You all knew and you didn't tell me?!!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "See no-no, I made a batch and I froze it, and this is the only one left.",
+      "characters": [
+        "Judy Geller",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, I got it. Phoebe? All right, you pull. I'm gonna spread the legs as wide as I can. Joey? Now is not the time!",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I can't write! Y'know I mean I-I-I'm an actor, I don't have the discipline that takes, y'know? I can't do it.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

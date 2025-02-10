@@ -1,0 +1,106 @@
+{
+  "gameNumber": 132,
+  "date": "2025-06-03",
+  "questions": [
+    {
+      "quote": "I can't believe you guys are moving in together. That's, that's great! I mean...I'm happy for you guys..",
+      "characters": [
+        "Peter Becker",
+        "Rachel",
+        "Ross",
+        "Director"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And the musicians, look, they can go over here , okay? And the chairs can face this way , and... You go.",
+      "characters": [
+        "Joey",
+        "Janine Lecroix",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I thought I broke Joey's chair! That's why I replaced it with mine!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait. You're right. I know you're right. And, thanks for being so nice. Here",
+      "characters": [
+        "Chandler",
+        "Guy",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "I go back there with lawn ornaments, he's going to laugh in my face.",
+      "characters": [
+        "Monica",
+        "Emily Waltham",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Nothing! I said, I said \"You're so great\" and then I just, I just stopped talking!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'll always remember that summer, because it's when I got all of these freckles.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Cassie Geller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Cassie Geller"
+    },
+    {
+      "quote": "It was Laura... She gave us a great report and we are officially on the waiting list.",
+      "characters": [
+        "Monica",
+        "Janine Lecroix",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Monica, this is Dan , one of the guys that we're gonna be going out with on Saturday. Uh Dan, Monica.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. Either that, or you just turned him on and sent him off to a stripper.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 226,
+  "date": "2025-09-05",
+  "questions": [
+    {
+      "quote": "Hi, were the Rostins. Err, Im J.C., and hes Michael, and were having a boy, and a girl.",
+      "characters": [
+        "Joey",
+        "Gary",
+        "Woman",
+        "Phoebe"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Wow. Y'know it is so weird. I mean, you're gonna tell this guy today and he has no idea what's gonna happen.",
+      "characters": [
+        "Chandler",
+        "Guy",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, we had a really great night and in the morning he promised he would call me and he didn't.",
+      "characters": [
+        "Ross",
+        "Laura",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "Wait a minute! Wait a minute! I'm not saying that you shouldn't have a bag, I just-it's just there are other bags that are a little less umm, controversial.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now are drawers will smell nice and we didn't waste these pantyhose.",
+      "characters": [
+        "Sandra Green",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know, I can't believe I'm getting my nails done! And you said it was gonna be fun! Which it kinda is. Also, you said there would be other guys here. There are no other guys here!",
+      "characters": [
+        "Eric",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Alright, now I really have to go. Okay. Au revoir! Oh, they're gonna really hate me over there.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I mean, if you moved there, you have to leave here. I mean, how can you leave this place?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Really. Why can't we just get some pizzas and get some beers and have fun?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Cecilia",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, uh, hey Richard, if you had an extra ticket to the Knicks game and you had to choose between a friend who smells and one who bruises you who would you pick?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

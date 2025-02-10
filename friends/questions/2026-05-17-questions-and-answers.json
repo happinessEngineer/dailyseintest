@@ -1,0 +1,106 @@
+{
+  "gameNumber": 480,
+  "date": "2026-05-17",
+  "questions": [
+    {
+      "quote": "Phoebs, check it out, check it out, check it out, check it out.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Doug",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Felicity and I, we're watching My Giant, and I was thinking, \"I'm never gonna be as good an actor as that giant.\" Do you think I'm just wasting my life with this acting thing?",
+      "characters": [
+        "Joey",
+        "Dr. Ledbetter",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Let's just play, ok. Good, ok. Here we go, double sixes, here we go... Here we go, come to mama, just getting ready to roll the dice...",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Larry"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Mon... Marcia and Chester are planning on seeing a movie on Sunday night. Marcia thinks they're supposed to meet at six, Chester thinks it's at seven.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Tag Jones",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, he's in the back. The duck pissed him off, said that eggs came first.",
+      "characters": [
+        "Chandler",
+        "Richard Burke",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, you know how that people say that Tulsa is the Paris of Oklahoma?",
+      "characters": [
+        "Gavin Mitchell",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Happy thirtieth birthday! Here! It's for the child in you, and the woman. Happy thirtieth!",
+      "characters": [
+        "Phoebe",
+        "Leonard Green",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Really? No. I mean, nah, I haven't played in so long, and-and, well it's-it's really personal stuff, y'know?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, beautiful? Really? Beautiful? You think this is beautiful?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! And also, a little like a French guy. I never noticed that before.",
+      "characters": [
+        "Joey",
+        "Joey Tribbiani Sr.",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

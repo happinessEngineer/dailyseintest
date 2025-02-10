@@ -1,0 +1,106 @@
+{
+  "gameNumber": 249,
+  "date": "2025-09-28",
+  "questions": [
+    {
+      "quote": "No! No! Wh... What are you doing?!! GET OFF MY SISTER!!!!!!!!!!!!!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, will you do the top of the cabinets? That'll really work up your appetite for lunch.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Eric",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, I got one keyhole and about a zillion keys. You do the math.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Fake Monica",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm sending back all this stuff that Chandler bought out of guilt.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, all right, all right, all right, you wanna know what I do when I take resume shots?",
+      "characters": [
+        "Monica",
+        "Doctor",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh OK. Oh no, oh it's gone, that's so weird, I don't know how-where it went.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Janice"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You really think he'd take me? I mean, we had a pretty good talk last night but, when I moved out, I hurt him bad.",
+      "characters": [
+        "Joey",
+        "Larry",
+        "Ross",
+        "Susie Moss"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Come on, season tickets! Season tickets, do you know what that means?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, great. We have to watch him do yoga in his underwear, but for this he closes the drapes!",
+      "characters": [
+        "Chandler",
+        "Erica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

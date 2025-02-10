@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1009,
+  "date": "2027-10-28",
+  "questions": [
+    {
+      "quote": "You don't turn and slide, you throw it out! I'm tired of having to get a tetanus shot every time I get dressed!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, it's this great part, this boxer named Nick. And I'm so, so right for it, y'know, he's just like me. Except he's a boxer, and has an evil twin.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't follow Ross! It'd be like those bicycle ridding chimps that followed The Beetles. No.",
+      "characters": [
+        "Rachel",
+        "Lydia",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "When that guy was robbing us, and I was locked in the entertainment unit for like six hours, you know what I was doing in there all that time? I was thinking about how I let you down!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, is it on the computer, cuz I'd love to give it a read...?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Laura",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No I don't know Chandler! Not anymore! It's like it's like something's changed.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh no, you're not supposed to be here. This is the staging area, you should, it's all wrong, you should leave, ya know, get out. Or perhaps you'd like a creme d'menthe.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Umm, no. See I already thought she was dead so I kinda made my peace with it. Plus, I'm going to a concert tomorrow. So... I'd invite you, but umm, I only have two tickets left.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Ursula Buffay",
+        "Sarah Tuttle"
+      ],
+      "correctAnswer": "Ursula Buffay"
+    },
+    {
+      "quote": "Because, I'm just, I'm incredibly anal and an unbelievable control freak.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Carol"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

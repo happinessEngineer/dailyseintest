@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1081,
+  "date": "2028-01-08",
+  "questions": [
+    {
+      "quote": "Cool, alright. So maybe, ya know, I could give you a call sometime, we could talk or somethin'.",
+      "characters": [
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Well, if she's my friend, hopefully she'll understand. I mean, wouldn't you guys?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "The Casting Director",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right look, Ross, he's right. Emily's great, she's great! But this way too soon, you're only gonna scare her!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "YOU BET YOUR ASS I AM! I just had the best first day ever! The kitchen: twice as big as Allessandro's.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Don't worry Joe, I won't come next year! Joey: What have you got there?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh Phoebe, that's a great story. Can you tell it to me when you're getting me some iced tea? Oh God, get out! Get out!! Get out!! Get out!!",
+      "characters": [
+        "Bob (Chandler's coworker)",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, I'm gonna go check on something across the hall. You start by washing these Not with soap!!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Tag Jones",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh nothing. Nothing! Just uh, you've been a little short with me lately. I'm not trying to irritate you.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "If I turn into my parents, I'll either be an alcoholic blond chasing after twenty-year-old boys, or... I'll end up like my mom.",
+      "characters": [
+        "Bobby Rush",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Here, let me show you. Okay, the towels are hanging next to the sink, and umm, you can use the fancy soap.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

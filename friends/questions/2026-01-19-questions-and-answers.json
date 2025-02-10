@@ -1,0 +1,106 @@
+{
+  "gameNumber": 362,
+  "date": "2026-01-19",
+  "questions": [
+    {
+      "quote": "Hello Monica. It's Amanda calling again. I am in the neighborhood hoping I can pop by your flat!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Amanda Buffamonteezi",
+        "Allesandro"
+      ],
+      "correctAnswer": "Amanda Buffamonteezi"
+    },
+    {
+      "quote": "Oh, yeah... of course... yeah... it's a stuffed animal... you know... it's for kids... not for adults... I know that!",
+      "characters": [
+        "Joey",
+        "Tom",
+        "Erica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, that would be great! I love him, I love him, I love him...",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know I was thinking if we had a...a big fight and uh we broke up for a few hours...",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't believe this. Do you think that your parents could help pay for it?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, what happened? Joey all nervous and looking down and fiddling with his ear: Oh.. My sister's raccoon.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, uh, well, you left your good hair at my apartment, I figured you'd need it tomorrow for your meeting.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ronni Rapalono",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Ronni Rapalono"
+    },
+    {
+      "quote": "We're very sad that it didn't work out between you and Emily, monkey. But, I think you're absolutely delicious.",
+      "characters": [
+        "Rachel",
+        "Andrea Waltham",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Andrea Waltham"
+    },
+    {
+      "quote": "You're still going to that chiropractor, that man couldn't get into medical school in Extapa!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Leonard Green",
+        "Chandler"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Yeah. Well, so far yeah. But it's tough you know? I got all this built up flirting energy and I don't know how to get rid of it. How you doin?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

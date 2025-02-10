@@ -1,0 +1,106 @@
+{
+  "gameNumber": 965,
+  "date": "2027-09-14",
+  "questions": [
+    {
+      "quote": "Y'know, how did I get this reputation as a dropper? Okay? I'm anything but a dropper.",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoops. Sorry. This just in. Oh, it's 9-1-1 from the restaurant, that means Monica needs me right away.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Ginger",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Excuse me, I wanted you to help, but you couldn't move your arms because you were wearing three life jackets.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh good, you're here. Yeah, and I was worried that it was going to be uncomfortable.",
+      "characters": [
+        "Phoebe",
+        "Mona",
+        "Paul Stevens",
+        "David"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "Okay, all right, I think you're great, I think you're sweet, and you're smart, and I love you. But you will always be the guy who peed on me.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well then ask yourself this. Why do you think we keep ending up together? New Year's? Who invited who? Valentine's? Who asked who into whose bed?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Emily Waltham",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Would you stop? We've only been going out a couple of weeks, I mean we don't even know if he's gonna propose.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Monica",
+        "Parker"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, check it out, oh check it out. It's Smelly Cat the video.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I love you. Hey listen umm, when, when you were talkin' about our future you said cat, but you meant dog right.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joanna",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. You won't believe what Monica's older brother just said to me!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

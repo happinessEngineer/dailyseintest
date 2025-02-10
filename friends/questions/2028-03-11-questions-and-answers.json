@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1144,
+  "date": "2028-03-11",
+  "questions": [
+    {
+      "quote": "Yeah, well, I'm kinda heading into a new career direction and, you know, you gotta start at the bottom.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Leonard Green",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, Frank. Look, okay, I know that you think I did like this totally evil thing, but I so didn't. There's someone here who can explain this better than I can.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "There's just one thing. Do you have a problem with full frontal nudity?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Estelle Leonard",
+        "Monica"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "Well, I really wanted to meet you guys, but I have to run. I'll see you later?",
+      "characters": [
+        "Elizabeth Stevens",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "No seriously. I have job security for life. You know, I never have to worry. Oh, look at you. Look how happy you are for me.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh sorry, I hear divorce I immediately go to Ross. Who-who's Barry and Mindy?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What are they doing out here? The coast's all the way over there.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I usually go... play Tetris on somebody else's computer.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, and you don't mind if I call, because you only want good things for me.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, no, no, see, because not...not all guys are going to be a Paolo.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

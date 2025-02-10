@@ -1,0 +1,106 @@
+{
+  "gameNumber": 92,
+  "date": "2025-04-24",
+  "questions": [
+    {
+      "quote": "No! No! I'm not! It's-it's-it's perfect! I mean it's better than you just-just moving here, 'cause it's us together forever, and that's-that's what I want.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Phoebe, this was the greatest thing that ever happened to me.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Probably not. Nah. I don't know how much I'm gonna wanna play after you go.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I think she took it pretty well. You know Paolo's over there right now, so...",
+      "characters": [
+        "Phoebe",
+        "Benjamin Hobart",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well what is wrong with me? Am I .. am I incomptent? Because I managed to survive whatever it is that killed the three of you!",
+      "characters": [
+        "Joey",
+        "Sandy",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, ok, she's taking the trash out so I can get you out of here but it has to be now, she'll be back any minute.",
+      "characters": [
+        "Emily Waltham",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay. Wow, it's-it's 5:30 in the morning. So, I'd better get cracking on this baby.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I just talked him into it, don't tell me I have to do you too. The puppet master gets tired people.",
+      "characters": [
+        "Emily Waltham",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah. Y'know we-we talked about just living together, but um, we want to have kids right away.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Alice Knight",
+        "Monica"
+      ],
+      "correctAnswer": "Alice Knight"
+    },
+    {
+      "quote": "God. I forgot how much I love driving. I have got to get my license renewed.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

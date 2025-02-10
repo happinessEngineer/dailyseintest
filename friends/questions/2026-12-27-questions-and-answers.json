@@ -1,0 +1,106 @@
+{
+  "gameNumber": 704,
+  "date": "2026-12-27",
+  "questions": [
+    {
+      "quote": "Yeah, this slow roasted salmon, just how slow are we talkin' here?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So umm, now back to the show. How does it feel to have a huge gay fan base?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "The Interviewer"
+      ],
+      "correctAnswer": "The Interviewer"
+    },
+    {
+      "quote": "You're just new at this, it'll get better, think about your first day at work. I mean, that couldn't have been easy but you figured that out.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, hey, Dr. Greene, why don't you come with me, we'll put your jacket on Rachel's bed.",
+      "characters": [
+        "Joey",
+        "Gary",
+        "Lennart",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, say no more. Y'know it takes guts to bring this up. Bing! You're okay.",
+      "characters": [
+        "Monica",
+        "Mr. Zelner",
+        "Joey",
+        "Doug"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Well, look, it's hardly snowing anymore. I mean you couldn't ask for a more romantic setting. This could be the simple wedding you've always wanted!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I-I-I'm down with that. Okay, here goes. How you a-doin'? It worked! She's waving me over. Okay, I-I-I'll be right over. Let's see, she's on the third floor...",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right. Ok, but, but! You have to promise that you will not be all like control-y and bossy and Monica about it.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I don't feel like dancing, I feel like having a drink. Okay?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well now you understand how I feel every single day, ok? The world is my lesbian wedding.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

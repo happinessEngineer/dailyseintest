@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1527,
+  "date": "2029-03-29",
+  "questions": [
+    {
+      "quote": "Little baby girl Chandler, where I have heard that before? Oh right, Coach Ruben. Do you know what Pheebs? When you're done over there, we kinda have a situation over here too.",
+      "characters": [
+        "Rachel",
+        "Joanna",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. Well, apparently Chandler's angry at us for not getting him a ticket to that Knicks game a couple of weeks ago.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Dr. Long",
+        "Mark Robinson"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, now Thanksgiving's over, let's get ready for Christmas. Who wants to go get a Christmas tree?!",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know what it's fine. If you're okay with the Barbi thing, so am I.",
+      "characters": [
+        "Amy Green",
+        "Chandler",
+        "Mike Hannigan",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, and not that you would, but I wouldn't hang out with...all the guys in my office.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Are you kidding? Eight hours with my mother talking about Atkins? Good luck, Emma!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Like when you go bowling and you know you're in somebody else's shoes?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Billy"
+      ],
+      "correctAnswer": "Billy"
+    },
+    {
+      "quote": "Oh, I probably shouldn't-so I will! Oh! Wow! It's like it's raining!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look David, if... if you had never left, then... yeah, we'd probably still be together right now, but... you did leave, and I-I'm with Mike and I really care about him...",
+      "characters": [
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, and it was uhm... it was like a real little person laugh too. It was... it was like uhm... Only... only not creepy.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

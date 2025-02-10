@@ -1,0 +1,106 @@
+{
+  "gameNumber": 515,
+  "date": "2026-06-21",
+  "questions": [
+    {
+      "quote": "Alright, I'll give you the ear thing but don't you think the ending was pretty wonderful?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I did, Monica was so sweet she left a little mint on my pillow.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, Pheebs, back me up here, ok? You believe in that karma crap, don't you?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?",
+      "characters": [
+        "Joey",
+        "David",
+        "Cop",
+        "Lydia"
+      ],
+      "correctAnswer": "Lydia"
+    },
+    {
+      "quote": "So uh, hey, that uh, that wedding ring, huh? Man, that's nice!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, God no! That is no place for a woman. Those guys will grab anything.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Cecilia",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I don't know, I don't know. I think that's a little weird, y'know? Vinyl.",
+      "characters": [
+        "Joey",
+        "The Salesman",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You can come in, but your filter-tipped little buddy has to stay outside!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Our trains are on the same track, ok? Yeah, sure, I'm coming up 30 years behind him, but the stops are all the same. Bitter Town. Aloneville. Hermit Junction.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I don't know... I-It's... just the way you say it... I mean, you're funny... You have that funny thing. You're a funny guy!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Dr. Harad",
+        "Erica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

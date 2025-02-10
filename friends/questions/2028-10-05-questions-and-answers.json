@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1352,
+  "date": "2028-10-05",
+  "questions": [
+    {
+      "quote": "I'm telling you! The guy from that show was here in my room, asking me all these weird questions!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Cliff"
+      ],
+      "correctAnswer": "Cliff"
+    },
+    {
+      "quote": "No! No! Oh my God. Did she get off the plane? Did she get off the plane?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, y'know just in general people being gay, thing. I'm totally cool with that.",
+      "characters": [
+        "Joey",
+        "Mike Hannigan",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Good! Now, take those salads to table 4, And you! Get the swordfish! And you! Get a haircut!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know what? I don't, I don't think Phoebe really wants to come.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, they were very y'know...wrestley. But, I guess that's normal?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No Ross!! Don't! You can't just kiss me and think you're gonna make it all go away, okay? It doesn't work that way. It doesn't just make it better. Okay?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "David"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know, I don't know, weren't you the guy that told me to quit my job when I had absolutely nothing else to do. Ha! Ha! Ha! Ha! Ha!!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "\"I'm Monica, I don't get phone messages from interesting people. Ever!\"",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Honey, he's about to go hit on Isabella Rosselini. I'm just sorry we don't got popcorn.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

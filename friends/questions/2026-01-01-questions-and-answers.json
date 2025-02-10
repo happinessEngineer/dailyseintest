@@ -1,0 +1,106 @@
+{
+  "gameNumber": 344,
+  "date": "2026-01-01",
+  "questions": [
+    {
+      "quote": "Soooooo... you are now looking at Dr. Drake Ramore, neurosurgeon, recurring in at least four episodes!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And then right, right when the scene ends, he could take her with this raw, animal....",
+      "characters": [
+        "Kate Miller",
+        "Russ",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Kate Miller"
+    },
+    {
+      "quote": "Look, I'm telling you if I put my hand on my stomach right here it doesn't hurt that bad.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, hey, what if Kenny were the real brains behind the whole company? You know. What if Kenny hired that Ralph Lauren guy to be the pretty front man? Huh, did she ever think of that?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Why? Because she can sing and play guitar and do both at the same time?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Parker",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Poor baby, you're so tired. Rach, I didn't propose to you, Joey didn't propose to you, and Chandler didn't propose to you.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Eric"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We used to be married, but then we missed a weekend away together and things kind of unraveled. Because of you! Happy Birthday.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We're very sad that it didn't work out between you and Emily, monkey. But, I think you're absolutely delicious.",
+      "characters": [
+        "Rachel",
+        "Andrea Waltham",
+        "Tag Jones",
+        "Ross"
+      ],
+      "correctAnswer": "Andrea Waltham"
+    },
+    {
+      "quote": "No. no... eh... she went shopping with Rachel. Why? What's up?",
+      "characters": [
+        "Phoebe Abbott",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, he used to have this recurring nightmare, just really freaked him out.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

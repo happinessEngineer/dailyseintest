@@ -1,0 +1,106 @@
+{
+  "gameNumber": 891,
+  "date": "2027-07-02",
+  "questions": [
+    {
+      "quote": "Look Daddy, it's my life. Well maybe I'll just stay here with Monica.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait a minute, is it because Joey and I didn't invite him to that Knicks game a couple of weeks ago?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah well, \"excuse me, I ordered the smoked salmon appetizer, but I can't see it, I can't see it\"!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm gonna hang this basket on the door and when the neighbors walk by they can all take a piece.",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I wanna see everything! Times Square, Coney Island, Rockefeller Center...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Erica",
+        "Rachel"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Honey, this really is an incredible thing to do for them, but there are things to think about.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, but, well, before you say no, my friend Susanne is entering her kid and compared to Emma she's a real dog!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry, for the last time, why aren't you two together again? No, I know. I know, because you're not in that place. Which would be fine, except you totally are.",
+      "characters": [
+        "Rachel",
+        "Peter Becker",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I thought it was just a kid yelling, \"I'm gay! I'm gay!\" Can I bring her in?",
+      "characters": [
+        "Ross",
+        "Guy",
+        "Joey",
+        "Kathy"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, she hates all mass produced stuff. She thinks her furniture should have a history, a story behind it.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

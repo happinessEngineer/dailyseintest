@@ -1,0 +1,106 @@
+{
+  "gameNumber": 60,
+  "date": "2025-03-23",
+  "questions": [
+    {
+      "quote": "All right, enough! I don't want to hear about it anymore! Good luck, Chandler.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Jack Geller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "That sounds great. My God this is the most comfortable couch I've ever sat on in my entire life.",
+      "characters": [
+        "Parker",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Parker"
+    },
+    {
+      "quote": "Y'know, when we talked about face to face, I don't think we thought it all the way through.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Me go out with Ross?! No! God no! What would make you think that?",
+      "characters": [
+        "Chandler",
+        "Janine Lecroix",
+        "Jill Green",
+        "Ross"
+      ],
+      "correctAnswer": "Jill Green"
+    },
+    {
+      "quote": "Oh God, oh. Great, Monica, y'know what, you could've called, I have been up here, I've been worried...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I dunno.. I-I thought it looked better there. And I- and also, it's an extra seat around the coffee table.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm just so nervous! Y'know? The callback isn't until tomorrow at five. I feel like my head is going to explode!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, and we've paid for a room, that we're supposed to be in right now!",
+      "characters": [
+        "Monica",
+        "Chloe",
+        "Janitor",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Don't thank me! If you wanna thank something, thank the volcano that erupted thousands of years ago, killing but perfectly preserving an entire civilization. Here's Warren's number.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joshua Burgin",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, the turkey's burnt. Potatoes are ruined, potatoes are ruined, potatoes are ruined.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 33,
+  "date": "2025-02-24",
+  "questions": [
+    {
+      "quote": "Look honey, I wanted you to hook up with Ross as much as you did. But he's with her now and you're just gonna have to get over it.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok Tommy, that's enough mourning for you! Here we go, bye bye!!",
+      "characters": [
+        "Gunther",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, that's why I didn't invite you. you have to calm down, alright... go, go get yourself a drink or something...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, look, Phoebe I wanted to meet her in person too, okay, but she's married, she has a husband.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's not even that. I used to do my songs because it made me happy, but now it's like, it's just all about the money.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, Phoebe! Come on! You know what, it's already three o'clock and they haven't even gotten to Emma's group yet. We gotta go, we got dinner!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's true, thanks dad. People should be dancing! Huh? Hey, this is a party! Come on! Joey, dance!!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I can't. I can't believe I have plans, I can't. Can you do it tomorrow night though?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh good. Good, look I'm so sorry, for screwing up that cutting-her-out plan. But I have a new plan. Chandler agreed to call here in a few minutes with an emergency.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Billy",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 870,
+  "date": "2027-06-11",
+  "questions": [
+    {
+      "quote": "Y'know what?! It doesn't matter! It doesn't matter what you believe! What matters is what happened!",
+      "characters": [
+        "Phoebe",
+        "Malcom",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, okay... How exactly is a two month old supposed to appreciate puppets?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Gunther",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Right, yeah, ok, I'll ask the butler to fetch my diamonds out of the vault.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No you didn't. Oh and honey just so you know, now that you're marrying me, you don't get to win anymore.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. Uh, we'll dim the lights, dim the lights. Or turn them out all together. Uh, no scented candles. Okay here. Here we go.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know, what about Rachel? I mean how are we even gonna ask her?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! This is where your hyper-organized-pain-in-the-ass stuff pays off!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Elizabeth Stevens"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Honey, you're taking this the wrong way. We think you're going to be a wonderful parent. It's just.. you're more the fun parent.",
+      "characters": [
+        "Rachel",
+        "Bobby Rush",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Just-just so you know I was a freshman and she was a senior. So it wasn't as bad as-as...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross let me ask you a question. All jokes aside, where is this relationship going?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

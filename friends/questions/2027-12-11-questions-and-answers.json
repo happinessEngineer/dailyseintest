@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1053,
+  "date": "2027-12-11",
+  "questions": [
+    {
+      "quote": "Oh my God! Of course, of course. Umm, would you please excuse me for a moment? Umm, do you know each other's hometowns? Why don't you... Wh-what's going on?",
+      "characters": [
+        "Mr. Treeger",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Alright, somebody kiss me. Somebody kiss me, it's midnight! Somebody kiss me!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes, yes I did, but what I didn't say was what I was about to say, what I wanted to say was, uh... would you like to go out with me sometime, thankyou, goodnight.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh we flipped for it. I got the cigar, he got the moustache. Figured if we both grew it, we'd look like dorks.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, Ross, I just have to do one thing, really quickly, it's not a big deal. GET UP!!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wrong again! Apparently you can change it to anything you want. So I thought, all right, here's an opportunity to be creative. So meet Princess Consuela Banana Hammock.",
+      "characters": [
+        "Duncan",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sorry, I just... I wish there was something I could do, you know? Well, you know Phoebe...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Here, I got it. I'll will play my message for you guys, and you can tell me if it's breezy enough.",
+      "characters": [
+        "Amy Green",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well I'm sorry Rachel, but I'm not like you, ok? Not everyone can afford help.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Bonnie",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know. I mean I have plenty of opportunity. Just just now there were some women at the coffee house smiled at me.And then the other day on the subway a woman \"accidentally\" sat on my hand.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

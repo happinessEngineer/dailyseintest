@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1421,
+  "date": "2028-12-13",
+  "questions": [
+    {
+      "quote": "Yes, yes she is. Didnt I memo you on this? See, after I let her go, err, I got a call from her psychiatrist, Dr. Flanen-nen, Dr. Flanen, Dr. Flan.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Chandler, this is not our problem. We've got each other. That's all that matters.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, Yes. Yes. Ive just been going over your data here, and little thing, youve been post-dating your Friday numbers.",
+      "characters": [
+        "Dr. Long",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, y'know what, I'm not fine, I'm not. I mean how can I be fine, hearing you come in with her, she wants to see your bedroom.... Y'know what, what if we're friends who don't see other people?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And then, then he could use his teeth, his teeth to undo her dress, and, and, and bite her!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's, yes, my little black book. It's got the numbers of all the guys I've dated.",
+      "characters": [
+        "Rachel",
+        "Eddie Menuek",
+        "Doctor",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait wait wait. I was at home the whole time. How did I missed that?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right! Now hey, I need to use the bathroom. Since I don't need any assistance in there, take a break!",
+      "characters": [
+        "Eddie Menuek",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Even if the sidecar had a windscreen so your hair wouldn't get messed up?",
+      "characters": [
+        "Luisa Gianetti",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't think I'd be comfortable with any of my old lovers there.",
+      "characters": [
+        "Joey",
+        "Mike Hannigan",
+        "Emily Waltham",
+        "Rachel"
+      ],
+      "correctAnswer": "Emily Waltham"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 5,
+  "date": "2025-01-27",
+  "questions": [
+    {
+      "quote": "All right guys stop it. Rachel, we're very sorry that is a very insensitive thing for us to do. And y'know what? Let us make it up to you, we have two really great guys for you.",
+      "characters": [
+        "Kathy",
+        "Roy",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I think I know what you mean though...the lamp is the hotel's, but the bulbs ...oh, you already got that.",
+      "characters": [
+        "Janice",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I... I've got a pop-up book that told me everything I need to know.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Julie"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That is so sweet. I know that I was acting a little crazy but umm, I feel the same way.",
+      "characters": [
+        "Mr. Zelner",
+        "Monica",
+        "The Salesman",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ben. Ben. Ben's good. How come you never mentioned Ben before?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I'll teach ya! Come on, come on, it's really easy and really, really fun.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What is it? Is there something fundamentally unmarriable about me?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, trust, me, it's, it's, it's much better that I know. Uh, I just liked it better before it was better...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "They're not gonna swallow anything, you guys are being way over protective. When I was a kid, my mom used to just throw me into a pile of broken glass!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I called them. And when they ask me what I saw, I can be very generous or very stingy.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

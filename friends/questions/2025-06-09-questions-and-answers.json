@@ -1,0 +1,106 @@
+{
+  "gameNumber": 138,
+  "date": "2025-06-09",
+  "questions": [
+    {
+      "quote": "Yeah-yeah, he was playing blackjack for like an hour and he won $5,000. Can you believe that? $5,000!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Damnit! I have this date tomorrow night and I have to look cool!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It means that we can keep trying, but there's a good chance this may never happen for us.",
+      "characters": [
+        "Chandler",
+        "Chip Matthews",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't! It's too late! Terry already hired that girl over there. Look at her, she's even got waitress experience. Last night she was teaching everybody how to make napkin.... swans.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": ": So basically, you get your ya-yas by taking money from all of your friends.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright. Now that I'm back, why don't you just fill me in on what you've been up to?",
+      "characters": [
+        "Interviewer",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes! He has a naked picture of Monica! He takes naked pictures of us! And then he eats chicken and looks at them!",
+      "characters": [
+        "Nurse",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, Monica, wow you've been in the bathroom for like a half-hour.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm starving. I know we were coming here tonight, I ate nothing all day.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "...nauseous, I'm physically nauseous. What am I supposed to do, huh? Call immigration? I could call immigration!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

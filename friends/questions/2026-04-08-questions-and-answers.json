@@ -1,0 +1,106 @@
+{
+  "gameNumber": 441,
+  "date": "2026-04-08",
+  "questions": [
+    {
+      "quote": "Honey, no one thinks you're a pansy, but we do think you need a tissue.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Carol"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Dr. Franzblau"
+      ],
+      "correctAnswer": "Dr. Franzblau"
+    },
+    {
+      "quote": "Yes! It's flown into your blouse and you'd better undo your buttons lest it sting you!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "The Teacher"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross, I think we should stick to the routine, we don't wanna look stupid!",
+      "characters": [
+        "Phoebe",
+        "Guru Saj",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey-hey dancer girl! Can I go to the bathroom? I just.. Here we go. Looking good Gellers!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. Um, I know you like this, and I want you to have it. I think it'll look good in our apartment.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow! I'm honored! And y'know what I'm gonna do as my first act as your best friend?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ohh. Hey, remember when I ran into this thing and it kinda knocked me out a little?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, no, that's okay, I don't need your help. I worked on it myself and I gotta say, I am pretty good!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

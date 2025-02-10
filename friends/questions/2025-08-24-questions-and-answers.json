@@ -1,0 +1,106 @@
+{
+  "gameNumber": 214,
+  "date": "2025-08-24",
+  "questions": [
+    {
+      "quote": "Well yes, yes I have. In fact umm, just the other day Kristen and I were talking about how I've been married and how I have a son.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well isn't there something you can do to earn a little extra money? I mean, can't-can't you pick up, I don't know, an extra shift here?",
+      "characters": [
+        "The Cooking Teacher",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Clear the tracks for the boobie payback express. Next stop: Rachel Green.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "They baked it. I can't take this anymore. I'm gonna call a meeting tonight, I'm gonna fire you tonight.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, so anyway I'm sittin' in my office and guess who walks in.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Anyway, um, I guess this belongs to you. And thank you for giving it to me.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no I don't want to do anything to you. All right? I just want to tell you that I'm not mad at you and...and that I certainly do not hate you. I just, I just came here to say that.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Dr. Franzblau",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on man, just-just let the girls stay, I'll do whatever you want.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, look, you know Charlie, right? She's cool, she's funny, her body is soo...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, it turns out that the one from uptown was making a joke. But it was a different joke than I thought-it wasn't that funny. So I'm still torn.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

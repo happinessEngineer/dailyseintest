@@ -1,0 +1,106 @@
+{
+  "gameNumber": 809,
+  "date": "2027-04-11",
+  "questions": [
+    {
+      "quote": "Yeah, but you've got to pull yourself together! Monica can't see you like this! Then she'll know something's wrong!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joanna"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait, am I missing something though? 'Cause I thought death was something that's supposed to be sad, in a way.",
+      "characters": [
+        "Monica",
+        "Don",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "In fact when we were building houses in Uruguay, we were, we were just two towns apart and we never met.",
+      "characters": [
+        "Eric",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Eric"
+    },
+    {
+      "quote": "Wow! Wow, You look . . . uh . . . It's just, ah . . . That dress . . . uh . . .",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Barry Farber",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, it's a training program, but at the end, they hire the people they like.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's just that we've never spent any time, you know, alone together.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, everybody just keep smiling. It'll kill my grandmother if she finds out.",
+      "characters": [
+        "Janice",
+        "Mike Hannigan",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, it's a little low... pick up a little... a little bit more... a little bit more... There you go! Now throw it away!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wait. Rachel, no, he's married. Married! If you don't realize that, I can't help you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Hayley",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, i-it's okay. I-I-I understand... Well, s... well, are you happy with this guy?",
+      "characters": [
+        "Sandra Green",
+        "Rachel",
+        "The Interviewer",
+        "David"
+      ],
+      "correctAnswer": "David"
+    }
+  ]
+}

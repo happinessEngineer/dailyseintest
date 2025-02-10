@@ -1,0 +1,106 @@
+{
+  "gameNumber": 461,
+  "date": "2026-04-28",
+  "questions": [
+    {
+      "quote": "Oh really? So, 33 and still single, would you say you have commitment issues?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Here you go Pheebs. Who else wants one of my special homemade brownies?",
+      "characters": [
+        "Rachel",
+        "Tag Jones",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, hey. You're an actor, I say you just suck it up and do it. Or you just do it.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Dr. Franzblau"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hello! Organic substances recently discovered in the depths of the rain forest!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "David",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, let's just say it's not the first time you've stolen my thunder.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Really? Wow. That's some pretty powerful imaginary sperm you must have there.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Trudie Styler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What are you talking about, Ross, you just said that you read it twice! Look, y'know what, either it does or it doesn't, and if you have to even think about it...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, it's a book that's just a book, okay? It's an early edition of the Velveteen Rabbit. It was her favorite book as a kid. So, uh, just... let me know if she likes it, okay?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! Come on! Don't make me go long. Use me. They never cover me.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I have an extra ticket. An extra ticket. Not, two tickets, I have an extra ticket.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

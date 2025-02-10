@@ -1,0 +1,106 @@
+{
+  "gameNumber": 842,
+  "date": "2027-05-14",
+  "questions": [
+    {
+      "quote": "Terrible! I messed up every line! I shouldn't even be an actor!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Would you stop that! Do you wanna know the first thing she said when she came back from her lunch with Richard? She didn't feel anything for him. She loves you!",
+      "characters": [
+        "Rachel",
+        "Jim",
+        "Phoebe",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No-no-no-no-no, I saw an ad for this video, people climb that thing everyday! We could totally do that!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Right. So I guess I shouldn't put good at noticing stuff on my resume.",
+      "characters": [
+        "Tag Jones",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Yeah... but you should know, I also have a jar of vaseline and a cat skull in here.",
+      "characters": [
+        "Charlie Wheeler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I got a good one, I got a good one! I once walked in on both my parents making love to the same guy.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Janice",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh you guys, I-I really think just one of us should go out there so she's not overwhelmed...",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thank you, but I want to remove it Pheebs. I don't want to make it savory.",
+      "characters": [
+        "Kathy",
+        "Ross",
+        "Phoebe",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dr. Richard Burke is out of town. Dr. Timothy Burke, his son, will see you now.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Nurse",
+        "Phoebe"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "Phoebe, that's crazy. When I first met you, you know what I said to Chandler? I said, \"Excellent butt, great rack.\"",
+      "characters": [
+        "Joey",
+        "Judy Geller",
+        "Monica",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

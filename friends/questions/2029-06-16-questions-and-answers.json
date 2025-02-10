@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1606,
+  "date": "2029-06-16",
+  "questions": [
+    {
+      "quote": "Yeah, I understand. Take as much time as you want. Ten, even twenty minutes if you need it. I'll be here. Not smoking.",
+      "characters": [
+        "Richard Burke",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "So, Ross, what's going on with you? Any stories? No news, no little anecdotes to share with the folks?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That is a wonder. So tell me something, Mom. If you had to do it all over again, I mean, if she was here right now, would you tell her?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No you're not. You're, you're allergic to lobster and peanuts and--oh my god.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I drew my own bath, but I did it wrong! The water's tepid. The salt didn't dissolve and is now... lodged places. And the scents I used don't compliment each other. Eucalyptus and chamomile-Oh!",
+      "characters": [
+        "Roy",
+        "Rachel",
+        "Guy",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey. I've got something that's gonna make you happy. Guess what Gunther found?",
+      "characters": [
+        "Rachel",
+        "Joanna",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I like it, and Emily likes it, and that's what counts. So uh, how are you guys doing?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, I'm not interested in her sweater! It's what's underneath her sweater that counts. And besides, since ah, since when do you care who I'm going out with?",
+      "characters": [
+        "Phoebe",
+        "The Stripper",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey, just because they're not getting married doesn't mean this is going to be a disaster. Maybe they have a plan!",
+      "characters": [
+        "Rachel",
+        "Danny",
+        "Larry",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, look at me. I'm making jam, been at it since 4 o'clock this morning.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Amanda Buffamonteezi",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

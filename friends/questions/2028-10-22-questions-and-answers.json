@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1369,
+  "date": "2028-10-22",
+  "questions": [
+    {
+      "quote": "What you got there? Something else that's not yours that you can break?",
+      "characters": [
+        "Waiter",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, you know what? I don't have it, but I can tell you exactly where it is on my night stand, and...okay. But you know what? I have my drivers license and I have a twenty.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! No, I'm the minister! All right, look-look, put 'em both on the phone, I'll marry them right now.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh yeah, I remember mine! Ohh, it was my sixth birthday, my dad took me to the park, I got it, and...it bent.",
+      "characters": [
+        "Angela Delveccio",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, y'know, the reason I didn't wanna go running with you is because um, well y'know the way that you run is a little...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chip Matthews",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know Terry, I-I don't really need to do this. I got my own cable TV series, with a robot.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't believe two cows made the ultimate sacrifice so you guys could watch TV with your feet up.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hello? No, he's not here. Yeah, this is his wife. Yeah, well, it came as quite a shock to me too. I guess I should have known. Yeah, I mean, he just kept making me watch Moulin Rouge.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well with Carol, I promised never to love another woman until the day I die. She made no such promise.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, just one thing umm, is it all right with you if I, if I scream right up until you say action?",
+      "characters": [
+        "Mona",
+        "Janice",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

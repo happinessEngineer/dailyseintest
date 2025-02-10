@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1384,
+  "date": "2028-11-06",
+  "questions": [
+    {
+      "quote": "Yeah! Here! Oh no, these are the trick deck. Okay. Here yes. Okay.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's gonna take weeks. Why don't just let me take care of the presentation?",
+      "characters": [
+        "Dr. Franzblau",
+        "Chandler",
+        "Ross",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "I can't ask people to do that? Would you ask people to do that?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I thought we talked about this. I don't like pulp. No pulp. Pulp isn't juice. All juice, okay?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, let me see... I-I believe I'm... yes, falling asleep in front of the TV.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "David",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow! See, and I didn't think you'd be able to come up with anything.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Tell me about it, I feel like I'm holding down the fort all by myself.",
+      "characters": [
+        "Mona",
+        "Joey",
+        "Phoebe",
+        "The Doctor"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, it's an audio question, name this television theme song.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Shocking! Let's play the game of who can stay quiet the longest.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, mom. Mom. Chandler hates Thanksgiving and doesn't eat any Thanksgiving food.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

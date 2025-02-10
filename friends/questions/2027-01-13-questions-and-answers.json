@@ -1,0 +1,106 @@
+{
+  "gameNumber": 721,
+  "date": "2027-01-13",
+  "questions": [
+    {
+      "quote": "Okay now Joey, y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, well umm, I know that we haven't talked in a long time, but umm okay, our Mom is not our birth Mom. This-this other lady is our birth Mom.",
+      "characters": [
+        "Monica",
+        "Gunther",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Her name is Celia. She's not a bug lady. She's curator of insects at the museum.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Larry"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well I'm alone and I just bought fifteen dollars worth of candy bars, what do you think?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I usually prefer Elizabeth's boyfriends to address me as Mr. Stevens.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Paul Stevens"
+    },
+    {
+      "quote": "Oh really? That's how treat a friend? You get her in trouble and then refuse to marry her?",
+      "characters": [
+        "Rachel",
+        "Leonard Green",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Well, where do I start? This is Julie. Julie, this is Rachel.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Don't do anything. Keep it inside. Learn how to hide your feelings! Don't cry outloud.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't decide which route to take to Vegas. Hey, you've traveled a lot right?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Chloe, switch with me, there's some guys here that got a crush on you.",
+      "characters": [
+        "Rob",
+        "Issac",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Issac"
+    }
+  ]
+}

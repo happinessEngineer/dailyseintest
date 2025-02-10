@@ -1,0 +1,106 @@
+{
+  "gameNumber": 978,
+  "date": "2027-09-27",
+  "questions": [
+    {
+      "quote": "Nothing. Ok, everything. I think we're calling off the wedding.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Because I went to an all boys high school and God is making up for it.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! Let me ask you guys something. I have a new headshot taken tomorrow right and the photographer said she thinks Ishould have my eyebrows waxed. Is that weird for a guy?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Alright, that is not your father, that's just a picture of a guy in a frame.",
+      "characters": [
+        "Rachel",
+        "Grandmother",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Grandmother"
+    },
+    {
+      "quote": "Okay, I feel like I'm talking to Lassie. All right, Phoebe would you just tell me!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, because every time we do, you make jokes about swinging and scare them away.",
+      "characters": [
+        "Joey",
+        "Dr. Harad",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No-no! This is my fiancee and her heart was set on that ring. You don't want to break her heart now do you?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "The woman I love is having a baby today. I've been waiting for this just as much as you have.",
+      "characters": [
+        "David",
+        "Susan Bunch",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "Sorry. I'm so exited! I've been waiting for this for months! I got my hair coloured! I got new sheets! I'm making him a very fancy meal.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Kim",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So, you know what, I really like those jackets with the shoulder pads on them. Where do you think those would be?",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    }
+  ]
+}

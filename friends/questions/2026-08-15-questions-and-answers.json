@@ -1,0 +1,106 @@
+{
+  "gameNumber": 570,
+  "date": "2026-08-15",
+  "questions": [
+    {
+      "quote": "This room! This night! That waiter! His shoes! I must take a mental picture! Ooh sorry...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Lennart",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, great! Well, then I'm gonna take Emma to see him. I wonder why Ross said that he died.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I realise I don't have any right to start get all parenty on you and everything now, but umm, uhh... Phoebe, would you please look at me and not the puppy, it's very important.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "Hey, see that snippy guy over there? He's the one who decides who gets up on the platform. We should go dance by him.",
+      "characters": [
+        "Susan Bunch",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God!! You just ruined the thing I was practicing the whole way home, but I'm soo happy!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Anyway um, when he left he forgot to take the poem with him. Now, I am like totally dense about poetry, but I think it's pretty good all right. Check it out.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Are you kidding? I love that guy! Morning's here! Morning is here-",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No seriously! Seriously! What has happened to the sanctity of marriage?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh er... well you know Emma started crawling? I realised that this place, is very unsafe for a baby. So I went to the store and got some stuff to baby-proof the apartment.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, it bothers me Ross, but y'know if he was a regular at the coffee house, I'd be serving him sneezers.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

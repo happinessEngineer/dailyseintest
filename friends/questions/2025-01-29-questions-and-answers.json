@@ -1,0 +1,106 @@
+{
+  "gameNumber": 7,
+  "date": "2025-01-29",
+  "questions": [
+    {
+      "quote": "So how did this happen? Did she, did she lure you to an early bird dinner?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yes, here it comes! I'm stuck here all day, and then you come in and spend two seconds with us and then expect to go off gallivanting with your friends? Well I don't think so mister!",
+      "characters": [
+        "Monica",
+        "Mindy Hunter",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "One more time, \"Hey, don't you want a washboard stomach and rock hard pecs?\"",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, it isn't, because you won't let that happen. Don't you know it yet? You love me, Chandler Bing.",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "No, no, we ended up in great terms. I mean, if anything, I think this could help you. You know what? Why don't we all go out to dinner together, and I can introduce you.",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Chandler",
+        "Eric"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "That's not her name! I'm sorry, she just doesn't feel like an Isabella.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, whoever this is, stop calling me! It's been six months! It's not funny!",
+      "characters": [
+        "Chandler",
+        "Interviewer",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "'Cause I only have one quarter, and I think my time is about to-",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I mean, I know Joey is not my boyfriend, or my thermos, or anything, but...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God! Yes, I would love that, oh, that is soo sweet, Joey.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

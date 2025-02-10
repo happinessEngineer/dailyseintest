@@ -1,0 +1,106 @@
+{
+  "gameNumber": 701,
+  "date": "2026-12-24",
+  "questions": [
+    {
+      "quote": "Okay, but the money's good, plus you get to stare at Rachel as much as you want.",
+      "characters": [
+        "Gunther",
+        "Nurse Sizemore",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "And did you notice the ice? Look! We have it all! We have crushed! Cubed! And dry! Watch! Ahhh! Mystical!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, come on tell me. I could use another reason why women won't look at me.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Stephen Waltham",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow, I haven't seen her for like forever. I wonder if she still carries that Barbie everywhere she goes.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh wait-wait-wait! The message is blinking. Maybe you didn't erase it.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And while we're down at the video store, you know what else we could rent? Die Hard! Oh, y'know what? I just remembered, that Everest thing is only available through mail order.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Your monkey found a new career, in the entertainment field. That's all I know.",
+      "characters": [
+        "Janitor",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Janitor"
+    },
+    {
+      "quote": "Would you look at them. Am I ever gonna find a boyfriend again? I gonna die an old maid.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey, would you just come out here and stop being such a baby!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh really? Did she tell you he plays the recorder, recites poetry and bakes Madeleines?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

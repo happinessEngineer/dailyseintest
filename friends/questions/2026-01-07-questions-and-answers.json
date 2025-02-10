@@ -1,0 +1,106 @@
+{
+  "gameNumber": 350,
+  "date": "2026-01-07",
+  "questions": [
+    {
+      "quote": "Yes! Now, she feels terrible! She really wants to make up! You gotta find her.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uhh, hello Miss Buffay. I know where your dog is. I want you to know that he'll be returned to you, almost as good as new, within, within 24 hours. Uh, goodbye.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ooh, so this is great! Rachel's gonna have a terrible date, Ross gets stood up, and then they'll realise how good they have it together.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh wait-wait-wait!! No! Don't go in there! Don't go in there! I need another soda!",
+      "characters": [
+        "Timothy Burke",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's amazing! My headache is completely gone! What are those pills called?",
+      "characters": [
+        "Phoebe",
+        "Eddie Menuek",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now that I untangled you, how 'bout you doing a little something for me?",
+      "characters": [
+        "Joey",
+        "Elizabeth Stevens",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Max"
+      ],
+      "correctAnswer": "Max"
+    },
+    {
+      "quote": "Phoebe I think he would notice if you didn't have a baby in nine months!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ginger"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "The stripper stole the ring!! The stripper stole the ring!! Chandler! Chandler, get up! Get up! The stripper stole the ring!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Of course you would, your brains are smaller than mine!! Man, I can't compete with the guys she goes out with, they are so out of my league! oh my God!",
+      "characters": [
+        "The Salesman",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 172,
+  "date": "2025-07-13",
+  "questions": [
+    {
+      "quote": "I think she's gonna be the hit of the office, huh? She's gonna be hotter than peasant blouses and A-line skirts. Can I get a blue bow?",
+      "characters": [
+        "Sandra Green",
+        "Monica",
+        "Jack Geller",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wh... Come on! Remember? We were on the sleeping porch! We couldn't stop giggling? And our coconuts kept knockin' together?",
+      "characters": [
+        "Joey",
+        "Judy Geller",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, and he does it every year! That's why he's sending you to that play! That's why he sent us to that medieval restaurant and to that button factory!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, I don't-I don't think it's you. This is a freaky place. Hey! Guys! Oh no, it's you.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Richard Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, okay, so what's now-go get, go get the eggs, put 'em in there.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Oh no-no, no, I made a promise to myself that the next time I would talk to Ursula would be over my dead body. And that's not happening 'til October 15th, 2032.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Certainly. Dr. Geller, which 1965 Shirelles hit was later covered by a popular British invasion band?",
+      "characters": [
+        "Benjamin Hobart",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "Well, remember how I was trying to achieve the positronic distillation of subatomic particles?",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Rachel",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Yeah but we won't be able to like get up in the middle of the night and have those long talks about our feelings and the future.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God, my ass is sweating! Please! Please! Can you come? It's today at four.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Frank Buffay Jr.",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

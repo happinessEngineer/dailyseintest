@@ -1,0 +1,106 @@
+{
+  "gameNumber": 38,
+  "date": "2025-03-01",
+  "questions": [
+    {
+      "quote": "Well I have to. Okay? If I don't, they'll take the class away from me. And...I already put it in my family newsletter.",
+      "characters": [
+        "Phoebe",
+        "The Cooking Teacher",
+        "Ross",
+        "Joey's Hand Twin"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, do you realize that at this time tomorrow we'll be getting married?",
+      "characters": [
+        "Richard Burke",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, ye, yes, actually, but, uh, they were my Aunt Edna's, and there were three of us in there.",
+      "characters": [
+        "Roy",
+        "Chandler",
+        "David",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I have two sisters. But one of them has a very masculine energy.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Mike Hannigan",
+        "Parker"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I guess I can check out those apartment listings, even though there's never anything in here.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't, I hate Joseph, ok. I think he's a brown-nosing suck up.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on, let's have some fun. Huh? What do you want to do today?",
+      "characters": [
+        "Tag Jones",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "I guess with you doing the internship, we're just spending more than we're bringing in.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, I thought about it too, and I'm sorry. I think we should spend all of the money on the wedding.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, with all these doctors and nurses, I'm gonna say, midget rodeo.",
+      "characters": [
+        "Phoebe",
+        "Peter Becker",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

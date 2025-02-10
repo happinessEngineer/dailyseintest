@@ -1,0 +1,106 @@
+{
+  "gameNumber": 707,
+  "date": "2026-12-30",
+  "questions": [
+    {
+      "quote": "No, no, she's great and it's not like we haven't done anything. I mean, uh, uh, we, we do plenty of other stuff, lot's of other stuff, like uhh. . .",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart. La-la-la-la-la- Thank you. La-la-la-la...ohhh!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, what did Rachel say when you told her you were still married to her?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's mine!! Now, would you both please start acting like adults? And get me my cough drops!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Zack",
+        "Nurse"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I may be drunk, but I know what she said! Then I went over to Beefsteak Julie's...",
+      "characters": [
+        "Chandler",
+        "Eric",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So, maybe I am a little high maintenance. And maybe Rachel is a little bit of a pushover. But you know what we decided you are?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, that's there on the bottom, see the manager, Chandler Bing.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Carol"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, all right, so up until '92-93 he was very trusting, then '94 hit, Carol left him and bamn! Paranoid city!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So I made snacks. Please, just hang out okay? I'm just gonna rest my eyes just a little bit.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And if you see Rita Moreno, let her know I'm looking for her.",
+      "characters": [
+        "Jack Geller",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Jack Geller"
+    }
+  ]
+}

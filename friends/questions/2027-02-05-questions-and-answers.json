@@ -1,0 +1,106 @@
+{
+  "gameNumber": 744,
+  "date": "2027-02-05",
+  "questions": [
+    {
+      "quote": "Y'know I don't think you should be talking at all in there! I think you've got to much thinking to do to be talking and making jokes!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right ah, Ross, this is the extent of my knowledge on the subject. Call Rachel.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, it's about all women. Well, all American women. You feel better now?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Julio (poet)",
+        "Monica"
+      ],
+      "correctAnswer": "Julio (poet)"
+    },
+    {
+      "quote": "What is the great tragedy here? You go get yourself another appointment.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Okay, don't panic. I'm gonna go to the store, I'm gonna get you another set of nails, no one's gonna know, and you're gonna look great. Oh! Oh, it's 'cause they're gonna eat-that's the problem.",
+      "characters": [
+        "Rachel",
+        "Emily Waltham",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah! Yeah! Convince her that-that you're scared of commitment! Convince her that you're a little coward!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Because uh...we-we...we split up. Monica and I split up. Hold me.",
+      "characters": [
+        "Erica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So that we would have something to talk about! So it wouldn't be awkward!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my God! I had the best time with Tim last night. He is so sweet! Oh, I can't wait to get sous-neath him.",
+      "characters": [
+        "Phoebe",
+        "Janice",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Just casually slip it in, y'know lay the groundwork. Tell her uh, I'm a loner-No! An outlaw! Tell her she doesn't want to get mixed up with the likes of me.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

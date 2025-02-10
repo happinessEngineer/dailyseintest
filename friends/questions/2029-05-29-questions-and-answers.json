@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1588,
+  "date": "2029-05-29",
+  "questions": [
+    {
+      "quote": "Well then honey, buy the lamp! Hey, we have that 60 bucks from Ross.",
+      "characters": [
+        "Phoebe",
+        "Elizabeth Stevens",
+        "Sandra Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, certainly. That's a combination of Bernoulli's principle and Newton's third law of motion.",
+      "characters": [
+        "David",
+        "Nurse",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Yeah. Yeah, it really was. But we...we gotta be careful. We...we can't let that happen again, y'know?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "OH MY GOD!!! Sorry, I was just imagining what it'd be like to catch the money bouquet.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Just seeing her brought it all back. All the lies, the way she used me. I just...I got so angry just looking at her......face.",
+      "characters": [
+        "Ross",
+        "Eric",
+        "Monica",
+        "Earl"
+      ],
+      "correctAnswer": "Eric"
+    },
+    {
+      "quote": "That's not food...No, I don't, no... Everything's different here...I want to go home. I...I miss my family. I miss the coffee house. I can't even remember what Phoebe looks like.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Alright, alright, okay, uhm... How 'bout this, how about this? Tomorrow... tomorrow we'll both go and we'll tell him together.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's right! That's right! Saran Wrap on the toilet seat so the pee goes everywhere!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Not especially. But you know what, I think they had pot in them.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, really? You know what your great friend did? We're out to dinner, ok? We're getting along, having a really nice time. I was thinking she was really cool. And then, out of nowhere...",
+      "characters": [
+        "Rachel",
+        "Susan Bunch",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

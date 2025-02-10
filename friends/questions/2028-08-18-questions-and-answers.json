@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1304,
+  "date": "2028-08-18",
+  "questions": [
+    {
+      "quote": "No-no-no, that's great! I'll be there Monday. And thank you again! Okay. Umm, that was the head of the Paleontology department at N uh, Y, uh U!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, can we go call them? Is it too soon to call? I wanna call.",
+      "characters": [
+        "Ross",
+        "#ALL#",
+        "Janice",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, but these women are very hot, and they need our help! And they're very hot.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wh-wh-what line? The line that prompted a student in my last class of the day to say uh, \"Dude, don't you ever was your face?\"",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "The Cooking Teacher"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, it's an honest mistake. It could happen to anyone. All right, see ya.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, um, look I-I don't want this to come our wrong, but ah, you seem awfully confident for a guy I just told I wasn't attracted too.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know it's so exciting! You know I've never lived with a guy before.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ok. So now, I think Emma is probably down for the night, but if you need anything Ross . . .",
+      "characters": [
+        "Mr. Treeger",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I have no idea. No matter what I do, though, I'm still gonna be a father.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No way! 'Kay look, if I have to go to the doctor for anything it's gonna be for this thing sticking out of my stomach!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "David"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

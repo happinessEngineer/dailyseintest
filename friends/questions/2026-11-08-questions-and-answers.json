@@ -1,0 +1,106 @@
+{
+  "gameNumber": 655,
+  "date": "2026-11-08",
+  "questions": [
+    {
+      "quote": "Excuse me, Mrs. Burkart? Well, we're all cleaned up in the kitchen.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Listen can you guys uh, speak up, it's harder for us to hear you when you lower your voice.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Minister"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What are you talking about? We love Schhteve! Schhteve was schhexy!.. Sorry.",
+      "characters": [
+        "Joshua Burgin",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, great. Great. You're doing great, you know real strong. Going strong. Keep going.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, we-we haven't said that to each other yet, but I guess its okay to say it to other people.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know the only reason he's marrying you is because he thinks all the things you were saying about yourself were true.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah see? And you are so excited about moving in together before, and you know what? You should be. It's a big deal!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "OK, I just need two... the, um, ten of spades and the six of clubs.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Steve Cera"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's okay, I'm cool over here. I'll catch up with you later, Joey.",
+      "characters": [
+        "Chandler",
+        "Judy Geller",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey it's the most eligible man in NY. How's the moving on going?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

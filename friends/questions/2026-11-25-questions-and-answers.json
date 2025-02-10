@@ -1,0 +1,106 @@
+{
+  "gameNumber": 672,
+  "date": "2026-11-25",
+  "questions": [
+    {
+      "quote": "Did you ever feel like sometimes you are just so unbelievably uncoordinated?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Phoebe, are you, are you mad at me, or something? 'Cause if are please, tell me what it is I did!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Susie Moss",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler is a complex fellow, one who is unlikely to take a wife.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes, I believe we can expect a call from the President any moment now.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, so I totally took care of the babies all by myself! I fed 'em, bathed 'em, and put 'em to bed.",
+      "characters": [
+        "Phoebe",
+        "Alice Knight",
+        "Rachel",
+        "Carol"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, it wasn't just me, alright? He freaked out too! He couldn't even undo my bra!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my God I have to tell her! I haven't even thought about what I will say. What should I say?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Mona",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Maybe we could call the phone company. Maybe they could change the message. Maybe they can change his number.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey-hey you came! Man you look incredible! Hot stuff! Hot stuff?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! She is cool, and she's so smart! Her mind is totally acrimonious . That's not how she used it...?",
+      "characters": [
+        "Charlie Wheeler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

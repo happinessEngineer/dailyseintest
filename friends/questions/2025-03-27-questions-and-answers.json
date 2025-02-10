@@ -1,0 +1,106 @@
+{
+  "gameNumber": 64,
+  "date": "2025-03-27",
+  "questions": [
+    {
+      "quote": "Ooh, is it someone in this building? Is it that tall guy from the first floor?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! No, we have an emergency. Okay? Rachel's coming to London.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, actually it's a hockey team, so it's angry Canadians with no teeth.",
+      "characters": [
+        "Joanna",
+        "Joey",
+        "Eric",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, come on it's only three blocks! And-and, it's not very heavy, try it! Come on! Come on!",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well... I'm just thinking that maybe he's not the right guy to be with right now, maybe I should be with someone... I have more in common with. You know what I mean?",
+      "characters": [
+        "Charlie Wheeler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Oh, it was good! It was good. Actually, the baby started kicking!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Benjamin Hobart",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Th-th-that's all it is, a third nipple. Y'know? Just your run-of-the-mill third nipple. Y'know? You can take it off. Just slice that baby right off!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on man, you know I'd do it for you! Because, you're my best friend.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Honey, that's very sweet, it just seems to me though, that if two people love each other and trust each other, like we do, there's no reason to be jealous.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe Abbott",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I uh, went to a bar. And then I just uh, just walked around for a while.",
+      "characters": [
+        "Richard Burke",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1436,
+  "date": "2028-12-28",
+  "questions": [
+    {
+      "quote": "Uh actually, sorry I can't even make it. I'm seeing Mona again tonight.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Can I have everyone's attention please? I'm uh; I'm Ross Geller.",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",
+      "characters": [
+        "Joey",
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "It's candy time! My roommate says that they taste like little drops of heaven.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Gary"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "It can't happen like this. Okay? I'll meet you back at the hotel.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Pizza, heh, its not like I never had that before...ba dum bum cheshhh.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, look look look. The last candle's about to burn out. 10, 9, 8, 7... ... negative 46, negative 47, negative 48....",
+      "characters": [
+        "Rob",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. So, um, let's see your pretty close, huh. Make-up's on, hair's done.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, cool, all right, she just ah, parking the truck. I'm gonna, I'm gonna get my ah, my fiance man!",
+      "characters": [
+        "Ross",
+        "Peter Becker",
+        "Rachel",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Okay! You get the vacuum cleaner and I'll get the furniture polish!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

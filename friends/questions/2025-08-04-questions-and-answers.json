@@ -1,0 +1,106 @@
+{
+  "gameNumber": 194,
+  "date": "2025-08-04",
+  "questions": [
+    {
+      "quote": "Uh, do you wanna go change first? The doctor's keeping the office open late for us, but if you hurry...",
+      "characters": [
+        "Chandler",
+        "Guy",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh, hello, this is Ross Geller's personal physician, Dr. Philange.",
+      "characters": [
+        "Judge",
+        "Phoebe",
+        "Erica",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What a beautiful night to be running around the street, looking for tickets. And the wind sure made it fun.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, I may never have kids, and somebody's gotta carry on my family name.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Waiter"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel would be Phoebe's, I would be Rachel's, that way we all get to do it once and no one would get upset.",
+      "characters": [
+        "Joey",
+        "Amy Green",
+        "Lydia",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know what to say, I'm sorry. Though, you're not supposed to take these. It's like a million years old, we, we actually, we had people looking for that.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Terry's a jerk, and he won't let me work, and I hate Central Perk!",
+      "characters": [
+        "Stephen Waltham",
+        "Phoebe",
+        "Tim",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I can't believe she's really gone. Look around you, all of this is ours.",
+      "characters": [
+        "Dina",
+        "Chandler",
+        "Man",
+        "Rachel"
+      ],
+      "correctAnswer": "Dina"
+    },
+    {
+      "quote": "Anyway, she thought the very idea of me playing rugby with him was like hilarious. So I'm gonna show her how tough I really am!",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

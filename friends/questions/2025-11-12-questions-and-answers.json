@@ -1,0 +1,106 @@
+{
+  "gameNumber": 294,
+  "date": "2025-11-12",
+  "questions": [
+    {
+      "quote": "Oh-ho! But not in here! Can't eat 'em in bed, remember? No crumbies!",
+      "characters": [
+        "Mr. Treeger",
+        "Ross",
+        "Frank Buffay Jr.",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow! Listen, we had a good run. You know, what was it? Four? Five months? I mean, that's more than most people have in a lifetime! So, good-bye, take care, bye-bye then!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes! Yeah! Joey has great hair! Umm, I'm basically done here. Just let me get this off your neck.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Kathy",
+        "Monica"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "Ooh, technically you owe me $600 for sending out happy thoughts on your last ten auditions.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know, I always feel that way after an interview. I'll bet it went better than you think.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I can't do that either! The soles' are already a little scuffed up and the insides are filled with my blood.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohh, you guys, remember that cute client I told you about? I bit him.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, tacos! Ever since you told me that story I've had such a craving for them.",
+      "characters": [
+        "Ross",
+        "Roger",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right listen, I have to go to the bathroom, but if the place with the big fish comes up again. I'd like know whether that's several big fish or just one big fish.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Larry",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, I'm not happy about this either, but y'know if-if Ross says he's happy then we're just gonna have to keep our feelings about Emily to ourselves. Are you cool with that?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

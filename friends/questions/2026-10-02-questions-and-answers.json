@@ -1,0 +1,106 @@
+{
+  "gameNumber": 618,
+  "date": "2026-10-02",
+  "questions": [
+    {
+      "quote": "Huh. Well, y'know that's actually a really good idea, because that way they'll be closer to the mugs. Y'know what, you should have the other waitresses do that too.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I mean we've got a lot going on right now. And, plus, here they'd have their own room.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ooh! I know what you could make! I know! Oh, you should definitely make that thing... you know, with the stuff? You know, that thing... with the stuff...? OK, I don't know.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And I still have about five seconds to spare. Okay, that was about seven seconds.",
+      "characters": [
+        "Leonard Green",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Listen Ross, you don't have to apologize. I understand why you were there.",
+      "characters": [
+        "Phoebe",
+        "Mona",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Mona"
+    },
+    {
+      "quote": "No, no. This will always be your place. It would be too sad. Plus, how much a month does it cost to feed Joey?",
+      "characters": [
+        "Monica",
+        "Leonard Green",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right then, go fight for her! Go to London! I mean, that could be you and Emily! That, but-but nicer. Just, go to London!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, well just be glad he's not playing a smaller instrument.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ah, just cut me a little sliver. A little bigger. Little bigger. What?! Are you afraid you're gonna run out?! Cut me a real piece!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Then you'd be going back and forth all the time, I mean it doesn't make any sense.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

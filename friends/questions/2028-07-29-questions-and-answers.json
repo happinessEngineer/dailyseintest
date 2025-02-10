@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1284,
+  "date": "2028-07-29",
+  "questions": [
+    {
+      "quote": "No! But, I'm throwing this shirt away! I think there was a little misunderstanding before.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know, this is actually good, because if we ever lose Ross, we have a spare.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Dr. Harad"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why no, it's the opposite of weird. It's-it's uh, regular. It's-it's uh, it's mundane. It's actually uh, a little dull.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hi, Ben. I'm your father. I am... the head. Aaaaaahhhh.... Alright, this barbecue is gonna be very fun.",
+      "characters": [
+        "Barry Farber",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Rachel, Rachel, sweetheart. You're a terrible, terrible waitress. Really, really awful.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Terry",
+        "Monica"
+      ],
+      "correctAnswer": "Terry"
+    },
+    {
+      "quote": "How does it feel knowing you're never gonna be with another woman again huh? Knowing you're gonna have to wake up to the same face everyday until you finally have the sweet release of death.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'd love to, but it's 2300 hours and I'm about to have the most organized sex anyone's ever had.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, I-I'm just gonna be right across the hall and I promise you, the minute Monica and I break up I'm moving right back in with you!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Jill Green"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You can't just ignore the bet! It's a bet! You bet and you bet and if you lose, you lose the bet!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Welcome to New York City! Or should I say \"ghe deu flooff New York City\"?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

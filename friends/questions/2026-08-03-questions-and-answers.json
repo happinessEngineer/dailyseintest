@@ -1,0 +1,106 @@
+{
+  "gameNumber": 558,
+  "date": "2026-08-03",
+  "questions": [
+    {
+      "quote": "Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Estelle Leonard",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no, that's-that's not my thing! I do not love getting divorced!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. Phoebe that's it. Come on, get out-out of the chair. Get out! Oh come...Phoebe!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohhh, I wanna come over there and give you a hug and wish you luck on your wedding, but I don't-can't get up.",
+      "characters": [
+        "Tommy",
+        "Ross",
+        "Phoebe",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, this is log I kept, recording her every movement. Do you wanna here something from it?",
+      "characters": [
+        "Malcom",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Malcom"
+    },
+    {
+      "quote": "Ugh! Look you guys, I'm really excited about this! Okay? I don't care what you think! I'm gonna go set up a little litter box for Mrs. Whiskerson. Well, what am I gonna call her? Fluffy?!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on! Gary's such a great guy! Whatever the problem is, you can work it out!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So what! As long as he's not wearing a white dress and a veil I don't care.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh Rach, if you're gonna start another story, at least let me finish mine.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Gavin Mitchell",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...",
+      "characters": [
+        "Monica",
+        "Emily Waltham",
+        "Ross",
+        "Dr. Franzblau"
+      ],
+      "correctAnswer": "Dr. Franzblau"
+    }
+  ]
+}

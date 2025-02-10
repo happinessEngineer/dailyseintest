@@ -1,0 +1,106 @@
+{
+  "gameNumber": 73,
+  "date": "2025-04-05",
+  "questions": [
+    {
+      "quote": "Okay. Okay, I got one. Do you remember that vegetarian pate that I made that you loved so much?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Roy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "See, there's always one guy. \"If I had a wish, I'd wish for three more wishes.\"",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow! You might just get the first Nobel prize in rubbing. So what country is this guy from?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey Mon, let's give Pete a chance Come on, he was funny, he seems really nice, and that check thing was adorable.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know. I know. And this is so much more complicated than it was for those guys. I mean, it's Rachel for God sakes.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, Phoebe just-just get-get on the bike and-Hey! I'll hold you up and-and push you. Okay?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Woman",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Peter Becker",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well I...I haven't actually told her yet. I don't want to scare her off, y'know?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! Phoebe just because I'm alone doesn't mean I wanna walk around naked. I mean, you live alone, you don't walk around naked.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

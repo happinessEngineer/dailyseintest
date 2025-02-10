@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1403,
+  "date": "2028-11-25",
+  "questions": [
+    {
+      "quote": "Oh, and don't get me wrong, I appreciate the sentiment. It's just that I, I have a rather, sensitive posterior, and ah, besides, it's making all the other guys jealous.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my god, Joey, for all we know this guy could be horribly...",
+      "characters": [
+        "Margha",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well yeah, I'm sorry. I know this is the wrong time and the wrong place but I had to tell ya! I wanna spend my life with you. I wanna marry you. I wanna have kids with you.",
+      "characters": [
+        "Monica",
+        "Richard Burke",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "No, honey, in a wonderful way. You know what you want now. Most guys don't even have a clue. You are ready to take risks, you are ready to be vulnerable, and intimate with someone.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Tag Jones",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi. Y'know in England this car would be on the other side of the store. Woo!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Woman",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, I still have boxes here. I still have boxes at Ross's, and I have nowhere to live! Wow. I could so easily freak out right now.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Phoebe! I have to have those earrings, we're going to leave as soon as the show is over.",
+      "characters": [
+        "Nurse",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Alright you guys are off to party number one and you, you are off to party number two Alright fellas, let's keep it movin', let' keep it movin.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, actually I thought about it when, when we were going out. It's how I imagined I uh, I would ask you to marry me.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hi honey. We just got a wedding gift from Bob and Faye Bing; they don't like us do they?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

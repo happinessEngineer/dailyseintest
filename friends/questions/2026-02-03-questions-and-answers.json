@@ -1,0 +1,106 @@
+{
+  "gameNumber": 377,
+  "date": "2026-02-03",
+  "questions": [
+    {
+      "quote": "See? And you don't care if people are staring, it's just for a second cause then you're gone!",
+      "characters": [
+        "Phoebe",
+        "Leslie",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, but I wanna be. Hey, I will be. Besides, I'm with Charlie, right? Oh my god, I'm still with Charlie, aren't I? I mean, she didn't see the dance, did she?",
+      "characters": [
+        "Ross",
+        "Trudie Styler",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes! I know! I know! Yeah! So the baby is totally craving meat. This afternoon I tried tricking it, I made it a soy-burger to make it think it was getting meat, y'know? And I got nauseous.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Terry",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Vell, Eva, ve've done some excellent vork here, and I vould have to say, your pwoblem is qviiite clear.",
+      "characters": [
+        "Peter Becker",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, thank you. Thank you so much. . You are SO going to Heaven!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I feel so stupid, you know? Why... why do I keep going after the wrong girls?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But I love my husband. And I know you love your wife. Now, I don't think we should get this house now.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Yeah, it must've fallen out a few blocks back. I just figured we hit a dog.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, if you're gonna work late, I could look in on him for you.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, so since umm, you're not going to jail tonight I was wondering if you would like to go to dinner with me?",
+      "characters": [
+        "Cop",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Cop"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 128,
+  "date": "2025-05-30",
+  "questions": [
+    {
+      "quote": "Oh Ross, come on. He's happily married. His wife just had twins.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Erica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You can always spot someone who's never seen one of his plays before. Notice, no fear, no sense of impending doom...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Terry",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rachel, it's okay. You don't have to do this. I believe you. All right? Okay, if-if you say that you kissed Melissa, then you kissed Melissa.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "These are not mine... Look how flimsy they are, come on! Good God! You try to hang a guy from a waterpipe with these, they'll snap like a piece of licorice.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I think I accidentally used Monica's boxes to keep the water away from the Porsche.",
+      "characters": [
+        "Jack Geller",
+        "Chandler",
+        "Judy Geller",
+        "Eric"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Yeah? Not to you, because you know this stuff. I don't know any of it and I'm the father. I wish I'd be more involved y'know.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God! So was she! And! Get this, okay? Your-your name is Earl, right? Her name was Pearl, P-Earl.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Monica, how did this happen? I thought you had this all planned out.",
+      "characters": [
+        "Peter Becker",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Um, you guys, you know when I said before, \"thank you, but I don't really need your help\"?",
+      "characters": [
+        "Joey",
+        "Guy",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's good man, when everybody knows that the uh, the capital of Cambodia is uh...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    }
+  ]
+}

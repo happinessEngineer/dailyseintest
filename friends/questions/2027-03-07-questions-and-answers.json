@@ -1,0 +1,106 @@
+{
+  "gameNumber": 774,
+  "date": "2027-03-07",
+  "questions": [
+    {
+      "quote": "Wow, I don't know what to say. Wow, I, I don't know what to say.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on Monica, it's our Valentine's Day. Please? Please-please, please?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, I'm gonna stay and read my book. I just wanna be alone right now.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, you can't show Phoebe this! She hates those corporate massage chains.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm not in charge of where the conference is held. Do you want people to think it's a fake conference? It's a real conference.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. You're just gonna have to accept the fact that you're just friends now, OK, you're not... rommmates anymore.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look at you two, bonding, making us late for the airport so...",
+      "characters": [
+        "Rachel",
+        "Joey Tribbiani Sr.",
+        "Peter Becker",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And you weren't going to tell us? How did you think you were gonna get away with that?",
+      "characters": [
+        "Zack",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It did enter my mind! But then something happened that made it, shoot right out.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's still yours. Okay, now remember it's a surprise party. So, when you go in, act surprised.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

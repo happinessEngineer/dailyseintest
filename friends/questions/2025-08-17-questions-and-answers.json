@@ -1,0 +1,106 @@
+{
+  "gameNumber": 207,
+  "date": "2025-08-17",
+  "questions": [
+    {
+      "quote": "Well, doing nothing on your thirtieth is better than doing something stupid, like Ross.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Um-hmm! Look, I-I-I don't know how much more of this I can take! Did you know he taped over my Baywatch tape with some show about bugs! My God! What if that had been porn?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I need you to come to this bachelor party for my weird cousin Albert, y'know he's the botanist.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You wanna go right now? 'Cause I'll take you right now, buddy! You wanna go?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, they wanna see me again this afternoon, but, err, well, Lennart Haze did not like me.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Aww that's nice. Family should be there, huh? This is her wedding, happiest day of her life.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Sandra Green",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I pity the fool who puts on my jewelry, I do, I do. I pity the fool that. . . Hi!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, so The Plaza! Okay, we'll get us some Mai Thai's, maybe no more for you though.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know what, we just say that she said it was 5 o'clock. We'll just act casual. We're not late, we're right on time.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, I think I know the answer to this question, but... Would you like to make love to me?",
+      "characters": [
+        "Monica",
+        "Steve (drug addict)",
+        "Steve",
+        "Rachel"
+      ],
+      "correctAnswer": "Steve"
+    }
+  ]
+}

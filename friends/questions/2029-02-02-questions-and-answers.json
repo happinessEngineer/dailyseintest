@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1472,
+  "date": "2029-02-02",
+  "questions": [
+    {
+      "quote": "Chandler, don't worry! This doesn't make you any less of a guy! That does! What am I sitting on? I hate to think what this woman was scratching when this broke off.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Big Bully",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, look it's been a really emotional time y'know, and you've had a lot to drink. And you've just got to let that go okay? I mean you were the most beautiful in the room tonight!",
+      "characters": [
+        "Wayne",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh, Phoebe, I don't think your mom would want you to see what's about to happen.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "What am I supposed to do? Ask every guy I make out with if he's married? No, yeah, I should.",
+      "characters": [
+        "Phoebe",
+        "Duncan",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "OK, hi. For your information this is exactly what I wanted. This is a tattoo of the earth as seen from a great distance. It's the way my mother sees me from heaven.",
+      "characters": [
+        "Jill Green",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know! Yeah, but, look I can handle it. All right? Look, I can listen to the radio, huh? And Ross gave me this great book .",
+      "characters": [
+        "Guy",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What is wrong with me. It looked more delicious when it was a penis.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. I mean, I coulda done it better, but these people keep staring at me.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Cop"
+      ],
+      "correctAnswer": "Cop"
+    },
+    {
+      "quote": "Yeah, I really do. You know, I had nothing growing up. Just like the kids I took the money from.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, I'll rest. But y'know if I'm going to bed, then you're coming with me.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

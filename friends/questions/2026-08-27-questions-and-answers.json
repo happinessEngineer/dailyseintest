@@ -1,0 +1,106 @@
+{
+  "gameNumber": 582,
+  "date": "2026-08-27",
+  "questions": [
+    {
+      "quote": "Well, I guess we've established who's staying here with Monica...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God! It's true!! Oh my God you are so amazing! Oh my God, can I just ask you to do me oh, just one favor?",
+      "characters": [
+        "Charlie Wheeler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! Oh, I was just about to leave. I-I-I-I didn't think you were coming.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "David",
+        "Rachel"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Okay. 'Jingle bitch screwed me over! Go to hell jingle whore! Go to hell Go to hell. Go to hell-hell-hell.' That's all I have so far.",
+      "characters": [
+        "Phoebe",
+        "Duncan",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "When girls hang out, we don't have pillow fights in our underwear. I'm sorry. We do. We do. I don't know why I said that.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Alright, I feel that this is totally unjustified. She gave me the green light, I did nothing but-. Do you think I can't see you in the TV set?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know what I just realized? You just freaked out about our relationship.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Sorry, I just uhm... I can't seem to get Ross out of my head...",
+      "characters": [
+        "Russell",
+        "Rachel",
+        "Charlie Wheeler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ahem... I want.... OK, I want to... feel your... hot, soft skin with my lips.",
+      "characters": [
+        "Janice",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, I would love some. But y'know what? Y'know what? Let's not drink it here. I'm feeling kinda crazy. You wanna go to Newark?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

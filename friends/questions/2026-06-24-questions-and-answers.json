@@ -1,0 +1,106 @@
+{
+  "gameNumber": 518,
+  "date": "2026-06-24",
+  "questions": [
+    {
+      "quote": "Come, sit. Sit. Sit! Umm, all righty, before we get started I just-I need you to state for the official record that you are in fact Frank Buffay.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah I-I don't-I don't think I'm quite there yet, but I could say I looove spending time with you.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Pretty well. Except for the stapler thing. Little tip: if youre ever in a similar situation, never ever leave your hand... ..on the desk.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Sandra Green",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Fine, fine. We'll have fun, won't we? Yes, we will, yes we will.",
+      "characters": [
+        "Ross",
+        "Janice",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, I'm not gonna lie to ya, but I am gonna run away from you.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Kathy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You guys, you know what, you know what, it doesn't matter, because you both have to go get dressed before the big vain in my head pops. So..",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'd keep an eye on him! We have to find out which one the father is.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, hi! Excuse me, is uh Rachel Green here? I was supposed to meet her for lunch.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Fake Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oookay. Are you aware that possession of an illegal exotic is, uh, punishable by up to two years in prison and confiscation of the animal?",
+      "characters": [
+        "Luisa Gianetti",
+        "Phoebe",
+        "Rachel",
+        "Russell"
+      ],
+      "correctAnswer": "Luisa Gianetti"
+    },
+    {
+      "quote": "Monica! Chandler! I'm really-really sorry about tonight. I don't know if Joey told you; I just couldn't get out of going to this play. I'm sorry. Have a great time.",
+      "characters": [
+        "Janine Lecroix",
+        "Rachel",
+        "Judy Geller",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    }
+  ]
+}

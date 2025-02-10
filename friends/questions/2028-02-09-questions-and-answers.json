@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1113,
+  "date": "2028-02-09",
+  "questions": [
+    {
+      "quote": "Hey buddy, this is a family place, put the mouse back in the house.",
+      "characters": [
+        "Gunther",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Hey, Joey, when you said the deal with Santa Clause, you meant?",
+      "characters": [
+        "Phoebe",
+        "Elizabeth Stevens",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Pheebs, if you don't tell him, soon he's gonna be married, and then you're gonna hate yourself.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah. Monica, I want you there in the front row when I win. I want you close enough to smell the blood. What do you think?",
+      "characters": [
+        "Peter Becker",
+        "Minister",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "I know, yeah. I feel like we're all growing up. Person named Wiener, God that kills me.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OK, uh.... listen, there's something I want to talk to you about. The network casting lady...",
+      "characters": [
+        "Joey",
+        "Amy Green",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I've been to these places before, but I've never really seen them, you know.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's it?! Even if nobody helps me I can eat that no problem. At least give me a challenge!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't know. I can't tell, what ever it was went back in too quickly.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Here, Monica, look what I got to wear when I play at the restaurant uh, huh wait! Right? I mean, this might even class up the ballad of the uncircumcised man.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joanna",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

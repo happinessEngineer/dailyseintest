@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1000,
+  "date": "2027-10-19",
+  "questions": [
+    {
+      "quote": "See, now, why would you assume that? Just because we're married? I will have you know that we are very hip, happening people. Now, if you'll excuse me, I have to get back to reading the obituaries.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, it was 1992, and I remember because that was the year I had sex with Evil Knievel .",
+      "characters": [
+        "Monica",
+        "Amanda Buffamonteezi",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Amanda Buffamonteezi"
+    },
+    {
+      "quote": "Yeah, ok. I guess you're right. Allright, so we should just give them away. But to nice families, with children, and reduced fat wheat thins. They're Bob's favorites.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hello handsome. Oh God. Oh look at you two. So when did you guys meet?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Ryan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Then don't. Stay here. Just don't go so soon to London, just one more day.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, y'know I'm not that much of a sweet tooth. I--Wow. My God, so creamy. Oh my God, this is the best cheesecake I have ever had. Where did you get this?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, this is so exciting! You get your picture back up on the wall of fame! Eek!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, you know, I really thought I deserved it. But... let's go win the lottery... I mean, we still have 130 chances to win, right?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hello. Hi sweetie. Good. Look umm, yes I've been thinking about that thing that you wanted me to do and, I can do it. So will you come to New York?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That was in the fourth grade. How could you still be upset about that?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 923,
+  "date": "2027-08-03",
+  "questions": [
+    {
+      "quote": "Oh, see, I had to tell her that my number was your number, because I couldn't tell her that my number was my number because she thinks that my number is Bob's number.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Nah, just me. All alone. Dinner for six for one, uh, you boys are about to see something really special.",
+      "characters": [
+        "Janine Lecroix",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Please, make yourself comfortable and I will back in a moment with Erica.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Agency Guy",
+        "Parker"
+      ],
+      "correctAnswer": "Agency Guy"
+    },
+    {
+      "quote": "Ain't that bad yet, but it keeps getting darker for the next four hours.",
+      "characters": [
+        "Ross",
+        "Dina",
+        "Phoebe",
+        "Assistant"
+      ],
+      "correctAnswer": "Assistant"
+    },
+    {
+      "quote": "Well if you where ever enter the Loire valley let me know, I've got a great little villa you can stay at.",
+      "characters": [
+        "Monica",
+        "Don",
+        "Agency Guy",
+        "Chandler"
+      ],
+      "correctAnswer": "Don"
+    },
+    {
+      "quote": "I'm sorry, okay? It just-tonight was supposed to be y'know, it was supposed to be a big deal.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh! I got it! Ok, everyone pick a number from one to ten. Alright? Whoever gets the highest number gets to go first.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Richard Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I see you've had a very productive day. Don't you think the cowboy hat is a little much?",
+      "characters": [
+        "Waiter",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I can't talk to you! I don't have a fancy ad in the Yellow Pages!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Please, help me! I have a date tonight. It has to go well okay-I'm scared for my health!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

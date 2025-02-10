@@ -1,0 +1,106 @@
+{
+  "gameNumber": 962,
+  "date": "2027-09-11",
+  "questions": [
+    {
+      "quote": "We're gonna pick up the wedding dress then we're gonna have lunch with mom.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right. No, no, no, not a Richard thing, just put down the glass. And get out!",
+      "characters": [
+        "Billy",
+        "Rachel",
+        "Phoebe",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Alright, you're on. I can take two minutes out of my day to kick your ass.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, well, I just don't, I don't know how it works exactly. See, my name is Buffay and my husband's name is Hannigan, so is it supposed to be Buffay-Hannigan or Hannigan-Buffay?",
+      "characters": [
+        "Phoebe",
+        "Charlie Wheeler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wendy, we had a deal! Yeah, you promised! Wendy! Wendy! Wendy!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Wayne",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What are you guys talking about, I loved it! It was soo moving. Oh, plus it's just, it's so different from the stuff you usually hear.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's great! How? Chandler. Well my boss and I worked out a deal where I only have to be in Tulsa four days a week, so the other three I can be here with you.",
+      "characters": [
+        "Monica",
+        "Allesandro",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "The last minute fare on this ticket is twenty seven hundred dollars.",
+      "characters": [
+        "Ticket Agent",
+        "Michelle",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ticket Agent"
+    },
+    {
+      "quote": "Why, it's six tickets to Hootie and the Blowfish! The Blowfish!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That wasn't a date! That was, that was just friends getting together... having sex.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

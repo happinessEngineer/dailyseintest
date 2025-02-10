@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1482,
+  "date": "2029-02-12",
+  "questions": [
+    {
+      "quote": "You go get 'em. What did I do to you? Did I hurt you in some way?",
+      "characters": [
+        "Ross",
+        "Leonard Green",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh, take a look at the guy's pants! I mean, I know you told us to show excitement, but don't you think he went a little overboard?",
+      "characters": [
+        "Joey",
+        "Judy Geller",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes there is! He's black and white and shaggy and he's sitting next to Rachel and licking Rachel's hand.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Of course you did. Look Ross, you can't get an annulment unless you and Rachel are both there.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Russell",
+        "Joey"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Hey-hey-hey that's funny! Your funny Chandler! Your a funny guy! You wanna know what else is really funny?!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow, you know, it's so beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?",
+      "characters": [
+        "Rachel",
+        "Tag Jones",
+        "Ross",
+        "Nurse"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know, it's a shame, because you and Lowell would've made a great couple.",
+      "characters": [
+        "Monica",
+        "Wayne",
+        "Phoebe",
+        "Shelley"
+      ],
+      "correctAnswer": "Shelley"
+    },
+    {
+      "quote": "Well, it's just interesting. You know, because no one will ever know, because no one can experience both.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Mona"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Guys, could you please just stop throwing the ball for one minute and just help me find it!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look Joey, come on she's so perfect for you! I mean she's sweet, she-she likes baseball, and she-she had two beers at lunch.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

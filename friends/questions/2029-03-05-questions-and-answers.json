@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1503,
+  "date": "2029-03-05",
+  "questions": [
+    {
+      "quote": "Well this, this is too much, I feel like I should get you another sweater.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no, no, no, no, no No. Monica, it's Sunday morning. I'm not running on a Sunday.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, is everybody clear? We're gonna pick it up...and move it. Now all we need is teamwork, okay? We're gonna lift the car...and slide it out. Lift and slide!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, you are going to tell her and you're going to tell her now.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Dr. Miller"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! Hey, somebody left their keys. Ooohh, to a Porsche! Hey Gunther, these yours?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I prefer to keep a safe distance from all this merriment.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah but, you know, now that I think about it, I don't think I've ever seen Fun Bobby without a... a drink in his hand.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "How would you characterize the theme of this book, uh let's see here , Rachel Green?",
+      "characters": [
+        "Precious",
+        "Amanda Buffamonteezi",
+        "Joey",
+        "The Teacher"
+      ],
+      "correctAnswer": "The Teacher"
+    },
+    {
+      "quote": "It's a...tarantula! Oh! God! Rachel, look, I'm sorry. What was I thinking giving Joey this big, gross, scary spider in such a poorly constructed cage?",
+      "characters": [
+        "Max",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh OK. Well then why don't you, uhh, why don't you borrow it from mom and dad? You feel guilty and tense around them already. You might as well make some money off of them.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1221,
+  "date": "2028-05-27",
+  "questions": [
+    {
+      "quote": "Hey! Don't worry about it! It was fine! I ended up having the best time with Rachel! I just felt bad for you, stuck in that room, working on Ross's speech...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You see what men do! Don't tell me men are not nice! This is men!!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, I've been doing a lot of thinking about us, y'know a lot of uhh, us thinking. And uh, well I guess there's only one-one way to do this.",
+      "characters": [
+        "Assistant",
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "\"Dear losers, do you really think I'd hide presents under the couch? P.S.: Chandler, I knew they'd break you.\"",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know, I lied! I didn't want her to think I was a terrible mother! I can't even see my own baby!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I-I know-I had put them in...in-in my desk at work and I completely forgot about them until today.",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "And I also wanted you guys to know that I am telling the father today. What? What? What?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, you're my husband. I'm not gonna live in a different state than you for 208 days out of the year.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Besides, I can't leave until their Christmas party downstairs clears out; there are some *pissed off* insurance people looking for that ham.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Wendy",
+        "Chandler"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "Ok, look, before you even start, I'm not denying evolution, ok, I'm just saying that it's one of the possibilities.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

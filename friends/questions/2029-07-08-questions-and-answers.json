@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1628,
+  "date": "2029-07-08",
+  "questions": [
+    {
+      "quote": "All right, it's time for the story of Hanukkah. Years and years ago, there were these people called the Maccabees.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, we could still make dinner if we skipped the appetisers and asked for our check right away.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?",
+      "characters": [
+        "Waiter",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's fine. So Monica, you are now in control of my love life.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Huh. But still Ross, you're worst day with two women, pretty much better than any other day! Y'know what I mean?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wait a minute...Joey. Joey you can't ask her out, she's your roommate. It-it'll be way too complicated.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, Ross, listen to me. I have sold a hundred million copies of my books, and y'know why?",
+      "characters": [
+        "Phoebe",
+        "Nora Tyler Bing",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Nora Tyler Bing"
+    },
+    {
+      "quote": "Y'know I have a torn rotator cuff, a hairline fracture in my right forearm, and a severely bruised Adam's Apple, but that really hurt.",
+      "characters": [
+        "Peter Becker",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Well, I'm here to see my old buddy Ben. What are you doing here, weird...turtle-man?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Mike Hannigan",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Very funny Ross! Very life-like and funny. Okay. Oh no-no-no, I wasn't waving at you lady. Whoa, maybe I was! Hey, Monica, this totally hot girl in Ross's building is flirting with me.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "The Stripper"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

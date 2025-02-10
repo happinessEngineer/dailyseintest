@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1372,
+  "date": "2028-10-25",
+  "questions": [
+    {
+      "quote": "Look Rach, my parents bought this fridge just after I was born, okay? Now, I have never had a problem with it. Then you show up and it breaks! What does that tell ya'?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That part was perfect for me! I can't believe I didn't get it!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That is great. Hey, y'know who doesn't have to job hunt? Ross. He works at the university.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah I can! And don't think I don't, because I do! I mean all the time, you betcha!",
+      "characters": [
+        "Jack Geller",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ah... Ah...Get out of here! Uh, meeting someone? Or-or are you just here to brush up on Marion's views on evolution?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "There's not gonna be a next time! You can not ever see him again!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't think the contestants are supposed to speak to each other.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry. But not that sorry, 'cause you don't have to live with it. Um, we have a reservation under the name Chandler Bing.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh please, he'll be with his real family, the twins and little miss new boobs.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Carol",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Nurse",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

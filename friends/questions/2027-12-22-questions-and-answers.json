@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1064,
+  "date": "2027-12-22",
+  "questions": [
+    {
+      "quote": "So what if he didn't come! We can still go out and party ourselves!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Hayley",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I'm sorry. I'm so rude. Does anyone want to come to the movies?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know, there are gonna be some pasty folks by the pool tomorrow!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah but when he proposed to me with the ring I got goose bumps.",
+      "characters": [
+        "Judy Geller",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Of course I'm awake. Assume from now on that I'm always awake!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "The whole night was horrible, it was pouring down rain, and when I got there, there was no Rachel Green on the list, but there was a Rachel Greep.",
+      "characters": [
+        "Joey",
+        "Joanna",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hi! Thank you so much for coming again. Did you like it tonight?",
+      "characters": [
+        "Kathy",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "Hey, you know, before you said that nothing could happen between us? What changed?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, and he's got such a good heart! Doesn't he have a good heart?",
+      "characters": [
+        "Joey",
+        "Joanna",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Look, not that I enjoy talking about people who I went to high school with, 'cause I do, but umm, maybe we could talk about something else? Like you, I don't even know where you work?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

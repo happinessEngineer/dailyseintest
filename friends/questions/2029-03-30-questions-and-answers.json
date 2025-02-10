@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1528,
+  "date": "2029-03-30",
+  "questions": [
+    {
+      "quote": "Look, I know what you're going through. When I turned 50 I got the Porsche. You... you got your own little speedster.",
+      "characters": [
+        "The Casting Director",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah...I mean I want this so much! I mean, I wanna get one, I want my friend Charlie to get one...Except I don't care about Charlie.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's right. That is right, you go over there and tell her you don't want her to live with you. Do not take no for an answer!",
+      "characters": [
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'll be fine, alright? Really, everyone. I hope she'll be very happy.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Joanna"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I'm telling everyone about you! That's the only way to explain the underwear and the video camera that doesn't make me look like a pig!",
+      "characters": [
+        "Chandler",
+        "Chip Matthews",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look, when I've been drinking, sometimes I tend to get overly friendly, and I'm sorry.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, now that your coat is safely in the bedr-, oh, ok we can come back out in the living room.",
+      "characters": [
+        "David",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No! I talked to Joey on the set, he hasn't heard from him. I-I-I talked to Chandler's parents again!",
+      "characters": [
+        "Jack Geller",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well so, how come you blew me off? Y'know? How come you were with him?",
+      "characters": [
+        "Joey",
+        "Leonard Green",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know when guys hang out they don't just drink some beer and hammer up drywall?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

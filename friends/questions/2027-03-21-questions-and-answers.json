@@ -1,0 +1,106 @@
+{
+  "gameNumber": 788,
+  "date": "2027-03-21",
+  "questions": [
+    {
+      "quote": "That's Paul's watch. You just put it back where you found it. Oh boy. Alright. Goodnight, everybody.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Sure, I mean, do I wish me and Rachel living together would have worked out? Of course. You know, I'm disappointed, but it's not like it's a divorce.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I wonder if its time for you to rejoin our team at the museum?",
+      "characters": [
+        "Phoebe",
+        "Dr. Ledbetter",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Dr. Ledbetter"
+    },
+    {
+      "quote": "Really? That would be great. I mean, I have to do something, she kinda teased me about how I dress.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Teacher",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She was kinda stupid. You're right. All right, I'm just gonna go on the date. I'm gonna go on the date. That is the new plan.",
+      "characters": [
+        "Chandler",
+        "Gunther",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Allright... But... if I ever do come back from Minsk... well, you just better watch out.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Okay. Ben? Come here. All right, I'm gonna leave you here with Aunt Rachel for about an hour. Okay? Are you gonna be okay?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry. It was just so funny when you started comparing Jane Eyre to Robocop.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Woman"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Phoebe the father is not here okay? I haven't told him yet and I don't think I can tell him at all now!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, there's this superintendent's dance, the Super Ball. I don't know, and he wants to impress Marge, this lady super that he's a crush on.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "The Casting Director"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

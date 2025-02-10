@@ -1,0 +1,106 @@
+{
+  "gameNumber": 500,
+  "date": "2026-06-06",
+  "questions": [
+    {
+      "quote": "And you know I wanted to ask Charlie out since the day I met her.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh yeah? Yeah? I wonder why? What could that smarmy letch possibly want?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh God, I can't believe I'm even considering this... I'm very very aware of my tongue...",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey, come on Phoebe, you can understand why this would be weird for me.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Don't you point your pants at me! We have no choice! Anywhere that's half-decent would've be booked months ago, Ross don't you understand? This is our wedding I'm talking about.",
+      "characters": [
+        "Emily Waltham",
+        "Frank Buffay Jr.",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "I discovered I'm able to count all of my teeth using just my tongue.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Gunther. Hey-hey! Why don't we put them on? Y'know get a picture of Batman and James Bond together.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yes, you'll be all grown up by then. We'll be... Well your grandfather and I might not be here.",
+      "characters": [
+        "Mr. Zelner",
+        "Monica",
+        "Chandler",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "Oh we're not out. No, no. We're just uh, two heterosexual guys, hanging with the son of our other heterosexual friend, doin' the usual straight guy stuff.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm not jealous. All right this is about, umm, people feeling certain things y'know about strippers. And y'know, and um, I...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Doug"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

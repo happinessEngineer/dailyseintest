@@ -1,0 +1,106 @@
+{
+  "gameNumber": 439,
+  "date": "2026-04-06",
+  "questions": [
+    {
+      "quote": "Honey, why is it hard, I mean we've been together for almost a year now?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Helena",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, so this play umm, what do you think? It's-it's gotten great reviews! Y'know the uh...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You wanna meet some people? This is uh; this is my husband Chandler. Chandler, this is Will.",
+      "characters": [
+        "Judge",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Woah. Huh. You know about my, I mean, you know I had... you know?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, oh, I thought that was your character's name, you know, I thought you were like an Indian or something, you know with a...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Charlie Wheeler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Really? I'm perfectly comfortable. Hey, hey, hey, get in line buddy, I was next.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I don't know about that, but some said that I looked like a floating angel.",
+      "characters": [
+        "Roger",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, maybe this is so hard, because there aren't 50 states. Let me tell you something, I have 49 states, and there are no more! I-I think, I should be able to eat something.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, I took the quiz, and it turns out, I do put career before men. Get up.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeahh, but, but those really go better with pants. Maybe I should wear pants?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

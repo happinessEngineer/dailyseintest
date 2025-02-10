@@ -1,0 +1,106 @@
+{
+  "gameNumber": 179,
+  "date": "2025-07-20",
+  "questions": [
+    {
+      "quote": "So, it's Monica and Chandler. I only know you as file 0W33815-D.",
+      "characters": [
+        "Erica",
+        "Janice",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "Well hey, I wanna ask you about Monica's little \"groomy\" joke.",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Okay. Then I guess it's just, wait here then. Hi. I need one fake ticket to Yemen.",
+      "characters": [
+        "Chandler",
+        "The Interviewer",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, how about this: We got wind up toys for Emma for her birthday. We can make them race, and whoever comes in last, stays!",
+      "characters": [
+        "Phoebe",
+        "Susan Bunch",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Shh. Shh. Don't try to talk, we'll get you up to your room, we'll soak your feet, you'll be okay.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh no. Could I get anyone a coffee or...poison? No? Just for me? Okay.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Angela Delveccio"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I'm jumping! I have a son! Okay? He won't have a father if-if I die!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no-no, please-please Chandler I-I-I would owe you so much!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "'Okay. Okay, daddy we'll see you tomorrow night. Okay bye-bye.'",
+      "characters": [
+        "Phoebe",
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What?! I thought he'd love it! His favorite kid's book was the Velveteen Rabbit!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

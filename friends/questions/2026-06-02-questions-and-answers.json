@@ -1,0 +1,106 @@
+{
+  "gameNumber": 496,
+  "date": "2026-06-02",
+  "questions": [
+    {
+      "quote": "I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! I'll get it! Hi, Tim.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh! Maybe they'll name yours after you! Y'know, they'll call it, The Ross. And then people would be like, \"Awww, he's got a Ross.\"",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, if you're parents hadn't got divorced, you'd be able to answer a question like a normal person?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, these tennis shoes are so tight. I think I'll take them off.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeeeeaaaahhh! What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...'",
+      "characters": [
+        "Joey",
+        "The Teacher",
+        "Ross",
+        "Judge"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, it's like all of the sudden, we were this couple. And this alarm started going off in my head 'Run for your life! Get out of the building!'",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Billy",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Save it Red! Unless you wanna spend the night in the slammer, you apologize to the tree.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well uh, there was acting classes, stage combat classes, tap classes...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. So Frank, three babies. Whew, that just seems like a lot, huh?",
+      "characters": [
+        "Mike Hannigan",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yup! You could plunk me down in the middle of any woman's uterus, no compass, and I can find my way out of there like that!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Mindy Hunter"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

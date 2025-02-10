@@ -1,0 +1,106 @@
+{
+  "gameNumber": 420,
+  "date": "2026-03-18",
+  "questions": [
+    {
+      "quote": "Ok, so now we need, um sage branches and the sacramental wine.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, let's see. The first one is: I don't want to. And, you know, I'm not going.",
+      "characters": [
+        "Wayne",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh please, could she be more out of my league? Ross, back me up here.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, really, well Ross, you know what? I am a big girl. I don't need someone telling me what is best for me.",
+      "characters": [
+        "Rachel",
+        "Charity Guy",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Tasty! I'm really starting to feel like you guys have a history, it's-it's nice.",
+      "characters": [
+        "The Director",
+        "Monica",
+        "Ross",
+        "Eric"
+      ],
+      "correctAnswer": "The Director"
+    },
+    {
+      "quote": "They give you away! There's just-there's just too much wisdom in there. Just put some tea bags on there for like 15 minutes.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well hello! So, when are we gettin' back out on the water matey?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, okay, I don't know what you just said, so let's get started.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's Mindy? Wow, she is pretty. Lucky. To have had a friend like you.",
+      "characters": [
+        "Monica",
+        "Jack Geller",
+        "Phoebe",
+        "Janice"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi! Oh, Alice, hi! Thanks. I'm so glad you could come, 'cause I've got a real umm, Home Ec emergency.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

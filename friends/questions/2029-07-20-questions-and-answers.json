@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1640,
+  "date": "2029-07-20",
+  "questions": [
+    {
+      "quote": "Oh, and Chandler and I have this stupid college alumni thing. I can't believe you get to meet Donny Osmond.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose.",
+      "characters": [
+        "Mike Hannigan",
+        "Phoebe",
+        "Rachel",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Well, at least you're not hearing it for the first time at your fifth grade Halloween party.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Carol",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, it does bother me! And I think it would bother a lot of people. Rachel, when you were going out with Ross, did it bother you when he flirted with other women?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "The Cooking Teacher",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry Chandler, but this, this is really important to me.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, then you don't know what it feels like when one of them comes back. Do you? I believe this is my Mother. Even if I'm wrong, who cares? Just be a friend. Okay? Be supportive.",
+      "characters": [
+        "The Woman",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I'm off to Tulsa, so if your Maitre D. friend has any funny Oklahoma jokes, tell him to e-mail me at www.hahanotsomuch.com.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You've reached Monica and Chandler's, if you're listening to this message, we're probably screening. Yeah we are.",
+      "characters": [
+        "Chandler",
+        "Eddie Menuek",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I didn't mean that. I just meant that the apartment is worth so much more.",
+      "characters": [
+        "Chandler",
+        "Joshua Burgin",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh God! What was it? The thing that we hardly ever do or the thing we never do?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

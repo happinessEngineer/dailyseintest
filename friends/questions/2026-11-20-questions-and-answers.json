@@ -1,0 +1,106 @@
+{
+  "gameNumber": 667,
+  "date": "2026-11-20",
+  "questions": [
+    {
+      "quote": "Ah, and I mean, he's going out with her? He can not persue this.",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Joey. Joey, something feels weird and not good weird. I don't-Whoa!!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Y'know what? We thought you were different. But I guess it was just the coma.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Julie",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Will you relax?! What are you taking this so seriously for? It doesn't matter.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You were the next caller five hours ago. You must be going crazy.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Jack Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, we have no time okay? We must focus. We gotta get everything back into its original place.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes, you did-Oh my God you didn't! Well then why didn't you tell me that before?!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Janice",
+        "Interviewer"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's not just the drum noise. Every five minutes, Joey throws his sticks in the air, and I have to hear, \"Oh my eye! Oh god, my eye!\" I mean, it is so annoying.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thanks. I'll call you tomorrow. Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I mean I...I know I wanted to. I just, I just wasn't sure if you wanted to.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1337,
+  "date": "2028-09-20",
+  "questions": [
+    {
+      "quote": "Oh, I'm not gonna do this, okay? I'm not gonna eavesdrop on my friend.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, check it out. Check this out. It says here that there's a place you can go to rent videos of all the museums! \"It's almost as good as being there.\"",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Michelle! Of course, it was Michelle! Did it sound like Michelle?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. Yeah. Oh, but once you find it, ohh it's so worth the wait.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't do it. I'm sorry, I wish I could, but umm, see you have these feelings for me....",
+      "characters": [
+        "Rachel",
+        "Dr. Long",
+        "Richard Burke",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "He's being silly, because he knows that we enjoy the silliness!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I sold four of them on Ebay. You'll be sitting next to HotGuy372.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "No-no, wait! There's got to be a better explanation. You can tell them you had to make an adult film for your adult film class.",
+      "characters": [
+        "Frank Buffay Sr.",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Rock on! Phoebe : Wow, this is quite a spread! What is all this stuff?",
+      "characters": [
+        "Mr. Zelner",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, we found them. There were in the guest room closet behind some coats.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

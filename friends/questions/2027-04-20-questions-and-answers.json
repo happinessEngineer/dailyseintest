@@ -1,0 +1,106 @@
+{
+  "gameNumber": 818,
+  "date": "2027-04-20",
+  "questions": [
+    {
+      "quote": "Well, yeah. Y'know, we were best friends, ever since we were little, our Moms worked on the barge together.",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh Daddy, no he didn't mean anything by that, he really didn't.",
+      "characters": [
+        "Ryan",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh okay. Umm, all right. Hi, this is Phoebe from Empire Office Supplies, can I speak to your supply manager please?",
+      "characters": [
+        "Joey",
+        "Janine Lecroix",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And this has nothing to do with the fact that he needs a note to get out of gym.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Mona",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! Joey and Ross don't know anything and Chandler still thinks that Phoebe's pregnant.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't see him. Hey! Maybe he's in the sugar bowl! Joey? Nope!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Right. Well, on behalf of the children: thank you both very much.",
+      "characters": [
+        "Charity Guy",
+        "Mona",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Charity Guy"
+    },
+    {
+      "quote": "Come on you know what to do! You hire the first one! You don't hire an assistant because they're cute, you hire them because they're qualified.",
+      "characters": [
+        "Leonard Green",
+        "Phoebe",
+        "Jill Green",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, I'll see you back at home, if I ever get a flight out of here.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Don",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That-It's not the same thing! This is totally different! This is with David! Remember David, the scientist guy? Okay, he's very special to me.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

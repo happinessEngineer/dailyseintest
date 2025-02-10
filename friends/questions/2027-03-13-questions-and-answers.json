@@ -1,0 +1,106 @@
+{
+  "gameNumber": 780,
+  "date": "2027-03-13",
+  "questions": [
+    {
+      "quote": "Like 'em, like 'em? Or, I'd like to get store credit for that amount like 'em?",
+      "characters": [
+        "Mr. Ratstatter",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah Joey. Joey Tribbiani. Listen Joey, I got a problem, I just got a call from my dance captain, he's having a relationship crisis and can't get out of Long Island.",
+      "characters": [
+        "Rachel",
+        "Mr. Treeger",
+        "Director",
+        "Ross"
+      ],
+      "correctAnswer": "Director"
+    },
+    {
+      "quote": "Hey, here's a question; where did you guys get the finest oak East of the Mississippi?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What?! The guys against the girls? See, that's ridiculous Monica, because I'm only down by three touchdowns.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right. Tell me if this is too cute. Lesbian wedding, chicken breasts.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, guess so. Whew! Check these out! Never done this before.",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wait a minute. Do you not like all dogs? I mean, not even puppies?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No wait, okay, okay, I have an idea. I want you to get on the swing, okay? And you'll see that there's nothing to be afraid of.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, you just make sure that Chandler catches the ball, I'll take care of the rest.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait okay, if this game is gonna cause problems between the two of you, then maybe I should just keep it.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

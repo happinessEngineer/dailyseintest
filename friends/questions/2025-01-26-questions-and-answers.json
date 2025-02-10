@@ -1,0 +1,106 @@
+{
+  "gameNumber": 4,
+  "date": "2025-01-26",
+  "questions": [
+    {
+      "quote": "You're a very sweet person Ross, umm, unfortunately I don't think I can take another second of you whining!!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Laura",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Oh, come on now, don't keep me waiting. Get those clothes off! But, I would keep that helmet on because you're in for a rough ride!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What is the matter with you?! Do you want to fall into the trap? Do you want to fall into the trap?!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Six and a half! You knocked that last one out of my hand! Remember?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, Pheebs, can I ask? So, hes going out with her. I mean, is it really so terrible?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Sweetie, I think the glasses look great. They make you look really sexy.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, a-a-and clean. Not just health department clean... Monica clean.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn't feel bad!",
+      "characters": [
+        "Rachel",
+        "Grandmother",
+        "Chandler",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rachel, don't do this. This is just because you're turning thirty.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Steve (drug addict)",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Wait Joey! You didn't need to come down because the director saw your tape from yesterday and loved it.",
+      "characters": [
+        "The Casting Director",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "The Casting Director"
+    }
+  ]
+}

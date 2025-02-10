@@ -1,0 +1,106 @@
+{
+  "gameNumber": 395,
+  "date": "2026-02-21",
+  "questions": [
+    {
+      "quote": "It's gonna be an open casket, y'know, so at least I'll- I get to see him again.",
+      "characters": [
+        "Bobby Rush",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Bobby Rush"
+    },
+    {
+      "quote": "Listen, Robert's gonna be here any second so, will one of you just tell him?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Dr. Long",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross, come sign this birthday card for dad. Rich is gonna be here any minute.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Precious",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This place is so depressing. If I had to work here I'd kill myself. But you obviously haven't.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I... I know you're leaving tonight, but I just have to tell you. I love you.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Gunther",
+        "Monica"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "I'm sorry, I-I-I-I don't live here anymore. I-I didn't know how to tell you, but y'know everybody else knows!",
+      "characters": [
+        "Guy",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Back when you and Rachel were together, if Chandler had kissed her, would you hear him out?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I did!! I watched! I watched! I watched Monica bang his head against that thing!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I'm so happy I'm gonna do this for my little girl. Aw, look at you. You have tears in your eyes.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Sandra Green",
+        "Joey"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",
+      "characters": [
+        "Kim",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

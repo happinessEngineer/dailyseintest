@@ -1,0 +1,106 @@
+{
+  "gameNumber": 743,
+  "date": "2027-02-04",
+  "questions": [
+    {
+      "quote": "Yeah! And look, see how they expand as the baby grows? And then after the baby's born, they're great for shoplifting melons.",
+      "characters": [
+        "Rachel",
+        "Benjamin Hobart",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's true. But you know what, it doesn't matter because I already know who you're gonna go home with tonight.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! Oh yeah, you'll be fine! It-it'll be uh, just like bungy jumping. Y'know? But instead of bouncing back up you-you won't.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on! I am here to take care of you! What do you need? Anything.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, I had to teach Ross my bit because I actually didn't get a callback.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, and also, he's, he's walkin' kind of funny, his left leg is moving a lot faster than his right leg, and he's in there just sort of y'know...",
+      "characters": [
+        "Ross",
+        "Joey Tribbiani Sr.",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And about this Nancy thing... If you're not sleeping with her, should I?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, Aunt Liddy's coming? That means we get five dollars each!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Erin",
+        "Woman"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh really?! You think you're stronger? Why don't you prove it?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I just ran into Dave and he told me that you blew him off! I mean, you listen to me! Now, I'm calling the shots! I say you leave Ross alone and go get Dave! What the hell were you trying to do?",
+      "characters": [
+        "Monica",
+        "Kathy",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

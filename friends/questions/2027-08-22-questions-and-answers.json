@@ -1,0 +1,106 @@
+{
+  "gameNumber": 942,
+  "date": "2027-08-22",
+  "questions": [
+    {
+      "quote": "Uhm, I hadn't no you... I had no idea you were so excited about Paris. Uhm, I mean, you said you were scared.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, if you're gonna be totally rational about this, I can't argue with you! All right? Fine, if you wanna tell him, tell him. I just don't want to be a part of it.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh thank you. Hey y'know, I'm so sorry to hear about you and Elizabeth.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Not good, no. I didn't get the part, and I lost my job here, so ...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "There's nothing the matter with me. See, I'm not completely devoid of sentiment, see I have feelings.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No-no-no that was good, it was, that was uh, that was a goood kiss...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't want to drive all the way back by myself, I get so lonely. Oh-ooh! How about you come with me?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I ah, I work at Bloomingdale's and I might know of a job possibility if your, if your interested?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Good runnin' into you at the bank today, so ah, here's my number, 555-9323. Give me a call. Later.",
+      "characters": [
+        "Monica",
+        "Chip Matthews",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chip Matthews"
+    },
+    {
+      "quote": "But we had one of the greatest talks we ever had last night. I mean it was, it was like when we first started living together.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Richard Burke",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

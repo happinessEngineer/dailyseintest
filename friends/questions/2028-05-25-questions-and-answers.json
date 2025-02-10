@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1219,
+  "date": "2028-05-25",
+  "questions": [
+    {
+      "quote": "Somehow they got the idea that you only invited them because of me. They...feel a little unwanted.",
+      "characters": [
+        "Rachel",
+        "The Stripper",
+        "Joey",
+        "Assistant"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes. Yes! Right! And I feel horrible. You have to believe me!",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, well, I'm using noise. Okay. All right! So, is everybody ready? Here we go. I hear something! I hear something! Where is it?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "There was chocolate on the three. It looked like an eight, alright?",
+      "characters": [
+        "Richard Burke",
+        "Joey",
+        "Emily Waltham",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But then I'd have to go all the way around the dry cleaner place.",
+      "characters": [
+        "Rachel",
+        "Charlie Wheeler",
+        "Joey",
+        "Gunther"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "What would she get for herself for two thousand dollars that she wouldn't tell me about?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You and your stupid fear. I hate your fear. I would like to take you and your fear....",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Man, if anyone asked me to give up any of you, I couldn't do it.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "How can you compare yourself to Gunther? I mean, sure, he's sexy in a more obvious way. You have a relationship with her, you slept together last night.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Except that! Oh, hello, Mr. Zelner. We're all ready for our presentation this afternoon.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

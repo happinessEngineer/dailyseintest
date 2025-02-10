@@ -1,0 +1,106 @@
+{
+  "gameNumber": 45,
+  "date": "2025-03-08",
+  "questions": [
+    {
+      "quote": "Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, we decided that I would go ahead and set up first, and then my mom would bring Emma to Paris on Sunday.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Jill Green",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well it's just like you're trying too hard. Always making jokes, y'know, you just-You come off a little needy.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh. Yeah. Uh Chandler let me win. No, Chandler's really strong. Oh my arm is so sore. Oh nurse!",
+      "characters": [
+        "Kate Miller",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know. Phoebe, if one of us saw Mike with another woman would you want us to tell you?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Um, well, Max told me about Minsk, so congratulations! This is so exciting!",
+      "characters": [
+        "Rachel",
+        "Dr. Ledbetter",
+        "Mona",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no way. You've got it totally the other way around my friend. John Voit was...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Luisa Gianetti! Lincoln High? I sat behind you guys in home room!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Luisa Gianetti",
+        "Michelle"
+      ],
+      "correctAnswer": "Luisa Gianetti"
+    },
+    {
+      "quote": "Totally insane. Dude, let's drive home, we'll hit all the maple candy stores on the way back and if...if they're closed maybe we'll tap a tree and make some ourselves.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So go fix it! Go find Chandler! He's probably up in your room! Tell him that you're sorry and that you love him.",
+      "characters": [
+        "Julie",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1034,
+  "date": "2027-11-22",
+  "questions": [
+    {
+      "quote": "Oh yeah. Well you can't fire Joseph. You know why, 'cause he's not in your department.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Doctor"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, I'm sorry I went out with him when I knew you liked him.",
+      "characters": [
+        "Richard Burke",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Of course! I'm-I'm sorry. I-I'd hate you to miss anything like that on account of me. I can do this!",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "No, you can't let this stop you from getting massages! No look, I have, I have lots of clients that make the same noises you do!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Charlie Wheeler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Paolo, I really hate you for what you did to Rachel, but I still have five of these, so heat it at 375 until the cheese bubbles.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh yeah, yeah we're moving forward. You'll be getting our card!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Flowers, liquor, recarpet first floor. New guest bath, landscaping. I'm paying to remodel this guys house. I'm going to give that son on a bitch, a piece of my mind.",
+      "characters": [
+        "Monica",
+        "Jack Geller",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Okay, just to be clear comedy with the plates will not be well recieved. Ross makes some sort of sound to let us know it hurt.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Agency Guy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh does it matter?! All that matters is that you look so handsome.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Thank you so much for letting me do this. Public bathrooms freak me out, I can't even pee, let alone doanything else.",
+      "characters": [
+        "Michelle",
+        "Phoebe",
+        "Rachel",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Michelle"
+    }
+  ]
+}

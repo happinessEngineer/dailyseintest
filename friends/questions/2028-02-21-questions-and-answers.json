@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1125,
+  "date": "2028-02-21",
+  "questions": [
+    {
+      "quote": "Well, while you were on your baby vacation I was doing your job.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Gavin Mitchell",
+        "Joey"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "I don't know, my hand feels weird. I guess it's because, I'm engaged! How long before it starts getting annoying?",
+      "characters": [
+        "Monica",
+        "Eric",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, 'Slim Pickings', it's a barbecue restaurant. They're looking for a cook. Actually 'cook' may be a bit of a stretch. They're looking for someone to shovel mesquite.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Danny",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Allright, I'm gonna watch it... I mean look, it's probably not even what I think it is... And even if it is... It can't possibly be as bad as what I'm picturing in my head... Can it?",
+      "characters": [
+        "Chandler",
+        "Sophie",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, we have to say something! We have to get it out! It's eating me alive!! Monica got stung by a jellyfish.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You have no idea how much this hurts. Keep going! Keep going!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "David",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow, Joey and a professor! Can you imagine if they had kids and if the kids got her intelligence and Joey's raw sexual magnetism... Oh, those nerds will get laaaaaid!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, I-I-I wasn't making fun of you, honestly, I-I think you were great in those commercials.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Who are you talking too? Oh, you're kidding! Oh, it's a joke! It's funny. It's funny. I don't get it. Oh. Okay. Umm... I-I...uh, wow. Are you uh... How did umm... When?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Congratulations! I didn't want to say anything in front of Joey 'cause I didn't know if he knew yet.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

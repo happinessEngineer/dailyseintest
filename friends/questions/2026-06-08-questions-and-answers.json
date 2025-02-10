@@ -1,0 +1,106 @@
+{
+  "gameNumber": 502,
+  "date": "2026-06-08",
+  "questions": [
+    {
+      "quote": "I know, that, that's why I don't want to go tonight, I'm afraid I'm going to say something stupid.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "The Director"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow! Oh you can just imagine that this is where they kept all the stuff to make their potions.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Listen you guys, I don't mean to be a pain about this but, um, I've noticed that some of you are just placing them on. You wanna push the caps until you hear them click. Gunther, where're you going?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know what, don't be. This is not, don't be, 'cause it's not so bad.",
+      "characters": [
+        "Chandler",
+        "Peter Becker",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Ahh, toilet seat covers! Is that what you were doing while I was getting gas?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, you're practically dancing already. Why don't you just do it over here?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chloe"
+      ],
+      "correctAnswer": "Chloe"
+    },
+    {
+      "quote": "It's a rented tux. Okay. I'm not gonna go commando in another man's fatigues.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wh... So... If neither of you are married by the time you're 40, you're gonna marry Joey.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh yeah-No, she was really nice to me, but she's in hell for sure.",
+      "characters": [
+        "Ross",
+        "Terry",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's right. You're husband's home. So, now the sex can stop.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

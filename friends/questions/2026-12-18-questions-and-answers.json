@@ -1,0 +1,106 @@
+{
+  "gameNumber": 695,
+  "date": "2026-12-18",
+  "questions": [
+    {
+      "quote": "Like I said I was thinking of taking Emma to the museum of knives and fire!",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, look you guys, I really don't want to get into this right now. I think it'll just make everyone uncomfortable.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on Rach, not again. I got it! Okay? Let's start sailing, and I want to go over there where that boatload of girls is! Yo-ho-ho!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OK, so that's... that's what, two bottles? And yet somehow we went through five?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "The Interviewer",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, umm, I guess I read Little Women more than once. But I mean that's a classic, what's so great about The Shining?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. Except for, y'know when you're on a date and you're getting along really great but the guy's translator keeps getting in the way.",
+      "characters": [
+        "Helena",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, no way! Come on, this is you guys, call her and work it out.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I gotta tell you, yesterday was amazing. That massage felt so good!",
+      "characters": [
+        "Joey",
+        "Woman",
+        "Monica",
+        "Joanna"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Really?! Well, it's just like everyone else's apartment. It's got rooms, walls, and ceilings.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Amy Green",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "No that's not it. They let me keep my key the last time they were out of town.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

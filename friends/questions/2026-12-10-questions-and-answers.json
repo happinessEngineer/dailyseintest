@@ -1,0 +1,106 @@
+{
+  "gameNumber": 687,
+  "date": "2026-12-10",
+  "questions": [
+    {
+      "quote": "It's not something to be proud of, okay? You have to go to a sleep clinic!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "The Interviewer",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh and you know what, it will be even better tomorrow, because I won't be constantly interrupted by Joey checking to see if they put chocolates on my pillow yet. .",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Of course it's true! How else would you explain all the weird stuff that's been going on?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Aw, how can you say that? I cant even get Marcel to stop eating the bath mat. How am I gonna raise a kid?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm sorry, I just can't go to the hospital lookin' like this.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Paul Stevens",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is great! Now she's gonna be mad at Rachel! Y'know what? And I'm just gonna swoop in there and be like the daughter she never had.",
+      "characters": [
+        "Minister",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Um-hmm. I have a condition, apparently, that I require two different sets of focals.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, I think that's it. The seating chart is done. This is our wedding. They all look like they're having fun don't they?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Whoa, whoa, whoa. You looked at her. You never look. You just answer, it's just a reflex. Do I look fat? Nooo! Is she prettier than I am? Noo! Does size matter?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

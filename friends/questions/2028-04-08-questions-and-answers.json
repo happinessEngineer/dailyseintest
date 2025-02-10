@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1172,
+  "date": "2028-04-08",
+  "questions": [
+    {
+      "quote": "Oh, I can't. I've got a date with that waitress, Katy, yeah, I know we've been only going out like twice, but I have a really good feeling about her.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, they said he's gonna be fine, but he's still heavily sedated.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's been so long! Last time I saw you, you were setting up your tent in line to see Return of the Jedi.",
+      "characters": [
+        "Ross",
+        "Cassie Geller",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Cassie Geller"
+    },
+    {
+      "quote": "Really?! The Plaza?!! Oh daddy!! Right. Daddy, I need to talk to you. Please, sit down.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, hold on just a second. I'm sorry, it's for human resources, everybody has to do it. Could you just stand up please?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Honey, you can relax. Last night at work, Geoffrey told this really sexist joke. After that, not so funny anymore.",
+      "characters": [
+        "Monica",
+        "Dr. Harad",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So umm, when I was in the shower I was thinking about our first night in London...",
+      "characters": [
+        "Earl",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh! Y'know what? If we made reservations, we could have unagi in about a half-hour.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hi! Yeah, I'm calling on behalf of Monica Geller's eye, and is um, is Richard Burke in today. He's out of town, but does she want to see the on-call doctor?",
+      "characters": [
+        "Jill Goodacre",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What are you going to do? Kill him? Like you did with Charles?!",
+      "characters": [
+        "Dina",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Dina"
+    }
+  ]
+}

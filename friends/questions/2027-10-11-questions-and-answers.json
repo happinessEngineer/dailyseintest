@@ -1,0 +1,106 @@
+{
+  "gameNumber": 992,
+  "date": "2027-10-11",
+  "questions": [
+    {
+      "quote": "Oh you know uh Kash, really liked you the other day. He said he thought you were charming.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "oh boy you got mad at that part. I went over there to tell him how great you are but you know me BLAH, BLAH, BLAH, and I ended up telling him that.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, look who's here! It's Joey, and he brought home a friend.",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Rachel",
+        "Sandy"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wow, you know what? That is the best fake speech I think I've ever heard.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! Chef Geller! Y'know that little speech you made the other day? Well I got a problem with it!",
+      "characters": [
+        "Joey",
+        "The Director",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey! Joey said no autographs! But if she's gettting one, then I want one too: To Monica. And none of this \"best wishes\" crap. I want \"love\".",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm sorry, okay, I-I wasn't looking, and the store says that they won't take it back because you signed for it...",
+      "characters": [
+        "Mr. Douglas",
+        "Monica",
+        "Sandy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It is beautiful, but I'm gonna use this one. Now, if you'll excuse me.",
+      "characters": [
+        "Monica",
+        "Customer",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Customer"
+    },
+    {
+      "quote": "But what choice did I have. He was keeping my sister in a dungeon!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

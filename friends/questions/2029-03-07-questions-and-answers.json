@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1505,
+  "date": "2029-03-07",
+  "questions": [
+    {
+      "quote": "Gauze! Gauze! I need to get some gauze in here! Can I please get some gauze in here! Whew! This is getting ridiculous uh!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I uh, I can't seem to find the monkey I donated last year. He's a capuchan, answers to the name Marcel.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "The Interviewer",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So your first whole weekend without Ben, what're you guys gonna do?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's very interesting, ya know, 'cause that's exactly what someone who slept with her would say.",
+      "characters": [
+        "Eddie Menuek",
+        "Ross",
+        "Ursula",
+        "Erica Ford"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "No, that was my way of telling you. Well, it turns out he's incredibly sensitive, he keeps a journal and he paints. He even showed me charcoal drawings that he drew of me.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Kathy"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "My brother's going through that right now, he's such a mess. How did you get through it?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Who's the bitterest man in the living room, the bitterest man in the living room? Hi, neighbor.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, listen, hey, Ross. Why don't you try to relax, okay? Maybe have a drink.",
+      "characters": [
+        "The Casting Director",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So how are you? I've been meaning to ring you ever since I arrived but umm, well, I've been rather busy.",
+      "characters": [
+        "Ginger",
+        "Emily Waltham",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "No, no. Listen, Ross is too nice to say anything, but this is his apartment, and, and, we gotta have some boundaries, so why don't you go back to your place and give us some privacy?",
+      "characters": [
+        "Mona",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Mona"
+    }
+  ]
+}

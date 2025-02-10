@@ -1,0 +1,106 @@
+{
+  "gameNumber": 726,
+  "date": "2027-01-18",
+  "questions": [
+    {
+      "quote": "Listen, um honey, I appreciate this but you don't have to keep hanging out with them for me, I mean, they have each other.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! He has a name, it's Dragon. Do you wanna know your name? Check your hat. We did the hat right?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "The Waiter"
+      ],
+      "correctAnswer": "The Waiter"
+    },
+    {
+      "quote": "This baby has got everything. Take y'know, locations for instance. First, organized alphabetically, then geographically, then by square footage.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "He-he was with me umm, we're playing a little game, y'know? Hide and seek.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Listen. Listen. Smelly cat, smelly cat, what are they feeding you?",
+      "characters": [
+        "Rachel",
+        "Amy Green",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uh, Delaware. She's on her way though, so until she gets here, I'm gonna be your coach. But don't worry, she told me all about the la-Mazada stuff.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Good! Me neither! So it's not a problem. We're just two friends who happen to be roommates.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Woman"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, well, this is crazy. Can't seriously be talking about me taking one of your kids, can we?",
+      "characters": [
+        "Phoebe",
+        "Emily Waltham",
+        "Rachel",
+        "Gunther"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Whoo, whoo. Wow, it's uhm... kinda weird that I'm sitting next to Charlie after we broke up.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh and it was great to see you too. And you look fantastic, although you missed a button.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

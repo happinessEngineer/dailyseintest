@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1246,
+  "date": "2028-06-21",
+  "questions": [
+    {
+      "quote": "Ok, Janice. Janice. You gotta give me Janice. That wasn't about being picky.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, um, no, no, no, no excuse me, hello. Hi. My friend ordered an onion, not an olive, and uh I ordered a rum and Diet Coke, which I don't think this is.",
+      "characters": [
+        "Monica",
+        "Richard Burke",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know. They-they must be your mother's, but please, please don't ask her. I'll throw these away.",
+      "characters": [
+        "Jack Geller",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Jen, I know this may sound a little... But uh, would you maybe wanna grab a cup of coffee sometime, or...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and...",
+      "characters": [
+        "Chandler",
+        "Janine Lecroix",
+        "Joey",
+        "Erica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, y'know what? Don't worry, okay? We'll take care of it. We'll call her. Just go home and get ready.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, so uh, y'know how there's something I wanted to talk to you about?",
+      "characters": [
+        "Monica",
+        "Erica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, it's not bad. It's not bad at all. It's-it's really nice.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, sure, she was probably up all night, excited about the party she knows is happening.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Woman"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Benjamin Hobart",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

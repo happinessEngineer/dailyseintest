@@ -1,0 +1,106 @@
+{
+  "gameNumber": 647,
+  "date": "2026-10-31",
+  "questions": [
+    {
+      "quote": "Oh, that'd be great! Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, and Monica gets to keep her? In her house? I am so jealous!",
+      "characters": [
+        "Monica",
+        "Mike Hannigan",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! I'm just pretending to watch the game so I don't have to help out with stuff.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I loved the moment when you first saw the giant dog shadow all over the park.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! No! Not-I don't mean I-I see her as a twelve-year-old girl! I mean I-I have a son, who's umm six and I still think of him as a baby.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Mona",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Look this is starting to look really bad for me. Okay? Mona, Mona's standing right over there. Oh God, she's talking to Joey! You gotta let me win!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I've probably been talking too much. Why don't we talk about you a little bit?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Hillary"
+      ],
+      "correctAnswer": "Hillary"
+    },
+    {
+      "quote": "Yeah, y'know when we found out we were going to have a baby, y'know I figured y'know like I should y'know have like a career-and I love refrigerators!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Joey"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Listen I uh... It's a scary world out there especially if you're a single mom. Y'know, I always felt like you and I have this-this special bond. Y'know? So, Rachel Green will you marry me?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, he said there's definitely nothing to worry about, it's totally benign.",
+      "characters": [
+        "Ross",
+        "Erica",
+        "Chandler",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

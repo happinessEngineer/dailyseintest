@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1184,
+  "date": "2028-04-20",
+  "questions": [
+    {
+      "quote": "It's really fulfilling doing something you hate for no money. That's right. I have no money, I'm not funny, I live in a studio apartment with two other guys, and I'm pretty sure I'm infertile.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Steve"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "Fine, I'll rent a car and drive...! Ross, you have to get that job!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So when I came in here to see if you wanted to maybe start things up again, you were engaged to my best friend.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You guys kissed!!!!! What does this mean?!! Are you, are you getting back together?! Can I sing at your wedding?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "None. But if there was something you wanted to tell us, we're just gonna be right over there having coffee.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Alice Knight"
+      ],
+      "correctAnswer": "Alice Knight"
+    },
+    {
+      "quote": "Yeah, if you get married in Vegas, you're only married in Vegas.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, she's got to go back to London. But you know what? I've been prepared for this from the start. We both knew we had two weeks together, and that's it. Y'know.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on! The boss that fires a guy that's just been dumped, bitch! And the woman who dumps a guy that's just been fired, blond bitch!",
+      "characters": [
+        "Rachel",
+        "Jack Geller",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This is not out of the blue, this is smack dab in the middle of the blue.",
+      "characters": [
+        "Chandler",
+        "Lydia",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I uhm... Well, I sang... well actually I rapped... Baby Got Back...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

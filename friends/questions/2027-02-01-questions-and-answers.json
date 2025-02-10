@@ -1,0 +1,106 @@
+{
+  "gameNumber": 740,
+  "date": "2027-02-01",
+  "questions": [
+    {
+      "quote": "Please! Are you kidding? I-I hurt three huge men, I gave a guy a bloody nose-I mean I-I'm not proud of it but, I really am. And it's all because of you, wonderful, amazing you.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Paul Stevens",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "On Melanie Griffith in \"Working girl\". I think what you want is over here.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You're Elizabeth's father, huh? I can see now where she gets her rugged handsomeness.",
+      "characters": [
+        "Mindy Hunter",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh thanks, but listen, I was just at Monica's and she and Chandler had a big fight and they're not moving in.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Amy Green"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, what about that guy over there? Remember? That is the guy you flirted with at the counter that time.",
+      "characters": [
+        "Rachel",
+        "Mr. Treeger",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Alright, Monica dear, I'm gonna hit the road. Now I've left my 10 verbs on the table. And you be sure and send me that finished poem.",
+      "characters": [
+        "Sandra Green",
+        "Chandler",
+        "Phoebe",
+        "Russ"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "All right, there's a nuclear holocaust, I'm the last man on Earth. Would you go out with me?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ahh, thanks but no. You see I-I think I'm ready to dance with girls.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Mr. Treeger",
+        "Chandler"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Oh, ha-ha-ha! Ooh! Wait a minute, I used to get medical experiments down on me all the time!",
+      "characters": [
+        "Roger",
+        "Chandler",
+        "Joey",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Great, all right, okay, and Monica ask me to make the drumming stop.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Dr. Drake Ramoray",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

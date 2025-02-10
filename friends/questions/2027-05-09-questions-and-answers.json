@@ -1,0 +1,106 @@
+{
+  "gameNumber": 837,
+  "date": "2027-05-09",
+  "questions": [
+    {
+      "quote": "I mean, the giant is like five years younger than me, y'know, you think I'll ever get there?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look, all we're trying to say is, don't let what happened with Carol ruin what you got with Emily.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thank you. Wait-wait-wait-wait, you see me again. Hang on, the guy's butt's blockin' me. There I am, there I am, there I am, there I am, there I am...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well ah, the short version is, I ah pursued her for a couple of months, then I gave her a check for 20,000 dollars, and she was mine.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Judy Geller",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Honey, what is the Bruce Springsteen CD in the Kat Stevens case?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! Oh, I'm so glad you guys are here. I've been dying to tell someone what happened in the Paleontology department today.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, you can not tell Chandler. Okay? That I ran into Richard.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "If I had one wish, it would be to build a time machine, go back to when I was 7, when Jimmy Hauser had the chicken pox. I would grab that kid and rub him all over my face.",
+      "characters": [
+        "Joshua Burgin",
+        "Judy Geller",
+        "Mike Hannigan",
+        "Ryan"
+      ],
+      "correctAnswer": "Ryan"
+    },
+    {
+      "quote": "Yeah-yeah, I noticed that! Is that 'cause she's so passionate?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

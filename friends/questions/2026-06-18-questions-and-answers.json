@@ -1,0 +1,106 @@
+{
+  "gameNumber": 512,
+  "date": "2026-06-18",
+  "questions": [
+    {
+      "quote": "Well, she's just so much fun with Joey, I just assumed, she'd still be living with him.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Fine, fine okay. But I gotta say technically, I didn't even do anything wrong.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Amy Green",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! You already got the first class tickets; you got the lounge! I mean we should get free stuff too! I mean you're not the only ones on your honeymoon!",
+      "characters": [
+        "Michelle",
+        "Joey",
+        "Alice Knight",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, we're really not that close. Okay, so I guess this is uh, good-bye then.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "If marriage worked, I'd be all for it. But do you know what the divorce rate in this country is? 97%.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's Great. You know we don't need to talk about this now. Really, I mean this is, is so way, way, way, in the future, I'm talkin' hovercrafts and apes taking over the planet.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Amanda Buffamonteezi",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, we were gonna give fifty, but if you guys gave more, we don't wanna look bad.",
+      "characters": [
+        "Tag Jones",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey Joey! Isn't that the girl that waved at you the other day?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1238,
+  "date": "2028-06-13",
+  "questions": [
+    {
+      "quote": "You're the most wonderful man. And if you hadn't of said 'if I have to' like seventeen times, then I'd be saying 'okay, let's do it.'",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't-Look I don't know what you're complaining about now? You were both aware of the situation!",
+      "characters": [
+        "Gunther",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well look-look, okay Ross, Kyle just told me some really bad stuff about her.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Judy Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You said that you paid all that money because those boots go with skirts, dresses, and pants!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "About a month ago this guy spent the night with Rachel, I didn't see who it was but...",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, listen. I'm never going to lie to you again, okay? And I want you to know that nobody thinks you're stupid.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry, they were just all coming at me, and I didn't know what to do.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Jade",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Which-which sister is this? Is this the spoiled one or that's bitter?",
+      "characters": [
+        "Rachel",
+        "Dana Keystone",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Um, well, get over it. So, I mean you, you just seem to be a really nice guy, you know. Don't be so hard on yourself okay.",
+      "characters": [
+        "Richard Burke",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm not freaking out, I'm just saying, if somebody had come to me with the idea andndash;",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 422,
+  "date": "2026-03-20",
+  "questions": [
+    {
+      "quote": "Y'know what? That's a lot to remember, can't I just tell her you're a pig?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Robert Bobby"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! Yeah. They're...they're-they're my friends, uh, Monica Stephanopolus and uh, and Chandler Acidofolus.",
+      "characters": [
+        "Doug",
+        "Rachel",
+        "Chandler",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, it's not out here. Is there any chance it could be in your office?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Sorry Frank, I'm kinda in the middle of the last favor you asked me to do.",
+      "characters": [
+        "Judy Geller",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's right! He was hitting on her, and I got her. I guess the better man won. Please don't take her from me.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Nurse"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no! No! It's actually-it's very sweet. It's very sweet. Look! Yeah, do you want it?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on apartment! Come on apartment! Oh! I know queen is high!",
+      "characters": [
+        "Chandler",
+        "Peter Becker",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's me. Ron. Look, I um, I now Rachel turned you down but I think there is a way you might be able to get her to come back.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Kathy"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Rach, you don't have to call whenever you have a little question, okay? Trust me, I know this.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, you know what you should do? You should walk all the way at the top of Statue of Liberty.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Amanda Buffamonteezi",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

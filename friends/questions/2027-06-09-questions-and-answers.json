@@ -1,0 +1,106 @@
+{
+  "gameNumber": 868,
+  "date": "2027-06-09",
+  "questions": [
+    {
+      "quote": "Well, it's pretty much the gist. Well, except for the poem. You read the poem, right?",
+      "characters": [
+        "Charlie Wheeler",
+        "Rachel",
+        "Monica",
+        "Ursula Buffay"
+      ],
+      "correctAnswer": "Ursula Buffay"
+    },
+    {
+      "quote": "Ooh, God, it's him! It's that cop! God, I can't believe it! He found me!",
+      "characters": [
+        "Phoebe",
+        "Paul Stevens",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "God, Ross, look, what you and I have is special, all Paolo and I ever had was...",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Judy Geller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah. Yeah, I-I-I see the scare. Listen, Paul, I think this is really great that-that y'know, you shared your feelings. It's really, it's beautiful, but umm, what do you say we go share some food?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Doctor"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Days Of Our Lives. Anyway, you're not gonna believe it! My character is coming out of his coma!!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can't believe this! I shouldn't be the one making her throw up!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "See what happens when you give people advice? I hope you told him not to?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Don"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You guys, just please.. a little bit longer. I promise, Rachel will be back with the cake any minute. Monica, remember.. the frosting? huh?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Fake Monica",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What?! What?! He was trying to cheer me up! My pony was sick.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "well, now, wait a second, who did I just put as my \"In case of emergency\" person?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

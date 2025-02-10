@@ -1,0 +1,106 @@
+{
+  "gameNumber": 438,
+  "date": "2026-04-05",
+  "questions": [
+    {
+      "quote": "Your Fettuccini Alfredo looks a little dry, did you use all your cheese?",
+      "characters": [
+        "Ross",
+        "The Cooking Teacher",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "The Cooking Teacher"
+    },
+    {
+      "quote": "Hello? Yes, she is, hold on a second, please. Monana, it's for you, the credit card people.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ahh, that's what your Grandmother's hands looked like when we found her.",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Judy Geller"
+    },
+    {
+      "quote": "You kidding? You're the most beautiful woman in most rooms... Whoa! Whoa! Whoa! What's going on? You and I just made out! You and I are making out?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! Yeah! OK! Sure! Look! Can we...can we talk about what happened here last night?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Jack Geller",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's what's weird? Joey, the man's been captain of a cereal for the last 40 years.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, fine! Fine! Have me fired! But uh, I want you to know that you and I are not all that different. I mean, I too am a neat guy.",
+      "characters": [
+        "Ross",
+        "Melissa Warburton",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "For your information, I was staring at her baby. We're about to be parents.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah that's true. Yeah, you love her. You always have. You have a child together. There is no right answer.",
+      "characters": [
+        "Joanna",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sure, because women never like Joey. Y'know, I think he's a virgin.",
+      "characters": [
+        "Ross",
+        "Danny",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

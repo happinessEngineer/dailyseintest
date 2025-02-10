@@ -1,0 +1,106 @@
+{
+  "gameNumber": 757,
+  "date": "2027-02-18",
+  "questions": [
+    {
+      "quote": "Hi, Phoebe! We were just at the drugstore and we got you a little present.",
+      "characters": [
+        "Phoebe",
+        "Alice Knight",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Alice Knight"
+    },
+    {
+      "quote": "Yeah. That's what you really want. Yeah, I don't want to be the reason you're unhappy, that would just make me unhappy, and I really don't want to be the reason I'm unhappy.",
+      "characters": [
+        "Phoebe",
+        "Kim",
+        "Rachel",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I swear I didn't. Hey! Is that why you guys used to go up to your bedroom and lock the door?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm sorry Amber. It's just like Brad to have to have the last word.",
+      "characters": [
+        "Rob",
+        "Dr. Drake Ramoray",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Dr. Drake Ramoray"
+    },
+    {
+      "quote": "Oh that's all right. I'm still full from your homemade potato chips.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I know. I could only think of two names, him and Ed Begley Jr. and then I remembered he's gay.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's old, it's definitely old. Didn't you hear the, the double beep?",
+      "characters": [
+        "Joey",
+        "Amy Green",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey! Monica can be cool and fun at organized indoor projects!",
+      "characters": [
+        "Sarah Tuttle",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, ok, you start preparing the formula and I start changing the box and then we gotta put them straight to bed.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

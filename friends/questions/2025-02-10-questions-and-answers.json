@@ -1,0 +1,106 @@
+{
+  "gameNumber": 19,
+  "date": "2025-02-10",
+  "questions": [
+    {
+      "quote": "Because that's where the party is you goon. See this is just the staging area.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh please! It was such a big class! You never even noticed me!",
+      "characters": [
+        "Phoebe",
+        "Elizabeth Stevens",
+        "Eric",
+        "Fake Monica"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "Absolutely. But, we're gonna stop by the hospital just to be sure, okay? I'll page Ross on the way. Come on.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ma, I don't mean to be disrespectful, but... what the hell are you talking about?! I mean, what about you?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Katie",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oooh, the next part's the best, when that dead lady in the bathtub...",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh no-no-no, Monica would freak. But to hell with that bitch.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait a minute, I know why I'm being such an ass, why are you?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Honey, you know I think you're hilarious! Come on, you know that joke you told me last week? The one about Jerry Lewis and the girl with the lazy eye...? That slayed me.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm sorry, we're just kinda excited because we finally have a couple to hang out with.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But you should eat them now because they're hot from the oven.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

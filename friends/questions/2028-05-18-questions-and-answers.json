@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1212,
+  "date": "2028-05-18",
+  "questions": [
+    {
+      "quote": "I know who it is you remind me of. Evelyn Dermer. 'Course, that's before she got the lousy face lift. Now she looks like Soupy Sales.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "She picked Rachel. I mean, she tried to back out of it, but it was obvious. She picked Rachel.",
+      "characters": [
+        "David",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, no, it's great. It's great. He is... He is an amazing guy.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Charlie Wheeler",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh great now you're seeking me out to make jokes? I mean I can see for all hanging out but to come to my home!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Peter Becker",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh well, um, your, your laundry just smelled so good, that I thought I'd curl up in it. Is that all right?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Guys, give it a rest. Nobody's betting on you tonight. Although we do have a pool going to see how long it takes that guy to cry.",
+      "characters": [
+        "Sandra Green",
+        "Waiter",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "Nope, nope, I'd just ah, I'd rather talk to you. Yes, I do. Yes, I do have to go to the bathroom.",
+      "characters": [
+        "Rachel",
+        "Paul the Wine Guy",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! I do too think about the consequences of my decisions! What gives you the right to... Go to hell! Stupid guy on my phone.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Woman",
+        "Lauren"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Because you're not finished yet and I won't have it! Greens do not quit!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

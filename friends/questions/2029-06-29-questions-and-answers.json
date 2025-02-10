@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1619,
+  "date": "2029-06-29",
+  "questions": [
+    {
+      "quote": "Where's my granddaughter? I've been practicing my magic tricks.",
+      "characters": [
+        "Jack Geller",
+        "Chandler",
+        "Guy",
+        "Ross"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Oh, hey, hey, can I give you guys your house-warming present now?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh come on Ross, why are we wasting our time with this other stuff?! We know what's gonna work! It's doctor recommended!",
+      "characters": [
+        "Eric",
+        "Danny",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, it's your mother's bridge night so I thought that I would come into the city for a little Monicuddle. Since when did you start smoking cigars?",
+      "characters": [
+        "Jack Geller",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Just... seeing what it'd be like to be a paleontologist... it's fun, yeah!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Inside of telling us you decided to write in your stupid book!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Woman",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "They go on one date and you're worried about them getting married?! He's not you!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, that's my stepdad. My real dad's the one that ran out on us before I was born.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, you hide my clothes. I'm gonna do the exact opposite to you.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And it has to go perfectly, because if she doesn't like something about us she can keep us off every adoption list in the state.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

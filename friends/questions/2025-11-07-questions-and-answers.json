@@ -1,0 +1,106 @@
+{
+  "gameNumber": 289,
+  "date": "2025-11-07",
+  "questions": [
+    {
+      "quote": "Yeah, but he did have to have a bunch of stitches and he said that only once in a blue moon does a dog's ear grow back so...still hoping.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, I just mean that, you know, first impressions don't mean anything. And I-I think you're a really good guy and I'm sorry that I misjudged you.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, we are fond of the silliness, but we also have a soft spot for the love.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Alright look Ross I'll give you 50 dollars for your underpants.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, it was accident! Okay? I-I feel bad that it happened, but I swear, I didn't even watch it! Anyway, here. I thought you might be more comfortable destroying it yourself.",
+      "characters": [
+        "Chandler",
+        "Joanna",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What are you talking about Pheebs? I don't... Oh my God, you drew on me?!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Street noise drowned any of that out? No, all right, I see you later, okay...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "well, well, well it must be five in Tulsa because it's six o clock IN NY.C!",
+      "characters": [
+        "Ross",
+        "Woman",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We were wondering what was taking so long with the gift, but now we understand you were doing this.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, Phoebe, are you still on hold? I was supposed to call my Dad back like two hours ago.",
+      "characters": [
+        "Chandler",
+        "Gunther",
+        "Rachel",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

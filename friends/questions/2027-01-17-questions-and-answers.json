@@ -1,0 +1,106 @@
+{
+  "gameNumber": 725,
+  "date": "2027-01-17",
+  "questions": [
+    {
+      "quote": "Oh my God! That's huge! Wait a minute, why come I wasn't invited? And who was going to be your best man? Don't say, \"Ross.\" Do not say, \"Ross.\"",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, there's this, uh, paleontology conference in L.A. so I figured I'd go and then drive down to the zoo and surprise Marcel.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay pepperoni, pepperoni, pepperoni, okay Ross, I know she's pretty and you love her, but is she stupid?! She forgot my vegetarian!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay. Now this is just for tonight. Starting tomorrow, you gotta make a change. This has gone on long enough.",
+      "characters": [
+        "Woman",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So where are we on the whole going back to the place where they have all the marriages thing? I love you.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We're gonna be all right. I mean, even if we're not married this baby is gonna be so loved. Not just by us.",
+      "characters": [
+        "Phoebe",
+        "Dina",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Dina"
+    },
+    {
+      "quote": "Honey, we've been trying to have a baby for over a year. I think it's a good idea to find out if everything's ok. Just a few routine tests.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I was tryin' to make a sale!! Oh, man, if I ever run into that guy again, do you know what I'm gonna do?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "And last year is that why you sent us to that medieval times restaurant?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

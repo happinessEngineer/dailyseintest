@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1439,
+  "date": "2028-12-31",
+  "questions": [
+    {
+      "quote": "Well, I couldn't do it. I told her I didn't want to get the part that way.",
+      "characters": [
+        "Amy Green",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look, I know I feel asleep before I could shower and now I don't have time! They're just ten blocks away, if I run, I can make it.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Mr. Treeger",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Absolutely, this will just be something we do, like racquetball.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Well, on the bright side, now you won't have to see all these paleontologists with their shirts off. Not you guys. You got it going on!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, now? No, no, I think something this nice should be saved for a special occasion.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Cop",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, ok, ok, I will, I will, I, hey, I will clean the apartment for two months.",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, credit card. Oh no! No-no, but I left my credit card with Joey. Okay, I'll go get it. You guard the ring.",
+      "characters": [
+        "Chandler",
+        "Paul Stevens",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Monica and I were talking about who could kick whose ass in a fight, you or Ross?",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well umm, oh! I might be teaching another class this semester!",
+      "characters": [
+        "Monica",
+        "Charlie Wheeler",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, what I really want is for my mom to be alive and enjoy it with me.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Julie"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

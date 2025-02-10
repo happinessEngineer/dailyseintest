@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1008,
+  "date": "2027-10-27",
+  "questions": [
+    {
+      "quote": "Guess who's a finalist for a huge research grant! I'll give you a hint, he's looking right at you.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "well then I didn't need to bother you or the four other Mike Hanagens I bothered.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ahh, hi! Hi! Melissa, what's up? I'm just uh, about to umm, go out to the store to get some stuff to put in my backpack. Y'know, like dried fruit and granola and stuff. What's up?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ohh, she's pretty. Pretty ahh, pretty girl, the pretty--she's pretty.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I almost don't want to show this. Just remember I'm a minute younger.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, Mike, I don't want to kill him! I thought we were just gonna capture him and, and you know, set him free in the country side where he can maybe meet a friendly possom and a wisecracking owl.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Damnit woman we're losing precious time! Now do you want this man's blood on your head?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "If you guys feel this big, maybe that's not our fault. Maybe that's just how you feel.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Benjamin Hobart",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Aw, my little nephew. Come here, little one. There's my little baby Ben. Hey, my little boy. Hey, he's not crying.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Peter Becker",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You could get arrested, right now! All right, yeah, I gotta take it back. I'm totally drunk with power.",
+      "characters": [
+        "Phoebe",
+        "Tag Jones",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

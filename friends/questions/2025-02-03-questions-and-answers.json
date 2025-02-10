@@ -1,0 +1,106 @@
+{
+  "gameNumber": 12,
+  "date": "2025-02-03",
+  "questions": [
+    {
+      "quote": "Well, I can't do everything! Look back over your time together.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I didn't tell him. I didn't know if you were telling people. This is back when I thought Kash was still people.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What are you talkin' about? I never left you! You've always been my agent!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Hayley"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, you can't say you're breezy, that, that totally negates the breezy.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "The Director",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Nope! Because I'm not your boyfriend. Hey Pheebs, how did it go?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It was great! It was great! How about you?! I mean you're having a baby!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I have an appointment to see Dr. Robert Pillman, career counselor a-gogo. I added the \"a-gogo.\"",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Then he comes over! \"I'm so worried about you.\" Uck! Be a man!",
+      "characters": [
+        "Susan Bunch",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know, it's funny. Every time you say \"triplets,\" I immediately think of three hot blonde 19-year olds.",
+      "characters": [
+        "Joey",
+        "Gunther",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it's poker, so only guys can play?",
+      "characters": [
+        "Mr. Treeger",
+        "Chandler",
+        "Tag Jones",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

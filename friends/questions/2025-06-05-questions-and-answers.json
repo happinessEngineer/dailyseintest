@@ -1,0 +1,106 @@
+{
+  "gameNumber": 134,
+  "date": "2025-06-05",
+  "questions": [
+    {
+      "quote": "Alright, you know what? You're right. I should at least tell her how I feel.",
+      "characters": [
+        "Elizabeth Stevens",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, Rach, you know what? I think, I think I know what'll make you feel better. How 'bout you make a list about me.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Dr. Ledbetter"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler, this is crazy! What did you even say to him! \"Come up, meet my wife! Give us your sperm\"!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Frank Buffay Jr.",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh no no no no no, Gavin can't, he already has plans, most likely with his mother.",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, I wish. No, you know he was just trying Ross's Hug and Roll thing.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Oh honey, this is for the best, thus I'm not distracted, worrying about Emma, how she's doing at home and I'm being completely here with you and, oh, she spit up!",
+      "characters": [
+        "Rachel",
+        "Agency Guy",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.",
+      "characters": [
+        "Girl",
+        "Phoebe Abbott",
+        "Janice",
+        "Ross"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Hey, maybe I can fix that, you know. Try to turn it into something else.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well maybe she and her friends are just having a contest to see who can bring home the biggest geek.",
+      "characters": [
+        "Gunther",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! Oh and interesting because I found the cameras in one of our bags!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

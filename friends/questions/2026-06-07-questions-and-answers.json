@@ -1,0 +1,106 @@
+{
+  "gameNumber": 501,
+  "date": "2026-06-07",
+  "questions": [
+    {
+      "quote": "Maybe. But that doesnt explain why they keep taking my scissors.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Nina Bookbinder"
+      ],
+      "correctAnswer": "Nina Bookbinder"
+    },
+    {
+      "quote": "Wait. Before we go in, I just want you to know I love you. I had a great time on our honeymoon, and I can't wait to go in there and spend the rest of our life together.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I figured you guys would all be mad at me. So I got you some gifts that I found on the side of the road. Who wants the teddy bear with one leg?",
+      "characters": [
+        "Jack Geller",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, there isn't time to go to the bakery. We're just gonna come home... Everybody left? Alright, well just tell Emma we're gonna be there as soon as we can. Bye...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So, you know I'm filling in for Phoebe's step dad, tomorrow, right?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So, uh, this guy, she used to go out with, is, uh... is he still in love with her?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, we switched meat suppliers at work, and the new guys gave me the steaks as sort of a thank-you.",
+      "characters": [
+        "Joey",
+        "Bonnie",
+        "Estelle Leonard",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wow! All right well, I mean, what can you do? If you lost it you lost it.",
+      "characters": [
+        "Alice Knight",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Kate Miller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, well, we have to celebrate. You know what we should do? We should do, like, a soap opera theme.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "The Director"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

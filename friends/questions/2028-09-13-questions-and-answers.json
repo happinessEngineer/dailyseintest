@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1330,
+  "date": "2028-09-13",
+  "questions": [
+    {
+      "quote": "Wow. So, okay, maybe that means that, you're not over Ross yet and you have issues with your father.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Michelle",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. God y'know, if someone told me a week ago that I would be peeing in Joey Tribbiani's apartment...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Umm, he said he thought I was funny. So... Okay, look-look umm, let's just go downstairs, we'll have some fun, and you will forget all about it.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I know we're not, but Frank Medeio and... Eva Trorro... womba...",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God! Joey, what did you do after you threw her leg on the fire?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God, you guys, what am I doing? What am I doing? This is so un-me!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, Ross, he's just... Sandy is just sensitive, that's all.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "#ALL#"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, good stuff. Umm, well she's-she's sweet and pretty and...",
+      "characters": [
+        "Ross",
+        "Kathy",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, honey, honey, tell them the story about your patient who thinks things are, like, other things. Y'know? Like, the phone rings and she takes a shower.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

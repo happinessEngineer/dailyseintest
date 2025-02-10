@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1532,
+  "date": "2029-04-03",
+  "questions": [
+    {
+      "quote": "I... I don't know if that changes your plans at all, but I thought you should know.",
+      "characters": [
+        "Gunther",
+        "Benjamin Hobart",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "I think we'll be okay. Besides it's so perfect and she's been saving herself for me.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Eric"
+      ],
+      "correctAnswer": "Eric"
+    },
+    {
+      "quote": "Y'know Monica you had a minor setback in your relationship with Chandler. Big deal! It's only Chandler. I am so sorry.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I-I... Oh I...I just wanna say uhm... if you do ever come to Minsk, that's my number We'll uhm... we'll party up Vladnik style.",
+      "characters": [
+        "David",
+        "Monica",
+        "Bobby Rush",
+        "Phoebe"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "There you go! Good for you! And you know what, I'm actually getting used to this little guy. I don't really even feel him in here anymore.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Carol",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You were not supposed to hear that! I said that behind you back!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Frank Buffay Sr.",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Exactly how contagious is this thing you have? I mean is it a cold for standing on the balcony or did a monkey bite you?",
+      "characters": [
+        "Gavin Mitchell",
+        "Chandler",
+        "Phoebe",
+        "Doug"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Well that-y'know it's just uh, I've never done that before. Me and him alone.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh No-no-no-no-no-no-no! He went over to Ross' to bring the dog back here!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

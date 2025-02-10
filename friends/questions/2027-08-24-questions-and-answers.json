@@ -1,0 +1,106 @@
+{
+  "gameNumber": 944,
+  "date": "2027-08-24",
+  "questions": [
+    {
+      "quote": "Just the one divorce in '99! Y'know what, I am gonna be happy this year. I am gonna make myself happy.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Don't get too cocky! Remember I won the last one! Oh, by the way, how did that feel, losing to a girl?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Cassie Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's it? You're-you're gonna let me do this?! This-this is my career we're talking about here!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What are you reading? The Kidnappers Guide to Manhattan Private Schools?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Mona"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh right, 'cause you always pull your pants down at the count of three and play Wipe-out on your butt cheeks.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Richard Burke",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, sure. Well y'know, earlier she was talking about geography.",
+      "characters": [
+        "The Stripper",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Paolo, I-I just want to tell you and I think I speak for everyone when I say...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Billy"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What the hell is this?! What, did you actually thought it would make me feel better to give me stuff that I can't use for another two months?! This sucks! All right, what's my next present?!",
+      "characters": [
+        "Ryan",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey... Hi you guys! Listen, you know what? I'm not feeling really well. I think I can't get out for the play.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "yeah and hey thanks again for letting me having that last piece of cake at the restaurant.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

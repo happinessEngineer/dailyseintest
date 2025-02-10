@@ -1,0 +1,106 @@
+{
+  "gameNumber": 586,
+  "date": "2026-08-31",
+  "questions": [
+    {
+      "quote": "Well, I came with Rachel, who should be back any second! So what's new?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "This is not, what I'm wearing. I'm ovulating and Chandler's gonna be home any minute, so I thought we would try before dinner.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, then you should come tonight. You know, just hang out with them. Let them see what a great guy you still are.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but the important thing to know about us, is how much we would care for this little baby.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But kids are so intuitive. Don't you think on some level he already knows?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No but, why does that have to be a bad thing. Just change what it means. Y'know? Go down there and prove your Mother wrong. Finish the job you were hired to do, and we'll call that pulling a Monica.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh. Yeah. Well.. You didn't come see me when I was in the hospital when I was getting my lips done.",
+      "characters": [
+        "Amy Green",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "See what? I don't know what she sees in... innn that goober. And it takes him, what? Like... like... I don't know, uhh... uhhh, hello.... a... week, to get out a sentence.",
+      "characters": [
+        "Ross",
+        "Charlie Wheeler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Damn those robots, they're supposed to be our faithful servants!",
+      "characters": [
+        "Steve",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't believe this. Is this how this relationship's gonna work? Ross equals boss. I mean, c'mon what is this, 1922?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

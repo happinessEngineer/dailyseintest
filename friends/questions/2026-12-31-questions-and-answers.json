@@ -1,0 +1,106 @@
+{
+  "gameNumber": 708,
+  "date": "2026-12-31",
+  "questions": [
+    {
+      "quote": "Oh, I know it. You're right. That's not sexy. Oh...Oh! Whoops! Oh, I seem to have dropped my fork. Let me just bed over and get it. Oh God!",
+      "characters": [
+        "Katie",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh alright. Umm, well, okay, I usually start by having a bottle of wine sent to my table from a fan.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Is this because I come over here without knocking and eat your food? Because I can stop doing that, I really, really think I can!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Joanna",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All good, thanks. Do you maybe have a nickname have like a nickname that's easier to rhyme?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I told you you were a bath person! Hey, when you get out, maybe I can give you a facial!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Interviewer"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, not so tight... I'm sorry, just give me one more chance.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know, I get it, but Mona, what relationship is not complicated? I mean we all have our baggage! You must too! Why else would you still be single? I am so gonna leave right now.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh hey, you guys, look! Ugly Naked Guy is putting stuff in boxes!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Leonard Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "This is for the scratchy twins out there. I taped oven mits to their hands.",
+      "characters": [
+        "Monica",
+        "Leslie",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Do you ever worry that you'll be walking and your baby will just like slip out?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Dina",
+        "Phoebe"
+      ],
+      "correctAnswer": "Dina"
+    }
+  ]
+}

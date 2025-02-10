@@ -1,0 +1,106 @@
+{
+  "gameNumber": 800,
+  "date": "2027-04-02",
+  "questions": [
+    {
+      "quote": "Well, I wanted to be thorough. I mean this-this is clearly very, very important to you, to us! And so I wanted to read every word carefully, twice!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Angela Delveccio"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I can't say, I just thought it was really good... and... maybe would be worth something some day.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, it all comes down to this. Whatever happens, happens. Destiny.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, you're right! I was just kidding about Rachel. Babysitting is a gas!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Becasue at first he thought it was Joseph. But after he asked Joseph about it, turns out it was you. Anyway, I just thought you should know.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's all right, we-we don't need you. In fact, hey I'm over it already.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, ah, isn't there another professor that is supposed to come with us?",
+      "characters": [
+        "Charlie Wheeler",
+        "Phoebe",
+        "Peter Becker",
+        "Chandler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "I am so sick of guys. I don't want to look at another guy, I don't want to think about another guy, I don't even want to be near another guy.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! You don't know the system! There'll be nobody messing with the system!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I knew you'd be so cool about this. All right, ah, hey, do you want to meet her?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    }
+  ]
+}

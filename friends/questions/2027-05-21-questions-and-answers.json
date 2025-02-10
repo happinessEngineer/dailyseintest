@@ -1,0 +1,106 @@
+{
+  "gameNumber": 849,
+  "date": "2027-05-21",
+  "questions": [
+    {
+      "quote": "Okay, I accept that. When Janice asked me and I said no, she took that to mean that I was calling her a cow.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know we should probably ask the doctor if she even knows how to deliver a baby that's half human and half pure evil!",
+      "characters": [
+        "Frank Buffay Sr.",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Rach, get the heat. Ross, could you turn the heat down please?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, that's great, but can we make it smaller? Can we make it fit on the head of a pin? I love when we make things fit on the head of a pin.",
+      "characters": [
+        "Benjamin Hobart",
+        "Janice",
+        "Peter Becker",
+        "Ross"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Yeah, it'll be fun. We'll run in the park. It'll be like our first y'know roommate bonding thing.",
+      "characters": [
+        "Susie Moss",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay fine! I'm a seven! All right, I have surprisingly small feet. But the rest of me is good, I'll show ya!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, it's not a part, no. I'm teaching acting for soap operas down at the Learning Extension.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "oh I dunno I dunno, you know I mean I like him but am I ready to take my grade a loins off the meat market.",
+      "characters": [
+        "Joshua Burgin",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "We're going to Everest! Okay, it would be nice to leave an ass print on Everest!",
+      "characters": [
+        "Jack Geller",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'll get it. Hello. Hi Emily! Yeah, uh you-you tracked him down. Hold on one second.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Elizabeth Stevens",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

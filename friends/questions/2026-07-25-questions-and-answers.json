@@ -1,0 +1,106 @@
+{
+  "gameNumber": 549,
+  "date": "2026-07-25",
+  "questions": [
+    {
+      "quote": "Oh, ain't this nice? It's so quiet, I could just lie here all day.",
+      "characters": [
+        "Sandra Green",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, the first time didn't really count... I mean, y'know, 's'Barry.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Whoa, wait, Pheebs, wait a second! Don't you wanna stay here and talk about it?",
+      "characters": [
+        "Julie",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Clearly I did not start drinking enough at the start of the meal.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yes! Remember? Right before we cut the cake, I went up to you and I said...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ah, y-y-you're sure you don't want me to do it again? I could do it with an accent, you know, Southern \"I could go right now, maaan!\"",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. Sorry about that. Oh, hey little girl. Uhh, is-is your mommy, or sister, or babysitter by any chance a hot girl?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, see, see, you guys, what if we don't get magic beans? I mean, what if all we've got are.. beans?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know, I know I really like you too. But we-we can't date. It's against the rules. It's forbidden.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, uh, let's try one more. . . there you go, say Ernie's, 8 o'clock.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Lauren"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

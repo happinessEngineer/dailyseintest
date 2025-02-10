@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1302,
+  "date": "2028-08-16",
+  "questions": [
+    {
+      "quote": "All right, y'know what? If you don't want to believe me about this, why don't you just come with me to dinner tonight and she will tell you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! No-no! I love it! It is a great present! In fact, why don't you go home and wait for the thank you card?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Pete the Weeper? Remember that guy who used to cry every time we had sex. \"Was it good for you?\"",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Stephen Waltham",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh Emma. This is going to be your first Thanksgiving. What are you thankful for? Mommy's bobbies.",
+      "characters": [
+        "Charlie Wheeler",
+        "Jill Green",
+        "Rachel",
+        "Joey Tribbiani Sr."
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my god! Look, it's Ross and Rachel. Oh, the plan is working.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Emily Waltham",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, our news. My company has asked me to head up our office in Tulsa , so as of Monday I'm being officially relocated.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, I'm sorry. I'm sorry I didn't tell you but you were so mad already!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "The big deal is I was sitting there last, so, that's my seat.",
+      "characters": [
+        "Ursula",
+        "Judy Geller",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, one man for the rest of my life? I don't know if I can do it! This means I'll never get to sleep with Joey!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Judy Geller",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I ended up at Ross's place. Oh, I musta missed counted or something. Damn! She's not there anymore. Oh, l-l-look, Ross is doing his 'Watching TV' bit.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

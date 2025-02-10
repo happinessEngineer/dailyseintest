@@ -1,0 +1,106 @@
+{
+  "gameNumber": 588,
+  "date": "2026-09-02",
+  "questions": [
+    {
+      "quote": "No, no, no. Don't do that! I want you to look her in the eyes, and tell her the truth.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "The Doctor"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no-no Rach, please, don't be sorry. Okay? Don't be sorry. Y'know I was only kidding you.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So! Ross doesn't really decorate his tree with floss, but you don't hear him complaining do you? God!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's a good idea. I wonder where I could get a basket of porn...",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. Ok, you don't have to believe me but um, can you think of any unfinished business she might have had, like any reason she'd be hanging around?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No can do, like I told the girl, I can't get a new knob until Thursday.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "No-hey-no! If you don't want me to do it, I except that. I don't care about that. I just...I don't want you to be upset.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ha-ha-ha--enh-enh. I'm so glad you guys are all here! My office finally got wrinkle free fax paper!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "OK... my weirdest place would have to be... the women's room on the second floor of the New York CIty public library.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Dr. Franzblau",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I mean, this soap opera is a great gig, but... am I missing opportunities? You know, I've always thought of myself as a serious actor. I mean, should I be trying to do more independent movies?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

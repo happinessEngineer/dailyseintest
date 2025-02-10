@@ -1,0 +1,106 @@
+{
+  "gameNumber": 617,
+  "date": "2026-10-01",
+  "questions": [
+    {
+      "quote": "Okay, let's see, we got strained peas, strained carrots... Ooh! Strained plums. We haven't tried that yet.",
+      "characters": [
+        "Joey",
+        "Elizabeth Stevens",
+        "Chandler",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm sorry it didn't work out between you and me, or you and me. Drew was very disappointed.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Jean-Claude Van Damme"
+      ],
+      "correctAnswer": "Jean-Claude Van Damme"
+    },
+    {
+      "quote": "No! Come on let's-One more time! One final push! Ready? 1...2...3!",
+      "characters": [
+        "Rachel",
+        "Doug",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ross, Rachel doesn't know that you wanna get back together. If she did, she might feel differently. She might not even go.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't get it neither, I mean you're obviously desperate, you're asking women how they want to be killed.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, but how would you like it if someone told the triplets that you gave birth to them?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Elizabeth Stevens",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "-she, of course, she- uh- familiar with our.. special situation?",
+      "characters": [
+        "Earl",
+        "Phoebe",
+        "Mr. Zelner",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.",
+      "characters": [
+        "Ross",
+        "Dr. Franzblau",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, why is it staring at me? I think it knows I'm talking about it. Don't-don't you-Wh-Wha-Hey!!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay Rachel, I can't wait to live with you! And you know what we should do? Bring Monica and then we could all live there together! We'll have so much fun!!",
+      "characters": [
+        "Phoebe",
+        "Dina",
+        "Chandler",
+        "Gary"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

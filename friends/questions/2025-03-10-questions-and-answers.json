@@ -1,0 +1,106 @@
+{
+  "gameNumber": 47,
+  "date": "2025-03-10",
+  "questions": [
+    {
+      "quote": "Okay. Umm, y'know, I don't think, I don't think I told you this, but umm, I just got out of a really serious relationship.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ooh, then I guess the panty raid last night was totally uncalled for. Ok, I am going to take a shower and today I will be singing Jim Crochee's Leroy Brown.",
+      "characters": [
+        "Richard Burke",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Lewis Posin! He was my best friend in fifth grade, and-and then one day I asked him to be my boyfriend and he said no. Do you know why?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Chip Matthews"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, you said I could sing at your wedding so, I'm just gonna need a small deposit.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What 'not work out'? I'm seeing her again on Thursday. Didn't you listen to the story?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "...and the style number, and the invoice number, and the shipping date. Good. Any questions so far?",
+      "characters": [
+        "Chandler",
+        "Mark Robinson",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Mark Robinson"
+    },
+    {
+      "quote": "That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I want you to tell her everything. About the deal you tried to make with me, about the crazy questions you... Wally Cox! That's the voice of Underdog!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No! No-no-no-no-no-no. It sounds like they really need you down there.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wow, hey, we'd better get going. If we don't leave right now, we'll be late for dinner.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

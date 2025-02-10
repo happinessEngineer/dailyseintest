@@ -1,0 +1,106 @@
+{
+  "gameNumber": 928,
+  "date": "2027-08-08",
+  "questions": [
+    {
+      "quote": "No, no, no Ross! Ross, these are friends of mine from home. Liam, Devon, this is Ross.",
+      "characters": [
+        "Emily Waltham",
+        "Joey",
+        "Ross",
+        "Erica"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Okay, look, yesterday I would've even considered calling her back, but my ex-wife calls on the same day I have a near death experience. I mean, that-that has got to mean something!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "And tell them that in 2 weeks I will once again be a masseuse in good standing!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Really? Oh What A Beautiful Morning! Surrey With A Fringe On Top.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, we were just talking about that. I can't believe how stupid we used to look.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's way uptown! That's like three trains away! Which is great! I love to ride that rail!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You had sex in his chair?!... I said that a little too loudly, didn't I?",
+      "characters": [
+        "Monica",
+        "Charity Guy",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, you're a paleonthologist, too! Oh, ok, now, what do you think of Ranion's new theory of species' variegation in segmented arthopods?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "yeah just some good old fashion girl on girl American action.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know being spit on is probably not what you need right now. Um... how long?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Frank Buffay Jr.",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

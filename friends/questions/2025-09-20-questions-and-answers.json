@@ -1,0 +1,106 @@
+{
+  "gameNumber": 241,
+  "date": "2025-09-20",
+  "questions": [
+    {
+      "quote": "Phoebs, let me ask you something, were, were these, uh, funny brownies?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Richard Burke",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! It will be fun! Ohh! Yay! Oh! Okay, ooh, let's plan the wedding reception. Wow! You really wanted me to do something with this van. Y'know what, I want you to take the chef job.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know! I guess I am! Oh my god! Load up the Volvo I want to be a soccer mom!",
+      "characters": [
+        "Ross",
+        "Sandy",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Am I on fire today or what?! Those birds are browned, basted, and ready to be carved!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, uh, Joanna I was wondering if I could ask you something. There's an opening for an assistant buyer in Junior Miss...",
+      "characters": [
+        "Roger",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uh, so anyway, we thought one of you could read something during the ceremony.",
+      "characters": [
+        "Joey",
+        "Charity Guy",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Maybe you can tell me. My agent would like to know why I didn't show up at the audition I didn't know I had today. The first good thing she gets me in weeks. How could you not give me the message?!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I know. I know. I panicked, I panicked. I didn't want him to start yelling at me like I was some '74 Latour.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Actually I did it Ross. You remembered shockingly little of your own speech.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "We were playing Gin? Y'know if we were a couple, we could play this game naked.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Bitsy Hannigan"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

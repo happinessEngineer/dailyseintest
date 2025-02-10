@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1427,
+  "date": "2028-12-19",
+  "questions": [
+    {
+      "quote": "Hey Chandler, there's a party tomorrow, you'll feel better then.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. Then I guess I have dry eyes and a scratchy throat for no reason.",
+      "characters": [
+        "Phoebe",
+        "Gavin Mitchell",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God! I love this apartment! Isn't it perfect?! I can't believe I never realized how great it is!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, Joey honey, I don't know if this'll mean anything to you but you'll always be pre-approved with us.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Patrick and I had such a great time last night! I mean I think this could maybe turn into something serious.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes. I have a weird sense of humor, and I'm kinda strangely proud of my butt.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Tag Jones",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Tag Jones"
+    },
+    {
+      "quote": "Why not! This is her wedding day, this is way more important than some stupid kids!",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Rachel, I need the Versachi invoice. Hello! You don't work for me.",
+      "characters": [
+        "Joanna",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "I don't see it. You are dancing with the tall guy over there. Tall guy, raise your hand!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Director"
+      ],
+      "correctAnswer": "Director"
+    },
+    {
+      "quote": "Rachel, this is my friend Tom. This is the girl I told you about.",
+      "characters": [
+        "Danny",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Danny"
+    }
+  ]
+}

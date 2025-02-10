@@ -1,0 +1,106 @@
+{
+  "gameNumber": 829,
+  "date": "2027-05-01",
+  "questions": [
+    {
+      "quote": "Oh, yeah! Are you telling me you... you're not even... a little turned on by Monica, right now?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I, y'know, I don't mind taking it slow, I like him a lot, y'know he's really interesting and he's really sweet and why won't he give it up?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, it's just-and this is really embarrassing-but lately with this whole pregnancy thing I'm just finding myself...how do I put this umm, erotically charged.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Peter Becker",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know what, everybody? Go home. You should be with your families. It's bad enough that we're working New Year's Eve.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Thanks Rachel. And-and don't forget you-you can come visit her anytime you want.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Gunther"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Listen Eddie, um, I've been thinking about our current living situation and uh, why are you smiling?",
+      "characters": [
+        "Chandler",
+        "Nora Tyler Bing",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You should feel great about yourself! You're doing this amazing independence thing!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. I mean it was kinda fun for a while, but didn't you start feeling silly?",
+      "characters": [
+        "Monica",
+        "Barry Farber",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh that's my doodle of a ladybug, with a top hat. She's fancy.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You think I trust you with it?! No! We're gonna split it! You take half and I take half!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

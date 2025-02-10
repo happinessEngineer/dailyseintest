@@ -1,0 +1,106 @@
+{
+  "gameNumber": 390,
+  "date": "2026-02-16",
+  "questions": [
+    {
+      "quote": "Hello? Like he was really gonna send you one? She was a big girl.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! You guys! Remember that audition I had a while ago and didn't get the part?",
+      "characters": [
+        "Steve Cera",
+        "Phoebe",
+        "Joey",
+        "Larry"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So whenever you're ready to apologize to me, I will forgive you. Good day! I can't feel my legs!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well uh, you see that, that little cluster of stars next to the big one? That is Ursa Major.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "David! What-what are you doing here? Aren't you supposed to be in Russia?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Minister",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It's not here Pheebs, it's not here. Ohh, I went to Joey and Chandler's last night! Okay!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Would you all stop yelling in our apartment! You are ruining moving day for us!",
+      "characters": [
+        "Estelle Leonard",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Your parents caught Ross smoking pot in college and he blamed it on me!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, your baby's so cute. Why did you put a pink bow on a boy?",
+      "characters": [
+        "Gavin Mitchell",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Oh, absolutely. Yeah, you know I'm not even thinking about that thing that we're not supposed to think about.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

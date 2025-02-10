@@ -1,0 +1,106 @@
+{
+  "gameNumber": 51,
+  "date": "2025-03-14",
+  "questions": [
+    {
+      "quote": "Yeah, we're, we're actually just gonna walk 'cause it's right up there at the Angelica.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, one of you has to take the first step! And it should be you, because she's the one who's leaving. It's harder for her!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well I did. I really did. And you guys, I've got to say, I'm sorry if I was a little weird after the last time we went out. I guess I was just nervous or something.",
+      "characters": [
+        "Janine Lecroix",
+        "Tag Jones",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "I know, he's too charming, but if you two start going out, then it's just gonna make it so much harder for me to hate him.",
+      "characters": [
+        "Joey",
+        "Andrea Waltham",
+        "Monica",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This is okay. We're all adults here; there's nothing to be ashamed of. Now, let's put our underwear in our pockets and walk out the door.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, there's this guy, Warren, from the museum and he's going on a dig for like two years and he's got this great place he needs to sublet. So uh, you interested?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, no, it's no big deal, I mean, if I weren't doing this I'd just, you know, be at the gym working out.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yo, paisan! Can I talk to you for a sec? Your tailor is a very bad man!",
+      "characters": [
+        "Chandler",
+        "Judy Geller",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "well he seemed to bum hard that you'd never been in a serious relationship.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, I know, this way when I go to the party later Mike will know I am over him cause I'm gonna smell like another guy. Yeah.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

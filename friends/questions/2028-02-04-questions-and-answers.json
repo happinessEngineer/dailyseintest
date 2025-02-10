@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1108,
+  "date": "2028-02-04",
+  "questions": [
+    {
+      "quote": "I know it could be intimidating for regular people to be around celebrities but... relax, I'm just like you! Only better looking and richer.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh look, you don't have to give it too me right now! You can slip it under my door.",
+      "characters": [
+        "Phoebe",
+        "Steve Cera",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Steve Cera"
+    },
+    {
+      "quote": "Now it also says here that you lied about your sexual preference before marriage?",
+      "characters": [
+        "Judge",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Judge"
+    },
+    {
+      "quote": "So, got any advice? Y'know, as someone who's recently been- dumped?",
+      "characters": [
+        "Rachel",
+        "Phoebe Abbott",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No you can't do that, where would the chick and the duck live?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't know, but don't worry, don't worry, because I know how to take a picture now. Okay, see? Look down , look down, look down...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I've never interviewed anyone before. I've actually never had anyone work for me before. Although when I was a kid, we did have a maid, but this is-this isn't the same thing.",
+      "characters": [
+        "Rachel",
+        "Helena",
+        "Peter Becker",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "There was a pregnancy test in the garbage, and it's positive. Monica's pregnant. So I guess she won't be totally alone.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah but why didn't you just say that you didn't read the book?!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay! Okay! Okay. I'm sorry. Please, please, you were in Western Europe and?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

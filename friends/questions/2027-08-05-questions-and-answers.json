@@ -1,0 +1,106 @@
+{
+  "gameNumber": 925,
+  "date": "2027-08-05",
+  "questions": [
+    {
+      "quote": "All right, come on look, Ross can take care of himself! It's not like he's...Chandler!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hmm, okay, total abandonment. Okay, reasons for abandonment, A. Top secret government work, B. Amnesia, or C. Or you're just a selfish, irresponsible bad, bad man?",
+      "characters": [
+        "Richard Burke",
+        "Phoebe Abbott",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I just, Phoebe, said y'know thought she saw something between you guys.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right. I thought about it and maybe you're right. Maybe Krog is not a safe toy.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh! Right! Yeah! Hold on, I'll be just clean up in here a little bit! Hello Gavin.",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Listen Phoebe, he's right. People are not supposed to have heart attacks at 31.",
+      "characters": [
+        "Paul Stevens",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoa, whoa, whoa, wait, whoa. Do you ah, want to get her something speacial, get her flowers, get her candy, get her gum, girls love gum.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Mindy Hunter",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, waitwait, aren't you the guy that plays the butt in the new Al Pacino movie?",
+      "characters": [
+        "Peter Becker",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know, I'm thinking about letting Emma have her first cookie.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Mike Hannigan",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You think you can knock up my daughter and then not marry her?! I'm gonna kill you!!",
+      "characters": [
+        "Monica",
+        "Amanda Buffamonteezi",
+        "Rachel",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Leonard Green"
+    }
+  ]
+}

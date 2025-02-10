@@ -1,0 +1,106 @@
+{
+  "gameNumber": 238,
+  "date": "2025-09-17",
+  "questions": [
+    {
+      "quote": "Who are you kidding? You just find some guy off the street for me? Oh God! This is humiliating!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chandler! Okay, let me get this straight, it's okay for you to flirt, but not for me.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, my Grandfather was Swedish and my Grandmother was actually a tiny little bunny.",
+      "characters": [
+        "Ronni Rapalono",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well fine! I want to meet this chicken expert! Send the Colonel in!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well umm, okay we were in the market and she bent down to get some yogurt and she just never came back up again.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Chip! Hi, it's Rachel. Rachel Green. Yeah, umm, you left me a message. Yes you did, my roommate wrote it down. Monica Geller. Ohh.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Charlie Wheeler",
+        "Dr. Harad"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah! And I like to hang out in a quiet place where I can talk to my friends.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Since when, since when do you think I don't wear enough of this?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah I am, I am! Oh, but first of all, Monica, I would like to introduce you to my very talented colleage and more importantly my wonderful friend Gavin Mitchelle.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Minister",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?",
+      "characters": [
+        "Chandler",
+        "Judy Geller",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Judy Geller"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1422,
+  "date": "2028-12-14",
+  "questions": [
+    {
+      "quote": "All right, it's another commercial; I still haven't told her!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Over the line?! You-you're-you're so far past the line, that you-you can't even see the line! The line is a dot to you!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh-ho, my God! That was so awesome! You totally got him back for calling you fat! He was just drooling all over you. That must've felt so great!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh now-Hey Ross-Ross! Do you wanna-wanna come in for a beer or something?",
+      "characters": [
+        "Ethan",
+        "Joey",
+        "Phoebe",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I know, I know, it's-it's so, it's so totally like, \"Whoa! Can we do this?\" Y'know, I mean, but I mean it just feels right! Don't you think? It does! I mean, it just feels right, don't you think?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ya know there isn't a part of that sentence I don't need explained.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Charity Guy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Or maybe she doesn't steal stuff and Joey just slept with her and never called her back.",
+      "characters": [
+        "Rachel",
+        "Susan Bunch",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You guys! You guys! You're not gonna believe what my agent just told me!",
+      "characters": [
+        "Joey",
+        "Aurora",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.",
+      "characters": [
+        "Phoebe",
+        "Carol",
+        "Chandler",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But now I know I don't have a choice about this, I was born this way.",
+      "characters": [
+        "Chandler",
+        "Duncan",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Duncan"
+    }
+  ]
+}

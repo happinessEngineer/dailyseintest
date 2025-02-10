@@ -1,0 +1,106 @@
+{
+  "gameNumber": 519,
+  "date": "2026-06-25",
+  "questions": [
+    {
+      "quote": "Look, you can't call somebody after this long just to say, 'In case you didn't notice, I don't like you!'",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know that there's no hole there, I just really liked that picture.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Donny Osmond"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Word on the street - well, when I say street, I mean those little pretend streets they have here at the zoo.",
+      "characters": [
+        "Janitor",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Janitor"
+    },
+    {
+      "quote": "What's the matter with me? How do I keep ruining this? I'm sorry, I'm sorry!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Joey ate my last stick of gum, so I killed him. Do you think that was wrong?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know, if you just wait another... six and a half minutes...",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Then what's wrong with them? Would they not go with your tiny portions of pretentious food?",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, he's fine. He's fine. It's just that us getting along is difficult for him, because he doesn't like me.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Susan Bunch",
+        "Chandler"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "Now, if you need to stay late, I want to be supportive of that.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Melissa Warburton"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "OK, you know what, are, are you being like, the blind date guy again?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Michelle"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 75,
+  "date": "2025-04-07",
+  "questions": [
+    {
+      "quote": "I think this is so great! I mean, you and Ross! D-did you have any idea?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Lauren"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay. That's okay. I-I know that you're very upset right now. I know, I know that wasn't about me.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Tag Jones",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Who da wenny-Benny boy? You the Wenny-wenny-Benny-Benny boy, yes. Don't cry. Don't cry. Why is he still crying?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You don't tell a guy that you're looking for a serious relationship! You don't tell the guy that! Now you scared him away!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh. Hi. We just found this cat and we're looking for the owner.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.",
+      "characters": [
+        "Richard Burke",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ah, first, I-I would like to say thank you for agreeing to see me again.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is completely normal, around the fourth month your hormones start going crazy.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What? Come on, it's not like I'm asking for this girly clock or anything, which, by the way, I also think is very cool.",
+      "characters": [
+        "Chandler",
+        "Frank Buffay Sr.",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

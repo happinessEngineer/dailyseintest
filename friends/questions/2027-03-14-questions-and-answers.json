@@ -1,0 +1,106 @@
+{
+  "gameNumber": 781,
+  "date": "2027-03-14",
+  "questions": [
+    {
+      "quote": "Oh okay, well I'm a masseuse, and I used to work at this place...",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, he's never coming back! Okay? You just cost me eight dollars a week!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Just what needs to be done! Dearly beloved, we are gathered here to join this man and this woman...",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Bobby Rush",
+        "Julio (poet)"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look, it's my wedding day okay? If you were getting married I would never do anything to upset you.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right well, I guess I gotta go get a job. I'm gonna go see my agent.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, ok. I'm just always afraid that people think I'm just fat with big breasts.",
+      "characters": [
+        "Erica",
+        "Phoebe",
+        "Alice Knight",
+        "Ross"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "No-no, I can't! I can't! Not after the other night, it's just it's...too weird, okay? Don't tell her I'm here! Don't eat that!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right honey, we'd better go if we wanna catch that movie.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Mike Hannigan",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, I don't want to tell anybody else because I don't want Monica to find out.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Paul Stevens",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh well umm, I make it myself! It's two parts ammonia and one part lemon juice. And now the secret ingredient is...y'know what? We just met.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Charity Guy"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

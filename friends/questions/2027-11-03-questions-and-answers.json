@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1015,
+  "date": "2027-11-03",
+  "questions": [
+    {
+      "quote": "Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.",
+      "characters": [
+        "Lydia",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Lydia"
+    },
+    {
+      "quote": "Wait-wait!! Okay, stop it! Stop it! Stop! Now listen, no one's gonna fight in this apartment.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "They couldn't be worse. I spent eight hours calling him last night, just trying to get him to talk to me.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey Rach listen, no matter what this guy says I want you to know you're not gonna be alone in this.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "\"Ipan Stripan, Glupi Glabi! \" And that is the Swedish National Anthem! Thank you for asking!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, yeah, sure, easy for you, you're young. Me, I'm set in my ways.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes! Yes! I mean it's-it's kinda far from work, but uh, y'know, I'll get so much done on the commute. I-I've been given the gift of time!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, I know. I mean, no, you're right. Yeah I guess I'll let it go. But you-you understand how-how hard it is to forget about this.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You knew this and you never said anything?! With all the stupid dinosaur stuff you tell us?!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'll make something up! I'm good at lying, I actually did borrow your Walkman!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Billy",
+        "Ginger"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

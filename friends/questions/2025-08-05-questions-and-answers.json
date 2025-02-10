@@ -1,0 +1,106 @@
+{
+  "gameNumber": 195,
+  "date": "2025-08-05",
+  "questions": [
+    {
+      "quote": "Oh-oh, hey-hey, Kate! Listen I want you to meet everybody. Everybody, this is Kate.",
+      "characters": [
+        "Joshua Burgin",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes! That's where we realized we were both super cool people!",
+      "characters": [
+        "Big Bully",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Great, a faster way to tell people that I'm unemployed and childless .",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah that's great. But first, wait, talk to me, talk to me. Tell me about your day.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Sophie",
+        "The Woman"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I forgot... I am supposed to pick up a friend at the airport. I am so sorry! I'm so... if you want to stay, and finish your drinks, please do.... I meanI'm sorry. I-I-I gotta go. I'm sorry.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Parker",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, uhm... I mean, Rachel and I, think you are great... with Emma... uhm... We just feel...",
+      "characters": [
+        "Mr. Zelner",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, that's pretty good. But you might wanna tone it down a little.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You're wrong! The centerpieces are fine! Do you ever get scared at all?",
+      "characters": [
+        "Tag Jones",
+        "Charlie Wheeler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah! And she's comforted by him because she loves her uncle Joey so much.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my God! You guys this is so great! I mean it's so unexpected! I mean Chandler's birthday is even before mine!",
+      "characters": [
+        "Chandler",
+        "Luisa Gianetti",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

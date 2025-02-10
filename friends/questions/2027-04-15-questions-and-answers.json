@@ -1,0 +1,106 @@
+{
+  "gameNumber": 813,
+  "date": "2027-04-15",
+  "questions": [
+    {
+      "quote": "Well, if we're gonna do that we should come up with some kind of order. Y'know alphabetically or by genre?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Am I! Am I! Am I out of my mind! Am I losing my senses!! This dreamy guy is taking my girlfriend out for a meal.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I guess I could sleep with her... I mean, how could I do that?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I can see that. I... just one phone call, I'll be very quick, I'll even pay for it myself. OK, you're bein' a little weird about your phone.",
+      "characters": [
+        "Joey",
+        "Jack Geller",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "They found their bodies the very next day, they found their bodies the very next... la la la la la la.",
+      "characters": [
+        "Ross",
+        "Joey Tribbiani Sr.",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What?! Joey, you don't want to go on a date with a pregnant lady.",
+      "characters": [
+        "Monica",
+        "Trudie Styler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, the point is, maybe I should just stop waiting around for moments with Ross, you know? I should just . . . move on with my life.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look at that! Look at that! We all do it. Okay, I'm stopping now.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Mona"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, good for you. Y'know you're tough, you lived on the streets.",
+      "characters": [
+        "Jill Green",
+        "Monica",
+        "Chandler",
+        "The Waiter"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Alright, I panicked, alright? She took me by surprise. You know, but it wasn't a total loss. I mean, we ended up cuddling.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

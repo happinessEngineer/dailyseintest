@@ -1,0 +1,106 @@
+{
+  "gameNumber": 396,
+  "date": "2026-02-22",
+  "questions": [
+    {
+      "quote": "That was Alice's mom, she said she left five hours ago. She should be here by now!",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Ross",
+        "Estelle Leonard",
+        "Phoebe"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "'Cause it's always somethin', you know, like Monica's new job, or the whole Ross's birthday hoopla.",
+      "characters": [
+        "Director",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh oh, we think Emma is about to start talking so we're trying to be careful about what words we use in front of her.",
+      "characters": [
+        "Carol",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Steps! Slut! You will all be very happy to hear that Kathy is sleeping with that guy!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Marcel is an illegal exotic animal. I'm not allowed to have him in the city. If they find him, they'll take him away from me.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Charity Guy"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right. Oh! Shoot! Oh shoot! Uh, Rachel wanted to see this tape!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah? I hope you're not thinking about cleaning the living room.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But Monica, he loves his job so much! Can you just give him another chance? Please?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God. You listen to me, Chandler, you listen to me. One of these times is just gonna be your last chance with me.",
+      "characters": [
+        "The Interviewer",
+        "Alice Knight",
+        "Rachel",
+        "Janice"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "No! No! It would be weird if we were still in that place, I mean are you still in that place?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

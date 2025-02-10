@@ -1,0 +1,106 @@
+{
+  "gameNumber": 533,
+  "date": "2026-07-09",
+  "questions": [
+    {
+      "quote": "Sweetie! So this is where you work? Oh, it's wonderful! Is it a living room? Is it a restaurant? Who can tell? But I guess that's the fun.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Have you seen this? It's a new alumni website for college! It's cool! You can post messages for people, let everyone know what you're up to.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay. Umm, well, first I would like to start by apologizing for kissing you and uh, for yelling at you.",
+      "characters": [
+        "Phoebe",
+        "Paul Stevens",
+        "Rachel",
+        "Guru Saj"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh uh, hey Pheebs. Uh y'know what? I'll-I'll come back later.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Eh, y'know what, she's to political, she probably wouldn't let you do it, unless you donated four cans of food first.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "David",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I told him I would think about it, but I'm gonna tell him no.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I feel like I owe you an explanation. I don't ordinarily go around kissing guys at parties. I'm... well, I'm kind of embarrassed. I really hope you don't think less of me.",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Look, youre cold, I have to pee, and... ..theres a cup of coffee on the window. How bad could it be?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Oh, god. So adorable. Look at them sleeping there like angels.",
+      "characters": [
+        "Ginger",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "\"Well, should we just continue to live together and not really tell each other how we're really feeling?\"",
+      "characters": [
+        "Rachel",
+        "Mark Robinson",
+        "Joey",
+        "Megan Bailey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1497,
+  "date": "2029-02-27",
+  "questions": [
+    {
+      "quote": "Okay Monica, what are you doing? You're gonna lose your job! This is not you!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, Chandler's still in Phase One, and Joey's that thing you smell.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Steve Cera"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh-oh-oh, yeah! That's right, you take good care of those babies!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, they'll like me. Once they come to my awesome PAR-TAY! Okay, I gotta run. I gotta go get some nametags.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, guys! The candy is coming; I just need another 15 minutes for the chocolate to cool!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "The second that Ross walks in that door, I want you take him back to your bedroom and do whatever it is that you do that makes him go, rweee!!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right here. Watch me execute the three 'P's of championship play. Power. Precision. and penache.",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, hah-hah-hah-ho, yeah, he wishes. Oh, I'm sorry, look at me. OK, Michael, let's talk about you.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, not as much as you used to love to play uncooked batter eater.",
+      "characters": [
+        "Ross",
+        "Mr. Treeger",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Rachel, I need to borrow-You're not packed!!!! You're not packed even a little bit!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

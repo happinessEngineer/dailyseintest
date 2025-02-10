@@ -1,0 +1,106 @@
+{
+  "gameNumber": 98,
+  "date": "2025-04-30",
+  "questions": [
+    {
+      "quote": "Yeah, thanks. And listen, can you do me a favor? Could you just umm, wake me up in a couple hours, y'know if you can.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look at that face! Just like when you were in high school! If I didn't know better I'd say you were a cheerleader in trouble. Come on, let's get some tea.",
+      "characters": [
+        "Chandler",
+        "Gavin Mitchell",
+        "Sandra Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Okay, so let me just get this straight. You're accusing me of cheating on you, and insulting my performance?",
+      "characters": [
+        "Kathy",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "No, it's okay. Some-some kid asked me to pick it up for him, but I don't...",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Janice"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, it's Phoebe and Rachel. Um, why don't you tell them what you were telling me earlier about me not being high maintenance?",
+      "characters": [
+        "Ross",
+        "Nurse",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Alright, alright. Calm down Norma Rae. They didn't actually say that. I'm just afraid if I don't come back right now this guy's gonna try to squeeze me out.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Ethan"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look At Her Standing There With Those Yams! My Two Greatest Enemies Ross Rachel Green and complex carbohydrates.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Will Colbert"
+    },
+    {
+      "quote": "My marriage like just ended, and I'm really not ready to get into anything yet.",
+      "characters": [
+        "Ross",
+        "Joshua Burgin",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joshua Burgin"
+    },
+    {
+      "quote": "Ohh, hey! Why don't you book a date for both of you at one of those romantic spas?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'll go in a second, I-I just wanted to tell you that there hasn't been a day where I didn't regret giving you up.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Joey",
+        "Phoebe Abbott",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    }
+  ]
+}

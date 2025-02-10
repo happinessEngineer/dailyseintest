@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1126,
+  "date": "2028-02-22",
+  "questions": [
+    {
+      "quote": "Actually, you know, Joey is your friend, and you don't really know me that well; it would be weird.",
+      "characters": [
+        "Russ",
+        "Joey",
+        "Charlie Wheeler",
+        "Monica"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Well Ross, you be careful now. You don't want to get a reputation as y'know Professor McNailshisstudents.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I'm just so exhausted from dragging around this... HUGE engagement ring!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on Chloe! Finish up with your customer first. Come on Chloe! Come on Chloe!!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Amy Green"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, y'know what, I'm gonna be okay, you don't have to throw a party for me.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Mr. Treeger",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, an-anyway, I just-that night meant a lot to me, I guess I'm just trying to say thanks.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh my God! Oh my God! Oh Chandler!! You guys are gonna be so happy!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "These tiny, little non-breasts?! Please, it's gotta be Rachel.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I don't know. He was cute, and he liked me. It was an impulse.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Alright, for the bizillionth time, yes I see other women in shower at the gym, and no I don't look.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Russell"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

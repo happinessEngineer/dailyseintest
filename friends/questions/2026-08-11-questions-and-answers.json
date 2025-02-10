@@ -1,0 +1,106 @@
+{
+  "gameNumber": 566,
+  "date": "2026-08-11",
+  "questions": [
+    {
+      "quote": "Ok, Monica, only dogs can hear you now, so, look, the door's open. Here we go.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "...so this guy was all And I'm all, Buffay, Homicide. It was just so cool!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, ok, I wasn't rich like you guys, ok, I didn't eat gold and have a flying pony... I had a hard life, my mother was killed by a drug dealer.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No!! Hey-hey that's not a Nutter-Butter, that's just an old Wonton!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh. It was a long shot. Hey, you guys can I just like have a second alone with the babies.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, Rach, Rach! I've been with my share of women. In fact, I've been with like a lot of people's share of women. The point is, I've never felt about anyone the way Ross felt about you.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey Phoebe. Hey, tell me what you think. All right. The house next door to the one that we're buying in Westchester? Just went on the market. I wanna take a look at it, but Chandler doesn't.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Jill Green",
+        "Jack Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, Ross, c'mon, please! Don't make this harder than it already is!",
+      "characters": [
+        "Lauren",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I didn't watch the ending, I was too depressed. It just kept getting worse and worse, it should have been called, \"It's a sucky life and just when you think it can't suck any more it does.\"",
+      "characters": [
+        "Paul Stevens",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Seriously? Seriously, no! You can play your own age which is 31!",
+      "characters": [
+        "Dr. Drake Ramoray",
+        "Janice",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

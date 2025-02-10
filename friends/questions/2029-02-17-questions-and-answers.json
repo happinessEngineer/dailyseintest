@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1487,
+  "date": "2029-02-17",
+  "questions": [
+    {
+      "quote": "Okay, Rachel, you wanna put the marshmallows in concentric circles.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm telling you, this guy Rachel is with is crazy! Okay? He viscously screamed at total strangers! I think he's baaad news!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh! Alright. Well I think the reason people laugh is becuase it's a play on the word roomy.",
+      "characters": [
+        "Chip Matthews",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Right, I'm gonna go talk to Joey. I think this is the right time. He's always in a good mood after the flight attendant says \"duty free\".",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, and don't worry. I didn't try to sound smart at all! See ya later!",
+      "characters": [
+        "David",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Listen, Roland Chang, if things go well, I'm gonna be out with her all night.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Mark Robinson",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No no, seriously, Joey's my dad, Monica's my dad. I've even got some dads down at work.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Ursula Buffay"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Please, when he left town you stayed in your pajamas for a month and I saw you eat a cheeseburger.",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Susie Moss, right, yeah, wow, you look. . . great job growing up.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah. He wouldn't give me the grant, because I wouldn't give you up.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

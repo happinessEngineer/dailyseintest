@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1038,
+  "date": "2027-11-26",
+  "questions": [
+    {
+      "quote": "No! But, they're callin' out to me! I mean this little guy even crawled up into my lap. Oh come on, Chandler wouldn't mind if I opened just one present! What do you think it is?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, I'll be up in, 18 pages. Front and back. Very exciting.",
+      "characters": [
+        "Peter Becker",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Mike, let me ask you something. How many sisters does Joey have?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Mr. Ratstatter",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, if it makes you feel any better, I made a fool out of myself.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can't believe they called, and we're actually getting a baby.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "The donation we made earlier, we k..., we w..., we want it back.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah I know, but I was really confused and then I talked to these guys.",
+      "characters": [
+        "Parker",
+        "Chandler",
+        "Eddie Menuek",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know, bonus night. Y'know, when two people break up but they get back together for just one night.",
+      "characters": [
+        "Rachel",
+        "Don",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! Do you think that we can get to the subway right there if we climb down through the manhole cover?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, hey, hey, hey! I'm not gonna mess with Jack, he's a great man, he fought for our country.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

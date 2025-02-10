@@ -1,0 +1,106 @@
+{
+  "gameNumber": 766,
+  "date": "2027-02-27",
+  "questions": [
+    {
+      "quote": "Oh hey! Hey Ross! Hey how's it, how's it going with you and Mona? Are you guys still together?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, really? So why was I busting my ass to make this delicious Thanksgiving dinner?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Peter Becker",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right... you're right. We're sorry. Now let's wake up Emma and get the fun time started!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Erica Ford"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Y'know, I never thought I'd say this about a movie, but I really hope this dog dies. What are you doing over there? Come sit here, you protect me.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "She did not have to tell me, I saw the play, and there was no heat. Back me up here, Ross!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Maybe I'll take her to that new French restaurant down the street...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You wanna be on my list too? Keep talking! Has anyone seem my list by the way?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, that's because I had lunch with Rich-Me neither! Okay, what do I want now?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah! You're saying, you need to be with someone more mature. Maybe someone with, a license to practice medicine. Or a mustache.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Dr. Ledbetter",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Yeah! You know, ever since I had that dream about him, and can't get it out of my head! And what's the big deal, people do it all the time!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Gunther"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

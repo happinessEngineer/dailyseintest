@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1267,
+  "date": "2028-07-12",
+  "questions": [
+    {
+      "quote": "I was preparing you for my-didn't you think I was dead? Did that not come off?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh wow that's a great idea! And I still have his credit card.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm not blowing her off, I actually just got off the phone with her, were going out tomorrow night, I mean I hope that's ok with you stranger from the coffee house.",
+      "characters": [
+        "Mike Hannigan",
+        "Monica",
+        "Jack Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "That's okay Pheebs, we're not having a party or anything, so you don't have to get us...",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, Joey, come on! Please, please! Let me come, I will behave, I promise! I will behave! Please, please, please...",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "The Salesman"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh umm, y'know I lent it to Joey and I never actually got it back.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, we just don't happen to know any women that know how to play poker.",
+      "characters": [
+        "Monica",
+        "Charlie Wheeler",
+        "Tommy",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Haven't had sex in four months, I should get a medal for that!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thanks for everything Estelle. Bye. \"out of area\". Boy, I'll say.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ooh, hey, could we put on the news? I think it might be raining.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Sophie",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

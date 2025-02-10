@@ -1,0 +1,106 @@
+{
+  "gameNumber": 68,
+  "date": "2025-03-31",
+  "questions": [
+    {
+      "quote": "Look, the point is, there's a lot of women out there you haven't even had sex with yet!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "OK, now wait a minute. That is the craziest typing test I've ever seen.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Gunther",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hang on a second. I'll-I'll talk to you in the morning. I'm sorry what?",
+      "characters": [
+        "Peter Becker",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Ohh! Yes of course, thank you, thank you, thank you so very much.",
+      "characters": [
+        "Stephen Waltham",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Stephen Waltham"
+    },
+    {
+      "quote": "All right. \"My husband is sleeping with his secretary.\" She's married!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Erica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right, well the place was closed. I'll just copy it later.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay please tell me that this is just one of your jokes that you do that I don't get.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Did you hear that?! They bumped them up to first class because they are on their honeymoon! Come on! Let's act like we're on our honeymoon.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, but you can not tell Ross 'cause I want to surprise him.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's great. Maybe tomorrow we can rent a car and run over some puppies.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1022,
+  "date": "2027-11-10",
+  "questions": [
+    {
+      "quote": "Look, you know what? If this is the way you feel, then maybe you should take it.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, swear you won't tell, but when Mark left he gave me a key to Joanna's office. Do you wanna see the list?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You'd better do something, or I'm gonna walk out that door right now! Well? Are you gonna?",
+      "characters": [
+        "Katie",
+        "Chandler",
+        "Don",
+        "Joey"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Are you kidding me? Watch! Well I can't do it with you guys watching me!",
+      "characters": [
+        "Ross",
+        "Bobby Rush",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "This is crazy. I mean, six years? And because of me you guys aren't gonna be together? Can I ask you something? Really, what is this thing with you and Rachel?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know, you know, just the way she waltzed in here all smart, and tall! You know, and just swept Joey off his feet... I mean, nobody else has a chance!",
+      "characters": [
+        "Susan Bunch",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Nooo!! She's really dull! And she gets this gross mascara goop thing in the corner of her eye!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Alright, lets see if you're as good in person as you are on paper. Make me a salad.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Interviewer"
+      ],
+      "correctAnswer": "Interviewer"
+    },
+    {
+      "quote": "Yeah, yeah, okay. Uh, look buddy, I came with that girl, and I had this plan to kiss her at the new years countdown &#150; I'm trying to win her over, so I was wondering if..",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well I know I was an idiot! And I tried to forget you, I really did! Y'know after we had lunch last year I spent six months in Africa trying to get you out of my head!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    }
+  ]
+}

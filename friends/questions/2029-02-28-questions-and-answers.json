@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1498,
+  "date": "2029-02-28",
+  "questions": [
+    {
+      "quote": "Well I don't like to say it out loud, but, yeah! Don't feel bad man, we all have our strengths. You're better with numbers and stuff.",
+      "characters": [
+        "Rachel",
+        "Kim",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes, on a scale from 1 to 10, 10 being the dumbest a person can look, you are definitely 19.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "If you say yes then I'm serious, if you say no then I'm joking!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Benjamin Hobart",
+        "Phoebe"
+      ],
+      "correctAnswer": "Benjamin Hobart"
+    },
+    {
+      "quote": "Well Joey, I hate to admit it, your way of sailing is a lot more fun.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah, look I was with my friend downstairs and we hear everything up here that you do, and I am sick and tired... .",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, believe me.If you win the lottery, it's the last you're gonna hear from us!",
+      "characters": [
+        "Rachel",
+        "Melissa Warburton",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But why?! I should've won one and I really want it and she didn't even care enough to come to the thing! It could also be a Grammy.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Interviewer",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "We were drunk! I would've married uh, Joey with that amount of alcohol!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "OK so isn't there a little part of you that wants to get up there?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait. Why was he yelling at her? He's the one who slept with someone else.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

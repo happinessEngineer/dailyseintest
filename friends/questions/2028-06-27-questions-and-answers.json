@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1252,
+  "date": "2028-06-27",
+  "questions": [
+    {
+      "quote": "Listen, I got to tell you I've-I've never been to a guru before, so...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I'm gonna go put my make up on, we have to be at the hotel in an hour!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "So, you uh, you think that Speed Racer guy gets a lot of tickets er?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh yes! You're an excellent chef! As a person you're a little...",
+      "characters": [
+        "Ross",
+        "The Cooking Teacher",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "The Cooking Teacher"
+    },
+    {
+      "quote": "I think, that if you really like this guy, you should just trust him.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Terrible? Hell, I was in Greece! That was a nice hotel! Nice beach, met the nice people. Not to shabby for Rachel.",
+      "characters": [
+        "Phoebe",
+        "Richard Burke",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No-no-no, a bunch of out of control jackets take over an island.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "First of all it's Professor Pittain! And second of all, that little bone, proved that, that particular dinosaur had wings, but didn't fly.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Sandra Green",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Have a seat. Okay, listen umm, Chandler and I are going to live together, here.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Thank you. So what does this Bob guy look like? Is he tall? Short?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

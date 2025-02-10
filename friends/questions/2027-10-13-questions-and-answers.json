@@ -1,0 +1,106 @@
+{
+  "gameNumber": 994,
+  "date": "2027-10-13",
+  "questions": [
+    {
+      "quote": "So you see, Molly, what people don't understand is that acting is a discipline. It takes a lot of hard work.",
+      "characters": [
+        "The Director",
+        "Rachel",
+        "Eric",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. No-no I-I know I might not win, but it's just...I've never even been nominated before! I want it so much.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, you're a doctor of gums. That's the smallest body part you can major in. It's like day one, floss. Day two, here's your diploma.",
+      "characters": [
+        "Mike Hannigan",
+        "Rachel",
+        "Ross",
+        "Ursula Buffay"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, I-I-I don't know how this fits into your whole \"seizing\" thing but um, Emily called you today.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, that-that's enough! Y'know, let's, let's let someone else play.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Last winter I went up on a church lawn and drove right through a manger scene. The papers thought it was a hate crime.",
+      "characters": [
+        "Judy Geller",
+        "Chandler",
+        "Jack Geller",
+        "Ross"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "No, I just feel like being by myself for a while. All right? I'll see you guys later. Thanks.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Man, she is going to have a great time! Is she staying at the Hotel Corona?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No...Yeah, all the time, constantly. It's terrifying. But you know that I figure it...it has to work out.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! Because he didn't believe in my movie! Which is a big mistake because it is real! Real!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

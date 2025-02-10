@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1466,
+  "date": "2029-01-27",
+  "questions": [
+    {
+      "quote": "Well, I don't know, you guys figure it out, I got to put Emma down for a nap.",
+      "characters": [
+        "Rachel",
+        "Sarah Tuttle",
+        "Chandler",
+        "Fake Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey that reminds me, I thought we could use some extra luck so I brought a wishbone home from work.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You never told me about that guy on your sweet sixteen. Oh, ugh. I'm sorry about that.",
+      "characters": [
+        "Minister",
+        "Mike Hannigan",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Okay, I got it! This place makes the best sandwich in the world!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey Pheebs, maybe this whole heart attack thing is a sign, that-that you should start think about getting a different job.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "She's amazing! She makes the women that I dream about look like short, fat, bald men!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, I mean look it's, it's not your fault, you know. I mean this is just what, what she does to guys, okay.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh.. yeah? Well unless you pushed a desk out of your vagina, not the same thing.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, this is so nice. Alright I have to make a speech. I just wanna say that of all the guys that Monica has been with, and that is a lot, I like you the best.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi Alex! And uh, as you can see my hands are not in my pants.",
+      "characters": [
+        "Joey",
+        "Erica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

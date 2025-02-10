@@ -1,0 +1,106 @@
+{
+  "gameNumber": 526,
+  "date": "2026-07-02",
+  "questions": [
+    {
+      "quote": "Because, you know, you don't have to. If you want, you could just take a nap right here.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, I can't. I have back-to-back classes. Did Molly say what she had? Because my throat's been hurting?",
+      "characters": [
+        "Joshua Burgin",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, you better hop outta the shower, cause... I gotta flush.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, okay! \"Would I go back to Allesandro's? Sure, but I'd have to order two meals, one for me and one for the guy pointing the gun to my head.\" Wow! You really laid into this place.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Leonard Green",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh Drake, you are so talented, let me see those hands. Oh these hands, these beautiful hands, oh I could just eat them. . . but I won't.",
+      "characters": [
+        "Erica Ford",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Erica Ford"
+    },
+    {
+      "quote": "Oh, do I have a middle name. All right Monica Velula Geller. It's that bedroom there.",
+      "characters": [
+        "Phoebe",
+        "Parker",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Umm, you might even say that she pulled a Monica. She doesn't know we switched it.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait a minute, wait a minute, I see where this is going, you're gonna ask him to New Year's, aren't you. You're gonna break the pact. She's gonna break the pact.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, which one of us is gonna be having sex in there, me or you?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well it's just while Monica and I were dancing to them it was...the first time I knew that...you were the woman I wanted to dance all my dances with.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

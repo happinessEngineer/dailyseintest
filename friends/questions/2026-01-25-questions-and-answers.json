@@ -1,0 +1,106 @@
+{
+  "gameNumber": 368,
+  "date": "2026-01-25",
+  "questions": [
+    {
+      "quote": "I mean, you just went out with my best friend, and I just think it'd be a really really bad idea. Or-or not!",
+      "characters": [
+        "Monica",
+        "Wayne",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, well that's ok. I think you and I will do much better if you're just... here as a bridesmaid.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So I don't have to sing and I can just sit there and pass judgments on others?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's weird. I've had the same number of beers as you and I don't feel anything at all.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uh, you know, you can't always get a seat on the subway, so...",
+      "characters": [
+        "Judy Geller",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no, no, don't say \"listen.\" I know that \"listen.\" I've said that \"listen.\"",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'd love that. I would loooove... So uh, so where is sweet little Ben? I would love to have a little...",
+      "characters": [
+        "Leonard Green",
+        "Sandy",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I lost. Some little girl loaned her uniform to her nineteen year old sister, who went down to the U.S.S. Nimitz, and sold over 2,000 boxes.",
+      "characters": [
+        "Benjamin Hobart",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "God, I don't believe this. She could be giving birth in the cab.",
+      "characters": [
+        "Phoebe",
+        "Jack Geller",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, kicking a guy in the crotch all morning really takes it out of ya!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Guy",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1132,
+  "date": "2028-02-28",
+  "questions": [
+    {
+      "quote": "Yeah! I... I... I liked it! But, ehm... my bosses didn't go for it. Stupid sons of bitches!",
+      "characters": [
+        "Chandler",
+        "Alice Knight",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Absolutely. Shoop, shoop, shoop. Only a hundred and two dollars to go.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well you shouldn't be. Believe me I wouldn't want to be the guy who's up against you. I mean that doofus is going to lose!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, okay. It's James Brolin. James Brolin is the father of my baby.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now that you're on you're own, you're free to look as stupid as you like.",
+      "characters": [
+        "Receptionist",
+        "Grandmother",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Joshua Burgin",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, my mom sent me a family heirloom that once belonged to my grandmother. Can you believe it?! A year ago I didn't even have a family, and now I have heirlooms for crying out loud.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no, no. When you get home tomorrow night, you and I are going to be at the Wizzards-Knicks game . . . courtside!",
+      "characters": [
+        "The Teacher",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi! You might not remember us, but we are the girls that fogged you.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey you guys! Ok, you're not going to believe this! I just saw my psychic and she said I was definitely gonna win the lottery tonight!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

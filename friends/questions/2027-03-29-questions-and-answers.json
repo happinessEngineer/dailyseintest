@@ -1,0 +1,106 @@
+{
+  "gameNumber": 796,
+  "date": "2027-03-29",
+  "questions": [
+    {
+      "quote": "But I made you a tape of what I think are all romantic songs.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Umm, this stuffing is amazing. Do you think we should bring them some?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm sorry too. And just to be clear, I didn't hit his mother with a car.",
+      "characters": [
+        "Mike Hannigan",
+        "Joey",
+        "Judge",
+        "Ross"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "I can't live like this! What are we gonna do? What are we gonna do?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes. When Monica and I were in London, we were both in London.",
+      "characters": [
+        "Mona",
+        "Monica",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Umm, sympathy pains. I thought it was really sweet at first, but now I think he's just trying to steal my thunder.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Knock, knock, knock, knock, hi. Um, could you please tell Sergei that um, I was fascinated by what Boutros Boutros Gali said in the New York Times.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Aw, no problem dude. Y'know we got to look out for each other. We're the same, you and me.",
+      "characters": [
+        "Issac",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Issac"
+    },
+    {
+      "quote": "Okay, whatever you say. But just be careful, all right? Rachel's not in the same place you are.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, it was amazing. You know how you always think you're great in bed?",
+      "characters": [
+        "Joey",
+        "Dr. Long",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

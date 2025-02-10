@@ -1,0 +1,106 @@
+{
+  "gameNumber": 642,
+  "date": "2026-10-26",
+  "questions": [
+    {
+      "quote": "I can't believe I let you talk me into buying this stupid gumball machine looking ring!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, wait a minute, wait a minute, why are we so sure that this is a girl?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "The Director",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes, I do. Now, I may not understand why you have to win so badly, but if it's important to you then it's important to me, because I love you.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! You made it. Great! Chappy! Hi! Hi! Mom, I know getting married in the street isn't something you approve of...",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Monica",
+        "Girl"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Wow, that's great! I liked that better than the law thing, so...",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "The weirdest thing happened at the coffee house, I think, I think Phoebe was hitting on me.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "God, I hope he doesn't show up. Of course he's not gonna show up, the guy hates me.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Minister",
+        "Janice"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, Rach, I should've told you sooner. It's just that...Man! That kid is going to town!",
+      "characters": [
+        "Grandmother",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay. Table, you have given us so many great times. And you guys, Jordan, Victor, Joel... All of you guys. What can I say? You guys make us look good. You wanna say anything?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Phoebe! You picked Joey and Ross?! You can not have two backups!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

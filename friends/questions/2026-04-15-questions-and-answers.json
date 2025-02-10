@@ -1,0 +1,106 @@
+{
+  "gameNumber": 448,
+  "date": "2026-04-15",
+  "questions": [
+    {
+      "quote": "Well, I would love to but...the bike got stolen and the police have no suspects.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "OK, alright, OK, um... then could you please, uh... just give him a message for me? Please? This is very important.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Space is filled with orbiting children. Look, please, just come on, you know, when you'll see the look on Emma's face, I swear you won't regret it.",
+      "characters": [
+        "Interviewer",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey. It's three in the morning. They don't know that I've come home yet. You notice how neither one of them are wondering where I am.",
+      "characters": [
+        "Emily Waltham",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah. Me. Oh hey, that's me. Hey uh, I take it you're just visiting someone.",
+      "characters": [
+        "Man",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Oh yeah? If you're gonna make me choose between you and the hat? I choose the hat.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, we didn't even pay our cable bill-maybe this is how they punish us.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, come on! It's not like this is an everyday occurrence for me! I mean usually I'm pretty much just in there by myself.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Pheebs, you go with Monica and try on her green dress. If that doesn't work, you can wear my gray silk one. Oh, gosh, what am I wearing?!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "David"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I can't give you a massage, because my licence has been revoked again!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

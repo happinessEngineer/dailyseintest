@@ -1,0 +1,106 @@
+{
+  "gameNumber": 432,
+  "date": "2026-03-30",
+  "questions": [
+    {
+      "quote": "You know how you throw your jacket on a chair at the end of the day?",
+      "characters": [
+        "Cheryl",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, darnit, we're all out of milk. Hey Chandler, would you fill me up here?",
+      "characters": [
+        "Mark Robinson",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, that's uh, that's pretty nice but I'm gonna go with the one I picked first.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "'Cause Carol's a lesbian. And, and I'm not one. And apparently it's not a mix and match situation.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Receptionist"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "So, uh, what kinda stuff do you think they'll have you do there?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well I didn't think that was serious. Ya know I thought that was just a fight.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay look, Chandler, if this you have got to listen! You're gonna throw that juice at me, aren't ya?",
+      "characters": [
+        "Phoebe",
+        "Dr. Harad",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So we're okay, we're okay, we're okay, aren't we? No, we're not okay, we're not okay, there's a bump, there's a bump.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No! Y'know what? No! No! You thing was so stupid anyway, this was ridiculous-We're gonna flip a coin! All right?! Heads!",
+      "characters": [
+        "Chandler",
+        "Amy Green",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is so bizarre. I guess it kinda makes sense though, y'know she had such a terrible childhood.",
+      "characters": [
+        "Sandy",
+        "Chandler",
+        "Judy Geller",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

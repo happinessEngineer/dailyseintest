@@ -1,0 +1,106 @@
+{
+  "gameNumber": 779,
+  "date": "2027-03-12",
+  "questions": [
+    {
+      "quote": "Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "It's not a blue screen... it's just, maybe it was just really clear that day. OK, I have to talk to my grandmother.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, just hold on a second. I'm watching this rugby thing on ESPN. I don't know what the big deal is. I'm man enough to play this sport.",
+      "characters": [
+        "Ross",
+        "Joshua Burgin",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well he's probably mad after you called him this morning to borrow his goggles.",
+      "characters": [
+        "Chandler",
+        "Mark Robinson",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm serious. You're amazing. You know when to spritz, when to lay back.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Guess who's up for keynote speaker at the National Paleontology Conference?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh my God, he's gonna do it now. Please, I cannot watch this, let's go.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Tag Jones"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, come on, you came through, you did what you had to do. That is very dad.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "All right. Umm, you could uh start out with a little 1, a 2, a 1-2-3, 3, 5, a 4, a 3-2, 2, a 2-4-6, 2-4-6, 4, 2, 2, 4-7, 5-7, 6-7, 7 ...7.....7...7-7-7-7-7-7-7-7-7-7-7-7...!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I'd love too, but I got acting class. But y'know what? I guess I can blow that off, for you.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

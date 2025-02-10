@@ -1,0 +1,106 @@
+{
+  "gameNumber": 888,
+  "date": "2027-06-29",
+  "questions": [
+    {
+      "quote": "Oh it... good! Yeah, but I'm not gonna hear from that for a couple of days.",
+      "characters": [
+        "Judy Geller",
+        "Phoebe",
+        "Gavin Mitchell",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "As my lawfully wedded husband, in sickness and in health, till death parts us.",
+      "characters": [
+        "Minister",
+        "Monica",
+        "Rachel",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Minister"
+    },
+    {
+      "quote": "That's right. You're making a commitment and that's the same, whether you do that at the Plaza or, where are you gonna do it?",
+      "characters": [
+        "Donny Osmond",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohh! Yeah! Yeah that-that would've been a much simpler problem.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey, how much will you give me to eat this whole jar of olives?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Just one more thing. I was so pissed at you that night that I wanted to get back at you. So I thought, who does Ross like the more than anybody?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, hi, I'm Joey. My stupid friends are buying this house. Who are you?",
+      "characters": [
+        "Phoebe",
+        "Paul Stevens",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Janice! There you are! There you are! I had to have one last kiss, and also-also you said that you were going to leave right after I got on the plane!",
+      "characters": [
+        "Chandler",
+        "Dr. Long",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Uh-uh nothing. I-I-I-I didn't want you to touch me cause I'm -I'm all sweaty from the workout. I better hit the shower. Oh my God!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well this has story behind it! I mean they had to ship it all the way from the White Plains store.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

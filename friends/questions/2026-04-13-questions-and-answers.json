@@ -1,0 +1,106 @@
+{
+  "gameNumber": 446,
+  "date": "2026-04-13",
+  "questions": [
+    {
+      "quote": "Pheebs! Wait up! Listen uh, close your eyes. Maybe that's one thing you can cross off your list.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Whoa-whoa-whoa. Jokes? You guys know they have naked chicks in there, right?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, of course it smells really bad. You have your head up a dead animal.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "See, there are still several areas that haven't been fully excavated.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Come on, don't be crazy. You don't think there's someone out there better suited for Monica than me, do ya?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm just saying, get his number just in case. But no Chandler is in an accident and can't perform sexually and he would want you to take a lover to satisfy the needs that he can no longer fulfill.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Umm, Chandler, if you want I can make you some macaroni and cheese for dinner.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Judy Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Just your dad. Although that's actually racquetball. You know I-I do have a blind date with my sister's neighbour next Tuesday.",
+      "characters": [
+        "Richard Burke",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Good one. Actually, ah, Terry wants you to take the training again, whenever.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Gunther"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Just walking past the kitchen I saw 10 violations! I'm shutting this place down!",
+      "characters": [
+        "Larry",
+        "Joshua Burgin",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Larry"
+    }
+  ]
+}

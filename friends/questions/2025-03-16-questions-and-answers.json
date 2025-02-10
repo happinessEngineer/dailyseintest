@@ -1,0 +1,106 @@
+{
+  "gameNumber": 53,
+  "date": "2025-03-16",
+  "questions": [
+    {
+      "quote": "Uhh, I mean this is like reading about my own life. I mean this book could have been called 'Be Your Own Windkeeper Rachel'.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Icky? You're actually gonna throw this away because it's icky?",
+      "characters": [
+        "Ethan",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Kathy",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know, it's very hard to take you seriously when you look like that.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh my god. This is huge. This is bigger than huge. This is like, all right, what's bigger than huge?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "All right, you know what we gotta do? We gotta get you outta here. Come on, I'll buy you breakfast, let's go.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Emily Waltham"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know I'm-I'm sensing that um, my grandmother would not be comfortable with that.",
+      "characters": [
+        "Rachel",
+        "Janice",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So, these are the preliminary forms for an open adoption. There's a lot to go over, but I'll explain everything as we go through it.",
+      "characters": [
+        "Agency Guy",
+        "Rachel",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Agency Guy"
+    },
+    {
+      "quote": "Ooh, that is silly. I'll go up there, I'll tell him to keep it down.",
+      "characters": [
+        "Phoebe",
+        "Stephen Waltham",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, okay, here she comes! How do I look? Do I look like a guy who doesn't want to get married?",
+      "characters": [
+        "Chandler",
+        "Judy Geller",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

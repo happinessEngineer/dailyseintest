@@ -1,0 +1,106 @@
+{
+  "gameNumber": 748,
+  "date": "2027-02-09",
+  "questions": [
+    {
+      "quote": "Oh, I don't know. Maybe, um, \"That was nice?\" Admit something to me? \"I'll call you?\"",
+      "characters": [
+        "Monica",
+        "Mindy Hunter",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, well. Everything that I need is in here and my travel documents are on the counter organized in the order that I will be needing them.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know R.G., I was thinking something girlie for your office.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "'Cause uh, this is today's Post and uh, these are the listings I found. Brooklyn Heights, two bedroom. Brooklyn Heights, one bedroom. Brooklyn Heights, Brooklyn Heights, Brooklyn Heights!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Gary",
+        "Ross"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Yeah or also when you don't have somebody breathing down your neck ALL THE LIVE LONG DAY!!",
+      "characters": [
+        "Steve",
+        "Timothy Burke",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, if that was true, gym class would've been a lot more interesting.",
+      "characters": [
+        "Fake Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm sorry. I, I told you I was in Tulsa because I wanted to spend the night with Monica and I, I didn't know . . . I didn't think you'd understand.",
+      "characters": [
+        "Sandra Green",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah! Sure! Ooh, I left my purse up at Monica's. I'll be right back.",
+      "characters": [
+        "Joey",
+        "Customer",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "OK, I wasn't in love with him and I was just helping out a friend.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, thanks... They passed. They said they wouldn't go a penny under the asking price.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

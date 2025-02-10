@@ -1,0 +1,106 @@
+{
+  "gameNumber": 91,
+  "date": "2025-04-23",
+  "questions": [
+    {
+      "quote": "It's so good, that I feel really selfish about being the only one who's eating it, that I think we should have everyone taste how good it is. Especially Ross.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, ladies and gentlemen, let's poke. Steady. Steady. Okay, a little higher. Careful of the angle. Okay, okay, we're approaching the window Thread the needle. Thread the needle.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, I never got to hear who you guys would pick to be your girlfriend.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, come on! All right, I gotta go! So good luck at the party. Okay?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, apparently I'm willing to offer her things that you are not.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "Oh. I'm sorry. I'm very sorry. Sorry. It's just, I'm ahh, I'm kinda excited. I'm, ahh, going to London to ahh, tell this guy that I love him and...",
+      "characters": [
+        "Rachel",
+        "Emily Waltham",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay Joey? Chandler's here, he was wondering... Okay, I guess he ran out of change.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm not gonna watch it... I don't NEED to watch it... I mean, what good could possibly come from watching? Well, we know I'm gonna watch it.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know, but I was just thinking about how huge this is for me. I didn't even go to how huge this was going to be for the father.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, no, no... why, because it might get weird for everyone else? Who cares about them. This is about us. Look, I-I've been in love with you since, like, the ninth grade.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

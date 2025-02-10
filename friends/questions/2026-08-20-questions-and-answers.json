@@ -1,0 +1,106 @@
+{
+  "gameNumber": 575,
+  "date": "2026-08-20",
+  "questions": [
+    {
+      "quote": "If I was a superhero who could fly and be invisible, that would be the best.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, y'know, possibly. You didn't tell him that, though? Right?",
+      "characters": [
+        "Rachel",
+        "Kim",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "The spoon. You licked and-and you put. You licked and you put.",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Her ass print is still on your grandmother's quilt, do you really want to talk about smoking?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Na, na I'm ok. Oh and uh, just so you know, I'm not movin' back in 'cause I have to. Well, I mean, I do have to. It's just that that place wasn't really, I mean, this is...",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What?! Are you insane? This woman stole from you. She stole. She's a stealer.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know! I think it's kind of serious! Oh, you know... I was watching this thing on TV this morning about... Newcastle disease... and I think I might have it!!",
+      "characters": [
+        "Mr. Treeger",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You're not gonna go anywhere, you said you were gonna eat here, and you're gonna eat here!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I snapped, okay? I couldn't handle the pressure and I snapped.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Doug",
+        "The Doctor"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, that sounds fair. It just means that once again we can't...",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

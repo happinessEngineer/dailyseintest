@@ -1,0 +1,106 @@
+{
+  "gameNumber": 754,
+  "date": "2027-02-15",
+  "questions": [
+    {
+      "quote": "Listen, if you ever have any problem with the ladies you know I'll help you out.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What an interesting approach to guitar instruction. Y'know some might find it amusing, I myself find it regular.",
+      "characters": [
+        "Mike Hannigan",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Joey is having a secret Days Of Our Lives party up on the roof!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Sweetheart, you obviously have a problem. You've chosen a boyfriend exactly like your father.",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Monica",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Sandra Green"
+    },
+    {
+      "quote": "Okay, could you just stop talking for a second? Yemen. That's right, yes, I'm being transferred to Yemen!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'll never understand you lesbians. So baby, tell me...what is new with you.",
+      "characters": [
+        "Peter Becker",
+        "Rachel",
+        "Joey",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Uh, look, Larry honey, umm, I wrote the book on Section 5 and I know that you don't have to wear your hat unless you're in the kitchen.",
+      "characters": [
+        "David",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Absolutely! You'll love the feeling! There's nothing like it!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't believe this. You got him to pretend he was some fake doctor?",
+      "characters": [
+        "Joey",
+        "Cliff",
+        "Janice",
+        "Mr. Ratstatter"
+      ],
+      "correctAnswer": "Cliff"
+    },
+    {
+      "quote": "Well, you should be, this is all your fault! You meddled in our relationship!!",
+      "characters": [
+        "Phoebe",
+        "Leonard Green",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

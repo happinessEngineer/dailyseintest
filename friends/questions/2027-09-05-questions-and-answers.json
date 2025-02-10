@@ -1,0 +1,106 @@
+{
+  "gameNumber": 956,
+  "date": "2027-09-05",
+  "questions": [
+    {
+      "quote": "Well, umm, not much. But, I was just thinking that since those guys just got engaged that maybe it would be nice if they had some privacy, y'know? So, could I just move in with you for a couple days?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on, we were great together. And not just at the fun stuff, but like, talking too.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm telling you, he's great! I mean, even if my sperm worked fine, I'd think he'd be the way to go!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Tag Jones",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'll tell you what, Chandler, why don't you call me when you grow up!",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Kathy",
+        "Monica"
+      ],
+      "correctAnswer": "Kathy"
+    },
+    {
+      "quote": "So basically, this is a getting-rid-of-everything-Rachel-ever-used sale.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Nah, Monica's watching some cooking show. Come on, I don't want to miss when they were skinny.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet! Not yet!",
+      "characters": [
+        "Chandler",
+        "Cecilia",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, well, ah... maybe thats because theyre ah... jealous, of us.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, I'm pretty confident about that. That's what makes it so easy for me to be 80% happy for Monica and Chandler! It would be nice to have a little guarantee though.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So Theodore... I uhm... I can see where Mike gets his good looks from...",
+      "characters": [
+        "Phoebe",
+        "Cecilia",
+        "Janice",
+        "Kim"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

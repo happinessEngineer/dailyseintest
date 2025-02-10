@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1277,
+  "date": "2028-07-22",
+  "questions": [
+    {
+      "quote": "Well actually, I-I didn't eat mine. It's still in the bathroom.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, that's Nana, right there in the middle. 'Me and the gang at Java Joe's'.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Eric"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, she left a message. But it-it kinda got erased. There's just something wrong with your machine.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Have a seat. Last night, I tried to welcome you into my family... and instead, you disrespect me... I cannot allow this.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Woman",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Of course, yeah. You know, a kiss on the cheek wouldn't be totally inappropriate...",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Sure, I can hang out 'til I have to meet ya. What uh-How come you're not going?",
+      "characters": [
+        "Paul Stevens",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. I'm okay. I'm actually-I'm a little cold, can I have your jacket?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, it's too late, and I got an audition. I can't shop anymore! I...",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well then, y'know what? I care about you to much to watch you hurt yourself like this. So if you have to do this, then you're gonna have to do it without me.",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh you wouldn't uh, care. It's just a stupid comic book story.",
+      "characters": [
+        "Benjamin Hobart",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

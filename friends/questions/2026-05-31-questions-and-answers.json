@@ -1,0 +1,106 @@
+{
+  "gameNumber": 494,
+  "date": "2026-05-31",
+  "questions": [
+    {
+      "quote": "Well, I guess having Rachel back wouldn't be the worst thing in the world.",
+      "characters": [
+        "Rachel",
+        "Grandmother",
+        "Mr. Zelner",
+        "Ross"
+      ],
+      "correctAnswer": "Mr. Zelner"
+    },
+    {
+      "quote": "Hah! I found it! I told you I would find it! In your face! You're a different person.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Cecilia",
+        "Director"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey! Hey! Hi! Hey-hey-hey, I'm Rachel! From upstairs? The ones with all the pizza?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joanna"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh yes. Oh and, the part about how they're always like drinking from out pool of inner power, but God forbid we should take a sip.",
+      "characters": [
+        "Joey",
+        "Richard Burke",
+        "Phoebe",
+        "Mr. Thompson"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, umm that's Whitney , Kyle's ex-wife out there, now do you think that you can y'know divert her so that we can slip out?",
+      "characters": [
+        "Judy Geller",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "That's right! We said your parents flipped a coin, decided to raise you as a girl, but you still had a hint of a penis.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Will Colbert",
+        "Monica"
+      ],
+      "correctAnswer": "Will Colbert"
+    },
+    {
+      "quote": "You guys have one of those signs that says 'We don't swim in your toilet, so don't pee in our pool.', you know.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I guess I could use that. I could say that your love sends me to the moon.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": ": Oh well this is the only one they had at our video store, but they did have something called crocodile killers. Or does it always have to be sharks?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Uuh, before we get into any staying-over-stuff, there is something you should know.",
+      "characters": [
+        "Ethan",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ethan"
+    }
+  ]
+}

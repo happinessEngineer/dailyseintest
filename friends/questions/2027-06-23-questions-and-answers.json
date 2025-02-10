@@ -1,0 +1,106 @@
+{
+  "gameNumber": 882,
+  "date": "2027-06-23",
+  "questions": [
+    {
+      "quote": "Please! Please! Please! Please! Oh please! Please! Please! Frank and Alice asked me to baby sit the triplets and I'm nervous 'cause I've never done that before by myself!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no really. I.. I wouldn't feel right about it. Just some water.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, it was time. The old condom ring in the leather just doesn't say 'cool' anymore.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well then a small one!! Listen, let's, we kinda have to get going!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What do you have against the duck?! He doesn't make any noise!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "So you uh, you checked the paper for listings in Brooklyn Heights, right? You-you checked the Post?",
+      "characters": [
+        "Gary",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "God! Ooh! What is that smell? It's coming from the bathroom. Ooh!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "We'll each tell you how we came up with the joke and then you decide which one of us is telling the truth-me.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow! This is shaping up to be a pretty good date-Oh, I almost forgot. I didn't pay you the rent check.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ugh, we have already proved that we are hot! Okay? So why-why are you getting so obsessed about this thing?!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

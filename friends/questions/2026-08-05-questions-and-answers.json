@@ -1,0 +1,106 @@
+{
+  "gameNumber": 560,
+  "date": "2026-08-05",
+  "questions": [
+    {
+      "quote": "It's left sweetie, but that's okay sweetie, that's a tough one.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Benjamin Hobart",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now Joey remember, if you win you have to hug me! You hug me!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, then, I guess that's the difference between us. See, I'd never make a list.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I was dancing around, and singing \"No Woman, No Cry\" and I got stuck.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And the vet said it was time. And so from half a world away, while my Mother held the phone to his ear, I said good bye to my dog,. In seven languages.",
+      "characters": [
+        "Rachel",
+        "Mischa",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Mischa"
+    },
+    {
+      "quote": "I hate my friends. Alright, look. There's gotta be a way that we can stop this from happening.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, were you guys smoking something in the back of our van?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Bonnie",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, sorry I'm late. But my, uh, grandfather, he- died about two hours ago. But I-I-I couldn't get a flight out 'til tomorrow, so here I am!",
+      "characters": [
+        "Doctor",
+        "Angela Delveccio",
+        "Chandler",
+        "Bobby Rush"
+      ],
+      "correctAnswer": "Bobby Rush"
+    },
+    {
+      "quote": "So listen ah, I picked Monica for secret Santa, but I'm already getting her something for Chanukah, I was wondering if you wanna switch.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What happened to your rule about never sleeping with sick people?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

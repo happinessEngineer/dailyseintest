@@ -1,0 +1,106 @@
+{
+  "gameNumber": 592,
+  "date": "2026-09-06",
+  "questions": [
+    {
+      "quote": "How do you feel about the, \"I really did forgot the present, please forgive me\" not fake out?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, before, with the wishbone... I didn't wish we would win the lottery, I wished you'd get the job.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know, you read about it, you see it in the movies. Even when you practice it at home, man oh man, it is nothing like that.",
+      "characters": [
+        "Ethan",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "That guy has been waiting for his coffee for ten minutes! He's complained about you three times!",
+      "characters": [
+        "Gunther",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "Oh no! How can she do that when she's never shown any interest in you?!?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well I think the length of teasing is directly related to how insane you were so, a long time.",
+      "characters": [
+        "Mona",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Dr. Greene. Oh my God it's Rachel's dad. What're you doing here?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes... I'm sorry, I've never met a boyfriends parents before...",
+      "characters": [
+        "Phoebe",
+        "Judy Geller",
+        "Monica",
+        "Doug"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "So Phoebe, you ah, sounded kinda serious on the phone, is ah, is anything wrong?",
+      "characters": [
+        "Phoebe",
+        "Jason",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Jason"
+    },
+    {
+      "quote": "Okay, Ben, I won't tell your daddy that you had ice cream for dinner, if you don't tell about our little bonking incident.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

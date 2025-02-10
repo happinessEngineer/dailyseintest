@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1432,
+  "date": "2028-12-24",
+  "questions": [
+    {
+      "quote": "Oh well, since I have that whole history with Rachel, I guess Phoebe.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Why don't you cut him a little slack? Okay? Maybe if he relaxes a little bit, he'll get some work done.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Nice? They were nice. I mean, that's it? I mean, mittens are nice.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Mr. Treeger",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because it's impossible to find her apartment! She lives in some like of hot girl parallel universe, or something.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ok, I just wanna be really sure this time. Andie McDowell's the girl from Four Weddings and a Funeral, right?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know.. you let your guard down, you start to really care about someone, and I just- I-",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Eric",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, at least you didn't rent yours from a store called, \"It's Not Too Late.\"",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Laura"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross and Emily have made their declarations and it gives me great pleasure to declare them husband and wife.",
+      "characters": [
+        "Minister",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Minister"
+    },
+    {
+      "quote": "That's right, mister, and I don't care how old you are, as long as you're under my roof you're gonna live by my rules. And that means no sleeping with your girlfriend.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Mischa",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, well um, not right now. Y'know I'm just gonna go to bed, I think the fumes are giving me a headache.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

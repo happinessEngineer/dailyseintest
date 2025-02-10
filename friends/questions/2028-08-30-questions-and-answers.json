@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1316,
+  "date": "2028-08-30",
+  "questions": [
+    {
+      "quote": "I bet Ross was in on it too. I mean he was conveniently busy.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Do you mind if we stick you in another cabinet? They seem all right with it!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "He carries it everywhere, it's like a security blanket, but with ski boots and a kicky beret.",
+      "characters": [
+        "Susan Bunch",
+        "Monica",
+        "Joey",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "Oh..please!I-I welcome criticism. 3rd Customer: The musician right outside the restaurant...it's kind of a mood-killer!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh y'know what? Y'know what? Now that you know what you want you should go to Kleinman's and get it half off. This place is so overpriced.",
+      "characters": [
+        "Monica",
+        "Woman",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, just like I said. That crazy... Bert... roaming the halls.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "He's kinda tall, dark hair, hand looks exactly like this. See?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I know, but it's just it's the first time, and I just don't want her to think that because I didn't marry Barry, that my life is total crap, you know?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't know. I don't know how I feel. This is all happening so fast. I have to make all these decisions that I don't want to make. Somebody just take this away from me!!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rach, come on, if you think about it, it's actually kinda funny. Okay, maybe it's best not to think about it.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Mr. Ratstatter",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

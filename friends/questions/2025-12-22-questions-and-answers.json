@@ -1,0 +1,106 @@
+{
+  "gameNumber": 334,
+  "date": "2025-12-22",
+  "questions": [
+    {
+      "quote": "Hey, it's me. Listen Casey and I were on our way back and had a little car trouble.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh well, the powerball lottery is upto 300 million and they don't sell tickets here in New York, so...",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Emily Waltham",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. It disappears back there behind that baseboard. For a minute there, I thought it went downstairs.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look, I've just pressed a button, triggering a silent alarm. Any minute now, the police will be here!",
+      "characters": [
+        "Trudie Styler",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Trudie Styler"
+    },
+    {
+      "quote": "Ugh, we're screwed, aren't we? You know what? Just tell me on the way to the bird store.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, no, I'm sure you have a great excuse, wh-was it a hair appointment, a mani-pedi or was there a sale at Barney's?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, because you signed it baby kangaroo Tribbiani . Hey, why don't you stop worrying about sounding smart and just be yourself!",
+      "characters": [
+        "Monica",
+        "The Salesman",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's good, you should be impulsive and you should be romantic. Just...you did it with the wrong person. What?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Judy Geller",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, guys, you can't do this, it's just going to make getting over each other, that much harder.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey I was crying because, because nobody believed Quincy's theory. Okay?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

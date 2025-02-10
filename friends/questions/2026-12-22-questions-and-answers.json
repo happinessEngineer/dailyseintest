@@ -1,0 +1,106 @@
+{
+  "gameNumber": 699,
+  "date": "2026-12-22",
+  "questions": [
+    {
+      "quote": "You told this guy that I was looking for a fling?! You don't tell the guy that!",
+      "characters": [
+        "Monica",
+        "Man",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, no, well I want to kill them to, but their boys, y'know how are we gonna beat three boys?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I mean, I realize that his feelings may never completely go away, but you can.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Luisa Gianetti",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, and they should name one of their kids Joey. I may not have kids; someone's gotta carry on the family name.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Carol"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, really, really good. But enough about me, come on! Where-where are you from? What do you do?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well uh, you and I are just goofing around, I thought, why not just goof around with him.",
+      "characters": [
+        "Cecilia",
+        "Janice",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What? Can't you see I'm in the middle of something? Ooh, I like it.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Kathy"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Pheebs, come on, you didn't kill anybody, these people just happened to die when you went to the dentist. It's, it's, it's just ah, a coincidence.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "But we were hoping that since we told you the truth that you still might consider...",
+      "characters": [
+        "Richard Burke",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, no, no, no I don't think it's weird, I think, I think umm, in fact, in fact you know what I think?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Earl"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

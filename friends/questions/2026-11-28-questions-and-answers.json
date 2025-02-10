@@ -1,0 +1,106 @@
+{
+  "gameNumber": 675,
+  "date": "2026-11-28",
+  "questions": [
+    {
+      "quote": "Now all you have to do is just get through a little bit more, okay? Then we can put you in bed, okay? Just smile and don't talk to anyone.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know! I'm-I'm kinda thinking it-it was the lobster...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But there's a whole table of mini-muffin baskets. Which one did you send?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Earl",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I was tryin' to make a sale!! Oh, man, if I ever run into that guy again, do you know what I'm gonna do?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look; you got stood up, who cares? We're gonna show you a good time. Just sit and relax. In fact, let me bring you a crab cake appetizer on the house.",
+      "characters": [
+        "Waiter",
+        "Phoebe",
+        "Eddie Menuek",
+        "Ross"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "It's all working out! Me & Charlie, and you two. You know what we should do?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It's so weird seeing Ross and Rachel with a baby. It's just so grown up.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Malcom",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No not you, Dr. Drake Remoray. You can ask him questions and see what's he like. People tell doctors everything.",
+      "characters": [
+        "Amy Green",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, y'know what? This is your fault! You're the one that didn't move his-his appointment.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Eddie Menuek",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I, I don't know, it's got all this stuff about wind and trees and there's some kind of sacred pool in it. I mean, I don't really get it but she's, she's pretty upset about it.",
+      "characters": [
+        "The Woman",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

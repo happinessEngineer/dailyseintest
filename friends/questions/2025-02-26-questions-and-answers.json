@@ -1,0 +1,106 @@
+{
+  "gameNumber": 35,
+  "date": "2025-02-26",
+  "questions": [
+    {
+      "quote": "He got all weird and sputtery and then he said uh, \"Yeah, I hear those hemorrhoids are a bitch.\"",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Look, I don't know why the kids need a youth center anyway! Y'know? They should just watch TV after school like I did and I turned out fine!",
+      "characters": [
+        "Joey",
+        "Eddie Menuek",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know, if you listen closely, you can hear a thousand retailers scream.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know. I mean, all right, I guess you can say she's a little spoiled sometimes.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ok, so anyway, you were telling me about Paris, it sounds fascinating.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, there was talk of shutting down Ralph Lauren all together.",
+      "characters": [
+        "Ross",
+        "Gavin Mitchell",
+        "Minister",
+        "Nurse"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Ah! I'm an actor! I can memorize anything! Last week on \"Days\" I had to say \"Frontal temporal zygomatic craniotomy\".",
+      "characters": [
+        "Janice",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But work comes first! Oh hey, but that's sad about you though, what happened? Burn out? Burn all out, did ya?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You'd better hope not because I just read what you put on your page today.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Director"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

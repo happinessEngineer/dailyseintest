@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1469,
+  "date": "2029-01-30",
+  "questions": [
+    {
+      "quote": "Chandler, we have talked about this. You are not supposed to give people advice! Now couldn't you just have made some sort of inappropriate joke?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh. Thank you. Ohhh, thank you very much. Oh, thank you for coming. Uh, just a second!",
+      "characters": [
+        "Joey",
+        "Joshua Burgin",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I may not know any of your flash dances but I'm no slouch on the dance floor.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Peter Becker",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey-hey, you guys oh hurry up, get some, there's a whole cart outside...",
+      "characters": [
+        "Rachel",
+        "Teacher",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! Did you hear that?! My dad's proud of me! My dad's proud of me.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "11, unbelievable 11 is correct. All right, that's 4 for the guys. Ladies, you're up.",
+      "characters": [
+        "Phoebe",
+        "Eddie Menuek",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Chandler and Monica?!! Oh, this is unbelievable!! How long have you known?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Jeez, thank you really that is so nice. But um, to be honest, I don't think I can wear these, they're so tight, I feel like I'm on display. I'm sorry.",
+      "characters": [
+        "David",
+        "Joey",
+        "Monica",
+        "Robert Bobby"
+      ],
+      "correctAnswer": "Robert Bobby"
+    },
+    {
+      "quote": "Yes! You know, in six months the Statute of Limitations runs out and I can travel internationally again!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Eddie Menuek",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I didn't lose my mind! Okay, Janice and I have a lot in common! We've-we've both been divorced. We-we both have kids.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

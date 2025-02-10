@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1178,
+  "date": "2028-04-14",
+  "questions": [
+    {
+      "quote": "Chandler? What an unusual name! You must've had terribly fascinating parents.",
+      "characters": [
+        "Rachel",
+        "The Waiter",
+        "Chandler",
+        "Helena"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "Isn't that sad? I mean, can you see how pathetic that is? You shouldn't be jealous. You should feel bad for him.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm sorry. I'm really sorry, but I need to get off the plane, okay? I need to tell someone that I love love them.",
+      "characters": [
+        "Richard Burke",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "See, this is why I told you never get involved with your assistant! And here is no such thing as keeping secrets when it comes to affairs. Did you hear that Chandler? No such thing!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, everybody, this is Rachel, another Lincoln High survivor. This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I-I-I-I don't, I actually don't know who I'm talking about! So!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, Jasmine, please, please don't. I love my girlfriend very much, and I want more than anything to just work it out with her. Okay?",
+      "characters": [
+        "Sandra Green",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well I assume the ah, happy couple isn't up yet. Did you guys hear them last night?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know what honey, you go ahead, we'll call her an alternate.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Because you broke a chair and you broke a chair! The only one around here that hasn't broke a chair, is me!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

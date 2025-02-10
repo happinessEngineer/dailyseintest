@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1383,
+  "date": "2028-11-05",
+  "questions": [
+    {
+      "quote": "Oh, don't you guys look cute. You guys make such a cute couple.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, Fonzy gives you two thumbs up, collect two cool points. Yeah.",
+      "characters": [
+        "The Director",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, we tried them all. We went for a walk, uh we tried a special tea, caster oil, spicy food nothing has worked.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, well if I stop playing with Joey and Chandler, can I play with Mark?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I gotta call him. Just to talk to him, there's no harm in that.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Helena",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but then you spent Phoebe's entire birthday party talking to my breasts, so then I figured maybe not.",
+      "characters": [
+        "Amy Green",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm telling you this thing won't print. Yes, I pressed that button like 100 times. You know, for a hot line you are not so hot. What? What is that in the background? Are you watching Star Trek?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "And Chandler, you're gonna have to watch those long showers you take in the morning because you know Raquel can't be late.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Mike Hannigan",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What? No! No Ross! No-no! Stop! I'm not jumping! Okay, look I have an audition tomorrow and I can't go if I break my leg.",
+      "characters": [
+        "Dr. Long",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't even know the man. Okay? We're not the close. I haven't seen him in years.",
+      "characters": [
+        "The Director",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

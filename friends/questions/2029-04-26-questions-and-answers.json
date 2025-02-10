@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1555,
+  "date": "2029-04-26",
+  "questions": [
+    {
+      "quote": "Yes. I hated you. I mean I, I, loved you in a 'you're my brother so I have to' kind of way, but basically, yeah, I hated your guts.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now. But I'm not.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right! Y'know what? That's it! You wanna do it?! Let's do it!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Melissa Warburton",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "My best friend and my sister! I cannot believe this. You guys probably wanna get some hugs in too, huh? Big news!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Get all freaked out because everybody was talking and just joking around about marriage and stuff.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "There isn't time. You must leave everything. They'll take care of you next door.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, ah, before you get all talky again, umm, could you also please tell Sergei that I really like his suit.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Look, I know that you guys really want to get to Vermont and this isn't a really big deal to you, but it really is to us, ok? Emma will never have a first birthday again.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "It's weird, but you know what I don't wanna throw this away. I mean this is like all I have left of him, gross, drain hair. Ooh!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Honey, listen... You have nothing to worry about with Geoffrey.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

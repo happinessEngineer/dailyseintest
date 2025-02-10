@@ -1,0 +1,106 @@
+{
+  "gameNumber": 567,
+  "date": "2026-08-12",
+  "questions": [
+    {
+      "quote": "How are ya? How are ya? Where are your babysitters, huh? Why's the bedroom door closed?",
+      "characters": [
+        "Erica",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, no, no, see that's why you have to do this job, agents always lie. You know, Estelle just says stuff like 'They went another way', but this, I can use this. I canna work on a new accent.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, when the music starts up again, I was thinking of maybe goind into the robot, y'know?",
+      "characters": [
+        "Phoebe",
+        "Allesandro",
+        "The Salesman",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wait, was this a-a small mediterranean guy with curiously intelligent good looks?",
+      "characters": [
+        "Leslie",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's because their nerves are probably deadened from being so stupid. But hey, y'know if you don't believe me, please, by my guest.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Roy",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey, I've been doin' it since the ninth grade, I've gotten pretty damn good at it.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, where is he? He is supposed to be here. What if the baby needs him?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You see this, this is a person who is ready to go. Phoebe you, oh, you are my star.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, why don't you check in one of my saddlebags while I chew on a bale of hay!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "So, I'm in my apartment doing the Soap Opera Digest crossword puzzle, and guess who the clue is for three down.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

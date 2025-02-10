@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1296,
+  "date": "2028-08-10",
+  "questions": [
+    {
+      "quote": "No Paul, I don't know anything about you! Y'know, like-like your childhood! Tell me about your childhood!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Jean-Claude Van Damme",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Of course, you did. Forgot something else too ya bastard! Well, what about you? You're not feeling left out or anything are ya?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Doug"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well uh, I-I'm a paleontologist. Umm, I-I live in New York. I have a son Ben. Uh, hi Ben! And uh...",
+      "characters": [
+        "Ross",
+        "Earl",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right. Uhh, okay. Our first contestant is Ross Geller. Why don't you tell us a little something about you Ross?",
+      "characters": [
+        "Rachel",
+        "Richard Burke",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right. All right. Then, maybe you won't mind if me and my friend take a look around, huh? Bwa-ah-ah!",
+      "characters": [
+        "Phoebe",
+        "Kate Miller",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I'm gonna go back to being Street Phoebe. Yeah! Oh but, y'know what? I can't go totally back because Street Phoebe really wouldn't be friends with you guys. Sorry.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Eric",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Umm listen, I don't think...I don't think I'm gonna make it to the wedding. So I just want to wish you all the luck in the world.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Michael"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah. Op! Uh-oh! I think your Dad must've added wrong. He only tipped like four percent.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We should get over there and see if she's okay. Just one...second! Score! Game! Come on.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Jack Geller",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 682,
+  "date": "2026-12-05",
+  "questions": [
+    {
+      "quote": "Joey, Ross is gonna be here any second, would you mind watching Ben for me while I use the ladies' room?",
+      "characters": [
+        "Gunther",
+        "Wendy",
+        "Chandler",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Well, there was that one time that Monica and Rachel got together.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm a lady Monica, I don't kiss and tell. But this hickey speaks for itself.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, hey, my pleasure. So what are your intentions with my Phoebe?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Guys, I'd listen to her. The vein is bigger than I've ever seen it.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Kathy"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, well, I'll take a little crying any day over Howard-the-\"I-win\"-guy. \"I win! I win!\" I went out with the guy for two monthsI didn't get to win once.",
+      "characters": [
+        "Charlie Wheeler",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, yeah, right. There was a break-in, few months back, inside job. Your monkey was taken.",
+      "characters": [
+        "Phoebe",
+        "Trudie Styler",
+        "Janitor",
+        "Joey's Hand Twin"
+      ],
+      "correctAnswer": "Janitor"
+    },
+    {
+      "quote": "You don't tell me what to do! I tell you what to do! Just call her. She's at the Paradise Hotel in Barbados. And while I've got you, you've got curly hair. What do you do in humidity? Damnit!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Frank Buffay Jr.",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "'Kay, wait a minute, are you sure she didn't say \"When are you gonna grow up and realise I am your mom?\"",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "To tape the game? You do this every time Ross, you're not gonna be on TV!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

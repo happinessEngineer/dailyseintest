@@ -1,0 +1,106 @@
+{
+  "gameNumber": 709,
+  "date": "2027-01-01",
+  "questions": [
+    {
+      "quote": "Okay, make sure you look both ways before you cross the street.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Sarah Tuttle",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You should find out what his hobbies are and then use that to bond with him. Yeah! Like if I would strike up a conversation about say umm, sandwiches. Or uh, or my underwear.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": ": Hey Rach its me ok I just got the Chandler's room and I caught him molesting himself.",
+      "characters": [
+        "Man",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ok, here are the birthday candles. Where's the birthday cake?",
+      "characters": [
+        "Fake Monica",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, I don't watch soap operas. Excuse me, I have a life, y'know?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi Dr. Greene. So, uh, how's everything in the uh, vascular surgery....game?",
+      "characters": [
+        "Director",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, if I had them taken out, then I wouldn't be able to do this. You like that, right?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh what, wait, wait a second, I mean, what are we doing? Who's going with who?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm so sorry, but you should have a sign out there or something. Or at least whisper it to people when they come in the door. \"Owen doesn't know he's adopted, and he also thinks that Santa is real.\"",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Joey",
+        "Nora Tyler Bing"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

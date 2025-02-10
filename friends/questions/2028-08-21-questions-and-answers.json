@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1307,
+  "date": "2028-08-21",
+  "questions": [
+    {
+      "quote": "And they don't like it when you explain why your jokes are funny.",
+      "characters": [
+        "Chandler",
+        "Amy Green",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah, it's about relationships. Y'know? The traps, the pitfalls, what not to do, keep going. This stuff is great!",
+      "characters": [
+        "Rachel",
+        "The Woman",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Uhh, hey look, I don't really enjoy being with other men that way. But, um, zoo dollars?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah that's great! Next to that, Chandler won't look so stupid.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, if I was wearing your underwear then, uh, what would you be wearing?. . . You're swell.",
+      "characters": [
+        "Charlie Wheeler",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "A stripper at a bachelor party, that is so clich. Why don't you get a magician?!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi, Dad. No, no, it's me. li-listen, Dad, I can't talk right now, um, but there's something, um... there's something that I've been meaning to tell you...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's different, okay. That's like, uh 'Who dated a stripper?' or 'Who did it on the back of the Staton Island Ferry?'.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y-ello. No, Rachel's not here right now, can I take a message? Alright, and how do we spell Casey, is it like at the bat or and the Sunshine Band? OK, bye-bye. Hey, who's this uh, this Casey?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Ah, come on, sneakers are easy. You wear sneakers all the time.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

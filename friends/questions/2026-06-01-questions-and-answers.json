@@ -1,0 +1,106 @@
+{
+  "gameNumber": 495,
+  "date": "2026-06-01",
+  "questions": [
+    {
+      "quote": "Really? Okay. Okay, I-I'll go upstairs. If-if you get me something from the car.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ronni Rapalono",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay. I will. Ohh! Check out what they got me to wear for the ceremony! Huh? I wear it like this when I marry you guys, and then this is for party time.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "One of life's great, unanswerable questions. I mean, who knows? Maybe there's something even more painful than those things? Like this.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Joey, come on now, for me! Please, just-just try to focus your sexual energy on someone else.",
+      "characters": [
+        "Joey",
+        "Sandra Green",
+        "Peter Becker",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Thanks you guys, I really appreciate this. All right, I'm gonna get packing again. Man, I've been moving around so much I'm beginning to feel like a nomad.",
+      "characters": [
+        "Charlie Wheeler",
+        "Jack Geller",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wha...? Wait, wait, wait, just a minute. None of my questions have anything to do with Paleontology.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Joey, I uh! I can't believe this is how I'm spending my anniversary.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hello? Hello? Oh, hey Charlie. Did anybody else hear? ... What? Susan got it?? How? Oh man, I would have slept with him!! .. Alright, bye.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'd have to say...the talking gorilla, because at least I can explain to him that you're making me eat him.",
+      "characters": [
+        "Cliff",
+        "Amy Green",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Cliff"
+    },
+    {
+      "quote": "Well, I'm never gonna listen to you again, that's for sure! \"Y'know, harm can it do if you go and put your name down?\"",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 825,
+  "date": "2027-04-27",
+  "questions": [
+    {
+      "quote": "Look, I'm sorry I didn't give them your tape. And I promise, next time to submit you whether I think you are right for the part or not.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross, you should know that my pants are startin' to come down and I'm not wearing any underwear!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Mischa",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well...honestly ever since we got engaged I have been waiting for something to, to flip you out.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, okay, I learned how to shoot a lay-up, a foul shot, and a twenty-three pointer.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",
+      "characters": [
+        "Joey",
+        "Charlie Wheeler",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey! It's Estelle! Great news, I was able to get you and one guest tickets to your premiere.",
+      "characters": [
+        "Estelle Leonard",
+        "Phoebe",
+        "Mischa",
+        "Monica"
+      ],
+      "correctAnswer": "Estelle Leonard"
+    },
+    {
+      "quote": "You're right. I mean I'm sorry. Yeah, I shouldn't be laughing. I should be laying down papers for you!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I wouldn't bring that up, it would probably just bum him out.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ross is on a date with my sister and they shut the drapes two and a-half-hours ago.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Cassie Geller",
+        "Erica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey... hi, ladies... uh, can I get you anything? : Did you bring the mail?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 946,
+  "date": "2027-08-26",
+  "questions": [
+    {
+      "quote": "Math!! You're giving me math! All right, look y'know what, forget about it, you go for the girl, we'll see who gets her.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Dana Keystone"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, you're losin' your apron here, let me get it. There you go.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Julie",
+        "Ross"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "I wasn't trying to open your closet! I wasn't trying to open your closet! I swear!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Nooo! Hello? Oh, yeah, no, I know, I-I haven't been using it much. Oh, well, thanks, but, I'm okay, really.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay. Rachel, the hottest babies in the Tri-State Area are in this room right now! I overheard one of the judges say that not one of them holds a candle to Emma!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, yeah, in honor of their 35th wedding anniversary, I had a star named after them.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right!! All right. I got stung. Stung bad. I couldn't stand. I-I couldn't walk.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Look at me! I'm Chandler! Could I be wearing any more clothes? Maybe if I wasn't going commando...",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Guru Saj",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing.",
+      "characters": [
+        "Gavin Mitchell",
+        "Dina",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right now... All right, you're all set up. You're good to go. Just hit record. All right?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joanna",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

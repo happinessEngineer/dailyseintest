@@ -1,0 +1,106 @@
+{
+  "gameNumber": 36,
+  "date": "2025-02-27",
+  "questions": [
+    {
+      "quote": "Oh God, this is turning into the worst wedding day ever! The bride is pregnant. The groom is missing. And I'm still holding this.",
+      "characters": [
+        "Phoebe",
+        "Susan Bunch",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "The most unbelievable thing has happened. Underdog has just gotten away.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what, it doesn't matter what you say it's not gonna make a difference anyway, so you can just go.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What's not to like? Custard? Good. Jam? Good. Meat? Goooooood.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Look, I'm sorry to hear about your tragedy, ok? But the swings are perfectly safe, and besides Emma loves them. You know what, you should come with us and you'll see!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, isn't weird to think about how next year at this time they'll be a little baby at the table? Rachel's! But good to know where you're at!",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Have fun. Oh wait, no, don't! I forgot I am totally against that now.",
+      "characters": [
+        "Joey",
+        "Frank Buffay Jr.",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You have no idea what a nightmare this has been. This is so hard.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hey, I only got one good arm, you know. You should be doing stuff for me. Go get me a sweater.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, if you really wanna know, I'm-Oh! I can't tell you this.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

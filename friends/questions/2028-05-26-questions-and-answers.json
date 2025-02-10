@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1220,
+  "date": "2028-05-26",
+  "questions": [
+    {
+      "quote": "No, no, look. All I'm saying is that you're my agent, ok? And you're not getting me into any auditions and I'm tired of it.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Remember that big party? Freshman year? A week before Christmas vacation? I do. You had some visitors.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Did you not hear where my head was? Come on! Come on we're a team! We're in this together!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Tim",
+        "Dr. Ledbetter"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's easy! Just keep it casual! Give him a kind word, shake his hand and give him the money!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "This sucks! I didn't know I had to stay up all night before I went to this stupid sleep clinic! I'm so tired!",
+      "characters": [
+        "Judy Geller",
+        "Carol",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Coo, again. Don't blame the pretty lady. It was not her fault. It was me, the pigeon, coo! Seriously, stop staring at her.",
+      "characters": [
+        "Larry",
+        "Phoebe",
+        "Rachel",
+        "Leonard Green"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Aw! Look at that, every inch of this stuff is glued down. It'd take forever to pry this up. You should ah, you should just leave it.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Waiter",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm sorry, that information is restricted to hospital staff...",
+      "characters": [
+        "Nurse",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "I can't believe she's gonna say yes to David. She's clearly in love with Mike.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, we still have food in the basement! I saw potatoes and some dry pasta!",
+      "characters": [
+        "Richard Burke",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Richard Burke"
+    }
+  ]
+}

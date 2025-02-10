@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1002,
+  "date": "2027-10-21",
+  "questions": [
+    {
+      "quote": "Waitress. Got it. You guys wanna play Doom? Or we could keep doing this. What else?",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "But they don't see all the wonderfulness that I see. They don't see all the good stuff and all the sweet stuff. They just think you're a little...",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Now wait a minute that's not fair. He was married to me a hell of a lot longer than he was married to Emily, he just didn't tell me. Maybe I have to pee again.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Now he's movin'? Man, what is Emily doing to him? Ow!! He's not even here!!!",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Ah, no it's not. I've got picture-in-picture here. Yeah. Yeah, okay. I'm gonna have to call you back later. Monica? You. I'm gonna have to call you back.",
+      "characters": [
+        "Peter Becker",
+        "Mindy Hunter",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Yeah, a slice of cheesecake and-and a date if you're given' 'em out.",
+      "characters": [
+        "Ross",
+        "Peter Becker",
+        "Gunther",
+        "Phoebe"
+      ],
+      "correctAnswer": "Peter Becker"
+    },
+    {
+      "quote": "Okay Joey, we're luffing a little bit, so could you tighten up the cunningham?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "What are you talking about? Lots of things rhyme with Rachel. Bagel. Mail. Jail. Bail. Able. May-pole.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, yeah, mostly nudes. It combines my two passions, pottery and erotica.",
+      "characters": [
+        "Dina",
+        "Little Bully",
+        "Phoebe",
+        "Phoebe Abbott"
+      ],
+      "correctAnswer": "Phoebe Abbott"
+    },
+    {
+      "quote": "I'm just saying if you can't eat by yourself, how do you expect to have a baby by yourself?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

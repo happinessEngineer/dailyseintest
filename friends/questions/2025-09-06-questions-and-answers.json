@@ -1,0 +1,106 @@
+{
+  "gameNumber": 227,
+  "date": "2025-09-06",
+  "questions": [
+    {
+      "quote": "Oh, because I was thinking, the semester's over; you're not my teacher anymore.",
+      "characters": [
+        "Elizabeth Stevens",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Elizabeth Stevens"
+    },
+    {
+      "quote": "I'm sorry, I don't believe contestants are allowed to talk to each other.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, no, Carol. There's nothing wrong with it. I just, I just don't think breast milk is for adults.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Lennart",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You know, actually that's not a bad idea. I can do it out of my apartment. I don't think my mom would mind.",
+      "characters": [
+        "Chandler",
+        "Roy",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Monica, if you get five cool points, you get to make somebody take off one item of clothing. It hasn't happened yet, but we're all very excited.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Aren't you afraid that Joey's going to figure all of this out? I heard it.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Bobby Rush"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh no, I already packed. The only thing I couldn't find though was your Speedo.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "The Stripper",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm hungry. Wanna get some pizza? You can keep yelling if there's more.",
+      "characters": [
+        "Joey",
+        "Danny",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Danny"
+    },
+    {
+      "quote": "I also got this great salt and pepper shaker from the restaurant.",
+      "characters": [
+        "Phoebe",
+        "Jill Green",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Pathetic mess? I know, butcome on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.",
+      "characters": [
+        "Rachel",
+        "Mr. Treeger",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

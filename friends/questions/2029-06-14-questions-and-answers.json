@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1604,
+  "date": "2029-06-14",
+  "questions": [
+    {
+      "quote": "Hi! If you're calling before Saturday, you've reached Monica and Chandler. But if you're calling after Saturday, you've reached Mr. and Mrs. Bing! Please leave a message for the Bings!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, um, she was 82 years old. Her name was um, Mrs. Adelman.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah. So don't move, okay? Just stay here and... maybe close your blinds at night.",
+      "characters": [
+        "Rachel",
+        "Doctor",
+        "Chandler",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ohh! Oh my. Oh, that reminds me, I have to see my OB-GYN today.",
+      "characters": [
+        "The Director",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm in vice. Yeah, in fact I'm undercover right now. I'm a whore.",
+      "characters": [
+        "Chandler",
+        "Michael",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I don't know. I'll just handle it-I'll ask you to talk to him!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No wait! Just-Okay-Just wait! You guys! Wait you guys! Don't make any rash decisions, okay? Just remember my promise, when we get married, three times a week.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No that's not true. If you're not moving forward, you're just staying still. And staying still is good. Watch this.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "And Phoebe is his friend, so he thinks that would be breaking the rules!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "How do we say yes now and make it seem like we're not doin' it just to ride in the cool car?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

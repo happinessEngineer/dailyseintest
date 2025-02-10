@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1627,
+  "date": "2029-07-07",
+  "questions": [
+    {
+      "quote": "Well, you can't just not see Rachel anymore, she's one of your best friends.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, you should've seen the guy that she used to go out with. I mean, he's like Joe Rugby.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "It won't be the same- but it'll still be Minsk. Happy New Year.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Max",
+        "Chandler"
+      ],
+      "correctAnswer": "Max"
+    },
+    {
+      "quote": "Seriously? Happily married. So that phone call before, that was ... happy?",
+      "characters": [
+        "Wendy",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "What did I tell you about talking to your friends while you're working?",
+      "characters": [
+        "Gunther",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Gunther"
+    },
+    {
+      "quote": "No-no-no-no-no! It's a surprise, but it's gonna be tricky thought because she said she was gonna be pretty busy at work for a while.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, oh, and hey-hey-hey, those little spelling tips will come in handy when you're at home on Saturday nights playing Scrabble with Monica!!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh that's all right! Y'know, I ended up having a really good time. Y'know, the charity was a big success and they raised a lot of money and awareness.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "OK, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

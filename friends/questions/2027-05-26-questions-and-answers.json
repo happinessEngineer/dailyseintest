@@ -1,0 +1,106 @@
+{
+  "gameNumber": 854,
+  "date": "2027-05-26",
+  "questions": [
+    {
+      "quote": "No, I mean, I mean, when you're at the fifteenth date, y'know, you're already in a very relationshippy place. Y'know, it's... you're committed.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, no, no. Honey, I'm ok. Shake it off! Oh, no! No shaking, no shaking! Ooh! Ooh! Oh my God! I can't play!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Jeez, man did you fall.. Hi! So ah, did ya, did-did-did ya fall high?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Janice",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! The guy is mean. I mean really mean. I think you should stay away from him.",
+      "characters": [
+        "Ross",
+        "Mr. Thompson",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Dude-dude, who would you rather have kiss your sister, me or Chandler?",
+      "characters": [
+        "Rob",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But seriously, I believe that we should all support President Clinton. And her husband Bill.",
+      "characters": [
+        "Doug",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Doug"
+    },
+    {
+      "quote": "Because that's where Joey gave me some stuff to store that I've never seen before in my life! Okay, that did not just happen!",
+      "characters": [
+        "Minister",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No ah, hold on a second Joe, where do Dutch people come from?",
+      "characters": [
+        "Eric",
+        "Ross",
+        "Mike Hannigan",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "...also I was the point person on my company's transition from the KL-5 to GR-6 system.",
+      "characters": [
+        "David",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, I'm sorry you've been Bamboozled! You're gonna be a terrible mother! I've lost sight of why we're doing this!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 423,
+  "date": "2026-03-21",
+  "questions": [
+    {
+      "quote": "Man, man that is sharp. It must have cost you quite a few debloons.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, y'know how you told me I should do whatever it takes to fix my marriage?",
+      "characters": [
+        "Megan Bailey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Wow! I can't believe this! This is incredible. I mean you just won an Oscar!",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Judy Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But I don't, hmm... Oh, who approved that order?! Well there is no Mark Robbinson in this office. Get me Mark on the phone!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Parker",
+        "Kathy"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, c'mon, we can't stop, c'mon, we've got three more pounds to go. I am the energy train and you are on board. Woo-woo, woo-woo, woo-woo Woo.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Estelle Leonard",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I gotta buy a vowel. Because, oh my Gawd! Who, would've thought that someday, Chandler Bing would buy me a drawer.",
+      "characters": [
+        "Janice",
+        "Joey",
+        "Joanna",
+        "Monica"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "No, I want you to have a job that you love. Not statistical analysis and data reconfiguration.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You know, I think that's a good idea-our babysitter just pounded in another Chardonnet. Bye, y'guys.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?",
+      "characters": [
+        "Phoebe",
+        "Director",
+        "Joey",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God! Well the idea of a woman flirting with a-with a single man, we-we must alert the church elders!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

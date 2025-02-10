@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1404,
+  "date": "2028-11-26",
+  "questions": [
+    {
+      "quote": "Hey, you guys! Look what I found in the giiiiiiift shop. Get up! Get up! Get up!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Russ",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh no! I took one of Ross' bags by mistake, and one of mine is missing.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I can not believe that I am going out with someone that is getting divorced. I'm such a grown up.",
+      "characters": [
+        "Chandler",
+        "Emily Waltham",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "...taking a long walk, and then there's the one that's proved most effective: sex.",
+      "characters": [
+        "Dr. Long",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Dr. Long"
+    },
+    {
+      "quote": "Yeah. But, the good news is that Phoebe said that I could stay at her place for a while. So...",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Or we could just follow your clever jokes &#150; any ideas? No! Didn't think so! Okay, c'mon guys, show us where the presents are!",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, that's never gonna make it all the way over here, buddy!",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Uh then there was that dialect coach who helped you with that play where you needed a southern accent. Which after twenty hours of lessons still came out Jamaican.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "\"Pheebs, can't make it, got a date. Talk to you later. Big Daddy.\" Big Daddy?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Waiter",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes!! I mean sex does not have to be a big deal! There shouldn't be all this rules and restrictions! Y'know, people should be able to sleep with who ever they want, whenever...",
+      "characters": [
+        "Joey",
+        "Gavin Mitchell",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

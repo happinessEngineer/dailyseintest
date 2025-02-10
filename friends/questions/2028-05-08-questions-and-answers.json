@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1202,
+  "date": "2028-05-08",
+  "questions": [
+    {
+      "quote": "No... he killed his father with a shovel. But other than that, he's a great guy.",
+      "characters": [
+        "Ross",
+        "Erica",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Erica"
+    },
+    {
+      "quote": "It's okay, the duck's using our bathroom anyway. Hey Joe! What are you getting Kathy for her birthday?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie.",
+      "characters": [
+        "Chandler",
+        "Mindy Hunter",
+        "Rachel",
+        "Susan Bunch"
+      ],
+      "correctAnswer": "Susan Bunch"
+    },
+    {
+      "quote": "Oh it was great! It was great! I went down there just like you said, y'know? And we talked business. Kim totally took my opinions.",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "No, nono, don't- don't worry about it. Believe me, apparently other people have made the same mistake.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, if you want you can keep it at our place until you find out what to do with it.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey Rach, a guy from Ralph Lauren called, you got a second interview!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Pheebs, you remember how we talked about saying things quietly to yourself first?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Tag Jones",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Why? Why? I know it's a little weird, but hey, he's a great doctor, okay? He knows my medical history, and every time I go in there, he makes a big deal. 'Ah look, it's my favorite patient!'",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

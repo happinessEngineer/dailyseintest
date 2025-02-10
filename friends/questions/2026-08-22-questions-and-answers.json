@@ -1,0 +1,106 @@
+{
+  "gameNumber": 577,
+  "date": "2026-08-22",
+  "questions": [
+    {
+      "quote": "Well, we... \"bore false witness\"... See I could be a reverend.",
+      "characters": [
+        "The Teacher",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, Rachel. And this is Ross' sister, Monica. We met at Thanksgiving. .",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, so that's another five hundred. Five hundred and five hundred, that's...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, man. Oh, remember when I stuck that broom in your bike spokes, and you flipped over and hit your head on the curb?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Uh, hey, Rach let me ask you something. Uh, I was just over there talking to Monica and Chandler, boy they are really tight.",
+      "characters": [
+        "Joey",
+        "Emily Waltham",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Please, I almost fell for that with, uh, Pride of the Yankees, I thought I was gonna see a film about Yankee pride and then, boom, the guy gets Lou Gehrig's disease.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh my God....What's he gonna do now? I can't watch! Oh. Seriously, how can you watch this? Aren't you scared?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Wow, Monica, you look just like your grandmother. How old was she there?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay... Hey listen, just before you go I-I again, I just wanna say \"thank you\" for coming with me.",
+      "characters": [
+        "Phoebe",
+        "Ursula Buffay",
+        "Gavin Mitchell",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

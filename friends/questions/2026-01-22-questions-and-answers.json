@@ -1,0 +1,106 @@
+{
+  "gameNumber": 365,
+  "date": "2026-01-22",
+  "questions": [
+    {
+      "quote": "Okay, fine. Let's talk about snow. -- Do you think it's snowing in Tulsa, where my husband is having sex on a copying machine?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey! Honey, can I ask you a question about the Valentine's Day gifts?",
+      "characters": [
+        "Jill Green",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "We're doomed. Okay, they're gonna take 50 bucks out of our accounts for the rest of our lives. What are we gonna do?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know. But, God, Joey seems to be handling it suprisingly well.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, guys, you know what Larry would say? He would say, \"See you ladle.\"",
+      "characters": [
+        "Phoebe",
+        "Don",
+        "David",
+        "Gary"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I don't see that we have a choice. But, when we're back home, we don't do it.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Mike Hannigan"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Naah, I crapped out, but Mr. 21 over here he cleans up, 300 bucks, check it out he buys me these new shoes, sweet huh?",
+      "characters": [
+        "Eddie Menuek",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Eddie Menuek"
+    },
+    {
+      "quote": "Yeah, come on, think about it. You're 18, okay, she's 44, when you're 36, she's gonna be 88.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Gunther",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Okay, okay, fine, you're right. Let's ah, let's take a break, let's cool off, okay, let's get some frozen yogart, or something..",
+      "characters": [
+        "Chandler",
+        "Charlie Wheeler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

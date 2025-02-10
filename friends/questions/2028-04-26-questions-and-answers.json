@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1190,
+  "date": "2028-04-26",
+  "questions": [
+    {
+      "quote": "I'm sorry, Frank. I didn't realise things were so bad. You know, I'll help out more. I can - I can babysit any time you want. You name the day, and I'll be there.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Ah, well, unless it's the creepy guy with his hand up his kilt, I'm gonna say congratulations!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Like war. Or that thing in Joey's refrigerator. Remember? It was in a milk carton but it looked like meat?",
+      "characters": [
+        "Jill Green",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I know it sounds really weird, but we're just so bad at relationships.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Kim"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ah, well, if I want the girl to kiss me, first thing I do is make my lips look irresistible.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Really well. Yeah. Surprisingly well. Yeah, she didn't cry. She wasn't angry or sad.",
+      "characters": [
+        "Joey",
+        "Kate Miller",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Chandler",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "It's harder for me! I have those four other women to compete with!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Ticket Agent",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, I'd probably enjoy it more if you didn't keep batting my hand away.",
+      "characters": [
+        "Ross",
+        "Peter Becker",
+        "Joey",
+        "Andrea Waltham"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I don't know. Hey, Rachel, you want the big plate? I want you to have the big plate.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

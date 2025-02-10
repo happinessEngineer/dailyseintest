@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1258,
+  "date": "2028-07-03",
+  "questions": [
+    {
+      "quote": "From now on, it's gonna be Joey and Ross, best friends. Okay! We're gonna be the new Joey and Chandler.",
+      "characters": [
+        "Mike Hannigan",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No. You are the boss of you. Now you march your heinie in there and get that heart tattooed on your hip. GO!!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey. I was just gonna get something to eat. You want something?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, I mean it. You are so loyal man, and selfless, and generous...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I bet that kiss isn't looking like such a big mistake now, is it?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Is this really your long term plan, for me to run interference? Because I could get a job any day now.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Paul Stevens",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Whoa, whoa, whoa, Monica, what're you doin'? This is a poker game. You can't serve food with more than one syllable. It's gotta be like chips, or dip, or pretz...",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Mona",
+        "Eddie Menuek"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, you missed, 'Takes money to make money,' and uh, 'Don't make me come down there and kick your wall street butt.'",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "When?! After the birth of our first secret child?! Ross didn't get the annulment; we are still married.",
+      "characters": [
+        "Roger",
+        "Dr. Miller",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Do you know what it's like to grow up with someone who is critical of every single thing you say?",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Phoebe",
+        "Judy Geller"
+      ],
+      "correctAnswer": "Judy Geller"
+    }
+  ]
+}

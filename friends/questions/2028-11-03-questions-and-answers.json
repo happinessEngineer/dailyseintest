@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1381,
+  "date": "2028-11-03",
+  "questions": [
+    {
+      "quote": "No, my eye doctor is Richard! I can't go to him when I don't have a boyfriend!",
+      "characters": [
+        "Ross",
+        "Eddie Menuek",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, I'll be back in just a minute. Oh, Phoebe I'm sorry that I left lipstick marks on the phone.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "God! She is not stealing from us! Okay, will you let this go?",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh please. That Paolo thing was barely a relationship. All it really was was just, ya know, meaningless animal sex. Ok, ya know, that sounded soooo much better in my head.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That's correct! This is an audio question, what do you do when the baby makes this sound?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We just have to really, really, really, not let stuff like money get--is that a hickey?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joanna",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "We're waiting for the adoption lady, but, hey, I'm glad you're here. I was cleaning this morning and I found this . I don't know if you wanna use it, but...",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Dr. Long",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hi! I'm so glad you're here, but it's gonna be a while. I-I wished you'd called first.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Roy"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I said it was typical. Typical of you, Rachel Green, Queen Rachel does whatever she wants in little Rachel land.",
+      "characters": [
+        "Joey",
+        "Will Colbert",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Will Colbert"
+    },
+    {
+      "quote": "Why not? It's brilliant! Goodbye Mike, we'll see you at the wedding, fella! well, we probably won't invite you to the wedding... Thank you, Chandler. Sincerely.",
+      "characters": [
+        "Monica",
+        "David",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "David"
+    }
+  ]
+}

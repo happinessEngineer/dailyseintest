@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1054,
+  "date": "2027-12-12",
+  "questions": [
+    {
+      "quote": "Yeah, I... Well I really actually wanted to say umm, that, but um, I figured I probably shouldn't because y'know, I...have to leave.",
+      "characters": [
+        "David",
+        "Dr. Harad",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Look! You knew this about me when you married me! You agreed to take me in sickness and in health. Well, this is my sickness!",
+      "characters": [
+        "Gunther",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, actually the last place you were sitting was in there . Soo...",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, I really liked him. Yeah, it was really, really, really good.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You know, Junior Miss is where I started. Oh, I had to sleep with the ugliest guy to get that job.",
+      "characters": [
+        "Rachel",
+        "David",
+        "Joanna",
+        "Joey"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Oh it's great! It's great! Thank you so much for introducing us!",
+      "characters": [
+        "Tim",
+        "Rachel",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "It's not a stupid gumball machine looking ring! It's a beautiful ring!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.",
+      "characters": [
+        "Carol",
+        "Roy",
+        "Charlie Wheeler",
+        "Monica"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Oh, I took Larry there to eat but it was all violated. So we shut it down!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Peter Becker",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, look-look, Joey's on TV! Isn't that great? My pledge got Joey on TV! Oh that makes me feel-Oh no!",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

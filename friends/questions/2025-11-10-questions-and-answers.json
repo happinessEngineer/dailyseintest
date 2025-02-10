@@ -1,0 +1,106 @@
+{
+  "gameNumber": 292,
+  "date": "2025-11-10",
+  "questions": [
+    {
+      "quote": "Wow! This place is incredible! Sting's pen...that he gave to Phoebe. Come on! Secret passageway!",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "You guys, we've been waiting for you for a long time, maybe you should order.",
+      "characters": [
+        "Monica",
+        "Gunther",
+        "Judy Geller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "A little tight? I could see double-oh and seven in those pants.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Pretty great! Except I did get a little attitude from the robot.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey lady! I don't care how much you want it! Okay?! I am not gonna to have sex with you in the bathroom!",
+      "characters": [
+        "Ross",
+        "Ticket Agent",
+        "Monica",
+        "Peter Becker"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "That's great! Wow man, so Joey must've really taught you some stuff huh?",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Receptionist",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "We can't tell him, you can't go up to a guy you barely know and talk about his.... stuff.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Daddy! I don't think we need to hear about the specific positions you and mom had sex.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Jill Green",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You bitch. You just think you're so perfect. With your new baby and your, your small apartment. Well let me tell you something. Your baby isn't even that cute.",
+      "characters": [
+        "Amy Green",
+        "Janice",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Amy Green"
+    },
+    {
+      "quote": "Yeah! Yeah! Right down there. Hey listen; let me give you a little tip. Do not take a nap on this stoop or you can wake up with your shoes gone.",
+      "characters": [
+        "David",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

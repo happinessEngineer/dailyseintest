@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1520,
+  "date": "2029-03-22",
+  "questions": [
+    {
+      "quote": "Yes okay. Well now see this isn't telling us anything. Joe. Carlos. Peter. Ooh! Peter Luger! T hat's a steak house!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, let's not jump to any conclusions. All right? There was some sexual chemistry between them.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay this is great, but Joey said he didn't want any of us out there.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No, it was Ginger. I remember, because when he told me, I said, 'the movie star.'",
+      "characters": [
+        "Steve",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait a minute, just because he paid for your head shots you're gonna take him? Joey, I don't think you're comprehending just how slutty this dress is!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I'm, uh, going to pick up Mona. What have you got going tonight?",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh wait a second you guys...for the last couple weeks I've been that guy everywhere I go. We take the same bus. We go to the same bookstore, the same dry cleaners; maybe he's the tea guy.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I'm so pathetic! Monica knows what she wants to say! You should've seen her. Writing, writing, writing!",
+      "characters": [
+        "Chandler",
+        "Janice",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That is so weird! I had a dream that you'd have lunch with Richard.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Really?! Wow! That's-that's so nice, what are you gonna get me?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

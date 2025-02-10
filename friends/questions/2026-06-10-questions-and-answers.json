@@ -1,0 +1,106 @@
+{
+  "gameNumber": 504,
+  "date": "2026-06-10",
+  "questions": [
+    {
+      "quote": "Yeah, I think I do! Y'know what? You move in with her! You move in with her right now! Maybe I should in with Monica!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Phoebe, why don't you come in the living room and meet our friends?",
+      "characters": [
+        "Bitsy Hannigan",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Bitsy Hannigan"
+    },
+    {
+      "quote": "Oh my God, I can't believe what I'm getting ready to say. I wanna have a baby, but I don't wanna have one with someone who doesn't really wanna have one.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right. Now go see Miss Kitty and she'll fix you up with a nice hooker.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, we were helping Chandler write his vows, but he kicked us out because Joey kept making inappropriate suggestions.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Just, you know, long time ago. Well, when men used to tell women what to do - a lot. And then there was suffrage, which is a good thing but is sounds horrible. Do you want to get this tattoo?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, but Mon that's totally different. He was you're health teacher.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey uh, well, today's my first lecture and I kinda wanted to try it out on you guys, do you, do you mind?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Y'know I can't even worry about that right now, cause I got the cutie little baby, oh I can't believe how much I love her, I can't get enough of her, like right now I miss her. I actually miss her.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Joanna",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hello! Oh yeah! Hey! Hold on a second she's right here! It's Chandler.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

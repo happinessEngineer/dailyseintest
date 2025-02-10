@@ -1,0 +1,106 @@
+{
+  "gameNumber": 732,
+  "date": "2027-01-24",
+  "questions": [
+    {
+      "quote": "Hey, wait a second. I can help you with this. You just need to be organized. We can make a list of your qualifications, and categorize jobs by industry. There could be folders and files!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You can't tell, but I'm trying to break the tension by mooning you guys!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay. Well, if that's how you feel about it, fine! None of you get to live with me in my great big hand-shaped mansion! Except uh, you Pheebs. You can live in the thumb.",
+      "characters": [
+        "Chandler",
+        "Richard Burke",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yes, you have to get her something, and it should be something really nice.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh my God! Congratulations Ross, because Chandler, you've been Bamboozled!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "But hey, it's courtside. The cheerleaders are going to be right in fr. . . That's not the way to convince you.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Y'know what? I am going to do something today. I'm not just gonna sit around like some old lady. I'm gonna get something pierced. Like my uh, like my nose or my tongue or something.",
+      "characters": [
+        "Rachel",
+        "David",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, ok, ok, ok, here goes. You know, I, you know, can't do this. Uh, this is too weird. I feel stupid.",
+      "characters": [
+        "Janice",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Forget it. Not after your cousin who could belch the alphabet.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "The Interviewer",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "You're just so mean to each other! And I don't want to end up like that with Rachel. I still like you!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

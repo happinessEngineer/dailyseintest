@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1609,
+  "date": "2029-06-19",
+  "questions": [
+    {
+      "quote": "Joey! Joe! Full bag. Beer's still cold. Something terrible must've happened here! Oh no-no-no-no-no-no! Stevie, I was never here!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, it seems like there weren't any tears 'til you showed her the bill.",
+      "characters": [
+        "Monica",
+        "Kim",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey, can I borrow the key to your house so I can run across the street and make a copy?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Nora Tyler Bing",
+        "Monica"
+      ],
+      "correctAnswer": "Nora Tyler Bing"
+    },
+    {
+      "quote": "Don't you see what this means?! I can forget about that stupid movie. I'm gonna be a millionaire!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. But I thought that was because I put the whole thing on my hand and made it walk across the table.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah well next thing you know, he'll be telling you that your high heels are good for his posture!",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Tommy",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, and at the end of the play, he, he got up y'know, and he just started like, banging his hands together!",
+      "characters": [
+        "Phoebe",
+        "Mona",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.",
+      "characters": [
+        "Joshua Burgin",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

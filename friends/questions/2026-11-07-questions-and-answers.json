@@ -1,0 +1,106 @@
+{
+  "gameNumber": 654,
+  "date": "2026-11-07",
+  "questions": [
+    {
+      "quote": "Actually, I'm kinda happy to be leaving... I just broke up with someeone.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Yeah, ooh, I like that! Yeah. Wait! How do you know about 'bah-bah-bha-bhan?'",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Y'know what? Actually I'm kinda glad they're leaving 'cause uh, I need to talk to you about something.",
+      "characters": [
+        "Mike Hannigan",
+        "Chandler",
+        "Kathy",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, you don't wanna live in Westchester. That's like the worst of the Chesters.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Don"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on Ross! Look, I-I don't have any brothers; I'll never get to be a best man!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "They're waiting for me, Ross. I can't do this right now, I'm sorry. I'm sorry.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yes oh--Do I want sugar in my coffee? No, just some milk would be good Carol. Thanks. Okay, do you remember all that stuff I taught you yesterday?",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, well, then you'll have extra seats, you know, for all your tiaras and stuff.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No, I'm not blushing, I'm sunburnt! From, you know, the rain.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay. I'm gonna be the mom that makes the world's best chocolate chip cookies.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

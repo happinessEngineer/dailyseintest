@@ -1,0 +1,106 @@
+{
+  "gameNumber": 141,
+  "date": "2025-06-12",
+  "questions": [
+    {
+      "quote": "I understand. Yeah. Ok so then ok, so we're both living in New York, not seeing anyone. That's so not like us!",
+      "characters": [
+        "Janice",
+        "Phoebe",
+        "Dr. Franzblau",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, it was just something Josh said about v-necks, but you had to be there.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, you know, I'm just gonna, I'm gonna hang out, work on my music.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Don"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Because you are my sister and Ross and I have this huge history...",
+      "characters": [
+        "Rachel",
+        "Peter Becker",
+        "Dana Keystone",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rosss can! Give me the tickets! Ross can give me the tickets!!",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "I know. Can you believe it? One year ago today I was just your annoying friend Chandler.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Parker"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, I will do it. But I have to warn you; this may make me a better person and that is not the man you feel in love with!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know. Maybe maybe low self-esteem, maybe maybe to compensate for overshadowing a sibling, maybe you...",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Roger"
+      ],
+      "correctAnswer": "Roger"
+    },
+    {
+      "quote": "I.....got.....dressed. Really, really quickly. Okay, okay. There we go, there we go.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh that's all right fellas, I saw a kitchen this morning - on TV. Stop talking. OK.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

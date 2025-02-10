@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1385,
+  "date": "2028-11-07",
+  "questions": [
+    {
+      "quote": "Uh, listen, I just wanna thank you for this great opportunity.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. Well maybe you have heard about the Rent Stabilization Act of 1968!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Mr. Treeger"
+    },
+    {
+      "quote": "Because we don't do that. We are Bings! And if there's one thing my father taught me was... well to always knock before going into the pool house... but the other thing was never borrow money.",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You-you gotta take it now. Come on, do it as a present to me.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Janice",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? No, cause I made lasagne. Am I out of control?",
+      "characters": [
+        "Janitor",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohh, you know what it is? It's smudgy 'cause they're fax pages. Now when I was on Days of Our Lives as Dr. Drake Remoray, they'd send over the whole script on real paper and everything.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh! Gosh! This is brilliant. Gosh, it's just like old times. I'm so happy you two are friends again!",
+      "characters": [
+        "Amanda Buffamonteezi",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Amanda Buffamonteezi"
+    },
+    {
+      "quote": "Well, do you want to hear what actually happened or Joey's lewd version?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Charlie Wheeler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?",
+      "characters": [
+        "Carol",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Chandler... hey... Rach... what's Hugsy doin' in the crib with Emma?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Emily Waltham",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

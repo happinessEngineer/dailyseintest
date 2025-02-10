@@ -1,0 +1,106 @@
+{
+  "gameNumber": 163,
+  "date": "2025-07-04",
+  "questions": [
+    {
+      "quote": "Oh, great! Listen, oh I had to get you a whole new battery. I got you the best one I could, 'cause that's not where you want to skimp.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well, this guy came by to look at the unit and-and he said he didn't think big enough to fit a grown man!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey Tribbiani! From the wall! Okay, maybe this will jog your memory, huh? Huh? Okay eh-ah-anyway, I'm ready to go back up on the wall I'm the star of a new TV show.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "All right, I'll take one box of the mint treasures, just one, and that's it. I-I started gaining weight after I joined the Brown Birds. Remember, how Dad bought all my boxes and I ate them all?",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, come on Monica, reliving past pain and getting depressed is what Thanksgiving is all about. Y'know, for me anyway. And of course, the Indians.",
+      "characters": [
+        "Gunther",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, yeah. Aw, remember the days when you used to go out to the barn, lift up your shirt, and bend over?",
+      "characters": [
+        "Ross",
+        "Frank Buffay Jr.",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, you dont know. Helen, could you make sure we put through the paperwork on Miss Bookbinders raise?",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I don't know, let me think. I was walking down the street thinking, 'I'm gonna tell the father today' and then bam!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Robert Bobby"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "All right, I'm out of oven space. I'm gonna turn on Joey's. Please, watch him! Do not let Joey eat any of the food!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But Joey the baby is going to be crying, it's going to be loud.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 507,
+  "date": "2026-06-13",
+  "questions": [
+    {
+      "quote": "C'Mon, You Guys. This Is A Real Movie, And Al Pacino's In It, And That's Big!",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, o-o-o-o-okay anyway, I just wanted to say I'm sorry. Here.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "We don't. Not until it's a hundred percent. I mean, why upset everybody over nothing.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ohh! Umm, Phoebe, I kinda need to talk to you about that. Umm, well I-I-I think it might be time for me to take a step back from catering.",
+      "characters": [
+        "Frank Buffay Jr.",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What? Rachel, listen, have you ever heard of Fortunata Fashions?",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Nurse",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hi, we're visitiing. It's Ben and his da-da. Da-da. Can you say da-da? Look, I'm gonna tell your momies you said it anyway so you might as well try.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Richard Burke",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Technically we could have sex again. What do you think, bossy and domineering?!",
+      "characters": [
+        "Chandler",
+        "Tag Jones",
+        "Monica",
+        "Gunther"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No. I don't think that you and I were destined to end up together. I think that we fell in love and work hard at our relationship. Some days we work really hard.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I was thinking of doing it a little shorter, you know, like Andie McDowell's new haircut?",
+      "characters": [
+        "Julie",
+        "Mike Hannigan",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "Oh, yes. I decided to leave these out for you in case Richard stops by and you wanna engage on a little light bondage and moustache play!",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Fake Monica",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

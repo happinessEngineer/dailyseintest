@@ -1,0 +1,106 @@
+{
+  "gameNumber": 243,
+  "date": "2025-09-22",
+  "questions": [
+    {
+      "quote": "No! No, she didn't say that. I-I-I think you should talk to Monica now.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, we have like ten minutes. Do you want me to get into that now?!",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hi, Pheebs? Okay, so just spoke to the nurse and the reason that your doctor is late is because uh, she's not coming.",
+      "characters": [
+        "Dina",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Umm, I lost one of your earrings. I'm sorry! I am so, so sorry!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Chandler",
+        "Policeman"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "When she sees that you're gone, she's gonna know that I let you out, and that I was in here, and I'm gonna get fired!",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I know. You're right. I want to see you too. I've just got to figure out a way to tell Joey, you know? He's really looking forward to this.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Peter Becker",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Then you'd be going back and forth all the time, I mean it doesn't make any sense.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "That's why for an entire year people called me Sir Limps-A-Lot?!",
+      "characters": [
+        "Don",
+        "Emily Waltham",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well good, good for you. You really think that Roger is the perfect guy?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Phoebe",
+        "Woman"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

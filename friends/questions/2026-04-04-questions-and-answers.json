@@ -1,0 +1,106 @@
+{
+  "gameNumber": 437,
+  "date": "2026-04-04",
+  "questions": [
+    {
+      "quote": "I do! So much! I can't stop thinking about her! I can't sleep, I-",
+      "characters": [
+        "Benjamin Hobart",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What they're not invited?! Oh no, that's terrible! They're gonna be crushed!",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "You know, it's a lot less surprising to do that after I've buzzed you into the building.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh, come on Rach, we will. I promise. We have more interviews And worse comes to worse, we can always reconsider the uhm... the first one we met with.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no, no, no, no, no, no. Don't get me wrong. No, he's not in like a sissy way. No, no, no... when he gets going, he can rattle a headboard like a sailor on leave...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. Big deal, so you have a side of the bed, everybody has a side of the bed.",
+      "characters": [
+        "Elizabeth Stevens",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No look, we've apologized twice! I can't do anymore than that. I know you hate it when people are mad at you but you just have to be okay with it.",
+      "characters": [
+        "Phoebe",
+        "Guy",
+        "Erica",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh yeah, I'd actually love a blueberry muffin and a chamomile tea.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Will Colbert"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So, pretty much around the same time that you started telling this story.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "The ride broke down. So, Carol and I went behind a couple of those mechanical Dutch children... then they fixed the ride, and we were asked never to return to the Magic Kingdom.",
+      "characters": [
+        "Rachel",
+        "Mike Hannigan",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

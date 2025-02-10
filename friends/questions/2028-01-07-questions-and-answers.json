@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1080,
+  "date": "2028-01-07",
+  "questions": [
+    {
+      "quote": "Hey, the point is that he was at everyone of your swim meets and he was there cheering you on! Okay? That's a, that's a pretty great dad.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Guess who's here. It's the toughest guy in toy land, Ben. 'A real American hero. I'm G.I. Joe!' Drop the Barbi, drop the Barbi.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I called the sperm bank today, they haven't sold a single unit of Tribianni. Nobody wants my product. I mean, I-I-I don't get it Maybe if they met me in person.",
+      "characters": [
+        "Eric",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I do not know what's wrong with us, I mean, we have kissed before and that's been great! But this time it was leading somewhere and I was very aware of the fact that it was Joey touching me.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Woman",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Remember that really cold morning, you woke up and those dogs were licking your face?",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "That's great. But uh, I'm not really expecting a lot of calls.",
+      "characters": [
+        "Rachel",
+        "Rob",
+        "Jack Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's alright. Look kiddo, I gotta go. Good luck with the career. You're gonna be huge.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Oh wow! He's so lifelike! Unbelievable! (He starts tugging on the guy's ears.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "See? I told you something good would come along. And he seemed really nice. I've met him before?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Joshua Burgin",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Hello. But you know what, hey, new day, new leaf, I am just really really happy ... I'm sorry, obviously Heather's ass has something more important to say so I'll just wait 'till it's finished.",
+      "characters": [
+        "Eric",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 447,
+  "date": "2026-04-14",
+  "questions": [
+    {
+      "quote": "Okay. Okay! Well okay, who do we know that's coming? Me. Are you?",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "The Interviewer"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No. No, he is my submaring guy. He resurfaces like every couple years and we have the most amazing three days together. Only this time he's coming for two weeks. Two whole weeks, which means yay.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Whatever Ross! Just replace the bulbs in the brake lights after you're done.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "And you're upset because you didn't make your best friend cry?",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Huh. That's a really pretty name for-for an industrial solvent.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "But now! I'm there! I'm totally there! I'm-I'm finally where you are!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "My God. Rachel! Your here. I can't believe it. What happen? Why are you here?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah! Closure. That's what it is, that's what I need. God, you're brilliant! Why didn't I think of that? How do I get that?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hands! It is absolutely essential that you tell me what room the man my assistant described is staying in. He's a patient of mine, I've been treating him for years!",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't need to think about it. I was Dr. Drake Remoray. That was huge. Big things are gonna happen, you'll see. Ross, you still there?",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

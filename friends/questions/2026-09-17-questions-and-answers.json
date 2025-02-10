@@ -1,0 +1,106 @@
+{
+  "gameNumber": 603,
+  "date": "2026-09-17",
+  "questions": [
+    {
+      "quote": "Oh now that-that-that's funny, it seems like Chandler's conference could've been in Connecticut or Vermont.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I've been thinking, this is crazy, I mean don't, don't you think we can work on this?",
+      "characters": [
+        "Nurse",
+        "Ross",
+        "Peter Becker",
+        "Monica"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I am telling you Ross, she is definitely gonna fall in love with you again! Now, is that what you want?",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "My god, if I had a nickel for every guy I wish I hadn't..., but this is about your horrible mistake.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Erica",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, come on you guys; that's funny! Y'know? Because he's need-he's got like a hearing aide y'know, 'cause-'cause y'know, 'cause he's all old, and...",
+      "characters": [
+        "Mr. Treeger",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You would not. I can't believe this. I hate this, you're too normal. I can't believe my boyfriend doesn't have a thing. My boyfriend doesn't have a thing.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Jill Green"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "How do I tell Chandler that it's too soon. It's gonna break his heart, he's not gonna think that I don't love him anymore.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But Phoebe, you can go out with a creepy guy any night of the year. I know I do.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm fine! I'm fine! I'm just losing a tooth, it's no big deal. I have a dentist! Y'know. I'm gonna go put some ice on it. Excuse me. What do I do now? What do I do now?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "As I was saying... I should probably have the first of the three kids by the time I'm 35 which gives me five years. I love this plan! I wanna marry this plan!",
+      "characters": [
+        "Rachel",
+        "Jack Geller",
+        "Eric",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

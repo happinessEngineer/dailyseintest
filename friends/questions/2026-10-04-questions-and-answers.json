@@ -1,0 +1,106 @@
+{
+  "gameNumber": 620,
+  "date": "2026-10-04",
+  "questions": [
+    {
+      "quote": "Honey, you've been in there for a long time... Is everything okay?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Yeah... I guess. I don'tI don't know. Alright, just... just give her this for me, OK?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No. Ross, it, it just seems that y'know it's time we-we y'know, move on. I mean, I mean don't' you think?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Uhh, cause, uhh, I'm a neurosurgeon and that was clearly a case of, uh, uh, foodal chokage. Alright, look, I got to tell you something.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know what? I can easily get out of this, but there is a chance you can get very, very hurt!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Listen, in the middle of everything if I scream the word, \"Yippee!\" just ignore me.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Hey! Okay! I got my passport, fresh socks, and a snake bite kit!",
+      "characters": [
+        "Ross",
+        "Mike Hannigan",
+        "Don",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "...and it was Ernst Muhlbrat who first hypothesized that the Velociraptor would expand it's collar and emit a high pitched noise to frighten it's predator. Yes Mr. Lewis?",
+      "characters": [
+        "Monica",
+        "Ross",
+        "Sandra Green",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No. They said you 'Weren't believable as a human being.' So, you can work on that.",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Okay, so we got some more good rejections, lots of stuff to work on.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

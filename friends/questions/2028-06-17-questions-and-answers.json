@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1242,
+  "date": "2028-06-17",
+  "questions": [
+    {
+      "quote": "Sorry, I just saw Ursula. I had to give the engagement ring back.",
+      "characters": [
+        "Eric",
+        "Ross",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Eric"
+    },
+    {
+      "quote": "It's been a while, huh? Wow, it's funny these halls look smaller then they used to.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Mr. Thompson",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, look! Acting for Beginners! Want to feel good about yourself?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Ross",
+        "Paul Stevens"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, any contribution, large or small, is always appreciated.",
+      "characters": [
+        "Charity Guy",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Charity Guy"
+    },
+    {
+      "quote": "I never laughed so hard-Did you see the wine come out of my nose?",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know, I can see why you think that, but ah, actually, you know who I think it is?",
+      "characters": [
+        "Rachel",
+        "Steve",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why?! Are there like bears or something?! Ohh. Oh, protection. Yeah-no, yeah-no, that-that-that I forgot.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Joey",
+        "Benjamin Hobart"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh no-no-no, stay, stay, stay, just keep talking. I'm always the hostess.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Hey man, look sorry about that Archie thing. Do uh, do you need me to give you some money?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 706,
+  "date": "2026-12-29",
+  "questions": [
+    {
+      "quote": "You'll see, you guys are all gonna go off and get married, and I'm gonna end up alone. Will you promise me something? When you're married, will you invite me over for holidays?",
+      "characters": [
+        "Dr. Ledbetter",
+        "Chandler",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "And listen, man, if you wanna be gay, be gay. Doesn't matter to me.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Malcom"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You invite my brother, you invite my whole family, and not me?! Why?! What-Why wouldn't you want me at your wedding? What could I have possibly done?! Stuart!",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, wow, wow, wow. Watch the tongue people, we've got a baby over here.",
+      "characters": [
+        "The Director",
+        "Monica",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Do you realize this is probably the last time we'll all be here in the coffee house as six single people?",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "She looks so real! Y'know what I mean! She's this whole tiny little person. She already has eyelashes and knees and...uh-oh.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know what? Maybe, Mrs. Green, it's not absolutely vital that you live with us.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "What do you think you learnt how to do in the last two minutes??",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Ross",
+        "Dr. Long"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "The judge wouldn't let us get an annulment! Now we gotta get a divorce!! Did a Porsch throw up on you?",
+      "characters": [
+        "Phoebe",
+        "Mike Hannigan",
+        "Ross",
+        "Cheryl"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "All right, fine... But if I enjoy this, you have only yourself to blame...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

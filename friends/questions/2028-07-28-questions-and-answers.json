@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1283,
+  "date": "2028-07-28",
+  "questions": [
+    {
+      "quote": "Hi. It's nice to meet you. I used to have a friend named Joey. I don't anymore.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, well, sure I touch them, but I spent years learning not to squish them. That's my hand.",
+      "characters": [
+        "Richard Burke",
+        "Joey",
+        "Monica",
+        "Earl"
+      ],
+      "correctAnswer": "Richard Burke"
+    },
+    {
+      "quote": "I-I am not uptight-Hey-hey-hey-oh-oh! Listen, I am not uptight, man.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ok, ok, ok. Ooh, hey 'new doc on the block, Days of Our Lives' Joey Tribbiani.' Ooh, cool picture.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Everything's ruined. My bed. My clothes. Look at my favorite blue sweater.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Judy Geller",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh y'know what, we don't have to talk about work. We can talk about anything!",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Max",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Umm, well he's very dashing, y'know, and umm, very, very sophisticated, and he doesn't speak any English, but according to his translator, he totally gets me.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "He said that he wasn't gonna apologize because you guys are living here illegally, so instead what he's gonna do is have you evicted-I'll see you later.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh, Monica and Chandler's recommendation. I want it to sound smart but.. I don't know any big words or anything, so...",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Phoebe",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, I think we said good-bye to that when we invented hammer darts.",
+      "characters": [
+        "The Cooking Teacher",
+        "Joey",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

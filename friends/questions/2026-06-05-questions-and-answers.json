@@ -1,0 +1,106 @@
+{
+  "gameNumber": 499,
+  "date": "2026-06-05",
+  "questions": [
+    {
+      "quote": "Maybe I'll sign for it. Tear it open. Pull out the packing material...",
+      "characters": [
+        "Chandler",
+        "Mike Hannigan",
+        "Phoebe",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "Oh. Listen, have you ever been uh, you know, foolin' around with a girl and uh, she started laughin'?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Rachel",
+        "Man"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Yeah, it's kinda like a 'good luck on your first day' sort of thing. Is this actually a lunchbox?",
+      "characters": [
+        "Rachel",
+        "David",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Rach, c'mon, Emma is fine. You're turning into an obsessive mother. Okay, you need to stop.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Filing system? Oh-oh! You mean those-those little colored labels you put on all the folders? It certainly did brighten up the inside of the filing cabinets.",
+      "characters": [
+        "Ross",
+        "Joanna",
+        "Mr. Zelner",
+        "Joey"
+      ],
+      "correctAnswer": "Joanna"
+    },
+    {
+      "quote": "Listen, the next time you talk to him, can you ask him which one the strongest Power Ranger is?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hum...So...hum...Oh hey I noticed you were reading the paper...another flood in Europe? Here's a question: \"Would you...would you rather drown or be burnt alive?\"",
+      "characters": [
+        "Carol",
+        "Ross",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh, that's Nana, right there in the middle. 'Me and the gang at Java Joe's'.",
+      "characters": [
+        "Amy Green",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Okay, well it this bed isn't new, how come there is plastic on the mattress?",
+      "characters": [
+        "Charity Guy",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "What?! She just called and said that she was gonna be working late! She keeps lying to me! That's it! Y'know what? I'm just gonna go over there and confront them right now!",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Mr. Heckles",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

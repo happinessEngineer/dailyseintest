@@ -1,0 +1,106 @@
+{
+  "gameNumber": 62,
+  "date": "2025-03-25",
+  "questions": [
+    {
+      "quote": "Would you just please....give me the receipt 'cause this is great. It's top notch.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, I'm next. Don't! Don't start another game! I said I'm next! Phoebe!",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Happy Chanukah, Monica! May your Christmas be snowy, Joey! Happy New Year, Chandler and Ross. Spin the draddle, Rachel!",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Joey Tribbiani Sr.",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Yeah, and could you please chop some up and just put it right there in the sauce?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh! Oh! The usher must be right! What, with all that training they go through! Get out!! Here! Hey man, you want the aisle?",
+      "characters": [
+        "Earl",
+        "Rachel",
+        "Tommy",
+        "Ross"
+      ],
+      "correctAnswer": "Tommy"
+    },
+    {
+      "quote": "Yeah, in my third drawer on my dresser. You don't want to lose that.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Now another way to organise your stuffed animals, is by size.",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Roy",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "All right look, let me show you the catalog! See? Huh? It's the latest thing! Everyone's got one! Men! Women! Children! Everyone's carrying them!",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Monica",
+        "Kathy"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "It's gotta be one of a kind. Y'know like umm, y'know uh, what's that God awful ceramic fruit bowl she has on her counter?",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Right, you only go for them 5 minutes before they get married.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Doug",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

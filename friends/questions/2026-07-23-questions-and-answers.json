@@ -1,0 +1,106 @@
+{
+  "gameNumber": 547,
+  "date": "2026-07-23",
+  "questions": [
+    {
+      "quote": "This is what I've got going for the party so far, liquor wise. Get a lot of liquor.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well my guy is spectacular. Okay? He's a massage client and one time umm, when he was on the table, I looked at it. And I mean all of it.",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Janine Lecroix",
+        "Chandler"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Whoa! Whoa! Guys! Please! Come on! Come on! This is obviously just a big misunderstanding.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I was passin' by and I saw that you were playing tonight, it's kinda cool seeing you up there.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Jason",
+        "Rachel"
+      ],
+      "correctAnswer": "Jason"
+    },
+    {
+      "quote": "I mean naked game. Strip poker, we should totally play strip poker.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Jack Geller",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Joey, I just think you're getting worked up over nothing. This is probably just a crush.",
+      "characters": [
+        "Phoebe",
+        "Dr. Franzblau",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "What if Mary-Angela comes to the door and I ask for Mary-Angela?",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "She said, \"If I'm not gonna be happy getting married somewhere that we find in a day, well then we should just postpone it.\"",
+      "characters": [
+        "Emily Waltham",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Emily Waltham"
+    },
+    {
+      "quote": "Yeah. I mean y'know, we haven't been going out that long. Come on, we haven't even slept together yet. Huh.",
+      "characters": [
+        "Chandler",
+        "Eric",
+        "Joey",
+        "Jason"
+      ],
+      "correctAnswer": "Jason"
+    },
+    {
+      "quote": "Oh, thank you. I hope... I hope you know how much you mean to me.",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Emily Waltham",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

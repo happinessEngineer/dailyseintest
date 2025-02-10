@@ -1,0 +1,106 @@
+{
+  "gameNumber": 896,
+  "date": "2027-07-07",
+  "questions": [
+    {
+      "quote": "Oh! Man I don't think I've seen you since uh, Lance Davis' graduation party.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "When Mom and Dad drove you to the hospital to get your nose fixed, I swam into the lake and fished it out.",
+      "characters": [
+        "Steve",
+        "Ross",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I wouldn't worry about it. She's always coming up with stuff like this, and you know what? She's almost never right.",
+      "characters": [
+        "Monica",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Yeah if only it were a sure thing like your 24 state lottery!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Very, very funny, but don't say things like that in front of Monica. I don't want you putting any ideas in her head.",
+      "characters": [
+        "Charlie Wheeler",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ross, no! There is no way I am leaving this room looking like this!",
+      "characters": [
+        "Janice",
+        "Rachel",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh yeah! For every dollar Shutter Speed makes, one penny of it goes right in Joey's pocket.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm not very fond of New York. Queens I like. Ooh, what is this sparkle something! Honey! Huh?",
+      "characters": [
+        "Helena",
+        "Chandler",
+        "Joey",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "I know!! It's a museum! What, you're the only one around here who can make a joke! At least mine was funny. Ah, waiter, we will have two lobsters and a menu.",
+      "characters": [
+        "Rachel",
+        "Leonard Green",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Leonard Green"
+    },
+    {
+      "quote": "Yeah, I think I told it wrong. Y'know, we should talk about that because I don't totally understand what happened there.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    }
+  ]
+}

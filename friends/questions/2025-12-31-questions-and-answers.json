@@ -1,0 +1,106 @@
+{
+  "gameNumber": 343,
+  "date": "2025-12-31",
+  "questions": [
+    {
+      "quote": "So wow, it looks like you took care of everything. Thanks a lot, co-host.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Come on man! You never want to do anything since you and Janice broke up.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Ross",
+        "Janice"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year.",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.",
+      "characters": [
+        "Janice",
+        "Monica",
+        "Ross",
+        "Fake Monica"
+      ],
+      "correctAnswer": "Janice"
+    },
+    {
+      "quote": "Yeah, I had a massage client who worked there and-and he said I had a knack for stocks.",
+      "characters": [
+        "Chandler",
+        "Phoebe Abbott",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Wait a minute. Are you honestly telling me that-that you may never want to get married?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Monica",
+        "Agency Guy"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Really. Well, at least 'big girls' don't pee in their pants in seventh grade!",
+      "characters": [
+        "Monica",
+        "Kate Miller",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "But I thought that ring stood for Caprice's undying love for her brother.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "This is it. Yeah, this is the one. I can't believe I found it!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I screwed up so bad, I told Monica that I would stuff and send all these wedding invitations like weeks ago and I-I...",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

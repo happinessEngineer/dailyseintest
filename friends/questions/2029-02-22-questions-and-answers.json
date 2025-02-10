@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1492,
+  "date": "2029-02-22",
+  "questions": [
+    {
+      "quote": "I dunno, I loved high school. Y'know? It was just four years of parties and dating and sex.",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Phoebe",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Hey, hey, look! It's not about a few fries... it's about what the fries represent.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, there is no Rachel Greep, but then this other girl overheard us and she was all, \"I'm Rachel Greep! I'm Rachel Greep!\" and he let her right in.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "That sucks! That's not a trip! I just came from the park! What are we gonna high five about at the stupid Central Park? \"Well, it's right by my house, all right!\"",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey come on now, this is a real date. Uh, so...nice place you got here. Foosball, huh? Pizza box. Oh, a subscription to Playboy, my kind of woman.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Joey",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well y'know if you, if you started smoking again you could've at least told me! Come on, give me one of those! What are we talking about?",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You guys were right. He's just too excited about...everything. I mean I'm all for living life, but this is the Geller's 35th anniversary. Okay? Let's call a spade a spade this party stinks.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "It was the chair again! Okay? I'm not doing it! It what-look, I don't-y'know what-eh-eh... Hi.",
+      "characters": [
+        "Phoebe",
+        "Minister",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Is that supposed to be funny! I was really worried over here!",
+      "characters": [
+        "Chandler",
+        "Robert Bobby",
+        "Monica",
+        "Interviewer"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, if that's what you kids are calling it these days then, yes I am. I uh, I've kinda been waiting for the right person.",
+      "characters": [
+        "Susan Bunch",
+        "Ethan",
+        "Bobby Rush",
+        "Joey"
+      ],
+      "correctAnswer": "Ethan"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 358,
+  "date": "2026-01-15",
+  "questions": [
+    {
+      "quote": "I really am sorry about, you know..before. I just want to make sure you know that I really do like you.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Joey",
+        "Mr. Douglas"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah. You know? You just... Look, you gotta... You gotta think about last night the way she does, okay? Maybe, maybe sleeping together was the perfect way to say goodbye?",
+      "characters": [
+        "Joey",
+        "Monica",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The dinner will be ready in twenty minutes. This is so exciting.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Oh, I'm sure gonna miss pretending to laugh at your weird jokes that I don't get.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You ask us to find you a guy and you come traipsing in here with your own!",
+      "characters": [
+        "Phoebe",
+        "Tag Jones",
+        "Rachel",
+        "Estelle Leonard"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "No! I mean you're a really nice guy and I'm happy to be your roommate and your friend, I'm just y'know, I just don't feel that way about you.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Janine Lecroix",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Janine Lecroix"
+    },
+    {
+      "quote": "What about her? They've only been going out for two weeks. Ross has been in love with you for like 10 years.",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Emily Waltham",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah, yeah, I'm going to be out there spreading joy to the people. I mean, last year, I spread a little joy but not really enough. So this year, I'm going to do the whole city.",
+      "characters": [
+        "Richard Burke",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well what... Y'know what I'm gonna do? I'm gonna go over there; I'm gonna kick his ass! Will you help me?!",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    }
+  ]
+}

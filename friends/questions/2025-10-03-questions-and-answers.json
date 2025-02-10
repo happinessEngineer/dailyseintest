@@ -1,0 +1,106 @@
+{
+  "gameNumber": 254,
+  "date": "2025-10-03",
+  "questions": [
+    {
+      "quote": "Y'know what I think it is? I think you've made such a nice home for her over the last nine months that she just doesn't want to leave.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "I wanna go talk to Rachel for a minute, are you gonna be okay alone for a bit?",
+      "characters": [
+        "Ross",
+        "Richard Burke",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, which one? The right or left? 'Cause the left one is lucky...",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Danny"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Are you kidding me? I never rent a movie without it! Oh. Uh, okay uh let me call you back.",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Wh, Ross what do you want from me? You want me, you want me to quit my job so you can feel like you have a girlfriend?",
+      "characters": [
+        "Monica",
+        "Mr. Treeger",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "God, I woke the beast. Sorry. I was wrong obviously, I just-I misspoke. It's okay.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Sandra Green"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, right after I did that sex study down at NYU. Hey, Remember that sweater I gave you for your birthday?",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Joshua Burgin"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, hon-ey. I'm just trying to look nice for your big night.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I'm sorry. When you were in high school you made out with a 50-year-old woman?",
+      "characters": [
+        "Chandler",
+        "Joey",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Ok, Pheebs! How 'bout we'll each just pay for what we had. It's no big deal.",
+      "characters": [
+        "Phoebe",
+        "Monica",
+        "Ross",
+        "Richard Burke"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

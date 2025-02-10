@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1027,
+  "date": "2027-11-15",
+  "questions": [
+    {
+      "quote": "Okay, guys, listen, don't forget that tomorrow is the day that Emily gets married again, so whatever we do, just try to really keep Ross's mind off of it.",
+      "characters": [
+        "Monica",
+        "Jill Green",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yeah, but y'know, about have of these are gonna end up getting divorced.",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well then somebody's snoozing. Joey, not that this uh should affect you at all, but if you were to pick me, I was planning on wearing a sequined dress, cut down to here.",
+      "characters": [
+        "Joey",
+        "Janice",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Then, we had this big, stupid fight, and I said I wanted to take a break, I don't want to take a break.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Joey, y'know you get any mustard on that bag, you can't return it.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh no! My parents have never seen me drunk! That they know of.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Janice"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Yes, God forbid we throw out old underwear. You-you know what? I'm going to go over to Joey's.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Phoebe",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Wait, no, look at this! \"Two bedroom, two bath, must be non-smoker, Satan worshipers okay...\" Oh, yeah, but it's on the ground floor.",
+      "characters": [
+        "Ross",
+        "Nurse",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Then she came back with \"The question is, when are you gonna grow up and realise I have a bomb?\"",
+      "characters": [
+        "Phoebe",
+        "Rachel",
+        "Joey",
+        "Frank Buffay Jr."
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Well, it would be easier to move just right across the hall. Wait a minute, unless you're thinking about Naked Wednesday's.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    }
+  ]
+}

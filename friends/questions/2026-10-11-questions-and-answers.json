@@ -1,0 +1,106 @@
+{
+  "gameNumber": 627,
+  "date": "2026-10-11",
+  "questions": [
+    {
+      "quote": "So, uh, this guy, she used to go out with, is, uh... is he a good guy?",
+      "characters": [
+        "Rachel",
+        "Phoebe",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Okay, here's the thing. We're gonna get you some coffee and they will never know that you're drunk.",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Rachel",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Look, I don't have to answer your questions! Okay? I'm a big boy, I can do whatever I want!",
+      "characters": [
+        "Estelle Leonard",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "No, we-we're gonna be like best friends, that's why it's gonna be weird.",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Well not clients, lovers. But let's just y'know, try it again. Come back and-and we'll work through it.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Chandler",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, anyway, I got to go change, I'm ah, meeting some of the cast for drinks.",
+      "characters": [
+        "Phoebe",
+        "Joey",
+        "Chandler",
+        "Mr. Treeger"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm saying that... . This isn't working for me anymore, ok? Estelle, you're fired. Goodbye. .",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Chandler",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh my God you're amazing! Did you just pull that out of her purse?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Jack Geller",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Come on, Chandler, Ross is our friend. He needs us right now, so why don't you be a grown up and come and watch some TV in the fort!",
+      "characters": [
+        "Eddie Menuek",
+        "Chandler",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "I'm fine! And, I got you a present for letting me stay with you. Ready?",
+      "characters": [
+        "Chandler",
+        "Ross",
+        "Amy Green",
+        "Phoebe"
+      ],
+      "correctAnswer": "Amy Green"
+    }
+  ]
+}

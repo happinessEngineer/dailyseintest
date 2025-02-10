@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1017,
+  "date": "2027-11-05",
+  "questions": [
+    {
+      "quote": "Okay, you're at ten centimeters. Time to start having some babies. All right, I want only the father in here please.",
+      "characters": [
+        "Joey",
+        "Dr. Harad",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Dr. Harad"
+    },
+    {
+      "quote": "Oh, Joey, it's so great to be back here. I gotta tell you, you're making it so easy on me and Emma.",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Rachel",
+        "Joey"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "But I don't think I can! it was ok to move in when I didn't know what was gonna happen, but I can't move in knowing that nothing is ever gonna happen.",
+      "characters": [
+        "Phoebe",
+        "Woman",
+        "Chandler",
+        "Ross"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "you know I really admire your whole dating attitude, it's so healthy I'm always like is this moving to fast? Is this moving to slow? Where's this going?",
+      "characters": [
+        "Rachel",
+        "Helena",
+        "Ross",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "We're trying to get pregnant. Y'know I'm not really comfortable doing this in front of the babies. So, when do you want to start trying?",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "This is Rachel. I mean, what are you gonna do, never going to talk to her again? I mean I know it's weird, it's awkward, but you gotta at least try.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "No, I know, I know, that this is Frank's life, y'know. Y'know, I don't want to be all judgmental, y'know, but this is sick, it's sick and wrong!",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Well, I'm gonna fill in for him as food critic for the Chelsea Reporter.",
+      "characters": [
+        "Janine Lecroix",
+        "Chandler",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm sorry. Are you ok with that? Cause if not...maybe us moving in together isn't the best idea.",
+      "characters": [
+        "Mike Hannigan",
+        "Frank Buffay Jr.",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Mike Hannigan"
+    },
+    {
+      "quote": "You know what? I'm gonna finish this later, ok? Let me just grab my coat.",
+      "characters": [
+        "Ross",
+        "Chandler",
+        "Monica",
+        "Michelle"
+      ],
+      "correctAnswer": "Ross"
+    }
+  ]
+}

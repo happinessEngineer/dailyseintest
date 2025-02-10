@@ -1,0 +1,106 @@
+{
+  "gameNumber": 890,
+  "date": "2027-07-01",
+  "questions": [
+    {
+      "quote": "Saw the Porsche out there Mon, lookin' good. When do I get to take that baby out again?",
+      "characters": [
+        "Joey",
+        "Ross",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "The days and nights are hard! I get it! Okay? Look umm, Rachel I'm sorry! I have to start getting ready! I'm getting married today!",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Ohh, he's married! Ross is married. I can't-I still can't believe it.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Oh, then no thanks. What the hell was that? Mental note: If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Rachel",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Well, the movie got shutdown because they ran out of money, so I'm working here 'til it starts up again, if it ever does.",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Joey",
+        "The Woman"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Huh? Can you just imagine getting down on one knee and handing her this gorgeous piece of weaponry?",
+      "characters": [
+        "Phoebe",
+        "Mark Robinson",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Same kind of thing happened to me! Woman pizza delivery guy come over, gives me the pizza, takes the money, and leaves!",
+      "characters": [
+        "Ross",
+        "Rachel",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "That's an idea! Hey, if I hired an assistant, would-would you take money from her?",
+      "characters": [
+        "Mona",
+        "Ross",
+        "Phoebe",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Yeah! If you don't I will! Of course your body's gonna change. Your breasts are gonna get bigger, your ass is gonna get bigger, you're gonna lose bladder control. God! It's just such a magical time!",
+      "characters": [
+        "Rachel",
+        "Joshua Burgin",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "You work and you work and you work at a marriage but all he cares about is his stupid boat.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Sandra Green",
+        "Barry Farber"
+      ],
+      "correctAnswer": "Sandra Green"
+    }
+  ]
+}

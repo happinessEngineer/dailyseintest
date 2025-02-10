@@ -1,0 +1,106 @@
+{
+  "gameNumber": 987,
+  "date": "2027-10-06",
+  "questions": [
+    {
+      "quote": "Oh, no! I would never do that. No. I just was thinking that, you know, maybe you could take one.",
+      "characters": [
+        "Rachel",
+        "Chandler",
+        "Frank Buffay Jr.",
+        "Ross"
+      ],
+      "correctAnswer": "Frank Buffay Jr."
+    },
+    {
+      "quote": "Joe, your dad's in love big time. And the worst part of it is, it's with two different women.",
+      "characters": [
+        "Joey Tribbiani Sr.",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Joey Tribbiani Sr."
+    },
+    {
+      "quote": "And to love. Ah, love. L-O-V-E, love. L is for life. And what is life without love?",
+      "characters": [
+        "Ross",
+        "Monica",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "You hear a key in the hole and you jump like a young bronco coming out of a chute for the first time. I used to be arodeo clown.",
+      "characters": [
+        "Rachel",
+        "Charlie Wheeler",
+        "Chandler",
+        "Gavin Mitchell"
+      ],
+      "correctAnswer": "Gavin Mitchell"
+    },
+    {
+      "quote": "Okay, now that is the third time someone has said something like that to me today.",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Okay, fine. Come dinosaur, we're not welcome in the house of no imagination.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Cop",
+        "Phoebe"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey-hey-hey, I think we might find out the answer to our question.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "No, he didn't! He pretended to be a Quaker to get out of Korea.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Rachel",
+        "Ross"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well you kids talk about this place so much, we thought we'd see what all the fuss is about.",
+      "characters": [
+        "Joey",
+        "Jack Geller",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "Noo!! I've had the best day ever! Dude, check this out! Now, I'm gonna fastforward past the part with you, 'cause it is boring.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1037,
+  "date": "2027-11-25",
+  "questions": [
+    {
+      "quote": "And she's... turning on the TV... and watching... Miss Congeniality!",
+      "characters": [
+        "Gary",
+        "Ross",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Okay, but there is a big difference. You are a lot hotter than I am.",
+      "characters": [
+        "Chandler",
+        "Benjamin Hobart",
+        "Phoebe",
+        "Interviewer"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Amber, I want you to know that I'll always be there for you, as a friend and as your brother.",
+      "characters": [
+        "Rachel",
+        "Monica",
+        "Chandler",
+        "Dr. Drake Ramoray"
+      ],
+      "correctAnswer": "Dr. Drake Ramoray"
+    },
+    {
+      "quote": "Y'know, you look nothing like I would've thought. You're...you're so young.",
+      "characters": [
+        "Woman",
+        "Ross",
+        "Don",
+        "Joey"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Oh, I asked one of the waitresses at work if she'd help me out.",
+      "characters": [
+        "Ross",
+        "The Interviewer",
+        "Rachel",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know, I know. So sweet... and so complicated. And for a shrink, he's not too shrinky, y'know?",
+      "characters": [
+        "Phoebe",
+        "Chandler",
+        "Monica",
+        "Rachel"
+      ],
+      "correctAnswer": "Phoebe"
+    },
+    {
+      "quote": "Hey listen, for the first four years of my work everybody called me Sha-la-lap. Seriously.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Elizabeth Stevens",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Why yes Ross, pressing my third nipple opens the delivery entrance to the magical land of Narnia.",
+      "characters": [
+        "Chandler",
+        "Megan Bailey",
+        "Monica",
+        "Joey"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "I'm making a list of all the things that are most likely to go wrong at the wedding. Now, that way I can be prepared.",
+      "characters": [
+        "Monica",
+        "Chandler",
+        "Precious",
+        "David"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I know, but y'know, this time you're gonna definitely know whether or not you did it!",
+      "characters": [
+        "Monica",
+        "Joey",
+        "Chandler",
+        "Phoebe"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

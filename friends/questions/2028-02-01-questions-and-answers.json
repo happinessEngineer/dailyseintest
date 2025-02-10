@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1105,
+  "date": "2028-02-01",
+  "questions": [
+    {
+      "quote": "Well, the good news is, I don't think anyone's looking at us.",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Monica",
+        "Chandler"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Wait a minute! You let Ross drive the Porsche and when I ask you, you say you're the only one who's allowed to drive it.",
+      "characters": [
+        "Rachel",
+        "Ross",
+        "Joey",
+        "Chandler"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I also, did a little something in fur. But umm, that's really just for me. Okay. So, why don't you go into your room and try these on and we'll see-get a better idea of what's gonna work.",
+      "characters": [
+        "Joey",
+        "Phoebe",
+        "Ross",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "What?! Come on I am tough! Punch me right here! As hard as you can!",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "They're in the kitchen getting something to eat. Can you believe how nice they are?",
+      "characters": [
+        "Phoebe",
+        "Ross",
+        "Benjamin Hobart",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Well, I can't believe I've been here almost seven seconds and you haven't asked me how my date went.",
+      "characters": [
+        "Chandler",
+        "Phoebe",
+        "Rachel",
+        "Interviewer"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "You know what's weird. Donald Duck never wore pants. But whenever he's getting out of the shower, he always put a towel around his waist. I mean, what is that about?",
+      "characters": [
+        "Ross",
+        "Phoebe",
+        "Dr. Long",
+        "Chandler"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Oh, this is such a cute picture of Emma. And is this your son... or just some kid whose picture you bring on vacation?",
+      "characters": [
+        "Joey",
+        "Rachel",
+        "Chandler",
+        "Charlie Wheeler"
+      ],
+      "correctAnswer": "Charlie Wheeler"
+    },
+    {
+      "quote": "Uhm... no. Although I did have an uncle who voted for Dukakis.",
+      "characters": [
+        "Zack",
+        "Rachel",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Zack"
+    },
+    {
+      "quote": "Okay, now that everything's wrapped up here, I think I'm, I'm gonna go do my laundry.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Monica"
+    }
+  ]
+}

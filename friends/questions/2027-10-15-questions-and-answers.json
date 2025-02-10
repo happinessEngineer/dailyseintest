@@ -1,0 +1,106 @@
+{
+  "gameNumber": 996,
+  "date": "2027-10-15",
+  "questions": [
+    {
+      "quote": "Well, I'd gotten Judy pregnant. I still don't know that happened.",
+      "characters": [
+        "Jack Geller",
+        "Joey",
+        "Monica",
+        "Phoebe"
+      ],
+      "correctAnswer": "Jack Geller"
+    },
+    {
+      "quote": "They don't really talk to us about that kind of stuff. I can get you some free white out though.",
+      "characters": [
+        "Chandler",
+        "Rachel",
+        "Joey",
+        "Phoebe"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "No! It's not okay! It's not okay at all!! You're dead inside!!",
+      "characters": [
+        "Ross",
+        "Joey",
+        "Phoebe",
+        "Monica"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Y'know what? I think that's enough for now. Yeah. I don't want to be over rehearsed.",
+      "characters": [
+        "Phoebe",
+        "Leonard Green",
+        "Ross",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "...Hey! You're in a play! I didn't know you could dance! You had a beard!",
+      "characters": [
+        "Monica",
+        "Rachel",
+        "Chandler",
+        "#ALL#"
+      ],
+      "correctAnswer": "#ALL#"
+    },
+    {
+      "quote": "You know, Ross, some scientists are now saying that, that monkeys and babies are actually different.",
+      "characters": [
+        "Chandler",
+        "Monica",
+        "Joey",
+        "Rachel"
+      ],
+      "correctAnswer": "Chandler"
+    },
+    {
+      "quote": "Come on C.H.E.E.S.E., I'm not leaving without you! Try routing your backup source through your primary CPU.",
+      "characters": [
+        "Joey",
+        "Chandler",
+        "Monica",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "What?! How could you do that, how could you think she was Mary-Angela?",
+      "characters": [
+        "Monica",
+        "Fake Monica",
+        "Chandler",
+        "Joey"
+      ],
+      "correctAnswer": "Joey"
+    },
+    {
+      "quote": "Oh God, thank you! Umm, uh, Mr. Stevens I'd like you to meet my friends uh, this is Phoebe, Monica, and Chandler.",
+      "characters": [
+        "Rachel",
+        "Joey",
+        "Ross",
+        "Chandler"
+      ],
+      "correctAnswer": "Ross"
+    },
+    {
+      "quote": "Oh I like this place. And technically, technically I'm not breaking any rules so I...",
+      "characters": [
+        "Monica",
+        "Estelle Leonard",
+        "Joey",
+        "Ross"
+      ],
+      "correctAnswer": "Joey"
+    }
+  ]
+}
